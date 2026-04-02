@@ -1,0 +1,472 @@
+[
+  {
+    "lesson_id": "L1-001",
+    "title": {
+      "arabic": "الدرس ١: هَذَا اللَّهُ",
+      "english": "Lesson 1: This is Allah (Introducing Hādhā)",
+      "myanmar": "သင်ခန်းစာ ၁ - ဤအရှင်သည် အလ္လာဟ်အရှင်မြတ်ဖြစ်တော်မူ၏ (Hādhā ကိုမိတ်ဆက်ခြင်း)"
+    },
+    "section_1_vocab_drill": [
+      {
+        "word": "اللَّهُ",
+        "translit": "Allāh",
+        "meaning": { "en": "Allah (The One God)", "my": "အလ္လာဟ်အရှင်မြတ်" },
+        "root": { "arabic": "إ ل ه", "en_meaning": "To worship", "my_meaning": "ခစားကိုးကွယ်ရာ" },
+        "derivation": { "members": [ { "ar": "إِلَٰه", "en": "god/deity", "my": "ကိုးကွယ်ရာအရှင်" } ] },
+        "example": { "arabic": "هَذَا اللَّهُ", "en": "This is Allah", "my": "ဤအရှင်သည် အလ္လာဟ်အရှင်မြတ်ဖြစ်တော်မူ၏" }
+      },
+      {
+        "word": "رَبّ",
+        "translit": "Rabb",
+        "meaning": { "en": "Lord/Sustainer", "my": "ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်" },
+        "root": { "arabic": "ر ب ب", "en_meaning": "To foster, bring up", "my_meaning": "ပြုစုပျိုးထောင်ခြင်း" },
+        "derivation": { "members": [ { "ar": "رَبَّانِيّ", "en": "divine/godly", "my": "မြင့်မြတ်သောသူ" } ] },
+        "example": { "arabic": "رَبُّ السَّمَاوَاتِ", "en": "Lord of the heavens", "my": "မိုးကောင်းကင်များ၏ အရှင်" }
+      },
+      {
+        "word": "حَقّ",
+        "translit": "Ḥaqq",
+        "meaning": { "en": "Truth/Right", "my": "အမှန်တရား" },
+        "root": { "arabic": "ح ق ق", "en_meaning": "To be true, established", "my_meaning": "အမှန်ဖြစ်ခြင်း" },
+        "derivation": { "members": [ { "ar": "حَقِيقَة", "en": "reality", "my": "အစစ်အမှန်" } ] },
+        "example": { "arabic": "الْحَقُّ مِن رَّبِّكَ", "en": "The truth is from your Lord", "my": "အမှန်တရားသည် အသင့်အရှင်ထံမှဖြစ်သည်" }
+      },
+      {
+        "word": "رَسُول",
+        "translit": "Rasūl",
+        "meaning": { "en": "Messenger", "my": "စေတမန်တော်" },
+        "root": { "arabic": "ر س ل", "en_meaning": "To send a message", "my_meaning": "စေလွှတ်ခြင်း" },
+        "derivation": { "members": [ { "ar": "رِسَالَة", "en": "message", "my": "သဝဏ်လွှာ" } ] },
+        "example": { "arabic": "مُّحَمَّدٌ رَّسُولُ اللَّهِ", "en": "Muhammad is the Messenger of Allah", "my": "မုဟမ္မဒ်သည် အလ္လာဟ်အရှင်မြတ်၏ စေတမန်တော်ဖြစ်သည်" }
+      },
+      {
+        "word": "كِتَاب",
+        "translit": "Kitāb",
+        "meaning": { "en": "Book", "my": "ကျမ်းစာ" },
+        "root": { "arabic": "ك ت ب", "en_meaning": "To write/prescribe", "my_meaning": "ရေးသားခြင်း" },
+        "derivation": { "members": [ { "ar": "مَكْتُوب", "en": "written", "my": "ရေးသားထားပြီးဖြစ်သော" } ] },
+        "example": { "arabic": "ذَٰلِكَ الْكِتَابُ", "en": "That is the Book", "my": "ထိုကျမ်းမြတ်သည်" }
+      }
+    ],
+    "section_2_grammar_focus": {
+      "concept": { "en": "Nominal Sentence (Mubtada & Khabar)", "my": "အမည်ပုဒ်အခြေခံဝါကျ (Mubtada နှင့် Khabar)" },
+      "explanation": {
+        "en": "A Nominal Sentence (Jumla Ismiyya) starts with a noun. It consists of a Subject (Mubtada) and a Predicate (Khabar). Hādhā (هَذَا) is a demonstrative pronoun meaning 'This' (masculine). In its simplest form, the Mubtada is definite and the Khabar is indefinite/nominative.",
+        "my": "အမည်ပုဒ်အခြေခံဝါကျ (Jumla Ismiyya) သည် နာမ်တစ်ခုနှင့် စတင်သည်။ ၎င်းတွင် ကတ္တား (Mubtada) နှင့် အနက်ဖွင့်ပုဒ် (Khabar) ပါဝင်သည်။ Hādhā (هَذَا) သည် အနီးညွှန်းနာမ်စားဖြစ်ပြီး 'ဤအရာ/ဤသူ' (အဖို) ဟု အဓိပ္ပာယ်ရသည်။"
+      },
+      "examples": [
+        { "arabic": "هَذَا كِتَابٌ", "en": "This is a book", "my": "ဤသည်မှာ ကျမ်းစာတစ်စောင်ဖြစ်သည်" },
+        { "arabic": "هَذَا رَسُولٌ", "en": "This is a messenger", "my": "ဤသူသည် စေတမန်တော်တစ်ပါးဖြစ်သည်" }
+      ],
+      "exercises": [
+        {
+          "question": { "arabic": "هَذَا حَقٌّ", "english": "Translate into English", "myanmar": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ" },
+          "answer": { "arabic": "هَذَا حَقٌّ", "english": "This is truth", "myanmar": "ဤသည်မှာ အမှန်တရားဖြစ်သည်" }
+        }
+      ]
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-An'am 6:102",
+        "arabic_full": "ذَٰلِكُمُ اللَّهُ رَبُّكُمْ ۖ",
+        "english_full": "That is Allah, your Lord",
+        "myanmar_full": "ထိုအရှင်မြတ်သည် သင်တို့၏အရှင် အလ္လာဟ်အရှင်မြတ်ဖြစ်တော်မူ၏",
+        "word_by_word": [
+          { "ar": "ذَٰلِكُمُ", "tr": "dhālikumu", "en": "That (is)", "my": "ထိုအရှင်သည်", "note": "DEM;MS" },
+          { "ar": "اللَّهُ", "tr": "al-lahu", "en": "Allah", "my": "အလ္လာဟ်အရှင်မြတ်", "note": "PN;NOM" },
+          { "ar": "رَبُّكُمْ", "tr": "rabbukum", "en": "your Lord", "my": "သင်တို့၏အရှင်", "note": "N;NOM;PRON" }
+        ],
+        "root_depth": [
+          {
+            "ar": "إ ل ه",
+            "en": "Refers to the unique deity who is worshipped and loved.",
+            "my": "ခစားကိုးကွယ်ထိုက်သော၊ ချစ်ခင်မြတ်နိုးအပ်သော တစ်ဆူတည်းသောအရှင်ကို ရည်ညွှန်းသည်။",
+            "members": [ { "ar": "مَأْلُوه", "en": "The Worshipped", "my": "ကိုးကွယ်ခြင်းခံရသောအရှင်" } ]
+          }
+        ],
+        "pattern_in_action": {
+          "en": "The sentence structure uses a demonstrative pronoun as the Subject (Mubtada) followed by the Name of Majesty (Allah) as the Predicate (Khabar), establishing immediate identity.",
+          "my": "ဤဝါကျတည်ဆောက်ပုံတွင် အညွှန်းနာမ်စားကို ကတ္တား (Mubtada) အဖြစ်သုံးပြီး 'အလ္လာဟ်' ဟူသောအမည်နာမတော်ကို အနက်ဖွင့်ပုဒ် (Khabar) အဖြစ်သုံးကာ မည်သူမည်ဝါဖြစ်ကြောင်း တိုက်ရိုက်ဖော်ပြထားသည်။"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1-002",
+    "title": {
+      "arabic": "الدرس ٢: هَذَا رَسُولٌ",
+      "english": "Lesson 2: This is a Messenger (Masculine Khabar)",
+      "myanmar": "သင်ခန်းစာ ၂ - ဤသူသည် စေတမန်တော်တစ်ပါးဖြစ်သည် (အဖိုလိင် အနက်ဖွင့်ပုဒ်)"
+    },
+    "section_1_vocab_drill": [
+      {
+        "word": "نَبِيّ",
+        "translit": "Nabiyy",
+        "meaning": { "en": "Prophet", "my": "နဗီတမန်တော်" },
+        "root": { "arabic": "ن ب أ", "en_meaning": "To give news", "my_meaning": "သတင်းပေးခြင်း" },
+        "derivation": { "members": [ { "ar": "نَبَأ", "en": "news/tidings", "my": "သတင်း" } ] },
+        "example": { "arabic": "النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ", "en": "The Prophet is closer to the believers", "my": "နဗီတမန်တော်သည် မုအ်မင်န်တို့နှင့် ပို၍နီးစပ်၏" }
+      },
+      {
+        "word": "رَجُل",
+        "translit": "Rajul",
+        "meaning": { "en": "Man", "my": "ယောကျ်ား" },
+        "root": { "arabic": "ر ج ل", "en_meaning": "To walk/foot", "my_meaning": "ခြေလှမ်းခြင်း" },
+        "derivation": { "members": [ { "ar": "أَرْجُل", "en": "feet", "my": "ခြေထောက်များ" } ] },
+        "example": { "arabic": "جَاءَ رَجُلٌ", "en": "A man came", "my": "ယောကျ်ားတစ်ယောက် လာခဲ့သည်" }
+      },
+      {
+        "word": "عَبْد",
+        "translit": "'Abd",
+        "meaning": { "en": "Servant/Slave", "my": "ကျွန်/အစေခံ" },
+        "root": { "arabic": "ع ب د", "en_meaning": "To serve/worship", "my_meaning": "ခစားခြင်း" },
+        "derivation": { "members": [ { "ar": "عِبَادَة", "en": "worship", "my": "ခစားကိုးကွယ်မှု" } ] },
+        "example": { "arabic": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ", "en": "Exalted is He who took His servant", "my": "မိမိ၏ကျွန်အား ခရီးသွားစေတော်မူသောအရှင်သည် သန့်ရှင်းစင်ကြယ်တော်မူ၏" }
+      },
+      {
+        "word": "مُؤْمِن",
+        "translit": "Mu'min",
+        "meaning": { "en": "Believer", "my": "ယုံကြည်သူ" },
+        "root": { "arabic": "أ م ن", "en_meaning": "Safety/Faith", "my_meaning": "လုံခြုံစိတ်ချမှု/သက်ဝင်ယုံကြည်မှု" },
+        "derivation": { "members": [ { "ar": "إِيمَان", "en": "faith", "my": "အီမာန်သက်ဝင်ယုံကြည်မှု" } ] },
+        "example": { "arabic": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ", "en": "The believers are but brothers", "my": "မုအ်မင်န်တို့သည် ညီအစ်ကိုများသာ ဖြစ်ကြသည်" }
+      },
+      {
+        "word": "بَشَر",
+        "translit": "Bashar",
+        "meaning": { "en": "Human/Mankind", "my": "လူသား" },
+        "root": { "arabic": "ب ش ر", "en_meaning": "Skin/Outer surface/Joy", "my_meaning": "အရေပြား/အပေါ်ယံလွှာ/ဝမ်းမြောက်ခြင်း" },
+        "derivation": { "members": [ { "ar": "بُشْرَىٰ", "en": "glad tidings", "my": "သတင်းကောင်း" } ] },
+        "example": { "arabic": "أَنَا بَشَرٌ مِّثْلُكُمْ", "en": "I am a human like you", "my": "ကျွန်ုပ်သည် သင်တို့ကဲ့သို့ပင် လူသားတစ်ဦးဖြစ်သည်" }
+      }
+    ],
+    "section_2_grammar_focus": {
+      "concept": { "en": "Indefinite Khabar (Tanween)", "my": "အသီးအခြားမဟုတ်သော အနက်ဖွင့်ပုဒ် (Tanween)" },
+      "explanation": {
+        "en": "In a basic nominal sentence, if the Khabar (predicate) does not have 'Al' (ال), it usually takes Tanween (double vowels) at the end, indicating an indefinite noun (e.g., 'a' messenger). This Tanween must match the case of the Mubtada, which is Nominative (Marfu').",
+        "my": "အခြေခံအမည်ပုဒ်ဝါကျတွင် အနက်ဖွင့်ပုဒ် (Khabar) သည် 'Al' (ال) မပါရှိပါက ပုံမှန်အားဖြင့် အဆုံးတွင် Tanween (နှစ်ဆင့်ဗျည်း) ပါရှိပြီး 'တစ်ဦး/တစ်ခု' ဟူသော အနက်ကိုဆောင်သည်။"
+      },
+      "examples": [
+        { "arabic": "هَذَا نَبِيٌّ", "en": "This is a prophet", "my": "ဤသူသည် နဗီတမန်တော်တစ်ပါးဖြစ်သည်" },
+        { "arabic": "هَذَا عَبْدٌ", "en": "This is a servant", "my": "ဤသူသည် ကျွန်တစ်ဦးဖြစ်သည်" }
+      ],
+      "exercises": [
+        {
+          "question": { "arabic": "هَذَا بَشَرٌ", "english": "Translate into English", "myanmar": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ" },
+          "answer": { "arabic": "هَذَا بَشَرٌ", "english": "This is a human", "myanmar": "ဤသူသည် လူသားတစ်ဦးဖြစ်သည်" }
+        }
+      ]
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Yusuf 12:31",
+        "arabic_full": "مَا هَٰذَا بَشَرًا إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ",
+        "english_full": "This is not a man; this is none but a noble angel",
+        "myanmar_full": "ဤသူသည် လူသားမဟုတ်ချေ၊ ဤသူသည် မြင့်မြတ်သော ကောင်းကင်တမန် (မလာအိကဟ်) သာလျှင်ဖြစ်သည်",
+        "word_by_word": [
+          { "ar": "مَا", "tr": "mā", "en": "Not", "my": "မဟုတ်", "note": "NEG" },
+          { "ar": "هَٰذَا", "tr": "hādhā", "en": "this", "my": "ဤသူ", "note": "DEM;MS" },
+          { "ar": "بَشَرًا", "tr": "basharan", "en": "a human", "my": "လူသားတစ်ဦး", "note": "N;ACC;MS" },
+          { "ar": "مَلَكٌ", "tr": "malakun", "en": "an angel", "my": "ကောင်းကင်တမန်တစ်ပါး", "note": "N;NOM;MS" }
+        ],
+        "root_depth": [
+          {
+            "ar": "ب ش ر",
+            "en": "Primarily refers to the skin; used for humans because their skin is visible compared to animals with fur.",
+            "my": "အဓိကအားဖြင့် အရေပြားကို ရည်ညွှန်းသည်။ တိရစ္ဆာန်များနှင့်မတူဘဲ အရေပြားပေါ်လွင်သောကြောင့် လူသားများကို ဤသို့ခေါ်ဆိုခြင်းဖြစ်သည်။",
+            "members": [ { "ar": "بَشَرَة", "en": "epidermis/skin", "my": "အရေပြား" } ]
+          }
+        ],
+        "pattern_in_action": {
+          "en": "The use of 'in...illa' (إِنْ... إِلَّا) creates a strong restriction (hasr), meaning 'nothing but'. It emphasizes the high quality of the subject.",
+          "my": "'in...illa' (إِنْ... إِلَّا) ကိုအသုံးပြုခြင်းဖြင့် 'မှတစ်ပါးအခြားမဟုတ်' ဟူသော အနက်ကိုဖော်ဆောင်ပြီး အကြောင်းအရာကို အလေးအနက်ပြုထားသည်။"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1-003",
+    "title": {
+      "arabic": "الدرس ٣: هَذِهِ آيَةٌ",
+      "english": "Lesson 3: This is a Sign (Introducing Feminine Hādhihi)",
+      "myanmar": "သင်ခန်းစာ ၃ - ဤသည်မှာ သက်သေလက္ခဏာတစ်ခုဖြစ်သည် (အမလိင် Hādhihi ကိုမိတ်ဆက်ခြင်း)"
+    },
+    "section_1_vocab_drill": [
+      {
+        "word": "آيَة",
+        "translit": "Āyah",
+        "meaning": { "en": "Verse/Sign", "my": "သက်သေလက္ခဏာ/အာယသ်တော်" },
+        "root": { "arabic": "أ ي ي", "en_meaning": "To betake oneself/Sign", "my_meaning": "လက္ခဏာအမှတ်အသား" },
+        "derivation": { "members": [ { "ar": "آيَات", "en": "signs/verses", "my": "သက်သေလက္ခဏာများ" } ] },
+        "example": { "arabic": "هَذِهِ آيَةُ اللَّهِ", "en": "This is the sign of Allah", "my": "ဤသည်မှာ အလ္လာဟ်အရှင်မြတ်၏ သက်သေလက္ခဏာဖြစ်သည်" }
+      },
+      {
+        "word": "بَيِّنَة",
+        "translit": "Bayyinah",
+        "meaning": { "en": "Clear Proof", "my": "ထင်ရှားသော သက်သေသာဓက" },
+        "root": { "arabic": "ب ي ن", "en_meaning": "To be clear/distinct", "my_meaning": "ထင်ရှားကွဲပြားခြင်း" },
+        "derivation": { "members": [ { "ar": "مُبِين", "en": "clear/manifest", "my": "ထင်ရှားသော" } ] },
+        "example": { "arabic": "جَاءَتْهُمُ الْبَيِّنَةُ", "en": "The clear proof came to them", "my": "၎င်းတို့ထံ ထင်ရှားသော သက်သေသာဓက ရောက်ရှိလာခဲ့သည်" }
+      },
+      {
+        "word": "رَحْمَة",
+        "translit": "Raḥmah",
+        "meaning": { "en": "Mercy", "my": "ကရုဏာတော်" },
+        "root": { "arabic": "ر ح م", "en_meaning": "To have mercy/womb", "my_meaning": "သနားကြင်နာခြင်း" },
+        "derivation": { "members": [ { "ar": "رَحِيم", "en": "merciful", "my": "ကရုဏာရှင်" } ] },
+        "example": { "arabic": "رَحْمَةُ اللَّهِ قَرِيبٌ", "en": "The mercy of Allah is near", "my": "အလ္လာဟ်အရှင်မြတ်၏ ကရုဏာတော်သည် နီးကပ်စွာရှိ၏" }
+      },
+      {
+        "word": "نِعْمَة",
+        "translit": "Ni'mah",
+        "meaning": { "en": "Blessing/Favor", "my": "ကျေးဇူးတော်/အာဟာရ" },
+        "root": { "arabic": "ن ع م", "en_meaning": "To be ease/comfort", "my_meaning": "သာယာချမ်းမြေ့ခြင်း" },
+        "derivation": { "members": [ { "ar": "نَعِيم", "en": "bliss", "my": "သုခ" } ] },
+        "example": { "arabic": "اذْكُرُوا نِعْمَةَ اللَّهِ", "en": "Remember the favor of Allah", "my": "အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်ကို အောက်မေ့သတိရကြလော့" }
+      },
+      {
+        "word": "حِكْمَة",
+        "translit": "Ḥikmah",
+        "meaning": { "en": "Wisdom", "my": "ပညာအမြော်အမြင်" },
+        "root": { "arabic": "ح ك م", "en_meaning": "To judge/restrain", "my_meaning": "စီရင်ဆုံးဖြတ်ခြင်း" },
+        "derivation": { "members": [ { "ar": "حَاكِم", "en": "judge", "my": "တရားသူကြီး" } ] },
+        "example": { "arabic": "يُؤْتِي الْحِكْمَةَ مَن يَشَاءُ", "en": "He gives wisdom to whom He wills", "my": "အရှင်သည် မိမိအလိုရှိတော်မူသောသူအား ပညာအမြော်အမြင်ကို ပေးသနားတော်မူ၏" }
+      }
+    ],
+    "section_2_grammar_focus": {
+      "concept": { "en": "Feminine Subject (Hādhihi)", "my": "အမလိင် ကတ္တား (Hādhihi)" },
+      "explanation": {
+        "en": "Arabic nouns are either masculine or feminine. Feminine nouns often end with Ta Marbuta (ة). When the Khabar (predicate) is feminine, the demonstrative pronoun must also be feminine: Hādhihi (هَذِهِ).",
+        "my": "အာရဗီနာမ်များတွင် အဖိုလိင်နှင့် အမလိင်ရှိသည်။ အမလိင်နာမ်များသည် အများအားဖြင့် Ta Marbuta (ة) နှင့် အဆုံးသတ်တတ်သည်။ အနက်ဖွင့်ပုဒ် (Khabar) သည် အမလိင်ဖြစ်ပါက အညွှန်းနာမ်စားသည်လည်း အမလိင် Hādhihi (هَذِهِ) ဖြစ်ရမည်။"
+      },
+      "examples": [
+        { "arabic": "هَذِهِ رَحْمَةٌ", "en": "This is a mercy", "my": "ဤသည်မှာ ကရုဏာတော်တစ်ရပ်ဖြစ်သည်" },
+        { "arabic": "هَذِهِ نِعْمَةٌ", "en": "This is a blessing", "my": "ဤသည်မှာ ကျေးဇူးတော်တစ်ခုဖြစ်သည်" }
+      ],
+      "exercises": [
+        {
+          "question": { "arabic": "هَذِهِ بَيِّنَةٌ", "english": "Translate into English", "myanmar": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ" },
+          "answer": { "arabic": "هَذِهِ بَيِّنَةٌ", "english": "This is a clear proof", "myanmar": "ဤသည်မှာ ထင်ရှားသော သက်သေသာဓကတစ်ခုဖြစ်သည်" }
+        }
+      ]
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Hud 11:64",
+        "arabic_full": "وَيَا قَوْمِ هَٰذِهِ نَاقَةُ اللَّهِ لَكُمْ آيَةً ۖ",
+        "english_full": "And O my people, this is the she-camel of Allah - [she is] to you a sign",
+        "myanmar_full": "အို-ကျွန်ုပ်၏လူမျိုးအပေါင်းတို့၊ ဤသည်မှာ သင်တို့အဖို့ သက်သေလက္ခဏာတစ်ရပ်အဖြစ် အလ္လာဟ်အရှင်မြတ်၏ ကုလားအုတ်မဖြစ်သည်",
+        "word_by_word": [
+          { "ar": "هَٰذِهِ", "tr": "hādhihi", "en": "this", "my": "ဤသည်", "note": "DEM;FS" },
+          { "ar": "نَاقَةُ", "tr": "nāqatu", "en": "she-camel", "my": "ကုလားအုတ်မ", "note": "N;NOM;FS" },
+          { "ar": "اللَّهِ", "tr": "al-lahi", "en": "of Allah", "my": "အလ္လာဟ်အရှင်မြတ်၏", "note": "PN;GEN" },
+          { "ar": "آيَةً", "tr": "āyatan", "en": "a sign", "my": "သက်သေလက္ခဏာ", "note": "N;ACC;FS" }
+        ],
+        "root_depth": [
+          {
+            "ar": "أ ي ي",
+            "en": "A sign that points to something else; used for Quranic verses because they point to divine truth.",
+            "my": "အခြားအရာတစ်ခုကို ညွှန်ပြသော အမှတ်အသား။ ကုရ်အာန်အာယသ်တော်များသည် အရှင်မြတ်၏အမှန်တရားကို ညွှန်ပြသောကြောင့် ဤသို့ခေါ်ဆိုသည်။",
+            "members": [ { "ar": "آي", "en": "signs", "my": "သက်သေလက္ခဏာများ" } ]
+          }
+        ],
+        "pattern_in_action": {
+          "en": "The feminine Hādhihi matches the feminine noun 'Nāqah' (she-camel). Gender agreement is mandatory in nominal sentences.",
+          "my": "အမလိင် Hādhihi သည် အမလိင်နာမ် 'Nāqah' နှင့် ကိုက်ညီမှုရှိရမည်။ အမည်ပုဒ်ဝါကျများတွင် လိင်တူညီမှုရှိရန် လိုအပ်သည်။"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1-004",
+    "title": {
+      "arabic": "الدرس ٤: جَنَّةٌ وَنَارٌ",
+      "english": "Lesson 4: Gender Pairs (Masculine vs Feminine Nouns)",
+      "myanmar": "သင်ခန်းစာ ၄ - လိင်တူလိင်ကွဲ အစုံများ (အဖိုနှင့် အမနာမ်များ)"
+    },
+    "section_1_vocab_drill": [
+      {
+        "word": "جَنَّة",
+        "translit": "Jannah",
+        "meaning": { "en": "Paradise/Garden", "my": "သုခဘုံ/ဥယျာဉ်" },
+        "root": { "arabic": "ج ن ن", "en_meaning": "To hide/cover", "my_meaning": "ဖုံးကွယ်ခြင်း" },
+        "derivation": { "members": [ { "ar": "جِنّ", "en": "Jinn (hidden beings)", "my": "ဂျင်န် (မမြင်အပ်သောသတ္တဝါ)" } ] },
+        "example": { "arabic": "تِلْكَ الْجَنَّةُ", "en": "That is Paradise", "my": "ထိုသည်မှာ သုခဘုံဖြစ်သည်" }
+      },
+      {
+        "word": "نَار",
+        "translit": "Nār",
+        "meaning": { "en": "Fire (Hell)", "my": "ငရဲမီး" },
+        "root": { "arabic": "ن و ر", "en_meaning": "Light/Fire", "my_meaning": "အလင်း/မီး" },
+        "derivation": { "members": [ { "ar": "نُور", "en": "light", "my": "အလင်းရောင်" } ] },
+        "example": { "arabic": "قِهِمْ عَذَابَ النَّارِ", "en": "Protect them from the punishment of Fire", "my": "၎င်းတို့အား ငရဲမီး၏ အပြစ်ဒဏ်မှ ကာကွယ်စောင့်ရှောက်တော်မူပါ" }
+      },
+      {
+        "word": "سَمَاء",
+        "translit": "Samā'",
+        "meaning": { "en": "Sky/Heaven", "my": "မိုးကောင်းကင်" },
+        "root": { "arabic": "س م و", "en_meaning": "To be high/lofty", "my_meaning": "မြင့်မားသော" },
+        "derivation": { "members": [ { "ar": "إِسْم", "en": "name", "my": "အမည်" } ] },
+        "example": { "arabic": "السَّمَاءُ مُنفَطِرٌ بِهِ", "en": "The sky will break apart therefrom", "my": "မိုးကောင်းကင်သည် ထိုအကြောင်းကြောင့် အက်ကွဲသွားလိမ့်မည်" }
+      },
+      {
+        "word": "أَرْض",
+        "translit": "Arḍ",
+        "meaning": { "en": "Earth/Land", "my": "ကမ္ဘာမြေ" },
+        "root": { "arabic": "أ ر ض", "en_meaning": "Earth/Ground", "my_meaning": "မြေကြီး" },
+        "derivation": { "members": [ { "ar": "أَرَاضِي", "en": "lands", "my": "မြေပြင်များ" } ] },
+        "example": { "arabic": "فِي الْأَرْضِ آيَاتٌ", "en": "In the earth are signs", "my": "ကမ္ဘာမြေတွင် သက်သေလက္ခဏာများရှိ၏" }
+      },
+      {
+        "word": "شَمْس",
+        "translit": "Shams",
+        "meaning": { "en": "Sun", "my": "နေ" },
+        "root": { "arabic": "ش م س", "en_meaning": "Sun/Shine", "my_meaning": "နေမင်း" },
+        "derivation": { "members": [ { "ar": "مُشْمِس", "en": "sunny", "my": "သာယာသော" } ] },
+        "example": { "arabic": "وَالشَّمْسُ تَجْرِي", "en": "And the sun runs [on course]", "my": "နေမင်းသည်လည်း လှည့်ပတ်သွားလာနေသည်" }
+      },
+      {
+        "word": "قَمَر",
+        "translit": "Qamar",
+        "meaning": { "en": "Moon", "my": "လ" },
+        "root": { "arabic": "ق م ر", "en_meaning": "Moon/Whiteness", "my_meaning": "လမင်း" },
+        "derivation": { "members": [ { "ar": "قَمَرِيّ", "en": "lunar", "my": "လနှင့်ဆိုင်သော" } ] },
+        "example": { "arabic": "وَالْقَمَرَ قَدَّرْنَاهُ", "en": "And the moon We have ordained", "my": "လမင်းကိုလည်း ငါအရှင်မြတ် သတ်မှတ်ပေးတော်မူခဲ့သည်" }
+      }
+    ],
+    "section_2_grammar_focus": {
+      "concept": { "en": "Gender Markers (Ta Marbuta)", "my": "လိင်ခွဲခြားခြင်း (Ta Marbuta)" },
+      "explanation": {
+        "en": "Most feminine nouns end in Ta Marbuta (ة). However, some nouns are feminine by convention (Sama'i), such as 'Earth' (Arḍ) and 'Sun' (Shams). Masculine nouns like 'Moon' (Qamar) do not have a specific suffix.",
+        "my": "အမလိင်နာမ်အများစုသည် Ta Marbuta (ة) နှင့် အဆုံးသတ်သော်လည်း 'ကမ္ဘာမြေ' (Arḍ) နှင့် 'နေ' (Shams) တို့ကဲ့သို့သော အချို့နာမ်များသည် ပင်ကိုယ်အားဖြင့် အမလိင်များဖြစ်ကြသည်။ 'လ' (Qamar) ကဲ့သို့သော အဖိုလိင်နာမ်များတွင် အဆုံးသတ်သင်္ကေတ သီးသန့်မရှိပါ။"
+      },
+      "examples": [
+        { "arabic": "هَذِهِ جَنَّةٌ", "en": "This is a Paradise", "my": "ဤသည်မှာ သုခဘုံဖြစ်သည်" },
+        { "arabic": "هَذَا قَمَرٌ", "en": "This is a moon", "my": "ဤသည်မှာ လမင်းဖြစ်သည်" }
+      ],
+      "exercises": [
+        {
+          "question": { "arabic": "هَذِهِ شَمْسٌ", "english": "Correct or Incorrect?", "myanmar": "မှန်သလား မှားသလား" },
+          "answer": { "arabic": "صَحِيحٌ", "english": "Correct (Shams is feminine)", "myanmar": "မှန်ကန်သည် (နေသည် အမလိင်ဖြစ်သည်)" }
+        }
+      ]
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Ash-Shams 91:1-2",
+        "arabic_full": "وَالشَّمْسِ وَضُحَاهَا وَالْقَمَرِ إِذَا تَلَاهَا",
+        "english_full": "By the sun and its brightness; And [by] the moon when it follows it",
+        "myanmar_full": "နေမင်းနှင့် ယင်း၏တောက်ပမှုအားဖြင့်လည်းကောင်း၊ လမင်းသည် နေမင်း၏နောက်သို့ လိုက်ပါလာသောအခါ ထိုလမင်းအားဖြင့်လည်းကောင်း (ကျိန်ဆိုတော်မူ၏)",
+        "word_by_word": [
+          { "ar": "وَالشَّمْسِ", "tr": "wash-shamsi", "en": "And the sun", "my": "နေမင်းအားဖြင့်", "note": "N;GEN;FS" },
+          { "ar": "وَالْقَمَرِ", "tr": "wal-qamari", "en": "And the moon", "my": "လမင်းအားဖြင့်", "note": "N;GEN;MS" }
+        ],
+        "root_depth": [
+          {
+            "ar": "ج ن ن",
+            "en": "Refers to covering or concealing. A garden is called Jannah because its thick trees cover the ground.",
+            "my": "ဖုံးကွယ်ခြင်းကို ရည်ညွှန်းသည်။ သုခဘုံကို Jannah ဟုခေါ်ဆိုခြင်းမှာ သစ်ပင်ကြီးများက မြေပြင်ကို ဖုံးအုပ်ထားသောကြောင့် ဖြစ်သည်။",
+            "members": [ { "ar": "جَنِين", "en": "embryo/fetus", "my": "သန္ဓေသား" } ]
+          }
+        ],
+        "pattern_in_action": {
+          "en": "The contrast between masculine (Qamar) and feminine (Shams) in the same passage highlights the balance in creation.",
+          "my": "ကျမ်းမြတ်တစ်နေရာတည်းတွင် အဖိုလိင် (Qamar) နှင့် အမလိင် (Shams) ကို တွဲဖက်သုံးနှုန်းခြင်းဖြင့် ဖန်ဆင်းမှု၏ မျှခြေကို ဖော်ပြနေသည်။"
+        }
+      }
+    ]
+  },
+  {
+    "lesson_id": "L1-005",
+    "title": {
+      "arabic": "الدرس ٥: اللَّهُ هُوَ الْحَقُّ",
+      "english": "Lesson 5: Allah is the Truth (Definite Khabar)",
+      "myanmar": "သင်ခန်းစာ ၅ - အလ္လာဟ်အရှင်မြတ်သည် အစစ်အမှန်တရားဖြစ်တော်မူ၏ (အသီးအခြား အနက်ဖွင့်ပုဒ်)"
+    },
+    "section_1_vocab_drill": [
+      {
+        "word": "الْحَيّ",
+        "translit": "al-Ḥayy",
+        "meaning": { "en": "The Ever-Living", "my": "အစဉ်ထာဝရ အသက်ရှင်တော်မူသောအရှင်" },
+        "root": { "arabic": "ح ي ي", "en_meaning": "Life", "my_meaning": "အသက်" },
+        "derivation": { "members": [ { "ar": "حَيَاة", "en": "life", "my": "ဘဝ/အသက်" } ] },
+        "example": { "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ", "en": "Allah - there is no deity except Him, the Ever-Living", "my": "အလ္လာဟ်အရှင်မြတ်သည် ထိုအရှင်မှတစ်ပါး အခြားကိုးကွယ်ရာအရှင်မရှိ၊ အစဉ်ထာဝရ အသက်ရှင်တော်မူသောအရှင်ဖြစ်သည်" }
+      },
+      {
+        "word": "الْقَيُّوم",
+        "translit": "al-Qayyūm",
+        "meaning": { "en": "The Sustainer/Eternal", "my": "အရာခပ်သိမ်းကို ထိန်းသိမ်းစောင့်ရှောက်တော်မူသောအရှင်" },
+        "root": { "arabic": "ق و م", "en_meaning": "To stand/establish", "my_meaning": "ရပ်တည်ခြင်း" },
+        "derivation": { "members": [ { "ar": "مُسْتَقِيم", "en": "straight", "my": "ဖြောင့်မတ်သော" } ] },
+        "example": { "arabic": "الْحَيُّ الْقَيُّومُ", "en": "The Ever-Living, the Sustainer of existence", "my": "အစဉ်ထာဝရ အသက်ရှင်တော်မူသောအရှင်၊ အရာခပ်သိမ်းကို ထိန်းသိမ်းတော်မူသောအရှင်" }
+      },
+      {
+        "word": "الْوَاحِد",
+        "translit": "al-Wāḥid",
+        "meaning": { "en": "The One", "my": "တစ်ဆူတည်းသောအရှင်" },
+        "root": { "arabic": "و ح د", "en_meaning": "One/Alone", "my_meaning": "တစ်ခုတည်း" },
+        "derivation": { "members": [ { "ar": "أَحَد", "en": "One/Single", "my": "တစ်ပါးတည်း" } ] },
+        "example": { "arabic": "إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ", "en": "Your god is one God", "my": "သင်တို့၏ ကိုးကွယ်ရာအရှင်သည် တစ်ဆူတည်းသော အရှင်ဖြစ်တော်မူ၏" }
+      },
+      {
+        "word": "الأَوَّل",
+        "translit": "al-Awwal",
+        "meaning": { "en": "The First", "my": "အဦးဆုံးအရှင်" },
+        "root": { "arabic": "أ و ل", "en_meaning": "First/Beginning", "my_meaning": "ပထမ" },
+        "derivation": { "members": [ { "ar": "أَوَّلِينَ", "en": "ancients/first ones", "my": "ရှေးဦးလူများ" } ] },
+        "example": { "arabic": "هُوَ الْأَوَّلُ وَالْآخِرُ", "en": "He is the First and the Last", "my": "အရှင်သည် အဦးဆုံးလည်းဖြစ်တော်မူ၏၊ အဆုံးစွန်လည်း ဖြစ်တော်မူ၏" }
+      },
+      {
+        "word": "الْآخِر",
+        "translit": "al-Ākhir",
+        "meaning": { "en": "The Last", "my": "အဆုံးစွန်သောအရှင်" },
+        "root": { "arabic": "أ خ ر", "en_meaning": "End/After", "my_meaning": "နောက်ဆုံး" },
+        "derivation": { "members": [ { "ar": "آخِرَة", "en": "Hereafter", "my": "နောင်တမလွန်" } ] },
+        "example": { "arabic": "إِلَىٰ يَوْمِ الْآخِرِ", "en": "Until the Last Day", "my": "နောက်ဆုံးသောနေ့တိုင်အောင်" }
+      }
+    ],
+    "section_2_grammar_focus": {
+      "concept": { "en": "Definite Khabar & Pronoun of Separation", "my": "အသီးအခြား အနက်ဖွင့်ပုဒ်နှင့် ခွဲခြားပေးသောနာမ်စား" },
+      "explanation": {
+        "en": "When both the Subject (Mubtada) and Predicate (Khabar) are definite (with 'Al'), a third-person pronoun (هو) called 'Dameer al-Fasl' is often inserted to prevent ambiguity and emphasize the 'is'.",
+        "my": "ကတ္တား (Mubtada) နှင့် အနက်ဖွင့်ပုဒ် (Khabar) နှစ်ခုလုံးသည် 'Al' (ال) ပါသော အသီးအခြားနာမ်များဖြစ်နေပါက ဝါကျရှင်းလင်းစေရန်နှင့် 'ဖြစ်သည်' ဟူသောအချက်ကို အလေးပေးရန် 'Dameer al-Fasl' (هو) ကို ကြားညှပ်သုံးနှုန်းတတ်သည်။"
+      },
+      "examples": [
+        { "arabic": "اللَّهُ هُوَ الْحَقُّ", "en": "Allah is the Truth", "my": "အလ္လာဟ်အရှင်မြတ်သည် အစစ်အမှန်တရားဖြစ်တော်မူ၏" },
+        { "arabic": "هُوَ الْأَوَّلُ", "en": "He is the First", "my": "အရှင်သည် အဦးဆုံးဖြစ်တော်မူ၏" }
+      ],
+      "exercises": [
+        {
+          "question": { "arabic": "اللَّهُ هُوَ الْحَيُّ", "english": "Identify the Dameer Fasl", "myanmar": "Dameer Fasl ကို ရှာဖွေပါ" },
+          "answer": { "arabic": "هُوَ", "english": "The pronoun 'Huwa'", "myanmar": "နာမ်စား 'Huwa'" }
+        }
+      ]
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Hajj 22:62",
+        "arabic_full": "ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ",
+        "english_full": "That is because Allah is the Truth",
+        "myanmar_full": "ထိုသည်မှာ အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် အစစ်အမှန်တရားဖြစ်တော်မူသောကြောင့်ဖြစ်သည်",
+        "word_by_word": [
+          { "ar": "بِأَنَّ", "tr": "bi-anna", "en": "because", "my": "ကြောင့်", "note": "ACC" },
+          { "ar": "اللَّهَ", "tr": "al-laha", "en": "Allah", "my": "အလ္လာဟ်အရှင်မြတ်", "note": "PN;ACC" },
+          { "ar": "هُوَ", "tr": "huwa", "en": "is", "my": "ဖြစ်တော်မူ၏", "note": "PRON;3MS" },
+          { "ar": "الْحَقُّ", "tr": "al-ḥaqqu", "en": "the Truth", "my": "အစစ်အမှန်တရား", "note": "N;NOM;MS" }
+        ],
+        "root_depth": [
+          {
+            "ar": "ح ق ق",
+            "en": "Signifies consistency, reality, and permanence. Allah is Al-Haqq because He is the only constant reality.",
+            "my": "ခိုင်မြဲခြင်း၊ အစစ်အမှန်ဖြစ်ခြင်းနှင့် ထာဝရတည်တံ့ခြင်းတို့ကို ဆိုလိုသည်။ အလ္လာဟ်အရှင်မြတ်သည် တစ်ဆူတည်းသော မပြောင်းလဲသည့် အမှန်တရားဖြစ်သောကြောင့် Al-Haqq ဖြစ်တော်မူသည်။",
+            "members": [ { "ar": "تَحْقِيق", "en": "verification", "my": "စစ်ဆေးအတည်ပြုခြင်း" } ]
+          }
+        ],
+        "pattern_in_action": {
+          "en": "The inclusion of 'Huwa' between the definite 'Allah' and 'Al-Haqq' adds exclusivity (Qasr), meaning Allah alone is the Ultimate Truth.",
+          "my": "အသီးအခြားနာမ်နှစ်ခုကြားတွင် 'Huwa' ကိုထည့်သွင်းခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်သည်သာလျှင် အစစ်အမှန်တရားဖြစ်သည်ဟူသော သီးသန့်အနက်ကို ဖော်ဆောင်သည်။"
+        }
+      }
+    ]
+  }
+]
