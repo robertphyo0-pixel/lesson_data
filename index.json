@@ -1,0 +1,725 @@
+{
+  "total_lessons": 300,
+  "batches": [
+    {
+      "batch": "batch_01",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_01.json",
+      "lessons": [
+        "L1-001",
+        "L1-002",
+        "L1-003",
+        "L1-004",
+        "L1-005"
+      ],
+      "available": true
+    },
+    {
+      "batch": "batch_02",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_02.json",
+      "lessons": [
+        "L1-006",
+        "L1-007",
+        "L1-008",
+        "L1-009",
+        "L1-010"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_03",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_03.json",
+      "lessons": [
+        "L1-011",
+        "L1-012",
+        "L1-013",
+        "L1-014",
+        "L1-015"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_04",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_04.json",
+      "lessons": [
+        "L1-016",
+        "L1-017",
+        "L1-018",
+        "L1-019",
+        "L1-020"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_05",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_05.json",
+      "lessons": [
+        "L1-021",
+        "L1-022",
+        "L1-023",
+        "L1-024",
+        "L1-025"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_06",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_06.json",
+      "lessons": [
+        "L1-026",
+        "L1-027",
+        "L1-028",
+        "L1-029",
+        "L1-030"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_07",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_07.json",
+      "lessons": [
+        "L1-031",
+        "L1-032",
+        "L1-033",
+        "L1-034",
+        "L1-035"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_08",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_08.json",
+      "lessons": [
+        "L1-036",
+        "L1-037",
+        "L1-038",
+        "L1-039",
+        "L1-040"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_09",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_09.json",
+      "lessons": [
+        "L1-041",
+        "L1-042",
+        "L1-043",
+        "L1-044",
+        "L1-045"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_10",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_10.json",
+      "lessons": [
+        "L1-046",
+        "L1-047",
+        "L1-048",
+        "L1-049",
+        "L1-050"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_11",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_11.json",
+      "lessons": [
+        "L2-051",
+        "L2-052",
+        "L2-053",
+        "L2-054",
+        "L2-055"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_12",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_12.json",
+      "lessons": [
+        "L2-056",
+        "L2-057",
+        "L2-058",
+        "L2-059",
+        "L2-060"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_13",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_13.json",
+      "lessons": [
+        "L2-061",
+        "L2-062",
+        "L2-063",
+        "L2-064",
+        "L2-065"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_14",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_14.json",
+      "lessons": [
+        "L2-066",
+        "L2-067",
+        "L2-068",
+        "L2-069",
+        "L2-070"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_15",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_15.json",
+      "lessons": [
+        "L2-071",
+        "L2-072",
+        "L2-073",
+        "L2-074",
+        "L2-075"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_16",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_16.json",
+      "lessons": [
+        "L2-076",
+        "L2-077",
+        "L2-078",
+        "L2-079",
+        "L2-080"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_17",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_17.json",
+      "lessons": [
+        "L2-081",
+        "L2-082",
+        "L2-083",
+        "L2-084",
+        "L2-085"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_18",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_18.json",
+      "lessons": [
+        "L2-086",
+        "L2-087",
+        "L2-088",
+        "L2-089",
+        "L2-090"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_19",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_19.json",
+      "lessons": [
+        "L2-091",
+        "L2-092",
+        "L2-093",
+        "L2-094",
+        "L2-095"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_20",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_20.json",
+      "lessons": [
+        "L2-096",
+        "L2-097",
+        "L2-098",
+        "L2-099",
+        "L2-100"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_21",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_21.json",
+      "lessons": [
+        "L3-101",
+        "L3-102",
+        "L3-103",
+        "L3-104",
+        "L3-105"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_22",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_22.json",
+      "lessons": [
+        "L3-106",
+        "L3-107",
+        "L3-108",
+        "L3-109",
+        "L3-110"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_23",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_23.json",
+      "lessons": [
+        "L3-111",
+        "L3-112",
+        "L3-113",
+        "L3-114",
+        "L3-115"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_24",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_24.json",
+      "lessons": [
+        "L3-116",
+        "L3-117",
+        "L3-118",
+        "L3-119",
+        "L3-120"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_25",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_25.json",
+      "lessons": [
+        "L3-121",
+        "L3-122",
+        "L3-123",
+        "L3-124",
+        "L3-125"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_26",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_26.json",
+      "lessons": [
+        "L3-126",
+        "L3-127",
+        "L3-128",
+        "L3-129",
+        "L3-130"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_27",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_27.json",
+      "lessons": [
+        "L3-131",
+        "L3-132",
+        "L3-133",
+        "L3-134",
+        "L3-135"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_28",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_28.json",
+      "lessons": [
+        "L3-136",
+        "L3-137",
+        "L3-138",
+        "L3-139",
+        "L3-140"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_29",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_29.json",
+      "lessons": [
+        "L3-141",
+        "L3-142",
+        "L3-143",
+        "L3-144",
+        "L3-145"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_30",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_30.json",
+      "lessons": [
+        "L3-146",
+        "L3-147",
+        "L3-148",
+        "L3-149",
+        "L3-150"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_31",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_31.json",
+      "lessons": [
+        "L4-151",
+        "L4-152",
+        "L4-153",
+        "L4-154",
+        "L4-155"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_32",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_32.json",
+      "lessons": [
+        "L4-156",
+        "L4-157",
+        "L4-158",
+        "L4-159",
+        "L4-160"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_33",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_33.json",
+      "lessons": [
+        "L4-161",
+        "L4-162",
+        "L4-163",
+        "L4-164",
+        "L4-165"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_34",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_34.json",
+      "lessons": [
+        "L4-166",
+        "L4-167",
+        "L4-168",
+        "L4-169",
+        "L4-170"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_35",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_35.json",
+      "lessons": [
+        "L4-171",
+        "L4-172",
+        "L4-173",
+        "L4-174",
+        "L4-175"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_36",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_36.json",
+      "lessons": [
+        "L4-176",
+        "L4-177",
+        "L4-178",
+        "L4-179",
+        "L4-180"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_37",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_37.json",
+      "lessons": [
+        "L4-181",
+        "L4-182",
+        "L4-183",
+        "L4-184",
+        "L4-185"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_38",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_38.json",
+      "lessons": [
+        "L4-186",
+        "L4-187",
+        "L4-188",
+        "L4-189",
+        "L4-190"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_39",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_39.json",
+      "lessons": [
+        "L4-191",
+        "L4-192",
+        "L4-193",
+        "L4-194",
+        "L4-195"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_40",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_40.json",
+      "lessons": [
+        "L4-196",
+        "L4-197",
+        "L4-198",
+        "L4-199",
+        "L4-200"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_41",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_41.json",
+      "lessons": [
+        "L5-201",
+        "L5-202",
+        "L5-203",
+        "L5-204",
+        "L5-205"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_42",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_42.json",
+      "lessons": [
+        "L5-206",
+        "L5-207",
+        "L5-208",
+        "L5-209",
+        "L5-210"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_43",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_43.json",
+      "lessons": [
+        "L5-211",
+        "L5-212",
+        "L5-213",
+        "L5-214",
+        "L5-215"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_44",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_44.json",
+      "lessons": [
+        "L5-216",
+        "L5-217",
+        "L5-218",
+        "L5-219",
+        "L5-220"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_45",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_45.json",
+      "lessons": [
+        "L5-221",
+        "L5-222",
+        "L5-223",
+        "L5-224",
+        "L5-225"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_46",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_46.json",
+      "lessons": [
+        "L5-226",
+        "L5-227",
+        "L5-228",
+        "L5-229",
+        "L5-230"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_47",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_47.json",
+      "lessons": [
+        "L5-231",
+        "L5-232",
+        "L5-233",
+        "L5-234",
+        "L5-235"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_48",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_48.json",
+      "lessons": [
+        "L5-236",
+        "L5-237",
+        "L5-238",
+        "L5-239",
+        "L5-240"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_49",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_49.json",
+      "lessons": [
+        "L5-241",
+        "L5-242",
+        "L5-243",
+        "L5-244",
+        "L5-245"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_50",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_50.json",
+      "lessons": [
+        "L5-246",
+        "L5-247",
+        "L5-248",
+        "L5-249",
+        "L5-250"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_51",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_51.json",
+      "lessons": [
+        "L6-251",
+        "L6-252",
+        "L6-253",
+        "L6-254",
+        "L6-255"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_52",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_52.json",
+      "lessons": [
+        "L6-256",
+        "L6-257",
+        "L6-258",
+        "L6-259",
+        "L6-260"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_53",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_53.json",
+      "lessons": [
+        "L6-261",
+        "L6-262",
+        "L6-263",
+        "L6-264",
+        "L6-265"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_54",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_54.json",
+      "lessons": [
+        "L6-266",
+        "L6-267",
+        "L6-268",
+        "L6-269",
+        "L6-270"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_55",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_55.json",
+      "lessons": [
+        "L6-271",
+        "L6-272",
+        "L6-273",
+        "L6-274",
+        "L6-275"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_56",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_56.json",
+      "lessons": [
+        "L6-276",
+        "L6-277",
+        "L6-278",
+        "L6-279",
+        "L6-280"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_57",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_57.json",
+      "lessons": [
+        "L6-281",
+        "L6-282",
+        "L6-283",
+        "L6-284",
+        "L6-285"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_58",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_58.json",
+      "lessons": [
+        "L6-286",
+        "L6-287",
+        "L6-288",
+        "L6-289",
+        "L6-290"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_59",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_59.json",
+      "lessons": [
+        "L6-291",
+        "L6-292",
+        "L6-293",
+        "L6-294",
+        "L6-295"
+      ],
+      "available": false
+    },
+    {
+      "batch": "batch_60",
+      "url": "https://raw.githubusercontent.com/robertphyo0-pixel/lesson_data/main/lessons/batch_60.json",
+      "lessons": [
+        "L6-296",
+        "L6-297",
+        "L6-298",
+        "L6-299",
+        "L6-300"
+      ],
+      "available": false
+    }
+  ]
+}
