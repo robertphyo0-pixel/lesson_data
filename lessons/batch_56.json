@@ -1,0 +1,566 @@
+[
+  {
+    "lesson_id": "L6-276",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 276,
+    "title": {
+      "ar": "بَلاغَة ٢٦ — غَرِيبُ القُرْآنِ (١)",
+      "en": "Rhetoric XXVI — Rare Roots I: Hapax Legomena Introduction",
+      "my": "အာရပ်စကားအလင်္ကာ (၂၆) — ကုရ်အာန်တွင် တစ်ကြိမ်သာပါရှိသော ထူးခြားသည့် ဝေါဟာရများ (၁)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 10,
+      "grammar_focus": "Words appearing once in Quran; linguistic uniqueness (Hapax Legomena)",
+      "grammar_formula": "Unique Root + Specific Context = Singular Divine Emphasis"
+    },
+    "section_1_vocab": [
+      {
+        "word": "زَقُّوم",
+        "translit": "zaqqūm",
+        "en": "Zaqqum (infernal tree)",
+        "my": "ဇက္ကူမ်ပင် (ငရဲသစ်ပင်)",
+        "quran_freq": 3,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعُّول",
+        "root": {
+          "letters": "ز ق م",
+          "concept_en": "to swallow or gulp down",
+          "concept_my": "မျိုချခြင်း သို့မဟုတ် အာခေါင်ထဲသို့ အတင်းထည့်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Zak-koom",
+          "image": "A thorny tree with fruits like devil heads that are swallowed with difficulty.",
+          "cross_language": "Myanmar Muslims recognize this as 'Zaqqum' tree in Jannah/Jahannam contexts."
+        },
+        "word_family": [
+          {
+            "ar": "تَزَقَّمَ",
+            "translit": "tazaqqama",
+            "en": "to swallow painfully",
+            "my": "နာကျင်စွာ မျိုချသည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The 'Fa'ool' pattern in rare nouns often denotes intensity or a specific unique entity.",
+        "example": {
+          "ar": "إِنَّ شَجَرَتَ الزَّقُّومِ",
+          "en": "Indeed, the tree of zaqqum",
+          "my": "အမှန်စင်စစ် ဇက္ကူမ် သစ်ပင်သည်",
+          "ref": "44:43"
+        }
+      },
+      {
+        "word": "الحُبُك",
+        "translit": "al-hubuk",
+        "en": "the star patterns/orbits",
+        "my": "ကြယ်တာရာလမ်းကြောင်းများ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعُل",
+        "root": {
+          "letters": "ح ب ك",
+          "concept_en": "to weave or knit well",
+          "concept_my": "သေသပ်စွာ ယှက်နွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hubuk",
+          "image": "Knitted fabric representing the intricate orbits of the stars.",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "حَبْك",
+            "translit": "habk",
+            "en": "weaving",
+            "my": "ယက်လုပ်ခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This root implies perfection in construction, like a finely woven garment.",
+        "example": {
+          "ar": "وَالسَّمَاءِ ذَاتِ الْحُبُكِ",
+          "en": "And [by] the heaven containing pathways",
+          "my": "ကြယ်တာရာလမ်းကြောင်းများရှိသော မိုးကောင်းကင်ကို ကျိန်ဆိုတော်မူ၏",
+          "ref": "51:7"
+        }
+      },
+      {
+        "word": "بُثَّت",
+        "translit": "buththata",
+        "en": "crumbled/scattered",
+        "my": "ကြေမွပျံ့လွင့်စေခြင်း",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فُعَّت",
+        "root": {
+          "letters": "ب ث ث",
+          "concept_en": "to scatter or disperse",
+          "concept_my": "လွင့်စင်ပျံ့နှံ့စေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Buth",
+          "image": "Dust motes floating in the air after a mountain crumbles.",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "مَبْثُوث",
+            "translit": "mabthūth",
+            "en": "scattered",
+            "my": "ပျံ့လွင့်နေသော",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "The repetition of 'th' mimics the sound of scattering fine particles.",
+        "example": {
+          "ar": "فَكَانَتْ هَبَاءً مُّنبَثًّا",
+          "en": "And become dust dispersing",
+          "my": "ထိုအခါ ထိုတောင်များသည် လွင့်စင်ပျံ့နှံ့နေသော ဖုန်မှုန့်များဖြစ်သွားကြကုန်၏",
+          "ref": "56:6"
+        }
+      },
+      {
+        "word": "صَرَّة",
+        "translit": "sarrah",
+        "en": "loud cry/outcry",
+        "my": "ကျယ်လောင်စွာ အော်ဟစ်ခြင်း",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "ص ر ر",
+          "concept_en": "to cry out intensely",
+          "concept_my": "ပြင်းထန်စွာ အော်ဟစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sar-rah",
+          "image": "A sharp, piercing sound that creates a 'ring' in the ears.",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "إِصْرَار",
+            "translit": "iṣrār",
+            "en": "persistence",
+            "my": "ဇွဲရှိခြင်း",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Geminate roots (double letter) like S-R-R often imply intensity or sound repetition.",
+        "example": {
+          "ar": "فَأَقْبَلَتِ امْرَأَتُهُ فِي صَرَّةٍ",
+          "en": "And his wife approached with a cry",
+          "my": "ထိုအခါ သူ၏ဇနီးသည် အော်ဟစ်လျက် ရှေ့သို့တိုးလာခဲ့၏",
+          "ref": "51:29"
+        }
+      },
+      {
+        "word": "قَسْوَرَة",
+        "translit": "qaswarah",
+        "en": "lion",
+        "my": "ခြင်္သေ့",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْوَلَة",
+        "root": {
+          "letters": "ق س ر",
+          "concept_en": "to force or compel",
+          "concept_my": "အတင်းအကျပ်ပြုခြင်း သို့မဟုတ် လွှမ်းမိုးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qas-wa-rah",
+          "image": "A mighty lion compelling its prey to flee.",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "قَسْر",
+            "translit": "qasr",
+            "en": "compulsion",
+            "my": "ဖိအားပေးခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Rare quadrilateral-like patterns (Fa'walah) usually provide vivid imagery for specific animals or states.",
+        "example": {
+          "ar": "فَرَّتْ مِن قَسْوَرَةٍ",
+          "en": "Fleeing from a lion",
+          "my": "ခြင်္သေ့ထံမှ ထွက်ပြေးကြသည့်နှယ်",
+          "ref": "74:51"
+        }
+      },
+      {
+        "word": "غُسْلِين",
+        "translit": "ghislīn",
+        "en": "discharge from wounds/pus",
+        "my": "ပြည်ပုပ်ရည်",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْلِين",
+        "root": {
+          "letters": "غ س ل",
+          "concept_en": "to wash away",
+          "concept_my": "ဆေးကြောခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ghis-leen",
+          "image": "A liquid that results from washing a wound.",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "غَسَلَ",
+            "translit": "ghasala",
+            "en": "to wash",
+            "my": "ဆေးကြောသည်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The 'In' suffix in rare nouns can indicate a material or specific fluid.",
+        "example": {
+          "ar": "وَلَا طَعَامٌ إِلَّا مِنْ غُسْلِينٍ",
+          "en": "Nor any food except from the discharge of wounds",
+          "my": "ပြည်ပုပ်ရည်မှအပ အခြားမည်သည့်အစားအစာမျှ မရှိချေ",
+          "ref": "69:36"
+        }
+      },
+      {
+        "word": "بَسًّا",
+        "translit": "bassan",
+        "en": "crumbled/pulverized",
+        "my": "ကြေမွပျက်စီးခြင်း",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعًّا",
+        "root": {
+          "letters": "ب س س",
+          "concept_en": "to crumble into flour",
+          "concept_my": "ဂျုံမှုန့်ကဲ့သို့ ကြေမွအောင်ပြုလုပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Bas-san",
+          "image": "A mountain being ground down into fine powder (Bas-busa).",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "بَسِيسَة",
+            "translit": "basīsah",
+            "en": "mixed flour",
+            "my": "ဂျုံမှုန့်အရော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Repetitive sounds in roots often relate to physical grinding or repetitive action.",
+        "example": {
+          "ar": "وَبُسَّتِ الْجِبَالُ بَسًّا",
+          "en": "And the mountains are crumbled asunder",
+          "my": "တောင်များသည်လည်း အမှုန့်အမွှားဖြစ်အောင် ကြေမွပျက်စီးကုန်မည်",
+          "ref": "56:5"
+        }
+      },
+      {
+        "word": "مُبْرِمُون",
+        "translit": "mubrimūn",
+        "en": "those who decide/settle",
+        "my": "ဆုံးဖြတ်ချက် ခိုင်မာစွာ ချမှတ်သူများ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعِلُون",
+        "root": {
+          "letters": "ب ر م",
+          "concept_en": "to twist a rope firmly/settle",
+          "concept_my": "ကြိုးကိုခိုင်မာစွာကျစ်ခြင်း သို့မဟုတ် ခိုင်မာသောဆုံးဖြတ်ချက်ချခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mub-ri-moon",
+          "image": "A group of judges twisting a thick rope together to signify a final decision.",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "أَبْرَمَ",
+            "translit": "abrama",
+            "en": "to conclude",
+            "my": "နိဂုံးချုပ်သည်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The 'Mu-' prefix denotes the doer of the action from Form IV verbs.",
+        "example": {
+          "ar": "أَمْ أَبْرَمُوا أَمْرًا فَإِنَّا مُبْرِمُونَ",
+          "en": "Or have they devised a plan? Then we are devising [a plan].",
+          "my": "သို့တည်းမဟုတ် ၎င်းတို့သည် တစ်စုံတစ်ခုသောကိစ္စကို အပြီးအပိုင်ဆုံးဖြတ်ခဲ့ကြသလော။ ငါအရှင်သည်လည်း အပြီးအပိုင် ဆုံးဖြတ်တော်မူမည့်သူဖြစ်၏။",
+          "ref": "43:79"
+        }
+      },
+      {
+        "word": "هَبَاء",
+        "translit": "habā'",
+        "en": "floating dust/particles",
+        "my": "လေထဲတွင်လွင့်နေသော ဖုန်မှုန့်များ",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَال",
+        "root": {
+          "letters": "ه ب و",
+          "concept_en": "to rise (as dust)",
+          "concept_my": "အမှုန်အမွှားများ ထကြွခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Haba",
+          "image": "Sunlight hitting a dark room, revealing tiny particles floating in the air.",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "هَبْوَة",
+            "translit": "habwah",
+            "en": "dust cloud",
+            "my": "ဖုန်မှုန့်တိမ်တိုက်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The 'Fa'al' pattern can denote lightweight or intangible substances.",
+        "example": {
+          "ar": "فَجَعَلْنَاهُ هَبَاءً مَّنثُورًا",
+          "en": "And make them as scattered dust",
+          "my": "ထိုအခါ ငါအရှင်သည် ထိုအပြုအမူများကို လွင့်စင်နေသော ဖုန်မှုန့်များကဲ့သို့ ဖြစ်စေတော်မူမည်",
+          "ref": "25:23"
+        }
+      },
+      {
+        "word": "مُّنبَثًّا",
+        "translit": "munbaththan",
+        "en": "dispersing",
+        "my": "ပျံ့လွင့်နေသော",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُنْفَعِل",
+        "root": {
+          "letters": "ب ث ث",
+          "concept_en": "to scatter",
+          "concept_my": "ပျံ့နှံ့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mun-bath-than",
+          "image": "A burst of sand spreading in all directions.",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "بَثَّ",
+            "translit": "baththa",
+            "en": "to spread",
+            "my": "ပျံ့နှံ့စေသည်",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "The 'Munfa'il' pattern describes the state or result of a process of breaking or dispersing.",
+        "example": {
+          "ar": "هَبَاءً مُّنبَثًّا",
+          "en": "dispersing dust",
+          "my": "လွင့်စင်ပျံ့နှံ့နေသော ဖုန်မှုန့်များ",
+          "ref": "56:6"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "غَرِيبُ القُرْآنِ / أَلْفَاظٌ مُفْرَدَة",
+        "en": "Rare Roots / Hapax Legomena",
+        "my": "ကုရ်အာန်ပါ ရှားပါးဝေါဟာရများ"
+      },
+      "formula": {
+        "display": "Unique Root + Specific Quranic Scene = Singular Meaning",
+        "example": "وَالسَّمَاءِ ذَاتِ الْحُبُكِ (By the sky full of paths)",
+        "myanmar_read": "ကုရ်အာန်တွင် တစ်ကြိမ်သာသုံးနှုန်းထားသော root များသည် အလွန်ထူးခြားသော အဓိပ္ပာယ်ကိုဆောင်သည်။",
+        "key_insight": "A Hapax Legomenon is a word that appears only once in the entire Quran, chosen by Allah for its precise acoustic and semantic impact."
+      },
+      "explanation": {
+        "en": "Gharib al-Quran refers to words that are uncommon in daily speech or even in other Arabic literature. These 'Rare Roots' or Hapax Legomena are used to describe unique phenomena like the Day of Judgment or Paradise/Hell. Their rarity forces the reader to pause and reflect on the specific nuances that more common words could not capture.",
+        "my": "Gharib al-Quran ဆိုသည်မှာ နေ့စဉ်စကားပြောတွင် သို့မဟုတ် အခြားအာရပ်စာပေများတွင် တွေ့ရခဲသော ဝေါဟာရများကို ဆိုလိုသည်။ ဤရှားပါးသော Root များသည် တရားစီရင်ရာနေ့ သို့မဟုတ် ဂျန္နသ်/ဂျဟန္နမ် တို့ကဲ့သို့ ထူးခြားသောဖြစ်ရပ်များကို ဖော်ပြရန် သုံးနှုန်းထားသည်။ ၎င်းတို့၏ ရှားပါးမှုသည် ဖတ်ရှုသူအား ရိုးရိုးဝေါဟာရများဖြင့် မဖော်ပြနိုင်သော နက်နဲသည့်အဓိပ္ပာယ်များကို ပိုမိုလေးနက်စွာ စဉ်းစားစေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar literature, rare Pali-derived terms are often used in religious or poetic contexts to provide a sense of grandeur and precision that common Burmese lacks.",
+        "my": "မြန်မာစာပေတွင်လည်း ဘာသာရေးနှင့် ကဗျာလင်္ကာများ၌ သာမန်မြန်မာစကားထက် ပိုမိုလေးနက်စေရန် ပါဠိစကားလုံး ရှားရှားပါးပါးများကို အသုံးပြုလေ့ရှိသည်နှင့် ဆင်တူပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Precision: Rare roots provide a laser-focused meaning for a specific scenario.",
+          "rule_my": "တိကျမှု- ရှားပါးသော Root များသည် သတ်မှတ်ထားသော ဖြစ်ရပ်တစ်ခုအတွက် အလွန်တိကျသော အဓိပ္ပာယ်ကို ပေးသည်။",
+          "example": {
+            "ar": "قَسْوَرَة",
+            "en": "A specific type of 'fleeing' lion",
+            "my": "ခြောက်ခြားစရာ ခြင်္သေ့မျိုး"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِنَّ شَجَرَتَ الزَّقُّومِ",
+          "en": "Indeed, the tree of zaqqum",
+          "my": "(၄၃) အမှန်စင်စစ် ဇက္ကူမ်ရှားစောင်းကြီးပင်သည်၊",
+          "ref": "44:43",
+          "breakdown": {
+            "subject": {
+              "word": "شَجَرَتَ",
+              "en": "the tree",
+              "note": "Ism Inna"
+            },
+            "predicate": {
+              "word": "الزَّقُّومِ",
+              "en": "of Zaqqum",
+              "note": "Mudaf Ilayh (Proper Noun)"
+            }
+          },
+          "myanmar_insight": "မြန်မာမွတ်စလင်များအတွက် 'ဇက္ကူမ်' ဟူသော စကားလုံးသည် ငရဲသစ်ပင်အဖြစ် ရင်းနှီးပြီးသားဖြစ်သော်လည်း ၎င်း၏ root (Z-Q-M) သည် မျိုချရခက်ခြင်းကို ဆိုလိုကြောင်း သိထားရပါမည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Overgeneralizing meanings of rare roots.",
+          "wrong": {
+            "ar": "الحُبُك = paths",
+            "note": "Generalizing it as any street or path."
+          },
+          "correct": {
+            "ar": "الحُبُك",
+            "en": "Specifically woven, intricate astronomical orbits",
+            "my": "သေသပ်စွာယှက်နွယ်နေသော ကြယ်တာရာလမ်းကြောင်းများ"
+          },
+          "myanmar_tip": "ရှားပါးစကားလုံးများကို သာမန်စကားလုံးများဖြင့် ရောထွေးမသွားစေရန် သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the rare word in the following verse fragments",
+          "instruction_my": "အောက်ပါ မုက္ခပတ်တော်များမှ ရှားပါးဝေါဟာရကို ရှာဖွေပါ",
+          "questions": [
+            {
+              "q": "فَرَّتْ مِن قَسْوَرَةٍ",
+              "answer_en": "قَسْوَرَة",
+              "answer_my": "ကတ်စ်ဝရသ် (ခြင်္သေ့)",
+              "ref": "74:51"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the phrase focusing on the rare root",
+          "instruction_my": "ရှားပါး Root ကို အလေးပေး၍ ဘာသာပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "وَبُسَّتِ الْجِبَالُ بَسًّا",
+              "answer_en": "And the mountains are crumbled asunder",
+              "answer_my": "တောင်များသည်လည်း အမှုန့်အမွှားဖြစ်အောင် ကြေမွပျက်စီးကုန်မည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Form the proper noun referring to the infernal tree",
+          "instruction_my": "ငရဲသစ်ပင်ကို ရည်ညွှန်းသော နာမ်ကို တည်ဆောက်ပါ",
+          "questions": [
+            {
+              "q": "Root: Z-Q-M (Wazn: Fa'ool)",
+              "answer_en": "Zaqqum",
+              "answer_my": "ဇက္ကူမ်",
+              "ar": "زَقُّوم"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Allah chooses unique words to show that His creation and His warnings are beyond human imagination. When you hear a word used only once in the Quran, it is a signal to your heart that this moment is truly extraordinary.",
+        "my": "အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့၏ စိတ်ကူးစိတ်သန်းထက် ကျော်လွန်သော ဖန်ဆင်းမှုများနှင့် သတိပေးချက်များကို ပြသရန် ထူးခြားသောစကားလုံးများကို ရွေးချယ်တော်မူသည်။ ကုရ်အာန်တွင် တစ်ကြိမ်သာပါသော စကားလုံးကို သင်ကြားရသောအခါ၊ ထိုအကြောင်းအရာသည် အလွန်ထူးခြားကြောင်း သင့်နှလုံးသားကို အသိပေးလိုက်ပါ။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Adh-Dhariyat 51:7",
+        "study_number": 1,
+        "arabic_full": "وَالسَّمَاءِ ذَاتِ الْحُبُكِ",
+        "en_sahih": "And [by] the heaven containing pathways",
+        "my_mmsy": "(၇) (ငါအရှင်မြတ်သည်) လှပသည့်လမ်းကြောင်းများရှိသော မိုးကောင်းကင်ကို သက်သေထူတော်မူသည်။   ၂",
+        "audio_ref": {
+          "surah": 51,
+          "ayah": 7,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/051007.mp3"
+        },
+        "qurancom_url": "https://quran.com/51/7",
+        "context": {
+          "en": "Allah is swearing by the sky to emphasize the certainty of the Day of Judgment. The 'pathways' refer to the orbits of the stars.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် တရားစီရင်ရာနေ့၏ သေချာမှုကို အလေးပေးရန် မိုးကောင်းကင်ကို ကျိန်ဆိုတော်မူနေခြင်းဖြစ်သည်။ 'လမ်းကြောင်းများ' ဆိုသည်မှာ ကြယ်တို့၏ ပတ်လမ်းများကို ဆိုလိုသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْحُبُكِ",
+            "translit": "al-hubuk",
+            "en": "the pathways/woven tracks",
+            "my": "ယှက်နွယ်နေသောလမ်းကြောင်းများ",
+            "role_en": "Genitive Noun",
+            "role_my": "ပိုင်ဆိုင်ခြင်းပြနာမ်",
+            "root": "ح ب ك",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of 'al-Hubuk' (singularly occurring) creates an image of a complex, perfectly woven sky.",
+          "structure_my": "တစ်ကြိမ်သာပါသော 'al-Hubuk' ကိုသုံးခြင်းဖြင့် မိုးကောင်းကင်၏ သေသပ်ခိုင်ခံ့သော ဖွဲ့စည်းပုံကို ပုံဖော်ပေးသည်။",
+          "insight_en": "The root H-B-K usually refers to weaving cloth; here it describes the fabric of the universe.",
+          "insight_my": "H-B-K root သည် အထည်ယက်လုပ်ခြင်းကို ဆိုလိုသော်လည်း ဤနေရာ၌ စကြဝဠာ၏ တည်ဆောက်ပုံကို ဖော်ပြခြင်းဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ح ب ك",
+            "concept_en": "To knot or weave something so tightly and perfectly that there are no flaws.",
+            "concept_my": "မည်သည့်ချို့ယွင်းချက်မျှမရှိအောင် အလွန်ခိုင်မာသေသပ်စွာ ယှက်နွယ်ယက်လုပ်ခြင်း။",
+            "members": [
+              {
+                "ar": "حَبْكَة",
+                "translit": "habkah",
+                "en": "plot/texture",
+                "my": "ဇာတ်လမ်းသွား/အသားအနား",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Early commentators noted that this word describes the 'ripples' seen in sand or on water, mirroring the visual patterns of galaxies."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "မိုးကောင်းကင်ကို ကြည့်တဲ့အခါ ကျယ်ပြောလှတဲ့ ဟင်းလင်းပြင်ကြီးလို့ပဲ ကျွန်ုပ်တို့ ထင်မြင်နိုင်ပါတယ်။ ဒါပေမဲ့ ကုရ်အာန်က 'Al-Hubuk' ဆိုတဲ့ စကားလုံးတစ်လုံးတည်းနဲ့ ဒီကောင်းကင်မှာ အလွန်စနစ်ကျတဲ့၊ သေသပ်လှပတဲ့ လမ်းကြောင်းတွေ ယှက်နွယ်နေတယ်ဆိုတာကို ဖော်ပြထားပါတယ်။ ကျွန်ုပ်တို့ရဲ့ ဘဝတွေမှာလည်း ဒီလိုပဲ အလ္လာဟ်အရှင်မြတ်ရဲ့ အစီအမံတွေက သေသပ်စွာ ယှက်နွယ်နေတယ်ဆိုတာကို နှလုံးသွင်းရပါမယ်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah ends with a sharp 'k' sound (Hubuk) which snaps the attention.",
+          "meaning_anchor": "Imagine the night sky not as empty, but as a giant web of light.",
+          "daily_connection": "Look at a woven longyi or fabric; remember the perfection of the sky's pathways.",
+          "my": "Hubuk ရဲ့ အဆုံးသံ 'K' သည် နားထဲတွင် စွဲထင်စေသည်။ ညဘက်ကောင်းကင်ကို ကြည့်တိုင်း ဤမုက္ခပတ်တော်ကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we explored 'Gharib al-Quran'—the rare and unique words of the Quran. We learned that words like 'Zaqqum' and 'al-Hubuk' are chosen for their singular precision. Understanding these rare roots unlocks a deeper level of awe at the linguistic perfection of Allah's speech.",
+      "my": "ဤသင်ခန်းစာတွင် ကုရ်အာန်၏ ရှားပါးထူးခြားသော ဝေါဟာရများ (Gharib al-Quran) အကြောင်းကို လေ့လာခဲ့ကြသည်။ 'ဇက္ကူမ်' နှင့် 'အလ်-ဟုဘုက်' ကဲ့သို့သော စကားလုံးများသည် ၎င်းတို့၏ တိကျမှုကြောင့် ရွေးချယ်ခံရခြင်းဖြစ်သည်။ ဤရှားပါး Root များကို နားလည်ခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်များ၏ ဘာသာစကားဆိုင်ရာ ပြည့်စုံမှုကို ပိုမိုသိရှိနိုင်မည်ဖြစ်သည်။"
+    }
+  }
+]

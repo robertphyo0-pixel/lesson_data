@@ -1,0 +1,2306 @@
+[
+  {
+    "lesson_id": "L4-176",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 176,
+    "title": {
+      "ar": "سُورَةُ التَّكَاثُرِ — كَلَّا سَوْفَ تَعْلَمُونَ",
+      "en": "Juz Amma XXVI — Surah At-Takathur: You Shall Know!",
+      "my": "စူရဟ် အသ်-သကာသုရ် — သင်တို့ မကြာမီ သိကြလိမ့်မည်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Kallā (deterrent particle); Sawfa + Mudāri' for future threat",
+      "grammar_formula": "كَلَّا + سَوْفَ + (Mudari Verb)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "تَعْلَمُونَ",
+        "translit": "ta'lamūn",
+        "en": "you all know",
+        "my": "သင်တို့ သိကြသည်",
+        "quran_freq": 800,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "تَفْعَلُونَ",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "knowledge and science",
+          "concept_my": "အသိပညာနှင့် သိပ္ပံ"
+        },
+        "memory_hook": {
+          "sound": "Alarm",
+          "image": "An alarm waking you up to the reality you finally 'know'",
+          "cross_language": "Alim (Scholar) in Myanmar Muslim usage"
+        },
+        "word_family": [
+          {
+            "ar": "عِلْم",
+            "translit": "ilm",
+            "en": "knowledge",
+            "my": "ပညာ",
+            "freq": 105
+          }
+        ],
+        "pattern_unlock": "Words starting with 'Ta' and ending with 'oon' are usually 'You all (doing something)'",
+        "example": {
+          "ar": "كَلَّا سَوْفَ تَعْلَمُونَ",
+          "en": "No! You are going to know.",
+          "my": "အလျှင်းမဟုတ်၊ သင်တို့ မကြာမီ သိကြလိမ့်မည်။",
+          "ref": "102:3"
+        }
+      },
+      {
+        "word": "يَقِين",
+        "translit": "yaqīn",
+        "en": "certainty",
+        "my": "သေချာမှု",
+        "quran_freq": 28,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ي ق ن",
+          "concept_en": "to be certain/sure",
+          "concept_my": "ယုံကြည်စိတ်ချခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Keen",
+          "image": "Being very 'keen' and certain about a fact",
+          "cross_language": "Yaqin (certainty) in Malay/Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "مُوقِنِين",
+            "translit": "muqinin",
+            "en": "those who are certain",
+            "my": "ယုံကြည်စိတ်ချသူများ",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "The 'ee' sound in the middle (Fa-eel) often denotes a permanent quality",
+        "example": {
+          "ar": "عِلْمَ الْيَقِينِ",
+          "en": "knowledge of certainty",
+          "my": "သေချာသော အသိဉာဏ်",
+          "ref": "102:5"
+        }
+      },
+      {
+        "word": "كَلَّا",
+        "translit": "kallā",
+        "en": "Nay / Not at all",
+        "my": "အလျှင်းမဟုတ်",
+        "quran_freq": 33,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ك ل ل",
+          "concept_en": "deterrence and negation",
+          "concept_my": "တားမြစ်ခြင်းနှင့် ငြင်းပယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kill (the idea)",
+          "image": "Killing a wrong thought immediately",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Kalla is used in the Quran to abruptly stop a wrong line of thinking",
+        "example": {
+          "ar": "كَلَّا لَوْ تَعْلَمُونَ",
+          "en": "No! If you only knew",
+          "my": "အလျှင်းမဟုတ်၊ သင်တို့သာ သိခဲ့ကြလျှင်",
+          "ref": "102:5"
+        }
+      },
+      {
+        "word": "سَوْفَ",
+        "translit": "sawfa",
+        "en": "soon / in the future",
+        "my": "နောင်တွင် / မကြာမီ",
+        "quran_freq": 42,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "س و ف",
+          "concept_en": "future timeframe",
+          "concept_my": "အနာဂတ်ကာလ"
+        },
+        "memory_hook": {
+          "sound": "Sofa",
+          "image": "Sitting on a sofa waiting for the future to happen",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Sawfa indicates a more distant future than the simple prefix 'Sa-'",
+        "example": {
+          "ar": "سَوْفَ تَعْلَمُونَ",
+          "en": "you will soon know",
+          "my": "သင်တို့ မကြာမီ သိကြလိမ့်မည်",
+          "ref": "102:3"
+        }
+      },
+      {
+        "word": "التَّكَاثُر",
+        "translit": "al-takāthur",
+        "en": "competition in increase",
+        "my": "များပြားမှုအပေါ် ဂုဏ်ပြိုင်ခြင်း",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفَاعُل",
+        "root": {
+          "letters": "ك ث ر",
+          "concept_en": "abundance/multiplicity",
+          "concept_my": "များပြားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Take a tour",
+          "image": "Taking a tour of all the stuff people accumulate to show off",
+          "cross_language": "Kathir (Many) in Arabic"
+        },
+        "word_family": [
+          {
+            "ar": "كَثِير",
+            "translit": "kathir",
+            "en": "many",
+            "my": "များစွာသော",
+            "freq": 60
+          }
+        ],
+        "pattern_unlock": "The Tafa'ul pattern implies interaction or competition between people",
+        "example": {
+          "ar": "أَلْهَاكُمُ التَّكَاثُرُ",
+          "en": "Competition in [worldly] increase diverts you",
+          "my": "ပစ္စည်းဥစ္စာ စုဆောင်းမှုတွင် အပြိုင်အဆိုင် ဖြစ်ခြင်းသည် သင်တို့အား မေ့လျော့စေခဲ့ပြီ",
+          "ref": "102:1"
+        }
+      },
+      {
+        "word": "الْجَحِيم",
+        "translit": "al-jaḥīm",
+        "en": "the Hellfire",
+        "my": "ငရဲမီး",
+        "quran_freq": 26,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ج ح م",
+          "concept_en": "staring/blazing fire",
+          "concept_my": "တောက်လောင်နေသောမီး"
+        },
+        "memory_hook": {
+          "sound": "Gem (ironic)",
+          "image": "A blazing fire so bright it looks like a red gem",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Names of Hell are often feminine in Arabic grammar",
+        "example": {
+          "ar": "لَتَرَوُنَّ الْجَحِيمَ",
+          "en": "You will surely see the Hellfire",
+          "my": "သင်တို့သည် ငရဲမီးကို ဧကန်မလွဲ မြင်ကြရပေမည်",
+          "ref": "102:6"
+        }
+      },
+      {
+        "word": "الْعَيْن",
+        "translit": "al-'ayn",
+        "en": "the eye",
+        "my": "မျက်စိ",
+        "quran_freq": 88,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ع ي ن",
+          "concept_en": "eye / spring of water",
+          "concept_my": "မျက်စိ (သို့) ရေထွက်ပင်ရင်း"
+        },
+        "memory_hook": {
+          "sound": "I (eye)",
+          "image": "The letter 'Ayn' looks slightly like an eye socket",
+          "cross_language": "Ain (eye) in Malay/Urdu"
+        },
+        "word_family": [],
+        "pattern_unlock": "Body parts that come in pairs (eyes, hands) are usually feminine in Arabic",
+        "example": {
+          "ar": "عَيْنَ الْيَقِينِ",
+          "en": "the eye of certainty",
+          "my": "မျက်မြင်ဒိဋ္ဌ သေချာမှု",
+          "ref": "102:7"
+        }
+      },
+      {
+        "word": "النَّعِيم",
+        "translit": "al-na'īm",
+        "en": "the pleasure/blessings",
+        "my": "ကောင်းချီးမင်္ဂလာများ",
+        "quran_freq": 33,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ن ع م",
+          "concept_en": "blessing/comfort",
+          "concept_my": "ကောင်းချီးနှင့် သက်သောင့်သက်သာရှိမှု"
+        },
+        "memory_hook": {
+          "sound": "Name",
+          "image": "Having a 'name' that everyone honors brings blessings",
+          "cross_language": "Niamat (Blessing) in Urdu/Myanmar Muslim context"
+        },
+        "word_family": [
+          {
+            "ar": "نِعْمَة",
+            "translit": "ni'mah",
+            "en": "blessing",
+            "my": "ကျေးဇူးတော်",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "The Fa-eel pattern here describes the continuous nature of God's blessings",
+        "example": {
+          "ar": "عَنِ النَّعِيمِ",
+          "en": "about the pleasure",
+          "my": "ကောင်းချီးမင်္ဂလာများအကြောင်း",
+          "ref": "102:8"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أَدَاةُ الرَّدْعِ وَالْمُسْتَقْبَل",
+        "en": "Deterrence and Future Tense",
+        "my": "တားမြစ်ခြင်းနှင့် အနာဂတ်ကာလ ပြောင်းလဲမှု"
+      },
+      "formula": {
+        "display": "كَلَّا + سَوْفَ + فِعْل مُضَارِع",
+        "example": "كَلَّا سَوْفَ تَعْلَمُونَ",
+        "myanmar_read": "ကလ္လာ (လုံးဝမဟုတ်) + ဆောင်ဖာ (နောင်တွင်) + သိကြလိမ့်မည်",
+        "key_insight": "Sawfa creates a gap of time, making the warning more ominous—it's coming, just wait."
+      },
+      "explanation": {
+        "en": "The particle 'Kalla' is a strong deterrent used to reject what was previously mentioned. When followed by 'Sawfa', it shifts the present-tense verb (Mudari) into a definite future promise or threat. This structure is common in Juz Amma to emphasize the certainty of the afterlife.",
+        "my": "Kalla (ကလ္လာ) ဆိုသည်မှာ အရင်က ပြောခဲ့သော အယူအဆမှားများကို ပြတ်ပြတ်သားသား ငြင်းပယ်ရန် သုံးသည်။ ၎င်းနောက်တွင် Sawfa (ဆောင်ဖာ) ပါလာပါက ပစ္စုပ္ပန်ကြိယာကို အနာဂတ်တွင် ဧကန်မလွဲ ဖြစ်လာမည့် ကတိ (သို့) သတိပေးချက်အဖြစ် ပြောင်းလဲပေးသည်။ ၎င်းသည် နောင်တမလွန်ကို ယုံကြည်စေရန် အလေးအနက် သုံးနှုန်းခြင်း ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to adding '...လိမ့်မည်' in Myanmar for future certainty, but 'Kalla' adds a layer of 'No way!' that is more forceful than simple negation.",
+        "my": "မြန်မာစကားတွင် '...လိမ့်မည်' ဟု သုံးသကဲ့သို့ ဖြစ်သော်လည်း 'ကလ္လာ' သည် 'လုံးဝမဟုတ်' ဟု အရင်ငြင်းပြီးမှ သတိပေးသောကြောင့် ပို၍ ပြင်းထန်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Sawfa precedes only imperfect (Mudari) verbs.",
+          "rule_my": "Sawfa ကို ပစ္စုပ္ပန်ကြိယာ (Mudari) များ၏ ရှေ့တွင်သာ သုံးရမည်။",
+          "example": {
+            "ar": "سَوْفَ يَعْلَمُ",
+            "en": "He will soon know",
+            "my": "သူ မကြာမီ သိလိမ့်မည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+          "en": "Then no! You are going to know.",
+          "my": "(၄) ထို့ပြင် (သို့ဖြစ်ရာ)လုံးဝမဟုတ်ပေ၊ အသင်တို့သည် မကြာမီပင်သိရလိမ့်မည်။",
+          "ref": "102:4",
+          "breakdown": {
+            "subject": {
+              "word": "تَعْلَمُونَ",
+              "en": "You all know",
+              "note": "Second person plural"
+            },
+            "predicate": {
+              "word": "سَوْفَ",
+              "en": "Soon",
+              "note": "Future particle"
+            }
+          },
+          "myanmar_insight": "ثُمَّ (ထို့နောက်) ကို သုံးပြီး သတိပေးချက်ကို နှစ်ဆမြှင့်ထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing 'Sa' (س) with 'Sawfa' (سَوْفَ)",
+          "wrong": {
+            "ar": "سَتَعْلَمُونَ",
+            "note": "This is near future"
+          },
+          "correct": {
+            "ar": "سَوْفَ تَعْلَمُونَ",
+            "en": "You will know (later)",
+            "my": "နောင်တစ်ချိန်တွင် သင်တို့ သိကြရမည်"
+          },
+          "myanmar_tip": "Sawfa သည် စကားလုံး ရှည်သကဲ့သို့ အချိန်ကာလလည်း ပိုရှည်သည်ဟု မှတ်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the future particle and the verb in the ayah",
+          "instruction_my": "အာယသ်တော်လာ အနာဂတ်ပြပုဒ်နှင့် ကြိယာကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "سَوْفَ يُؤْتِيهِمْ أَجُورَهُمْ",
+              "answer_en": "Sawfa (future), Yu'tihim (He will give them)",
+              "answer_my": "ဆောင်ဖာ (အနာဂတ်)၊ ယုအ်သီဟင်မ် (သူပေးလိမ့်မည်)",
+              "ref": "4:152"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ။",
+          "questions": [
+            {
+              "q": "كَلَّا سَوْفَ تَعْلَمُونَ",
+              "answer_en": "Nay, you will come to know",
+              "answer_my": "အလျှင်းမဟုတ်၊ သင်တို့ မကြာမီ သိကြရမည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Add Sawfa to the verb to make it future",
+          "instruction_my": "အနာဂတ်ကာလဖြစ်စေရန် Sawfa ထည့်ပါ။",
+          "questions": [
+            {
+              "q": "يَرْضَىٰ",
+              "answer_en": "He will be satisfied",
+              "answer_my": "သူကျေနပ်လိမ့်မည်",
+              "ar": "سَوْفَ يَرْضَىٰ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Kalla awakens the soul from its distraction with the material world. It reminds us that our current blindness is temporary and the Ultimate Reality will soon be revealed.",
+        "my": "ကလ္လာ သည် ဒွန္ယာပစ္စည်းများအပေါ် မေ့လျော့နေသော ဝိညာဉ်ကို နိုးကြားစေသည်။ ယခုကျွန်ုပ်တို့ မမြင်နိုင်သော အမှန်တရားများသည် မကြာမီ ပေါ်လွင်လာမည်ဖြစ်ကြောင်း သတိပေးနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "At-Takathur 102:3",
+        "study_number": 1,
+        "arabic_full": "كَلَّا سَوْفَ تَعْلَمُونَ",
+        "en_sahih": "No! You are going to know.",
+        "my_mmsy": "(၃) (အသင်တို့သည် ထိုသို့ကြွယ်ဝမှုလောဘတက်ရန်)လုံးဝမဟုတ်ပေ၊ အသင်တို့သည် မကြာမီပင်သိရလိမ့်မည်။",
+        "audio_ref": {
+          "surah": 102,
+          "ayah": 3,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/102003.mp3"
+        },
+        "qurancom_url": "https://quran.com/102/3",
+        "context": {
+          "en": "This surah rebukes people for being distracted by gathering wealth until they enter their graves.",
+          "my": "ဤစူရဟ်သည် လူသားတို့ သေသည်အထိ ပစ္စည်းဥစ္စာ စုဆောင်းမှုတွင် အာရုံများနေခြင်းကို ဆုံးမထားခြင်း ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "تَعْلَمُونَ",
+            "translit": "ta'lamūn",
+            "en": "you will know",
+            "my": "သင်တို့ သိကြလိမ့်မည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ع ل م",
+            "freq": 800
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Sawfa + Mudari verb creating a threatening future certainty.",
+          "structure_my": "Sawfa နှင့် Mudari ကြိယာတို့ ပေါင်းစပ်ကာ ရှောင်လွှဲမရသော အနာဂတ်ကို ပြဆိုခြင်း။",
+          "insight_en": "The omission of what exactly they will know creates 'Tahwil' (horror through ambiguity).",
+          "insight_my": "ဘာကို သိရမလဲဆိုတာ အတိအကျ မပြောခြင်းက ပို၍ ကြောက်စရာကောင်းသော အခြေအနေကို ဖော်ဆောင်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ل م",
+            "concept_en": "To mark something so it is known; knowledge that leads to action.",
+            "concept_my": "တစ်ခုခုကို သိရှိစေရန် အမှတ်အသားပြုခြင်း၊ လုပ်ဆောင်ချက်ဆီသို့ ဦးတည်သော အသိပညာ။",
+            "members": [
+              {
+                "ar": "عَالِم",
+                "en": "Scholar",
+                "my": "ပညာရှင်",
+                "freq": 13
+              }
+            ],
+            "professors_note": "In Quranic Arabic, true 'Ilm' is often contrasted with 'Zann' (conjecture)."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ မြန်မာမွတ်စလင်မ်များသည် လောကီစီးပွားရေး နောက်သို့ တကောက်ကောက် လိုက်နေရင်း အာခိရသ်ကို မေ့လျော့တတ်ကြသည်။ 'ကလ္လာ' ဟူသော စကားလုံးသည် 'တော်တော့၊ ရပ်လိုက်တော့' ဟု ကျွန်ုပ်တို့၏ နှလုံးသားကို လှုပ်နှိုးနေခြင်း ဖြစ်သည်။ သေဆုံးပြီးနောက် ကြုံတွေ့ရမည့် အမှန်တရားသည် စုဆောင်းထားသမျှ ပစ္စည်းများထက် ပို၍ ခိုင်မာကြောင်း သိမှတ်ရမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Short, punchy rhythm with the 'oon' ending echoing the warning.",
+          "meaning_anchor": "Imagine a curtain being pulled back to reveal a massive fire.",
+          "daily_connection": "Recite this when feeling overwhelmed by greed or competition.",
+          "my": "အဆုံးသတ် 'အွန်' သံသည် သတိပေးခေါင်းလောင်းသံကဲ့သို့ ဖြစ်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Today we learned how 'Kalla' and 'Sawfa' combine to create powerful Quranic warnings. We explored the root of knowledge ('Alm) and certainty (Yaqin) in the context of Surah At-Takathur. Understanding these tools helps us feel the urgency of the Quran's message regarding the hereafter.",
+      "my": "ယနေ့တွင် 'Kalla' နှင့် 'Sawfa' တို့ ပေါင်းစပ်ပြီး အားကောင်းသော ကုရ်အာန် သတိပေးချက်များ ဖန်တီးပုံကို လေ့လာခဲ့သည်။ စူရဟ် အသ်-သကာသုရ် လာ အသိပညာ (Alm) နှင့် သေချာမှု (Yaqin) တို့၏ အရင်းအမြစ်များကိုလည်း လေ့လာခဲ့သည်။ ဤသဒ္ဒါကို နားလည်ခြင်းဖြင့် နောင်တမလွန်အတွက် ပြင်ဆင်ရန် အရေးကြီးပုံကို ခံစားသိရှိနိုင်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L4-177",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 177,
+    "title": {
+      "ar": "سُورَةُ الْقَارِعَةِ (١) — مَا الْقَارِعَةُ؟",
+      "en": "Juz Amma XXVII — Surah Al-Qari'ah: The Striking Calamity",
+      "my": "စူရဟ် အလ်-ကာရိအဟ် — ပြင်းထန်စွာ ရိုက်ခတ်သော အန္တရာယ်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Rhetorical question Mā + repetition for emphasis; Qāri'ah as Ism Fā'il",
+      "grammar_formula": "(Noun) + مَا + (Noun)?"
+    },
+    "section_1_vocab": [
+      {
+        "word": "الْقَارِعَة",
+        "translit": "al-qāri'ah",
+        "en": "the striking calamity",
+        "my": "ပြင်းထန်စွာ ရိုက်ခတ်သော အန္တရာယ်",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَاعِلَة",
+        "root": {
+          "letters": "ق ر ع",
+          "concept_en": "to strike / to knock",
+          "concept_my": "ရိုက်နှက်ခြင်း / တံခါးခေါက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Car (crashing)",
+          "image": "The sound of a heavy door being struck or a car crash",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "The Fa-ilah pattern often gives a name to an event or a tool.",
+        "example": {
+          "ar": "مَا الْقَارِعَةُ",
+          "en": "What is the Striking Calamity?",
+          "my": "ပြင်းထန်စွာ ရိုက်ခတ်သော အန္တရာယ်ဆိုသည်မှာ အဘယ်နည်း။",
+          "ref": "101:2"
+        }
+      },
+      {
+        "word": "مَوَازِين",
+        "translit": "mawāzīn",
+        "en": "scales",
+        "my": "ချိန်ခွင်များ",
+        "quran_freq": 16,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفَاعِيل",
+        "root": {
+          "letters": "و ز ن",
+          "concept_en": "weight / measure",
+          "concept_my": "အလေးချိန် / တိုင်းတာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Moves in",
+          "image": "Watching the scale needle move as it weighs",
+          "cross_language": "Wazan (Weight) in Urdu/Myanmar Muslim context"
+        },
+        "word_family": [
+          {
+            "ar": "مِيزَان",
+            "translit": "mizan",
+            "en": "scale",
+            "my": "ချိန်ခွင်",
+            "freq": 9
+          }
+        ],
+        "pattern_unlock": "Mafaeel is a broken plural pattern for tools or instruments.",
+        "example": {
+          "ar": "ثَقُلَتْ مَوَازِينُهُ",
+          "en": "his scales are heavy",
+          "my": "သူ၏ ချိန်ခွင်များ လေးလံခဲ့သည်",
+          "ref": "101:6"
+        }
+      },
+      {
+        "word": "الْفَرَاش",
+        "translit": "al-farāsh",
+        "en": "moths",
+        "my": "ပိုးဖလံများ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَال",
+        "root": {
+          "letters": "ف ر ش",
+          "concept_en": "to spread out",
+          "concept_my": "ဖြန့်ခင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fresh",
+          "image": "Moths spreading out from a fresh cocoon",
+          "cross_language": "Farsh (carpet/floor) in Urdu/Arabic"
+        },
+        "word_family": [],
+        "pattern_unlock": "Moths are called Farash because they spread their wings or are spread everywhere.",
+        "example": {
+          "ar": "كَالْفَرَاشِ الْمَبْثُوثِ",
+          "en": "like moths dispersed",
+          "my": "လွင့်ပျံ့နေသော ပိုးဖလံများကဲ့သို့",
+          "ref": "101:4"
+        }
+      },
+      {
+        "word": "الْعِهْن",
+        "translit": "al-'ihn",
+        "en": "wool",
+        "my": "သိုးမွှေး",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ع ه ن",
+          "concept_en": "dyed wool",
+          "concept_my": "ဆိုးဆေးဆိုးထားသော သိုးမွှေး"
+        },
+        "memory_hook": {
+          "sound": "In (stuck in)",
+          "image": "Bits of wool stuck in a fence",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "This word specifically refers to colored wool that is teased or fluffed up.",
+        "example": {
+          "ar": "كَالْعِهْنِ الْمَنْفُوشِ",
+          "en": "like wool fluffed up",
+          "my": "ဖွနေသော သိုးမွှေးကဲ့သို့",
+          "ref": "101:5"
+        }
+      },
+      {
+        "word": "الْجِبَال",
+        "translit": "al-jibāl",
+        "en": "the mountains",
+        "my": "တောင်များ",
+        "quran_freq": 33,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ج ب ل",
+          "concept_en": "mountain / nature",
+          "concept_my": "တောင် / သဘာဝတရား"
+        },
+        "memory_hook": {
+          "sound": "Jabal",
+          "image": "The famous mountains mentioned in Islamic history",
+          "cross_language": "Jabal (mountain) in Malay/Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "جَبَل",
+            "translit": "jabal",
+            "en": "mountain",
+            "my": "တောင်",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "Plural of non-human objects is treated as feminine singular in grammar.",
+        "example": {
+          "ar": "وَتَكُونُ الْجِبَالُ",
+          "en": "and the mountains will be",
+          "my": "တောင်များသည် ဖြစ်လာကြကုန်အံ့",
+          "ref": "101:5"
+        }
+      },
+      {
+        "word": "الْمَبْثُوث",
+        "translit": "al-mabthūth",
+        "en": "dispersed / scattered",
+        "my": "ပျံ့လွင့်နေသော",
+        "quran_freq": 3,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ب ث ث",
+          "concept_en": "to scatter / spread",
+          "concept_my": "ပျံ့နှံ့စေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Bath (scattering water)",
+          "image": "Scattering water drops in a bath",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "The Maf-ool pattern indicates a passive state (being scattered).",
+        "example": {
+          "ar": "كَالْفَرَاشِ الْمَبْثُوثِ",
+          "en": "like moths dispersed",
+          "my": "လွင့်ပျံ့နေသော ပိုးဖလံများကဲ့သို့",
+          "ref": "101:4"
+        }
+      },
+      {
+        "word": "الْمَنْفُوش",
+        "translit": "al-manfūsh",
+        "en": "fluffed up / carded",
+        "my": "ဖွထားသော",
+        "quran_freq": 1,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ن ف ش",
+          "concept_en": "to puff up / tease wool",
+          "concept_my": "ဖွခြင်း / ပွစေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Noosh (soft sound)",
+          "image": "A soft, fluffed-up pile of wool",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Like the previous word, this Maf-ool pattern shows the state of the mountains.",
+        "example": {
+          "ar": "كَالْعِهْنِ الْمَنْفُوشِ",
+          "en": "like fluffed up wool",
+          "my": "ဖွနေသော သိုးမွှေးကဲ့သို့",
+          "ref": "101:5"
+        }
+      },
+      {
+        "word": "النَّاس",
+        "translit": "al-nās",
+        "en": "the people",
+        "my": "လူသားများ",
+        "quran_freq": 241,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ن و س",
+          "concept_en": "people / movement",
+          "concept_my": "လူသားများ / လှုပ်ရှားမှု"
+        },
+        "memory_hook": {
+          "sound": "Nas (purgatory)",
+          "image": "A mass of people moving together",
+          "cross_language": "An-Nas (The People) surah name"
+        },
+        "word_family": [
+          {
+            "ar": "إِنْسَان",
+            "translit": "insan",
+            "en": "human",
+            "my": "လူသား",
+            "freq": 65
+          }
+        ],
+        "pattern_unlock": "This word is a collective noun and is used very frequently in the Quran.",
+        "example": {
+          "ar": "يَوْمَ يَكُونُ النَّاسُ",
+          "en": "The Day mankind will be",
+          "my": "လူသားများ ဖြစ်ကြမည့် နေ့တွင်",
+          "ref": "101:4"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الاسْتِفْهَامُ التَّهْوِيلِيُّ وَالتَّكْرَار",
+        "en": "Rhetorical Questioning and Repetition",
+        "my": "ထိတ်လန့်ဖွယ် မေးခွန်းထုတ်ခြင်းနှင့် ထပ်ခါတလဲလဲ သုံးနှုန်းခြင်း"
+      },
+      "formula": {
+        "display": "الْقَارِعَةُ (၁) مَا الْقَارِعَةُ (၂) وَمَا أَدْرَاكَ مَا الْقَارِعَةُ (၃)",
+        "example": "الْقَارِعَةُ مَا الْقَارِعَةُ",
+        "myanmar_read": "အလ်-ကာရိအဟ်၊ မာ အလ်-ကာရိအဟ်",
+        "key_insight": "Starting with a single word followed by 'What is...' heightens curiosity and awe."
+      },
+      "explanation": {
+        "en": "In Quranic Arabic, mentioning a noun like 'Al-Qari'ah' and then asking 'What is Al-Qari'ah?' is not seeking information, but rather emphasizing the magnitude of the event. The repetition forces the listener to realize that their current understanding is insufficient for the reality of that Day.",
+        "my": "ကုရ်အာန်တွင် 'Al-Qari'ah' ကဲ့သို့သော နာမ်ကို အရင်ပြောပြီး 'Al-Qari'ah ဆိုတာ ဘာလဲ' ဟု ပြန်မေးခြင်းသည် အဖြေကို မသိ၍ မေးခြင်းမဟုတ်ဘဲ ထိုအဖြစ်အပျက်၏ ကြီးကျယ်ထိတ်လန့်မှုကို အလေးပေးခြင်း ဖြစ်သည်။ ထိုသို့ ထပ်ခါတလဲလဲ မေးခြင်းက နားထောင်သူအား ထိုနေ့၏ အခြေအနေကို ပိုမို အာရုံစိုက်စေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to saying 'The Exam! Oh, what a tough exam!' to show how serious it is.",
+        "my": "မြန်မာစကားတွင် 'စာမေးပွဲ၊ ဘယ်လိုစာမေးပွဲမျိုးလဲ' ဟု အလေးအနက်ပြု ပြောဆိုသကဲ့သို့ ဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Mā (مَا) is used here as an interrogative particle for 'What'.",
+          "rule_my": "Mā (မား) ကို 'အဘယ်နည်း' ဟု အဓိပ္ပာယ်ရသော မေးခွန်းပြပုဒ်အဖြစ် သုံးသည်။",
+          "example": {
+            "ar": "مَا هِيَهْ؟",
+            "en": "What is it?",
+            "my": "၎င်းသည် အဘယ်နည်း။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "الْحَاقَّةُ مَا الْحَاقَّةُ",
+          "en": "The Inevitable Reality - What is the Inevitable Reality?",
+          "my": "(၁) အမှန်မုချဖြစ်မည့်အရာ။",
+          "ref": "69:1-2",
+          "breakdown": {
+            "subject": {
+              "word": "الْحَاقَّةُ",
+              "en": "The Reality",
+              "note": "Subject being defined"
+            },
+            "predicate": {
+              "word": "مَا الْحَاقَّةُ",
+              "en": "What is the Reality?",
+              "note": "Rhetorical question"
+            }
+          },
+          "myanmar_insight": "တုန်လှုပ်ဖွယ်ရာ အမည်နာမများကို ဤပုံစံဖြင့် စတင်လေ့ရှိသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking 'Mā' always means 'Not'",
+          "wrong": {
+            "ar": "مَا الْقَارِعَةُ",
+            "note": "Translating as 'Not the striking calamity'"
+          },
+          "correct": {
+            "ar": "مَا الْقَارِعَةُ",
+            "en": "What is the striking calamity?",
+            "my": "ပြင်းထန်စွာ ရိုက်ခတ်သော အန္တရာယ်ဆိုသည်မှာ အဘယ်နည်း။"
+          },
+          "myanmar_tip": "ဝါကျနောက်တွင် မေးခွန်းသင်္ကေတ သို့မဟုတ် အဓိပ္ပာယ်ကို ကြည့်ပြီး ခွဲခြားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the rhetorical question pattern in these verses",
+          "instruction_my": "ဤအာယသ်တော်များတွင် မေးခွန်းထုတ်ပုံစံကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "الْحَاقَّةُ مَا الْحَاقَّةُ",
+              "answer_en": "Al-Haqqah followed by Ma Al-Haqqah",
+              "answer_my": "အလ်-ဟာကဟ် နောက်တွင် မာ အလ်-ဟာကဟ် လိုက်ခြင်း",
+              "ref": "69:1-2"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ။",
+          "questions": [
+            {
+              "q": "مَا أَدْرَاكَ مَا الْقَارِعَةُ",
+              "answer_en": "And what can make you know what is the Striking Calamity?",
+              "answer_my": "ပြင်းထန်စွာ ရိုက်ခတ်သော အန္တရာယ်သည် အဘယ်နည်းဟု သင့်အား မည်သည့်အရာက သိစေသနည်း။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Construct a rhetorical question using 'Al-Qiyamah'",
+          "instruction_my": "'Al-Qiyamah' ကို သုံးပြီး အလေးပေး မေးခွန်း တည်ဆောက်ပါ။",
+          "questions": [
+            {
+              "q": "الْقِيَامَةُ",
+              "answer_en": "Al-Qiyamah! Ma Al-Qiyamah?",
+              "answer_my": "အလ်-ကိယာမဟ်၊ မာ အလ်-ကိယာမဟ်",
+              "ar": "الْقِيَامَةُ مَا الْقِيَامَةُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The name 'Al-Qari'ah' literally means 'The Knocker'. It describes the Day of Judgment as something that knocks or strikes the hearts with such force that everything in the universe is shaken. It is a wake-up call for the soul.",
+        "my": "အလ်-ကာရိအဟ် သည် 'တံခါးခေါက်သူ' ဟု အဓိပ္ပာယ်ရသည်။ ကိယာမသ်နေ့သည် နှလုံးသားများကို ပြင်းပြင်းထန်ထန် ရိုက်ခတ်နှိုးဆော်မည့် နေ့ဖြစ်ကြောင်း တင်စားထားခြင်း ဖြစ်သည်။ ၎င်းသည် ဝိညာဉ်များ နိုးကြားစေရန် ခေါ်ယူနေခြင်း ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Qari'ah 101:1-3",
+        "study_number": 1,
+        "arabic_full": "الْقَارِعَةُ مَا الْقَارِعَةُ وَمَا أَدْرَاكَ مَا الْقَارِعَةُ",
+        "en_sahih": "The Striking Calamity. What is the Striking Calamity? And what can make you know what is the Striking Calamity?",
+        "my_mmsy": "(၁) တီးခေါက်သတိပေးသည့်အရာ၊  ၁",
+        "audio_ref": {
+          "surah": 101,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/101001.mp3"
+        },
+        "qurancom_url": "https://quran.com/101/1",
+        "context": {
+          "en": "This surah begins by grabbing attention through a terrifying name and rhetorical questions to describe the chaos of the Last Day.",
+          "my": "ဤစူရဟ်သည် နောက်ဆုံးနေ့၏ ပရမ်းပတာ အခြေအနေကို ဖော်ပြရန် ကြောက်မက်ဖွယ်ကောင်းသော အမည်နှင့် မေးခွန်းများဖြင့် စတင်ကာ အာရုံဖမ်းစားထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أَدْرَاكَ",
+            "translit": "adrāka",
+            "en": "made you know",
+            "my": "သင့်အား သိစေခဲ့သည်",
+            "role_en": "Verb + Pronoun",
+            "role_my": "ကြိယာ + နာမ်စား",
+            "root": "د ر ي",
+            "freq": 15
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Ism Fail (Qari'ah) used as a proper name for the Day of Judgment.",
+          "structure_my": "Ism Fail (ပြုလုပ်သူနာမ်) ဖြစ်သော ကာရိအဟ် ကို ကိယာမသ်နေ့၏ အမည်အဖြစ် သုံးထားခြင်း။",
+          "insight_en": "The phrase 'Ma adraka' appears 13 times in the Quran, always introducing a matter of great importance that human intellect alone cannot grasp.",
+          "insight_my": "'မာ အဒ်ရာက' ဆိုသော စကားစုသည် လူသားတို့၏ ဉာဏ်ဖြင့် မမီနိုင်သော ကြီးကျယ်သည့် ကိစ္စရပ်များကို ပြောတော့မည့်အခါ ကုရ်အာန်တွင် ၁၃ ကြိမ်တိုင်တိုင် ပါရှိသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ق ر ع",
+            "concept_en": "To strike two things together so a sound is produced; specifically to hit with a loud noise.",
+            "concept_my": "အရာဝတ္ထုနှစ်ခုကို ရိုက်ခတ်ခြင်းဖြင့် အသံထွက်စေခြင်း၊ အထူးသဖြင့် ကျယ်လောင်သောအသံဖြင့် ရိုက်နှက်ခြင်း။",
+            "members": [
+              {
+                "ar": "قَرَعَ",
+                "en": "He knocked",
+                "my": "သူတံခါးခေါက်ခဲ့သည်",
+                "freq": 1
+              }
+            ],
+            "professors_note": "Al-Qari'ah is named so because it strikes the hearts with terror and ears with its blast."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ ဘဝတွင် မထင်မှတ်ဘဲ ကြုံတွေ့ရသော ပြဿနာများသည်ပင် ကျွန်ုပ်တို့ကို တုန်လှုပ်စေသည်။ သို့သော် အလ္လာဟ်အရှင်မြတ် သတိပေးနေသော 'အလ်-ကာရိအဟ်' သည် စကြဝဠာတစ်ခုလုံးကို တုန်ခါသွားစေမည့် နေ့ဖြစ်သည်။ ထိုနေ့တွင် တောင်ကြီးများပင် သိုးမွှေးမျှင်လေးများကဲ့သို့ လွင့်စဉ်သွားမည်ဆိုပါက ကျွန်ုပ်တို့၏ အခြေအနေမှာ မည်သို့ရှိမည်နည်း။ ထိုနေ့အတွက် ရိက္ခာကို ယခုပင် စုဆောင်းကြပါစို့။"
+        },
+        "memorization_helper": {
+          "rhythm": "Heavy rhythmic sounds (Qaf, Ra, Ayn) mimic the sound of striking.",
+          "meaning_anchor": "Imagine a giant gavel striking a table, silencing the whole world.",
+          "daily_connection": "Whenever you hear a loud knock, remember the ultimate knock of Al-Qari'ah.",
+          "my": "ခက်ထန်သော အက္ခရာများ (Qaf, Ra, Ayn) သည် ရိုက်ခတ်သံကို ပိုမို ပေါ်လွင်စေသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we explored the dramatic opening of Surah Al-Qari'ah. We learned how rhetorical repetition heightens the intensity of Quranic warnings and studied the terrifying imagery of mountains becoming like wool. This helps us understand the power of Ism Fa'il patterns in naming cosmic events.",
+      "my": "ဤသင်ခန်းစာတွင် စူရဟ် အလ်-ကာရိအဟ် ၏ စိတ်လှုပ်ရှားဖွယ် အစပြုပုံကို လေ့လာခဲ့သည်။ ကုရ်အာန်လာ မေးခွန်းများ ထပ်ခါတလဲလဲ သုံးနှုန်းပုံနှင့် တောင်ကြီးများ သိုးမွှေးကဲ့သို့ ဖြစ်သွားမည့် ပုံရိပ်ဖော်ချက်များကို လေ့လာခဲ့သည်။ ၎င်းသည် ကုရ်အာန်၏ ဘာသာစကား အလှအပနှင့် လေးနက်မှုကို နားလည်ရန် အထောက်အကူပြုသည်။"
+    }
+  },
+  {
+    "lesson_id": "L4-178",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 178,
+    "title": {
+      "ar": "سُورَةُ الْقَارِعَةِ (٢) — الْمَوَازِينُ وَالْمَصِير",
+      "en": "Juz Amma XXVIII — Surah Al-Qari'ah: Scales and Fate",
+      "my": "စူရဟ် အလ်-ကာရိအဟ် — ချိန်ခွင်များနှင့် လားရာ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Conditional: man thaqulat mawāzīnuh (whoever's scales are heavy)",
+      "grammar_formula": "فَأَمَّا مَنْ + (Verb) + فَـ + (Result)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "ثَقُلَتْ",
+        "translit": "thaqulat",
+        "en": "became heavy",
+        "my": "လေးလံခဲ့သည်",
+        "quran_freq": 10,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فَعُلَتْ",
+        "root": {
+          "letters": "ث ق ل",
+          "concept_en": "weight / heaviness",
+          "concept_my": "အလေးချိန် / လေးလံမှု"
+        },
+        "memory_hook": {
+          "sound": "The quill (is not heavy)",
+          "image": "Comparing a heavy stone with a light quill",
+          "cross_language": "Saqeel (Heavy) in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "ثَقِيل",
+            "translit": "thaqil",
+            "en": "heavy",
+            "my": "လေးသော",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "The 'at' suffix (تْ) shows the subject is feminine (Mawazin).",
+        "example": {
+          "ar": "فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ",
+          "en": "Then as for him whose scales are heavy",
+          "my": "ထို့နောက် မည်သူမဆို သူ၏ ချိန်ခွင်များ လေးလံခဲ့လျှင်",
+          "ref": "101:6"
+        }
+      },
+      {
+        "word": "خَفَّتْ",
+        "translit": "khaffat",
+        "en": "became light",
+        "my": "ပေါ့ပါးခဲ့သည်",
+        "quran_freq": 7,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فَعَّتْ",
+        "root": {
+          "letters": "خ ف ف",
+          "concept_en": "lightness / agility",
+          "concept_my": "ပေါ့ပါးခြင်း / သွက်လက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cough (light as air)",
+          "image": "A feather being blown away by a light cough",
+          "cross_language": "Khafif (light) in Malay/Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "خَفِيف",
+            "translit": "khafif",
+            "en": "light",
+            "my": "ပေါ့သော",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "This is the direct antonym of 'Thaqulat'.",
+        "example": {
+          "ar": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+          "en": "But as for him whose scales are light",
+          "my": "သို့ရာတွင် မည်သူမဆို သူ၏ ချိန်ခွင်များ ပေါ့ပါးခဲ့လျှင်",
+          "ref": "101:8"
+        }
+      },
+      {
+        "word": "عِيشَة",
+        "translit": "'īshah",
+        "en": "life / living",
+        "my": "ဘဝ / နေထိုင်မှု",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعْلَة",
+        "root": {
+          "letters": "ع ي ش",
+          "concept_en": "living / livelihood",
+          "concept_my": "ရှင်သန်ခြင်း / အသက်မွေးမှု"
+        },
+        "memory_hook": {
+          "sound": "Aisha (common name)",
+          "image": "Aisha living a happy life",
+          "cross_language": "Aish (luxury/life) in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "مَعِيشَة",
+            "translit": "ma'ishah",
+            "en": "livelihood",
+            "my": "စားဝတ်နေရေး",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Fialah pattern often refers to a state or mode of being.",
+        "example": {
+          "ar": "فِي عِيشَةٍ رَاضِيَةٍ",
+          "en": "in a pleasant life",
+          "my": "သာယာကြည်နူးဖွယ် ဘဝတွင်",
+          "ref": "101:7"
+        }
+      },
+      {
+        "word": "رَاضِيَة",
+        "translit": "rāḍiyah",
+        "en": "pleasant / satisfied",
+        "my": "ကျေနပ်ဖွယ်ရာ",
+        "quran_freq": 2,
+        "word_type": "Adjective",
+        "gender": "Feminine",
+        "wazn": "فَاعِلَة",
+        "root": {
+          "letters": "ر ض ي",
+          "concept_en": "pleasure / satisfaction",
+          "concept_my": "ကျေနပ်နှစ်သက်မှု"
+        },
+        "memory_hook": {
+          "sound": "Ready",
+          "image": "Being ready and satisfied with what you have",
+          "cross_language": "Razia (name) / Razi (pleased) in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "رَضِيَ",
+            "translit": "radiya",
+            "en": "he was pleased",
+            "my": "သူကျေနပ်ခဲ့သည်",
+            "freq": 16
+          }
+        ],
+        "pattern_unlock": "This is an Ism Fail, literally meaning 'the one that is pleased'.",
+        "example": {
+          "ar": "عِيشَةٍ رَاضِيَةٍ",
+          "en": "a pleasant life",
+          "my": "သာယာကြည်နူးဖွယ် ဘဝ",
+          "ref": "101:7"
+        }
+      },
+      {
+        "word": "أُمُّهُ",
+        "translit": "ummuhu",
+        "en": "his mother / refuge",
+        "my": "သူ၏ မိခင် / ခိုလှုံရာ",
+        "quran_freq": 35,
+        "word_type": "Noun + Pronoun",
+        "gender": "Feminine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "أ م م",
+          "concept_en": "source / mother / foundation",
+          "concept_my": "မူလအစ / မိခင် / အခြေခံ"
+        },
+        "memory_hook": {
+          "sound": "Um (Ummi)",
+          "image": "A child running to its mother for refuge",
+          "cross_language": "Ummi (My mother) in common Arabic/Myanmar Muslim usage"
+        },
+        "word_family": [
+          {
+            "ar": "أُمَّة",
+            "translit": "ummah",
+            "en": "nation",
+            "my": "သာသနာ့အနွယ်ဝင်",
+            "freq": 51
+          }
+        ],
+        "pattern_unlock": "Here, 'Mother' is used metaphorically for the place where one returns.",
+        "example": {
+          "ar": "فَأُمُّهُ هَاوِيَةٌ",
+          "en": "then his refuge is an abyss",
+          "my": "ထိုအခါ သူ၏ ခိုလှုံရာသည် ဟာဝိယဟ် ငရဲချောက်ကြီး ဖြစ်၏",
+          "ref": "101:9"
+        }
+      },
+      {
+        "word": "هَاوِيَة",
+        "translit": "hāwiyah",
+        "en": "an abyss / pit",
+        "my": "နက်ရှိုင်းသော ချောက်ကြီး",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَاعِلَة",
+        "root": {
+          "letters": "ه و ي",
+          "concept_en": "to fall / desire",
+          "concept_my": "ပြုတ်ကျခြင်း / အလိုဆန္ဒ"
+        },
+        "memory_hook": {
+          "sound": "Howl",
+          "image": "Howling as you fall into a bottomless pit",
+          "cross_language": "Hawa (desire) in Malay/Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "هَوَىٰ",
+            "translit": "hawa",
+            "en": "desire",
+            "my": "အလိုရမ္မက်",
+            "freq": 16
+          }
+        ],
+        "pattern_unlock": "Hāwiyah comes from falling; it is the name of a specific gate of Hell.",
+        "example": {
+          "ar": "فَأُمُّهُ هَاوِيَةٌ",
+          "en": "his refuge is an abyss",
+          "my": "သူ၏ ခိုလှုံရာသည် ငရဲချောက်ကြီး ဖြစ်၏",
+          "ref": "101:9"
+        }
+      },
+      {
+        "word": "حَامِيَة",
+        "translit": "ḥāmiyah",
+        "en": "intensely hot",
+        "my": "အလွန်အမင်း ပူပြင်းသော",
+        "quran_freq": 3,
+        "word_type": "Adjective",
+        "gender": "Feminine",
+        "wazn": "فَاعِلَة",
+        "root": {
+          "letters": "ح م ي",
+          "concept_en": "heat / protection",
+          "concept_my": "အပူရှိန် / ကာကွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hammer (hot from forging)",
+          "image": "A hammer glowing red from a hot forge",
+          "cross_language": "Hammam (Hot bath) in Arabic/Urdu"
+        },
+        "word_family": [],
+        "pattern_unlock": "The feminine ending matches the feminine noun 'Nar' (Fire).",
+        "example": {
+          "ar": "نَارٌ حَامِيَةٌ",
+          "en": "a fire intensely hot",
+          "my": "အလွန်ပူပြင်းလှသော မီး",
+          "ref": "101:11"
+        }
+      },
+      {
+        "word": "نَار",
+        "translit": "nār",
+        "en": "fire",
+        "my": "မီး",
+        "quran_freq": 145,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ن و ر",
+          "concept_en": "light / fire",
+          "concept_my": "အလင်း / မီး"
+        },
+        "memory_hook": {
+          "sound": "No (don't touch)",
+          "image": "Saying 'No!' to a dangerous fire",
+          "cross_language": "Noor (light) is from the same root"
+        },
+        "word_family": [
+          {
+            "ar": "نُور",
+            "translit": "nur",
+            "en": "light",
+            "my": "အလင်း",
+            "freq": 43
+          }
+        ],
+        "pattern_unlock": "Nar (Fire) is always feminine in Arabic grammar.",
+        "example": {
+          "ar": "نَارٌ حَامِيَةٌ",
+          "en": "a fire intensely hot",
+          "my": "အလွန်ပူပြင်းလှသော မီး",
+          "ref": "101:11"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أَسْلُوبُ الشَّرْطِ (أَمَّا مَنْ)",
+        "en": "Conditional Contrast (Amma Man)",
+        "my": "အခြေအနေပြ နှိုင်းယှဉ်ချက် (Amma Man)"
+      },
+      "formula": {
+        "display": "فَأَمَّا مَنْ + (ဖော်ပြချက်) + فَـ + (ရလဒ်)",
+        "example": "فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ",
+        "myanmar_read": "ဖာ အမ်မာ မန် (ထို့နောက် မည်သူမဆို) ... ဖာ ဟုဝါ (သူသည် ... ဖြစ်၏)",
+        "key_insight": "'Amma' splits the group into two paths, showing a clear 'If X, then Y' consequence."
+      },
+      "explanation": {
+        "en": "The structure 'Amma man...' is used to contrast two different groups of people and their outcomes. It translates to 'As for the one who...'. The 'Fa' that follows introduces the result or reward. It is a powerful way to categorize human behavior and its ultimate consequence.",
+        "my": "Amma man (အမ်မာ မန်) ဆိုသော ပုံစံသည် လူအုပ်စု နှစ်စု၏ မတူညီသော ရလဒ်များကို နှိုင်းယှဉ်ပြရန် သုံးသည်။ 'မည်သူမဆို ... သူသည်' ဟု အဓိပ္ပာယ်ရသည်။ ၎င်းနောက်တွင် ပါလာသော 'Fa' သည် ထိုသူ ရရှိမည့် အကျိုးဆက် သို့မဟုတ် အကျိုးကျေးဇူးကို ဖော်ပြသည်။ ၎င်းသည် လူသားတို့၏ လုပ်ရပ်နှင့် ရလဒ်ကို ပြတ်ပြတ်သားသား ခွဲခြားပြခြင်း ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to Myanmar 'မည်သူမဆို ... ဖြစ်စေ၊ သူသည် ... ခံစားရမည်' structure.",
+        "my": "မြန်မာစကားတွင် 'မည်သူမဆို (ဤသို့) ဖြစ်ခဲ့လျှင်၊ သူသည် (ထိုသို့) ဖြစ်လိမ့်မည်' ဟု သုံးနှုန်းခြင်းနှင့် ဆင်တူသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "'Amma' always requires a 'Fa' in the response clause.",
+          "rule_my": "'Amma' (အမ်မာ) ပါလျှင် အဖြေဝါကျတွင် 'Fa' (ဖာ) အမြဲတမ်း ပါရမည်။",
+          "example": {
+            "ar": "أَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+            "en": "As for the orphan, do not oppress",
+            "my": "မိဘမဲ့ကလေးနှင့် ပတ်သက်၍မူ နှိပ်စက်ညှင်းပန်းခြင်း မပြုလင့်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ",
+          "en": "As for he who gives and fears Allah",
+          "my": "(၅) သို့ဖြစ်ရာ မည်သို့ပင်ဖြစ်စေ၊ အကြင်သူသည် ပေးကမ်းလှူဒါန်းသည်။ ထို့ပြင် သူသည်(အလ္လာဟ်အရှင်မြတ်အား) ကြောက်ရွံ့သည်။",
+          "ref": "92:5",
+          "breakdown": {
+            "subject": {
+              "word": "أَعْطَىٰ",
+              "en": "He gave",
+              "note": "Condition 1"
+            },
+            "predicate": {
+              "word": "اتَّقَىٰ",
+              "en": "He feared",
+              "note": "Condition 2"
+            }
+          },
+          "myanmar_insight": "ဒါနနှင့် သက္ကဝါ ပေါင်းစပ်မှု၏ ရလဒ်ကို ပြသရန် 'Amma' ကို သုံးထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting the 'Fa' after Amma",
+          "wrong": {
+            "ar": "أَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ هُوَ...",
+            "note": "Missing the connecting 'Fa'"
+          },
+          "correct": {
+            "ar": "فَأَمَّا مَنْ ... فَهُوَ",
+            "en": "As for him ... then he is",
+            "my": "ထိုအခါ သူသည် ..."
+          },
+          "myanmar_tip": "Amma နှင့် Fa သည် တွဲရက် သူငယ်ချင်းများ ဖြစ်သည်ဟု မှတ်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Locate the 'Amma' and the following 'Fa' in the verses",
+          "instruction_my": "အာယသ်တော်များတွင် 'Amma' နှင့် 'Fa' ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ فَأُمُّهُ هَاوِيَةٌ",
+              "answer_en": "Amma (verse start), Fa-ummuhu (result start)",
+              "answer_my": "အမ်မာ (အစတွင်)၊ ဖာ-အွန်မုဟူ (ရလဒ်အစတွင်)",
+              "ref": "101:8-9"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the conditional sentence",
+          "instruction_my": "အခြေအနေပြ ဝါကျကို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ",
+              "answer_en": "Then he is in a pleasant life",
+              "answer_my": "ထိုအခါ သူသည် သာယာကြည်နူးဖွယ် ဘဝတွင် ရှိလိမ့်မည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Complete the pattern: فَأَمَّا مَنْ (آمَنَ) ___ (فَلَهُ الْجَنَّةُ)",
+          "instruction_my": "ကွက်လပ်တွင် သင့်တော်သော စကားလုံးဖြည့်ပါ။",
+          "questions": [
+            {
+              "q": "فَأَمَّا مَنْ آمَنَ ___ جَنَّةٌ",
+              "answer_en": "فَلَهُ",
+              "answer_my": "ဖာလာဟူး (သူ့အတွက်ရှိ၏)",
+              "ar": "فَلَهُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The scales of Allah do not measure the size of the deed, but its weight in sincerity. Even a small word of Dhikr can be heavier than mountains if done with pure intention.",
+        "my": "အလ္လာဟ်အရှင်မြတ်၏ ချိန်ခွင်သည် လုပ်ရပ်၏ အရွယ်အစားကို မဟုတ်ဘဲ စေတနာ (အိခ်လာဆ်) ၏ အလေးချိန်ကို တိုင်းတာခြင်း ဖြစ်သည်။ စိတ်ရင်းမှန်ဖြင့် ဆိုသော ဇိကိရ် တစ်ခွန်းသည် တောင်ကြီးများထက်ပင် ပို၍ လေးလံနိုင်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Qari'ah 101:6-9",
+        "study_number": 1,
+        "arabic_full": "فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ فَأُمُّهُ هَاوِيَةٌ",
+        "en_sahih": "Then as for him whose scales are heavy [with good deeds], He will be in a pleasant life. But as for him whose scales are light, His refuge will be an abyss.",
+        "my_mmsy": "(၆) ထို့ပြင်အကြင်သူ၏ ချိန်စက်ခြင်းခံရသည့်အရာ(ကောင်းမှု)များသည် (မကောင်းမှုများထက်)အချိန်စီးခဲ့လျှင်။",
+        "audio_ref": {
+          "surah": 101,
+          "ayah": 6,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/101006.mp3"
+        },
+        "qurancom_url": "https://quran.com/101/6",
+        "context": {
+          "en": "After describing the chaos of the Day, Allah explains the judgment process through the symbol of the balance.",
+          "my": "ကိယာမသ်နေ့၏ ပရမ်းပတာ ဖြစ်ရပ်များကို ပြောပြပြီးနောက်၊ အလ္လာဟ်အရှင်မြတ်သည် ချိန်ခွင်သင်္ကေတဖြင့် တရားစီရင်မည့် ပုံစံကို ရှင်းပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "ثَقُلَتْ",
+            "translit": "thaqulat",
+            "en": "were heavy",
+            "my": "လေးလံခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ث ق ل",
+            "freq": 10
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Direct contrast between 'Thaqulat' (Heavy) and 'Khaffat' (Light) to divide destiny.",
+          "structure_my": "'Thaqulat' (လေးခြင်း) နှင့် 'Khaffat' (ပေါ့ခြင်း) တို့ကို တိုက်ရိုက်နှိုင်းယှဉ်ပြီး လားရာကို ခွဲခြားခြင်း။",
+          "insight_en": "The use of 'Ummuhu' (His mother) for Hell is a powerful irony: as a child seeks its mother for protection, the sinner has nowhere to return but the fire.",
+          "insight_my": "ငရဲကို 'မိခင်' (Ummuhu) ဟု တင်စားသုံးနှုန်းခြင်းမှာ အလွန်ပင် ရင်နင့်ဖွယ်ရာ ဖြစ်သည်။ ကလေးငယ်တစ်ဦးသည် မိခင်ထံတွင် ခိုလှုံသကဲ့သို့၊ အပြစ်ရှိသူသည်လည်း ငရဲမီးမှတစ်ပါး အခြားပြန်စရာ နေရာမရှိတော့ဟု ဆိုလိုခြင်း ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "و ز ن",
+            "concept_en": "To balance or weigh; justice and equilibrium in all things.",
+            "concept_my": "မျှခြေညှိခြင်း (သို့) အလေးချိန်တိုင်းခြင်း၊ အရာခပ်သိမ်းတွင် တရားမျှတမှုရှိခြင်း။",
+            "members": [
+              {
+                "ar": "مِيزَان",
+                "en": "Balance",
+                "my": "ချိန်ခွင်",
+                "freq": 9
+              }
+            ],
+            "professors_note": "In the Quran, 'Mizan' is not just for the afterlife; it is the justice Allah sent with the prophets for this world too."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ နေ့စဉ်ဘဝတွင် ပြုလုပ်သမျှသော အရာတိုင်းကို အလ္လာဟ်အရှင်မြတ်သည် တိုင်းတာနေသည်။ တစ်ခါတစ်ရံတွင် ကျွန်ုပ်တို့ အလေးမထားမိသော 'အပြုံးတစ်ပွင့်' သို့မဟုတ် 'အကူအညီတစ်ခု' သည် ထိုချိန်ခွင်ပေါ်တွင် အလွန်လေးလံသော ကောင်းမှုဖြစ်သွားနိုင်သည်။ ထိုသို့ပင် ကျွန်ုပ်တို့ ပေါ့ပေါ့တန်တန် သဘောထားသော 'အတင်းအဖျင်း' တစ်ခွန်းသည်လည်း ကျွန်ုပ်တို့၏ ချိန်ခွင်ကို ပေါ့သွားစေနိုင်သည်။ မိမိကိုယ်မိမိ အမြဲပြန်ဆန်းစစ်ရန် ဤအာယသ်တော်က သတိပေးနေသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Balanced verses: first half for the successful, second half for the losers.",
+          "meaning_anchor": "Visualize two sides of a scale tilting—one towards a garden, one towards a pit.",
+          "daily_connection": "Recite while pondering your deeds at the end of the day.",
+          "my": "အာယသ်တော်များ၏ ညီညွတ်သော စည်းချက်သည် အောင်မြင်သူနှင့် ရှုံးနိမ့်သူ၏ လားရာကို ပေါ်လွင်စေသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We completed our study of Surah Al-Qari'ah by focusing on the scales of judgment. We learned the 'Amma man' pattern for conditional results and understood the profound metaphors of 'Mother' and 'Abyss'. This lesson reminds us that our ultimate fate is determined by the weight of our deeds.",
+      "my": "စူရဟ် အလ်-ကာရိအဟ် ကို တရားစီရင်မည့် ချိန်ခွင်များအကြောင်းဖြင့် သင်ခန်းစာ အဆုံးသတ်ခဲ့သည်။ 'Amma man' ဟူသော အခြေအနေပြ ပုံစံနှင့် 'မိခင်'၊ 'ချောက်ကြီး' တို့၏ လေးနက်သော တင်စားချက်များကို လေ့လာခဲ့သည်။ ကျွန်ုပ်တို့၏ လားရာသည် လုပ်ရပ်များ၏ အလေးချိန်ပေါ်တွင်သာ မူတည်ကြောင်း ဤသင်ခန်းစာက သတိပေးနေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L4-179",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 179,
+    "title": {
+      "ar": "سُورَةُ الْعَادِيَاتِ (١) — الْقَسَمُ بِالْخَيْل",
+      "en": "Juz Amma XXIX — Surah Al-Adiyat: The War Horses (Oath)",
+      "my": "စူရဟ် အလ်-အာဒိယာသ် — စစ်မြင်းများဖြင့် ကျိန်ဆိုခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Multiple Waw oaths; Adiyat/Mūriyat/Mughirat as Ism Fā'il plurals",
+      "grammar_formula": "وَ + (Ism Fail Plural)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "الْعَادِيَات",
+        "translit": "al-'ādiyāt",
+        "en": "the chargers / runners",
+        "my": "အဟုန်ဖြင့် ပြေးနေသော မြင်းများ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَاعِلَات",
+        "root": {
+          "letters": "ع د و",
+          "concept_en": "to run / exceed bounds / hostility",
+          "concept_my": "ပြေးခြင်း / နယ်ကျွံခြင်း / ရန်လိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Adi (running fast)",
+          "image": "Horses running 'ready' for battle",
+          "cross_language": "Adawa (hostility) comes from the same root"
+        },
+        "word_family": [
+          {
+            "ar": "عَدُوّ",
+            "translit": "aduww",
+            "en": "enemy",
+            "my": "ရန်သူ",
+            "freq": 106
+          }
+        ],
+        "pattern_unlock": "The 'at' ending (ات) indicates a feminine plural, here referring to horses.",
+        "example": {
+          "ar": "وَالْعَادِيَاتِ ضَبْحًا",
+          "en": "By the racers, panting",
+          "my": "ပြင်းထန်စွာ အသက်ရှူလျက် အဟုန်ဖြင့် ပြေးနေသော မြင်းများကို အစွဲပြု၍",
+          "ref": "100:1"
+        }
+      },
+      {
+        "word": "الْمُورِيَات",
+        "translit": "al-mūriyāt",
+        "en": "the producers (of sparks)",
+        "my": "မီးပွင့်စေသူများ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "مُفْعِلَات",
+        "root": {
+          "letters": "و ر ي",
+          "concept_en": "to strike fire / sparks",
+          "concept_my": "မီးခြစ်ခြင်း / မီးပွင့်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mo-ray (light ray)",
+          "image": "Sparking light rays from horse hooves",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "This is a Form IV Ism Fail plural (Those who cause something to happen).",
+        "example": {
+          "ar": "فَالْمُورِيَاتِ قَدْحًا",
+          "en": "And the producers of sparks when striking",
+          "my": "မြင်းခွာဖြင့် ရိုက်ခတ်၍ မီးပွင့်စေသော မြင်းများကို အစွဲပြု၍",
+          "ref": "100:2"
+        }
+      },
+      {
+        "word": "الْمُغِيرَات",
+        "translit": "al-mughīrāt",
+        "en": "the raiders / attackers",
+        "my": "တိုက်ခိုက်သူများ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "مُفْعِلَات",
+        "root": {
+          "letters": "غ ي ر",
+          "concept_en": "to raid / change / jealousy",
+          "concept_my": "စီးနင်းတိုက်ခိုက်ခြင်း / ပြောင်းလဲခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mugger (raider)",
+          "image": "A raider attacking suddenly in the morning",
+          "cross_language": "Ghair (other/change) in Urdu"
+        },
+        "word_family": [],
+        "pattern_unlock": "The prefix 'Mu-' and suffix '-at' show it is a Form IV active participle plural.",
+        "example": {
+          "ar": "فَالْمُغِيرَاتِ صُبْحًا",
+          "en": "And the raiders at dawn",
+          "my": "နံနက်အချိန်တွင် စီးနင်းတိုက်ခိုက်သော မြင်းများကို အစွဲပြု၍",
+          "ref": "100:3"
+        }
+      },
+      {
+        "word": "ضَبْحًا",
+        "translit": "ḍabḥan",
+        "en": "panting",
+        "my": "ပြင်းထန်စွာ အသက်ရှူခြင်း",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ض ب ح",
+          "concept_en": "panting sound of a horse",
+          "concept_my": "မြင်းများ၏ ပြင်းပြင်းထန်ထန် အသက်ရှူသံ"
+        },
+        "memory_hook": {
+          "sound": "Dab (of sweat)",
+          "image": "Dabbing sweat after panting from a long run",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "This is a Maf'ul Mutlaq (Absolute Object) used to describe the manner of running.",
+        "example": {
+          "ar": "وَالْعَادِيَاتِ ضَبْحًا",
+          "en": "By the racers, panting",
+          "my": "ပြင်းထန်စွာ အသက်ရှူလျက် အဟုန်ဖြင့် ပြေးနေသော မြင်းများ",
+          "ref": "100:1"
+        }
+      },
+      {
+        "word": "قَدْحًا",
+        "translit": "qadḥan",
+        "en": "striking sparks",
+        "my": "မီးပွင့်အောင် ရိုက်ခတ်ခြင်း",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ق د ح",
+          "concept_en": "to strike fire / pierce",
+          "concept_my": "မီးခြစ်ခြင်း / ထိုးဖောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cut",
+          "image": "Cutting through the dark with sparks",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Another Maf'ul Mutlaq that emphasizes the intensity of the action.",
+        "example": {
+          "ar": "فَالْمُورِيَاتِ قَدْحًا",
+          "en": "striking sparks of fire",
+          "my": "မီးပွင့်အောင် ရိုက်ခတ်ခြင်း",
+          "ref": "100:2"
+        }
+      },
+      {
+        "word": "نَقْعًا",
+        "translit": "naq'an",
+        "en": "dust",
+        "my": "ဖုန်မှုန့်",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ن ق ع",
+          "concept_en": "dust / soaking",
+          "concept_my": "ဖုန်ထခြင်း / စိမ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Neck (deep in dust)",
+          "image": "Being neck-deep in a cloud of dust",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Specifically refers to dust raised by high-speed movement.",
+        "example": {
+          "ar": "فَأَثَرْنَ بِهِ نَقْعًا",
+          "en": "stirring up thereby dust",
+          "my": "ထိုအချိန်တွင် ဖုန်မှုန့်များကို လွင့်ပျံ့စေသော",
+          "ref": "100:4"
+        }
+      },
+      {
+        "word": "جَمْعًا",
+        "translit": "jam'an",
+        "en": "a center / assembly",
+        "my": "အလယ်ဗဟို / စုဝေးရာ",
+        "quran_freq": 13,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ج م ع",
+          "concept_en": "to gather / collect",
+          "concept_my": "စုစည်းခြင်း / စုဝေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Jam (packed together)",
+          "image": "A traffic jam where everyone is gathered together",
+          "cross_language": "Jama'at (Congregation) in Myanmar Muslim usage"
+        },
+        "word_family": [
+          {
+            "ar": "جَمِيعًا",
+            "translit": "jami'an",
+            "en": "all together",
+            "my": "အားလုံးစုပေါင်း၍",
+            "freq": 53
+          }
+        ],
+        "pattern_unlock": "This root is the basis for words like 'Friday' (Jumu'ah) and 'Group' (Jama'ah).",
+        "example": {
+          "ar": "فَوَسَطْنَ بِهِ جَمْعًا",
+          "en": "penetrating into the center collectively",
+          "my": "ရန်သူ့တပ်လယ်သို့ အတူတကွ ထိုးဖောက်ဝင်ရောက်သွားသော",
+          "ref": "100:5"
+        }
+      },
+      {
+        "word": "صُبْحًا",
+        "translit": "ṣubḥan",
+        "en": "at dawn",
+        "my": "နံနက်အချိန်",
+        "quran_freq": 1,
+        "word_type": "Noun / Adverb",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ص ب ح",
+          "concept_en": "morning / brightness",
+          "concept_my": "နံနက်ခင်း / တောက်ပမှု"
+        },
+        "memory_hook": {
+          "sound": "Soap (wash in morning)",
+          "image": "Washing with soap in the morning dawn",
+          "cross_language": "Subuh (Dawn prayer) in Malay/Urdu/Myanmar usage"
+        },
+        "word_family": [
+          {
+            "ar": "مِصْبَاح",
+            "translit": "misbah",
+            "en": "lamp",
+            "my": "မီးအိမ်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Subh refers to the very beginning of light at the end of night.",
+        "example": {
+          "ar": "فَالْمُغِيرَاتِ صُبْحًا",
+          "en": "the raiders at dawn",
+          "my": "နံနက်အချိန်တွင် စီးနင်းတိုက်ခိုက်သော မြင်းများ",
+          "ref": "100:3"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "وَاوُ الْقَسَم وَاسْمُ الْفَاعِل",
+        "en": "The Waw of Oath and Active Participles",
+        "my": "ကျိန်ဆိုခြင်းပြ Waw နှင့် ပြုလုပ်သူနာမ်များ"
+      },
+      "formula": {
+        "display": "وَ + اسْم (မဂ်ျရူးရ်) = ကျိန်ဆိုခြင်း",
+        "example": "وَالْعَادِيَاتِ",
+        "myanmar_read": "ဝါ + (နာမ်) = ... ကို အစွဲပြု၍ ကျိန်ဆိုပါ၏",
+        "key_insight": "When 'Waw' causes the following noun to end in 'i' (Kasra), it is an oath."
+      },
+      "explanation": {
+        "en": "The 'Waw al-Qasam' is a prefix used to take an oath by something majestic or significant. In Surah Al-Adiyat, Allah takes five rapid oaths by the war horses to build tension before revealing a deep truth about human nature. The nouns used (Adiyat, Muriyat, Mughirat) are feminine plural active participles (Ism Fail), describing the actions of the horses.",
+        "my": "Waw al-Qasam (ဝါဝုလ် ကဆမ်) ဆိုသည်မှာ အလွန်အရေးကြီးသော အရာတစ်ခုကို အစွဲပြု၍ ကျိန်ဆိုရာတွင် သုံးသော ရှေ့ဆက်ပုဒ် ဖြစ်သည်။ ဤစူရဟ်တွင် အလ္လာဟ်အရှင်မြတ်သည် စစ်မြင်းများ၏ လှုပ်ရှားမှုများကို အစွဲပြု၍ ငါးကြိမ်တိုင်တိုင် ကျိန်ဆိုထားသည်။ အသုံးပြုထားသော 'Adiyat, Muriyat, Mughirat' တို့သည် မြင်းများ၏ လုပ်ဆောင်ချက်ကို ဖော်ပြသော ပြုလုပ်သူနာမ် (Ism Fail) အများကိန်းများ ဖြစ်ကြသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use '...ကို အစွဲပြု၍ ကျိန်ဆိုပါ၏'. Arabic uses just one letter 'Waw'.",
+        "my": "မြန်မာစကားတွင် '...ကို တိုင်တည်၍ ကျိန်ဆိုပါ၏' ဟု သုံးသကဲ့သို့ ဖြစ်သော်လည်း အာရပ်ဘာသာတွင် 'Waw' တစ်လုံးတည်းဖြင့် ဖော်ပြနိုင်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The noun following Waw al-Qasam must be in the Majroor (Genitive) case (ending in Kasra).",
+          "rule_my": "ကျိန်ဆိုခြင်းပြ Waw နောက်ရှိ နာမ်သည် အမြဲတမ်း Kasra (အောက်ကဟရ်ကသ်) ဖြင့် ဆုံးရမည်။",
+          "example": {
+            "ar": "وَالْعَصْرِ",
+            "en": "By the time",
+            "my": "ခေတ်ကာလကို အစွဲပြု၍"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "وَالشَّمْسِ وَضُحَاهَا",
+          "en": "By the sun and its brightness",
+          "my": "(၁) (ငါအရှင်မြတ်သည်)နေနှင့် ထိုနေ၏ အလင်းရောင် အပူရှိန်ကို သက်သေထူတော်မူသည်။",
+          "ref": "91:1",
+          "breakdown": {
+            "subject": {
+              "word": "الشَّمْسِ",
+              "en": "The Sun",
+              "note": "Noun of oath"
+            },
+            "predicate": {
+              "word": "وَ",
+              "en": "By",
+              "note": "Oath particle"
+            }
+          },
+          "myanmar_insight": "နေမင်းကို အစွဲပြု၍ ကျိန်ဆိုခြင်းဖြင့် နောက်လာမည့် စကားကို အလေးအနက်ပြုထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking every 'Waw' is an oath",
+          "wrong": {
+            "ar": "وَالشَّمْسُ",
+            "note": "Ending in Damma means 'And the sun'"
+          },
+          "correct": {
+            "ar": "وَالشَّمْسِ",
+            "en": "By the sun",
+            "my": "နေမင်းကို အစွဲပြု၍"
+          },
+          "myanmar_tip": "စကားလုံး အဆုံးသတ်တွင် Kasra (အောက်က) ပါမှသာ ကျိန်ဆိုခြင်း ဖြစ်သည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Ism Fail plurals in the first three verses of Al-Adiyat",
+          "instruction_my": "စူရဟ် အာဒိယာသ်၏ ပထမ သုံးပိုဒ်ပါ Ism Fail အများကိန်းများကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "وَالْعَادِيَاتِ ... فَالْمُورِيَاتِ ... فَالْمُغِيرَاتِ",
+              "answer_en": "Al-Adiyat, Al-Muriyat, Al-Mughirat",
+              "answer_my": "အလ်-အာဒိယာသ်၊ အလ်-မူရိယာသ်၊ အလ်-မူဂီရာသ်",
+              "ref": "100:1-3"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate these oaths",
+          "instruction_my": "ဤကျိန်ဆိုချက်များကို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "وَالتِّينِ وَالزَّيْتُونِ",
+              "answer_en": "By the fig and the olive",
+              "answer_my": "သဖန်းသီးနှင့် သံလွင်သီးကို အစွဲပြု၍"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Turn 'The Moon' (القمر) into an oath",
+          "instruction_my": "'လမင်း' ကို ကျိန်ဆိုခြင်းပုံစံ ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "الْقَمَرُ",
+              "answer_en": "Wal-Qamari",
+              "answer_my": "ဝလ်-ကမရီ",
+              "ar": "وَالْقَمَرِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Allah swears by the war horses because of their incredible loyalty and sacrifice for their masters. They run into the heat of battle without hesitation. This sets up a contrast with humans, who are often ungrateful to their Creator.",
+        "my": "အလ္လာဟ်အရှင်မြတ်သည် စစ်မြင်းများကို အစွဲပြု၍ ကျိန်ဆိုခြင်းမှာ ထိုမြင်းများ၏ မိမိသခင်အပေါ် သစ္စာရှိမှုနှင့် စွန့်လွှတ်မှုကို ပြလို၍ ဖြစ်သည်။ မြင်းများသည် သခင်ခိုင်းလျှင် ဘေးအန္တရာယ်ကြားသို့ပင် မတွန့်မဆုတ် ပြေးဝင်ကြသည်။ ၎င်းသည် မိမိကို ဖန်ဆင်းရှင်အပေါ် ကျေးဇူးကန်းသော လူသားတို့နှင့် ဆန့်ကျင်ဘက် ဖြစ်နေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Adiyat 100:1-5",
+        "study_number": 1,
+        "arabic_full": "وَالْعَادِيَاتِ ضَبْحًا فَالْمُورِيَاتِ قَدْحًا فَالْمُغِيرَاتِ صُبْحًا فَأَثَرْنَ بِهِ نَقْعًا فَوَسَطْنَ بِهِ جَمْعًا",
+        "en_sahih": "By the racers, panting, And the producers of sparks [when] striking, And the raiders at dawn, Stirring up thereby [clouds of] dust, Arriving thereby in the center collectively.",
+        "my_mmsy": "(၁) (ငါအရှင်မြတ်သည်) မောဟိုက်သံနှင့်အမြန်ပြေးသော တိုက်မြင်းများကို သက်သေထူတော်မူသည်။",
+        "audio_ref": {
+          "surah": 100,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/100001.mp3"
+        },
+        "qurancom_url": "https://quran.com/100/1",
+        "context": {
+          "en": "The surah opens with a vivid description of a cavalry charge at dawn, a scene familiar to the Arabs of that time.",
+          "my": "ဤစူရဟ်သည် ထိုခေတ်က အာရပ်တို့ ရင်းနှီးပြီးသားဖြစ်သော နံနက်ခင်း စစ်မြင်းစီး တိုက်ခိုက်ပွဲ ပုံရိပ်ကို အသက်ဝင်စွာ ဖော်ပြခြင်းဖြင့် စတင်ထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "ضَبْحًا",
+            "translit": "ḍabḥan",
+            "en": "panting",
+            "my": "ပြင်းထန်စွာ အသက်ရှူလျက်",
+            "role_en": "Adverb (Manner)",
+            "role_my": "မူလကြိယာ၏ အခြေအနေပြပုဒ်",
+            "root": "ض ب ح",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Series of oaths using Ism Fail to describe continuous action.",
+          "structure_my": "ဆက်တိုက်လုပ်ဆောင်မှုကို ပြသရန် Ism Fail (ပြုလုပ်သူနာမ်) များဖြင့် ကျိန်ဆိုထားခြင်း။",
+          "insight_en": "The 'Fa' connecting the verses indicates a rapid succession of events: first running, then sparking, then raiding.",
+          "insight_my": "'Fa' (ဖာ) ဖြင့် အာယသ်တော်များကို ဆက်ထားခြင်းမှာ တစ်ခုပြီးတစ်ခု အချိန်မဆိုင်းဘဲ ဖြစ်ပျက်နေသော အဖြစ်အပျက်များကို ဖော်ပြခြင်း ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع د و",
+            "concept_en": "To go beyond a limit; used for running fast, hostility (transgressing peace), and even infection (passing a limit).",
+            "concept_my": "အတိုင်းအတာတစ်ခုကို ကျော်လွန်ခြင်း၊ အမြန်ပြေးခြင်း၊ ရန်လိုခြင်းနှင့် ကူးစက်ခြင်းတို့တွင် သုံးသည်။",
+            "members": [
+              {
+                "ar": "عَدُوّ",
+                "en": "Enemy",
+                "my": "ရန်သူ",
+                "freq": 106
+              }
+            ],
+            "professors_note": "A horse is 'Adiyat' because its speed exceeds its normal walk, pushing to the limit for its master."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "စစ်မြင်းတစ်ကောင်သည် မိမိကို အစာကျွေးသော သခင်အတွက် အသက်ကိုပင် ပဓာနမထားဘဲ မီးပွင့်အောင် ပြေးပေးသည်။ ဖုန်တောထဲသို့ တိုးဝင်ပေးသည်။ သခင်ခိုင်းသမျှ အကုန်လုပ်ပေးသည်။ ကျွန်ုပ်တို့ လူသားများသည်လည်း အလ္လာဟ်အရှင်မြတ်ထံမှ အရာခပ်သိမ်းကို ရရှိထားသော်လည်း ထိုမြင်းများကဲ့သို့ မိမိဖန်ဆင်းရှင်အပေါ် သစ္စာရှိကြပါသလား။ ဤအာယသ်တော်များသည် ကျွန်ုပ်တို့၏ ကျေးဇူးသိတတ်မှုကို မေးခွန်းထုတ်နေခြင်း ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Short verses with 'an' endings (Dab-han, Qad-han) mimic the galloping sound of a horse.",
+          "meaning_anchor": "Imagine the sound of 'clop-clop' and the smell of dust and morning air.",
+          "daily_connection": "Recite to energize yourself for productive work or worship.",
+          "my": "'ဟန်' (an) ဖြင့် ဆုံးသော စည်းချက်များသည် မြင်းပြေးသံကဲ့သို့ပင် ဖြစ်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Today we studied the cinematic opening of Surah Al-Adiyat. We learned the grammar of 'Waw al-Qasam' and how active participles describe movement and energy. Understanding these oaths helps us appreciate the contrast between a horse's loyalty and human ingratitude that follows in the surah.",
+      "my": "ယနေ့တွင် စူရဟ် အလ်-အာဒိယာသ်၏ အစပိုင်းကို လေ့လာခဲ့သည်။ 'Waw al-Qasam' သဒ္ဒါနှင့် ပြုလုပ်သူနာမ်များက လှုပ်ရှားမှုကို ဖော်ပြပုံကို သင်ယူခဲ့သည်။ ဤကျိန်ဆိုချက်များကို နားလည်ခြင်းဖြင့် မြင်းများ၏ သစ္စာရှိမှုနှင့် နောက်ပိုင်းတွင် ဖော်ပြမည့် လူသားတို့၏ ကျေးဇူးကန်းမှုတို့ကို နှိုင်းယှဉ် ခံစားနိုင်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L4-180",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 180,
+    "title": {
+      "ar": "سُورَةُ الْعَادِيَاتِ (٢) — جُحُودُ الْإِنْسَان",
+      "en": "Juz Amma XXX — Surah Al-Adiyat: Human Ingratitude",
+      "my": "စူရဟ် အလ်-အာဒိယာသ် — လူသားတို့၏ ကျေးဇူးကန်းမှု"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Inna + Khabar; Kanūd (ungrateful) as Sifah Mushabbaha",
+      "grammar_formula": "إِنَّ + الإِنْسَانَ + لَـ + (Khabar)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "كَنُود",
+        "translit": "kanūd",
+        "en": "ungrateful",
+        "my": "ကျေးဇူးမသိသော",
+        "quran_freq": 1,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعُول",
+        "root": {
+          "letters": "ك ن د",
+          "concept_en": "to be ungrateful / to bury a blessing",
+          "concept_my": "ကျေးဇူးကန်းခြင်း / ကောင်းမှုကို ဖုံးကွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Can't do (anything for others)",
+          "image": "A person who 'can't do' any gratitude despite receiving many gifts",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "The Fa-ool pattern here shows an intensive or permanent habit of ingratitude.",
+        "example": {
+          "ar": "إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ",
+          "en": "Indeed mankind, to his Lord, is ungrateful.",
+          "my": "ဧကန်စင်စစ် လူသားသည် မိမိ၏ ဖန်ဆင်းရှင်အပေါ် ကျေးဇူးကန်းသောသူ ဖြစ်၏။",
+          "ref": "100:6"
+        }
+      },
+      {
+        "word": "شَهِيد",
+        "translit": "shahīd",
+        "en": "witness",
+        "my": "သက်သေ",
+        "quran_freq": 56,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ش ه د",
+          "concept_en": "to witness / see / testify",
+          "concept_my": "သက်သေခံခြင်း / မြင်တွေ့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Showed",
+          "image": "Everything you do is 'showed' to the witness",
+          "cross_language": "Shahadat (Testimony) in common usage"
+        },
+        "word_family": [
+          {
+            "ar": "يَشْهَدُ",
+            "translit": "yash-hadu",
+            "en": "he witnesses",
+            "my": "သူသက်သေခံသည်",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "This pattern (Fa-eel) often describes an attribute of Allah or a fixed quality.",
+        "example": {
+          "ar": "وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+          "en": "And indeed, to that, he is a witness.",
+          "my": "ထို့ပြင် သူသည်လည်း ထိုအချက်အပေါ် သက်သေပင် ဖြစ်၏။",
+          "ref": "100:7"
+        }
+      },
+      {
+        "word": "حُبّ",
+        "translit": "ḥubb",
+        "en": "love / desire",
+        "my": "ချစ်ခြင်း / အလိုဆန္ဒ",
+        "quran_freq": 95,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ح ب ب",
+          "concept_en": "love / seed / core",
+          "concept_my": "ချစ်ခြင်း / မျိုးစေ့ / အနှစ်သာရ"
+        },
+        "memory_hook": {
+          "sound": "Hub (center)",
+          "image": "Love being the 'hub' of one's attention",
+          "cross_language": "Muhabbat (Love) in Urdu/Malay"
+        },
+        "word_family": [
+          {
+            "ar": "يُحِبُّ",
+            "translit": "yuhibbu",
+            "en": "he loves",
+            "my": "သူချစ်သည်",
+            "freq": 62
+          }
+        ],
+        "pattern_unlock": "Words from this root can mean 'love' or 'seeds' (the core of a fruit).",
+        "example": {
+          "ar": "لِحُبِّ الْخَيْرِ",
+          "en": "for love of wealth",
+          "my": "စည်းစိမ်ဥစ္စာကို ချစ်ခြင်းကြောင့်",
+          "ref": "100:8"
+        }
+      },
+      {
+        "word": "شَدِيد",
+        "translit": "shadīd",
+        "en": "intense / strong",
+        "my": "ပြင်းထန်သော / အားကြီးသော",
+        "quran_freq": 52,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ش د د",
+          "concept_en": "strength / tightness",
+          "concept_my": "အင်အား / တင်းကျပ်မှု"
+        },
+        "memory_hook": {
+          "sound": "Shadow (strong contrast)",
+          "image": "A strong, dark shadow under the harsh sun",
+          "cross_language": "Shadeed (intense) in Urdu/Malay"
+        },
+        "word_family": [
+          {
+            "ar": "أَشَدّ",
+            "translit": "ashadd",
+            "en": "stronger",
+            "my": "ပို၍ပြင်းထန်သော",
+            "freq": 31
+          }
+        ],
+        "pattern_unlock": "This pattern is frequently used for attributes that are powerful and constant.",
+        "example": {
+          "ar": "لَشَدِيدٌ",
+          "en": "is surely intense",
+          "my": "ဧကန်မလွဲ ပြင်းထန်သောသူဖြစ်၏",
+          "ref": "100:8"
+        }
+      },
+      {
+        "word": "بُعْثِرَ",
+        "translit": "bu'thira",
+        "en": "overturned / scattered",
+        "my": "ပြောင်းပြန်လှန်ခြင်း / ထုတ်ဖော်ခြင်း",
+        "quran_freq": 2,
+        "word_type": "Verb (Passive)",
+        "gender": "Masculine",
+        "wazn": "فُعْلِلَ",
+        "root": {
+          "letters": "ب ع ث ر",
+          "concept_en": "to scatter / rummage / upset",
+          "concept_my": "ပျံ့ကျဲစေခြင်း / အောက်အထက်လှန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Both here (everything out)",
+          "image": "Turning a box over until everything is 'both here' and there",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "This is a 4-letter root (Quadriliteral) verb in passive form.",
+        "example": {
+          "ar": "إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
+          "en": "When what is in the graves is overturned",
+          "my": "ကဗရ်များအတွင်းရှိ အရာများကို ထုတ်ဖော်လိုက်သောအခါ",
+          "ref": "100:9"
+        }
+      },
+      {
+        "word": "الْقُبُور",
+        "translit": "al-qubūr",
+        "en": "the graves",
+        "my": "သင်္ချိုင်းဂူများ",
+        "quran_freq": 7,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعُول",
+        "root": {
+          "letters": "ق ب ر",
+          "concept_en": "to bury / grave",
+          "concept_my": "မြှုပ်နှံခြင်း / သင်္ချိုင်း"
+        },
+        "memory_hook": {
+          "sound": "Kabar",
+          "image": "A traditional graveyard scene",
+          "cross_language": "Kabar (grave) in Myanmar Muslim usage"
+        },
+        "word_family": [
+          {
+            "ar": "قَبْر",
+            "translit": "qabr",
+            "en": "grave",
+            "my": "ဂူ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Fu'ool is a common plural pattern for nouns.",
+        "example": {
+          "ar": "مَا فِي الْقُبُورِ",
+          "en": "what is in the graves",
+          "my": "ကဗရ်များအတွင်းရှိ အရာများ",
+          "ref": "100:9"
+        }
+      },
+      {
+        "word": "حُصِّلَ",
+        "translit": "ḥuṣṣila",
+        "en": "made apparent / collected",
+        "my": "ပေါ်လွင်စေခြင်း / ထွက်ပေါ်လာခြင်း",
+        "quran_freq": 1,
+        "word_type": "Verb (Passive)",
+        "gender": "Masculine",
+        "wazn": "فُعِّلَ",
+        "root": {
+          "letters": "ح ص ل",
+          "concept_en": "to result / manifest / get",
+          "concept_my": "ရလဒ်ထွက်ပေါ်ခြင်း / ပေါ်လွင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hassle (to find truth)",
+          "image": "Getting the hidden truth out after a lot of hassle",
+          "cross_language": "Hasil (Result) in Malay/Urdu"
+        },
+        "word_family": [],
+        "pattern_unlock": "Form II passive (Fu'ila) implies an intensive bringing out of what was inside.",
+        "example": {
+          "ar": "وَحُصِّلَ مَا فِي الصُّدُورِ",
+          "en": "And what is in the breasts is made apparent",
+          "my": "ရင်တွင်းရှိ အရာများကိုလည်း ထုတ်ဖော်လိုက်သောအခါ",
+          "ref": "100:10"
+        }
+      },
+      {
+        "word": "خَبِير",
+        "translit": "khabīr",
+        "en": "All-Aware",
+        "my": "အရာခပ်သိမ်းကို သိရှိတော်မူသောရှင်",
+        "quran_freq": 45,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "خ ب ر",
+          "concept_en": "news / experience / inner knowledge",
+          "concept_my": "သတင်း / အတွေ့အကြုံ / အတွင်းကျကျသိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khabar",
+          "image": "Getting the full news report about something",
+          "cross_language": "Khabar (News) in Malay/Urdu/Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "أَخْبَار",
+            "translit": "akhbar",
+            "en": "news",
+            "my": "သတင်းများ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Khabir implies knowing the hidden, inner secrets, not just the outside.",
+        "example": {
+          "ar": "لَخَبِيرٌ",
+          "en": "is surely All-Aware",
+          "my": "ဧကန်မလွဲ အရာခပ်သိမ်းကို သိရှိတော်မူသောရှင် ဖြစ်၏",
+          "ref": "100:11"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "التَّأْكِيدُ بِإِنَّ وَاللَّام",
+        "en": "Emphasis with Inna and La-",
+        "my": "Inna နှင့် La- တို့ဖြင့် အလေးပေးခြင်း"
+      },
+      "formula": {
+        "display": "إِنَّ + اسْم + لَـ + خَبَر",
+        "example": "إِنَّ الْإِنْسَانَ لَكَنُودٌ",
+        "myanmar_read": "အင်နာ (ဧကန်စင်စစ်) ... လာ (အမှန်ပင်)",
+        "key_insight": "Using both 'Inna' and the prefix 'La-' creates a 'Double Emphasis'—it is undeniably true."
+      },
+      "explanation": {
+        "en": "When 'Inna' starts a sentence, it provides emphasis. If a 'La-' prefix is added to the predicate (Khabar), the emphasis is doubled. This is used in the Quran for absolute certainties, especially when challenging a common misconception or a human tendency like ingratitude.",
+        "my": "ဝါကျတစ်ခုကို Inna (အင်နာ) ဖြင့် စတင်ခြင်းသည် ထိုဝါကျကို အလေးပေးခြင်း ဖြစ်သည်။ အကယ်၍ ၎င်း၏ သတင်းပုဒ် (Khabar) တွင် 'La-' (လာ) ဟူသော ရှေ့ဆက်ပုဒ်ကိုပါ ထည့်သွင်းပါက အလေးပေးမှုသည် နှစ်ဆဖြစ်သွားသည်။ ၎င်းကို ကုရ်အာန်တွင် လုံးဝငြင်းချက်ထုတ်၍မရသော အမှန်တရားများကို ပြောဆိုရာတွင် သုံးသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Like saying 'Truly... indeed' or adding 'ဧကန်စင်စစ်... ဖြစ်ပေသည်' for strong confirmation.",
+        "my": "မြန်မာစကားတွင် 'ဧကန်စင်စစ် ... သည် အမှန်ပင်ဖြစ်၏' ဟု အလွန်အမင်း အလေးအနက်ပြု၍ ပြောဆိုခြင်းနှင့် ဆင်တူသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The 'La-' of emphasis (Lam al-Muzahlaqah) attaches to the Khabar of Inna.",
+          "rule_my": "အလေးပေးပြ 'La-' (လာ) သည် အမြဲတမ်း Inna ၏ သတင်းပုဒ် (Khabar) တွင် တွဲပါရမည်။",
+          "example": {
+            "ar": "إِنَّ رَبَّكَ لَسَرِيعُ الْعِقَابِ",
+            "en": "Indeed, your Lord is swift in penalty",
+            "my": "ဧကန်စင်စစ် သင်၏ဖန်ဆင်းရှင်သည် အပြစ်ပေးရာတွင် လျင်မြန်တော်မူသောရှင် ဖြစ်၏"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ",
+          "en": "Indeed, their Lord with them, that Day, is All-Aware.",
+          "my": "(၁၁) အမှန်စင်စစ် သူတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် ထိုနေ့တွင် သူတို့နှင့် ပတ်သက်၍ အားလုံးကို မုချအကြွင်းမဲ့သိမြင်တော်မူသောအရှင်ဖြစ်တော်မူသည်။",
+          "ref": "100:11",
+          "breakdown": {
+            "subject": {
+              "word": "رَبَّهُمْ",
+              "en": "Their Lord",
+              "note": "Noun after Inna"
+            },
+            "predicate": {
+              "word": "لَخَبِيرٌ",
+              "en": "Surely All-Aware",
+              "note": "Khabar with La- emphasis"
+            }
+          },
+          "myanmar_insight": "အလ္လာဟ်အရှင်မြတ်သည် အရာအားလုံးကို သိနေကြောင်းကို Inna နှင့် La- တို့ဖြင့် အခိုင်အမာ ပြောထားခြင်း ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing 'La-' (surely) with 'La' (no/not)",
+          "wrong": {
+            "ar": "لَا خَبِير",
+            "note": "The 'a' sound is long, meaning 'No aware' (grammatically wrong here)"
+          },
+          "correct": {
+            "ar": "لَخَبِيرٌ",
+            "en": "Surely All-Aware",
+            "my": "ဧကန်မလွဲ သိရှိတော်မူသောရှင်"
+          },
+          "myanmar_tip": "Inna ပါသော ဝါကျထဲမှ 'La' သည် 'မ' (သို့မဟုတ်) 'မရှိ' မဟုတ်ဘဲ 'အမှန်ပင်' ဟု အလေးပေးခြင်း ဖြစ်သည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the double emphasis in verse 6 of Al-Adiyat",
+          "instruction_my": "အာယသ်တော် (၆) ရှိ နှစ်ထပ်အလေးပေးမှုကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ",
+              "answer_en": "Inna (start) and La- (before Kanud)",
+              "answer_my": "အင်နာ (အစတွင်) နှင့် လာ (ကနူးဒ် ရှေ့တွင်)",
+              "ref": "100:6"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the emphasized sentence",
+          "instruction_my": "အလေးပေးထားသော ဝါကျကို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "إِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+              "answer_en": "Indeed he is, to that, a witness",
+              "answer_my": "ဧကန်စင်စစ် သူသည် ထိုအချက်အပေါ် သက်သေပင် ဖြစ်၏"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Apply Inna and La- to this: (اللهُ غَفُورٌ)",
+          "instruction_my": "Inna နှင့် La- ကို သုံး၍ အလေးပေးဝါကျ ဖွဲ့ပါ။",
+          "questions": [
+            {
+              "q": "اللهُ غَفُورٌ",
+              "answer_en": "Inna Allaha la-Ghafurun",
+              "answer_my": "အင်နလ္လာဟ လဂဖူးရွန်း",
+              "ar": "إِنَّ اللَّهَ لَغَفُورٌ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The heart has secrets that are hidden from everyone, even ourselves sometimes. Surah Al-Adiyat warns us that one Day, everything in the chest (breasts) will be 'Hussila'—harvested and exposed. True success is having a heart that is grateful, not 'Kanud'.",
+        "my": "နှလုံးသားထဲတွင် သူတစ်ပါးကို မပြောဘဲ ဖုံးကွယ်ထားသော လျှို့ဝှက်ချက်များ ရှိသည်။ တစ်နေ့တွင် ထိုရင်တွင်းရှိ အရာအားလုံးကို အလ္လာဟ်အရှင်မြတ်က ထုတ်ဖော်ပြသမည် ဖြစ်သည်။ ထို့ကြောင့် မိမိ၏ နှလုံးသားကို ကျေးဇူးကန်းသော 'ကနူးဒ်' မဖြစ်စေရန် ထိန်းသိမ်းခြင်းသည်သာ အောင်မြင်မှု ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Adiyat 100:6-8",
+        "study_number": 1,
+        "arabic_full": "إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
+        "en_sahih": "Indeed mankind, to his Lord, is ungrateful. And indeed, he is to that a witness. And indeed he is, in love of wealth, intense.",
+        "my_mmsy": "(၆) အမှန်စင်စစ် လူသားသည် သူ့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်အား အလွန်ကျေးဇူးကန်းသူဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 100,
+          "ayah": 6,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/100006.mp3"
+        },
+        "qurancom_url": "https://quran.com/100/6",
+        "context": {
+          "en": "After the oaths of the horses, Allah reveals the purpose of the surah: pointing out human ingratitude and excessive love for wealth.",
+          "my": "မြင်းများကို အစွဲပြု၍ ကျိန်ဆိုပြီးနောက်၊ အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့၏ ကျေးဇူးကန်းမှုနှင့် စည်းစိမ်ဥစ္စာအပေါ် အလွန်အမင်း မက်မောမှုကို ထောက်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "كَنُود",
+            "translit": "kanūd",
+            "en": "ungrateful",
+            "my": "ကျေးဇူးမသိသော",
+            "role_en": "Adjective (Khabar)",
+            "role_my": "ဂုဏ်ပုဒ် (သတင်းပုဒ်)",
+            "root": "ك ن د",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Triple use of 'Inna' and 'La-' to confirm the state of the human soul.",
+          "structure_my": "လူသား၏ စိတ်ဓာတ်အခြေအနေကို အတည်ပြုရန် 'Inna' နှင့် 'La-' ကို သုံးကြိမ်တိုင်တိုင် သုံးထားခြင်း။",
+          "insight_en": "'Al-Khayr' in verse 8 refers to money/wealth. The verse describes humans as 'Shadeed' (tight/intense) in holding onto it, which is the root of greed.",
+          "insight_my": "အာယသ် (၈) ရှိ 'Al-Khayr' (အလ်-ခိုင်ရ်) သည် စည်းစိမ်ဥစ္စာကို ဆိုလိုသည်။ လူသားသည် ထိုစည်းစိမ်ကို လက်လွတ်မခံဘဲ ဆုပ်ကိုင်ထားရာတွင် 'Shadeed' (ပြင်းထန်/တင်းကျပ်) ဖြစ်နေခြင်းမှာ လောဘ၏ အရင်းခံပင် ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ك ن د",
+            "concept_en": "To count calamities and forget blessings; soil that produces nothing despite being watered.",
+            "concept_my": "ဒုက္ခများကိုသာ ရေတွက်ပြီး ကောင်းချီးများကို မေ့လျော့ခြင်း၊ ရေလောင်းသော်လည်း ဘာမှမထွက်သော မြေဆီလွှာ။",
+            "members": [],
+            "professors_note": "Hasan al-Basri said: 'Al-Kanud is the one who counts his trials but forgets his blessings from Allah.'"
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် တစ်ခါတစ်ရံ စီးပွားရေး အဆင်မပြေသောအခါ အလ္လာဟ်အရှင်မြတ်အား အပြစ်တင်တတ်ကြသည်။ သို့သော် ကျွန်ုပ်တို့ ရရှိထားသော အသက်ရှူနေရခြင်း၊ အမြင်အာရုံရှိခြင်း စသည့် ကုသိုလ်များကိုမူ မေ့လျော့နေတတ်သည်။ ဤသည်မှာ 'ကနူးဒ်' (ကျေးဇူးကန်းခြင်း) ပင် ဖြစ်သည်။ ကျွန်ုပ်တို့၏ နှလုံးသားသည် ထိုသို့သော အမှောင်ထုထဲတွင် ပိတ်မိမနေစေရန် အမြဲသတိပြုရမည်။ အဘယ်ကြောင့်ဆိုသော် ကဗရ်ထဲမှ ပြန်ထရမည့်နေ့တွင် ကျွန်ုပ်တို့၏ စိတ်ရင်းများကို အလ္လာဟ်အရှင်မြတ်က ဖော်ထုတ်မည် ဖြစ်သောကြောင့်ပင်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The repetitive 'Innahu... la...' builds a strong, convicting tempo.",
+          "meaning_anchor": "Imagine a person holding their wallet so tight their knuckles turn white (Shadeed).",
+          "daily_connection": "Recite when you find it hard to give Sadaqah or when feeling ungrateful.",
+          "my": "'အင်နဟူး... လာ...' ဟူသော ထပ်ခါတလဲလဲ စည်းချက်သည် အမှန်တရားကို ပိုမိုလေးနက်စေသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this final lesson of the batch, we explored the core message of Surah Al-Adiyat. We learned how 'Inna' and 'La-' work together to emphasize truth and studied the deep meaning of 'Kanud'. This surah reminds us to look inward and prepare for the Day when the secrets of the hearts will be revealed.",
+      "my": "ဤသင်ခန်းစာတွင် စူရဟ် အလ်-အာဒိယာသ်၏ အနှစ်သာရကို လေ့လာခဲ့သည်။ Inna နှင့် La- တို့ ပေါင်းစပ်ကာ အမှန်တရားကို အလေးပေးပုံနှင့် 'Kanud' ၏ လေးနက်သော အဓိပ္ပာယ်ကို သင်ယူခဲ့သည်။ ဤစူရဟ်သည် ကျွန်ုပ်တို့၏ အတွင်းစိတ်ကို ဆန်းစစ်ရန်နှင့် နှလုံးသားလျှို့ဝှက်ချက်များ ပေါ်လာမည့်နေ့အတွက် ပြင်ဆင်ရန် သတိပေးနေသည်။"
+    }
+  }
+]

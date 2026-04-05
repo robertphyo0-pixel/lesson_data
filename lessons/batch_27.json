@@ -1,0 +1,2693 @@
+[
+  {
+    "lesson_id": "L3-131",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 131,
+    "title": {
+      "ar": "كَانَ وَأَخَوَاتُهَا (١) — كَانَ",
+      "en": "Kana & Sisters I — Kāna (Was / Used to Be)",
+      "my": "ကာန နှင့် ညီအစ်မတော်များ (၁) — အတိတ်ကာလ အခြေအနေကို ဖော်ပြခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Kāna puts Ism in Rafa', Khabar in Nasb; past state of being",
+      "grammar_formula": "كَانَ + Ism (Marfu') + Khabar (Mansub)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "حَقّ",
+        "translit": "haqq",
+        "en": "truth / right",
+        "my": "အမှန်တရား / ရပိုင်ခွင့်",
+        "quran_freq": 287,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ح ق ق",
+          "concept_en": "truth / reality / necessity",
+          "concept_my": "အမှန်တရား / မရှိမဖြစ်လိုအပ်ချက်"
+        },
+        "memory_hook": {
+          "sound": "Haqq",
+          "image": "A judge hitting a gavel on the truth",
+          "cross_language": "Haq (Urdu/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "حَقَّ",
+            "translit": "haqqa",
+            "en": "it became true",
+            "my": "မှန်ကန်လာသည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Words from this root always relate to absolute reality or obligation.",
+        "example": {
+          "ar": "وَكَانَ حَقًّا عَلَيْنَا",
+          "en": "And it was a duty upon Us",
+          "my": "၎င်းသည် ငါအရှင်မြတ်အပေါ်၌ တာဝန်တစ်ခုဖြစ်ခဲ့သည်",
+          "ref": "30:47"
+        }
+      },
+      {
+        "word": "عَلِيم",
+        "translit": "alīm",
+        "en": "All-Knowing",
+        "my": "အရာခပ်သိမ်းကို သိမြင်တော်မူသောသူ",
+        "quran_freq": 157,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "knowledge / to know",
+          "concept_my": "အသိပညာ / သိရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "A-Leem",
+          "image": "A library filled with infinite books of knowledge",
+          "cross_language": "Alim (Myanmar Islamic usage)"
+        },
+        "word_family": [
+          {
+            "ar": "عِلْم",
+            "translit": "ilm",
+            "en": "knowledge",
+            "my": "ပညာ",
+            "freq": 105
+          }
+        ],
+        "pattern_unlock": "The pattern Fa'īl (فَعِيل) often denotes a constant attribute or quality.",
+        "example": {
+          "ar": "وَكَانَ اللَّهُ عَلِيمًا",
+          "en": "And Allah was ever All-Knowing",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အစဉ်အမြဲ အရာခပ်သိမ်းကို သိမြင်တော်မူသောအရှင် ဖြစ်တော်မူ၏",
+          "ref": "4:17"
+        }
+      },
+      {
+        "word": "حَكِيم",
+        "translit": "hakīm",
+        "en": "All-Wise",
+        "my": "အလွန်အမျှော်အမြင်ရှိသောသူ",
+        "quran_freq": 97,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ح ك م",
+          "concept_en": "wisdom / judgment",
+          "concept_my": "ဉာဏ်ပညာ / စီရင်ဆုံးဖြတ်ချက်"
+        },
+        "memory_hook": {
+          "sound": "Ha-Keem",
+          "image": "A wise king making a perfect decision",
+          "cross_language": "Hikmah (Malay/Arabic)"
+        },
+        "word_family": [
+          {
+            "ar": "حُكْم",
+            "translit": "hukm",
+            "en": "judgment",
+            "my": "စီရင်ချက်",
+            "freq": 210
+          }
+        ],
+        "pattern_unlock": "The root H-K-M connects wisdom with the ability to judge/restrain.",
+        "example": {
+          "ar": "حَكِيمًا خَبِيرًا",
+          "en": "All-Wise, All-Aware",
+          "my": "အလွန်အမျှော်အမြင်ရှိသောအရှင်၊ အရာခပ်သိမ်းကို သတင်းယူတော်မူသောအရှင်",
+          "ref": "11:1"
+        }
+      },
+      {
+        "word": "غَفُور",
+        "translit": "ghafūr",
+        "en": "All-Forgiving",
+        "my": "အလွန်ခွင့်လွှတ်တော်မူသောအရှင်",
+        "quran_freq": 91,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعُول",
+        "root": {
+          "letters": "غ ف ر",
+          "concept_en": "to cover / forgive",
+          "concept_my": "ဖုံးအုပ်ပေးခြင်း / ခွင့်လွှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Gha-foor",
+          "image": "A shield covering a mistake",
+          "cross_language": "Istighfar (Myanmar Islamic usage)"
+        },
+        "word_family": [
+          {
+            "ar": "يَغْفِرُ",
+            "translit": "yaghfiru",
+            "en": "He forgives",
+            "my": "သူခွင့်လွှတ်သည်",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "The Fa'ūl pattern indicates intensity—Allah forgives again and again.",
+        "example": {
+          "ar": "وَكَانَ اللَّهُ غَفُورًا",
+          "en": "And Allah was ever All-Forgiving",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အစဉ်အမြဲ အလွန်ခွင့်လွှတ်တော်မူသောအရှင် ဖြစ်တော်မူ၏",
+          "ref": "4:96"
+        }
+      },
+      {
+        "word": "رَحِيم",
+        "translit": "rahīm",
+        "en": "Most Merciful",
+        "my": "အလွန်သနားကြင်နာတော်မူသောအရှင်",
+        "quran_freq": 115,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ر ح م",
+          "concept_en": "mercy / womb",
+          "concept_my": "ကရုဏာ / သားအိမ်"
+        },
+        "memory_hook": {
+          "sound": "Ra-heem",
+          "image": "A mother holding her child tenderly",
+          "cross_language": "Rahman/Rahim"
+        },
+        "word_family": [
+          {
+            "ar": "رَحْمَة",
+            "translit": "rahmah",
+            "en": "mercy",
+            "my": "ကရုဏာ",
+            "freq": 79
+          }
+        ],
+        "pattern_unlock": "Mercy in Arabic implies a protective, nurturing love.",
+        "example": {
+          "ar": "رَحِيمًا",
+          "en": "Most Merciful",
+          "my": "အလွန်သနားကြင်နာတော်မူသောအရှင်",
+          "ref": "4:96"
+        }
+      },
+      {
+        "word": "شَيْء",
+        "translit": "shay'",
+        "en": "thing / something",
+        "my": "အရာဝတ္ထု / တစ်စုံတစ်ခု",
+        "quran_freq": 283,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ش ي أ",
+          "concept_en": "to will / a thing",
+          "concept_my": "အလိုရှိခြင်း / အရာတစ်ခု"
+        },
+        "memory_hook": {
+          "sound": "Shay",
+          "image": "A generic mystery box",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "شَاءَ",
+            "translit": "shā'a",
+            "en": "He willed",
+            "my": "သူအလိုရှိခဲ့သည်",
+            "freq": 236
+          }
+        ],
+        "pattern_unlock": "This word is the base for everything in the physical and metaphysical world.",
+        "example": {
+          "ar": "عَلَىٰ كُلِّ شَيْءٍ",
+          "en": "over all things",
+          "my": "အရာခပ်သိမ်းတို့အပေါ်၌",
+          "ref": "2:20"
+        }
+      },
+      {
+        "word": "قَدِير",
+        "translit": "qadīr",
+        "en": "All-Powerful / Able",
+        "my": "အရာခပ်သိမ်းကို တတ်စွမ်းနိုင်သောအရှင်",
+        "quran_freq": 45,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ق د ر",
+          "concept_en": "power / measure",
+          "concept_my": "စွမ်းအား / အတိုင်းအတာ"
+        },
+        "memory_hook": {
+          "sound": "Qa-deer",
+          "image": "An unstoppable force",
+          "cross_language": "Qadr (Destiny)"
+        },
+        "word_family": [
+          {
+            "ar": "قَدَر",
+            "translit": "qadar",
+            "en": "decree",
+            "my": "သတ်မှတ်ချက်",
+            "freq": 12
+          }
+        ],
+        "pattern_unlock": "Connects the ability to 'measure' with the 'power' to execute.",
+        "example": {
+          "ar": "قَدِيرًا",
+          "en": "All-Powerful",
+          "my": "အရာခပ်သိမ်းကို တတ်စွမ်းနိုင်သောအရှင်",
+          "ref": "4:149"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "كَانَ وَأَخَوَاتُهَا",
+        "en": "Kana and its Sisters",
+        "my": "ကာန နှင့် ၎င်း၏ ညီအစ်မတော်များ"
+      },
+      "formula": {
+        "display": "كَانَ + [Ism (Marfu' / ُ )] + [Khabar (Mansub / ً )]",
+        "example": "كَانَ اللَّهُ عَلِيمًا",
+        "myanmar_read": "အလ္လာဟ်အရှင်မြတ်သည် (Ism) အရာခပ်သိမ်းကို သိမြင်တော်မူသောအရှင် (Khabar) ဖြစ်တော်မူခဲ့၏။",
+        "key_insight": "Kana changes the ending of the description (Khabar) from 'u' to 'an'."
+      },
+      "explanation": {
+        "en": "Kāna is a deficient verb that enters a nominal sentence. It keeps the subject (Ism) in the nominative case (Marfu') but changes the predicate (Khabar) to the accusative case (Mansub). In the Quran, when referring to Allah's attributes, it often means 'ever was' or 'always is', not just a finished past state.",
+        "my": "Kāna သည် နာမ်ဝါကျ (Nominal Sentence) တစ်ခု၏ ရှေ့တွင် လာလေ့ရှိသည်။ ၎င်းသည် ကတ္တား (Subject) ကို Marfu' (အု သံ) အဖြစ် ဆက်လက်ထားရှိသော်လည်း၊ အကြောင်းအရာ (Predicate) ကိုမူ Mansub (အန် သံ) သို့ ပြောင်းလဲစေသည်။ ကုရ်အာန်ကျမ်းတော်မြတ်တွင် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်များနှင့် တွဲဖက်သုံးနှုန်းသောအခါ 'ယခင်က ဖြစ်ခဲ့ဖူးသည်' သာမက 'အစဉ်အမြဲ ဖြစ်တော်မူသည်' ဟူသော အဓိပ္ပာယ်ကို ဆောင်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use 'ဖြစ်ခဲ့သည်' for past tense, but Arabic grammar specifically changes the ending of the following adjective, which Myanmar doesn't do.",
+        "my": "မြန်မာဘာသာတွင် 'ဖြစ်သည်' ကို အတိတ်ကာလအတွက် 'ဖြစ်ခဲ့သည်' ဟု ပြောင်းလဲသုံးသော်လည်း၊ နောက်ကလိုက်သော နာမဝိသေသန၏ အဆုံးသတ်သံကို ပြောင်းလဲခြင်း မရှိပါ။ အာရပ်ဘာသာတွင်မူ 'ကာန' ကြောင့် နောက်ကစကားလုံးသည် 'အန်' သံ ဖြစ်သွားသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The Ism (Subject) of Kāna stays Marfu' (with Damma).",
+          "rule_my": "ကာန ၏ Ism (ကတ္တား) သည် Marfu' (ဓမ္မဟ်/အုသံ) အဖြစ် ကျန်ရှိနေရမည်။",
+          "example": {
+            "ar": "كَانَ اللَّهُ",
+            "en": "Allah was",
+            "my": "အလ္လာဟ်အရှင်မြတ်သည် ဖြစ်တော်မူ၏"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "The Khabar (Predicate) of Kāna becomes Mansub (with Fatha).",
+          "rule_my": "ကာန ၏ Khabar (သတင်းစကား) သည် Mansub (ဖသ်ဟဟ်/အန်သံ) ဖြစ်သွားရမည်။",
+          "example": {
+            "ar": "عَلِيمًا",
+            "en": "All-Knowing",
+            "my": "အရာခပ်သိမ်းကို သိမြင်တော်မူသောသူ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+          "en": "And Allah is ever All-Knowing and Wise.",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏အပေါ်တွင် ဝန်ချတောင်းပန်မှုကိုသာ လက်ခံတော်မူရန် တာဝန်ရှိသည်။  ထိုသူများသည် မသိမိုက်မဲမှုဖြင့် မကောင်းမှုများကို ပြုလုပ်မိကြသည်။ ထို့နောက် မကြာမီပင်  သူတို့သည် ဝန်ချတောင်းပန်လိုက်ကြသည်။ သို့ဖြစ်ရာ ထိုသူများပင်၊ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့၏ဝန်ချတောင်းပန်မှုကို လက်ခံတော်မူပေသည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ် အကြွင်းမဲ့သိတော်မူသောအရှင်၊ ပညာဉာဏ်အမြော်အမြင်နှင့် အလွန်ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+          "ref": "4:17",
+          "breakdown": {
+            "subject": {
+              "word": "اللَّهُ",
+              "en": "Allah",
+              "note": "Ism Kana (Marfu')"
+            },
+            "predicate": {
+              "word": "عَلِيمًا",
+              "en": "All-Knowing",
+              "note": "Khabar Kana (Mansub)"
+            }
+          },
+          "myanmar_insight": "သတိပြုရန်မှာ ကုရ်အာန်တွင် ကာန ပါဝင်သော်လည်း အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်ဖြစ်ပါက 'အစဉ်အမြဲ' ဟု အဓိပ္ပာယ်ယူရမည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Keeping the Khabar as Marfu'",
+          "wrong": {
+            "ar": "كَانَ اللَّهُ عَلِيمٌ",
+            "note": "Alīmun is wrong here"
+          },
+          "correct": {
+            "ar": "كَانَ اللَّهُ عَلِيمًا",
+            "en": "Allah was All-Knowing",
+            "my": "အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းကို သိတော်မူသောအရှင် ဖြစ်တော်မူ၏"
+          },
+          "myanmar_tip": "ကာန ပါရင် နောက်က စကားလုံးကို 'အန်' သံနဲ့ ဆုံးဖို့ မမေ့ပါနဲ့။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Ism and Khabar of Kana in these phrases",
+          "instruction_my": "အောက်ပါဝါကျများတွင် ကာန ၏ Ism နှင့် Khabar ကို ခွဲခြားပြပါ",
+          "questions": [
+            {
+              "q": "وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+              "answer_en": "Ism: Allah, Khabar: Ghafuran",
+              "answer_my": "Ism: အလ္လာဟ်၊ Khabar: ဂဖူးရွန်",
+              "ref": "4:96"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "كَانَ حَقًّا",
+              "answer_en": "It was a right/truth",
+              "answer_my": "၎င်းသည် အမှန်တရား (သို့) တာဝန် ဖြစ်ခဲ့သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "နာမ်ကို Al- ထည့်၍ သတ်မှတ်နာမ် ပြုလုပ်ပါ",
+          "questions": [
+            {
+              "q": "حَقٌّ",
+              "answer_en": "The Truth",
+              "answer_my": "အမှန်တရား",
+              "ar": "الْحَقُّ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Kāna highlights that Allah's attributes are not temporary states but eternal realities. When we read 'Kāna Allahu Ghafuran', it assures us that His forgiveness is a constant, established fact since the beginning of time.",
+        "my": "ကာန သည် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်များသည် ခေတ္တခဏ အခြေအနေမဟုတ်ဘဲ ထာဝရအမှန်တရားဖြစ်ကြောင်း ဖော်ညွှန်းသည်။ 'ကာန' ကို အသုံးပြုခြင်းဖြင့် အရှင်မြတ်၏ ခွင့်လွှတ်မှုသည် ကမ္ဘာဦးကတည်းက တည်ရှိခိုင်မြဲနေသော အမှန်တရားဖြစ်ကြောင်း ကျွန်ုပ်တို့ကို စိတ်အေးချမ်းစေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Nisa 4:17",
+        "study_number": 1,
+        "arabic_full": "إِنَّمَا التَّوْبَةُ عَلَى اللَّهِ لِلَّذِينَ يَعْمَلُونَ السُّوءَ بِجَهَالَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُولَٰئِكَ يَتُوبُ اللَّهُ عَلَيْهِمْ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+        "en_sahih": "Allah accepts only the repentance of those who do evil in ignorance and then repent soon after. It is they to whom Allah will turn in forgiveness, and Allah is ever All-Knowing and Wise.",
+        "my_mmsy": "အလ္လာဟ်အရှင်မြတ်၏အပေါ်တွင် ဝန်ချတောင်းပန်မှုကိုသာ လက်ခံတော်မူရန် တာဝန်ရှိသည်။  ထိုသူများသည် မသိမိုက်မဲမှုဖြင့် မကောင်းမှုများကို ပြုလုပ်မိကြသည်။ ထို့နောက် မကြာမီပင်  သူတို့သည် ဝန်ချတောင်းပန်လိုက်ကြသည်။ သို့ဖြစ်ရာ ထိုသူများပင်၊ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူတို့၏ဝန်ချတောင်းပန်မှုကို လက်ခံတော်မူပေသည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ် အကြွင်းမဲ့သိတော်မူသောအရှင်၊ ပညာဉာဏ်အမြော်အမြင်နှင့် အလွန်ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 4,
+          "ayah": 17,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/004017.mp3"
+        },
+        "qurancom_url": "https://quran.com/4/17",
+        "context": {
+          "en": "This ayah explains the nature of repentance (Tawbah) and who is eligible for Allah's mercy after committing a sin out of ignorance.",
+          "my": "ဤအာယသ်တော်သည် သောင်ဗဟ် (နောင်တတရား) ၏ သဘောသဘာဝနှင့် မသိနားမလည်မှုကြောင့် အပြစ်ကျူးလွန်မိပြီးနောက် အလ္လာဟ်အရှင်မြတ်၏ ကရုဏာတော်ကို မည်သူတို့ ရရှိနိုင်ကြောင်း ရှင်းပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "وَكَانَ",
+            "translit": "wakāna",
+            "en": "and is ever",
+            "my": "ဖြစ်တော်မူ၏",
+            "role_en": "Deficient Verb",
+            "role_my": "အားနည်းသော ကြိယာ",
+            "root": "က ဝ န",
+            "freq": 1358
+          },
+          {
+            "ar": "عَلِيمًا",
+            "translit": "alīman",
+            "en": "All-Knowing",
+            "my": "အရာခပ်သိမ်းကို သိမြင်တော်မူသော",
+            "role_en": "Khabar Kana",
+            "role_my": "ကာန ၏ သတင်းစကား",
+            "root": "င လ မ",
+            "freq": 157
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The usage of Kāna with Alīman and Hakīman ends the verse with a rhythmic 'an' sound (Tanween Fatha).",
+          "structure_my": "ကာန နှင့်အတူ အလီးမန်၊ ဟကီးမန် ဟု သုံးနှုန်းခြင်းသည် အာယသ်တော်၏ အဆုံးသတ်တွင် 'အန်' သံဖြင့် စည်းချက်ညီစေသည်။",
+          "insight_en": "The ending 'an' emphasizes the continuity of Allah's attributes.",
+          "insight_my": "အဆုံးသတ် 'အန်' သံ (Mansub) သည် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်များ အစဉ်အမြဲ တည်ရှိနေမှုကို အလေးပေးဖော်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ح ك م",
+            "concept_en": "To prevent/restrain from wrongdoing through wisdom.",
+            "concept_my": "ဉာဏ်ပညာဖြင့် မကောင်းမှုကို တားဆီးခြင်း။",
+            "members": [
+              {
+                "ar": "حِكْمَة",
+                "en": "Wisdom",
+                "my": "ဉာဏ်ပညာ",
+                "freq": 20
+              }
+            ],
+            "professors_note": "Hakīm is not just smart; it is someone whose knowledge prevents them from making mistakes."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ အမှားတစ်ခု ပြုလုပ်မိသောအခါ 'ကာန' ဟူသော စကားလုံးကို သတိရပါ။ အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့၏ နောင်တကို သိမြင်ရန် အစဉ်အမြဲ အသင့်ရှိနေတော်မူသောအရှင် ဖြစ်သည်။ ကိုယ်တော်၏ သိမြင်မှု (Alīm) နှင့် ဉာဏ်ပညာ (Hakīm) သည် ကျွန်ုပ်တို့၏ အခြေအနေအရပ်ရပ်ကို အကောင်းဆုံး စီရင်ပေးမည် ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Rhythmic repetition of 'an' at the end: Alīman Hakīman.",
+          "meaning_anchor": "Imagine a scale of absolute wisdom and knowledge.",
+          "daily_connection": "Recite when seeking Allah's guidance in complex situations.",
+          "my": "အာယသ်တော်အဆုံးရှိ 'အန်' သံ စည်းချက်ကို မှတ်သားပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Ar-Rum 30:47",
+        "study_number": 2,
+        "arabic_full": "وَكَانَ حَقًّا عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ",
+        "en_sahih": "And it was ever a duty upon Us to help the believers.",
+        "my_mmsy": "ထို့ပြင် အမှန်စင်စစ် ငါအရှင်မြတ်သည် အသင်၏မတိုင်မီ တမန်တော်များအား ၎င်း၏အမျိုးသားများထံ စေလွှတ်တော်မူခဲ့သည့်အတွက် ထိုတမန်တော်များသည် သူတို့ထံသို့ ထင်ရှားသော သက်သေသာဓကများနှင့်တကွ ရောက်ရှိလာခဲ့ကြသည်။ ထို့နောက် ငါအရှင်မြတ်သည် အပြစ်ကျူးလွန်သူများအား တန်ပြန် အရေးယူတော်မူခဲ့သည်။ ထို့ပြင် အီမာန်ယုံကြည်သူများအား ကူညီတော်မူခြင်းသည် ငါအရှင်မြတ်၏တာဝန်ပင် ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 30,
+          "ayah": 47,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/030047.mp3"
+        },
+        "qurancom_url": "https://quran.com/30/47",
+        "context": {
+          "en": "Allah promises victory and help to those who truly believe, stating it as an established 'Haqq' (right/duty) He took upon Himself.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် စစ်မှန်သော သက်ဝင်ယုံကြည်သူများကို ကူညီရန် ကိုယ်တော်တိုင် တာဝန်ယူထားကြောင်း (Haqq) ကတိပြုထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "حَقًّا",
+            "translit": "haqqan",
+            "en": "a duty / truth",
+            "my": "တာဝန် / အမှန်တရား",
+            "role_en": "Khabar Kana (Advanced: Fronted)",
+            "role_my": "ရှေ့သို့ရောက်နေသော ကာန ၏ သတင်းစကား",
+            "root": "ဟ က က",
+            "freq": 287
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Here, Kāna is followed immediately by the Khabar (Haqqan) to emphasize the obligation.",
+          "structure_my": "ဤနေရာတွင် ကာန ၏ နောက်၌ Khabar (Haqqan) ကို တိုက်ရိုက် သုံးနှုန်းထားခြင်းဖြင့် အဆိုပါ တာဝန်၏ အရေးကြီးပုံကို အလေးပေးထားသည်။",
+          "insight_en": "Bringing the Khabar forward (Haqqan) shows that Allah's help is guaranteed.",
+          "insight_my": "Khabar ကို ရှေ့ထုတ်သုံးခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ ကူညီမှုသည် မလွဲဧကန်ဖြစ်ကြောင်း ပြသသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ن ص ر",
+            "concept_en": "To help / to bring victory.",
+            "concept_my": "ကူညီခြင်း / အောင်ပွဲရရှိစေခြင်း။",
+            "members": [
+              {
+                "ar": "نَصْرُ",
+                "en": "Victory",
+                "my": "အောင်ပွဲ",
+                "freq": 15
+              }
+            ],
+            "professors_note": "Nasr is specifically help that leads to a breakthrough or victory."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ယုံကြည်သူတစ်ဦးအနေဖြင့် အခက်အခဲကြုံရသည့်အခါ ဤအာယသ်တော်ကို နှလုံးသွင်းပါ။ အလ္လာဟ်အရှင်မြတ်က ကျွန်ုပ်တို့ကို ကူညီရန် 'တာဝန်' ယူထားသည်ဟု မိန့်ကြားထားခြင်းသည် မည်မျှပင် အားတက်ဖွယ်ကောင်းလိုက်ပါသနည်း။"
+        },
+        "memorization_helper": {
+          "rhythm": "Wa kana haqqan 'alaina...",
+          "meaning_anchor": "A contract signed by the Almighty.",
+          "daily_connection": "Recite when feeling overwhelmed and in need of divine help.",
+          "my": "'ဟက္ကန် အလိုင်နာ' ဟူသော အသံကို တွဲမှတ်ထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we learned the 'Kāna' pattern, which is vital for understanding descriptions in the Quran. We saw how it changes the ending of attributes to 'an' and discovered that when used for Allah, it denotes eternal, unchanging qualities.",
+      "my": "ဤသင်ခန်းစာတွင် ကုရ်အာန်ပါ ဖော်ပြချက်များကို နားလည်ရန် အလွန်အရေးကြီးသော 'ကာန' ပုံစံကို လေ့လာခဲ့သည်။ ၎င်းသည် ဂုဏ်ပုဒ်များ၏ အဆုံးသတ်သံကို 'အန်' သို့ ပြောင်းလဲစေပုံနှင့် အလ္လာဟ်အရှင်မြတ်အတွက် သုံးနှုန်းသောအခါ ထာဝရတည်မြဲသော ဂုဏ်တော်များကို ဆိုလိုကြောင်း သိရှိခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-132",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 132,
+    "title": {
+      "ar": "كَانَ وَأَخَوَاتُهَا (٢) — لَيْسَ",
+      "en": "Kana & Sisters II — Laysa (Is Not)",
+      "my": "ကာန နှင့် ညီအစ်မတော်များ (၂) — ငြင်းပယ်ခြင်း (မဟုတ်ပါ)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Laysa: non-temporal negation; Laysa ka-mithlihi shay'",
+      "grammar_formula": "لَيْسَ + Ism + Khabar (Mansub or with Bi-)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مِثْل",
+        "translit": "mithl",
+        "en": "like / similar to",
+        "my": "ကဲ့သို့ / တူညီသော",
+        "quran_freq": 70,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "م ث ل",
+          "concept_en": "likeness / parable",
+          "concept_my": "တူညီခြင်း / ပုံပမာ"
+        },
+        "memory_hook": {
+          "sound": "Mithl",
+          "image": "Two identical mirrors facing each other",
+          "cross_language": "Misal (Urdu/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "أَمْثَال",
+            "translit": "amthāl",
+            "en": "examples",
+            "my": "ဥပမာများ",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "This root is used for parables and comparisons in the Quran.",
+        "example": {
+          "ar": "لَيْسَ كَمِثْلِهِ شَيْءٌ",
+          "en": "There is nothing like unto Him",
+          "my": "ကိုယ်တော်နှင့်တူသော အရာတစ်စုံတစ်ခုမျှ မရှိချေ",
+          "ref": "42:11"
+        }
+      },
+      {
+        "word": "عَادِل",
+        "translit": "ādil",
+        "en": "just / fair",
+        "my": "တရားမျှတသော",
+        "quran_freq": 5,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ع د ل",
+          "concept_en": "justice / balance",
+          "concept_my": "တရားမျှတမှု / မျှခြေ"
+        },
+        "memory_hook": {
+          "sound": "Adil",
+          "image": "A perfectly balanced scale",
+          "cross_language": "Adil (Myanmar/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "عَدْل",
+            "translit": "adl",
+            "en": "justice",
+            "my": "တရားမျှတမှု",
+            "freq": 14
+          }
+        ],
+        "pattern_unlock": "The Fa'il pattern often means 'one who does'—so Adil is 'one who acts justly'.",
+        "example": {
+          "ar": "بِالْعَدْلِ",
+          "en": "with justice",
+          "my": "တရားမျှတမှုဖြင့်",
+          "ref": "16:90"
+        }
+      },
+      {
+        "word": "سَوَاء",
+        "translit": "sawā'",
+        "en": "equal / same",
+        "my": "တန်းတူ / အတူတူ",
+        "quran_freq": 34,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَال",
+        "root": {
+          "letters": "س و ي",
+          "concept_en": "to be even / level",
+          "concept_my": "ညီညာခြင်း / အဆင့်တူခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sa-waa",
+          "image": "A flat, level desert floor",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "اسْتَوَىٰ",
+            "translit": "istawā",
+            "en": "He rose / balanced",
+            "my": "သူ တည်ရှိခဲ့သည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Relates to things being in a state of balance or equality.",
+        "example": {
+          "ar": "سَوَاءٌ عَلَيْهِمْ",
+          "en": "it is the same for them",
+          "my": "သူတို့အတွက် အတူတူပင်ဖြစ်သည်",
+          "ref": "2:6"
+        }
+      },
+      {
+        "word": "بَعِيد",
+        "translit": "ba'īd",
+        "en": "far / distant",
+        "my": "ဝေးကွာသော",
+        "quran_freq": 25,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ب ع د",
+          "concept_en": "distance",
+          "concept_my": "အကွာအဝေး"
+        },
+        "memory_hook": {
+          "sound": "Ba-eed",
+          "image": "A person looking at a far-off mountain",
+          "cross_language": "Ba'ad (After/Later)"
+        },
+        "word_family": [
+          {
+            "ar": "بَعْدَ",
+            "translit": "ba'da",
+            "en": "after",
+            "my": "နောက်",
+            "freq": 150
+          }
+        ],
+        "pattern_unlock": "Connects spatial distance with temporal distance (after).",
+        "example": {
+          "ar": "ضَلَالًا بَعِيدًا",
+          "en": "a far error",
+          "my": "ဝေးကွာသော လမ်းမှားမှု",
+          "ref": "4:167"
+        }
+      },
+      {
+        "word": "قَرِيب",
+        "translit": "qarīb",
+        "en": "near / close",
+        "my": "နီးကပ်သော",
+        "quran_freq": 26,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ق ر ب",
+          "concept_en": "nearness",
+          "concept_my": "နီးကပ်မှု"
+        },
+        "memory_hook": {
+          "sound": "Qa-reeb",
+          "image": "Two friends standing close",
+          "cross_language": "Qurban (Sacrifice - to get closer)"
+        },
+        "word_family": [
+          {
+            "ar": "قُرْبَة",
+            "translit": "qurbah",
+            "en": "nearness",
+            "my": "နီးစပ်မှု",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "The root means closeness in space, time, or relationship.",
+        "example": {
+          "ar": "إِنِّي قَرِيبٌ",
+          "en": "Indeed I am near",
+          "my": "ဧကန်စင်စစ် ငါအရှင်မြတ်သည် နီးကပ်စွာရှိတော်မူ၏",
+          "ref": "2:186"
+        }
+      },
+      {
+        "word": "ظَلَّام",
+        "translit": "zhallām",
+        "en": "unjust / oppressor",
+        "my": "မတရားပြုကျင့်သူ",
+        "quran_freq": 5,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعَّال",
+        "root": {
+          "letters": "ظ ل م",
+          "concept_en": "darkness / injustice",
+          "concept_my": "အမှောင်ထု / မတရားမှု"
+        },
+        "memory_hook": {
+          "sound": "Zhal-laam",
+          "image": "A shadow casting over the truth",
+          "cross_language": "Zhulm (Urdu/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "ظُلْم",
+            "translit": "zhulm",
+            "en": "injustice",
+            "my": "မတရားမှု",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "The Fa''āl pattern indicates someone who does an action excessively.",
+        "example": {
+          "ar": "بِظَلَّامٍ لِّلْعَبِيدِ",
+          "en": "unjust to [His] servants",
+          "my": "ကျွန်အပေါင်းတို့အပေါ် မတရားပြုကျင့်သောသူ",
+          "ref": "3:182"
+        }
+      },
+      {
+        "word": "عَبِيد",
+        "translit": "abīd",
+        "en": "servants / slaves",
+        "my": "ကျွန်များ",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ع ب د",
+          "concept_en": "worship / slavery",
+          "concept_my": "ခစားခြင်း / ကျွန်ပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "A-beed",
+          "image": "A group of people bowing in service",
+          "cross_language": "Ibadah (Worship)"
+        },
+        "word_family": [
+          {
+            "ar": "عِبَاد",
+            "translit": "ibād",
+            "en": "servants",
+            "my": "ကျွန်များ",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "Plural of Abd (ကျွန်); used to refer to all of humanity in relation to Allah.",
+        "example": {
+          "ar": "لِّلْعَبِيدِ",
+          "en": "to the servants",
+          "my": "ကျွန်များအတွက်",
+          "ref": "3:182"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "لَيْسَ",
+        "en": "Laysa (The Verb of Negation)",
+        "my": "လိုင်ဆာ (ငြင်းပယ်ခြင်း ကြိယာ)"
+      },
+      "formula": {
+        "display": "لَيْسَ + [Ism (Marfu')] + [Khabar (Mansub or Bi-)]",
+        "example": "لَيْسَ اللَّهُ بِظَلَّامٍ",
+        "myanmar_read": "အလ္လာဟ်အရှင်မြတ်သည် (Ism) မတရားပြုကျင့်သူ (Khabar) မဟုတ်ပါ။",
+        "key_insight": "Laysa is like Kāna, but it negates the sentence. Often, the Khabar takes a 'Bi-' prefix for emphasis."
+      },
+      "explanation": {
+        "en": "Laysa is a sister of Kāna used to negate a state in the present. It follows the same rule: the subject is Marfu' and the predicate is Mansub. However, in the Quran, it is very common for the Khabar of Laysa to be preceded by the particle 'Bi-', which makes the Khabar take a Kasrah (Genitive) but grammatically it is still the Khabar.",
+        "my": "Laysa သည် 'မဟုတ်' ဟူသော အဓိပ္ပာယ်ကို ဆောင်သော ကာန ၏ ညီအစ်မတော် တစ်ဦး ဖြစ်သည်။ ၎င်းသည်လည်း Ism ကို Marfu' လုပ်ပြီး Khabar ကို Mansub ဖြစ်စေသည်။ သို့သော် ကုရ်အာန်တွင် Khabar ၏ ရှေ့တွင် 'Bi-' (ဘိ) ကို ထည့်သွင်း၍ အလေးပေး ဖော်ပြလေ့ ရှိသည်။ ထိုအခါ Khabar သည် ဂျရ် (အိ သံ) ဖြစ်သွားသော်လည်း ၎င်းသည် ကာန ၏ Khabar ပင် ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we add 'မဟုတ်ပါ' at the end. In Arabic, 'Laysa' comes at the beginning of the sentence.",
+        "my": "မြန်မာစကားတွင် 'မဟုတ်ပါ' ကို ဝါကျအဆုံးတွင် ထည့်သော်လည်း၊ အာရပ်ဘာသာတွင် 'လိုင်ဆာ' သည် ဝါကျ၏ အစတွင် လာပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Laysa negates the nominal sentence.",
+          "rule_my": "Laysa သည် နာမ်ဝါကျတစ်ခုကို ငြင်းပယ်ရန် သုံးသည်။",
+          "example": {
+            "ar": "لَيْسَ سَوَاءً",
+            "en": "They are not equal",
+            "my": "သူတို့သည် တူညီကြသည်မဟုတ်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "The Khabar can take 'Bi-' for strong emphasis.",
+          "rule_my": "အလေးပေးလိုပါက Khabar ၏ရှေ့တွင် 'Bi-' (ဘိ) ကို ထည့်နိုင်သည်။",
+          "example": {
+            "ar": "بِظَلَّامٍ",
+            "en": "not at all unjust",
+            "my": "အလျဉ်း မတရားပြုကျင့်သူမဟုတ်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Negation with Emphasis",
+          "ar": "وَمَا اللَّهُ بِظَلَّامٍ لِّلْعَبِيدِ",
+          "en": "And Allah is never unjust to His servants.",
+          "my": "ဤသည် အသင်တို့လက်များက ကြိုတင်ပို့ထားသောအရာ (မကောင်းမှု)များကြောင့်ဖြစ်သည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် (အရှင်မြတ် ဖန်ဆင်းထားသော)ကျွန်များအပေါ် အမှန်စင်စစ် မတရားနှိပ်စက်တော်မူသောအရှင် မဟုတ်ပေ။",
+          "ref": "3:182",
+          "breakdown": {
+            "subject": {
+              "word": "اللَّهُ",
+              "en": "Allah",
+              "note": "Ism (Marfu')"
+            },
+            "predicate": {
+              "word": "بِظَلَّامٍ",
+              "en": "Unjust",
+              "note": "Khabar with emphatic Bi-"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'မာ' (Mā) သည် လိုင်ဆာ ၏ အလုပ်ကို လုပ်ဆောင်နေသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting that Bi- changes the ending to Kasrah",
+          "wrong": {
+            "ar": "لَيْسَ اللَّهُ بِظَلَّامًا",
+            "note": "After 'Bi', you must use Kasrah"
+          },
+          "correct": {
+            "ar": "لَيْسَ اللَّهُ بِظَلَّامٍ",
+            "en": "Allah is not unjust",
+            "my": "အလ္လာဟ်အရှင်မြတ်သည် မတရားပြုကျင့်သူ မဟုတ်ပါ"
+          },
+          "myanmar_tip": "'ဘိ' ပါလာရင် အသံကို 'အင်' သံ (Kasrah) ပြောင်းပေးရမယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the word being negated (Ism) in these ayahs",
+          "instruction_my": "အောက်ပါအာယသ်တော်များတွင် ငြင်းပယ်ခံရသော နာမ် (Ism) ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "أَلَيْسَ اللَّهُ بِكافٍ عَبْدَهُ",
+              "answer_en": "Allah",
+              "answer_my": "အလ္လာဟ်",
+              "ref": "39:36"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate to English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "لَيْسَ الْبِرَّ",
+              "answer_en": "Righteousness is not...",
+              "answer_my": "ကောင်းမှုဆိုသည်မှာ ... မဟုတ်ပါ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Add 'Bi-' to the following words for emphasis",
+          "instruction_my": "အောက်ပါစကားလုံးများတွင် 'Bi-' ကို ထည့်၍ အလေးပေးပုံစံ ပြုလုပ်ပါ",
+          "questions": [
+            {
+              "q": "ظَلَّام",
+              "answer_en": "By no means unjust",
+              "answer_my": "အလျှင်း မတရားမှုမရှိသော",
+              "ar": "بِظَلَّامٍ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Laysa is used in the Quran to clear misconceptions about Allah. It protects the purity of Tawhid by stating what He is NOT—He is not like His creation, and He is never unjust. It provides absolute boundaries for our understanding.",
+        "my": "ကုရ်အာန်တွင် Laysa ကို အလ္လာဟ်အရှင်မြတ်နှင့် ပတ်သက်၍ မှားယွင်းသော ထင်မြင်ချက်များကို ပယ်ဖျက်ရန် သုံးသည်။ ၎င်းသည် အရှင်မြတ်သည် ဖန်ဆင်းခံများနှင့် မတူကြောင်းနှင့် မတရားမှုမရှိကြောင်း ဖော်ပြခြင်းဖြင့် သောင်ဟီးဒ် (တစ်ဆူတည်းသောအရှင်) ဝါဒကို ကာကွယ်ပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Ash-Shura 42:11",
+        "study_number": 1,
+        "arabic_full": "فَاطِرُ السَّمَاوَاتِ وَالْأَرْضِ ۚ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا وَمِنَ الْأَنْعَامِ أَزْوَاجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِ شَيْءٌ ۖ وَهُوَ السَّمِيعُ الْبَصِيرُ",
+        "en_sahih": "[He is] Creator of the heavens and the earth. He has made for you from yourselves, mates, and among the cattle, mates; He multiplies you thereby. There is nothing like unto Him, and He is the Hearing, the Seeing.",
+        "my_mmsy": "42|11(အရှင်မြတ်သည်)မိုးကောင်းကင်များနှင့် မြေပထဝီကို ဖန်ဆင်းတော်မူသောအရှင်မြတ်ဖြစ်တော်မူသည်။ အရှင်မြတ်ပင် အသင်တို့အတွက် အသင်တို့၏ အမျိုးအစားထဲမှပင် ကြင်ရာများကိုဖန်ဆင်းတော်မူခဲ့သည်။ ထို့ပြင် ခြေလေးချောင်းတိရစ္ဆာန်များထဲမှ စုံတွဲများကိုလည်း ဖန်ဆင်းတော်မူခဲ့၍ အသင်တို့အား ထို(စုံတွဲများ၏)အကြောင်းခံဖြင့် ပြန့်ပွားများပြားစေတော်မူခဲ့သည်။ အရှင်မြတ်နှင့် တူသည့်အရာ မည်သည့်အရာမျှမရှိပေ။ အရှင်မြတ်သည် အကြွင်းမဲ့ ကြားတော်မူသောအရှင်၊ အကြွင်းမဲ့မြင်တော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 42,
+          "ayah": 11,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/042011.mp3"
+        },
+        "qurancom_url": "https://quran.com/42/11",
+        "context": {
+          "en": "This is the definitive verse defining Allah's uniqueness. It establishes that no matter what we imagine, Allah is different and beyond comparison.",
+          "my": "ဤသည်မှာ အလ္လာဟ်အရှင်မြတ်၏ ထူးကဲမွန်မြတ်မှုကို ဖော်ပြသော အဓိက အာယသ်တော် ဖြစ်သည်။ ကျွန်ုပ်တို့ မည်သို့ပင် စိတ်ကူးပါစေ၊ အရှင်မြတ်သည် မည်သည့်အရာနှင့်မျှ နှိုင်းယှဉ်၍မရကြောင်း အတည်ပြုပေးသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "لَيْسَ",
+            "translit": "laysa",
+            "en": "is not",
+            "my": "မဟုတ်ပါ",
+            "role_en": "Verb of Negation",
+            "role_my": "ငြင်းပယ်ခြင်း ကြိယာ",
+            "root": "လ ယ သ",
+            "freq": 89
+          },
+          {
+            "ar": "كَمِثْلِهِ",
+            "translit": "kamithlihi",
+            "en": "like the likeness of Him",
+            "my": "ကိုယ်တော်နှင့်တူသော ပုံသဏ္ဌာန်",
+            "role_en": "Khabar Laysa (Preceded)",
+            "role_my": "ရှေ့သို့ရောက်နေသော Khabar",
+            "root": "မ သ လ",
+            "freq": 70
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The combination of 'Ka' (like) and 'Mithl' (likeness) creates a double negation of similarity, making it impossible for anything to resemble Allah.",
+          "structure_my": "'Ka' (ကဲ့သို့) နှင့် 'Mithl' (တူညီမှု) တို့ကို တွဲသုံးခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်နှင့် တူညီသောအရာ မရှိနိုင်ကြောင်း နှစ်ထပ်ကွမ်း အလေးပေးထားသည်။",
+          "insight_en": "Laysa sets the stage for the most important theological statement in Islam: absolute uniqueness.",
+          "insight_my": "Laysa သည် အစ္စလာမ်ဘာသာ၏ အရေးကြီးဆုံး ယုံကြည်ချက်ဖြစ်သော 'အလ္လာဟ်အရှင်မြတ်၏ ထူးခြားမှု' ကို စတင်ဖော်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ف ط ر",
+            "concept_en": "To bring something into existence from nothing; to split open.",
+            "concept_my": "မရှိရာမှ ရှိရာသို့ ဖန်တီးခြင်း၊ ခွဲထုတ်ခြင်း။",
+            "members": [
+              {
+                "ar": "فِطْرَة",
+                "en": "Natural disposition",
+                "my": "ပင်ကိုယ်သဘာဝ",
+                "freq": 1
+              }
+            ],
+            "professors_note": "Fatir implies a creator who initiates creation like a seed splitting open."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ စိတ်ထဲတွင် အလ္လာဟ်အရှင်မြတ်၏ ပုံသဏ္ဌာန်ကို မည်သို့မျှ ပုံဖော်၍ မရနိုင်ပါ။ 'လိုင်ဆာ ကမိစ်လိဟီ ရှိုင်းအ်' ဟူသော စကားလုံးကို ရွတ်ဆိုခြင်းဖြင့် ကျွန်ုပ်တို့၏ အသိဉာဏ်သည် အရှင်မြတ်၏ ကြီးကျယ်မှုကို ပိုမိုနားလည်လာမည် ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Lai-sa ka-mith-li-hi shay'!",
+          "meaning_anchor": "Imagine an empty space where no image can fit because Allah is beyond images.",
+          "daily_connection": "Say this whenever someone asks 'What does Allah look like?'",
+          "my": "'လိုင်ဆာ ကမိစ်လိဟီ ရှိုင်းအ်' ကို အာဂုံဆောင်ထားပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Ali 'Imran 3:182",
+        "study_number": 2,
+        "arabic_full": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ",
+        "en_sahih": "That is for what your hands have put forth and because Allah is not ever unjust to [His] servants.",
+        "my_mmsy": "ဤသည် အသင်တို့လက်များက ကြိုတင်ပို့ထားသောအရာ (မကောင်းမှု)များကြောင့်ဖြစ်သည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် (အရှင်မြတ် ဖန်ဆင်းထားသော)ကျွန်များအပေါ် အမှန်စင်စစ် မတရားနှိပ်စက်တော်မူသောအရှင် မဟုတ်ပေ။",
+        "audio_ref": {
+          "surah": 3,
+          "ayah": 182,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/003182.mp3"
+        },
+        "qurancom_url": "https://quran.com/3/182",
+        "context": {
+          "en": "Allah clarifies that people's suffering or punishment is a result of their own actions, not because He is unfair.",
+          "my": "လူသားတို့ ကြုံတွေ့ရသော ဆင်းရဲဒုက္ခ သို့မဟုတ် ပြစ်ဒဏ်များသည် ၎င်းတို့ကိုယ်တိုင် ပြုလုပ်ခဲ့သော ကံတရားကြောင့်သာ ဖြစ်ပြီး၊ အလ္လာဟ်အရှင်မြတ်၏ မတရားမှုကြောင့် မဟုတ်ကြောင်း ရှင်းလင်းထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "بِظَلَّامٍ",
+            "translit": "bizhallāmin",
+            "en": "at all unjust",
+            "my": "အလျှင်း မတရားမှုမရှိသော",
+            "role_en": "Khabar Laysa with Bi-",
+            "role_my": "Bi- ပါသော ကာန ၏ သတင်းစကား",
+            "root": "ဇ လ မ",
+            "freq": 5
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of 'Bi-' plus 'Zhallam' (intensive form) means Allah doesn't possess even an atom's weight of injustice.",
+          "structure_my": "'Bi-' နှင့် 'Zhallam' (အလွန်အကျွံပြုသူ) ကို တွဲသုံးခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်ထံတွင် မြူမှုန်ခန့်မျှပင် မတရားမှုမရှိကြောင်း ဆိုလိုသည်။",
+          "insight_en": "Laysa here acts as a pillar of justice (Adl).",
+          "insight_my": "ဤနေရာတွင် Laysa သည် တရားမျှတမှု၏ မဏ္ဍိုင်အဖြစ် လုပ်ဆောင်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ق د م",
+            "concept_en": "To send forward / to precede.",
+            "concept_my": "ရှေ့သို့ ပေးပို့ခြင်း / အရင်ရောက်ရှိခြင်း။",
+            "members": [
+              {
+                "ar": "قَدِيم",
+                "en": "Ancient",
+                "my": "ရှေးကျသော",
+                "freq": 0
+              }
+            ],
+            "professors_note": "In the context of deeds, it means what you sent ahead to your future."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ ဘဝတွင် မမျှော်လင့်ဘဲ အခက်အခဲများ ကြုံရသောအခါ အရှင်မြတ်ကို အပြစ်မတင်မိပါစေနှင့်။ အလ္လာဟ်အရှင်မြတ်သည် ကျွန်များအပေါ် 'အလျှင်း မတရားမှု မပြု' ကြောင်း ဤအာယသ်တော်က အာမခံထားသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Ann-allaha laysa bi-zhallamin...",
+          "meaning_anchor": "A judge who has no darkness in his heart.",
+          "daily_connection": "Recite when observing social injustice to remember Allah's ultimate fairness.",
+          "my": "'ဘိဇောလ်လားမ်' ဟူသော အလေးပေးသံကို မှတ်ထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "This lesson introduced 'Laysa', the primary tool for negation in the Kāna family. We explored how it confirms Allah's uniqueness and justice, and how the prefix 'Bi-' adds a powerful layer of emphasis to these core Quranic concepts.",
+      "my": "ဤသင်ခန်းစာတွင် 'ကာန' ညီအစ်မတော်များထဲမှ ငြင်းပယ်ခြင်းအတွက် အဓိကသုံးသော 'လိုင်ဆာ' ကို မိတ်ဆက်ပေးခဲ့သည်။ ၎င်းသည် အလ္လာဟ်အရှင်မြတ်၏ ထူးခြားမှုနှင့် တရားမျှတမှုကို မည်သို့ အတည်ပြုကြောင်းနှင့် 'Bi-' (ဘိ) သည် ၎င်းအဓိပ္ပာယ်ကို မည်သို့ ပိုမိုလေးနက်စေကြောင်း လေ့လာခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-133",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 133,
+    "title": {
+      "ar": "كَانَ وَأَخَوَاتُهَا (٣) — أَصْبَحَ وَصَارَ",
+      "en": "Kana & Sisters III — Asbaha/Sāra: Becoming",
+      "my": "ကာန နှင့် ညီအစ်မတော်များ (၃) — ဖြစ်လာခြင်း နှင့် ပြောင်းလဲခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Asbaha (became in morning/state) and Sāra (became/turned into)",
+      "grammar_formula": "أَصْبَحَ / صَارَ + Ism + Khabar (Mansub)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "نِعْمَة",
+        "translit": "ni'mah",
+        "en": "blessing / favor",
+        "my": "ကောင်းချီးမင်္ဂလာ / ကျေးဇူးတော်",
+        "quran_freq": 56,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعْلَة",
+        "root": {
+          "letters": "ن ع م",
+          "concept_en": "ease / comfort / blessing",
+          "concept_my": "လွယ်ကူခြင်း / သက်သောင့်သက်သာရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ni-mah",
+          "image": "A gift box raining from the sky",
+          "cross_language": "Nikmat (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "نَعِيم",
+            "translit": "na'īm",
+            "en": "delight",
+            "my": "ပျော်ရွှင်ချမ်းမြေ့မှု",
+            "freq": 33
+          }
+        ],
+        "pattern_unlock": "This root describes anything that makes life pleasant and easy.",
+        "example": {
+          "ar": "بِنِعْمَةِ اللَّهِ",
+          "en": "by the favor of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်ဖြင့်",
+          "ref": "3:103"
+        }
+      },
+      {
+        "word": "إِخْوَان",
+        "translit": "ikhwān",
+        "en": "brothers",
+        "my": "ညီအစ်ကိုများ",
+        "quran_freq": 22,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْلَان",
+        "root": {
+          "letters": "أ خ و",
+          "concept_en": "brotherhood",
+          "concept_my": "ညီအစ်ကိုတော်စပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ikh-wan",
+          "image": "Men holding hands in unity",
+          "cross_language": "Ikhwan (Islamic movements)"
+        },
+        "word_family": [
+          {
+            "ar": "أَخ",
+            "translit": "akh",
+            "en": "brother",
+            "my": "ညီအစ်ကို",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "The plural 'Ikhwan' is often used for spiritual or ideological brotherhood.",
+        "example": {
+          "ar": "فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا",
+          "en": "and you became, by His favor, brothers",
+          "my": "သို့ဖြစ်၍ အသင်တို့သည် အရှင်မြတ်၏ကျေးဇူးတော်ဖြင့် ညီအစ်ကိုများ ဖြစ်လာခဲ့ကြသည်",
+          "ref": "3:103"
+        }
+      },
+      {
+        "word": "مَصِير",
+        "translit": "masīr",
+        "en": "destination / becoming",
+        "my": "ပြန်လည်ရောက်ရှိရာနေရာ",
+        "quran_freq": 28,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعِيل",
+        "root": {
+          "letters": "ص ي ر",
+          "concept_en": "to become / to return",
+          "concept_my": "ဖြစ်လာခြင်း / ပြန်သွားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ma-seer",
+          "image": "A road ending at a great palace",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "تَصِيرُ",
+            "translit": "tasīru",
+            "en": "it returns",
+            "my": "၎င်းပြန်သွားသည်",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "This word usually refers to the final destination in the afterlife.",
+        "example": {
+          "ar": "إِلَيْهِ الْمَصِيرُ",
+          "en": "to Him is the destination",
+          "my": "ကိုယ်တော့်ထံ၌သာလျှင် ပြန်လည်ရောက်ရှိရာနေရာ ရှိ၏",
+          "ref": "5:18"
+        }
+      },
+      {
+        "word": "خَاسِر",
+        "translit": "khāsir",
+        "en": "loser",
+        "my": "ရှုံးနိမ့်သူ",
+        "quran_freq": 15,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "خ س ر",
+          "concept_en": "loss / to lose",
+          "concept_my": "ဆုံးရှုံးခြင်း / ရှုံးနိမ့်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khaa-sir",
+          "image": "A businessman with an empty wallet",
+          "cross_language": "Khusran (Loss)"
+        },
+        "word_family": [
+          {
+            "ar": "خُسْر",
+            "translit": "khusr",
+            "en": "loss",
+            "my": "ဆုံးရှုံးမှု",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "The Quran uses this for those who lose their souls in the Hereafter.",
+        "example": {
+          "ar": "فَأَصْبَحَ مِنَ الْخَاسِرِينَ",
+          "en": "and he became of the losers",
+          "my": "သို့ဖြစ်၍ သူသည် ရှုံးနိမ့်သူတို့အနက်မှ ဖြစ်သွားခဲ့သည်",
+          "ref": "5:30"
+        }
+      },
+      {
+        "word": "مُبْدِل",
+        "translit": "mubdil",
+        "en": "one who changes",
+        "my": "လဲလှယ်ပေးသူ / ပြောင်းလဲပေးသူ",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعِل",
+        "root": {
+          "letters": "ب د ل",
+          "concept_en": "change / substitute",
+          "concept_my": "လဲလှယ်ခြင်း / အစားထိုးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mub-dil",
+          "image": "Exchanging an old coat for a new one",
+          "cross_language": "Badal (Urdu/Myanmar usage)"
+        },
+        "word_family": [
+          {
+            "ar": "بَدَّلَ",
+            "translit": "baddala",
+            "en": "he changed",
+            "my": "သူလဲလှယ်ခဲ့သည်",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Used when one thing is completely replaced by another.",
+        "example": {
+          "ar": "لَا مُبَدِّلَ",
+          "en": "no changer",
+          "my": "ပြောင်းလဲနိုင်သူမရှိ",
+          "ref": "6:34"
+        }
+      },
+      {
+        "word": "أُمُور",
+        "translit": "umūr",
+        "en": "matters / affairs",
+        "my": "ကိစ္စရပ်များ",
+        "quran_freq": 38,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعُول",
+        "root": {
+          "letters": "أ م ر",
+          "concept_en": "command / matter",
+          "concept_my": "အမိန့် / ကိစ္စ"
+        },
+        "memory_hook": {
+          "sound": "U-moor",
+          "image": "A pile of files representing life's tasks",
+          "cross_language": "Amr (Command)"
+        },
+        "word_family": [
+          {
+            "ar": "أَمْر",
+            "translit": "amr",
+            "en": "command",
+            "my": "အမိန့်",
+            "freq": 150
+          }
+        ],
+        "pattern_unlock": "Refers to both the commands of Allah and the affairs of the world.",
+        "example": {
+          "ar": "تَصِيرُ الْأُمُورُ",
+          "en": "matters return",
+          "my": "ကိစ္စရပ်များ ပြန်လည်ရောက်ရှိသည်",
+          "ref": "42:53"
+        }
+      },
+      {
+        "word": "نَادِم",
+        "translit": "nādim",
+        "en": "regretful",
+        "my": "နောင်တရသောသူ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ن د م",
+          "concept_en": "regret",
+          "concept_my": "နောင်တရခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Na-dim",
+          "image": "A person with their head in their hands",
+          "cross_language": "Nadamah (Regret)"
+        },
+        "word_family": [
+          {
+            "ar": "نَدَامَة",
+            "translit": "nadāmah",
+            "en": "remorse",
+            "my": "နောင်တ",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Describes the feeling of wishing a past action never happened.",
+        "example": {
+          "ar": "فَأَصْبَحَ مِنَ النَّادِمِينَ",
+          "en": "and he became of the regretful",
+          "my": "သို့ဖြစ်၍ သူသည် နောင်တရသူတို့အနက်မှ ဖြစ်သွားခဲ့သည်",
+          "ref": "5:31"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أَصْبَحَ وَصَارَ",
+        "en": "Asbaha and Sāra (The Verbs of Becoming)",
+        "my": "အဆွ်ဗဟာ နှင့် ဆွာရာ (ဖြစ်လာခြင်း ကြိယာများ)"
+      },
+      "formula": {
+        "display": "أَصْبَحَ / صَارَ + Ism (Marfu') + Khabar (Mansub)",
+        "example": "أَصْبَحْتُم إِخْوَانًا",
+        "myanmar_read": "အသင်တို့သည် (Ism) ညီအစ်ကိုများ (Khabar) ဖြစ်လာကြ၏။",
+        "key_insight": "Asbaha means 'became in the morning' or generally 'became'. Sāra means 'transformed into'."
+      },
+      "explanation": {
+        "en": "These two verbs are sisters of Kāna. 'Asbaha' originally meant to enter the morning, but in the Quran, it often describes someone entering a new state (e.g., becoming regretful). 'Sāra' refers to the process of turning into something or returning to a destination. Both verbs require the Khabar to be Mansub (Fatha).",
+        "my": "ဤကြိယာနှစ်ခုသည် ကာန ၏ ညီအစ်မတော်များ ဖြစ်ကြသည်။ 'Asbaha' သည် မူလက 'နံနက်ခင်းသို့ ရောက်ရှိခြင်း' ဟု အဓိပ္ပာယ်ရသော်လည်း၊ ကုရ်အာန်တွင် အခြေအနေသစ်တစ်ခုသို့ ရောက်ရှိသွားခြင်း (ဥပမာ- နောင်တရသူ ဖြစ်သွားခြင်း) ကို ဖော်ပြရန် သုံးသည်။ 'Sāra' သည် အသွင်ကူးပြောင်းခြင်း သို့မဟုတ် ပန်းတိုင်တစ်ခုသို့ ရောက်ရှိခြင်းကို ဆိုလိုသည်။ နှစ်ခုစလုံးသည် Khabar ကို Mansub (အန် သံ) ဖြစ်စေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use 'ဖြစ်လာသည်' for both, but Arabic distinguishes between a state change (Asbaha) and a final transformation/return (Sāra).",
+        "my": "မြန်မာဘာသာတွင် နှစ်ခုစလုံးကို 'ဖြစ်လာသည်' ဟု သုံးလေ့ရှိသော်လည်း၊ အာရပ်ဘာသာတွင် အခြေအနေပြောင်းလဲခြင်း (Asbaha) နှင့် အဆုံးစွန် ပြောင်းလဲခြင်း/ပြန်လည်ရောက်ရှိခြင်း (Sāra) ကို ခွဲခြားထားသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Asbaha denotes becoming or entering a state.",
+          "rule_my": "Asbaha သည် အခြေအနေတစ်ခုသို့ ပြောင်းလဲရောက်ရှိခြင်းကို ပြသည်။",
+          "example": {
+            "ar": "أَصْبَحَ مِنَ النَّادِمِينَ",
+            "en": "He became of the regretful",
+            "my": "သူသည် နောင်တရသူတို့အနက်မှ ဖြစ်သွားခဲ့သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Sāra denotes transformation or ultimate return.",
+          "rule_my": "Sāra သည် အသွင်ပြောင်းခြင်း သို့မဟုတ် အဆုံးစွန် ပြန်လည်ရောက်ရှိခြင်းကို ပြသည်။",
+          "example": {
+            "ar": "إِلَى اللَّهِ تَصِيرُ الْأُمُورُ",
+            "en": "To Allah matters return",
+            "my": "အလ္လာဟ်အရှင်မြတ်ထံသို့သာ ကိစ္စရပ်များ ပြန်လည်ရောက်ရှိသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Transformation of Hearts",
+          "ar": "فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا",
+          "en": "And you became, by His favor, brothers.",
+          "my": "ထို့ပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ကြိုး(ကုရ်အာန်)ကို  တစ်ညီတစ်ညွတ်တည်း စွဲမြဲစွာ ဆုပ်ကိုင်ထားကြပါ။ ထို့ပြင် အသင်တို့သည် အချင်းချင်း မကွဲပြဲကြလေနှင့်။ ၎င်းပြင် အသင်တို့သည် အသင်တို့အပေါ် အလ္လာဟ်အရှင်မြတ်ပြုထားသော ကျေးဇူးတော်ကိုလည်း သတိရကြပါ။ တစ်ခါက အသင်တို့သည် ရန်သူများ ဖြစ်ခဲ့ကြပြီး (အရှင်မြတ်သည်) အသင်တို့၏စိတ်နှလုံးများကို ညီညွတ်စေတော်မူခဲ့သည်။ သို့ဖြစ်ရာ အသင်တို့သည် အရှင်မြတ်၏ကျေးဇူးတော်နှင့် (ယခုအချိန်တွင်) ညီရင်းအစ်ကိုများ  ဖြစ်သွားခဲ့ကြသည်။ ထို့ပြင် အသင်တို့သည် ဂျဟန္နမ်ငရဲမီးတွင်း၏ နှုတ်ခမ်းဝပေါ်ရောက်ရှိခဲ့ကြပြီဖြစ်သည်။  (အရှင်မြတ်သည်) အသင်တို့အား (အီမာန် ချီးမြှင့်ပြီး) ထိုငရဲမီးမှ ကယ်တင်တော်မူခဲ့သည်။ အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ လမ်းမှန်ရောက်ရှိကြရန် အရှင်မြတ်၏အာယသ်တော်များကို အသင်တို့အတွက် ဤသို့ပင် ရှင်းပြတော်မူသည်။",
+          "ref": "3:103",
+          "breakdown": {
+            "subject": {
+              "word": "أَنْتُم (implied in tum)",
+              "en": "You (all)",
+              "note": "Ism Asbaha"
+            },
+            "predicate": {
+              "word": "إِخْوَانًا",
+              "en": "Brothers",
+              "note": "Khabar Asbaha (Mansub)"
+            }
+          },
+          "myanmar_insight": "ရန်သူများဖြစ်ခဲ့ကြသော်လည်း အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးကြောင့် ညီအစ်ကိုများအဖြစ် 'ပြောင်းလဲ' သွားခြင်းကို Asbaha ဖြင့် ပြထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using Marfu' for the new state",
+          "wrong": {
+            "ar": "أَصْبَحَ نَادِمٌ",
+            "note": "Should be Nadiman"
+          },
+          "correct": {
+            "ar": "أَصْبَحَ نَادِمًا",
+            "en": "He became regretful",
+            "my": "သူသည် နောင်တရသူ ဖြစ်လာခဲ့သည်"
+          },
+          "myanmar_tip": "အခြေအနေသစ်ကို ဖော်ပြတဲ့ စကားလုံးကို 'အန်' သံ (Mansub) နဲ့ ဖတ်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the word in the Mansub state (ending with -an) after Asbaha",
+          "instruction_my": "Asbaha ၏ နောက်ရှိ Mansub ဖြစ်နေသော စကားလုံး (အန် သံနှင့် ဆုံးသောစကားလုံး) ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "فَأَصْبَحُوا خَاسِرِينَ",
+              "answer_en": "Khāsirīn (Plural Mansub)",
+              "answer_my": "ခါစီးရီးန် (အများကိန်း Mansub)",
+              "ref": "7:91"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate to English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "إِلَى اللَّهِ الْمَصِيرُ",
+              "answer_en": "To Allah is the destination",
+              "answer_my": "အလ္လာဟ်အရှင်မြတ်ထံသို့သာ ပြန်လည်ရောက်ရှိရမည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Convert these nouns into the Khabar form (Mansub)",
+          "instruction_my": "အောက်ပါနာမ်များကို Khabar ပုံစံ (Mansub) သို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "نَادِمٌ",
+              "answer_en": "nādiman",
+              "answer_my": "နောင်တရသူအဖြစ်",
+              "ar": "نَادِمًا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Asbaha reminds us that our states are in Allah's hands. He can turn enemies into brothers in a single morning. Sāra reminds us that regardless of our current state, our final transformation and return is only to Him.",
+        "my": "Asbaha သည် ကျွန်ုပ်တို့၏ အခြေအနေများသည် အလ္လာဟ်အရှင်မြတ်၏ လက်ဝယ်တွင်ရှိကြောင်း သတိပေးသည်။ အရှင်မြတ်သည် ရန်သူများကို တစ်မနက်အတွင်း ညီအစ်ကိုများအဖြစ် ပြောင်းလဲပေးနိုင်သည်။ Sāra ကမူ ကျွန်ုပ်တို့ မည်သည့်အခြေအနေတွင် ရှိနေပါစေ၊ အဆုံးတွင် အရှင်မြတ်ထံသို့သာ ပြန်ရမည်ဖြစ်ကြောင်း သတိပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Ali 'Imran 3:103",
+        "study_number": 1,
+        "arabic_full": "وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا",
+        "en_sahih": "And remember the favor of Allah upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers.",
+        "my_mmsy": "ထို့ပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ကြိုး(ကုရ်အာန်)ကို  တစ်ညီတစ်ညွတ်တည်း စွဲမြဲစွာ ဆုပ်ကိုင်ထားကြပါ။ ထို့ပြင် အသင်တို့သည် အချင်းချင်း မကွဲပြဲကြလေနှင့်။ ၎င်းပြင် အသင်တို့သည် အသင်တို့အပေါ် အလ္လာဟ်အရှင်မြတ်ပြုထားသော ကျေးဇူးတော်ကိုလည်း သတိရကြပါ။ တစ်ခါက အသင်တို့သည် ရန်သူများ ဖြစ်ခဲ့ကြပြီး (အရှင်မြတ်သည်) အသင်တို့၏စိတ်နှလုံးများကို ညီညွတ်စေတော်မူခဲ့သည်။ သို့ဖြစ်ရာ အသင်တို့သည် အရှင်မြတ်၏ကျေးဇူးတော်နှင့် (ယခုအချိန်တွင်) ညီရင်းအစ်ကိုများ  ဖြစ်သွားခဲ့ကြသည်။ ထို့ပြင် အသင်တို့သည် ဂျဟန္နမ်ငရဲမီးတွင်း၏ နှုတ်ခမ်းဝပေါ်ရောက်ရှိခဲ့ကြပြီဖြစ်သည်။  (အရှင်မြတ်သည်) အသင်တို့အား (အီမာန် ချီးမြှင့်ပြီး) ထိုငရဲမီးမှ ကယ်တင်တော်မူခဲ့သည်။ အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ လမ်းမှန်ရောက်ရှိကြရန် အရှင်မြတ်၏အာယသ်တော်များကို အသင်တို့အတွက် ဤသို့ပင် ရှင်းပြတော်မူသည်။",
+        "audio_ref": {
+          "surah": 3,
+          "ayah": 103,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/003103.mp3"
+        },
+        "qurancom_url": "https://quran.com/3/103",
+        "context": {
+          "en": "Allah reminds the Sahaba of how Islam united them after years of tribal warfare in Madinah.",
+          "my": "မဒီနာမြို့ရှိ မျိုးနွယ်စုများ နှစ်ပေါင်းများစွာ စစ်ဖြစ်ပွားခဲ့ရာမှ အစ္စလာမ်သာသနာက ၎င်းတို့ကို မည်သို့ စည်းလုံးစေခဲ့ကြောင်း ဆွဟာဗဟ်အပေါင်းတို့အား အလ္လာဟ်အရှင်မြတ်က သတိပေးထားခြင်း ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "فَأَصْبَحْتُم",
+            "translit": "fa-asbahtum",
+            "en": "and you became",
+            "my": "သို့ဖြစ်၍ အသင်တို့ ဖြစ်လာကြသည်",
+            "role_en": "Verb (Asbaha) + Subject (You)",
+            "role_my": "Asbaha ကြိယာ + ကတ္တား",
+            "root": "ဆ ဗ ဟ",
+            "freq": 30
+          },
+          {
+            "ar": "إِخْوَانًا",
+            "translit": "ikhwānan",
+            "en": "brothers",
+            "my": "ညီအစ်ကိုများ",
+            "role_en": "Khabar Asbaha",
+            "role_my": "Asbaha ၏ သတင်းစကား",
+            "root": "အ ခ ဝ",
+            "freq": 22
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The transition from 'A'da-an' (enemies) to 'Ikhwanan' (brothers) uses the Mansub state for both, showing a complete change of state.",
+          "structure_my": "'အအ်ဒါအန်' (ရန်သူများ) မှ 'အစ်ခ်ဝါနန်' (ညီအစ်ကိုများ) သို့ ပြောင်းလဲမှုကို Mansub ပုံစံဖြင့် ပြထားပြီး၊ လုံးဝဥဿုံ ပြောင်းလဲသွားခြင်းကို ဖော်ပြသည်။",
+          "insight_en": "Asbaha implies that this brotherhood was a new dawn for the community.",
+          "insight_my": "Asbaha သည် ဤညီအစ်ကိုတော်စပ်မှုသည် လူ့အဖွဲ့အစည်းအတွက် အရုဏ်ဦးသစ်တစ်ခုဖြစ်ကြောင်း ဆိုလိုသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "أ ل ف",
+            "concept_en": "To unite / to bring together in harmony.",
+            "concept_my": "စည်းလုံးစေခြင်း / သဟဇာတဖြစ်အောင် ပေါင်းစည်းခြင်း။",
+            "members": [
+              {
+                "ar": "مُؤَلَّفَة",
+                "en": "Reconciled",
+                "my": "ရင်ကြားစေ့သူ",
+                "freq": 1
+              }
+            ],
+            "professors_note": "Ta'lif is like weaving separate threads into a single strong fabric."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "မြန်မာနိုင်ငံရှိ မွတ်စလင်မ်ထုသည်လည်း လူမျိုးစုံ၊ နောက်ခံစုံ ရှိကြသော်လည်း အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်ဖြင့် ကျွန်ုပ်တို့အားလုံးသည် 'အစ်ခ်ဝါန်' (ညီအစ်ကိုများ) ဖြစ်ကြသည်။ ဤအာယသ်တော်သည် ကျွန်ုပ်တို့၏ စည်းလုံးမှုကို ထိန်းသိမ်းရန် အကြီးမားဆုံးသော လှုံ့ဆော်မှု ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Fa-as-bah-tum bi-ni'-ma-ti-hi ikh-wa-na!",
+          "meaning_anchor": "Imagine hearts being tied together with a glowing light.",
+          "daily_connection": "Recite when meeting fellow Muslims from different backgrounds.",
+          "my": "'ဘိနိအ်မသိဟီ အစ်ခ်ဝါနာ' ကို အလွတ်မှတ်ထားပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Ash-Shura 42:53",
+        "study_number": 2,
+        "arabic_full": "أَلَا إِلَى اللَّهِ تَصِيرُ الْأُمُورُ",
+        "en_sahih": "Unquestionably, to Allah do [all] matters evolve.",
+        "my_mmsy": "42|53အကြင် အလ္လာဟ်အရှင်မြတ်၏ တရားလမ်းကို(ညွှန်ကြားပြသနေခြင်းဖြစ်သည်)။ ထိုအရှင်မြတ်သည် မိုးကောင်းကင်များတွင်ရှိသမျှနှင့် မြေပထဝီတွင်ရှိသမျှကို ပိုင်ဆိုင်တော်မူသောအရှင်ဖြစ်တော်မူသည်။ သတိပြုကြပါ၊ အရေးကိစ္စဟူသမျှသည် အလ္လာဟ်အရှင်မြတ်ထံတော်သို့ပင် ပြန်လည်ရောက်ရှိကြမည်ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 42,
+          "ayah": 53,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/042053.mp3"
+        },
+        "qurancom_url": "https://quran.com/42/53",
+        "context": {
+          "en": "The final verse of Surah Ash-Shura, confirming that every single affair in the universe will eventually reach its final judgment with Allah.",
+          "my": "ဆူရဟ် အတ်ရှ်ရှူရာ ၏ နောက်ဆုံးအာယသ်တော် ဖြစ်ပြီး၊ စကြာဝဠာအတွင်းရှိ ကိစ္စရပ်တိုင်းသည် အဆုံးတွင် အလ္လာဟ်အရှင်မြတ်၏ စီရင်ဆုံးဖြတ်မှုသို့သာ ရောက်ရှိမည်ဖြစ်ကြောင်း အတည်ပြုထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "تَصِيرُ",
+            "translit": "tasīru",
+            "en": "return / evolve",
+            "my": "ရောက်ရှိသည်",
+            "role_en": "Verb (Sāra)",
+            "role_my": "Sāra ကြိယာ",
+            "root": "ဆ ယ ရ",
+            "freq": 5
+          },
+          {
+            "ar": "الْأُمُورُ",
+            "translit": "al-umūru",
+            "en": "the matters",
+            "my": "ကိစ္စရပ်များ",
+            "role_en": "Ism Sāra (Marfu')",
+            "role_my": "Sāra ၏ Ism",
+            "root": "အ မ ရ",
+            "freq": 38
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The present tense 'Tasīru' shows a continuous process—everything is constantly moving towards Allah.",
+          "structure_my": "မျက်မှောက်ကာလ 'Tasīru' ကို သုံးထားခြင်းသည် အရာရာတိုင်းသည် အလ္လာဟ်အရှင်မြတ်ထံသို့ အမြဲမပြတ် ရွေ့လျားနေကြောင်း ပြသသည်။",
+          "insight_en": "Sāra suggests a finality that Kāna or Asbaha doesn't emphasize.",
+          "insight_my": "Sāra သည် ကာန သို့မဟုတ် အဆွ်ဗဟာ တို့ထက် ပိုမို၍ 'အဆုံးသတ်ပန်းတိုင်' ကို အလေးပေးသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ص ي ر",
+            "concept_en": "To reach a state or destination after a process.",
+            "concept_my": "လုပ်ငန်းစဉ်တစ်ခုပြီးနောက် အခြေအနေတစ်ခု သို့မဟုတ် ပန်းတိုင်တစ်ခုသို့ ရောက်ရှိခြင်း။",
+            "members": [
+              {
+                "ar": "مَصِير",
+                "en": "Final destination",
+                "my": "အဆုံးစွန်ရောက်ရာနေရာ",
+                "freq": 28
+              }
+            ],
+            "professors_note": "Every struggle you go through is part of the 'Sāra' process leading back to Allah."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ နေ့စဉ်ကိစ္စရပ်များ၊ အလုပ်အကိုင်များ၊ မိသားစုအရေးများ အားလုံးသည် နောက်ဆုံးတွင် အလ္လာဟ်အရှင်မြတ်ထံသို့သာ ပြန်လည်ရောက်ရှိပါမည်။ ထို့ကြောင့် မည်သည့်ကိစ္စတွင်မဆို အရှင်မြတ်၏ အလိုတော်ကို ဦးစားပေးရန် လိုအပ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Alaaa ila-llahi tasirul umūr.",
+          "meaning_anchor": "A river flowing into the ocean of Allah's authority.",
+          "daily_connection": "Recite when closing a business deal or finishing a long task.",
+          "my": "'သဆီးရုလ် အူမူးရ်' ဟူသော အဆုံးသတ်ကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "This lesson taught us how 'Asbaha' and 'Sāra' describe changes and destinations. We saw how Allah transforms hearts and how all worldly affairs are ultimately moving toward His divine judgment. Understanding these verbs helps us see the dynamic nature of the Quranic narrative.",
+      "my": "ဤသင်ခန်းစာတွင် 'Asbaha' နှင့် 'Sāra' တို့သည် အခြေအနေပြောင်းလဲမှုများနှင့် ပန်းတိုင်များကို မည်သို့ဖော်ပြကြောင်း လေ့လာခဲ့သည်။ အလ္လာဟ်အရှင်မြတ်သည် စိတ်နှလုံးများကို မည်သို့ပြောင်းလဲစေပုံနှင့် လောကီရေးရာအားလုံးသည် အဆုံးတွင် ကိုယ်တော်၏စီရင်ချက်ထံသို့သာ ဦးတည်နေပုံတို့ကို သိရှိခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-134",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 134,
+    "title": {
+      "ar": "كَانَ فِي الْقَصَصِ الْقُرْآنِيِّ",
+      "en": "Kāna in Historical Quranic Narrative",
+      "my": "ကုရ်အာန်ပုံပြင်များပါ 'ကာန' ၏ အသုံးနှုန်းများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Kāna in stories of prophets; past continuous meaning",
+      "grammar_formula": "كَانَ + Verb (Present) = Used to / Was doing"
+    },
+    "section_1_vocab": [
+      {
+        "word": "صَالِح",
+        "translit": "sālih",
+        "en": "righteous / good",
+        "my": "သူတော်စင် / ကောင်းမြတ်သော",
+        "quran_freq": 137,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ص ل ح",
+          "concept_en": "to be good / to repair",
+          "concept_my": "ကောင်းမွန်ခြင်း / ပြုပြင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sa-lih",
+          "image": "A person repairing a broken wall",
+          "cross_language": "Soleh (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "أَصْلَحَ",
+            "translit": "aslaha",
+            "en": "he corrected",
+            "my": "သူပြုပြင်ခဲ့သည်",
+            "freq": 30
+          }
+        ],
+        "pattern_unlock": "This root describes harmony and keeping things in their proper, good state.",
+        "example": {
+          "ar": "كَانَ صَالِحًا",
+          "en": "he was righteous",
+          "my": "သူသည် သူတော်စင်တစ်ဦး ဖြစ်ခဲ့သည်",
+          "ref": "18:82"
+        }
+      },
+      {
+        "word": "شَكُور",
+        "translit": "shakūr",
+        "en": "grateful",
+        "my": "ကျေးဇူးသိတတ်သော",
+        "quran_freq": 10,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعُول",
+        "root": {
+          "letters": "ش ك ر",
+          "concept_en": "gratitude",
+          "concept_my": "ကျေးဇူးတင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sha-koor",
+          "image": "A servant thanking his master with a bow",
+          "cross_language": "Syukur (Malay/Myanmar usage)"
+        },
+        "word_family": [
+          {
+            "ar": "يَشْكُرُ",
+            "translit": "yashkuru",
+            "en": "he thanks",
+            "my": "သူကျေးဇူးတင်သည်",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "The Fa'ūl pattern here means 'intensely' or 'constantly' grateful.",
+        "example": {
+          "ar": "إِنَّهُ كَانَ عَبْدًا شَكُورًا",
+          "en": "Indeed, he was a grateful servant.",
+          "my": "ဧကန်စင်စစ် သူသည် အလွန်ကျေးဇူးသိတတ်သော ကျွန်တစ်ဦး ဖြစ်ခဲ့သည်။",
+          "ref": "17:3"
+        }
+      },
+      {
+        "word": "أَوَّاه",
+        "translit": "awwāh",
+        "en": "compassionate / sighing in prayer",
+        "my": "နူးညံ့သောနှလုံးသားရှိသူ / ညည်းတွားတိုင်တည်သူ",
+        "quran_freq": 2,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعَّال",
+        "root": {
+          "letters": "أ و ه",
+          "concept_en": "to sigh with emotion / pity",
+          "concept_my": "ခံစားချက်ဖြင့် ညည်းတွားခြင်း / သနားကြင်နာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Awwah",
+          "image": "Someone saying 'Ah!' out of pity or love for Allah",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "A rare Quranic word describing the deep emotional state of Prophet Ibrahim.",
+        "example": {
+          "ar": "إِنَّ إِبْرَاهِيمَ لَأَوَّاهٌ",
+          "en": "Indeed Abraham was compassionate",
+          "my": "ဧကန်စင်စစ် အီဗရာဟင်မ်သည် အလွန်နူးညံ့သောနှလုံးသား ရှိသူဖြစ်သည်။",
+          "ref": "9:114"
+        }
+      },
+      {
+        "word": "حَلِيم",
+        "translit": "halīm",
+        "en": "forbearing / patient",
+        "my": "သည်းခံစိတ်ရှိသော",
+        "quran_freq": 15,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ح ل م",
+          "concept_en": "patience / non-reactivity",
+          "concept_my": "သည်းခံခြင်း / စိတ်မဆိုးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ha-leem",
+          "image": "A person staying calm while someone shouts at them",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "أَحْلَام",
+            "translit": "ahlām",
+            "en": "dreams",
+            "my": "အိပ်မက်များ",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "Refers to the strength of controlling one's anger.",
+        "example": {
+          "ar": "لَأَوَّاهٌ حَلِيمٌ",
+          "en": "compassionate and forbearing",
+          "my": "နူးညံ့၍ သည်းခံစိတ်ရှိသူ",
+          "ref": "9:114"
+        }
+      },
+      {
+        "word": "قَانِت",
+        "translit": "qānit",
+        "en": "devoutly obedient",
+        "my": "ရိုသေစွာ နာခံသူ",
+        "quran_freq": 6,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ق ن ت",
+          "concept_en": "obedience / standing long in prayer",
+          "concept_my": "နာခံခြင်း / ဝတ်ပြုမှုတွင် ကြာရှည်စွာရပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qaa-nit",
+          "image": "A soldier standing perfectly still in attention to Allah",
+          "cross_language": "Qunut (Prayer)"
+        },
+        "word_family": [
+          {
+            "ar": "يَقْنُتْ",
+            "translit": "yaqnut",
+            "en": "he obeys",
+            "my": "သူနာခံသည်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Refers to a specific type of consistent, humble obedience.",
+        "example": {
+          "ar": "كَانَ أُمَّةً قَانِتًا",
+          "en": "he was a nation, obedient",
+          "my": "သူသည် တစ်ကိုယ်တော် အခြေပြု လူမျိုးတစ်စုကဲ့သို့ ရိုသေစွာနာခံသူ ဖြစ်ခဲ့သည်။",
+          "ref": "16:120"
+        }
+      },
+      {
+        "word": "حَنِيف",
+        "translit": "hanīf",
+        "en": "pure monotheist",
+        "my": "စစ်မှန်သော တစ်ဆူတည်းဝါဒီ",
+        "quran_freq": 10,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ح ن ف",
+          "concept_en": "to incline away from error",
+          "concept_my": "လမ်းမှားမှ လမ်းမှန်သို့ ယိမ်းယိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ha-neef",
+          "image": "A compass needle pointing only to One North",
+          "cross_language": "Hanifi (School of thought)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used exclusively for those who turn away from idols towards Allah.",
+        "example": {
+          "ar": "حَنِيفًا",
+          "en": "upright/monotheist",
+          "my": "လမ်းမှန်သို့ ယိမ်းယိုင်သူ",
+          "ref": "16:120"
+        }
+      },
+      {
+        "word": "صِدِّيق",
+        "translit": "siddīq",
+        "en": "man of truth",
+        "my": "အလွန်မှန်ကန်သောသူ",
+        "quran_freq": 6,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فِعِّيل",
+        "root": {
+          "letters": "ص د ق",
+          "concept_en": "truth / sincerity",
+          "concept_my": "အမှန်တရား / စိတ်ရင်းမှန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sid-deeq",
+          "image": "A crystal clear diamond of truth",
+          "cross_language": "Siddiq (Title of Abu Bakr)"
+        },
+        "word_family": [
+          {
+            "ar": "صَدَقَ",
+            "translit": "sadaqa",
+            "en": "he told the truth",
+            "my": "သူမှန်ရာကိုပြောခဲ့သည်",
+            "freq": 25
+          }
+        ],
+        "pattern_unlock": "The pattern Fi''īl indicates a superlative degree of a quality.",
+        "example": {
+          "ar": "إِنَّهُ كَانَ صِدِّيقًا نَّبِيًّا",
+          "en": "Indeed, he was a man of truth, a prophet.",
+          "my": "ဧကန်စင်စစ် သူသည် အလွန်မှန်ကန်သောသူ၊ နဗီတမန်တစ်ပါး ဖြစ်ခဲ့သည်။",
+          "ref": "19:41"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "كَانَ فِي الْقَصَصِ",
+        "en": "Kāna in Narratives",
+        "my": "ပုံပြင်ပြောခြင်းတွင် ကာန ကို သုံးနှုန်းပုံ"
+      },
+      "formula": {
+        "display": "كَانَ + [Adjective (Mansub)]",
+        "example": "كَانَ عَبْدًا شَكُورًا",
+        "myanmar_read": "သူသည် ကျေးဇူးသိတတ်သောကျွန်တစ်ဦး ဖြစ်ခဲ့သည်။",
+        "key_insight": "In stories, Kāna defines the lifelong character or identity of a person."
+      },
+      "explanation": {
+        "en": "When Kāna is used in the stories of the Prophets, it doesn't just mean they were something and stopped. It often describes their consistent character. For example, 'Kāna Shakūran' means he was habitually grateful. Grammatically, Kāna still follows the rule of making the description (Khabar) Mansub (with Fatha).",
+        "my": "နဗီတမန်တော်များ၏ ပုံပြင်များတွင် 'ကာန' ကို သုံးသောအခါ ၎င်းတို့သည် ခဏတာ ဖြစ်ခဲ့ခြင်းကို မဆိုလိုပါ။ ၎င်းတို့၏ တစ်သက်တာလုံး တည်မြဲနေသော စရိုက်လက္ခဏာကို ဖော်ပြခြင်း ဖြစ်သည်။ ဥပမာ- 'ကာန ရှကူရာ' ဆိုသည်မှာ သူသည် အမြဲတမ်း ကျေးဇူးသိတတ်သူ ဖြစ်ခဲ့သည်ဟု ဆိုလိုသည်။ သဒ္ဒါနည်းအရ 'ကာန' သည် ၎င်း၏ နောက်ရှိ ဂုဏ်ပုဒ်ကို Mansub (အန် သံ) ဖြစ်စေမြဲ ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we add 'လေ့ရှိသည်' or 'အမြဲဖြစ်သည်' to show consistency. Arabic uses 'Kāna' with a special emphasis in these contexts.",
+        "my": "မြန်မာဘာသာတွင် အမြဲတစေဖြစ်နေမှုကို 'လေ့ရှိသည်' သို့မဟုတ် 'အမြဲဖြစ်ခဲ့သည်' ဟု သုံးသော်လည်း၊ အာရပ်ဘာသာတွင် 'ကာန' ကို သုံးရုံဖြင့် ထိုအဓိပ္ပာယ် သက်ရောက်စေနိုင်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Kāna + Noun/Adjective = describing a past identity.",
+          "rule_my": "Kāna + နာမ်/နာမဝိသေသန = အတိတ်က ပင်ကိုယ်အရည်အချင်းကို ဖော်ပြခြင်း။",
+          "example": {
+            "ar": "كَانَ نَبِيًّا",
+            "en": "He was a prophet",
+            "my": "သူသည် နဗီတမန်တစ်ပါး ဖြစ်ခဲ့သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "The quality must be in the Mansub case.",
+          "rule_my": "ဂုဏ်ပုဒ်သည် Mansub (အန် သံ) ဖြစ်ရမည်။",
+          "example": {
+            "ar": "صِدِّيقًا",
+            "en": "A man of truth",
+            "my": "မှန်ကန်သောသူ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Prophetic Character",
+          "ar": "إِنَّهُ كَانَ عَبْدًا شَكُورًا",
+          "en": "Indeed, he was a grateful servant.",
+          "my": "အို- (သင်္ဘောပေါ်၌) ငါအရှင်မြတ်က (တမန်တော်)နူးဟ်နှင့်အတူ တင်ဆောင်တော်မူခဲ့သောသူများ၏ သားမြေးအပေါင်းတို့၊ (အသင်တို့သည် အရှင်မြတ်တစ်ပါးတည်းအပေါ်တွင် ယုံကြည်ကြပါ။) အမှန်စင်စစ် ၎င်း(တမန်တော်နူးဟ်)သည် အလွန်ကျေးဇူးသိတတ်သော ကျွန်တစ်ဦးဖြစ်သည်။",
+          "ref": "17:3",
+          "breakdown": {
+            "subject": {
+              "word": "هُوَ (in Kana)",
+              "en": "He (Noah)",
+              "note": "Ism Kana"
+            },
+            "predicate": {
+              "word": "عَبْدًا شَكُورًا",
+              "en": "Grateful servant",
+              "note": "Khabar Kana (Mansub)"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'ကာန' သည် နဗီနူးဟ် (အလိုင်ဟစ္စလာမ်) ၏ ထာဝရဂုဏ်ပုဒ်ကို ဖော်ပြသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Misinterpreting Kāna as only 'finished' past",
+          "wrong": {
+            "ar": "كَانَ (as only 'was')",
+            "note": "It can mean a permanent state"
+          },
+          "correct": {
+            "ar": "كَانَ (as 'ever was')",
+            "en": "He was always...",
+            "my": "သူသည် အမြဲတမ်း ... ဖြစ်ခဲ့သည်"
+          },
+          "myanmar_tip": "ပုံပြင်တွေမှာ 'ကာန' ပါရင် 'အရင်က ဖြစ်ခဲ့ပြီး အခု မရှိတော့ဘူး' လို့ မယူဆပါနဲ့။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the adjective in the Mansub state (ending with -an)",
+          "instruction_my": "Mansub ဖြစ်နေသော (အန် သံနှင့် ဆုံးသော) နာမဝိသေသနကို ရှာပါ",
+          "questions": [
+            {
+              "q": "كَانَ صِدِّيقًا نَّبِيًّا",
+              "answer_en": "Siddīqan, Nabiyyan",
+              "answer_my": "ဆွစ်ဒီးကွန်၊ နဗီယန်",
+              "ref": "19:41"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate to English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "كَانَ حَلِيمًا",
+              "answer_en": "He was forbearing",
+              "answer_my": "သူသည် သည်းခံစိတ်ရှိသူ ဖြစ်ခဲ့သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Complete the phrase: Kāna + [Grateful]",
+          "instruction_my": "ဝါကျကို ပြည့်စုံအောင် ဖြည့်ပါ- Kāna + [ကျေးဇူးသိတတ်သော]",
+          "questions": [
+            {
+              "q": "كَانَ ....",
+              "answer_en": "كَانَ شَكُورًا",
+              "answer_my": "ကာန ရှကူရာ",
+              "ar": "كَانَ شَكُورًا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "When Allah says a Prophet 'was' (Kāna) something, He is inviting us to adopt that character. Kāna links the greatness of the past to the potential of our present. Their 'being' was defined by their service to Allah.",
+        "my": "အလ္လာဟ်အရှင်မြတ်က နဗီတမန်တစ်ပါးသည် ဤကဲ့သို့ 'ဖြစ်ခဲ့သည်' (Kāna) ဟု မိန့်ကြားသောအခါ၊ ကျွန်ုပ်တို့ကိုလည်း ထိုစရိုက်မျိုးအတုယူရန် ဖိတ်ခေါ်နေခြင်း ဖြစ်သည်။ 'ကာန' သည် အတိတ်က သူတော်စင်တို့၏ ကြီးကျယ်မှုကို ကျွန်ုပ်တို့၏ လက်ရှိဘဝနှင့် ဆက်သွယ်ပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Isra 17:3",
+        "study_number": 1,
+        "arabic_full": "ذُرِّيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ ۚ إِنَّهُ كَانَ عَبْدًا شَكُورًا",
+        "en_sahih": "O descendants of those We carried [in the ship] with Noah. Indeed, he was a grateful servant.",
+        "my_mmsy": "အို- (သင်္ဘောပေါ်၌) ငါအရှင်မြတ်က (တမန်တော်)နူးဟ်နှင့်အတူ တင်ဆောင်တော်မူခဲ့သောသူများ၏ သားမြေးအပေါင်းတို့၊ (အသင်တို့သည် အရှင်မြတ်တစ်ပါးတည်းအပေါ်တွင် ယုံကြည်ကြပါ။) အမှန်စင်စစ် ၎င်း(တမန်တော်နူးဟ်)သည် အလွန်ကျေးဇူးသိတတ်သော ကျွန်တစ်ဦးဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 17,
+          "ayah": 3,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/017003.mp3"
+        },
+        "qurancom_url": "https://quran.com/17/3",
+        "context": {
+          "en": "Allah addresses the Children of Israel, reminding them of their ancestor Noah (AS) and his primary quality of gratitude.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အစ္စရေးလ်မျိုးနွယ်ဝင်များအား ၎င်းတို့၏ ဘိုးဘေးဖြစ်သူ နဗီနူးဟ် (အလိုင်ဟစ္စလာမ်) ၏ အဓိက အရည်အချင်းဖြစ်သော ကျေးဇူးသိတတ်မှုအကြောင်း သတိပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "كَانَ",
+            "translit": "kāna",
+            "en": "he was",
+            "my": "သူဖြစ်ခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "က ဝ န",
+            "freq": 1358
+          },
+          {
+            "ar": "عَبْدًا",
+            "translit": "abdan",
+            "en": "a servant",
+            "my": "ကျွန်တစ်ဦး",
+            "role_en": "Khabar 1",
+            "role_my": "သတင်းစကား ၁",
+            "root": "င ဘ ဒ",
+            "freq": 100
+          },
+          {
+            "ar": "شَكُورًا",
+            "translit": "shakūran",
+            "en": "grateful",
+            "my": "ကျေးဇူးသိတတ်သော",
+            "role_en": "Khabar 2 / Adjective",
+            "role_my": "သတင်းစကား ၂ / နာမဝိသေသန",
+            "root": "ရှ က ရ",
+            "freq": 10
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Double Khabar (Abdan Shakuran) both taking the Mansub state because of Kāna.",
+          "structure_my": "ကာန ကြောင့် 'အဗ်ဒန်' နှင့် 'ရှကူရန်' နှစ်ခုစလုံးသည် Mansub (အန် သံ) ဖြစ်နေသည်။",
+          "insight_en": "Shakūr is the intensive form, showing Noah (AS) thanked Allah for every small and big blessing.",
+          "insight_my": "ရှကူရ် သည် အစွမ်းကုန် ကျေးဇူးသိတတ်ခြင်းကို ဆိုလိုပြီး နဗီနူးဟ် (အလိုင်ဟစ္စလာမ်) သည် ကျေးဇူးတော်အသေးအမွှားမှအစ အလ္လာဟ်အရှင်မြတ်အား ကျေးဇူးတင်ခဲ့ကြောင်း ပြသသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ش ك ر",
+            "concept_en": "To recognize a favor and express it.",
+            "concept_my": "ကျေးဇူးတော်ကို သိမြင်ပြီး ဖော်ထုတ်ပြသခြင်း။",
+            "members": [
+              {
+                "ar": "شَاكِر",
+                "en": "Thankful",
+                "my": "ကျေးဇူးတင်သူ",
+                "freq": 10
+              }
+            ],
+            "professors_note": "Gratitude in Arabic is like a plant that grows and shows its beauty after being watered."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည်လည်း နဗီနူးဟ် (အလိုင်ဟစ္စလာမ်) ၏ မျိုးဆက်များ ဖြစ်ကြသည်။ ကျွန်ုပ်တို့၏ ဘိုးဘေးကြီးကဲ့သို့ပင် မည်သည့်အခက်အခဲရှိရှိ အလ္လာဟ်အရှင်မြတ်အား ကျေးဇူးတင်တတ်သော 'အဗ်ဒန် ရှကူရာ' (ကျေးဇူးသိတတ်သောကျွန်) ဖြစ်ရန် ကြိုးစားကြပါစို့။"
+        },
+        "memorization_helper": {
+          "rhythm": "Innahu kana 'abdan shakūra.",
+          "meaning_anchor": "Imagine Noah (AS) making Sujud in gratitude after the flood.",
+          "daily_connection": "Say this after eating or when receiving good news.",
+          "my": "'အဗ်ဒန် ရှကူရာ' ကို နှုတ်တိုက်ရအောင် ကျက်ထားပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Maryam 19:41",
+        "study_number": 2,
+        "arabic_full": "وَاذْكُرْ فِي الْكِتَابِ إِبْرَاهِيمَ ۚ إِنَّهُ كَانَ صِدِّيقًا نَّبِيًّا",
+        "en_sahih": "And mention in the Book, Abraham. Indeed, he was a man of truth and a prophet.",
+        "my_mmsy": "ထို့ပြင် အသင်သည် ဤကျမ်းထဲမှ (တမန်တော်)အိဗ်ရာဟီမ်၏အကြောင်းကို ပြောပြလိုက်ပါ။ အမှန်စင်စစ် ၎င်းသည် အလွန်မှန်ကန်သူဖြစ်ခဲ့သည်။ တမန်တော်လည်း ဖြစ်ခဲ့သည်။",
+        "audio_ref": {
+          "surah": 19,
+          "ayah": 41,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/019041.mp3"
+        },
+        "qurancom_url": "https://quran.com/19/41",
+        "context": {
+          "en": "Allah commands Prophet Muhammad (SAW) to tell the story of Ibrahim (AS) and highlights his truthfulness.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် တမန်တော်မြတ် (ဆွ) အား နဗီအီဗရာဟင်မ် (အလိုင်ဟစ္စလာမ်) ၏ ပုံပြင်ကို ပြောပြရန်နှင့် ကိုယ်တော်၏ မှန်ကန်မှုကို အလေးပေးဖော်ပြရန် အမိန့်ရှိထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "صِدِّيقًا",
+            "translit": "siddīqan",
+            "en": "man of truth",
+            "my": "အလွန်မှန်ကန်သောသူ",
+            "role_en": "Khabar 1",
+            "role_my": "သတင်းစကား ၁",
+            "root": "ဆ ဒ က",
+            "freq": 6
+          },
+          {
+            "ar": "نَبِيًّا",
+            "translit": "nabiyyan",
+            "en": "a prophet",
+            "my": "နဗီတမန်တစ်ပါး",
+            "role_en": "Khabar 2",
+            "role_my": "သတင်းစကား ၂",
+            "root": "န ဗ အ",
+            "freq": 43
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Kāna defines Ibrahim's identity through two primary attributes: truth and prophethood.",
+          "structure_my": "ကာန သည် အီဗရာဟင်မ်၏ ပင်ကိုယ်လက္ခဏာကို 'အမှန်တရား' နှင့် 'နဗီတမန်' ဟူသော ဂုဏ်ပုဒ်နှစ်ခုဖြင့် ဖော်ပြသည်။",
+          "insight_en": "The attribute 'Siddīqan' (Truthful) comes before 'Nabiyyan' (Prophet), showing that personal character is the foundation of prophethood.",
+          "insight_my": "'ဆွစ်ဒီးကွန်' (မှန်ကန်သူ) သည် 'နဗီယန်' (တမန်တော်) ရှေ့တွင် လာခြင်းသည် ပင်ကိုယ်စရိုက်သည် တမန်တော်ဖြစ်မှု၏ အခြေခံဖြစ်ကြောင်း ပြသသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ص د ق",
+            "concept_en": "Internal reality matching external speech.",
+            "concept_my": "အတွင်းစိတ်နှင့် အပြင်စကား ထပ်တူကျခြင်း။",
+            "members": [
+              {
+                "ar": "صِدْق",
+                "en": "Truth",
+                "my": "အမှန်တရား",
+                "freq": 50
+              }
+            ],
+            "professors_note": "Siddīq is someone whose life is so truthful that they can never be suspected of a lie."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "နဗီအီဗရာဟင်မ် (အလိုင်ဟစ္စလာမ်) ၏ ဘဝကို လေ့လာလျှင် အမှန်တရားအတွက် မည်သို့ပင် အခက်အခဲရှိပါစေ ခိုင်ခိုင်မာမာ ရပ်တည်ခဲ့သည်ကို တွေ့ရမည်။ ကျွန်ုပ်တို့သည်လည်း အလုပ်ခွင်တွင်ဖြစ်စေ၊ လူမှုရေးတွင်ဖြစ်စေ 'မှန်ကန်သူ' (Siddīq) ဖြစ်ရန် ကြိုးစားသင့်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Innahu kana siddīqan nabiyya.",
+          "meaning_anchor": "Imagine a straight line that never bends.",
+          "daily_connection": "Recite when you find it hard to tell the truth in a difficult situation.",
+          "my": "'ဆွစ်ဒီးကွန် နဗီယန်' ကို တွဲမှတ်ထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "This lesson explored how 'Kāna' is used to define the enduring character of Prophets in the Quran. We learned that being a servant of Allah involves consistency in qualities like gratitude (Shakūr) and truthfulness (Siddīq), all expressed through this powerful grammatical structure.",
+      "my": "ဤသင်ခန်းစာတွင် ကုရ်အာန်ပါ နဗီတမန်တော်များ၏ မပြောင်းလဲသော စရိုက်လက္ခဏာများကို 'ကာန' သုံး၍ မည်သို့ဖော်ပြကြောင်း လေ့လာခဲ့သည်။ အလ္လာဟ်အရှင်မြတ်၏ ကျွန်ကောင်းတစ်ဦးဖြစ်ရန် ကျေးဇူးသိတတ်မှုနှင့် မှန်ကန်မှုတို့တွင် အမြဲတည်မြဲနေရန် လိုအပ်ကြောင်း ဤသဒ္ဒါပုံစံမှတစ်ဆင့် သိရှိခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-135",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 135,
+    "title": {
+      "ar": "مُرَاجَعَةُ كَانَ وَأَخَوَاتُهَا",
+      "en": "Review: Kāna Family Drill",
+      "my": "ကာန နှင့် ညီအစ်မတော်များအား ပြန်လည်သုံးသပ်ခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Full Kāna family review; parsing in Quranic sentences",
+      "grammar_formula": "Review: Kāna, Laysa, Asbaha, Sāra"
+    },
+    "section_1_vocab": [
+      {
+        "word": "وُجُود",
+        "translit": "wujūd",
+        "en": "existence",
+        "my": "တည်ရှိမှု",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعُول",
+        "root": {
+          "letters": "و ج د",
+          "concept_en": "to find / to exist",
+          "concept_my": "တွေ့ရှိခြင်း / တည်ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Wu-jud",
+          "image": "A light turning on in the dark",
+          "cross_language": "Wujud (Malay/Myanmar usage)"
+        },
+        "word_family": [
+          {
+            "ar": "وَجَدَ",
+            "translit": "wajada",
+            "en": "he found",
+            "my": "သူတွေ့ရှိခဲ့သည်",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "The root means finding something; existence is being 'found' in reality.",
+        "example": {
+          "ar": "وَوَجَدَ اللَّهَ عِنْدَهُ",
+          "en": "and he finds Allah before him",
+          "my": "သူသည် မိမိအနီး၌ အလ္လာဟ်အရှင်မြတ်ကို တွေ့ရှိခဲ့သည်",
+          "ref": "24:39"
+        }
+      },
+      {
+        "word": "تَارِيخ",
+        "translit": "tārīkh",
+        "en": "history / date",
+        "my": "သမိုင်း / နေ့စွဲ",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "أ ر خ",
+          "concept_en": "to date / record time",
+          "concept_my": "နေ့စွဲသတ်မှတ်ခြင်း / အချိန်မှတ်တမ်းတင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Taa-reekh",
+          "image": "An old scroll with dates on it",
+          "cross_language": "Tarikh (Malay)"
+        },
+        "word_family": [],
+        "pattern_unlock": "A word for tracking the flow of events over time.",
+        "example": {
+          "ar": "قَصَصُ الْأَنْبِيَاءِ",
+          "en": "Stories of the Prophets",
+          "my": "နဗီတမန်တော်များ၏ ပုံပြင်များ",
+          "ref": "N/A"
+        }
+      },
+      {
+        "word": "تَحْوِيل",
+        "translit": "tahwīl",
+        "en": "change / redirection",
+        "my": "ပြောင်းလဲခြင်း / လမ်းကြောင်းလွှဲခြင်း",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "ح و ل",
+          "concept_en": "to turn / to change",
+          "concept_my": "လှည့်ခြင်း / ပြောင်းလဲခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tah-weel",
+          "image": "A steering wheel turning a car",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "يَحُولُ",
+            "translit": "yahūlu",
+            "en": "he comes between",
+            "my": "သူကြားဝင်သည်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Relates to things turning or transitioning from one state to another.",
+        "example": {
+          "ar": "وَلَا تَحْوِيلًا",
+          "en": "and no change",
+          "my": "ပြောင်းလဲမှုလည်း မရှိ",
+          "ref": "17:77"
+        }
+      },
+      {
+        "word": "قَدِيم",
+        "translit": "qadīm",
+        "en": "ancient / old",
+        "my": "ရှေးကျသော",
+        "quran_freq": 3,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ق د م",
+          "concept_en": "to precede",
+          "concept_my": "အရင်ရောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qa-deem",
+          "image": "An old, dusty book",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "قَدَّمَ",
+            "translit": "qaddama",
+            "en": "he sent forward",
+            "my": "သူရှေ့သို့ပို့ခဲ့သည်",
+            "freq": 40
+          }
+        ],
+        "pattern_unlock": "Describes things that have existed for a long time.",
+        "example": {
+          "ar": "إِفْكٌ قَدِيمٌ",
+          "en": "an ancient lie",
+          "my": "ရှေးကျသော မုသား",
+          "ref": "46:11"
+        }
+      },
+      {
+        "word": "حَدِيث",
+        "translit": "hadīth",
+        "en": "speech / news / new",
+        "my": "စကား / သတင်း / အသစ်",
+        "quran_freq": 23,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ح د ث",
+          "concept_en": "to happen / to talk",
+          "concept_my": "ဖြစ်ပျက်ခြင်း / ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ha-deeth",
+          "image": "A person announcing news",
+          "cross_language": "Hadith (Prophetic sayings)"
+        },
+        "word_family": [
+          {
+            "ar": "يُحَدِّثُ",
+            "translit": "yuhaddithu",
+            "en": "he tells",
+            "my": "သူပြောပြသည်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Opposite of Qadīm; refers to something that has just happened or is spoken.",
+        "example": {
+          "ar": "بِأَيِّ حَدِيثٍ",
+          "en": "in what statement",
+          "my": "မည်သည့်စကား၌မဆို",
+          "ref": "77:50"
+        }
+      },
+      {
+        "word": "نَبَأ",
+        "translit": "naba'",
+        "en": "great news",
+        "my": "ကြီးကျယ်သောသတင်း",
+        "quran_freq": 20,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "ن ب أ",
+          "concept_en": "to inform",
+          "concept_my": "သတင်းပေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Na-ba",
+          "image": "A messenger running with important news",
+          "cross_language": "Nabi (Prophet)"
+        },
+        "word_family": [
+          {
+            "ar": "نَبِيّ",
+            "translit": "nabiy",
+            "en": "prophet",
+            "my": "နဗီတမန်",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "Naba' is not just news, it is important, meaningful information.",
+        "example": {
+          "ar": "عَنِ النَّبَإِ الْعَظِيمِ",
+          "en": "About the great news",
+          "my": "ကြီးကျယ်သောသတင်းနှင့်ပတ်သက်၍",
+          "ref": "78:2"
+        }
+      },
+      {
+        "word": "مُسْتَقِيم",
+        "translit": "mustaqīm",
+        "en": "straight",
+        "my": "ဖြောင့်မတ်သော",
+        "quran_freq": 37,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "مُسْتَفْعِل",
+        "root": {
+          "letters": "ق و م",
+          "concept_en": "to stand",
+          "concept_my": "မတ်တပ်ရပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mus-ta-qeem",
+          "image": "A perfectly straight road",
+          "cross_language": "Istiqamah (Malay/Myanmar usage)"
+        },
+        "word_family": [
+          {
+            "ar": "قَائِم",
+            "translit": "qā'im",
+            "en": "standing",
+            "my": "ရပ်နေသောသူ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Relates to standing firm and straight without bending.",
+        "example": {
+          "ar": "صِرَاطًا مُّسْتَقِيمًا",
+          "en": "a straight path",
+          "my": "ဖြောင့်မတ်သောလမ်း",
+          "ref": "1:6"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "مُرَاجَعَةُ كَانَ وَأَخَوَاتُهَا",
+        "en": "Review of Kāna & Its Sisters",
+        "my": "ကာန နှင့် ၎င်း၏ ညီအစ်မတော်များကို ပြန်လည်သုံးသပ်ခြင်း"
+      },
+      "formula": {
+        "display": "Kāna family + Ism (u) + Khabar (an)",
+        "example": "لَيْسَ اللَّهُ بِغَافِلٍ / كَانَ اللَّهُ غَفُورًا",
+        "myanmar_read": "ကာန အုပ်စုသည် အမြဲတမ်း နောက်ကစကားလုံးကို အန် သံ (သို့မဟုတ်) ဘိ-အင် သံ ဖြစ်စေသည်။",
+        "key_insight": "Mastering the 'u-an' flow (Marfu'-Mansub) is the key to identifying states and descriptions in the Quran."
+      },
+      "explanation": {
+        "en": "This lesson consolidates the four main 'sisters' we studied: Kāna (Existence/Past), Laysa (Negation), Asbaha (Entering a state), and Sāra (Transformation). All of them function as 'deficient verbs' that change the predicate of a nominal sentence to the Mansub case. Recognizing these patterns allows you to see how Allah describes Himself, the Prophets, and the ultimate destination of things.",
+        "my": "ဤသင်ခန်းစာသည် ကျွန်ုပ်တို့လေ့လာခဲ့သော 'ညီအစ်မတော်' လေးဦးဖြစ်သည့် Kāna (တည်ရှိမှု)၊ Laysa (ငြင်းပယ်ခြင်း)၊ Asbaha (အခြေအနေသစ်သို့ရောက်ခြင်း) နှင့် Sāra (ပြောင်းလဲခြင်း) တို့ကို ပေါင်းစည်းပေးထားသည်။ ၎င်းတို့အားလုံးသည် နာမ်ဝါကျတစ်ခု၏ အကြောင်းအရာ (Predicate) ကို Mansub (အန် သံ) သို့ ပြောင်းလဲစေသည်။ ဤပုံစံများကို သိရှိခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်က ကိုယ်တော့်ဂုဏ်တော်များ၊ နဗီတမန်များ၏ စရိုက်များနှင့် အရာရာ၏ အဆုံးသတ်ကို မည်သို့ဖော်ပြကြောင်း နားလည်စေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, state changes are shown by words like 'ဖြစ်သည်', 'မဟုတ်', 'ဖြစ်လာသည်'. Arabic uses a specific family of verbs that also change the grammar of the sentence.",
+        "my": "မြန်မာဘာသာတွင် အခြေအနေပြောင်းလဲမှုကို 'ဖြစ်သည်'၊ 'မဟုတ်'၊ 'ဖြစ်လာသည်' စသည့် စကားလုံးများဖြင့် ပြသသကဲ့သို့၊ အာရပ်ဘာသာတွင်လည်း အလားတူလုပ်ဆောင်ပေးသော ကြိယာအုပ်စုရှိသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Kāna Family = Changes Khabar to Mansub.",
+          "rule_my": "ကာန အုပ်စုသည် Khabar ကို Mansub (အန် သံ) ပြောင်းစေသည်။",
+          "example": {
+            "ar": "صَارَ الطِّينُ خَزَفًا",
+            "en": "The clay became pottery",
+            "my": "ရွှံ့သည် အိုး ဖြစ်လာသည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Laysa often uses 'Bi-' for emphasis.",
+          "rule_my": "Laysa သည် အလေးပေးလိုလျှင် 'Bi-' (ဘိ) ကို သုံးလေ့ရှိသည်။",
+          "example": {
+            "ar": "لَيْسَ بِكَذَّابٍ",
+            "en": "Not at all a liar",
+            "my": "အလျဉ်း လိမ်လည်သူမဟုတ်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Comprehensive Review",
+          "ar": "وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+          "en": "And Allah is not unaware of what you do.",
+          "my": "ထို့နောက် အသင်တို့၏စိတ်နှလုံးများသည် ထို(ကဲ့သို့ အရှင်မြတ်၏နက်ရှိုင်းဆန်းကြယ်သော တန်ခိုးတော်များကို တွေ့မြင်ခဲ့ရပြီး)နောက်လည်း ခက်ထန်မာကျောလာခဲ့သည်။  ၎င်းပြင် ထိုစိတ်နှလုံးများသည် ကျောက်ဆောင်များကဲ့သို့ဖြစ်ခဲ့သည်သာမက ထိုကျောက်ဆောင်များထက်ပင် ပိုမိုပြင်းထန်မာကျောပေသည်။ အဘယ့်ကြောင့်ဆိုသော် ကျောက်ဆောင်များထဲတွင် စမ်ရေချောင်းများစီးထွက်လာသည့် ကျောက်ဆောင်များလည်း အမှန်မုချ ရှိသည်။ ထို့ပြင် ထိုကျောက်ဆောင်များထဲတွင် အက်ကွဲပြီး ရေပန်းထွက်လာသည့် ကျောက်ဆောင်များလည်း အမှန်ပင်ရှိသည်။ ထို့ပြင် ထိုကျောက်ဆောင်များထဲတွင် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ပြီး နိမ့်ဆင်းလာသည့်ကျောက်ဆောင်များလည်း အမှန်ပင်ရှိသည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ပြုလုပ်ကြသည့်ကိစ္စများကို မေ့လျော့နေတော်မူသောအရှင် မဟုတ်ပေ။",
+          "ref": "2:74",
+          "breakdown": {
+            "subject": {
+              "word": "اللَّهُ",
+              "en": "Allah",
+              "note": "Ism (Marfu')"
+            },
+            "predicate": {
+              "word": "بِغَافِلٍ",
+              "en": "Unaware",
+              "note": "Khabar with Bi-"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'မာ' သည် 'လိုင်ဆာ' ၏ အလုပ်ကို လုပ်နေပြီး 'ဘိ-ဂါဖိလင်' ဟု အလေးပေးထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing up the sisters' meanings",
+          "wrong": {
+            "ar": "أَصْبَحَ (as 'not')",
+            "note": "Asbaha means 'became'"
+          },
+          "correct": {
+            "ar": "لَيْسَ (as 'not')",
+            "en": "is not",
+            "my": "မဟုတ်ပါ"
+          },
+          "myanmar_tip": "စကားလုံး တစ်ခုချင်းစီရဲ့ အဓိပ္ပာယ်ကို သေချာခွဲမှတ်ထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Choose the correct sister: [Kāna / Laysa / Asbaha] Allahu Ghafuran",
+          "instruction_my": "မှန်ကန်သော စကားလုံးကို ရွေးပါ- [ကာန / လိုင်ဆာ / အဆွ်ဗဟာ] အလ္လာဟ်ဟူ ဂဖူးရွန်",
+          "questions": [
+            {
+              "q": "..... اللَّهُ غَفُورًا",
+              "answer_en": "كَانَ",
+              "answer_my": "ကာန",
+              "ref": "4:96"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate to English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "لَيْسَ كَمِثْلِهِ شَيْءٌ",
+              "answer_en": "There is nothing like Him",
+              "answer_my": "ကိုယ်တော်နှင့်တူသော အရာတစ်စုံတစ်ခုမျှ မရှိချေ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change this sentence to past state: 'The path is straight' (As-siratu mustaqimun)",
+          "instruction_my": "ဤဝါကျကို အတိတ်အခြေအနေသို့ ပြောင်းပါ- 'လမ်းသည် ဖြောင့်မတ်သည်'",
+          "questions": [
+            {
+              "q": "الصِّرَاطُ مُسْتَقِيمٌ",
+              "answer_en": "كَانَ الصِّرَاطُ مُسْتَقِيمًا",
+              "answer_my": "ကာနတ် ဆွီရာသွလ် မုစ်သကီးမန်",
+              "ar": "كَانَ الصِّرَاطُ مُسْتَقِيمًا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The Kāna family teaches us about the fluidity of the world (Asbaha/Sāra) and the stability of Allah's attributes (Kāna). Life is a journey of becoming; we are all in a process of 'Sāra' until we reach our final 'Masīr' with Allah.",
+        "my": "ကာန အုပ်စုသည် ကျွန်ုပ်တို့အား လောကကြီး၏ ပြောင်းလဲနေသော သဘောသဘာဝ (Asbaha/Sāra) နှင့် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်များ တည်မြဲမှု (Kāna) တို့ကို သင်ကြားပေးသည်။ ဘဝဆိုသည်မှာ ဖြစ်တည်လာခြင်း ခရီးစဉ်တစ်ခုဖြစ်ပြီး၊ ကျွန်ုပ်တို့အားလုံးသည် အရှင်မြတ်ထံသို့ နောက်ဆုံးပြန်လည်ရောက်ရှိမည့် 'မစီးရ်' အထိ 'ဆွာရာ' (ပြောင်းလဲခြင်း) လုပ်ငန်းစဉ်တွင် ရှိနေကြသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:74",
+        "study_number": 1,
+        "arabic_full": "وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+        "en_sahih": "And Allah is not unaware of what you do.",
+        "my_mmsy": "ထို့နောက် အသင်တို့၏စိတ်နှလုံးများသည် ထို(ကဲ့သို့ အရှင်မြတ်၏နက်ရှိုင်းဆန်းကြယ်သော တန်ခိုးတော်များကို တွေ့မြင်ခဲ့ရပြီး)နောက်လည်း ခက်ထန်မာကျောလာခဲ့သည်။  ၎င်းပြင် ထိုစိတ်နှလုံးများသည် ကျောက်ဆောင်များကဲ့သို့ဖြစ်ခဲ့သည်သာမက ထိုကျောက်ဆောင်များထက်ပင် ပိုမိုပြင်းထန်မာကျောပေသည်။ အဘယ့်ကြောင့်ဆိုသော် ကျောက်ဆောင်များထဲတွင် စမ်ရေချောင်းများစီးထွက်လာသည့် ကျောက်ဆောင်များလည်း အမှန်မုချ ရှိသည်။ ထို့ပြင် ထိုကျောက်ဆောင်များထဲတွင် အက်ကွဲပြီး ရေပန်းထွက်လာသည့် ကျောက်ဆောင်များလည်း အမှန်ပင်ရှိသည်။ ထို့ပြင် ထိုကျောက်ဆောင်များထဲတွင် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ပြီး နိမ့်ဆင်းလာသည့်ကျောက်ဆောင်များလည်း အမှန်ပင်ရှိသည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ ပြုလုပ်ကြသည့်ကိစ္စများကို မေ့လျော့နေတော်မူသောအရှင် မဟုတ်ပေ။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 74,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002074.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/74",
+        "context": {
+          "en": "After describing the hardening of hearts, Allah warns that nothing is hidden from Him.",
+          "my": "စိတ်နှလုံးများ မာကျောသွားခြင်းအကြောင်း ဖော်ပြပြီးနောက်၊ အလ္လာဟ်အရှင်မြတ်သည် မည်သည့်အရာမျှ ကိုယ်တော့်ထံမှ ဖုံးကွယ်၍မရကြောင်း သတိပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "وَمَا",
+            "translit": "wa-mā",
+            "en": "and not",
+            "my": "မဟုတ်ပါ",
+            "role_en": "Negation Particle (acting like Laysa)",
+            "role_my": "ငြင်းပယ်ခြင်း (လိုင်ဆာ ကဲ့သို့ လုပ်ဆောင်သည်)",
+            "root": "N/A",
+            "freq": 0
+          },
+          {
+            "ar": "بِغَافِلٍ",
+            "translit": "bi-ghāfilin",
+            "en": "at all unaware",
+            "my": "အလျဉ်း မေ့လျော့နေသူ",
+            "role_en": "Khabar with emphatic Bi-",
+            "role_my": "အလေးပေးထားသော Khabar",
+            "root": "ဂ ဖ လ",
+            "freq": 10
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The usage of Mā... Bi- mirrors Laysa... Bi-, creating a very strong negation.",
+          "structure_my": "Mā... Bi- ကို သုံးခြင်းသည် Laysa... Bi- ကဲ့သို့ပင် အလွန်အားကောင်းသော ငြင်းပယ်မှုကို ဖြစ်စေသည်။",
+          "insight_en": "This structure is used 74 times in the Quran to negate any neglect or ignorance on Allah's part.",
+          "insight_my": "ဤပုံစံကို ကုရ်အာန်တွင် ၇၄ ကြိမ်တိုင်တိုင် အလ္လာဟ်အရှင်မြတ်သည် မေ့လျော့ခြင်း သို့မဟုတ် မသိနားမလည်ခြင်း မရှိကြောင်း အလေးပေးရန် သုံးထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "غ ف ل",
+            "concept_en": "To be heedless / to neglect something important.",
+            "concept_my": "သတိမမူမိခြင်း / အရေးကြီးသောအရာကို လျစ်လျူရှုခြင်း။",
+            "members": [
+              {
+                "ar": "غَافِلُون",
+                "en": "Heedless ones",
+                "my": "သတိမရှိသူများ",
+                "freq": 20
+              }
+            ],
+            "professors_note": "Ghaflah is the root cause of spiritual decline."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ တစ်ယောက်တည်းရှိနေချိန် သို့မဟုတ် ဘယ်သူမှ မမြင်ဘူးဟု ထင်ရသည့် အချိန်များတွင်ပင် အလ္လာဟ်အရှင်မြတ်သည် 'ဘိ-ဂါဖိလင်' (မေ့လျော့နေသူ) မဟုတ်ကြောင်း သတိရပါ။ ဤအသိသည် ကျွန်ုပ်တို့အား အပြစ်များမှ ကာကွယ်ပေးပါလိမ့်မည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Wa-mā-llāhu bi-ghāfilin 'ammā ta'malūn.",
+          "meaning_anchor": "An all-seeing eye that never blinks.",
+          "daily_connection": "Recite when you feel treated unfairly to remember Allah sees everything.",
+          "my": "'ဘိဂါဖိလင်' ဟူသော အသံကို အလေးထားမှတ်သားပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Hajj 22:74",
+        "study_number": 2,
+        "arabic_full": "مَا قَدَرُوا اللَّهَ حَقَّ قَدْرِهِ ۗ إِنَّ اللَّهَ لَقَوِيٌّ عَزِيزٌ",
+        "en_sahih": "They have not estimated Allah with His rightful estimate. Indeed, Allah is Powerful and Exalted in Might.",
+        "my_mmsy": "သူတို့သည် အလ္လာဟ်အရှင်မြတ်အား ရိုသေလေးစားထိုက်သည်နှင့်အမျှ ရိုသေလေးစားခြင်းမရှိကြပေ။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အလွန်အင်အားပြည့်စုံတော်မူသောအရှင်၊ အလွန်တန်ခိုးတော်နှင့် လွှမ်းမိုးတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 22,
+          "ayah": 74,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/022074.mp3"
+        },
+        "qurancom_url": "https://quran.com/22/74",
+        "context": {
+          "en": "Allah criticizes those who associate partners with Him, showing that they do not understand His true power.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ကိုယ်တော်နှင့် ယှဉ်တွဲကိုးကွယ်သူများကို ဝေဖန်ထားပြီး၊ ၎င်းတို့သည် အရှင်မြတ်၏ စစ်မှန်သော စွမ်းအားတော်ကို နားမလည်ကြောင်း ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "قَدَرُوا",
+            "translit": "qadarū",
+            "en": "they estimated",
+            "my": "၎င်းတို့ တန်ဖိုးဖြတ်ခဲ့ကြသည်",
+            "role_en": "Verb (Past)",
+            "role_my": "အတိတ်ကာလ ကြိယာ",
+            "root": "က ဒ ရ",
+            "freq": 10
+          },
+          {
+            "ar": "حَقَّ",
+            "translit": "haqqa",
+            "en": "rightful / true",
+            "my": "မှန်ကန်သော",
+            "role_en": "Adverbial object",
+            "role_my": "ကြိယာဝိသေသန",
+            "root": "ဟ က က",
+            "freq": 287
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The repetition of 'Qadr' (estimate/power) highlights the gap between human perception and Allah's reality.",
+          "structure_my": "'Qadr' (အတိုင်းအတာ/စွမ်းအား) ကို ထပ်ခါတလဲလဲ သုံးထားခြင်းသည် လူသားတို့၏ အမြင်နှင့် အလ္လာဟ်အရှင်မြတ်၏ အရှိတရားကြားရှိ ကွာဟချက်ကို မီးမောင်းထိုးပြနေသည်။",
+          "insight_en": "Understanding 'Qadr' is essential to understanding why 'Kāna' is used for Allah's attributes.",
+          "insight_my": "'Qadr' ကို နားလည်ခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်များအတွက် 'ကာန' ကို အဘယ်ကြောင့် သုံးရကြောင်း နားလည်ရန် အဓိကသော့ချက်ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ق و ي",
+            "concept_en": "Strength / physical or abstract power.",
+            "concept_my": "ခွန်အား / ရုပ်ပိုင်းဆိုင်ရာ သို့မဟုတ် စိတ်ပိုင်းဆိုင်ရာ စွမ်းအား။",
+            "members": [
+              {
+                "ar": "قُوَّة",
+                "en": "Power",
+                "my": "စွမ်းအား",
+                "freq": 30
+              }
+            ],
+            "professors_note": "Qawi is the strength that never gets tired."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကြီးကျယ်မှုကို တွေးတောသောအခါ ကိုယ်တော့်အား ထိုက်ထိုက်တန်တန် တန်ဖိုးထားနိုင်ရန် ကြိုးစားရမည်။ အရှင်မြတ်သည် အားနည်းသောသူမဟုတ်ဘဲ 'ကဝီယွန် အဇီးဇ်' (အစွမ်းထက်၍ လွှမ်းမိုးသောအရှင်) ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Mā qadarullāha haqqa qadrih...",
+          "meaning_anchor": "A massive mountain that cannot be measured by a small ruler.",
+          "daily_connection": "Recite when you feel your faith needs strengthening.",
+          "my": "'ဟက္က ကပ်ဒ်ရိဟီ' ဟူသော အသုံးကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this review lesson, we consolidated the Kāna family, seeing how they function across different Quranic contexts. We practiced identifying them and understanding their role in expressing existence, negation, and transformation, bringing us closer to a fluent understanding of Quranic syntax.",
+      "my": "ဤပြန်လည်သုံးသပ်ခြင်း သင်ခန်းစာတွင် 'ကာန' အုပ်စုကို ပေါင်းစည်းလေ့လာခဲ့ပြီး ကုရ်အာန်၏ ကွဲပြားသော အခြေအနေများတွင် ၎င်းတို့ မည်သို့အလုပ်လုပ်ပုံကို သိရှိခဲ့ရသည်။ တည်ရှိမှု၊ ငြင်းပယ်မှုနှင့် ပြောင်းလဲမှုများကို ဖော်ပြရာတွင် ၎င်းတို့၏ အခန်းကဏ္ဍကို နားလည်ခြင်းဖြင့် ကုရ်အာန်သဒ္ဒါကို ပိုမိုကျွမ်းကျင်လာစေသည်။"
+    }
+  }
+]

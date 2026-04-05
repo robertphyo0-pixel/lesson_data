@@ -1,0 +1,2847 @@
+[
+  {
+    "lesson_id": "L6-271",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 271,
+    "title": {
+      "ar": "البَلَاغَةُ (٢١) — الإِيجَازُ",
+      "en": "Rhetoric XXI — Ijaz: Quranic Conciseness",
+      "my": "စကားအသုံးအနှုန်းအနုပညာ (၂၁) — အီဂျားဇ် (ကျစ်လျစ်သိပ်သည်းခြင်း)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 10,
+      "grammar_focus": "Saying more with less; Ijāz al-Hadhf (ellipsis) in Quran",
+      "grammar_formula": "Minimal Words + Deep Context = Maximum Meaning"
+    },
+    "section_1_vocab": [
+      {
+        "word": "إِيجَاز",
+        "translit": "ījāz",
+        "en": "conciseness",
+        "my": "ကျစ်လျစ်သိပ်သည်းခြင်း",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "إِفْعَال",
+        "root": {
+          "letters": "و ج ز",
+          "concept_en": "to be short or brief",
+          "concept_my": "တိုတောင်းကျစ်လျစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Jazz (fast and brief)",
+          "image": "A tiny box containing a whole universe",
+          "cross_language": "Malay: Ringkas"
+        },
+        "word_family": [
+          {
+            "ar": "وَجِيز",
+            "translit": "wajīz",
+            "en": "brief",
+            "my": "တိုတုတ်သော",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The I'fal pattern often denotes making something possess a quality; here, making speech brief.",
+        "example": {
+          "ar": "بِإِيجَازٍ بَلِيغٍ",
+          "en": "with eloquent conciseness",
+          "my": "ပြောင်မြောက်လှသော ကျစ်လျစ်မှုဖြင့်",
+          "ref": "Grammar Example"
+        }
+      },
+      {
+        "word": "حَذْف",
+        "translit": "hadhf",
+        "en": "omission/deletion",
+        "my": "ဖြုတ်ချခြင်း/ချန်လှပ်ခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ح ذ ف",
+          "concept_en": "to strike off or omit",
+          "concept_my": "ပယ်ဖျက်ခြင်း သို့မဟုတ် ချန်လှပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hadhf sounds like 'Half' (cutting it in half)",
+          "image": "Scissors cutting a thread from a sentence",
+          "cross_language": "Urdu: Hazaf"
+        },
+        "word_family": [
+          {
+            "ar": "مَحْذُوف",
+            "translit": "maḥdhūf",
+            "en": "omitted",
+            "my": "ချန်လှပ်ထားသော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Hadhf is the technical term for ellipsis where a word is missing but understood.",
+        "example": {
+          "ar": "حَذْفُ المုက္တဒါ",
+          "en": "deletion of the subject",
+          "my": "ကတ္တားကို ချန်လှပ်ခြင်း",
+          "ref": "Grammar Example"
+        }
+      },
+      {
+        "word": "قَصْر",
+        "translit": "qaṣr",
+        "en": "shortness/restriction",
+        "my": "တိုတောင်းခြင်း/ကန့်သတ်ခြင်း",
+        "quran_freq": 15,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ق ص ر",
+          "concept_en": "to be short or restricted",
+          "concept_my": "တိုတောင်းခြင်း သို့မဟုတ် အကန့်အသတ်ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qasr sounds like 'Castle' (restricted walls)",
+          "image": "A short ruler",
+          "cross_language": "Urdu: Qasir"
+        },
+        "word_family": [
+          {
+            "ar": "قَصِير",
+            "translit": "qaṣīr",
+            "en": "short",
+            "my": "တိုသော",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Qasr in Balagha refers to restricting a meaning to a specific subject.",
+        "example": {
+          "ar": "فِي قَصَصِهِمْ",
+          "en": "in their stories",
+          "my": "သူတို့၏ ပုံပြင်များတွင်",
+          "ref": "12:111"
+        }
+      },
+      {
+        "word": "لَفْظ",
+        "translit": "lafẓ",
+        "en": "word/utterance",
+        "my": "နှုတ်ထွက်စကား/ဝေါဟာရ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ل ف ظ",
+          "concept_en": "to eject or utter",
+          "concept_my": "ထုတ်ဖော်ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Laugh-z (words you laugh with)",
+          "image": "Speech bubble coming out of a mouth",
+          "cross_language": "Urdu: Lafz"
+        },
+        "word_family": [
+          {
+            "ar": "أَلْفَاظ",
+            "translit": "alfāẓ",
+            "en": "words",
+            "my": "စကားလုံးများ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Lafz refers to the physical sound/shell of a word.",
+        "example": {
+          "ar": "مَا يَلْفِظُ مِنْ قَوْلٍ",
+          "en": "He utters not a word",
+          "my": "သူသည် မည်သည့်စကားကိုမျှ မပြောဆိုပေ",
+          "ref": "50:18"
+        }
+      },
+      {
+        "word": "مَعْنَى",
+        "translit": "ma'nā",
+        "en": "meaning",
+        "my": "အဓိပ္ပာယ်",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعَل",
+        "root": {
+          "letters": "ع ن ي",
+          "concept_en": "to mean or intend",
+          "concept_my": "ရည်ရွယ်ခြင်း သို့မဟုတ် အဓိပ္ပာယ်ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ma-na (What do you 'mean'?)",
+          "image": "A lightbulb glowing inside a head",
+          "cross_language": "Urdu/Malay: Makna"
+        },
+        "word_family": [
+          {
+            "ar": "عَنَى",
+            "translit": "anā",
+            "en": "to mean",
+            "my": "အဓိပ္ပာယ်ရသည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "In Ijaz, the 'ma'na' (meaning) is vast while the 'lafz' (word) is small.",
+        "example": {
+          "ar": "بِمَعْنًى وَاحِدٍ",
+          "en": "with one meaning",
+          "my": "အဓိပ္ပာယ်တစ်ခုတည်းဖြင့်",
+          "ref": "General"
+        }
+      },
+      {
+        "word": "بَلَاغَة",
+        "translit": "balāghah",
+        "en": "eloquence/rhetoric",
+        "my": "စကားပြောစွမ်းရည်/အပြောအဆိုပြောင်မြောက်မှု",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعَالَة",
+        "root": {
+          "letters": "ب ل غ",
+          "concept_en": "to reach a goal or maturity",
+          "concept_my": "ပန်းတိုင်သို့ရောက်ရှိခြင်း သို့မဟုတ် ရင့်ကျက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Blast (powerful impact)",
+          "image": "An arrow hitting the bullseye",
+          "cross_language": "Urdu: Balaghat"
+        },
+        "word_family": [
+          {
+            "ar": "بَلِيغ",
+            "translit": "balīgh",
+            "en": "eloquent",
+            "my": "အပြောကောင်းသော",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Balagha is reaching the heart of the listener with minimal effort.",
+        "example": {
+          "ar": "قَوْلاً بَلِيغاً",
+          "en": "a reaching/penetrating word",
+          "my": "ထိရောက်သောစကား",
+          "ref": "4:63"
+        }
+      },
+      {
+        "word": "كَثِير",
+        "translit": "kathīr",
+        "en": "abundant/many",
+        "my": "များပြားသော",
+        "quran_freq": 70,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ك ث ر",
+          "concept_en": "to be many or increase",
+          "concept_my": "တိုးပွားခြင်း သို့မဟုတ် များပြားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kathir (Cat-hear: hearing many cats)",
+          "image": "A massive pile of gold coins",
+          "cross_language": "Urdu: Kasir"
+        },
+        "word_family": [
+          {
+            "ar": "أَكْثَر",
+            "translit": "akthar",
+            "en": "more",
+            "my": "ပိုများသော",
+            "freq": 80
+          }
+        ],
+        "pattern_unlock": "In Ijaz, few words contain 'Ma'na Kathir' (Much meaning).",
+        "example": {
+          "ar": "ذِكْراً كَثِيراً",
+          "en": "much remembrance",
+          "my": "အမြဲမပြတ်သတိရအောက်မေ့ခြင်း",
+          "ref": "33:41"
+        }
+      },
+      {
+        "word": "قَلِيل",
+        "translit": "qalīl",
+        "en": "few/little",
+        "my": "နည်းပါးသော",
+        "quran_freq": 71,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ق ل ل",
+          "concept_en": "to be few or small",
+          "concept_my": "နည်းပါးခြင်း သို့မဟုတ် သေးငယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qalil (sounds like 'Quill' - a single feather)",
+          "image": "A few drops of water in a glass",
+          "cross_language": "Urdu: Qalil"
+        },
+        "word_family": [
+          {
+            "ar": "أَقَلّ",
+            "translit": "aqall",
+            "en": "less",
+            "my": "ပိုနည်းသော",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Ijaz uses 'Lafz Qalil' (few words) to achieve great impact.",
+        "example": {
+          "ar": "قَلِيلاً مَّا تَذَكَّرُونَ",
+          "en": "little do you remember",
+          "my": "သင်တို့သည် အလွန်နည်းပါးစွာသာ သတိရကြ၏",
+          "ref": "7:3"
+        }
+      },
+      {
+        "word": "فَهْم",
+        "translit": "fahm",
+        "en": "understanding",
+        "my": "နားလည်သဘောပေါက်မှု",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ف هـ م",
+          "concept_en": "to understand",
+          "concept_my": "နားလည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fahm (sounds like 'Firm' - solid understanding)",
+          "image": "A key fitting perfectly into a lock",
+          "cross_language": "Urdu: Fahm"
+        },
+        "word_family": [
+          {
+            "ar": "يَفْهَمُ",
+            "translit": "yafhamu",
+            "en": "he understands",
+            "my": "သူနားလည်သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Ijaz requires the listener's 'fahm' to fill in the blanks.",
+        "example": {
+          "ar": "سُوءُ الفَهْمِ",
+          "en": "misunderstanding",
+          "my": "နားလည်မှုလွဲခြင်း",
+          "ref": "General"
+        }
+      },
+      {
+        "word": "تَقْدِير",
+        "translit": "taqdīr",
+        "en": "estimation/implied meaning",
+        "my": "ခန့်မှန်းချက်/လိုရင်းအဓိပ္ပာယ်ကို ဖော်ထုတ်ခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "ق د ر",
+          "concept_en": "to measure or decree",
+          "concept_my": "တိုင်းတာခြင်း သို့မဟုတ် သတ်မှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Taqdir (sounds like 'Take dear' - taking the meaning)",
+          "image": "Filling in the dots in a connect-the-dots puzzle",
+          "cross_language": "Urdu/Malay: Takdir (Destiny/Measure)"
+        },
+        "word_family": [
+          {
+            "ar": "قَدَر",
+            "translit": "qadar",
+            "en": "destiny/measure",
+            "my": "ကံကြမ္မာ/အတိုင်းအတာ",
+            "freq": 12
+          }
+        ],
+        "pattern_unlock": "In Hadhf (omission), scholars use 'Taqdir' to explain what was removed.",
+        "example": {
+          "ar": "تَقْدِيرُ الكَلَامِ",
+          "en": "the implied meaning of the speech",
+          "my": "စကား၏ လိုရင်းအဓိပ္ပာယ်",
+          "ref": "Grammar"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الإِيجَازُ بِالحَذْفِ",
+        "en": "Ijaz al-Hadhf (Ellipsis)",
+        "my": "ချန်လှပ်ခြင်းဖြင့် ကျစ်လျစ်စေခြင်း"
+      },
+      "formula": {
+        "display": "Mentioned Word + [Omitted Word] = Powerful Meaning",
+        "example": "وَاسْأَلِ الْقَرْيَةَ (And ask the village)",
+        "myanmar_read": "စာသားအရ ရွာကိုမေးပါဟုဆိုသော်လည်း 'ရွာသားများကိုမေးပါ' ဟု နားလည်ရမည်။",
+        "key_insight": "The mind works harder to complete the meaning, making the message more memorable."
+      },
+      "explanation": {
+        "en": "Ijaz al-Hadhf occurs when a word or phrase is omitted because the context makes it obvious. In the Quran, this is used to create a sense of urgency, speed, or to focus solely on the most important action. It removes the 'extra' fluff so the core spiritual message hits directly.",
+        "my": "အီဂျားဇ်-အလ်-ဟဇ်ဖ် ဆိုသည်မှာ အကြောင်းအရာအရ သိသာထင်ရှားနေသော စကားလုံး သို့မဟုတ် စာသားကို ချန်လှပ်ထားခြင်းဖြစ်သည်။ ကုရ်အာန်ကျမ်းတော်မြတ်တွင် ဤနည်းလမ်းကို အရေးတကြီးဖြစ်ခြင်း၊ လျင်မြန်ခြင်း သို့မဟုတ် အဓိကလုပ်ဆောင်ချက်ကိုသာ အာရုံစိုက်စေလိုခြင်းတို့အတွက် အသုံးပြုသည်။ မလိုအပ်သော စကားလုံးများကို ဖယ်ထုတ်လိုက်ခြင်းဖြင့် ဝိညာဉ်ရေးရာ သတင်းစကားကို တိုက်ရိုက်ထိရောက်စေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese often omits pronouns (I/You) if the context is clear, similar to Arabic Ijaz.",
+        "my": "မြန်မာစကားတွင်လည်း ရှေ့နောက်စကားအရ သိသာနေလျှင် 'ကျွန်တော်' သို့မဟုတ် 'ခင်ဗျား' ကဲ့သို့သော နာမ်စားများကို ချန်လှပ်ပြောဆိုလေ့ရှိသည်မှာ အာရပ်စကား၏ အီဂျားဇ်နှင့် ဆင်တူသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The omitted word must be clearly inferable from the context.",
+          "rule_my": "ချန်လှပ်ထားသော စကားလုံးသည် ရှေ့နောက်အကြောင်းအရာအရ ရှင်းလင်းစွာ ခန့်မှန်းနိုင်ရမည်။",
+          "example": {
+            "ar": "فَصَبْرٌ جَمِيلٌ",
+            "en": "[My case is] beautiful patience",
+            "my": "[ကျွန်ုပ်၏အခြေအနေမှာ] လှပသောသည်းခံခြင်းသာဖြစ်သည်။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Omission of the Object (Maful Bihi)",
+          "ar": "وَلَمَّا وَرَدَ مَاءَ مَدْيَنَ",
+          "en": "And when he came to the well of Madyan",
+          "my": "MYANMAR_PLACE_HOLDER_S28_A23",
+          "ref": "28:23",
+          "breakdown": {
+            "subject": {
+              "word": "مَاءَ مَدْيَنَ",
+              "en": "Water of Madyan",
+              "note": "The destination"
+            },
+            "predicate": {
+              "word": "[Hadhf]",
+              "en": "The people drawing water",
+              "note": "Omitted to focus on the arrival"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'ရေခပ်နေကြသော လူများကိုတွေ့သည်' ဟု မပြောဘဲ 'ရေတွင်းသို့ရောက်သည်' ဟုသာ ပြောခြင်းမှာ မူဆာသခင်၏ ခရီးစဉ်ကို အဓိကဖော်ပြလို၍ ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking the Quran is incomplete because words are 'missing'.",
+          "wrong": {
+            "ar": "وَاسْأَلِ الْقَرْيَةَ",
+            "note": "Taking it literally as asking the soil/buildings."
+          },
+          "correct": {
+            "ar": "وَاسْأَلِ أَهْلَ الْقَرْيَةِ",
+            "en": "Ask the people of the town",
+            "my": "မြို့သားများကို မေးမြန်းပါ။"
+          },
+          "myanmar_tip": "စကားလုံးတိုင်းကို တိုက်ရိုက်အဓိပ္ပာယ်မယူဘဲ အနုပညာမြောက်စွာ ချန်လှပ်ထားမှုကို သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify if a word is omitted in the phrase",
+          "instruction_my": "အောက်ပါစာသားများတွင် စကားလုံးချန်လှပ်ထားခြင်း ရှိမရှိ ခွဲခြားပါ။",
+          "questions": [
+            {
+              "q": "وَجَاءَ رَبُّكَ",
+              "answer_en": "Yes (The command of your Lord)",
+              "answer_my": "ရှိပါသည် (အရှင်မြတ်၏ အမိန့်တော် ရောက်ရှိလာသည်)",
+              "ref": "89:22"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate while filling the implied meaning",
+          "instruction_my": "လိုရင်းအဓိပ္ပာယ်ကို ဖြည့်စွက်၍ ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "فَصَبْرٌ جَمِيلٌ",
+              "answer_en": "[My resort is] beautiful patience",
+              "answer_my": "[ကျွန်ုပ်၏နည်းလမ်းမှာ] လှပသော သည်းခံခြင်းသာဖြစ်သည်။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Shorten the sentence into an Ijaz form",
+          "instruction_my": "စာကြောင်းကို အီဂျားဇ်ပုံစံဖြင့် တိုတိုကျစ်လျစ်အောင် ပြုလုပ်ပါ။",
+          "questions": [
+            {
+              "q": "أَهْلُ القَرْيَةِ",
+              "answer_en": "The Village (The People of...)",
+              "answer_my": "ရွာ (ရွာသားများ...)",
+              "ar": "القَرْيَةُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Ijaz reflects the divine nature of the Quran—infinite meaning within finite words. It teaches us that silence and what is 'unsaid' can often be more powerful than what is spoken.",
+        "my": "အီဂျားဇ်သည် အကန့်အသတ်ရှိသော စကားလုံးများအတွင်း အကန့်အသတ်မဲ့သော အဓိပ္ပာယ်များပါဝင်သည့် ကုရ်အာန်၏ ထူးကဲသော ဂုဏ်ရည်ကို ဖော်ပြသည်။ တစ်ခါတစ်ရံတွင် ထုတ်ဖော်မပြောကြားလိုက်သော အရာများသည် ပြောကြားလိုက်သော အရာများထက် ပိုမိုထိရောက်နိုင်ကြောင်း ကျွန်ုပ်တို့ကို သင်ကြားပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:197",
+        "study_number": 1,
+        "arabic_full": "فَمَن فَرَضَ فِيهِنَّ الْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ",
+        "en_sahih": "So whoever has made Haj obligatory upon himself therein [by entering the state of ihram], there is [to be for him] no sexual relations and no disobedience and no disputing during Hajj.",
+        "my_mmsy": "ဟဂျ်(၏အချိန်)သည် သတ်မှတ်သိရှိပြီးဖြစ်သည့်လများပင်ဖြစ်သည်။  သို့ဖြစ်ရာ အကြင်သူသည် ထိုလများ၌ ဟဂျ်ပြုလုပ်ရန် သတ်မှတ်ခဲ့လျှင် ထိုသူသည် ဟဂျ်(ပြုလုပ်ရန် အိဟ်ရာမ်ရုံထားစဉ်)အတွင်း၌ ကာမ(ဆက်ဆံမှုမပြုရ သည့်အပြင် ၎င်းနှင့်ဆိုင်သည့်) ညစ်ညမ်းသောစကားကိုပင် မပြောရပေ၊ အပြစ်ကျူးလွန်မှုလည်း မပြုလုပ်ရပေ၊ ခိုက်ရန်ဖြစ်ပွားမှုကိုလည်း မပြုရပေ။ ထို့ပြင် အသင်တို့ပြုလုပ်ကြသည့် မည်သည့်ကောင်းမှုကိုမဆို အလ္လာဟ်အရှင်မြတ်သိရှိတော်မူသည်။ ထို့ပြင် အသင်တို့သည် ခရီးစရိတ် ယူဆောင်သွားကြပါ၊ ထို့ပြင် အမှန်စင်စစ် အကောင်းဆုံးခရီးစရိတ်သည် သက္ကဝါရှောင်ကြဉ်ခြင်းပင်ဖြစ်သည်။  သို့ဖြစ်ရာ အို-ဉာဏ်ရှိသူအပေါင်းတို့၊ အသင်တို့သည် ငါအရှင်မြတ်အား (မနာခံခြင်းကနေ) ကြောက်ရွံ့ကြပါ။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 197,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002197.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/197",
+        "context": {
+          "en": "The verse discusses the rules of Hajj, emphasizing self-control and sanctity of the pilgrimage.",
+          "my": "ဤအာယသ်တော်သည် ဟဂျ်ပြုလုပ်ရာတွင် စောင့်ထိန်းရမည့် စည်းကမ်းချက်များနှင့် မိမိကိုယ်ကို ထိန်းချုပ်ခြင်း၏ အရေးကြီးပုံကို ရှင်းပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "فَلَا رَفَثَ",
+            "translit": "falā rafatha",
+            "en": "then no sexual relation",
+            "my": "ထိုအခါ ကာမဆက်ဆံခြင်းမပြုရ",
+            "role_en": "Negation",
+            "role_my": "ငြင်းပယ်ခြင်း",
+            "root": "ر ف ث",
+            "freq": 2
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of 'La' with a noun in the accusative (La Nafiya lil-Jins) combined with the omission of the command verb 'Do not'.",
+          "structure_my": "'La' (မဟုတ်/မရှိ) ကို အသုံးပြု၍ 'မပြုလုပ်ပါနှင့်' ဟု တိုက်ရိုက်အမိန့်မပေးဘဲ 'ထိုသို့သောအရာ မရှိရ' ဟု ဖော်ပြခြင်းဖြင့် ပိုမိုပြတ်သားစေသည်။",
+          "insight_en": "Instead of saying 'Do not act', Allah says 'There is none', implying that for a true pilgrim, these sins shouldn't even exist as an option.",
+          "insight_my": "'မလုပ်နဲ့' ဟု ပြောမည့်အစား 'မရှိရ' ဟု ပြောခြင်းသည် စစ်မှန်သော ဟဂျ်ပြုသူအတွက် ထိုအပြစ်များသည် လုံးဝမရှိသင့်သောအရာများ ဖြစ်ကြောင်း ညွှန်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "و ج ز",
+            "concept_en": "The root of Ijaz. To cut through and reach the essence quickly.",
+            "concept_my": "အနှစ်သာရကို လျင်မြန်စွာ ရောက်ရှိအောင် ဖြတ်တောက်ခြင်း။",
+            "members": [
+              {
+                "ar": "مُوجَز",
+                "en": "summary",
+                "my": "အနှစ်ချုပ်",
+                "freq": 0
+              }
+            ],
+            "professors_note": "True Ijaz isn't just about being short; it's about being short WITHOUT losing clarity."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အီဂျားဇ်ကို လေ့လာခြင်းဖြင့် ကျွန်ုပ်တို့သည် ကုရ်အာန်၏ စကားလုံးတိုင်းသည် မည်မျှ တန်ဖိုးရှိကြောင်း နားလည်လာမည်။ မြန်မာမွတ်စလင်များအနေဖြင့် စကားကို လိုရင်းတိုရှင်းနှင့် ထိရောက်စွာ ပြောဆိုခြင်းသည်လည်း စွန္နသ်တော်တစ်ရပ်ဖြစ်ကြောင်း နှလုံးသွင်းရမည်။ အရှင်မြတ်သည် များပြားလှသော အသိပညာများကို နည်းပါးသော စကားလုံးများဖြင့် ကျွန်ုပ်တို့၏ နှလုံးသားထဲသို့ ထည့်သွင်းပေးတော်မူသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The repetitive 'La... La... La...' creates a barrier or shield rhythm.",
+          "meaning_anchor": "Imagine three gates closing: Rafath, Fusuq, Jidal.",
+          "daily_connection": "Used when reminding oneself to stay calm and avoid arguments during worship.",
+          "my": "'လာ' ၃ ကြိမ် ပါဝင်သော စည်းချက်ကို မှတ်သားပါ။ အပြစ် ၃ မျိုးကို တားဆီးနေသော တံခါး ၃ ချပ်ကဲ့သို့ မြင်ယောင်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we explored Ijaz (Conciseness), specifically focusing on Hadhf (Omission). We learned how the Quran removes words to increase impact and how to infer the implied meaning. This allows us to appreciate the depth of Divine speech beyond just the written text.",
+      "my": "ဤသင်ခန်းစာတွင် အီဂျားဇ် (ကျစ်လျစ်မှု) နှင့် အထူးသဖြင့် ဟဇ်ဖ် (ချန်လှပ်ခြင်း) အကြောင်းကို လေ့လာခဲ့သည်။ ကုရ်အာန်တွင် ထိရောက်မှုရှိစေရန် စကားလုံးများကို မည်သို့ပယ်ဖျက်ထားကြောင်းနှင့် လိုရင်းအဓိပ္ပာယ်ကို မည်သို့ခန့်မှန်းရမည်ကို သင်ယူခဲ့သည်။ ဤသည်မှာ ကျမ်းတော်မြတ်၏ နက်နဲမှုကို ပိုမိုနားလည်စေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-272",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 272,
+    "title": {
+      "ar": "البَلَاغَةُ (٢٢) — الإِطْنَابُ",
+      "en": "Rhetoric XXII — Ithnab: Elaboration for Emphasis",
+      "my": "စကားအသုံးအနှုန်းအနုပညာ (၂၂) — အစ်သ်နာဗ် (အကျယ်တဝင့်ဖော်ပြခြင်း)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 10,
+      "grammar_focus": "Saying more for rhetorical effect; repetition and elaboration in Quran",
+      "grammar_formula": "Repetition/Detail = Divine Emphasis"
+    },
+    "section_1_vocab": [
+      {
+        "word": "إِطْنَاب",
+        "translit": "ithnāb",
+        "en": "elaboration/prolixity",
+        "my": "အကျယ်တဝင့် ပြောဆိုခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "إِفْعَال",
+        "root": {
+          "letters": "ط ن ب",
+          "concept_en": "to extend or stretch (like a tent rope)",
+          "concept_my": "ဆန့်ထုတ်ခြင်း သို့မဟုတ် ရှည်လျားစေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "It-Naab (It's a knob - turning it up)",
+          "image": "Stretching a long rope to support a big tent",
+          "cross_language": "Urdu: Itnab"
+        },
+        "word_family": [
+          {
+            "ar": "مُطْنِب",
+            "translit": "muṭnib",
+            "en": "verbose/detailed",
+            "my": "အကျယ်တဝင့်ရှိသော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Ithnab is the opposite of Ijaz; it uses more words than necessary to ensure the point is felt.",
+        "example": {
+          "ar": "الإِطْنَابُ لِلتَّأْكِيدِ",
+          "en": "elaboration for emphasis",
+          "my": "အလေးအနက်ထားရန် အကျယ်တဝင့်ပြောခြင်း",
+          "ref": "Grammar"
+        }
+      },
+      {
+        "word": "تَكْرَار",
+        "translit": "takrār",
+        "en": "repetition",
+        "my": "ထပ်ခါထပ်ခါပြောဆိုခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعَال",
+        "root": {
+          "letters": "ك ر ر",
+          "concept_en": "to return or repeat",
+          "concept_my": "ပြန်လာခြင်း သို့မဟုတ် ထပ်ခါတလဲလဲပြုလုပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Take-rar (Take it again)",
+          "image": "A wheel spinning in the same spot",
+          "cross_language": "Urdu: Takrar"
+        },
+        "word_family": [
+          {
+            "ar": "كَرَّة",
+            "translit": "karrah",
+            "en": "a turn/instance",
+            "my": "တစ်လှည့်/တစ်ကြိမ်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Takrar is a common form of Ithnab used for reminding and warnings.",
+        "example": {
+          "ar": "التَّكْرَارُ يُفِيدُ التَّقْرِيرَ",
+          "en": "repetition provides confirmation",
+          "my": "ထပ်ခါတလဲလဲပြောခြင်းသည် ပို၍ခိုင်မာစေသည်",
+          "ref": "Proverb"
+        }
+      },
+      {
+        "word": "تَأْكِيد",
+        "translit": "ta'kīd",
+        "en": "emphasis/confirmation",
+        "my": "အလေးအနက်ပြုခြင်း/အတည်ပြုခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "أ ك د",
+          "concept_en": "to emphasize or confirm",
+          "concept_my": "ခိုင်မာစေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ta-Kid (Tell the kid - emphasize it)",
+          "image": "A bold underline under a word",
+          "cross_language": "Urdu/Malay: Ta'kid"
+        },
+        "word_family": [
+          {
+            "ar": "مُؤَكَّد",
+            "translit": "mu'akkad",
+            "en": "confirmed",
+            "my": "အတည်ပြုပြီးသော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Ithnab's primary purpose is Ta'kid (Emphasis).",
+        "example": {
+          "ar": "لِأَجْلِ التَّأْكِيدِ",
+          "en": "for the sake of emphasis",
+          "my": "အလေးအနက်ထားရန်အတွက်",
+          "ref": "Grammar"
+        }
+      },
+      {
+        "word": "تَفْصِيل",
+        "translit": "tafṣīl",
+        "en": "detail/clarification",
+        "my": "အသေးစိတ်ဖော်ပြချက်",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "ف ص ل",
+          "concept_en": "to separate or distinguish",
+          "concept_my": "ခွဲခြားခြင်း သို့မဟုတ် အသေးစိတ်ခွဲခြမ်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Taf-sil (Tough-seal: detailing the seal)",
+          "image": "A magnifying glass looking at small parts",
+          "cross_language": "Urdu: Tafseel"
+        },
+        "word_family": [
+          {
+            "ar": "فَصَّلْنَا",
+            "translit": "faṣṣalnā",
+            "en": "We explained in detail",
+            "my": "ကျွန်ုပ်တို့သည် အသေးစိတ်ရှင်းလင်းခဲ့သည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Ithnab often involves 'Tafsil' (detailing) after a general statement.",
+        "example": {
+          "ar": "تَفْصِيلَ كُلِّ شَيْءٍ",
+          "en": "a detailed explanation of all things",
+          "my": "အရာခပ်သိမ်းကို အသေးစိတ်ရှင်းလင်းချက်",
+          "ref": "12:111"
+        }
+      },
+      {
+        "word": "آلَاء",
+        "translit": "ālā'",
+        "en": "favors/blessings",
+        "my": "ကျေးဇူးတော်များ",
+        "quran_freq": 34,
+        "word_type": "Noun",
+        "gender": "Plural",
+        "wazn": "أَفْعَال",
+        "root": {
+          "letters": "أ ل و",
+          "concept_en": "favors/blessings",
+          "concept_my": "ကောင်းချီးမင်္ဂလာများ"
+        },
+        "memory_hook": {
+          "sound": "A-la (Allah's favors)",
+          "image": "Rain of light falling from the sky",
+          "cross_language": "Urdu: Alaa"
+        },
+        "word_family": [
+          {
+            "ar": "إِلًى",
+            "translit": "ilā",
+            "en": "to/towards",
+            "my": "သို့",
+            "freq": 1000
+          }
+        ],
+        "pattern_unlock": "This word is famous for the 'Takrar' in Surah Ar-Rahman.",
+        "example": {
+          "ar": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "en": "Then which of the favors of your Lord will you deny?",
+          "my": "သို့ဖြစ်လျှင် သင်တို့နှစ်ဦးသည် မိမိတို့အရှင်၏ မည်သည့်ကျေးဇူးတော်ကို ငြင်းပယ်ကြမည်နည်း",
+          "ref": "55:13"
+        }
+      },
+      {
+        "word": "فَائِدَة",
+        "translit": "fā'idah",
+        "en": "benefit",
+        "my": "အကျိုးကျေးဇူး",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَاعِلَة",
+        "root": {
+          "letters": "ف ي د",
+          "concept_en": "to benefit",
+          "concept_my": "အကျိုးရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fa-idah (Find it - the benefit)",
+          "image": "A fruit-bearing tree",
+          "cross_language": "Urdu/Malay: Faedah"
+        },
+        "word_family": [
+          {
+            "ar": "مُفِيد",
+            "translit": "mufīd",
+            "en": "useful",
+            "my": "အသုံးဝင်သော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Every 'Ithnab' has a specific 'Fa'idah' (benefit) for being long.",
+        "example": {
+          "ar": "فَائِدَةُ التَّكْرَارِ",
+          "en": "the benefit of repetition",
+          "my": "ထပ်ခါထပ်ခါပြောခြင်း၏ အကျိုးကျေးဇူး",
+          "ref": "General"
+        }
+      },
+      {
+        "word": "تَوْضِيح",
+        "translit": "tawḍīḥ",
+        "en": "clarification",
+        "my": "ရှင်းလင်းတင်ပြချက်",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "و ض ح",
+          "concept_en": "to be clear or evident",
+          "concept_my": "ရှင်းလင်းထင်ရှားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Taw-dee (Totally clear)",
+          "image": "Turning on a bright lamp",
+          "cross_language": "Urdu: Tozeeh"
+        },
+        "word_family": [
+          {
+            "ar": "وَاضِح",
+            "translit": "wāḍiḥ",
+            "en": "clear",
+            "my": "ရှင်းလင်းသော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Ithnab clarifies complex points by expansion.",
+        "example": {
+          "ar": "لِلتَّوْضِيحِ وَالبَيَانِ",
+          "en": "for clarification and explanation",
+          "my": "ရှင်းလင်းစေရန်နှင့် ဖော်ပြရန်အတွက်",
+          "ref": "Grammar"
+        }
+      },
+      {
+        "word": "إِيضَاح",
+        "translit": "īḍāḥ",
+        "en": "illustration/making clear",
+        "my": "ပိုမိုရှင်းလင်းအောင်ပြုလုပ်ခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "إِفْعَال",
+        "root": {
+          "letters": "و ض ح",
+          "concept_en": "to be clear",
+          "concept_my": "ထင်ရှားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "I-Dah (Eye-Opening)",
+          "image": "A clean window",
+          "cross_language": "Urdu: Eezah"
+        },
+        "word_family": [
+          {
+            "ar": "مُوضِح",
+            "translit": "mūḍiḥ",
+            "en": "one who clarifies",
+            "my": "ရှင်းပြသူ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Similar to Tawdih, used in the context of Balagha models.",
+        "example": {
+          "ar": "إِيضَاحُ المَعْنَى",
+          "en": "making the meaning clear",
+          "my": "အဓိပ္ပာယ်ကို ရှင်းလင်းစေခြင်း",
+          "ref": "General"
+        }
+      },
+      {
+        "word": "تَنْبِيه",
+        "translit": "tanbīh",
+        "en": "warning/alerting",
+        "my": "သတိပေးခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "ن ب هـ",
+          "concept_en": "to wake up or alert",
+          "concept_my": "နိုးကြားစေခြင်း သို့မဟုတ် သတိပေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tan-beeh (Tan the bee - watch out!)",
+          "image": "An alarm clock ringing",
+          "cross_language": "Urdu/Malay: Tanbih"
+        },
+        "word_family": [
+          {
+            "ar": "انْتَبَهَ",
+            "translit": "intabaha",
+            "en": "he paid attention",
+            "my": "သူသတိထားခဲ့သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Ithnab serves as a Tanbih to sleepy hearts.",
+        "example": {
+          "ar": "لِتَنْبِيهِ الغَافِلِينَ",
+          "en": "to alert the heedless",
+          "my": "သတိမမူသူများကို သတိပေးရန်",
+          "ref": "Spiritual"
+        }
+      },
+      {
+        "word": "غَرَض",
+        "translit": "gharaḍ",
+        "en": "purpose/aim",
+        "my": "ရည်ရွယ်ချက်",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "غ ر ض",
+          "concept_en": "to aim or intend",
+          "concept_my": "ရည်မှန်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Gha-rad (Got it - the goal)",
+          "image": "A target with an arrow in the center",
+          "cross_language": "Urdu: Gharaz"
+        },
+        "word_family": [
+          {
+            "ar": "أَغْرَاض",
+            "translit": "aghrāḍ",
+            "en": "purposes",
+            "my": "ရည်ရွယ်ချက်များ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "In rhetoric, we always ask: What is the 'Gharad' of this Ithnab?",
+        "example": {
+          "ar": "بِغَرَضِ التَّأْكِيدِ",
+          "en": "with the purpose of emphasis",
+          "my": "အလေးအနက်ထားရန် ရည်ရွယ်ချက်ဖြင့်",
+          "ref": "Grammar"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الإِطْنَابُ بِالتَّكْرَارِ",
+        "en": "Ithnab through Repetition",
+        "my": "ထပ်ခါတလဲလဲပြောခြင်းဖြင့် အကျယ်တဝင့်ဖော်ပြခြင်း"
+      },
+      "formula": {
+        "display": "Phrase A + Phrase A + Phrase A... = Reinforced Reality",
+        "example": "كَلَّا سَوْفَ تَعْلَمُونَ ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+        "myanmar_read": "တစ်ခါပြောရုံနှင့် မလုံလောက်ဘဲ စိတ်ထဲစွဲမြဲစေရန် နှစ်ကြိမ် သို့မဟုတ် အကြိမ်ကြိမ် ထပ်ပြောခြင်းဖြစ်သည်။",
+        "key_insight": "Repetition in the Quran is never 'extra'; it's a heartbeat that hammers a truth into the soul."
+      },
+      "explanation": {
+        "en": "Ithnab is the opposite of Ijaz. It is the use of more words to serve a specific rhetorical purpose like emphasis, clarification, or showing love. One of the most famous forms is 'Takrar' (Repetition), which ensures the message is not ignored or forgotten.",
+        "my": "အစ်သ်နာဗ်သည် အီဂျားဇ်နှင့် ဆန့်ကျင်ဘက်ဖြစ်သည်။ ၎င်းသည် အလေးအနက်ထားရန်၊ ရှင်းလင်းရန် သို့မဟုတ် ချစ်ခင်မှုကိုပြသရန်အတွက် စကားလုံးများကို ပိုမိုအသုံးပြုခြင်းဖြစ်သည်။ အထင်ရှားဆုံးပုံစံတစ်ခုမှာ 'သက္ကရာရ်' (ထပ်ခါတလဲလဲပြောခြင်း) ဖြစ်ပြီး သတင်းစကားကို လျစ်လျူမရှုမိစေရန် သို့မဟုတ် မေ့မသွားစေရန် သေချာစေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese uses repetition for emphasis too (e.g., 'kaung kaung' for 'very good'), similar to Quranic Takrar.",
+        "my": "မြန်မာစကားတွင်လည်း 'ကောင်းကောင်း'၊ 'မြန်မြန်' စသည်ဖြင့် အလေးအနက်ထားလိုသောအခါ စကားလုံးကို နှစ်ကြိမ်ထပ်သုံးလေ့ရှိသည်မှာ ကုရ်အာန်ရှိ 'သက္ကရာရ်' နှင့် သဘောတရားတူညီသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Repetition is used to emphasize a warning or a promise.",
+          "rule_my": "သတိပေးချက် သို့မဟုတ် ကတိတော်ကို အလေးအနက်ထားရန် ထပ်ခါတလဲလဲ ပြောဆိုသည်။",
+          "example": {
+            "ar": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا * إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+            "en": "Verily with hardship comes ease, verily with hardship comes ease.",
+            "my": "ဧကန်စင်စစ် ခက်ခဲမှုနှင့်အတူ လွယ်ကူမှုရှိ၏၊ ဧကန်စင်စစ် ခက်ခဲမှုနှင့်အတူ လွယ်ကူမှုရှိ၏။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "The Famous Refrain",
+          "ar": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+          "en": "So which of the favors of your Lord will you deny?",
+          "my": "(၁၃) ထို့နောက် (အို-ဂျင်န် နှင့် လူသားအပေါင်းတို့)၊ အသင်တို့သည် အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ မည်သည့်ကျေးဇူးတော်များကို မဟုတ်မမှန်ဟု ငြင်းပယ်ကြဦးမည်နည်း။  ၃",
+          "ref": "55:13",
+          "breakdown": {
+            "subject": {
+              "word": "آلَاءِ",
+              "en": "Favors",
+              "note": "The core focus"
+            },
+            "predicate": {
+              "word": "تُكَذِّبَانِ",
+              "en": "You two deny",
+              "note": "The challenge"
+            }
+          },
+          "myanmar_insight": "ဤစာသားသည် စူရဟ်အရ်ရဟ်မန်တွင် ၃၁ ကြိမ်တိုင်တိုင် ပါဝင်သည်။ ဤသည်မှာ အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်များကို အကြိမ်ကြိမ် သတိပြုမိစေရန်ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking repetition is redundant or boring.",
+          "wrong": {
+            "ar": "لماذا التكرار؟",
+            "note": "Asking why there is repetition."
+          },
+          "correct": {
+            "ar": "التكرار للتقرير",
+            "en": "Repetition is for confirmation",
+            "my": "ထပ်ခါတလဲလဲပြောခြင်းမှာ ပိုမိုခိုင်မာစေရန်ဖြစ်သည်။"
+          },
+          "myanmar_tip": "ကုရ်အာန်ရှိ ထပ်ခါတလဲလဲ စာသားတိုင်းတွင် ထူးခြားသော ဝိညာဉ်ရေးရာ ရည်ရွယ်ချက်ရှိကြောင်း သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the repeated phrase in the ayah",
+          "instruction_my": "အာယသ်တော်တွင် ထပ်ခါတလဲလဲ ပါဝင်သော စာသားကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "كَلَّا سَوْفَ تَعْلَمُونَ ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+              "answer_en": "Kalla sawfa ta'lamun",
+              "answer_my": "ကလ်လာ ဆောင်ဖာ သအ်လာမွန်",
+              "ref": "102:3-4"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the repeated phrase accurately",
+          "instruction_my": "ထပ်ခါတလဲလဲ စာသားကို တိကျစွာ ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+              "answer_en": "Indeed with hardship comes ease",
+              "answer_my": "ဧကန်စင်စစ် ခက်ခဲမှုနှင့်အတူ လွယ်ကူမှုရှိ၏"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Complete the Takrar pattern",
+          "instruction_my": "သက္ကရာရ် ပုံစံကို ဖြည့်စွက်ပါ။",
+          "questions": [
+            {
+              "q": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا... [?]",
+              "answer_en": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+              "answer_my": "အင်းနား မအလ် အွစ်ရိ ယွစ်ရာ",
+              "ar": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Ithnab is like a mother repeating advice to her child out of pure love. Allah repeats His verses so that even the most distracted heart might eventually listen and find peace.",
+        "my": "အစ်သ်နာဗ်သည် မိခင်တစ်ဦးက မိမိရင်သွေးကို ချစ်လွန်း၍ ဆုံးမစကားကို ထပ်ခါတလဲလဲ ပြောနေခြင်းနှင့် တူသည်။ အလ္လာဟ်အရှင်မြတ်သည် မေ့လျော့နေသော နှလုံးသားများပင်လျှင် နားထောင်ပြီး ငြိမ်းချမ်းမှုရရှိစေရန် မိမိ၏ အာယသ်တော်များကို ထပ်ခါတလဲလဲ ဖော်ပြတော်မူသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Ash-Sharh 94:5-6",
+        "study_number": 1,
+        "arabic_full": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا * إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "en_sahih": "For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S94_A5",
+        "audio_ref": {
+          "surah": 94,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/094005.mp3"
+        },
+        "qurancom_url": "https://quran.com/94/5",
+        "context": {
+          "en": "Comforting the Prophet (PBUH) during difficult times by promising relief.",
+          "my": "ခက်ခဲသောအချိန်များတွင် တမန်တော်မြတ်အား သက်သာရာရစေမည့် ကတိတော်ဖြင့် နှစ်သိမ့်ပေးခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْعُسْرِ",
+            "translit": "al-'usr",
+            "en": "the hardship",
+            "my": "ခက်ခဲမှု",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "ع س ر",
+            "freq": 12
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Perfect literal repetition of a whole sentence.",
+          "structure_my": "စာကြောင်းတစ်ကြောင်းလုံးကို ထပ်တူညီစွာ ထပ်ခါတလဲလဲ အသုံးပြုထားခြင်း။",
+          "insight_en": "Scholars note that the definite article 'Al' in 'Al-Usr' means it's the same hardship, but the indefinite 'Yusran' means two different eases come with it.",
+          "insight_my": "ပညာရှင်များက 'အွစ်ရ်' (ခက်ခဲမှု) တွင် 'Al' ပါသဖြင့် တစ်ခုတည်းသော ခက်ခဲမှုကို ဆိုလိုသော်လည်း 'ယွစ်ရာ' (လွယ်ကူမှု) မှာ နှစ်မျိုးနှစ်စား ဖြစ်နိုင်ကြောင်း ရှင်းပြကြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ط ن ب",
+            "concept_en": "To extend speech to fill a void of doubt.",
+            "concept_my": "သံသယဖြစ်ဖွယ်နေရာများကို ဖြည့်ဆည်းရန် စကားကို ချဲ့ထွင်ပြောဆိုခြင်း။",
+            "members": [
+              {
+                "ar": "مِطْنَب",
+                "en": "tent rope",
+                "my": "တဲကြိုး",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Just as a tent needs ropes to stand firm, speech needs Ithnab to stand firm in a skeptical mind."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ ဘဝတွင် ဒုက္ခများ ကြုံတွေ့ရသောအခါ ဤအာယသ်တော်၏ ထပ်ခါတလဲလဲ ဖော်ပြချက်ကို သတိရပါ။ အလ္လာဟ်အရှင်မြတ်သည် တစ်ကြိမ်မက နှစ်ကြိမ်တိုင်တိုင် ကတိပေးထားခြင်းမှာ ကျွန်ုပ်တို့ကို လုံးဝစိတ်ဓာတ်မကျစေရန်ဖြစ်သည်။ ခက်ခဲမှုတစ်ခုရှိလျှင် လွယ်ကူမှုများစွာ လိုက်လာမည်မှာ ဧကန်အမှန်ပင်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Short, punchy, identical structure. It rings like a bell of hope.",
+          "meaning_anchor": "Imagine a heavy rock (hardship) being lifted by two strong hands (ease).",
+          "daily_connection": "Recited when one feels overwhelmed by work or personal trials.",
+          "my": "တိုတောင်းပြီး တူညီသော စည်းချက်ကို မှတ်ထားပါ။ ခက်ခဲမှုတစ်ခုကို လွယ်ကူမှုနှစ်ခုက ပင့်မထားသကဲ့သို့ မြင်ယောင်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We learned about Ithnab, the art of elaboration and repetition. We focused on how the Quran repeats specific phrases to provide comfort, warnings, and to emphasize Divine favors. Understanding Ithnab helps us feel the emotional weight of the Quran's message.",
+      "my": "ကျွန်ုပ်တို့သည် အစ်သ်နာဗ် (အကျယ်တဝင့်ဖော်ပြခြင်းနှင့် ထပ်ခါတလဲလဲပြောခြင်း) အနုပညာကို သင်ယူခဲ့သည်။ ကုရ်အာန်သည် နှစ်သိမ့်မှုပေးရန်၊ သတိပေးရန်နှင့် ကျေးဇူးတော်များကို အလေးအနက်ထားရန် စာသားများကို မည်သို့ထပ်ခါထပ်ခါ သုံးထားကြောင်း လေ့လာခဲ့သည်။ ဤသည်မှာ ကုရ်အာန်၏ သတင်းစကားတွင်ပါဝင်သော စိတ်ခံစားမှုဆိုင်ရာ အလေးချိန်ကို ခံစားသိရှိစေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-273",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 273,
+    "title": {
+      "ar": "البَلَاغَةُ (٢٣) — الطِّبَاقُ",
+      "en": "Rhetoric XXIII — Tibaq: Antithesis",
+      "my": "စကားအသုံးအနှုန်းအနုပညာ (٢٣) — သီဗားက် (ဆန့်ကျင်ဘက်များကို ယှဉ်တွဲဖော်ပြခြင်း)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 10,
+      "grammar_focus": "Using opposites together for emphasis: light/dark, life/death",
+      "grammar_formula": "Concept A + Opposite of Concept A = Complete Truth"
+    },
+    "section_1_vocab": [
+      {
+        "word": "طِبَاق",
+        "translit": "ṭibāq",
+        "en": "antithesis/opposites",
+        "my": "ဆန့်ကျင်ဘက်များ",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ط ب ق",
+          "concept_en": "to match or cover (layers)",
+          "concept_my": "ထပ်တူကျခြင်း သို့မဟုတ် အလွှာလိုက်ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tea-Back (opposite of front)",
+          "image": "Black and white tiles",
+          "cross_language": "Urdu: Tibaq"
+        },
+        "word_family": [
+          {
+            "ar": "طَبَق",
+            "translit": "ṭabaq",
+            "en": "layer/stage",
+            "my": "အဆင့်/အလွှာ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Tibaq is when two opposite words are brought together in one sentence.",
+        "example": {
+          "ar": "سَمَاوَاتٍ طِبَاقاً",
+          "en": "heavens in layers",
+          "my": "အထပ်ထပ်သော မိုးကောင်းကင်များ",
+          "ref": "67:3"
+        }
+      },
+      {
+        "word": "حَيَاة",
+        "translit": "ḥayāh",
+        "en": "life",
+        "my": "ဘဝ/အသက်ရှင်ခြင်း",
+        "quran_freq": 76,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعَلَة",
+        "root": {
+          "letters": "ح ي ي",
+          "concept_en": "to live",
+          "concept_my": "အသက်ရှင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hi! (greeting of life)",
+          "image": "A growing sprout",
+          "cross_language": "Urdu/Malay: Hayat"
+        },
+        "word_family": [
+          {
+            "ar": "أَحْيَا",
+            "translit": "aḥyā",
+            "en": "He gave life",
+            "my": "သူသည် အသက်ပေးခဲ့သည်",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "Often paired with Mawt (death) in Tibaq.",
+        "example": {
+          "ar": "الحَيَاةُ الدُّنْيَا",
+          "en": "the worldly life",
+          "my": "လောကီဘဝ",
+          "ref": "2:85"
+        }
+      },
+      {
+        "word": "مَوْت",
+        "translit": "mawt",
+        "en": "death",
+        "my": "သေဆုံးခြင်း",
+        "quran_freq": 165,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "م و ت",
+          "concept_en": "to die",
+          "concept_my": "သေဆုံးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mote (dust in a graveyard)",
+          "image": "A withered leaf",
+          "cross_language": "Urdu/Malay: Maut"
+        },
+        "word_family": [
+          {
+            "ar": "مَيِّت",
+            "translit": "mayyit",
+            "en": "dead",
+            "my": "သေဆုံးပြီးသော",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "The ultimate opposite of Hayah.",
+        "example": {
+          "ar": "الْمَوْتَ وَالْحَيَاةَ",
+          "en": "death and life",
+          "my": "သေခြင်းနှင့် ရှင်ခြင်း",
+          "ref": "67:2"
+        }
+      },
+      {
+        "word": "نُور",
+        "translit": "nūr",
+        "en": "light",
+        "my": "အလင်းရောင်",
+        "quran_freq": 194,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ن و ر",
+          "concept_en": "to shine or glow",
+          "concept_my": "တောက်ပခြင်း"
+        },
+        "memory_hook": {
+          "sound": "New-er (brighter)",
+          "image": "A shining sun",
+          "cross_language": "Urdu/Malay: Nur"
+        },
+        "word_family": [
+          {
+            "ar": "مُنِير",
+            "translit": "munīr",
+            "en": "illuminating",
+            "my": "လင်းလက်သော",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "Often used in Tibaq to represent guidance.",
+        "example": {
+          "ar": "نُورٌ عَلَى نُورٍ",
+          "en": "light upon light",
+          "my": "အလင်းတစ်ခုအပေါ် နောက်ထပ်အလင်းတစ်ခု",
+          "ref": "24:35"
+        }
+      },
+      {
+        "word": "ظُلُمَات",
+        "translit": "ẓulumāt",
+        "en": "darkness",
+        "my": "မှောင်မိုက်ခြင်း",
+        "quran_freq": 23,
+        "word_type": "Noun",
+        "gender": "Plural",
+        "wazn": "فُعُلَات",
+        "root": {
+          "letters": "ظ ل م",
+          "concept_en": "darkness/oppression",
+          "concept_my": "မှောင်မိုက်ခြင်း သို့မဟုတ် မတရားမှု"
+        },
+        "memory_hook": {
+          "sound": "Zoo-loom (Gloom)",
+          "image": "A pitch-black room",
+          "cross_language": "Urdu: Zulmat"
+        },
+        "word_family": [
+          {
+            "ar": "ظُلْم",
+            "translit": "ẓulm",
+            "en": "wrongdoing",
+            "my": "မတရားမှု",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "The opposite of Nur; usually plural to show many ways of misguidance.",
+        "example": {
+          "ar": "مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
+          "en": "from darkness into light",
+          "my": "အမှောင်ထုထဲမှ အလင်းသို့",
+          "ref": "2:257"
+        }
+      },
+      {
+        "word": "لَيْل",
+        "translit": "layl",
+        "en": "night",
+        "my": "ညဉ့်အခါ",
+        "quran_freq": 92,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ل ي ل",
+          "concept_en": "nighttime",
+          "concept_my": "ညအချိန်"
+        },
+        "memory_hook": {
+          "sound": "Lay-ill (Lay down at night)",
+          "image": "Moon and stars",
+          "cross_language": "Malay: Lail"
+        },
+        "word_family": [
+          {
+            "ar": "لَيْلَة",
+            "translit": "laylah",
+            "en": "a night",
+            "my": "ညတစ်ည",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Paired with Nahar (day) in Tibaq.",
+        "example": {
+          "ar": "وَاللَّيْلِ إِذَا سَجَى",
+          "en": "By the night when it covers",
+          "my": "ငြိမ်သက်သွားသော ညဉ့်အခါကို အမှီပြု၍",
+          "ref": "93:2"
+        }
+      },
+      {
+        "word": "نَهَار",
+        "translit": "nahār",
+        "en": "day",
+        "my": "နေ့အခါ",
+        "quran_freq": 57,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَال",
+        "root": {
+          "letters": "ن هـ ر",
+          "concept_en": "daytime/river",
+          "concept_my": "နေ့အချိန် သို့မဟုတ် မြစ်"
+        },
+        "memory_hook": {
+          "sound": "Near (Sun is near)",
+          "image": "Bright daylight",
+          "cross_language": "Urdu: Nahar"
+        },
+        "word_family": [
+          {
+            "ar": "أَنْهَار",
+            "translit": "anhār",
+            "en": "rivers",
+            "my": "မြစ်များ",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "The cycle of Layl and Nahar is a frequent Quranic Tibaq.",
+        "example": {
+          "ar": "يُولِجُ اللَّيْلَ فِي النَّهَارِ",
+          "en": "He causes the night to enter the day",
+          "my": "အရှင်သည် ညဉ့်ကို နေ့ထဲသို့ သွတ်သွင်းတော်မူသည်",
+          "ref": "35:13"
+        }
+      },
+      {
+        "word": "أَعْمَى",
+        "translit": "a'mā",
+        "en": "blind",
+        "my": "မျက်စိမမြင်သောသူ",
+        "quran_freq": 20,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "أَفْعَل",
+        "root": {
+          "letters": "ع م ي",
+          "concept_en": "to be blind",
+          "concept_my": "မျက်မမြင်ဖြစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Am-I? (Am I blind?)",
+          "image": "A person with closed eyes",
+          "cross_language": "Urdu: Amaa"
+        },
+        "word_family": [
+          {
+            "ar": "عُمْي",
+            "translit": "umyun",
+            "en": "blind (plural)",
+            "my": "မျက်မမြင်များ",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Opposite of Basir (seeing).",
+        "example": {
+          "ar": "الْأَعْمَىٰ وَالْبَصِيرُ",
+          "en": "the blind and the seeing",
+          "my": "မျက်စိမမြင်သူနှင့် မျက်စိမြင်သူ",
+          "ref": "35:19"
+        }
+      },
+      {
+        "word": "بَصِير",
+        "translit": "baṣīr",
+        "en": "seeing/all-seeing",
+        "my": "မြင်သောသူ/အရာရာကို မြင်တော်မူသောသူ",
+        "quran_freq": 42,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ب ص ر",
+          "concept_en": "to see/perceive",
+          "concept_my": "မြင်တွေ့ခြင်း သို့မဟုတ် သိမြင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ba-Seer (I see her)",
+          "image": "An open eye",
+          "cross_language": "Urdu/Malay: Basir"
+        },
+        "word_family": [
+          {
+            "ar": "أَبْصَار",
+            "translit": "abṣār",
+            "en": "visions/eyes",
+            "my": "အမြင်အာရုံများ",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "One of Allah's names, used in Tibaq with A'ma.",
+        "example": {
+          "ar": "إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+          "en": "Indeed He is Seeing of what you do",
+          "my": "ဧကန်စင်စစ် အရှင်သည် သင်တို့ပြုသမျှကို မြင်တော်မူသောသူဖြစ်သည်",
+          "ref": "2:110"
+        }
+      },
+      {
+        "word": "ضِدّ",
+        "translit": "ḍidd",
+        "en": "opposite/against",
+        "my": "ဆန့်ကျင်ဘက်",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ض د د",
+          "concept_en": "to be opposite or adverse",
+          "concept_my": "ဆန့်ကျင်ဘက်ဖြစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Did (What he did against me)",
+          "image": "Two arrows pointing in opposite directions",
+          "cross_language": "Urdu: Zid"
+        },
+        "word_family": [
+          {
+            "ar": "أَضْدَاد",
+            "translit": "aḍdād",
+            "en": "opposites",
+            "my": "ဆန့်ကျင်ဘက်များ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Tibaq is known as 'Jam' bayna al-addad' (combining opposites).",
+        "example": {
+          "ar": "وَيَكُونُونَ عَلَيْهِمْ ضِدًّا",
+          "en": "and they will be against them",
+          "my": "၎င်းတို့သည် သူတို့၏ ဆန့်ကျင်ဘက်ရန်သူများ ဖြစ်လာကြလိမ့်မည်",
+          "ref": "19:82"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الطِّبَاقُ",
+        "en": "Tibaq (Antithesis)",
+        "my": "သီဗားက် (ဆန့်ကျင်ဘက်များကို ယှဉ်တွဲဖော်ပြခြင်း)"
+      },
+      "formula": {
+        "display": "Word + Its Opposite = Contrastive Clarity",
+        "example": "تُعِزُّ مَن تَشَاءُ وَتُذِلُّ مَن تَشَاءُ",
+        "myanmar_read": "စာကြောင်းတစ်ကြောင်းတည်းတွင် အဓိပ္ပာယ်ဆန့်ကျင်သော စကားလုံးနှစ်ခုကို သုံးခြင်းဖြစ်သည်။",
+        "key_insight": "Opposites make the meaning stand out. You know light better because you know darkness."
+      },
+      "explanation": {
+        "en": "Tibaq is a rhetorical device where two opposite words (nouns, verbs, or particles) are used in the same context. It highlights the vast power of Allah and the clear distinctions between truth and falsehood, guidance and misguidance.",
+        "my": "သီဗားက်ဆိုသည်မှာ ဆန့်ကျင်ဘက်စကားလုံးနှစ်ခု (နာမ်၊ ကြိယာ သို့မဟုတ် ဝိဘတ်) ကို အကြောင်းအရာတစ်ခုတည်းတွင် ယှဉ်တွဲအသုံးပြုခြင်းဖြစ်သည်။ ဤအနုပညာသည် အလ္လာဟ်အရှင်မြတ်၏ ကြီးကျယ်သော တန်ခိုးတော်နှင့် အမှန်တရား၊ အမှားတရား၊ တရားလမ်းမှန်နှင့် လမ်းမှားတို့၏ ကွာခြားချက်ကို ပိုမိုထင်ရှားစေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese uses 'A-Lin vs A-Mhaung' (Light vs Dark) to explain good and evil, much like Tibaq.",
+        "my": "မြန်မာစကားတွင် 'အလင်းနှင့် အမှောင်'၊ 'အကောင်းနှင့် အဆိုး' စသည်ဖြင့် ဆန့်ကျင်ဘက်များကို ယှဉ်ပြောလေ့ရှိသည်မှာ သီဗားက်နှင့် သဘောတရားတူညီသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Tibaq can be between two nouns, two verbs, or even a positive and negative version of the same verb (Tibaq al-Salb).",
+          "rule_my": "သီဗားက်သည် နာမ်နှစ်ခု၊ ကြိယာနှစ်ခု သို့မဟုတ် ကြိယာတစ်ခုတည်း၏ အပြုနှင့် အငြင်းပုံစံများကြားတွင် ဖြစ်နိုင်သည်။",
+          "example": {
+            "ar": "يَعْلَمُونَ وَلَا يَعْلَمُونَ",
+            "en": "They know and they do not know",
+            "my": "သူတို့သည် သိကြသည်၊ သူတို့သည် မသိကြပေ။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Universal Opposites",
+          "ar": "هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ",
+          "en": "He is the First and the Last, the Ascendant and the Intimate",
+          "my": "(၃) အရှင်မြတ်ပင် အစအဦးဆုံး တည်ရှိတော်မူသောအရှင်၊ အဆုံးစွန်နောက်ဆုံးတိုင်တည်ရှိတော်မူမည့်အရှင်၊ ထင်ရှားစွာ ရှိနေတော်မူသောအရှင်၊ အကွယ်တွင် လျှို့ဝှက်စွာ တည်ရှိနေတော်မူသောအရှင်ဖြစ်တော်မူသည်။ ထို့ပြင် အရှင်မြတ်ပင် အရာအားလုံးကို အကြွင်းမဲ့သိတော်မူသောအရှင်ဖြစ်တော်မူသည်။",
+          "ref": "57:3",
+          "breakdown": {
+            "subject": {
+              "word": "الْأَوَّلُ / الظَّاهِرُ",
+              "en": "The First / The Manifest",
+              "note": "Outward aspects"
+            },
+            "predicate": {
+              "word": "الْآخِرُ / الْبَاطِنُ",
+              "en": "The Last / The Hidden",
+              "note": "Inward/Final aspects"
+            }
+          },
+          "myanmar_insight": "ဤအာယသ်တော်တွင် ဆန့်ကျင်ဘက်အတွဲနှစ်တွဲကို သုံးထားပြီး အလ္လာဟ်အရှင်မြတ်၏ အလုံးစုံလွှမ်းမိုးမှုကို ဖော်ပြသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking Tibaq only applies to nouns.",
+          "wrong": {
+            "ar": "فقط الأسماء",
+            "note": "Only using nouns like Light/Dark."
+          },
+          "correct": {
+            "ar": "يُحْيِي وَيُمِيتُ",
+            "en": "He gives life and causes death",
+            "my": "အရှင်သည် အသက်ရှင်စေတော်မူသည်၊ သေဆုံးစေတော်မူသည်။"
+          },
+          "myanmar_tip": "ကြိယာများကြားတွင်လည်း ဆန့်ကျင်ဘက်အနုပညာ ရှိနိုင်ကြောင်း သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the two opposite words in the ayah",
+          "instruction_my": "အာယသ်တော်ရှိ ဆန့်ကျင်ဘက် စကားလုံးနှစ်ခုကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "وَأَنَّهُ هُوَ أَضْحَكَ وَأَبْكَىٰ",
+              "answer_en": "Adhaka (made laugh) and Abka (made weep)",
+              "answer_my": "အဿွဟာကာ (ရယ်မောစေသည်) နှင့် အဗ်ကာ (ငိုကြွေးစေသည်)",
+              "ref": "53:43"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the Tibaq pair accurately",
+          "instruction_my": "သီဗားက်အတွဲကို တိကျစွာ ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "اللَّيْلِ وَالنَّهَارِ",
+              "answer_en": "The night and the day",
+              "answer_my": "ညနှင့် နေ့"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Provide the opposite for the Quranic word",
+          "instruction_my": "အောက်ပါစကားလုံး၏ ဆန့်ကျင်ဘက်ကို ရေးပါ။",
+          "questions": [
+            {
+              "q": "النُّور",
+              "answer_en": "Darkness",
+              "answer_my": "မှောင်မိုက်ခြင်း",
+              "ar": "الظُّلُمَات"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Tibaq shows that everything exists in a balance created by Allah. By reflecting on opposites, we realize that after every hardship (Usr) there is ease (Yusr), and after the darkness of this world, there is the light of the Hereafter.",
+        "my": "သီဗားက်သည် အရာရာတိုင်းကို အလ္လာဟ်အရှင်မြတ်က ညီညွတ်မျှတစွာ ဖန်ဆင်းထားကြောင်း ပြသသည်။ ဆန့်ကျင်ဘက်များကို ဆင်ခြင်ခြင်းဖြင့် ဒုက္ခပြီးလျှင် သုခရှိကြောင်းနှင့် ဤလောက၏ အမှောင်ထုပြီးလျှင် နောင်ဘဝ၏ အလင်းရောင်ရှိကြောင်း ကျွန်ုပ်တို့ သိရှိလာသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Fatir 35:19-22",
+        "study_number": 1,
+        "arabic_full": "وَمَا يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ * وَلَا الظَّلُمَاتُ وَلَا النُّورُ * وَلَا الظِّلُّ وَلَا الْحَرُورُ",
+        "en_sahih": "Not equal are the blind and the seeing, nor are the darknesses and the light, nor are the shade and the scorching heat.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S35_A19",
+        "audio_ref": {
+          "surah": 35,
+          "ayah": 19,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/035019.mp3"
+        },
+        "qurancom_url": "https://quran.com/35/19",
+        "context": {
+          "en": "Allah uses physical opposites to illustrate the spiritual difference between a believer and a disbeliever.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ရုပ်ပိုင်းဆိုင်ရာ ဆန့်ကျင်ဘက်များကို အသုံးပြု၍ သဒ္ဓါတရားရှိသူနှင့် မရှိသူကြားရှိ ဝိညာဉ်ရေးရာ ကွာခြားချက်ကို ရှင်းပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الظِّلُّ",
+            "translit": "al-ẓill",
+            "en": "the shade",
+            "my": "အရိပ်",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "ظ ل ل",
+            "freq": 15
+          },
+          {
+            "ar": "الْحَرُورُ",
+            "translit": "al-ḥarūr",
+            "en": "the scorching heat",
+            "my": "ပြင်းထန်သောအပူရှိန်",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "ح ر ر",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "A series of Tibaq (Opposites) following the negative 'Ma yastawi' (Not equal).",
+          "structure_my": "'မာ ယပ်စ်သာဝီ' (တန်းတူမဖြစ်နိုင်) ဟူသော စကားလုံးနောက်တွင် သီဗားက်အတွဲများကို ဆက်တိုက်သုံးထားသည်။",
+          "insight_en": "The transition from Blind/Seeing to Darkness/Light to Shade/Heat covers the senses of sight, understanding, and physical feeling, showing that faith affects every level of existence.",
+          "insight_my": "မျက်မမြင်/မျက်မြင် မှသည် အမှောင်/အလင်း၊ အရိပ်/အပူ စသည်ဖြင့် ပြောင်းလဲဖော်ပြခြင်းမှာ ယုံကြည်မှုသည် လူသား၏ မြင်မှု၊ သိမှုနှင့် ခံစားမှု အဆင့်တိုင်းအပေါ် သက်ရောက်ကြောင်း ပြသသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ط ب ق",
+            "concept_en": "To match one thing with another, or to place things in layers.",
+            "concept_my": "အရာတစ်ခုကို နောက်တစ်ခုနှင့် တိုက်ဆိုင်စေခြင်း သို့မဟုတ် အလွှာလိုက်ထားခြင်း။",
+            "members": [
+              {
+                "ar": "مُطَابِق",
+                "en": "matching",
+                "my": "ကိုက်ညီသော",
+                "freq": 0
+              }
+            ],
+            "professors_note": "In Balagha, Tibaq matches a word with its polar opposite to create a 'spark' of realization in the mind."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အရှင်မြတ်သည် ကျွန်ုပ်တို့ကို လောကရှိ အရာအားလုံး တန်းတူမဖြစ်နိုင်ကြောင်း သတိပေးနေသည်။ အရိပ်နှင့် အပူရှိန်သည် မည်သို့မျှ မတူနိုင်သကဲ့သို့၊ အမှန်တရားကို လက်ခံသူနှင့် ငြင်းပယ်သူသည်လည်း ဘယ်သောအခါမှ တန်းတူမဖြစ်နိုင်ပေ။ ကျွန်ုပ်တို့၏ ဘဝတွင် အလင်းရောင်နှင့် အရိပ်အေးကို ရွေးချယ်နိုင်ရန် ဤအနုပညာက လှုံ့ဆော်ပေးနေသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The repetitive 'Wa la... wa la...' builds a steady contrast.",
+          "meaning_anchor": "Imagine a cool oasis (shade) vs a burning desert (heat).",
+          "daily_connection": "Recited to remember that choices have consequences and results are not equal.",
+          "my": "'ဝလာ... ဝလာ...' ဟူသော စည်းချက်ကို မှတ်ထားပါ။ အေးမြသော အရိပ်နှင့် ပူပြင်းသော လွင်ပြင်ကို ယှဉ်ကြည့်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "This lesson introduced Tibaq, the use of opposites in the Quran. We explored common pairs like Life/Death and Light/Darkness. We learned how these contrasts clarify the absolute nature of Allah's attributes and the choices human beings face.",
+      "my": "ဤသင်ခန်းစာတွင် ကုရ်အာန်ရှိ ဆန့်ကျင်ဘက်အသုံးအနှုန်းဖြစ်သော သီဗားက်ကို မိတ်ဆက်ပေးခဲ့သည်။ ရှင်ခြင်း/သေခြင်းနှင့် အလင်း/အမှောင် ကဲ့သို့သော အတွဲများကို လေ့လာခဲ့သည်။ ဤဆန့်ကျင်ဘက်များသည် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်များနှင့် လူသားများရင်ဆိုင်ရမည့် ရွေးချယ်မှုများကို မည်သို့ထင်ရှားစေကြောင်း သင်ယူခဲ့သည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-274",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 274,
+    "title": {
+      "ar": "البَلَاغَةُ (٢٤) — المُقَابَلَةُ",
+      "en": "Rhetoric XXIV — Muqabala: Extended Antithesis",
+      "my": "စကားအသုံးအနှုန်းအနုပညာ (၂၄) — မုကာဗလား (ဆင့်ကဲဆန့်ကျင်ဘက်များ)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 10,
+      "grammar_focus": "Multiple pairs of opposites in sequence; more complex than Tibāq",
+      "grammar_formula": "(A + B + C) vs (Opposite A + Opposite B + Opposite C)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مُقَابَلَة",
+        "translit": "muqābalah",
+        "en": "extended antithesis/confrontation",
+        "my": "မျက်နှာချင်းဆိုင်ခြင်း/ဆင့်ကဲဆန့်ကျင်ဘက်များ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "مُفَاعَلَة",
+        "root": {
+          "letters": "ق ب ل",
+          "concept_en": "to face or meet",
+          "concept_my": "ရင်ဆိုင်ခြင်း သို့မဟုတ် မျက်နှာချင်းဆိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mu-Kabala (Moving to meet)",
+          "image": "Two armies facing each other in perfect lines",
+          "cross_language": "Urdu/Malay: Muqabala"
+        },
+        "word_family": [
+          {
+            "ar": "قَبْل",
+            "translit": "qabl",
+            "en": "before",
+            "my": "မတိုင်မီ",
+            "freq": 300
+          }
+        ],
+        "pattern_unlock": "Muqabala is Tibaq on a larger scale—at least two opposites compared to two others.",
+        "example": {
+          "ar": "عَلَىٰ سُرُرٍ مُتَقَابِلِينَ",
+          "en": "facing each other on thrones",
+          "my": "ရာဇပလ္လင်များပေါ်တွင် တစ်ဦးနှင့်တစ်ဦး မျက်နှာချင်းဆိုင်လျက်",
+          "ref": "15:47"
+        }
+      },
+      {
+        "word": "أَمَرَ",
+        "translit": "amara",
+        "en": "to command",
+        "my": "အမိန့်ပေးသည်",
+        "quran_freq": 150,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "أ م ر",
+          "concept_en": "to command/order",
+          "concept_my": "အမိန့်ပေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Amir (The one who commands)",
+          "image": "A king pointing his staff",
+          "cross_language": "Urdu: Amr"
+        },
+        "word_family": [
+          {
+            "ar": "أَمْر",
+            "translit": "amr",
+            "en": "command/affair",
+            "my": "အမိန့်/ကိစ္စ",
+            "freq": 200
+          }
+        ],
+        "pattern_unlock": "In Muqabala, 'Amr' (command) often contrasts with 'Nahy' (forbid).",
+        "example": {
+          "ar": "يَأْمُرُهُمْ بِالْمَعْرُوفِ",
+          "en": "He commands them to do good",
+          "my": "သူသည် ၎င်းတို့အား ကောင်းမှုကို ပြုလုပ်ရန် အမိန့်ပေးသည်",
+          "ref": "7:157"
+        }
+      },
+      {
+        "word": "نَهَى",
+        "translit": "nahā",
+        "en": "to forbid",
+        "my": "တားမြစ်သည်",
+        "quran_freq": 45,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ن هـ ي",
+          "concept_en": "to forbid or restrain",
+          "concept_my": "တားဆီးခြင်း သို့မဟုတ် ပိတ်ပင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "No-Ha (No! - sound of forbidding)",
+          "image": "A stop sign",
+          "cross_language": "Urdu: Nahi"
+        },
+        "word_family": [
+          {
+            "ar": "مُنْتَهِي",
+            "translit": "muntahī",
+            "en": "finished",
+            "my": "ပြီးဆုံးသော",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "The direct opposite of Amara.",
+        "example": {
+          "ar": "وَيَنْهَاهُمْ عَنِ الْمُنكَرِ",
+          "en": "and forbids them from evil",
+          "my": "၎င်းတို့အား မကောင်းမှုမှ တားမြစ်သည်",
+          "ref": "7:157"
+        }
+      },
+      {
+        "word": "مَعْرُوف",
+        "translit": "ma'rūf",
+        "en": "recognized good/kindness",
+        "my": "ကောင်းသောအပြုအမူ",
+        "quran_freq": 38,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ع ر ف",
+          "concept_en": "to know/recognize",
+          "concept_my": "သိရှိခြင်း သို့မဟုတ် အသိအမှတ်ပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ma-Roof (Good things stay under the roof)",
+          "image": "A helping hand",
+          "cross_language": "Urdu/Malay: Makruf"
+        },
+        "word_family": [
+          {
+            "ar": "عَرَفَ",
+            "translit": "arafa",
+            "en": "he knew",
+            "my": "သူသိခဲ့သည်",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Contrasted with Munkar in Muqabala.",
+        "example": {
+          "ar": "بِالْمَعْرُوفِ",
+          "en": "with kindness",
+          "my": "ကောင်းမွန်စွာဖြင့်",
+          "ref": "2:228"
+        }
+      },
+      {
+        "word": "مُنْكَر",
+        "translit": "munkar",
+        "en": "evil/unrecognized",
+        "my": "မကောင်းသောအမှု/စက်ဆုပ်ဖွယ်အမှု",
+        "quran_freq": 16,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعَل",
+        "root": {
+          "letters": "ن ك ر",
+          "concept_en": "to ignore or deny",
+          "concept_my": "ငြင်းပယ်ခြင်း သို့မဟုတ် မသိနားမလည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Munkar (Sounds like 'Monker' - monkeying around with evil)",
+          "image": "A dark shadow",
+          "cross_language": "Urdu: Munkar"
+        },
+        "word_family": [
+          {
+            "ar": "أَنكَرَ",
+            "translit": "ankara",
+            "en": "he denied",
+            "my": "သူငြင်းပယ်ခဲ့သည်",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Something the soul does not recognize as good.",
+        "example": {
+          "ar": "وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ",
+          "en": "and forbids immorality and evil",
+          "my": "ညစ်ညမ်းမှုနှင့် မကောင်းမှုတို့ကို တားမြစ်တော်မူသည်",
+          "ref": "16:90"
+        }
+      },
+      {
+        "word": "يُحِلُّ",
+        "translit": "yuḥillu",
+        "en": "he makes lawful",
+        "my": "သူသည် ဟလာလ် (တရားဝင်) ဖြစ်စေသည်",
+        "quran_freq": 10,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفْعِلُ",
+        "root": {
+          "letters": "ح ل ل",
+          "concept_en": "to untie/make lawful",
+          "concept_my": "ဖြေလျှော့ခြင်း သို့မဟုတ် တရားဝင်ဖြစ်စေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Halal (The root)",
+          "image": "An open gate",
+          "cross_language": "Malay: Halal"
+        },
+        "word_family": [
+          {
+            "ar": "حَلَال",
+            "translit": "ḥalāl",
+            "en": "lawful",
+            "my": "တရားဝင်",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "Contrasted with Yuharrimu (makes unlawful).",
+        "example": {
+          "ar": "وَيُحِلُّ لَهُمُ الطَّيِّبَاتِ",
+          "en": "and makes lawful for them the good things",
+          "my": "၎င်းတို့အတွက် ကောင်းမွန်သောအရာများကို တရားဝင်ဖြစ်စေသည်",
+          "ref": "7:157"
+        }
+      },
+      {
+        "word": "يُحَرِّمُ",
+        "translit": "yuḥarrimu",
+        "en": "he makes unlawful",
+        "my": "သူသည် ဟရာမ် (တားမြစ်) ဖြစ်စေသည်",
+        "quran_freq": 15,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفَعِّلُ",
+        "root": {
+          "letters": "ح ر م",
+          "concept_en": "to forbid/make sacred",
+          "concept_my": "တားမြစ်ခြင်း သို့မဟုတ် မြင့်မြတ်စေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Haram (The root)",
+          "image": "A locked chain",
+          "cross_language": "Malay: Haram"
+        },
+        "word_family": [
+          {
+            "ar": "حَرَام",
+            "translit": "ḥarām",
+            "en": "forbidden",
+            "my": "တားမြစ်ထားသော",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Often follows Yuhillu in balanced Muqabala.",
+        "example": {
+          "ar": "وَيُحَرِّمُ عَلَيْهِمُ الْخَبَائِثَ",
+          "en": "and forbids them the evil things",
+          "my": "၎င်းတို့အား မကောင်းသောအရာများကို တားမြစ်သည်",
+          "ref": "7:157"
+        }
+      },
+      {
+        "word": "أَعْطَى",
+        "translit": "a'ṭā",
+        "en": "he gave",
+        "my": "သူပေးခဲ့သည်",
+        "quran_freq": 12,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "ع ط ي",
+          "concept_en": "to give/bestow",
+          "concept_my": "ပေးကမ်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "At-Ta (At the hand - giving)",
+          "image": "An open palm giving a gift",
+          "cross_language": "Urdu: Ata"
+        },
+        "word_family": [
+          {
+            "ar": "أَعْطَيْنَاكَ",
+            "translit": "a'ṭaynāka",
+            "en": "We gave you",
+            "my": "ငါအရှင်သည် သင့်အား ပေးသနားတော်မူခဲ့သည်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Contrasted with 'Bakhila' (was stingy) in Surah Al-Layl.",
+        "example": {
+          "ar": "فَأَمَّا مَنْ أَعْطَىٰ",
+          "en": "As for he who gives",
+          "my": "သို့ဖြစ်လျှင် မည်သူမဆို (အလ္လာဟ်အရှင်မြတ်၏ လမ်းတော်၌) ပေးကမ်းလှူဒါန်းခဲ့လျှင်",
+          "ref": "92:5"
+        }
+      },
+      {
+        "word": "بَخِلَ",
+        "translit": "bakhila",
+        "en": "he was stingy",
+        "my": "သူသည် နှမြောတွန့်တိုခဲ့သည်",
+        "quran_freq": 10,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعِلَ",
+        "root": {
+          "letters": "ب خ ل",
+          "concept_en": "to be stingy/miserly",
+          "concept_my": "စေးနှဲခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Bakhil (Sounds like 'Back-hill' - hiding money behind a hill)",
+          "image": "A fist tightly closed over coins",
+          "cross_language": "Urdu: Bakhil"
+        },
+        "word_family": [
+          {
+            "ar": "بُخْل",
+            "translit": "bukhl",
+            "en": "stinginess",
+            "my": "စေးနှဲမှု",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The spiritual opposite of Giving.",
+        "example": {
+          "ar": "وَأَمَّا مَن بَخِلَ",
+          "en": "But as for he who was stingy",
+          "my": "သို့သော် မည်သူမဆို နှမြောတွန့်တိုခဲ့လျှင်",
+          "ref": "92:8"
+        }
+      },
+      {
+        "word": "تَرْتِيب",
+        "translit": "tartīb",
+        "en": "order/arrangement",
+        "my": "အစီအစဉ်တကျဖြစ်ခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "ر ت ب",
+          "concept_en": "to arrange/order",
+          "concept_my": "စီစဉ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tartib (Sounds like 'Tidy up')",
+          "image": "Books neatly lined up on a shelf",
+          "cross_language": "Urdu/Malay: Tertib"
+        },
+        "word_family": [
+          {
+            "ar": "رَتَّبَ",
+            "translit": "rattaba",
+            "en": "he arranged",
+            "my": "သူစီစဉ်ခဲ့သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Muqabala requires a perfect 'Tartib' of opposites.",
+        "example": {
+          "ar": "بِتَرْتِيبٍ دَقِيقٍ",
+          "en": "with precise order",
+          "my": "တိကျသောအစီအစဉ်ဖြင့်",
+          "ref": "General"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "المُقَابَلَةُ",
+        "en": "Muqabala (Parallelism/Extended Antithesis)",
+        "my": "မုကာဗလား (ဆင့်ကဲဆန့်ကျင်ဘက်များ ယှဉ်တွဲခြင်း)"
+      },
+      "formula": {
+        "display": "Idea (A + B) vs Idea (Opposite A + Opposite B)",
+        "example": "يَأْمُرُهُم بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنِ الْمُنكَرِ",
+        "myanmar_read": "စကားလုံးတစ်လုံးချင်းစီကို ဆန့်ကျင်ဘက်ပြုရုံသာမက စာကြောင်း၏ အစိတ်အပိုင်းအသီးသီးကိုပါ အစီအစဉ်တကျ ဆန့်ကျင်ဘက်ပြုထားခြင်းဖြစ်သည်။",
+        "key_insight": "Muqabala is Tibaq in 'HD'. It creates a complete mirror image of two scenarios."
+      },
+      "explanation": {
+        "en": "While Tibaq is a single pair of opposites (e.g. Life/Death), Muqabala involves comparing two or more concepts with their respective opposites in the same order. This creates a powerful aesthetic balance and highlights the total separation between two paths, such as the path of the righteous versus the path of the wicked.",
+        "my": "သီဗားက်သည် ဆန့်ကျင်ဘက်အတွဲတစ်ခု (ဥပမာ- ရှင်ခြင်း/သေခြင်း) သာဖြစ်သော်လည်း၊ မုကာဗလားသည် အယူအဆနှစ်ခု သို့မဟုတ် နှစ်ခုထက်ပိုသော အရာများကို ၎င်းတို့၏ ဆန့်ကျင်ဘက်များနှင့် အစီအစဉ်တကျ နှိုင်းယှဉ်ပြခြင်းဖြစ်သည်။ ဤသည်မှာ အနုပညာမြောက်လှသော မျှတမှုကို ဖြစ်စေပြီး လမ်းစဉ်နှစ်ခု (ဥပမာ- သူတော်စင်တို့၏လမ်းနှင့် လူဆိုးတို့၏လမ်း) ကြားရှိ လုံးဝကွာခြားမှုကို ပေါ်လွင်စေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese literature, poets use 'parallel contrasts' to describe the fate of kings vs commoners, similar to Muqabala.",
+        "my": "မြန်မာစာပေတွင်လည်း မင်းနှင့် ပြည်သူ၊ ကောင်းကင်နှင့် မြေကြီး စသည်ဖြင့် တစ်ဖက်စီရှိ အရာများကို အချိုးကျ ဆန့်ကျင်ဘက်ပြု ရေးသားလေ့ရှိသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The elements must be arranged in the same order as their opposites (A then B, vs Opposite A then Opposite B).",
+          "rule_my": "ဆန့်ကျင်ဘက်ပြုမည့် အစိတ်အပိုင်းများကို အစီအစဉ်တကျ ထားရှိရမည် (A ပြီးမှ B ဖြစ်လျှင်၊ ၎င်း၏ ဆန့်ကျင်ဘက်တွင်လည်း A ၏ဆန့်ကျင်ဘက် ပြီးမှ B ၏ဆန့်ကျင်ဘက် ဖြစ်ရမည်)။",
+          "example": {
+            "ar": "أَعْطَىٰ وَاتَّقَىٰ vs بَخِلَ وَاسْتَغْنَىٰ",
+            "en": "Gave & Feared vs Withheld & Was Carefree",
+            "my": "ပေးကမ်းပြီး ကြောက်ရွံ့ခြင်း နှင့် နှမြောပြီး မလေးမစားပြုခြင်း"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "The Prophetic Mission",
+          "ar": "يَأْمُرُهُم بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنِ الْمُنكَرِ",
+          "en": "He commands them to do good and forbids them from evil",
+          "my": "အကြင်သူများသည် အကြင်စာပေမတတ်သော တမန်တော်ကို လိုက်နာကြသည်။ ဤသူများသည် ထိုတမန်တော်(၏ အရည်အချင်းလက္ခဏာများ)ကို သူတို့ထံတွင်ရှိသော သောင်ရာသ်ကျမ်းနှင့် အင်ဂျီလ်ကျမ်းထဲတွင် ရေးသားထားသည်ကို တွေ့ရှိကြသည်။ ထိုတမန်တော်သည် သူတို့ကို ကောင်းမှုပြုရန် ညွှန်ကြားပြီး မကောင်းမှုများမှ ရှောင်ကြဉ်ရန် တားမြစ်သည်။ ၎င်းပြင် သူတို့အပေါ်တွင် တင်ရှိနေသော ဝန်ထုပ်ဝန်ပိုးနှင့် လည်ကွင်းစွပ်များကိုလည်း သူတို့အပေါ်မှ ဖယ်ချပေးသည်။ သို့ဖြစ်ရာ အကြင်သူများသည် ထိုတမန်တော်မြတ်အား ယုံကြည်ခဲ့ကြ၍ ၎င်းအား(ရိုသေလေးစား ချစ်ခင်မှုနှင့်တကွ) ကာကွယ်စောင့်ရှောက်ခဲ့ကြသည်သာမက ကူညီရိုင်းပင်းမှုလည်း ပြုခဲ့ကြသည်။ ၎င်းပြင် ထိုတမန်တော်နှင့်အတူတကွ ကျရောက်လာသော လင်းရောင်ခြည်(ကျမ်းတော်မြတ် ကုရ်အာန်)ကိုလည်း နောက်လိုက်မှုပြုခဲ့ကြသည်။ ထိုသူများပင် အောင်မြင်သူများဖြစ်ကြသည်။",
+          "ref": "7:157",
+          "breakdown": {
+            "subject": {
+              "word": "يَأْمُرُ / الْمَعْرُوفِ",
+              "en": "Commands / Good",
+              "note": "Positive side"
+            },
+            "predicate": {
+              "word": "يَنْهَىٰ / الْمُنكَرِ",
+              "en": "Forbids / Evil",
+              "note": "Negative side"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် ကြိယာနှစ်ခု (Amr/Nahy) နှင့် နာမ်နှစ်ခု (Ma'ruf/Munkar) တို့သည် တစ်ခုနှင့်တစ်ခု အချိုးကျ ဆန့်ကျင်ဘက်ဖြစ်နေသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing up the order of opposites.",
+          "wrong": {
+            "ar": "يأمر بالمنكر وينهى عن المعروف",
+            "note": "This changes the theological meaning entirely."
+          },
+          "correct": {
+            "ar": "يَأْمُرُ بِالْمَعْرُوفِ وَيَنْهَى عَنِ الْمُنْكَرِ",
+            "en": "Commands good and forbids evil",
+            "my": "ကောင်းမှုကို အမိန့်ပေး၍ မကောင်းမှုကို တားမြစ်သည်။"
+          },
+          "myanmar_tip": "မုကာဗလားတွင် အစီအစဉ် (Tartib) သည် အလွန်အရေးကြီးကြောင်း သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Count the pairs of opposites in the ayah",
+          "instruction_my": "အာယသ်တော်ရှိ ဆန့်ကျင်ဘက်အတွဲ အရေအတွက်ကို ရေတွက်ပါ။",
+          "questions": [
+            {
+              "q": "فَلْيَضْحَكُوا قَلِيلاً وَلْيَبْكُوا كَثِيراً",
+              "answer_en": "2 pairs (Laugh/Weep, Little/Much)",
+              "answer_my": "၂ တွဲ (ရယ်/ငို၊ နည်း/များ)",
+              "ref": "9:82"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the parallel structure",
+          "instruction_my": "အပြိုင်အဆောက်အအုံကို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "يُحِلُّ لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الْخَبَائِثَ",
+              "answer_en": "Makes lawful the good and forbids the evil",
+              "answer_my": "ကောင်းမွန်ရာများကို တရားဝင်စေ၍ မကောင်းရာများကို တားမြစ်သည်။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Complete the second half of the Muqabala",
+          "instruction_my": "မုကာဗလား၏ ဒုတိယပိုင်းကို ဖြည့်စွက်ပါ။",
+          "questions": [
+            {
+              "q": "يَأْمُرُ بِالْمَعْرُوفِ وَ... [?]",
+              "answer_en": "يَنْهَى عَنِ الْمُنْكَرِ",
+              "answer_my": "ယန်ဟာ အန်နီလ် မွန်ကရ်",
+              "ar": "يَنْهَى عَنِ الْمُنْكَرِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Muqabala shows that life is not gray—there are two distinct paths leading to two distinct destinations. By seeing the contrast so clearly, the heart is motivated to choose the side of light and goodness.",
+        "my": "မုကာဗလားသည် ဘဝသည် မရေမရာမဟုတ်ဘဲ ကွဲပြားသော လမ်းကြောင်းနှစ်ခုရှိကြောင်း ပြသသည်။ ဤသို့ ရှင်းလင်းစွာ ယှဉ်ပြခြင်းဖြင့် နှလုံးသားသည် အလင်းရောင်နှင့် ကောင်းမြတ်မှုရှိရာဘက်ကို ရွေးချယ်ရန် လှုံ့ဆော်မှု ရရှိသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Layl 92:5-10",
+        "study_number": 1,
+        "arabic_full": "فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ * وَصَدَّقَ بِالْحُسْنَىٰ * فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ * وَأَمَّا مَن بَخِلَ وَاسْتَغْنَىٰ * وَكَذَّبَ بِالْحُسْنَىٰ * فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ",
+        "en_sahih": "As for he who gives and fears Allah and believes in the best, We will ease him toward ease. But as for he who is stingy and considers himself free of need and denies the best, We will ease him toward difficulty.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S92_A5",
+        "audio_ref": {
+          "surah": 92,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/092005.mp3"
+        },
+        "qurancom_url": "https://quran.com/92/5",
+        "context": {
+          "en": "The surah compares two types of people and their ultimate ends based on their actions.",
+          "my": "ဤစူရဟ်သည် လူသားနှစ်မျိုးနှင့် ၎င်းတို့၏ လုပ်ရပ်အလိုက် ရရှိမည့် နောက်ဆုံးရလဒ်များကို နှိုင်းယှဉ်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أَعْطَىٰ",
+            "translit": "a'ṭā",
+            "en": "he gave",
+            "my": "သူပေးခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ع ط ي",
+            "freq": 12
+          },
+          {
+            "ar": "بَخِلَ",
+            "translit": "bakhila",
+            "en": "he was stingy",
+            "my": "သူနှမြောခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ب خ ل",
+            "freq": 10
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "A 4-part Muqabala: (Give/Fear/Believe/Ease) vs (Stingy/Indifferent/Deny/Hardship).",
+          "structure_my": "၄ ပိုင်းပါသော မုကာဗလား- (ပေးကမ်း/ကြောက်ရွံ့/ယုံကြည်/လွယ်ကူ) နှင့် (နှမြော/မလေးစား/ငြင်းပယ်/ခက်ခဲ)။",
+          "insight_en": "The parallel is so precise that each verse in the first half has a direct opposite in the second half, showing the absolute justice of Allah.",
+          "insight_my": "ပထမပိုင်းရှိ အာယသ်တော်တိုင်းသည် ဒုတိယပိုင်းရှိ အာယသ်တော်တိုင်းနှင့် တိုက်ရိုက်ဆန့်ကျင်ဘက်ဖြစ်နေခြင်းမှာ အလ္လာဟ်အရှင်မြတ်၏ တရားမျှတမှုကို ဖော်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ق ب ل",
+            "concept_en": "To bring things together to face each other.",
+            "concept_my": "အရာများကို တစ်ခုနှင့်တစ်ခု မျက်နှာချင်းဆိုင်စေခြင်း။",
+            "members": [
+              {
+                "ar": "مُسْتَقْبَل",
+                "en": "future",
+                "my": "အနာဂတ်",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Muqabala is a 'face-off' between truths. It forces the reader to confront the reality of their choices."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "စူရဟ်အလ်လိုင်းလ်ရှိ ဤအာယသ်တော်များသည် ကျွန်ုပ်တို့၏ ဘဝလမ်းစဉ်ကို ရွေးချယ်ရာတွင် အလွန်အရေးကြီးသည်။ ပေးကမ်းသူနှင့် နှမြောသူသည် တူညီသောရလဒ်ကို မရရှိနိုင်ပေ။ ကျွန်ုပ်တို့သည် မည်သည့်လမ်းကို လျှောက်လှမ်းနေသည်ကို ဤမုကာဗလားအနုပညာဖြင့် ကိုယ့်ကိုယ်ကိုယ် ပြန်လည်ဆန်းစစ်ကြည့်သင့်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The symmetry in the verse endings (-ā) creates a beautiful poetic balance.",
+          "meaning_anchor": "Imagine two paths branching out: one shining bright, the other dark and rocky.",
+          "daily_connection": "Recited to encourage generosity and mindfulness of Allah.",
+          "my": "အာယသ်တော်အဆုံးသတ်များရှိ 'အာ' အသံ တူညီမှုကို သတိပြုပါ။ လင်းထိန်သောလမ်းနှင့် မှောင်မိုက်သောလမ်း နှစ်သွယ်ကို မြင်ယောင်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored Muqabala, the extended version of Tibaq. We saw how the Quran uses parallel sequences of opposites to describe the believers and disbelievers. This structure not only adds beauty but reinforces the logical clarity of Islamic teachings.",
+      "my": "ကျွန်ုပ်တို့သည် သီဗားက်၏ အဆင့်မြင့်ပုံစံဖြစ်သော မုကာဗလားကို လေ့လာခဲ့သည်။ ကုရ်အာန်သည် သဒ္ဓါတရားရှိသူများနှင့် ငြင်းပယ်သူများကို ဖော်ပြရာတွင် ဆန့်ကျင်ဘက်အတွဲများကို အစီအစဉ်တကျ မည်သို့သုံးထားကြောင်း တွေ့ရှိခဲ့သည်။ ဤဖွဲ့စည်းပုံသည် အလှအပကို တိုးစေရုံသာမက အစ္စလာမ့်သွန်သင်ချက်များ၏ ရှင်းလင်းမှုကိုလည်း ပိုမိုခိုင်မာစေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-275",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 275,
+    "title": {
+      "ar": "البَلَاغَةُ (٢٥) — الجِنَاسُ",
+      "en": "Rhetoric XXV — Jinas: Wordplay with Similar Sounds",
+      "my": "စကားအသုံးအနှုန်းအနုပညာ (၂၅) — ဂျိနားစ် (အသံတူ အဓိပ္ပာယ်ကွဲ စကားလုံးများ)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 10,
+      "grammar_focus": "Jinās Tāmm (same sound/different meaning) and Jinās Nāqis",
+      "grammar_formula": "Similar Sounds + Distinct Meanings = Rhetorical Wonder"
+    },
+    "section_1_vocab": [
+      {
+        "word": "جِنَاس",
+        "translit": "jinās",
+        "en": "paronomasia/pun",
+        "my": "ဂျိနားစ် (အသံတူ အဓိပ္ပာယ်ကွဲ အနုပညာ)",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ج ن س",
+          "concept_en": "kind/genre/same type",
+          "concept_my": "အမျိုးအစားတူခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Genius (A genius wordplay)",
+          "image": "Two identical-looking bells that ring with different notes",
+          "cross_language": "Urdu/Malay: Jenis (Kind/Type)"
+        },
+        "word_family": [
+          {
+            "ar": "جِنْس",
+            "translit": "jins",
+            "en": "type/gender",
+            "my": "အမျိုးအစား/ကျားမ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Jinas uses words from the same 'Jins' (type of sound) but different meaning.",
+        "example": {
+          "ar": "جِنَاسٌ تَامٌّ",
+          "en": "Complete Jinas",
+          "my": "ပြည့်စုံသော ဂျိနားစ်",
+          "ref": "Grammar"
+        }
+      },
+      {
+        "word": "سَاعَة",
+        "translit": "sā'ah",
+        "en": "hour/Day of Judgment",
+        "my": "နာရီ/ကိယာမသ်နေ့",
+        "quran_freq": 48,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَاعَلَة",
+        "root": {
+          "letters": "س و ع",
+          "concept_en": "a period of time",
+          "concept_my": "အချိန်ကာလတစ်ခု"
+        },
+        "memory_hook": {
+          "sound": "Saa-ah (Sound of a clock)",
+          "image": "An hourglass",
+          "cross_language": "Urdu: Sa'at"
+        },
+        "word_family": [
+          {
+            "ar": "سَاعَات",
+            "translit": "sā'āt",
+            "en": "hours",
+            "my": "နာရီများ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "In Surah Ar-Rum, this word is used in Jinas for two different meanings.",
+        "example": {
+          "ar": "تَقُومُ السَّاعَةُ",
+          "en": "the Hour will be established",
+          "my": "ကိယာမသ်နေ့ ရောက်ရှိလာမည်",
+          "ref": "30:55"
+        }
+      },
+      {
+        "word": "سَاءَ",
+        "translit": "sā'a",
+        "en": "to be bad/evil",
+        "my": "ဆိုးဝါးသည်",
+        "quran_freq": 40,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَالَ",
+        "root": {
+          "letters": "س و أ",
+          "concept_en": "to be bad or harmful",
+          "concept_my": "မကောင်းခြင်း သို့မဟုတ် ဘေးဥပဒ်ဖြစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Saa-a (Sad)",
+          "image": "A dark, stormy cloud",
+          "cross_language": "Urdu: Soo"
+        },
+        "word_family": [
+          {
+            "ar": "سُوء",
+            "translit": "sū'",
+            "en": "evil",
+            "my": "မကောင်းမှု",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "Often sounds similar to other roots starting with Seen.",
+        "example": {
+          "ar": "سَاءَ مَثَلاً",
+          "en": "evil is the example",
+          "my": "ပုံပမာမှာ ဆိုးဝါးလှသည်",
+          "ref": "7:177"
+        }
+      },
+      {
+        "word": "تَامّ",
+        "translit": "tāmm",
+        "en": "complete/perfect",
+        "my": "ပြည့်စုံသော",
+        "quran_freq": 1,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ت م م",
+          "concept_en": "to be complete",
+          "concept_my": "ပြီးပြည့်စုံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tam-m (Total)",
+          "image": "A full moon",
+          "cross_language": "Urdu: Tammam"
+        },
+        "word_family": [
+          {
+            "ar": "أَتْمَمْتُ",
+            "translit": "atmamtu",
+            "en": "I completed",
+            "my": "ငါအရှင်သည် ပြည့်စုံစေခဲ့သည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Jinas Tamm is when two words are identical in sound.",
+        "example": {
+          "ar": "كَلِمَةً تَامَّةً",
+          "en": "a perfect word",
+          "my": "ပြည့်စုံသောစကားလုံး",
+          "ref": "General"
+        }
+      },
+      {
+        "word": "نَاقِص",
+        "translit": "nāqiṣ",
+        "en": "incomplete/deficient",
+        "my": "မပြည့်စုံသော/ချို့ယွင်းသော",
+        "quran_freq": 0,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ن ق ص",
+          "concept_en": "to decrease or lack",
+          "concept_my": "လျော့နည်းခြင်း သို့မဟုတ် လိုအပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Na-qis (No-kiss: lacking love)",
+          "image": "A puzzle with a missing piece",
+          "cross_language": "Urdu: Naqis"
+        },
+        "word_family": [
+          {
+            "ar": "نَقْص",
+            "translit": "naqṣ",
+            "en": "decrease",
+            "my": "လျော့နည်းမှု",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "Jinas Naqis is when words are similar but not identical.",
+        "example": {
+          "ar": "جِنَاسٌ نَاقِصٌ",
+          "en": "incomplete Jinas",
+          "my": "မပြည့်စုံသော ဂျိနားစ်",
+          "ref": "Grammar"
+        }
+      },
+      {
+        "word": "لَحْظَة",
+        "translit": "laḥẓah",
+        "en": "moment/glance",
+        "my": "ခဏတာ/တစ်ချက်ကြည့်ခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "ل ح ظ",
+          "concept_en": "to look at or notice",
+          "concept_my": "ကြည့်ရှုခြင်း သို့မဟုတ် သတိပြုမိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Lah-za (Lost in a moment)",
+          "image": "A quick blink of an eye",
+          "cross_language": "Urdu: Lamha/Lahza"
+        },
+        "word_family": [
+          {
+            "ar": "يُلَاحِظُ",
+            "translit": "yulāḥiẓu",
+            "en": "he notices",
+            "my": "သူသတိပြုမိသည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Jinas highlights subtle differences in a 'Lahza' (moment).",
+        "example": {
+          "ar": "فِي لَحْظَةٍ",
+          "en": "in a moment",
+          "my": "ခဏချင်းအတွင်း",
+          "ref": "General"
+        }
+      },
+      {
+        "word": "يَقْسِمُ",
+        "translit": "yaqsimu",
+        "en": "he swears/divides",
+        "my": "သူကျိန်ဆိုသည်/ခွဲဝေသည်",
+        "quran_freq": 20,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعِلُ",
+        "root": {
+          "letters": "ق س م",
+          "concept_en": "to divide or swear",
+          "concept_my": "ခွဲဝေခြင်း သို့မဟုတ် ကျိန်ဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qasim (The divider)",
+          "image": "A hand placing a palm on a book to swear",
+          "cross_language": "Urdu: Qasam"
+        },
+        "word_family": [
+          {
+            "ar": "قَسَم",
+            "translit": "qasam",
+            "en": "oath",
+            "my": "ကျိန်ဆိုချက်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The word 'Yuqsimu' is part of the central Jinas example in the Quran.",
+        "example": {
+          "ar": "وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ",
+          "en": "And the Day the Hour is established, they swear",
+          "my": "ကိယာမသ်နေ့ ရောက်ရှိလာသောနေ့တွင် ၎င်းတို့သည် ကျိန်ဆိုကြလိမ့်မည်",
+          "ref": "30:55"
+        }
+      },
+      {
+        "word": "مُجْرِمُون",
+        "translit": "mujrimūn",
+        "en": "criminals/sinners",
+        "my": "ပြစ်မှုကျူးလွန်သူများ",
+        "quran_freq": 52,
+        "word_type": "Noun",
+        "gender": "Plural",
+        "wazn": "مُفْعِلُون",
+        "root": {
+          "letters": "ج ر م",
+          "concept_en": "to commit a crime",
+          "concept_my": "ပြစ်မှုကျူးလွန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mujrim (Sounds like 'Grim')",
+          "image": "Handcuffs",
+          "cross_language": "Urdu: Mujrim"
+        },
+        "word_family": [
+          {
+            "ar": "جُرْم",
+            "translit": "jurm",
+            "en": "crime",
+            "my": "ပြစ်မှု",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Those who realize the Jinas of the world too late.",
+        "example": {
+          "ar": "يُقْسِمُ الْمُجْرِمُونَ",
+          "en": "the criminals swear",
+          "my": "ပြစ်မှုကျူးလွန်သူများသည် ကျိန်ဆိုကြလိမ့်မည်",
+          "ref": "30:55"
+        }
+      },
+      {
+        "word": "لَبِثُوا",
+        "translit": "labithū",
+        "en": "they stayed/remained",
+        "my": "၎င်းတို့ နေထိုင်ခဲ့ကြသည်",
+        "quran_freq": 22,
+        "word_type": "Verb",
+        "gender": "Plural",
+        "wazn": "فَعِلُوا",
+        "root": {
+          "letters": "ل ب ث",
+          "concept_en": "to stay or tarry",
+          "concept_my": "ရပ်နားခြင်း သို့မဟုတ် နေထိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "La-bith (Stayed a bit)",
+          "image": "A person sitting on a bench",
+          "cross_language": "Urdu: Labis"
+        },
+        "word_family": [
+          {
+            "ar": "لَابِثِين",
+            "translit": "lābithīn",
+            "en": "remaining",
+            "my": "နေထိုင်သူများ",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "Used in the context of time, contrasting the world and afterlife.",
+        "example": {
+          "ar": "مَا لَبِثُوا غَيْرَ سَاعَةٍ",
+          "en": "they stayed but an hour",
+          "my": "၎င်းတို့သည် တစ်နာရီထက်မပိုဘဲ နေထိုင်ခဲ့ကြသည်",
+          "ref": "30:55"
+        }
+      },
+      {
+        "word": "تَشَابُه",
+        "translit": "tashābuh",
+        "en": "similarity",
+        "my": "ဆင်တူခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفَاعُل",
+        "root": {
+          "letters": "ش ب هـ",
+          "concept_en": "to be similar/resemble",
+          "concept_my": "တူညီခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tashabuh (Sounds like 'To shabby' - similar old clothes)",
+          "image": "Two twins",
+          "cross_language": "Urdu: Mushabahat"
+        },
+        "word_family": [
+          {
+            "ar": "مُتَشَابِه",
+            "translit": "mutashābih",
+            "en": "similar",
+            "my": "တူညီသော",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Jinas relies on the 'Tashabuh' of sounds.",
+        "example": {
+          "ar": "تَشَابُهُ الأَصْوَاتِ",
+          "en": "similarity of sounds",
+          "my": "အသံများ ဆင်တူခြင်း",
+          "ref": "General"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الجِنَاسُ",
+        "en": "Jinas (Paronomasia/Wordplay)",
+        "my": "ဂျိနားစ် (အသံတူ အဓိပ္ပာယ်ကွဲ အနုပညာ)"
+      },
+      "formula": {
+        "display": "Same Letters/Sounds + Different Meanings = Spiritual Impact",
+        "example": "يَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُوا غَيْرَ سَاعَةٍ",
+        "myanmar_read": "အသံချင်းတူသော်လည်း အဓိပ္ပာယ်မတူသော စကားလုံးနှစ်ခုကို သုံးခြင်းဖြင့် နားထောင်သူကို အံ့အားသင့်စေကာ ပိုမိုအာရုံစိုက်စေသည်။",
+        "key_insight": "Jinas makes you pause and realize that the same 'sound' in this world might have a completely different 'weight' in the Next."
+      },
+      "explanation": {
+        "en": "Jinas is the use of two words that sound similar but carry different meanings. 'Jinas Tamm' is when the words are identical (like 'Sa'ah' for Judgment Day vs 'Sa'ah' for an hour). 'Jinas Naqis' is when they are very close but vary in one or two letters. It adds a musical quality and deepens the rhetorical impact of the verse.",
+        "my": "ဂျိနားစ်ဆိုသည်မှာ အသံထွက်ဆင်တူသော်လည်း အဓိပ္ပာယ်ကွဲပြားသော စကားလုံးနှစ်ခုကို အသုံးပြုခြင်းဖြစ်သည်။ 'ဂျိနားစ် သားမ်' သည် စကားလုံးနှစ်လုံး လုံးဝတူညီနေခြင်းဖြစ်သည် (ဥပမာ- စအဟ် - ကိယာမသ်နေ့ နှင့် စအဟ် - တစ်နာရီ)။ 'ဂျိနားစ် နားကစ်' မှာမူ အသံထွက် အလွန်နီးစပ်သော်လည်း စာလုံးတစ်လုံး သို့မဟုတ် နှစ်လုံး ကွဲပြားခြင်းဖြစ်သည်။ ဤသည်မှာ စာသားကို တေးဂီတကဲ့သို့ အသံထွက်စေပြီး အဓိပ္ပာယ်ကို ပိုမိုလေးနက်စေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese poetry uses 'Karany' (Rhyme) and puns that rely on tonal shifts, which is similar in spirit to Jinas.",
+        "my": "မြန်မာကဗျာများတွင်လည်း 'ကာရန်' နှင့် 'အသံတူ အဓိပ္ပာယ်ကွဲ' စကားလုံးများကို အသုံးပြု၍ စာသားကို ပိုမိုလှပအောင် ဖန်တီးလေ့ရှိသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "In Jinas Tamm, the words must match in four aspects: type of letters, their order, their vowel marks (harakat), and their number.",
+          "rule_my": "ဂျိနားစ်သားမ်တွင် စကားလုံးနှစ်ခုသည် စာလုံးအမျိုးအစား၊ အစီအစဉ်၊ ဟရကသ် (သရ) နှင့် အရေအတွက်တို့ လုံးဝတူညီရမည်။",
+          "example": {
+            "ar": "السَّاعَةُ (Judgment) vs السَّاعَةُ (Hour)",
+            "en": "The Hour vs The Hour",
+            "my": "ကိယာမသ်နေ့ နှင့် တစ်နာရီ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "The Ultimate Jinas Tamm",
+          "ar": "وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُوا غَيْرَ سَاعَةٍ",
+          "en": "And the Day the Hour is established the criminals will swear they remained but an hour",
+          "my": "ထို့ပြင် ကိယာမသ်ဆိုက်ရောက်မည့်နေ့တွင် အပြစ်ကျူးလွန်ခဲ့ကြသည့်သူများက သူတို့သည် အချိန်အနည်းငယ်ထက် ပိုမနေခဲ့ကြရပေဟု ကျိန်ပြောကြမည်။ သူတို့သည် ဤသို့ပင်(လောကီတွင် လိမ်လည်ကျိန်ဆိုပြီး) လှည့်စားခံခဲ့ကြရသည်။",
+          "ref": "30:55",
+          "breakdown": {
+            "subject": {
+              "word": "السَّاعَةُ (1)",
+              "en": "The Day of Judgment",
+              "note": "The major time"
+            },
+            "predicate": {
+              "word": "سَاعَةٍ (2)",
+              "en": "An hour",
+              "note": "The minor time"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'စအဟ်' ဟူသော စကားလုံးကို တစ်နေရာတည်းတွင် နှစ်မျိုးသုံးထားပြီး လောကီဘဝ၏ တိုတောင်းမှုကို ထင်ရှားစေသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking the words must mean the same thing if they sound the same.",
+          "wrong": {
+            "ar": "نفس المعنى",
+            "note": "Thinking both 'Sa'ah' refer to 60 minutes."
+          },
+          "correct": {
+            "ar": "تَشَابُهٌ فِي اللَّفْظِ وَاخْتِلَافٌ فِي المَعْنَى",
+            "en": "Similar in word, different in meaning",
+            "my": "အသံချင်းတူသော်လည်း အဓိပ္ပာယ်ကွဲပြားသည်။"
+          },
+          "myanmar_tip": "စကားလုံးတူသော်လည်း အကြောင်းအရာအလိုက် အဓိပ္ပာယ်ကွဲပြားနိုင်ကြောင်း သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Jinas pair in the ayah",
+          "instruction_my": "အာယသ်တော်ရှိ ဂျိနားစ်အတွဲကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "وَجِئْتُكَ مِن سَبَإٍ بِنَبَإٍ يَقِينٍ",
+              "answer_en": "Saba'in and Naba'in",
+              "answer_my": "စဗာအင်းန် နှင့် နဗာအင်းန် (ဂျိနားစ် နားကစ်)",
+              "ref": "27:22"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the Jinas words according to their context",
+          "instruction_my": "ဂျိနားစ် စကားလုံးများကို အခြေအနေအရ ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "السَّاعَةُ (1) ... سَاعَةٍ (2)",
+              "answer_en": "Judgment Day ... An hour",
+              "answer_my": "ကိယာမသ်နေ့ ... တစ်နာရီ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Identify if the pair is Jinas Tamm or Naqis",
+          "instruction_my": "အောက်ပါအတွဲသည် ဂျိနားစ် သားမ် (သို့မဟုတ်) နားကစ် ဖြစ်ကြောင်း ခွဲခြားပါ။",
+          "questions": [
+            {
+              "q": "سَبَإٍ / نَبَإٍ",
+              "answer_en": "Jinas Naqis",
+              "answer_my": "ဂျိနားစ် နားကစ်",
+              "ar": "جِنَاسٌ نَاقِصٌ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Jinas highlights the deceptive similarity between this life and the next. Just as the words sound the same but are worlds apart in weight, our daily 'hours' can either be empty or filled with the weight of the Eternal Hour.",
+        "my": "ဂျိနားစ်သည် ဤလောကနှင့် နောင်ဘဝကြားရှိ လှည့်စားတတ်သော တူညီမှုများကို ဖော်ပြသည်။ စကားလုံးများမှာ အသံတူသော်လည်း အဓိပ္ပာယ်မှာ ကောင်းကင်နှင့်မြေကြီးကဲ့သို့ ကွာခြားသကဲ့သို့၊ ကျွန်ုပ်တို့၏ နေ့စဉ် 'နာရီများ' သည်လည်း အနှစ်မဲ့ဖြစ်နိုင်သလို ထာဝရကိယာမသ်နေ့အတွက် တန်ဖိုးရှိသော အရာများလည်း ဖြစ်နိုင်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Ar-Rum 30:55",
+        "study_number": 1,
+        "arabic_full": "وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُوا غَيْرَ سَاعَةٍ",
+        "en_sahih": "And the Day the Hour is established the criminals will swear they remained but an hour. Thus they were deluded.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S30_A55",
+        "audio_ref": {
+          "surah": 30,
+          "ayah": 55,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/030055.mp3"
+        },
+        "qurancom_url": "https://quran.com/30/55",
+        "context": {
+          "en": "Describing the scene on the Day of Judgment where people realize how short their worldly life was.",
+          "my": "ကိယာမသ်နေ့တွင် လူသားများသည် မိမိတို့၏ လောကီဘဝသည် မည်မျှတိုတောင်းခဲ့ကြောင်း သိရှိသွားကြမည့် မြင်ကွင်းကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "السَّاعَةُ",
+            "translit": "al-sā'ah",
+            "en": "the Hour (Judgment)",
+            "my": "ကိယာမသ်နေ့",
+            "role_en": "Subject",
+            "role_my": "ကတ္တား",
+            "root": "س و ع",
+            "freq": 48
+          },
+          {
+            "ar": "سَاعَةٍ",
+            "translit": "sā'atin",
+            "en": "an hour (Time)",
+            "my": "တစ်နာရီ",
+            "role_en": "Object",
+            "role_my": "ကံ",
+            "root": "س و ع",
+            "freq": 48
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Classic Jinas Tamm (Complete Paronomasia) between two identical nouns.",
+          "structure_my": "လုံးဝတူညီသော နာမ်နှစ်ခုကြားရှိ ဂျိနားစ်သားမ် (ပြည့်စုံသော အသံတူအဓိပ္ပာယ်ကွဲ) ပုံစံဖြစ်သည်။",
+          "insight_en": "The first 'Al-Sa'ah' is definite (The Great Hour), while the second is indefinite 'Sa'atin' (a mere little hour), emphasizing the insignificance of the world compared to the Afterlife.",
+          "insight_my": "ပထမ 'စအဟ်' တွင် 'Al' ပါရှိပြီး ကြီးကျယ်သောနေ့ကို ဆိုလိုသော်လည်း ဒုတိယ 'စအဟ်' မှာမူ သာမန်တစ်နာရီမျှသာ ဖြစ်သဖြင့် လောကီဘဝ၏ အရေးမပါမှုကို ပေါ်လွင်စေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ج ن س",
+            "concept_en": "To belong to the same species or category.",
+            "concept_my": "အမျိုးအစားတူ သို့မဟုတ် မျိုးနွယ်တူဖြစ်ခြင်း။",
+            "members": [
+              {
+                "ar": "مُجَانِس",
+                "en": "homogeneous",
+                "my": "တစ်သားတည်းဖြစ်သော",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Jinas reminds us that outward appearance (sound) can be the same, but the inner reality (meaning) determines everything."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ကျွန်ုပ်တို့ကို သတိသံဝေဂရစေသည်။ ကိယာမသ်နေ့တွင် လူဆိုးများသည် လောကတွင် တစ်နာရီမျှသာ နေခဲ့ရသည်ဟု ကျိန်ဆိုကြလိမ့်မည်။ ကျွန်ုပ်တို့၏ ဘဝတွင် ကုန်ဆုံးသွားသော နာရီတိုင်းသည် နောင်ဘဝ၏ 'နာရီ' အတွက် အကျိုးရှိရန် လိုအပ်သည်။ ဂျိနားစ်အနုပညာက ကျွန်ုပ်တို့အား အပေါ်ယံတူညီမှုများထက် အတွင်းအဓိပ္ပာယ်ကို ကြည့်ရန် သင်ကြားပေးသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The word 'Sa'ah' anchors the beginning and the end of the thought.",
+          "meaning_anchor": "A massive clock tower (Judgment) casting a shadow over a small wrist watch (60 minutes).",
+          "daily_connection": "Recited when one feels life is moving too fast or when needing a reminder of the Hereafter.",
+          "my": "'စအဟ်' ဟူသော စကားလုံးကို အဓိကထား၍ အလွတ်ကျက်ပါ။ ကြီးမားသော နာရီစင်ကြီးနှင့် လက်ပတ်နာရီလေးကို နှိုင်းယှဉ်မြင်ယောင်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We completed our study of Jinas (Wordplay), learning about the difference between Jinas Tamm (complete) and Jinas Naqis (incomplete). We saw how the Quran uses this device to contrast the fleeting nature of time in this world with the absolute reality of the Day of Judgment.",
+      "my": "ကျွန်ုပ်တို့သည် ဂျိနားစ် (အသံတူအဓိပ္ပာယ်ကွဲ) အနုပညာကို ဂျိနားစ်သားမ်နှင့် ဂျိနားစ်နားကစ် ဟူ၍ ခွဲခြားသင်ယူခဲ့သည်။ ကုရ်အာန်သည် ဤနည်းလမ်းကို အသုံးပြု၍ လောကီအချိန်၏ တိုတောင်းမှုနှင့် ကိယာမသ်နေ့၏ ပကတိအရှိတရားတို့ကို မည်သို့နှိုင်းယှဉ်ပြထားကြောင်း လေ့လာခဲ့သည်။"
+    }
+  }
+]

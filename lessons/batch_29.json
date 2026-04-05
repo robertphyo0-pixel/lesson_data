@@ -1,0 +1,2451 @@
+[
+  {
+    "lesson_id": "L3-141",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 141,
+    "title": {
+      "ar": "الاسْمُ الْمَوْصُولُ (١) — الَّذِي",
+      "en": "Relative Pronouns I — Alladhī",
+      "my": "ဆက်စပ်နာမ်စား (၁) — الَّذِي (အကြင်သူ/အကြင်အရာ)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Alladhī + Sila clause; antecedent agreement",
+      "grammar_formula": "Noun (Masculine Singular) + الَّذِي + Clause"
+    },
+    "section_1_vocab": [
+      {
+        "word": "الَّذِي",
+        "translit": "alladhī",
+        "en": "the one who / that which",
+        "my": "အကြင်သူ / အကြင်အရာ (အနည်းကိန်း၊ မလိင်)",
+        "quran_freq": 300,
+        "word_type": "Pronoun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ل ذ ي",
+          "concept_en": "relative connection",
+          "concept_my": "ဆက်နွယ်မှု"
+        },
+        "memory_hook": {
+          "sound": "A-Lady (but for a man)",
+          "image": "A pointing finger connecting a person to an action",
+          "cross_language": "Urdu: Jo / Jis ne"
+        },
+        "word_family": [
+          {
+            "ar": "الَّذِينَ",
+            "translit": "alladhīna",
+            "en": "those who",
+            "my": "အကြင်သူအပေါင်း",
+            "freq": 1080
+          }
+        ],
+        "pattern_unlock": "Words starting with 'Al-' and containing 'Dh' often act as connectors in Arabic.",
+        "example": {
+          "ar": "الَّذِي جَعَلَ",
+          "en": "[He] who made",
+          "my": "အကြင်သူသည် ပြုလုပ်တော်မူခဲ့၏",
+          "ref": "2:22"
+        }
+      },
+      {
+        "word": "آمَنَ",
+        "translit": "āmana",
+        "en": "he believed",
+        "my": "သူသည် ယုံကြည်ခဲ့သည်",
+        "quran_freq": 537,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "safety, security, faith",
+          "concept_my": "ဘေးကင်းလုံခြုံမှု၊ သက်ဝင်ယုံကြည်မှု"
+        },
+        "memory_hook": {
+          "sound": "Amen",
+          "image": "A person feeling safe and secure in their heart",
+          "cross_language": "Myanmar: အာမေန် (Amen)"
+        },
+        "word_family": [
+          {
+            "ar": "إِيمَان",
+            "translit": "īmān",
+            "en": "faith",
+            "my": "အီမာန် (ယုံကြည်ချက်)",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "The 'Aa' sound at the start of roots often indicates a causative or intensive action in Form IV.",
+        "example": {
+          "ar": "الَّذِي آمَنَ",
+          "en": "the one who believed",
+          "my": "ယုံကြည်ခဲ့သောသူ",
+          "ref": "2:257"
+        }
+      },
+      {
+        "word": "خَلَقَ",
+        "translit": "khalaqa",
+        "en": "he created",
+        "my": "သူသည် ဖန်ဆင်းခဲ့သည်",
+        "quran_freq": 261,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "خ ل ق",
+          "concept_en": "creation, proportion",
+          "concept_my": "ဖန်ဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khalq",
+          "image": "A potter molding clay",
+          "cross_language": "Urdu: Khaliq"
+        },
+        "word_family": [
+          {
+            "ar": "خَلْق",
+            "translit": "khalq",
+            "en": "creation",
+            "my": "ဖန်ဆင်းခံ",
+            "freq": 52
+          }
+        ],
+        "pattern_unlock": "This basic 3-letter pattern is the simplest past tense verb form.",
+        "example": {
+          "ar": "الَّذِي خَلَقَ",
+          "en": "[He] who created",
+          "my": "ဖန်ဆင်းတော်မူသောသူ",
+          "ref": "96:1"
+        }
+      },
+      {
+        "word": "أَطْعَمَ",
+        "translit": "at'ama",
+        "en": "he fed",
+        "my": "သူသည် ကျွေးမွေးခဲ့သည်",
+        "quran_freq": 15,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "ط ع م",
+          "concept_en": "food, tasting",
+          "concept_my": "စားဖွယ်၊ မြည်းစမ်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "At-Tam (Time to eat)",
+          "image": "Giving a plate of food to someone",
+          "cross_language": "Malay: Makan"
+        },
+        "word_family": [
+          {
+            "ar": "طَعَام",
+            "translit": "ta'ām",
+            "en": "food",
+            "my": "အစားအစာ",
+            "freq": 48
+          }
+        ],
+        "pattern_unlock": "Form IV (Af'ala) often means 'making someone do something' (making someone eat = feeding).",
+        "example": {
+          "ar": "الَّذِي أَطْعَمَهُمْ",
+          "en": "Who has fed them",
+          "my": "သူတို့ကို ကျွေးမွေးတော်မူသောသူ",
+          "ref": "106:4"
+        }
+      },
+      {
+        "word": "عَلَّمَ",
+        "translit": "allama",
+        "en": "he taught",
+        "my": "သူသည် သင်ကြားပေးခဲ့သည်",
+        "quran_freq": 854,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "knowledge",
+          "concept_my": "အသိပညာ"
+        },
+        "memory_hook": {
+          "sound": "Alim (Scholar)",
+          "image": "A teacher pointing to a board",
+          "cross_language": "Myanmar: အာလင်မ် (Scholar)"
+        },
+        "word_family": [
+          {
+            "ar": "عِلْم",
+            "translit": "ilm",
+            "en": "knowledge",
+            "my": "ပညာ",
+            "freq": 105
+          }
+        ],
+        "pattern_unlock": "The shadda (doubling) on the middle letter often indicates teaching or intensive action.",
+        "example": {
+          "ar": "الَّذِي عَلَّمَ",
+          "en": "[He] who taught",
+          "my": "သင်ကြားပြသတော်မူသောသူ",
+          "ref": "96:4"
+        }
+      },
+      {
+        "word": "جَعَلَ",
+        "translit": "ja'ala",
+        "en": "he made / placed",
+        "my": "သူသည် ပြုလုပ်ခဲ့သည် / ထားရှိခဲ့သည်",
+        "quran_freq": 346,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ج ع ل",
+          "concept_en": "making, appointing",
+          "concept_my": "ပြုလုပ်ခြင်း၊ သတ်မှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Jack (makes things)",
+          "image": "Someone placing a piece on a board",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "يَجْعَلُ",
+            "translit": "yaj'alu",
+            "en": "he makes",
+            "my": "သူပြုလုပ်သည်",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "This is a high-frequency functional verb used for states of being or physical placement.",
+        "example": {
+          "ar": "الَّذِي جَعَلَ لَكُمُ",
+          "en": "[He] who made for you",
+          "my": "အကြင်အရှင်သည် သင်တို့အတွက် ပြုလုပ်ပေးတော်မူခဲ့၏",
+          "ref": "2:22"
+        }
+      },
+      {
+        "word": "هَدَى",
+        "translit": "hadā",
+        "en": "he guided",
+        "my": "သူသည် လမ်းညွှန်ခဲ့သည်",
+        "quran_freq": 316,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ه د ي",
+          "concept_en": "guidance",
+          "concept_my": "လမ်းညွှန်မှု"
+        },
+        "memory_hook": {
+          "sound": "Hidayah",
+          "image": "A lighthouse in the dark",
+          "cross_language": "Myanmar: ဟိဒါယသ် (Guidance)"
+        },
+        "word_family": [
+          {
+            "ar": "هُدًى",
+            "translit": "hudan",
+            "en": "guidance",
+            "my": "တရားလမ်းညွှန်",
+            "freq": 85
+          }
+        ],
+        "pattern_unlock": "Verbs ending in Alif Maqsura (ى) often represent spiritual or internal processes.",
+        "example": {
+          "ar": "الَّذِي هَدَى",
+          "en": "Who guided",
+          "my": "လမ်းညွှန်တော်မူခဲ့သောသူ",
+          "ref": "87:3"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الاسْمُ الْمَوْصُولُ",
+        "en": "The Relative Pronoun",
+        "my": "ဆက်စပ်နာမ်စား (Relative Pronoun)"
+      },
+      "formula": {
+        "display": "Noun (Singular/Masc) + الَّذِي + Description/Action",
+        "example": "الرَّجُلُ الَّذِي آمَنَ (The man who believed)",
+        "myanmar_read": "ရှေ့က နာမ်ကို နောက်က ဝါကျနဲ့ ဆက်ပေးတဲ့ စကားလုံး",
+        "key_insight": "Alladhī acts like a bridge or a hook that connects a noun to more information about it."
+      },
+      "explanation": {
+        "en": "The word 'Alladhī' is a relative pronoun used for masculine singular nouns. It functions like 'who' or 'which' in English. In Arabic, it requires a following clause (Sila) to complete its meaning, providing specific details about the noun it refers to.",
+        "my": "الَّذِي (အလ်လာဇီ) သည် အနည်းကိန်း၊ မလိင် နာမ်များအတွက် အသုံးပြုသော ဆက်စပ်နာမ်စား ဖြစ်သည်။ မြန်မာလို 'အကြင်သူ၊ အကြင်အရာ' ဟု အဓိပ္ပာယ်ရသည်။ ၎င်း၏နောက်တွင် ထိုသူ သို့မဟုတ် ထိုအရာက ဘာလုပ်ခဲ့သည်၊ ဘယ်လိုဖြစ်သည်ဆိုသော နောက်ဆက်တွဲ စာသား (Sila) အမြဲပါဝင်ရမည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we often use the suffix 'သော' (thaw) to turn a phrase into a description. While 'Alladhī' comes after the noun in Arabic, the 'သော' phrase in Myanmar often precedes the final noun or acts as a modifier.",
+        "my": "မြန်မာဘာသာတွင် 'သော' (ဥပမာ- ဖန်ဆင်းတော်မူ'သော' အရှင်) ဟူသော စကားလုံးနှင့် ဆင်တူသည်။ အာရဗီတွင် 'Alladhī' သည် နာမ်၏နောက်တွင် လာသော်လည်း မြန်မာပြန်တွင် ရှေ့မှ ပြန်ဆိုလေ့ရှိသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Agreement in Gender: Alladhī is only used for Masculine Singular nouns.",
+          "rule_my": "ကျား/မ လိုက်လျောညီထွေမှု - الَّذِي ကို မလိင်၊ အနည်းကိန်း နာမ်များအတွက်သာ သုံးရမည်။",
+          "example": {
+            "ar": "الْكِتَابُ الَّذِي",
+            "en": "The book which...",
+            "my": "အကြင်စာအုပ်သည်..."
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "الَّذِي خَلَقَ",
+          "en": "Who created",
+          "my": "(၁) အသင်(တမန်တော်)သည် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ နာမတော်ဖြင့်(အစပြု)ဖတ်ပါ။ ထိုအရှင်မြတ်သည် (အရာရာကို) ဖန်ဆင်းတော်မူခဲ့သည်။",
+          "ref": "96:1",
+          "breakdown": {
+            "subject": {
+              "word": "الَّذِي",
+              "en": "The one who",
+              "note": "Relative pronoun"
+            },
+            "predicate": {
+              "word": "خَلَقَ",
+              "en": "created",
+              "note": "Verb following Alladhi"
+            }
+          },
+          "myanmar_insight": "Alladhī သည် ဤနေရာတွင် အလ္လာဟ်အရှင်မြတ်ကို ရည်ညွှန်းပြီး ဖန်ဆင်းခြင်း ဂုဏ်တော်နှင့် ဆက်စပ်ပေးထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using Alladhī for plural nouns",
+          "wrong": {
+            "ar": "الْمُؤْمِنُونَ الَّذِي",
+            "note": "Alladhī is singular, but Mu'minuna is plural"
+          },
+          "correct": {
+            "ar": "الْمُؤْمِنُ الَّذِي",
+            "en": "The believer who",
+            "my": "ယုံကြည်သူ (တစ်ဦး)"
+          },
+          "myanmar_tip": "အရေအတွက်ကို အမြဲသတိပြုပါ။ တစ်ယောက်တည်းဆိုရင် الَّذِي ကို သုံးပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the word Alladhī and the noun it describes",
+          "instruction_my": "الَّذِي နှင့် ၎င်းဖော်ပြသော နာမ်ကို ရှာဖွေပါ",
+          "questions": [
+            {
+              "q": "الرَّسُولُ الَّذِي عَلَّمَ",
+              "answer_en": "Alladhī refers to The Messenger",
+              "answer_my": "الَّذِي သည် တမန်တော်မြတ်ကို ရည်ညွှန်းသည်",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "الَّذِي هَدَى",
+              "answer_en": "The one who guided",
+              "answer_my": "လမ်းညွှန်ခဲ့သောသူ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Connect the noun with Alladhī",
+          "instruction_my": "နာမ်နှင့် الَّذِي ကို ဆက်စပ်ပါ",
+          "questions": [
+            {
+              "q": "الْبَيْتُ + (was built)",
+              "answer_en": "The house which (was built)",
+              "answer_my": "အကြင်အိမ်သည်...",
+              "ar": "الْبَيْتُ الَّذِي"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The use of 'Alladhī' in the Quran often links Allah's Being to His magnificent actions, teaching us to recognize the Creator through His work.",
+        "my": "ကုရ်အာန်တွင် 'Alladhī' ကို အသုံးပြုခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ ဖြစ်တည်မှုကို ၎င်း၏ ကြီးကျယ်သော လုပ်ဆောင်ချက်များ (ဖန်ဆင်းခြင်း၊ ကျွေးမွေးခြင်း) နှင့် ချိတ်ဆက်ပြပြီး အရှင်မြတ်ကို သိရှိနားလည်စေရန် သင်ကြားပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Alaq 96:1",
+        "study_number": 1,
+        "arabic_full": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+        "en_sahih": "Recite in the name of your Lord who created",
+        "my_mmsy": "(၁) အသင်(တမန်တော်)သည် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ နာမတော်ဖြင့်(အစပြု)ဖတ်ပါ။ ထိုအရှင်မြတ်သည် (အရာရာကို) ဖန်ဆင်းတော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 96,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/096001.mp3"
+        },
+        "qurancom_url": "https://quran.com/96/1",
+        "context": {
+          "en": "These were the very first verses revealed to Prophet Muhammad (PBUH) in the cave of Hira.",
+          "my": "ဤသည်မှာ ဟိရာဂူတွင် တမန်တော်မြတ် (ဆွ) ထံသို့ အဦးဆုံး ကျရောက်လာသော အာယသ်တော်များ ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الَّذِي",
+            "translit": "alladhī",
+            "en": "who",
+            "my": "အကြင်အရှင်သည်",
+            "role_en": "Relative Pronoun",
+            "role_my": "ဆက်စပ်နာမ်စား",
+            "root": "ل ذ ي",
+            "freq": 300
+          },
+          {
+            "ar": "خَلَقَ",
+            "translit": "khalaqa",
+            "en": "created",
+            "my": "ဖန်ဆင်းတော်မူခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "خ ل ق",
+            "freq": 248
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The phrase 'Rabbi-ka al-ladhī' connects the Lord to the act of creation.",
+          "structure_my": "'Rabbi-ka al-ladhī' ဆိုသော စကားရပ်သည် ဖန်ဆင်းရှင်အား ဖန်ဆင်းခြင်း အမှုနှင့် ချိတ်ဆက်ပြထားသည်။",
+          "insight_en": "Allah introduces Himself not just by name, but by His primary action as the Creator.",
+          "insight_my": "အလ္လာဟ်အရှင်မြတ်သည် မိမိကိုယ်ကို နာမည်ဖြင့်သာမက ဖန်ဆင်းရှင်ဟူသော လုပ်ဆောင်ချက်ဖြင့် စတင်မိတ်ဆက်ခဲ့သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "خ ل ق",
+            "concept_en": "To create something out of nothing or to determine the proportions of something.",
+            "concept_my": "မရှိရာမှ ရှိရာသို့ ဖန်ဆင်းခြင်း (သို့မဟုတ်) အချိုးအစား သတ်မှတ်ခြင်း",
+            "members": [
+              {
+                "ar": "خَالِق",
+                "en": "Creator",
+                "my": "ဖန်ဆင်းရှင်",
+                "freq": 11
+              }
+            ],
+            "professors_note": "In Arabic, Khalq doesn't just mean making; it implies precision and planning."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကုရ်အာန်၏ ပထမဆုံးသော စကားလုံးသည် 'ဖတ်ပါ' ဟု စတင်ခဲ့ပြီး အလ္လာဟ်အရှင်မြတ်ကို 'ဖန်ဆင်းတော်မူသောအရှင်' အဖြစ် မိတ်ဆက်ခဲ့သည်။ ကျွန်ုပ်တို့၏ ဘဝတွင် မည်သည့်အရာကိုမဆို သင်ယူလေ့လာသည့်အခါ ဖန်ဆင်းရှင်၏ အမည်နာမတော်ဖြင့် စတင်ခြင်းသည် အောင်မြင်မှု၏ သော့ချက်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah ends with a strong 'qa' sound (Qalqalah).",
+          "meaning_anchor": "Imagine the word 'Read' pointing to the 'Creator'.",
+          "daily_connection": "Recite this when starting any new educational task.",
+          "my": "အာယသ်တော်၏ အဆုံးရှိ 'ကတ်ဖ်' အသံကို ပဲ့တင်ထပ်ဖတ်ရန် (ကာလ်ကာလာ) သတိပြုပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Quraysh 106:4",
+        "study_number": 2,
+        "arabic_full": "الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ",
+        "en_sahih": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.",
+        "my_mmsy": "(၄) အရှင်မြတ်သည်သူတို့အား ဆာလောင်မွတ်သိပ်ခြင်းမှ ကင်းလွတ်ရန်ကျွေးမွေးတော်မူခဲ့သည့်အပြင် သူတို့အားစိုးရိမ်မှုမှလည်း ဘေးရန်ကင်းငြိမ်းစေတော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 106,
+          "ayah": 4,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/106004.mp3"
+        },
+        "qurancom_url": "https://quran.com/106/4",
+        "context": {
+          "en": "Allah reminds the tribe of Quraysh of His favors upon them despite their opposition.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ကုရိုက်ရှ်မျိုးနွယ်စုတို့အပေါ် ထားရှိခဲ့သော ကျေးဇူးတော်များကို ပြန်လည်သတိပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أَطْعَمَ",
+            "translit": "at'ama",
+            "en": "fed",
+            "my": "ကျွေးမွေးခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ط ع م",
+            "freq": 15
+          },
+          {
+            "ar": "آَمَنَ",
+            "translit": "āmana",
+            "en": "made safe",
+            "my": "ဘေးကင်းစေခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "أ م ن",
+            "freq": 537
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Dual relative clauses following 'Alladhī' show multiple blessings.",
+          "structure_my": "'Alladhī' နောက်ကွယ်မှ ဖော်ပြချက်နှစ်ခုသည် ကောင်းချီးမင်္ဂလာများစွာကို ဖော်ပြနေသည်။",
+          "insight_en": "Physical hunger and mental fear are the two main human struggles; Allah provides the solution for both.",
+          "insight_my": "ရုပ်ပိုင်းဆိုင်ရာ ဆာလောင်မှုနှင့် စိတ်ပိုင်းဆိုင်ရာ ကြောက်ရွံ့မှုတို့သည် လူသားတို့၏ အဓိက အခက်အခဲနှစ်ခုဖြစ်ပြီး အရှင်မြတ်က ထိုနှစ်ခုလုံးကို ဖြေရှင်းပေးသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "أ م ن",
+            "concept_en": "To be in a state of peace and safety, free from fear.",
+            "concept_my": "ကြောက်ရွံ့မှုမှ ကင်းဝေးပြီး ငြိမ်းချမ်းလုံခြုံမှုရှိခြင်း",
+            "members": [
+              {
+                "ar": "مُؤْمِن",
+                "en": "Believer",
+                "my": "မုအ်မင်န် (ယုံကြည်သူ)",
+                "freq": 185
+              }
+            ],
+            "professors_note": "True Iman (faith) is inextricably linked to feeling safe with Allah."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ နေ့စဉ် စားသောက်နေရသော အစားအစာနှင့် အေးချမ်းစွာ အိပ်စက်နိုင်သော ဘေးကင်းမှုတို့သည် အလ္လာဟ်အရှင်မြတ်၏ အထူးကျေးဇူးတော်များ ဖြစ်သည်။ ဤအာယသ်တော်ကို ဖတ်ရှုခြင်းဖြင့် မိမိ၌ ရှိသောအရာများကို ကျေးဇူးတင်တတ်သောစိတ် (Shukr) မွေးမြူကြပါစို့။"
+        },
+        "memorization_helper": {
+          "rhythm": "Balanced structure: At'amahum... Wa Amanahum.",
+          "meaning_anchor": "Food for the stomach, safety for the heart.",
+          "daily_connection": "Say this when feeling grateful after a meal.",
+          "my": "အစားအသောက် စားပြီးချိန်တွင် အရှင်မြတ်၏ ကျေးဇူးတော်ကို အောက်မေ့ရန် ဤအာယသ်တော်ကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Today we learned the masculine singular relative pronoun 'Alladhī'. It is a crucial connector in the Quran that identifies specific qualities of a person or object, most often referring back to Allah's creative and sustaining powers.",
+      "my": "ယနေ့ သင်ခန်းစာတွင် မလိင်၊ အနည်းကိန်း ဆက်စပ်နာမ်စား 'Alladhī' ကို လေ့လာခဲ့သည်။ ၎င်းသည် ကုရ်အာန်ကျမ်းတော်မြတ်တွင် ရှေ့က နာမ်တစ်ခုကို နောက်က ဖော်ပြချက်များနှင့် ချိတ်ဆက်ပေးရာ၌ အလွန်အရေးကြီးသော စကားလုံးဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-142",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 142,
+    "title": {
+      "ar": "الاسْمُ الْمَوْصُولُ (٢) — الَّتِي",
+      "en": "Relative Pronouns II — Allatī",
+      "my": "ဆက်စပ်နာမ်စား (၂) — الَّتِي (အကြင်သူ/အကြင်အရာ - မလိင်)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Allatī for feminine antecedents; Sila clause structure",
+      "grammar_formula": "Noun (Feminine Singular) + الَّتِي + Clause"
+    },
+    "section_1_vocab": [
+      {
+        "word": "الَّتِي",
+        "translit": "allatī",
+        "en": "the one who / that which (fem.)",
+        "my": "အကြင်သူ / အကြင်အရာ (အနည်းကိန်း၊ ဣတ္ထိလိင်)",
+        "quran_freq": 100,
+        "word_type": "Pronoun",
+        "gender": "Feminine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ل ذ ي",
+          "concept_en": "relative connection",
+          "concept_my": "ဆက်နွယ်မှု"
+        },
+        "memory_hook": {
+          "sound": "A-Lady (sounds like 'Allatī')",
+          "image": "A feminine figure connecting two pieces of a puzzle",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "اللَّاتِي",
+            "translit": "allātī",
+            "en": "those who (fem. plural)",
+            "my": "အကြင်သူမအပေါင်း",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "The 't' sound (ت) in 'Allatī' is a common indicator of femininity in Arabic grammar.",
+        "example": {
+          "ar": "النَّارُ الَّتِي",
+          "en": "The fire which...",
+          "my": "အကြင်ငရဲမီးသည်...",
+          "ref": "2:24"
+        }
+      },
+      {
+        "word": "أُنْزِلَتْ",
+        "translit": "unzilat",
+        "en": "it was revealed (fem.)",
+        "my": "၎င်း(မ)သည် ကျရောက်လာခဲ့သည်",
+        "quran_freq": 10,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فُعِلَتْ",
+        "root": {
+          "letters": "ن ز ل",
+          "concept_en": "descending, sending down",
+          "concept_my": "ဆင်းသက်ခြင်း၊ ချပေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Unzilat (sounds like 'Unveiled')",
+          "image": "Light descending from the sky onto a book",
+          "cross_language": "Urdu: Nazil"
+        },
+        "word_family": [
+          {
+            "ar": "تَنْزِيل",
+            "translit": "tanzīl",
+            "en": "revelation",
+            "my": "ကျရောက်လာသောကျမ်း",
+            "freq": 16
+          }
+        ],
+        "pattern_unlock": "The 't' suffix on verbs (ـَتْ) marks the feminine past tense.",
+        "example": {
+          "ar": "الَّتِي أُنْزِلَتْ",
+          "en": "which was revealed",
+          "my": "ကျရောက်စေခဲ့သော",
+          "ref": "N/A"
+        }
+      },
+      {
+        "word": "تَطَّلِعُ",
+        "translit": "tattali'u",
+        "en": "it mounts up / reaches",
+        "my": "၎င်း(မ)သည် တက်ရောက်သွားသည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "تَفْتَعِلُ",
+        "root": {
+          "letters": "ط ل ع",
+          "concept_en": "rising, appearing",
+          "concept_my": "ထွက်ပေါ်လာခြင်း၊ တက်လာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tall (reaching high)",
+          "image": "Fire rising up to reach something",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مَطْلَع",
+            "translit": "matla'",
+            "en": "rising place",
+            "my": "ထွက်ပေါ်ရာအရပ်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Feminine verbs starting with 'Ta-' (تـ) often refer to natural forces or groups.",
+        "example": {
+          "ar": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
+          "en": "which mounts up to the hearts",
+          "my": "နှလုံးသားများအထိ တက်ရောက်လောင်မြိုက်မည့်",
+          "ref": "104:7"
+        }
+      },
+      {
+        "word": "أَوْقَدَ",
+        "translit": "awqada",
+        "en": "he kindled",
+        "my": "သူသည် မီးမွှေခဲ့သည်",
+        "quran_freq": 2,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "و ق د",
+          "concept_en": "kindling fire",
+          "concept_my": "မီးမွှေခြင်း၊ မီးတောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "A-Wood (for fire)",
+          "image": "Striking a match to start a fire",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "وَقُود",
+            "translit": "waqūd",
+            "en": "fuel",
+            "my": "လောင်စာ",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Nouns and verbs related to heat often follow the 'W-Q-D' root.",
+        "example": {
+          "ar": "نَارُ اللَّهِ الْمُوقَدَةُ",
+          "en": "The kindled fire of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ခြစ်ခြစ်တောက် မီးတောက်",
+          "ref": "104:6"
+        }
+      },
+      {
+        "word": "تَجْرِي",
+        "translit": "tajrī",
+        "en": "it flows",
+        "my": "၎င်း(မ)သည် စီးဆင်းသည်",
+        "quran_freq": 65,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "تَفْعِلُ",
+        "root": {
+          "letters": "ج ر ي",
+          "concept_en": "running, flowing",
+          "concept_my": "စီးဆင်းခြင်း၊ ပြေးလွှားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tajri (sounds like Journey)",
+          "image": "A river flowing through a forest",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "جَارِيَة",
+            "translit": "jāriyah",
+            "en": "flowing / ship",
+            "my": "စီးဆင်းနေသော / သင်္ဘော",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "Commonly used in Quran to describe the rivers of Jannah.",
+        "example": {
+          "ar": "الْأَنْهَارُ الَّتِي تَجْرِي",
+          "en": "The rivers which flow",
+          "my": "စီးဆင်းနေသော မြစ်ချောင်းများ",
+          "ref": "N/A"
+        }
+      },
+      {
+        "word": "أَرْض",
+        "translit": "ard",
+        "en": "earth / land",
+        "my": "ကမ္ဘာမြေ / မြေပြင်",
+        "quran_freq": 461,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "أ ر ض",
+          "concept_en": "ground, earth",
+          "concept_my": "မြေကြီး"
+        },
+        "memory_hook": {
+          "sound": "Earth (Ard sounds similar)",
+          "image": "The globe or a patch of green land",
+          "cross_language": "Urdu: Arz"
+        },
+        "word_family": [
+          {
+            "ar": "أَرَاضِي",
+            "translit": "arādī",
+            "en": "lands",
+            "my": "မြေများ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This noun is 'Feminine by usage' even though it has no feminine markers.",
+        "example": {
+          "ar": "فِي الْأَرْضِ الَّتِي",
+          "en": "In the land which...",
+          "my": "အကြင်မြေပြင်တွင်...",
+          "ref": "N/A"
+        }
+      },
+      {
+        "word": "نَار",
+        "translit": "nār",
+        "en": "fire",
+        "my": "မီး / ငရဲမီး",
+        "quran_freq": 145,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ن و ر",
+          "concept_en": "fire, light",
+          "concept_my": "မီး၊ အလင်း"
+        },
+        "memory_hook": {
+          "sound": "Nar (Light in reverse)",
+          "image": "A burning flame",
+          "cross_language": "Urdu: Naar"
+        },
+        "word_family": [
+          {
+            "ar": "نُور",
+            "translit": "nūr",
+            "en": "light",
+            "my": "အလင်းရောင်",
+            "freq": 43
+          }
+        ],
+        "pattern_unlock": "Natural elements like 'Fire' (Nar) and 'Sun' (Shams) are feminine in Arabic.",
+        "example": {
+          "ar": "النَّارُ الَّتِي",
+          "en": "The fire which...",
+          "my": "အကြင်မီးသည်...",
+          "ref": "2:24"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الاسْمُ الْمَوْصُولُ لِلْمُؤَنَّثِ",
+        "en": "The Feminine Relative Pronoun",
+        "my": "ဣတ္ထိလိင် (မလိင်) ဆက်စပ်နာမ်စား"
+      },
+      "formula": {
+        "display": "Noun (Singular/Fem) + الَّتِي + Clause",
+        "example": "الْجَنَّةُ الَّتِي (The Jannah which...)",
+        "myanmar_read": "ဣတ္ထိလိင်နာမ်များနောက်တွင် الَّذِي အစား الَّتِي ကို သုံးရမည်",
+        "key_insight": "If the noun being described is feminine, the bridge (pronoun) must also be feminine: Allatī."
+      },
+      "explanation": {
+        "en": "Just as 'Alladhī' is for masculine, 'Allatī' is its feminine counterpart. In Arabic grammar, nouns like 'Fire' (Nar) or 'Earth' (Ard) are considered feminine, so they must be followed by 'Allatī' when adding a relative clause.",
+        "my": "الَّتِي (အလ်လာတီ) သည် အနည်းကိန်း၊ ဣတ္ထိလိင် နာမ်များအတွက် သုံးသော ဆက်စပ်နာမ်စား ဖြစ်သည်။ အာရဗီတွင် မီး (Nar)၊ မြေပြင် (Ard)၊ သတင်း (Naba') စသည့် နာမ်များသည် ဣတ္ထိလိင်များ ဖြစ်ကြသဖြင့် ၎င်းတို့နှင့် ပတ်သက်၍ ဖော်ပြလိုပါက الَّتِي ကို သုံးရမည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar language does not distinguish gender in relative clauses (we use 'သော' for everything). However, we must be careful in Arabic as choosing the wrong one is a major grammatical error.",
+        "my": "မြန်မာဘာသာတွင် ကျား/မ ခွဲခြားရန် မလိုသော်လည်း အာရဗီတွင် အလွန်အရေးကြီးသည်။ 'သော' ဟု ပြန်ဆိုရာတွင် ရှေ့က နာမ်ကို ကြည့်၍ الَّتِي လား الَّذِي လား ခွဲခြားရမည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Use Allatī for nouns ending in Ta-Marbuta (ة) or nouns feminine by usage.",
+          "rule_my": "သတ်မှတ်ထားသော ဣတ္ထိလိင်နာမ်များ သို့မဟုတ် ة နှင့် ဆုံးသော နာမ်များအတွက် الَّتِي ကို သုံးပါ။",
+          "example": {
+            "ar": "الْآيَةُ الَّتِي",
+            "en": "The verse which...",
+            "my": "အကြင်အာယသ်တော်သည်..."
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "النَّارُ الَّتِي",
+          "en": "The fire which...",
+          "my": "ထို့နောက် (အာရဗ်များသည် လူရေးသည့်ကုရ်အာန်ဟုပြောပြီး လက်တွေ့မရေးနိုင်ကြသောအခါ အလ္လာဟ်အရှင်မြတ်က သူတို့အားမိန့်ကြားတော်မူသည်) အကယ်၍ အသင်တို့သည် (အတိတ်၌ ကုရ်အာန်ကျမ်းတော်မြတ်နှင့်ပတ်သက်၍ ယှဉ်ပြိုင်မှုများ) မပြုလုပ်နိုင်ခဲ့ကြဘူးဆိုလျှင်၊ ထို့ပြင် (အနာဂတ်၌လည်း) မည်သည့်အခါမှ အသင်တို့ ပြုလုပ်နိုင်ကြမည် မဟုတ်ပေ။  သို့ဖြစ်ပေရာ အသင်တို့သည် ငရဲမီးမှ ကြောက်ရွံ့ရှောင်ကြဉ်ကြပါ။ ထိုငရဲမီး၏မီးစာသည် (ငြင်းပယ်သော ကာဖိရ်) လူသားများနှင့် (ကာဖိရ်များ၏ကိုးကွယ်ရာ) ကျောက်တုံးများဖြစ်သည်။  ထိုငရဲမီးသည် ကာဖိရ်ငြင်းပယ်သူများအတွက် အသင့်ပြုလုပ်ထားပြီးဖြစ်သည်။",
+          "ref": "2:24",
+          "breakdown": {
+            "subject": {
+              "word": "النَّارُ",
+              "en": "The Fire",
+              "note": "Feminine Noun"
+            },
+            "predicate": {
+              "word": "الَّتِي",
+              "en": "which",
+              "note": "Feminine Relative Pronoun"
+            }
+          },
+          "myanmar_insight": "မီး (An-Nar) သည် အာရဗီတွင် ဣတ္ထိလိင် ဖြစ်သောကြောင့် الَّتِي ကို သုံးထားခြင်း ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using Alladhī with a Feminine Noun",
+          "wrong": {
+            "ar": "الْجَنَّةُ الَّذِي",
+            "note": "Jannah ends in Ta-Marbuta, so it must use Allati"
+          },
+          "correct": {
+            "ar": "الْجَنَّةُ الَّتِي",
+            "en": "The Paradise which",
+            "my": "အကြင်သုခဘုံသည်"
+          },
+          "myanmar_tip": "စကားလုံး အဆုံးမှာ 'သီး' (ة) ပါရင် 'အလ်လာတီ' ကို သုံးဖို့ မှတ်ထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find Allatī in the following phrases",
+          "instruction_my": "အောက်ပါ စကားရပ်များတွင် الَّتِي ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "الْمَدِينَةُ الَّتِي",
+              "answer_en": "The city which",
+              "answer_my": "အကြင်မြို့တော်သည်",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into Myanmar Unicode",
+          "instruction_my": "မြန်မာဘာသာသို့ ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "الَّتِي أُنْزِلَتْ",
+              "answer_en": "That which was revealed (fem.)",
+              "answer_my": "ကျရောက်စေခဲ့သော (အရာ)"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Choose the correct pronoun: Alladhī or Allatī",
+          "instruction_my": "မှန်ကန်သော နာမ်စားကို ရွေးချယ်ပါ",
+          "questions": [
+            {
+              "q": "الشَّمْسُ (The Sun) ...",
+              "answer_en": "Allatī",
+              "answer_my": "الَّتِي (နေသည် ဣတ္ထိလိင်ဖြစ်သည်)",
+              "ar": "الشَّمْسُ الَّتِي"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The feminine forms in the Quran often relate to profound nurturing realities like the Earth, Paradise, or the soul (Nafs), showing the diverse nature of creation.",
+        "my": "ကုရ်အာန်ကျမ်းတော်မြတ်တွင် ဣတ္ထိလိင် အသုံးအနှုန်းများသည် ကမ္ဘာမြေ၊ ဂျန္နသ်သုခဘုံ နှင့် ဝိညာဉ် (Nafs) ကဲ့သို့သော နက်နဲသိမ်မွေ့သည့် အရာများကို ဖော်ပြလေ့ရှိသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Humazah 104:6-7",
+        "study_number": 1,
+        "arabic_full": "نَارُ اللَّهِ الْمُوقَدَةُ * الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
+        "en_sahih": "It is the fire of Allah, [eternally] fueled, Which mounts directed at the hearts.",
+        "my_mmsy": "(၆) မွှေးထားပြီးဖြစ်သော အလ္လာဟ်အရှင်မြတ်၏ ငရဲမီးပင်ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 104,
+          "ayah": 6,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/104006.mp3"
+        },
+        "qurancom_url": "https://quran.com/104/6",
+        "context": {
+          "en": "Describing the consequences for those who gossip and hoard wealth.",
+          "my": "အတင်းပြောသူများနှင့် ဥစ္စာဓန စုဆောင်းမှုကိုသာ အားသန်သူများအတွက် အကျိုးဆက်ကို ဖော်ပြထားခြင်း ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "نَارُ",
+            "translit": "nāru",
+            "en": "fire",
+            "my": "မီး",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "ن و ر",
+            "freq": 145
+          },
+          {
+            "ar": "الْمُوقَدَةُ",
+            "translit": "al-mūqadatu",
+            "en": "the kindled",
+            "my": "ခြစ်ခြစ်တောက်လောင်နေသော",
+            "role_en": "Adjective",
+            "role_my": "နာမဝိသေသန",
+            "root": "و ق د",
+            "freq": 2
+          },
+          {
+            "ar": "الَّتِي",
+            "translit": "allatī",
+            "en": "which",
+            "my": "အကြင် (မီး) သည်",
+            "role_en": "Relative Pronoun",
+            "role_my": "ဆက်စပ်နာမ်စား",
+            "root": "ل ذ ي",
+            "freq": 100
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Allatī connects the 'Kindled Fire' to its action of reaching the hearts.",
+          "structure_my": "Allatī သည် 'မီးတောက်' ကို 'နှလုံးသားအထိ လောင်မြိုက်ခြင်း' နှင့် ဆက်စပ်ပေးထားသည်။",
+          "insight_en": "The use of Allatī here maintains the feminine gender established by 'An-Nar'.",
+          "insight_my": "'An-Nar' သည် ဣတ္ထိလိင် ဖြစ်သဖြင့် ၎င်း၏ ဖော်ပြချက်ကို Allatī ဖြင့် ဆက်လက်ဖော်ပြခြင်း ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ط ل ع",
+            "concept_en": "To rise, to emerge, or to gain knowledge/reach a height.",
+            "concept_my": "ထွက်ပေါ်လာခြင်း၊ သိရှိနားလည်ခြင်း သို့မဟုတ် အထက်သို့ တက်လှမ်းခြင်း",
+            "members": [
+              {
+                "ar": "مَطْلَع",
+                "en": "Rising-place",
+                "my": "ထွက်ရာအရပ်",
+                "freq": 1
+              }
+            ],
+            "professors_note": "In this context, it implies the fire doesn't just burn the surface, but 'climbs' to the most sensitive part: the heart."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ကြောက်ရွံ့ဖွယ်ရာ သတိပေးချက် ဖြစ်သည်။ ငရဲမီးသည် ခန္ဓာကိုယ်ကိုသာမက လူတစ်ယောက်၏ မကောင်းသော ရည်ရွယ်ချက်များ ကိန်းအောင်းရာ နှလုံးသားအထိ လောင်မြိုက်မည်ဟု ဆိုသည်။ ကျွန်ုပ်တို့၏ နှလုံးသားများကို စင်ကြယ်အောင် ထားရှိရန် လိုအပ်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Short, punching verses with 'ah' endings.",
+          "meaning_anchor": "A flame reaching deep into a heart.",
+          "daily_connection": "Recite to remind yourself to avoid backbiting (Gheebat).",
+          "my": "အတင်းအဖျင်းပြောခြင်း၏ ဆိုးကျိုးကို သတိရရန် ဤအာယသ်ကို အလွတ်ကျက်ထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored 'Allatī', the feminine version of the relative pronoun. We saw how it is used with nouns like 'Fire' and 'Earth', and how it connects these subjects to their descriptions in the Quran.",
+      "my": "ယနေ့တွင် ဣတ္ထိလိင် ဆက်စပ်နာမ်စား 'Allatī' ကို လေ့လာခဲ့သည်။ မီး နှင့် မြေပြင် ကဲ့သို့သော နာမ်များနှင့် တွဲဖက်သုံးစွဲပုံကိုလည်း ကုရ်အာန် အာယသ်တော်များမှတစ်ဆင့် တွေ့မြင်ခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-143",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 143,
+    "title": {
+      "ar": "الاسْمُ الْمَوْصُولُ (٣) — الَّذِينَ",
+      "en": "Relative Pronouns III — Alladhīna",
+      "my": "ဆက်စပ်နာမ်စား (၃) — الَّذِينَ (အကြင်သူအပေါင်း)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Alladhīna for human masculine plural; most frequent in Quran",
+      "grammar_formula": "Noun (Plural) + الَّذِينَ + Verb (Plural)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "الَّذِينَ",
+        "translit": "alladhīna",
+        "en": "those who",
+        "my": "အကြင်သူအပေါင်း (အများကိန်း)",
+        "quran_freq": 1080,
+        "word_type": "Pronoun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ل ذ ي",
+          "concept_en": "relative connection",
+          "concept_my": "ဆက်နွယ်မှု"
+        },
+        "memory_hook": {
+          "sound": "All of them (Alladhīna)",
+          "image": "A large crowd of people standing together",
+          "cross_language": "Urdu: Jo log"
+        },
+        "word_family": [
+          {
+            "ar": "الَّذِي",
+            "translit": "alladhī",
+            "en": "the one who",
+            "my": "အကြင်သူ",
+            "freq": 300
+          }
+        ],
+        "pattern_unlock": "The 'ina' ending (ـِينَ) is a common marker for masculine human plurals.",
+        "example": {
+          "ar": "الَّذِينَ آمَنُوا",
+          "en": "those who believed",
+          "my": "ယုံကြည်ကြသူအပေါင်း",
+          "ref": "2:25"
+        }
+      },
+      {
+        "word": "آمَنُوا",
+        "translit": "āmanū",
+        "en": "they believed",
+        "my": "၎င်းတို့သည် ယုံကြည်ခဲ့ကြသည်",
+        "quran_freq": 258,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلُوا",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "faith, safety",
+          "concept_my": "ယုံကြည်ချက်၊ လုံခြုံမှု"
+        },
+        "memory_hook": {
+          "sound": "A-Manu (A group of men)",
+          "image": "A group of people bowing in prayer",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مُؤْمِنُونَ",
+            "translit": "mu'minūna",
+            "en": "believers",
+            "my": "ယုံကြည်သူများ",
+            "freq": 41
+          }
+        ],
+        "pattern_unlock": "The 'ū' (ـُوا) at the end of a verb always indicates a masculine plural 'They'.",
+        "example": {
+          "ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا",
+          "en": "O you who have believed",
+          "my": "အို- ယုံကြည်ခြင်းရှိကြသော သူအပေါင်းတို့",
+          "ref": "2:153"
+        }
+      },
+      {
+        "word": "كَفَرُوا",
+        "translit": "kafarū",
+        "en": "they disbelieved / covered",
+        "my": "၎င်းတို့သည် ငြင်းပယ်ခဲ့ကြသည်",
+        "quran_freq": 289,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلُوا",
+        "root": {
+          "letters": "ك ف ر",
+          "concept_en": "to cover, to disbelieve",
+          "concept_my": "ဖုံးကွယ်ခြင်း၊ ငြင်းပယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cover (Kafir covers the truth)",
+          "image": "Turning away from the light into darkness",
+          "cross_language": "Myanmar: ကာဖိရ် (Disbeliever)"
+        },
+        "word_family": [
+          {
+            "ar": "كُفْر",
+            "translit": "kufr",
+            "en": "disbelief",
+            "my": "ငြင်းပယ်မှု",
+            "freq": 17
+          }
+        ],
+        "pattern_unlock": "Opposite of Amanu; shares the same plural verb ending 'u'.",
+        "example": {
+          "ar": "الَّذِينَ كَفَرُوا",
+          "en": "those who disbelieved",
+          "my": "ငြင်းပယ်ခဲ့ကြသောသူများ",
+          "ref": "2:6"
+        }
+      },
+      {
+        "word": "يُقِيمُونَ",
+        "translit": "yuqīmūna",
+        "en": "they establish",
+        "my": "၎င်းတို့သည် တည်ဆောက်/ထူထောင်ကြသည်",
+        "quran_freq": 22,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفْعِلُونَ",
+        "root": {
+          "letters": "ق و م",
+          "concept_en": "standing, establishing",
+          "concept_my": "မတ်တပ်ရပ်ခြင်း၊ အုတ်မြစ်ချခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Iqamah (Call to stand for prayer)",
+          "image": "Building a firm pillar",
+          "cross_language": "Myanmar: အိကာမသ် (Call to prayer)"
+        },
+        "word_family": [
+          {
+            "ar": "قِيَامَة",
+            "translit": "qiyāmah",
+            "en": "resurrection",
+            "my": "ရှင်ပြန်ထမြောက်ခြင်း",
+            "freq": 70
+          }
+        ],
+        "pattern_unlock": "The 'Yu-...-una' pattern indicates a present tense plural action.",
+        "example": {
+          "ar": "الَّذِينَ يُقِيمُونَ الصَّلَاةَ",
+          "en": "those who establish prayer",
+          "my": "ဆွလာသ်ကို အမြဲမပြတ် ဝတ်ပြုကြသူများ",
+          "ref": "5:55"
+        }
+      },
+      {
+        "word": "يُنْفِقُونَ",
+        "translit": "yunfiqūna",
+        "en": "they spend",
+        "my": "၎င်းတို့သည် လှူဒါန်း/သုံးစွဲကြသည်",
+        "quran_freq": 23,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفْعِلُونَ",
+        "root": {
+          "letters": "ن ف ق",
+          "concept_en": "spending, passing through",
+          "concept_my": "သုံးစွဲခြင်း၊ ထွက်ပေါက်"
+        },
+        "memory_hook": {
+          "sound": "Infaq (Charity)",
+          "image": "Coins falling from a hand into another",
+          "cross_language": "Myanmar: အင်ဖားက် (Charity)"
+        },
+        "word_family": [
+          {
+            "ar": "نَفَقَة",
+            "translit": "nafaqah",
+            "en": "expenditure",
+            "my": "စရိတ်",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "Often paired with prayer (Salat) in descriptions of believers.",
+        "example": {
+          "ar": "وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+          "en": "and spend out of what We have provided them",
+          "my": "ငါအရှင်ပေးသနားထားသော အရာများမှ လှူဒါန်းကြသည်",
+          "ref": "2:3"
+        }
+      },
+      {
+        "word": "عَمِلُوا",
+        "translit": "amilū",
+        "en": "they did / worked",
+        "my": "၎င်းတို့သည် ပြုလုပ်ခဲ့ကြသည်",
+        "quran_freq": 108,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلُوا",
+        "root": {
+          "letters": "ع م ل",
+          "concept_en": "action, work",
+          "concept_my": "အလုပ်၊ လုပ်ဆောင်ချက်"
+        },
+        "memory_hook": {
+          "sound": "Amal (Deed)",
+          "image": "A person working hard",
+          "cross_language": "Myanmar: အာမလ် (Deed)"
+        },
+        "word_family": [
+          {
+            "ar": "عَمَل",
+            "translit": "amal",
+            "en": "deed",
+            "my": "အမလ်",
+            "freq": 360
+          }
+        ],
+        "pattern_unlock": "In the Quran, 'Amanu' (faith) is almost always followed by 'Amilu' (deeds).",
+        "example": {
+          "ar": "الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ",
+          "en": "those who believed and did righteous deeds",
+          "my": "ယုံကြည်ခြင်းရှိပြီး ကောင်းမှုများပြုခဲ့ကြသူများ",
+          "ref": "2:25"
+        }
+      },
+      {
+        "word": "الصَّالِحَات",
+        "translit": "as-sālihāt",
+        "en": "righteous deeds",
+        "my": "ကောင်းမြတ်သော အကျင့်သီလများ",
+        "quran_freq": 62,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَاعِلَات",
+        "root": {
+          "letters": "ص ل ح",
+          "concept_en": "goodness, righteousness",
+          "concept_my": "ကောင်းမြတ်ခြင်း၊ ပြုပြင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Saleh (Pious person)",
+          "image": "A healthy, fruitful tree",
+          "cross_language": "Myanmar: ဆွာလေဟ် (Pious)"
+        },
+        "word_family": [
+          {
+            "ar": "أَصْلَحَ",
+            "translit": "aslaha",
+            "en": "he corrected",
+            "my": "သူပြုပြင်ခဲ့သည်",
+            "freq": 25
+          }
+        ],
+        "pattern_unlock": "The 'at' (ـَات) ending indicates a feminine plural, used here for 'deeds'.",
+        "example": {
+          "ar": "وَعَمِلُوا الصَّالِحَاتِ",
+          "en": "and did righteous deeds",
+          "my": "ကောင်းမှုများကို ပြုလုပ်ခဲ့ကြသည်",
+          "ref": "2:25"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "اسْمُ الْمَوْصُولِ لِلْجَمْعِ",
+        "en": "The Plural Relative Pronoun",
+        "my": "အများကိန်း ဆက်စပ်နာမ်စား"
+      },
+      "formula": {
+        "display": "الَّذِينَ + Verb (ending in ـُوا or ـُونَ)",
+        "example": "الَّذِينَ آمَنُوا (Those who believed)",
+        "myanmar_read": "လူစုလူဝေး သို့မဟုတ် အများကိန်းကို ဖော်ပြလိုလျှင် الَّذِينَ ကို သုံးရမည်",
+        "key_insight": "Alladhīna is the most frequent relative pronoun in the Quran, used to describe groups like believers, disbelievers, or successful people."
+      },
+      "explanation": {
+        "en": "'Alladhīna' is the plural form of 'Alladhī'. It is used for masculine human plurals (or mixed groups). Importantly, the verb that follows it must also be in the plural form to maintain agreement.",
+        "my": "الَّذِينَ (အလ်လာဇီးနား) သည် الَّذِي ၏ အများကိန်း ဖြစ်သည်။ လူအများ သို့မဟုတ် အုပ်စုတစ်ခုအကြောင်း ဖော်ပြရာတွင် သုံးသည်။ ၎င်း၏နောက်တွင် လိုက်လာသော ကြိယာသည်လည်း အများကိန်း (ဥပမာ- ဝါစာပါသော စကားလုံး) ဖြစ်ရမည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we simply add 'သူများ' (thu-myar) to show plurality. In Arabic, the pronoun itself changes from Alladhī to Alladhīna.",
+        "my": "မြန်မာဘာသာတွင် 'သူ' မှ 'သူများ' ဟု ပြောင်းသကဲ့သို့ အာရဗီတွင် 'အလ်လာဇီ' မှ 'အလ်လာဇီးနား' သို့ ပြောင်းလဲခြင်း ဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Plural Matching: Ensure the following verb ends in 'ū' (past) or 'ūna' (present).",
+          "rule_my": "အများကိန်း လိုက်လျောညီထွေမှု - နောက်က ကြိယာသည်လည်း အများကိန်း ဖြစ်နေရမည်။",
+          "example": {
+            "ar": "الَّذِينَ يَعْلَمُونَ",
+            "en": "Those who know",
+            "my": "သိရှိကြသောသူများ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "الَّذِينَ آمَنُوا",
+          "en": "Those who believed",
+          "my": "MYANMAR_PLACE_HOLDER_S2_A25",
+          "ref": "2:25",
+          "breakdown": {
+            "subject": {
+              "word": "الَّذِينَ",
+              "en": "Those who",
+              "note": "Plural pronoun"
+            },
+            "predicate": {
+              "word": "آمَنُوا",
+              "en": "believed",
+              "note": "Plural verb"
+            }
+          },
+          "myanmar_insight": "ဤစကားရပ်သည် ကုရ်အာန်တွင် အကြိမ်ပေါင်းများစွာ ပါရှိပြီး မုအ်မင်န်များကို ခေါ်ဝေါ်ရာတွင် သုံးသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing Singular Pronoun with Plural Verb",
+          "wrong": {
+            "ar": "الَّذِي آمَنُوا",
+            "note": "Alladhi is singular, but Amanu is plural"
+          },
+          "correct": {
+            "ar": "الَّذِينَ آمَنُوا",
+            "en": "Those who believed",
+            "my": "ယုံကြည်ခဲ့ကြသောသူများ"
+          },
+          "myanmar_tip": "နောက်က စကားလုံးမှာ ဝါစာ (ـُوا) ပါရင် ရှေ့က 'အလ်လာဇီးနား' ဖြစ်ရမယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Circle the plural markers in this sentence",
+          "instruction_my": "ဤဝါကျရှိ အများကိန်း အမှတ်အသားများကို ရှာပါ",
+          "questions": [
+            {
+              "q": "الَّذِينَ يَعْمَلُونَ",
+              "answer_en": "-ina and -una",
+              "answer_my": "-ina နှင့် -una",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into Myanmar Unicode",
+          "instruction_my": "မြန်မာဘာသာသို့ ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "الَّذِينَ كَفَرُوا",
+              "answer_en": "Those who disbelieved",
+              "answer_my": "ငြင်းပယ်ခဲ့ကြသောသူများ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change from singular to plural: الَّذِي خَلَقَ",
+          "instruction_my": "အနည်းကိန်းမှ အများကိန်းသို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "الَّذِي خَلَقَ",
+              "answer_en": "الَّذِينَ خَلَقُوا",
+              "answer_my": "အကြင် (အများ) သည် ဖန်ဆင်းခဲ့ကြသည်",
+              "ar": "الَّذِينَ خَلَقُوا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "'Alladhīna' reminds us that we are part of a community (Ummah). Whether in faith or in warning, Allah addresses people collectively, emphasizing brotherhood and collective responsibility.",
+        "my": "'Alladhīna' သည် ကျွန်ုပ်တို့အား အစ္စလာမ့်အသိုင်းအဝိုင်း (အုမ္မသ်) ၏ အစိတ်အပိုင်းတစ်ခု ဖြစ်ကြောင်း သတိပေးသည်။ အလ္လာဟ်အရှင်မြတ်သည် လူသားစုအလိုက် မိန့်ကြားခြင်းဖြင့် ညီနောင်စိတ်ဓာတ်ကို အလေးပေးထားသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:3",
+        "study_number": 1,
+        "arabic_full": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+        "en_sahih": "Who believe in the unseen, establish prayer, and spend out of what We have provided for them,",
+        "my_mmsy": "ထိုမုသ်သကီန်များသည် (ကုရ်အာန်က ပြဆိုထားသည့်) အကွယ်မှအရာများ  ကို(အမှန်ဖြစ်သည်၊ တည်ရှိသည်ဟု) ယုံကြည်  ကြပြီး ၎င်းတို့သည် စွလာသ်  ဝတ်ပြုဆောက်တည်ကြသည့်အပြင် ၎င်းတို့သည် ငါအရှင် ၎င်းတို့အား ပေးသနားထားတော်မူသော ပစ္စည်းဥစ္စာများထဲမှ (အချို့ကိုလည်း) လှူဒါန်းကြသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 3,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002003.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/3",
+        "context": {
+          "en": "Defining the characteristics of the Muttaqīn (the God-fearing) at the start of Surah Al-Baqarah.",
+          "my": "စူရဟ်ဗကရဟ်၏ အစတွင် မွတ်သကီးန် (အရှင်မြတ်ကို ကြောက်ရွံ့ရိုသေသူများ) ၏ အရည်အချင်းများကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الَّذِينَ",
+            "translit": "alladhīna",
+            "en": "those who",
+            "my": "အကြင်သူအပေါင်းတို့သည်",
+            "role_en": "Relative Pronoun",
+            "role_my": "ဆက်စပ်နာမ်စား",
+            "root": "ل ذ ي",
+            "freq": 1080
+          },
+          {
+            "ar": "يُؤْمِنُونَ",
+            "translit": "yu'minūna",
+            "en": "they believe",
+            "my": "၎င်းတို့သည် ယုံကြည်ကြသည်",
+            "role_en": "Verb (Present)",
+            "role_my": "ကြိယာ",
+            "root": "أ م ن",
+            "freq": 258
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "A series of present tense plural verbs (yu-verb-una) describing ongoing actions of a group.",
+          "structure_my": "ဆက်တိုက်လုပ်ဆောင်နေသော အပြုအမူများကို ဖော်ပြရန် 'yu-verb-una' ပုံစံ အများကိန်း ကြိယာများကို သုံးထားသည်။",
+          "insight_en": "The use of Alladhīna shows that these qualities belong to a community of successful people.",
+          "insight_my": "Alladhīna ကို သုံးခြင်းဖြင့် ဤအရည်အချင်းများသည် အောင်မြင်သော အသိုင်းအဝိုင်းတစ်ခု၏ စုပေါင်းဂုဏ်အင်ဖြစ်ကြောင်း ပြသသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "غ ي ب",
+            "concept_en": "The unseen, hidden, or absent.",
+            "concept_my": "မမြင်ရသောအရာ၊ ကွယ်ဝှက်နေသောအရာ",
+            "members": [
+              {
+                "ar": "غَيْب",
+                "en": "Unseen",
+                "my": "ဂိုင်ဗ်",
+                "freq": 48
+              }
+            ],
+            "professors_note": "Believing in the Unseen is the first door to true Taqwa."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "မွတ်စလင်မ်တစ်ဦး ဖြစ်ရခြင်းသည် တစ်ကိုယ်တော် လျှောက်လှမ်းခြင်း မဟုတ်ပါ။ အခြားသော ယုံကြည်သူများနှင့်အတူ ဆွလာသ်ဝတ်ပြုခြင်း၊ လှူဒါန်းခြင်းတို့ကို စုပေါင်းလုပ်ဆောင်ခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်၏ ကျေနပ်မှုကို ရယူနိုင်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Ending with -una (Yu'minuna, Yuqimuna, Yunfiquna).",
+          "meaning_anchor": "Heart (Faith) -> Body (Prayer) -> Hand (Charity).",
+          "daily_connection": "Check yourself: Am I part of this 'Alladhīna' group today?",
+          "my": "အဆုံးသတ် -una အသံများ၏ စည်းချက်ကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We learned 'Alladhīna', the most common relative pronoun used for groups of people. It often defines the 'Believers' and their constant actions in the Quran.",
+      "my": "ယနေ့တွင် လူစုလူဝေးကို ဖော်ပြသော 'Alladhīna' ကို လေ့လာခဲ့သည်။ ၎င်းသည် ကုရ်အာန်တွင် ယုံကြည်သူများ၏ လုပ်ဆောင်ချက်များကို ဖော်ပြရာ၌ အသုံးအများဆုံး စကားလုံး ဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-144",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 144,
+    "title": {
+      "ar": "الاسْمُ الْمَوْصُولُ (٤) — مَا الْمَوْصُولَةُ",
+      "en": "Relative Pronouns IV — Mā as Relative",
+      "my": "ဆက်စပ်နာမ်စား (၄) — مَا (အကြင်အရာ)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Mā al-Mawsūla for non-human things; mā 'indallāh",
+      "grammar_formula": "Verb + مَا + Clause (What/That which)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مَا",
+        "translit": "mā",
+        "en": "that which / what",
+        "my": "အကြင်အရာ / ဘာကို (သက်မဲ့)",
+        "quran_freq": 2455,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "general relative pronoun",
+          "concept_my": "ယေဘုယျ ဆက်စပ်နာမ်စား"
+        },
+        "memory_hook": {
+          "sound": "Ma (What? in many languages)",
+          "image": "An open box containing unknown items",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مِمَّا",
+            "translit": "mimmā",
+            "en": "from that which",
+            "my": "အကြင်အရာမှ",
+            "freq": 150
+          }
+        ],
+        "pattern_unlock": "When 'mā' is not a question, it usually means 'that which'.",
+        "example": {
+          "ar": "مَا عَمِلُوا",
+          "en": "what they did",
+          "my": "၎င်းတို့ ပြုလုပ်ခဲ့သော အရာ",
+          "ref": "3:30"
+        }
+      },
+      {
+        "word": "عَمِلُوا",
+        "translit": "amilū",
+        "en": "they did",
+        "my": "၎င်းတို့သည် ပြုလုပ်ခဲ့ကြသည်",
+        "quran_freq": 108,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلُوا",
+        "root": {
+          "letters": "ع م ل",
+          "concept_en": "action",
+          "concept_my": "လုပ်ဆောင်ချက်"
+        },
+        "memory_hook": {
+          "sound": "Amal",
+          "image": "A list of deeds",
+          "cross_language": "Myanmar: အာမလ်"
+        },
+        "word_family": [],
+        "pattern_unlock": "Always refers to intentional actions.",
+        "example": {
+          "ar": "مَا عَمِلُوا",
+          "en": "what they did",
+          "my": "၎င်းတို့ ပြုလုပ်ခဲ့သမျှ",
+          "ref": "N/A"
+        }
+      },
+      {
+        "word": "قَدَّمُوا",
+        "translit": "qaddamū",
+        "en": "they sent forth",
+        "my": "၎င်းတို့သည် ကြိုတင်ပို့လွှတ်ခဲ့ကြသည်",
+        "quran_freq": 10,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلُوا",
+        "root": {
+          "letters": "ق د م",
+          "concept_en": "front, to advance",
+          "concept_my": "ရှေ့သို့၊ ရှေ့ပြေး"
+        },
+        "memory_hook": {
+          "sound": "Qadam (Step/Foot)",
+          "image": "Sending a package ahead of time",
+          "cross_language": "Urdu: Qadam"
+        },
+        "word_family": [
+          {
+            "ar": "قَدِيم",
+            "translit": "qadīm",
+            "en": "ancient",
+            "my": "ရှေးကျသော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "In Quran, this refers to deeds sent ahead to the hereafter.",
+        "example": {
+          "ar": "مَا قَدَّمَتْ يَدَاهُ",
+          "en": "what his hands have sent forth",
+          "my": "မိမိလက်နှစ်ဖက်ဖြင့် ကြိုတင်ပို့လွှတ်ခဲ့သောအရာ",
+          "ref": "78:40"
+        }
+      },
+      {
+        "word": "أَخَّرُوا",
+        "translit": "akh-kharū",
+        "en": "they left behind",
+        "my": "၎င်းတို့သည် ချန်လှပ်ခဲ့ကြသည်",
+        "quran_freq": 5,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلُوا",
+        "root": {
+          "letters": "أ خ ر",
+          "concept_en": "back, end, delaying",
+          "concept_my": "နောက်ကျခြင်း၊ အဆုံးသတ်"
+        },
+        "memory_hook": {
+          "sound": "Akhirah (The end)",
+          "image": "Items left behind on a shelf",
+          "cross_language": "Myanmar: အာခိရသ် (Hereafter)"
+        },
+        "word_family": [
+          {
+            "ar": "آخِر",
+            "translit": "ākhir",
+            "en": "last",
+            "my": "နောက်ဆုံး",
+            "freq": 35
+          }
+        ],
+        "pattern_unlock": "Root meanings are always about the 'back' or 'end'.",
+        "example": {
+          "ar": "مَا قَدَّمَ وَأَخَّرَ",
+          "en": "what he sent ahead and left behind",
+          "my": "သူကြိုတင်ပို့ခဲ့သမျှနှင့် ချန်ထားခဲ့သမျှ",
+          "ref": "82:5"
+        }
+      },
+      {
+        "word": "عِنْدَ",
+        "translit": "inda",
+        "en": "with / near",
+        "my": "ထံပါး၌ / အနီး၌",
+        "quran_freq": 150,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ع ن د",
+          "concept_en": "presence",
+          "concept_my": "ရောက်ရှိနေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Inda (In there)",
+          "image": "Something held in a hand",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used to denote possession or proximity to Allah.",
+        "example": {
+          "ar": "مَا عِنْدَ اللَّهِ",
+          "en": "what is with Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်ထံပါး၌ ရှိသောအရာ",
+          "ref": "3:198"
+        }
+      },
+      {
+        "word": "يَنْفَدُ",
+        "translit": "yanfadu",
+        "en": "it will be exhausted",
+        "my": "၎င်းသည် ကုန်ဆုံးသွားမည်",
+        "quran_freq": 2,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلُ",
+        "root": {
+          "letters": "ن ف د",
+          "concept_en": "running out, finishing",
+          "concept_my": "ကုန်ခမ်းသွားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Yanfad (End)",
+          "image": "An hourglass running out of sand",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used for worldly things that do not last.",
+        "example": {
+          "ar": "مَا عِنْدَكُمْ يَنْفَدُ",
+          "en": "Whatever you have will be exhausted",
+          "my": "သင်တို့ထံ၌ရှိသမျှသည် ကုန်ဆုံးသွားလိမ့်မည်",
+          "ref": "16:96"
+        }
+      },
+      {
+        "word": "بَاقٍ",
+        "translit": "bāqin",
+        "en": "remaining / everlasting",
+        "my": "တည်တံ့သောအရာ",
+        "quran_freq": 3,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ب ق ي",
+          "concept_en": "remaining, staying",
+          "concept_my": "ကျန်ရှိနေခြင်း၊ တည်မြဲခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Baqi (Eternal)",
+          "image": "A rock that stands forever",
+          "cross_language": "Urdu: Baqi"
+        },
+        "word_family": [
+          {
+            "ar": "أَبْقَى",
+            "translit": "abqā",
+            "en": "more lasting",
+            "my": "ပိုမိုတည်တံ့သော",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Relates to things that don't disappear.",
+        "example": {
+          "ar": "وَمَا عِنْدَ اللَّهِ بَاقٍ",
+          "en": "and what is with Allah is remaining",
+          "my": "အလ္လာဟ်အရှင်မြတ်ထံရှိသောအရာသည် တည်မြဲ၏",
+          "ref": "16:96"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "مَا الْمَوْصُولَةُ",
+        "en": "The Relative 'Mā'",
+        "my": "ဆက်စပ်ပုဒ် 'မား'"
+      },
+      "formula": {
+        "display": "Verb/Preposition + مَا + Description",
+        "example": "مَا عِنْدَكُمْ (What is with you)",
+        "myanmar_read": "သက်မဲ့အရာများကို ဖော်ပြရန် 'မား' ကို သုံးသည်",
+        "key_insight": "Unlike Alladhī, 'Mā' is used for objects, ideas, or general 'things' rather than specific people."
+      },
+      "explanation": {
+        "en": "'Mā' can be used as a question (What?) or as a relative pronoun (That which). In the Quran, it often refers to deeds, thoughts, or possessions. It is neutral in gender and always singular in form but can refer to plural concepts.",
+        "my": "مَا (မား) ကို မေးခွန်းအဖြစ်သာမက ဆက်စပ်နာမ်စား (အကြင်အရာ) အဖြစ်လည်း သုံးသည်။ ၎င်းသည် သက်မဲ့များ၊ လုပ်ရပ်များနှင့် အကြောင်းအရာများအတွက် သုံးသည်။ ကျား/မ ခွဲခြားရန် မလိုပါ။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use 'သောအရာ' (thaw-ayar) or 'သည်ကို' (the-ko) to express this. 'Mā' is very versatile and shorter.",
+        "my": "မြန်မာလို 'သောအရာ' သို့မဟုတ် 'သည့်အရာ' ဟု အဓိပ္ပာယ်ရသည်။ 'မား' သည် အလွန်သုံးရလွယ်ကူသော စကားလုံး ဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Mā al-Mawsūla refers to non-humans (Ghayr al-āqil).",
+          "rule_my": "သက်မဲ့များ သို့မဟုတ် လူမဟုတ်သော အရာများအတွက်သာ 'မား' ကို သုံးပါ။",
+          "example": {
+            "ar": "مَا فِي السَّمَاوَاتِ",
+            "en": "What is in the heavens",
+            "my": "မိုးကောင်းကင်၌ရှိသမျှ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "مَا عِنْدَ اللَّهِ",
+          "en": "What is with Allah",
+          "my": "သို့ရာတွင် အကြင်သူများသည် သူတို့ကို ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်ကို ကြောက်ရွံ့အပြစ်ရှောင် ကောင်းကျိုးဆောင်ကြသည်၊ ထိုသူများအတွက် အကြင်ဥယျာဉ်များရှိမည်။ ထိုဥယျာဉ်များအောက်မှ စမ်းရေချောင်းများ စီးဆင်းနေသည်။ သူတို့သည် ထိုဥယျာဉ်များထဲတွင် အမြဲနေထိုင်ကြရမည်။ (ဤသည်) အလ္လာဟ်အရှင်မြတ်ထံတော်မှ ဧည့်ခံခြင်းဖြစ်သည်။",
+          "ref": "3:198",
+          "breakdown": {
+            "subject": {
+              "word": "مَا",
+              "en": "What / That which",
+              "note": "Relative particle"
+            },
+            "predicate": {
+              "word": "عِنْدَ اللَّهِ",
+              "en": "is with Allah",
+              "note": "Location clause"
+            }
+          },
+          "myanmar_insight": "'မား' သည် ဤနေရာတွင် အရှင်မြတ်ပေးသနားမည့် ဆုလာဘ်များကို ရည်ညွှန်းသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing 'Mā' (What) with 'Mā' (Not)",
+          "wrong": {
+            "ar": "مَا يَعْلَمُونَ",
+            "note": "Can mean 'What they know' or 'They do not know' depending on context"
+          },
+          "correct": {
+            "ar": "مَا عَمِلُوا",
+            "en": "What they did",
+            "my": "၎င်းတို့ ပြုလုပ်ခဲ့သမျှ"
+          },
+          "myanmar_tip": "ဝါကျအသွားအလာကို ကြည့်ပါ။ တစ်ခါတလေ 'မဟုတ်'၊ တစ်ခါတလေ 'အရာ' လို့ အဓိပ္ပာယ်ရပါတယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Decide if 'Mā' in these verses means 'What' (Relative) or 'Not'",
+          "instruction_my": "'မား' သည် 'အရာ' သို့မဟုတ် 'မဟုတ်' ဖြစ်ကြောင်း ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "مَا عِنْدَكُمْ يَنْفَدُ",
+              "answer_en": "Relative (What you have)",
+              "answer_my": "ဆက်စပ် (သင်တို့ထံရှိသောအရာ)",
+              "ref": "16:96"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "مَا يَعْلَمُ",
+              "answer_en": "What he knows",
+              "answer_my": "သူသိရှိသောအရာ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Complete the phrase: ... (What) Allah loves",
+          "instruction_my": "ဝါကျပြည့်စုံအောင် ဖြည့်ပါ",
+          "questions": [
+            {
+              "q": "... يُحِبُّ اللَّهُ",
+              "answer_en": "مَا يُحِبُّ اللَّهُ",
+              "answer_my": "အလ္လာဟ်အရှင်မြတ် ချစ်မြတ်နိုးသောအရာ",
+              "ar": "مَا يُحِبُّ اللَّهُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "'Mā' encompasses everything—our hidden deeds, our future rewards, and the secrets of the universe. It teaches us that Allah knows every 'thing' regardless of how small it is.",
+        "my": "'မား' သည် အရာခပ်သိမ်းကို လွှမ်းခြုံသည်။ ကျွန်ုပ်တို့၏ တိတ်တဆိတ် လုပ်ဆောင်ချက်များ၊ နောင်တွင်ရမည့် ဆုလာဘ်များနှင့် စကြဝဠာ၏ လျှို့ဝှက်ချက်များကို အလ္လာဟ်အရှင်မြတ် သိရှိတော်မူကြောင်း ဤစကားလုံးက ဖော်ပြသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Nahl 16:96",
+        "study_number": 1,
+        "arabic_full": "مَا عِنْدَكُمْ يَنْفَدُ ۖ وَمَا عِنْدَ اللَّهِ بَاقٍ",
+        "en_sahih": "Whatever you have will be exhausted, and what is with Allah is remaining.",
+        "my_mmsy": "အသင်တို့ထံ၌ရှိသောအရာများသည် ကုန်ခန်းသွားမည်ဖြစ်သည်။ ၎င်းနောက် အလ္လာဟ်အရှင်မြတ်ထံတော်၌ ရှိသောအရာများသည် အမြဲကျန်ရှိမည့်အရာများ ဖြစ်သည်။ ထို့ပြင် အမှန်စင်စစ် ငါအရှင်မြတ်သည် သည်းခံခဲ့သောသူများအား သူတို့ ပြုမူခဲ့ကြသည်များထက် ပိုကောင်းသော ကုသိုလ်အကျိုးကို ပေးသနားတော်မူမည်ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 16,
+          "ayah": 96,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/016096.mp3"
+        },
+        "qurancom_url": "https://quran.com/16/96",
+        "context": {
+          "en": "Allah contrasts the temporary nature of worldly possessions with the eternal nature of Divine rewards.",
+          "my": "လောကီစည်းစိမ်များ၏ ယာယီသဘောတရားနှင့် အရှင်မြတ်ထံမှ ဆုလာဘ်များ၏ ထာဝရသဘောတရားကို နှိုင်းယှဉ်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "مَا",
+            "translit": "mā",
+            "en": "what / whatever",
+            "my": "အကြင်အရာသည်",
+            "role_en": "Relative Pronoun",
+            "role_my": "ဆက်စပ်နာမ်စား",
+            "root": "N/A",
+            "freq": 2000
+          },
+          {
+            "ar": "عِنْدَكُمْ",
+            "translit": "indakum",
+            "en": "with you",
+            "my": "သင်တို့ထံ၌ရှိသော",
+            "role_en": "Prepositional Phrase",
+            "role_my": "ဝိဘတ်စကားစု",
+            "root": "ع ن د",
+            "freq": 150
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Two parallel clauses starting with 'Mā' create a powerful linguistic balance.",
+          "structure_my": "'Mā' နှင့် စတင်သော တွဲဖက်ဝါကျနှစ်ခုသည် အဓိပ္ပာယ်ကို ပိုမိုလေးနက်စေသည်။",
+          "insight_en": "The use of 'Mā' here covers everything—wealth, status, health—reminding us of their transience.",
+          "insight_my": "ဤနေရာတွင် 'Mā' သည် စည်းစိမ်၊ ရာထူး၊ ကျန်းမာရေး စသည့် အရာအားလုံးကို ရည်ညွှန်းပြီး ၎င်းတို့သည် ခဏတာသာ ဖြစ်ကြောင်း သတိပေးသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ب ق ي",
+            "concept_en": "To stay, remain, or be permanent.",
+            "concept_my": "တည်ရှိနေခြင်း၊ မြဲမြံခြင်း",
+            "members": [
+              {
+                "ar": "الْبَاقِي",
+                "en": "The Everlasting (Allah's Name)",
+                "my": "အလ်ဗာကီ (ထာဝရတည်မြဲသောအရှင်)",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Baqi is the opposite of Fani (perishing)."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ လက်ဝယ်ရှိသော ပစ္စည်းဥစ္စာများသည် တစ်နေ့တွင် ကုန်ဆုံးသွားမည် ဖြစ်သော်လည်း အလ္လာဟ်အရှင်မြတ်အတွက် လုပ်ဆောင်ခဲ့သော ကောင်းမှုကုသိုလ်များသည်သာ ထာဝရ တည်တံ့နေမည် ဖြစ်သည်။ စစ်မှန်သော ရင်းနှီးမြှုပ်နှံမှုမှာ အာခိရသ်အတွက် ပြင်ဆင်ခြင်းပင် ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Ma indakum yanfadu... wa ma indallahi baq.",
+          "meaning_anchor": "Worldly hand emptying vs Allah's hand full.",
+          "daily_connection": "Say this when you lose something or when you give charity.",
+          "my": "စည်းချက်ညီညီရှိသော ဝါကျနှစ်ခုကို နှိုင်းယှဉ်ကျက်မှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored the relative pronoun 'Mā', which is used for non-human things. It is a powerful tool in the Quran to talk about deeds and the difference between temporary and eternal rewards.",
+      "my": "ယနေ့တွင် သက်မဲ့များအတွက် သုံးသော 'Mā' ကို လေ့လာခဲ့သည်။ ၎င်းသည် လောကီနှင့် လောကုတ္တရာ ဆုလာဘ်များအကြောင်းကို အလွန်ထိရောက်စွာ ဖော်ပြပေးသော စကားလုံး ဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-145",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 145,
+    "title": {
+      "ar": "تَطْبِيقُ الصِّلَةِ وَالْمَوْصُولِ فِي الْقُرْآنِ",
+      "en": "Relative Clauses in Quranic Descriptions",
+      "my": "ကုရ်အာန်ရှိ ဆက်စပ်ဝါကျများကို လေ့လာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 10,
+      "grammar_focus": "Full parsing of relative clauses in Quranic ayahs",
+      "grammar_formula": "Mawsul (Pronoun) + Sila (Clause) = Complete Description"
+    },
+    "section_1_vocab": [
+      {
+        "word": "الْمُفْلِحُونَ",
+        "translit": "al-muflihūna",
+        "en": "the successful ones",
+        "my": "အောင်မြင်သူများ",
+        "quran_freq": 13,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعِلُونَ",
+        "root": {
+          "letters": "ف ل ح",
+          "concept_en": "success, farming/breaking ground",
+          "concept_my": "အောင်မြင်မှု၊ မြေလှန်စိုက်ပျိုးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Full (Successful)",
+          "image": "A farmer reaping a great harvest",
+          "cross_language": "Myanmar: ဖလာဟ် (Success)"
+        },
+        "word_family": [
+          {
+            "ar": "أَفْلَحَ",
+            "translit": "aflaha",
+            "en": "he succeeded",
+            "my": "သူအောင်မြင်ခဲ့သည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "True success in Arabic is linked to the effort of a farmer tilling the soil.",
+        "example": {
+          "ar": "أُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+          "en": "those are the successful ones",
+          "my": "ထိုသူများသည်ပင်လျှင် အောင်မြင်သူများ ဖြစ်ကြသည်",
+          "ref": "2:5"
+        }
+      },
+      {
+        "word": "الْخَاسِرُونَ",
+        "translit": "al-khāsirūna",
+        "en": "the losers",
+        "my": "ရှုံးနိမ့်သူများ",
+        "quran_freq": 26,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُونَ",
+        "root": {
+          "letters": "خ س ر",
+          "concept_en": "loss, damage",
+          "concept_my": "ဆုံးရှုံးမှု"
+        },
+        "memory_hook": {
+          "sound": "Kha-sir (Loss)",
+          "image": "A businessman with an empty bag",
+          "cross_language": "Urdu: Khasara"
+        },
+        "word_family": [
+          {
+            "ar": "خُسْر",
+            "translit": "khusr",
+            "en": "loss",
+            "my": "ဆုံးရှုံးမှု",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "The 'Fa'ilun' pattern often describes people with a certain state or quality.",
+        "example": {
+          "ar": "أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+          "en": "those are the losers",
+          "my": "ထိုသူများသည်ပင်လျှင် ဆုံးရှုံးသူများ ဖြစ်ကြသည်",
+          "ref": "2:27"
+        }
+      },
+      {
+        "word": "الْمُهْتَدُونَ",
+        "translit": "al-muhtadūna",
+        "en": "the guided ones",
+        "my": "တရားလမ်းမှန်ရသူများ",
+        "quran_freq": 20,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْتَعِلُونَ",
+        "root": {
+          "letters": "ه د ي",
+          "concept_en": "guidance",
+          "concept_my": "လမ်းညွှန်မှု"
+        },
+        "memory_hook": {
+          "sound": "Hidayah",
+          "image": "People following a bright path",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Refers to those who have accepted and followed guidance.",
+        "example": {
+          "ar": "وَأُولَٰئِكَ هُمُ الْمُهْتَدُونَ",
+          "en": "and it is those who are the [rightly] guided",
+          "my": "ထိုသူများသည်သာ လမ်းမှန်ရရှိသူများ ဖြစ်သည်",
+          "ref": "2:157"
+        }
+      },
+      {
+        "word": "الظَّالِمُونَ",
+        "translit": "az-zālimūna",
+        "en": "the wrongdoers",
+        "my": "မတရားပြုကျင့်သူများ",
+        "quran_freq": 105,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُونَ",
+        "root": {
+          "letters": "ظ ل م",
+          "concept_en": "darkness, injustice",
+          "concept_my": "အမှောင်ထု၊ မတရားမှု"
+        },
+        "memory_hook": {
+          "sound": "Zulm",
+          "image": "Shadows over a fair trial",
+          "cross_language": "Myanmar: ဇူလင်မ် (Injustice)"
+        },
+        "word_family": [
+          {
+            "ar": "ظُلْم",
+            "translit": "zulm",
+            "en": "injustice",
+            "my": "မတရားမှု",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Injustice is described as 'darkness' (Zulm) in Arabic.",
+        "example": {
+          "ar": "أُولَٰئِكَ هُمُ الظَّالِمُونَ",
+          "en": "those are the wrongdoers",
+          "my": "ထိုသူများသည်ပင်လျှင် မတရားပြုသူများဖြစ်သည်",
+          "ref": "2:229"
+        }
+      },
+      {
+        "word": "كَذَّبُوا",
+        "translit": "kadh-dhabū",
+        "en": "they denied / belied",
+        "my": "၎င်းတို့သည် ငြင်းဆိုခဲ့ကြသည်",
+        "quran_freq": 170,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلُوا",
+        "root": {
+          "letters": "ك ذ ب",
+          "concept_en": "lying, denying",
+          "concept_my": "လိမ်လည်ခြင်း၊ ငြင်းဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kadh-dhab (Liar)",
+          "image": "Crossing out a true statement",
+          "cross_language": "Urdu: Kizb"
+        },
+        "word_family": [
+          {
+            "ar": "كَذِب",
+            "translit": "kadhib",
+            "en": "lie",
+            "my": "အလိမ်အညာ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Shadda on the middle letter adds intensity to the root meaning.",
+        "example": {
+          "ar": "الَّذِينَ كَذَّبُوا",
+          "en": "those who denied",
+          "my": "ငြင်းဆိုခဲ့ကြသူများ",
+          "ref": "7:64"
+        }
+      },
+      {
+        "word": "يُفْسِدُونَ",
+        "translit": "yufsidūna",
+        "en": "they spread mischief",
+        "my": "၎င်းတို့သည် ဖျက်ဆီး/ဆူပူမှု ပြုလုပ်ကြသည်",
+        "quran_freq": 25,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفْعِلُونَ",
+        "root": {
+          "letters": "ف س د",
+          "concept_en": "corruption, decay",
+          "concept_my": "ပျက်စီးခြင်း၊ အကျင့်ပျက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fasad",
+          "image": "Pollution in a clean river",
+          "cross_language": "Myanmar: ဖစာဒ် (Mischief)"
+        },
+        "word_family": [
+          {
+            "ar": "فَسَاد",
+            "translit": "fasād",
+            "en": "mischief",
+            "my": "ဆူပူသောင်းကျန်းမှု",
+            "freq": 23
+          }
+        ],
+        "pattern_unlock": "Opposite of 'Islah' (correction/improvement).",
+        "example": {
+          "ar": "الَّذِينَ يُفْسِدُونَ فِي الْأَرْضِ",
+          "en": "those who spread corruption in the land",
+          "my": "ကမ္ဘာမြေပေါ်တွင် ဖျက်ဆီးခြင်းပြုနေကြသူများ",
+          "ref": "26:152"
+        }
+      },
+      {
+        "word": "أُولَٰئِكَ",
+        "translit": "ulāika",
+        "en": "those",
+        "my": "ထိုသူများသည်",
+        "quran_freq": 200,
+        "word_type": "Pronoun",
+        "gender": "Masculine/Feminine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "demonstrative",
+          "concept_my": "ညွှန်းပြနာမ်စား"
+        },
+        "memory_hook": {
+          "sound": "O-Like-A (Those ones)",
+          "image": "Pointing to a group in the distance",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used for pointing to a group that has just been described.",
+        "example": {
+          "ar": "أُولَٰئِكَ هُمُ",
+          "en": "those are the ones",
+          "my": "ထိုသူများသည်ပင်လျှင်",
+          "ref": "2:5"
+        }
+      },
+      {
+        "word": "هُمُ",
+        "translit": "humu",
+        "en": "they",
+        "my": "၎င်းတို့သည်",
+        "quran_freq": 1300,
+        "word_type": "Pronoun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "personal pronoun",
+          "concept_my": "ပုဂ္ဂလနာမ်စား"
+        },
+        "memory_hook": {
+          "sound": "Whom?",
+          "image": "A group of men",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Often used for emphasis between the subject and predicate.",
+        "example": {
+          "ar": "هُمُ الْمُفْلِحُونَ",
+          "en": "they are the successful ones",
+          "my": "၎င်းတို့သည် အောင်မြင်သူများ ဖြစ်ကြသည်",
+          "ref": "2:5"
+        }
+      },
+      {
+        "word": "يُكَذِّبُونَ",
+        "translit": "yukadh-dhibūna",
+        "en": "they deny",
+        "my": "၎င်းတို့သည် ငြင်းဆိုကြသည်",
+        "quran_freq": 50,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفَعِّلُونَ",
+        "root": {
+          "letters": "ك ذ ب",
+          "concept_en": "denial",
+          "concept_my": "ငြင်းဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Yukadh-dhibuna",
+          "image": "Turning back on the truth",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Present tense plural of Kadh-dhabu.",
+        "example": {
+          "ar": "الَّذِينَ يُكَذِّبُونَ",
+          "en": "those who deny",
+          "my": "ငြင်းဆိုနေကြသောသူများ",
+          "ref": "83:11"
+        }
+      },
+      {
+        "word": "يَعْمَلُونَ",
+        "translit": "ya'malūna",
+        "en": "they work / do",
+        "my": "၎င်းတို့သည် ပြုလုပ်ကြသည်",
+        "quran_freq": 100,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلُونَ",
+        "root": {
+          "letters": "ع م ل",
+          "concept_en": "action",
+          "concept_my": "အလုပ်"
+        },
+        "memory_hook": {
+          "sound": "Amal",
+          "image": "Daily work",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Present tense plural of Amilu.",
+        "example": {
+          "ar": "الَّذِينَ يَعْمَلُونَ السُّوءَ",
+          "en": "those who do evil",
+          "my": "မကောင်းမှုကို ပြုလုပ်ကြသောသူများ",
+          "ref": "4:17"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "جُمْلَةُ الصِّلَةِ",
+        "en": "The Relative Clause",
+        "my": "ဆက်စပ်ဝါကျ (Sila Clause)"
+      },
+      "formula": {
+        "display": "Noun + Relative Pronoun + Sila (The Description)",
+        "example": "الْمُؤْمِنُونَ الَّذِينَ آمَنُوا (The believers who believed)",
+        "myanmar_read": "ဆက်စပ်နာမ်စားနောက်က လိုက်လာတဲ့ စာသားအားလုံးကို 'ဆွီလာ' ဟု ခေါ်သည်",
+        "key_insight": "A relative pronoun is like a bridge; the 'Sila' is the destination you reach by crossing it."
+      },
+      "explanation": {
+        "en": "In this lesson, we consolidate everything. A relative clause consists of the 'Mawsul' (the pronoun like Alladhī) and the 'Sila' (the sentence that follows it). Together, they act as one big adjective to describe a person or a group.",
+        "my": "ဤသင်ခန်းစာတွင် ယခင်သင်ယူခဲ့သည်များကို စုစည်းပါမည်။ ဆက်စပ်ဝါကျတစ်ခုတွင် ဆက်စပ်နာမ်စား (Mawsul) နှင့် ၎င်း၏နောက်ကလိုက်လာသော ဖော်ပြချက်ဝါကျ (Sila) တို့ ပါဝင်သည်။ ၎င်းတို့နှစ်ခုပေါင်းမှသာလျှင် ပုဂ္ဂိုလ် သို့မဟုတ် အုပ်စုတစ်ခု၏ အဓိပ္ပာယ် ပြည့်စုံမည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Just as in Myanmar where we say 'စာဖတ်နေသော လူ' (the person who is reading), Arabic uses 'Al-shakhsu al-ladhi yaqra'u'. The logic is identical.",
+        "my": "မြန်မာဘာသာရှိ '...သော လူ' ဟူသော အသုံးအနှုန်းနှင့် အာရဗီရှိ '...အလ်လာဇီ' သည် အသုံးပြုပုံ တထေရာတည်း တူညီသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The Sila clause must contain a pronoun (often hidden in the verb) that refers back to the Mawsul.",
+          "rule_my": "Sila ဝါကျထဲတွင် ရှေ့က နာမ်စားကို ပြန်ညွှန်းသော အရာတစ်ခု (ဥပမာ- ကြိယာထဲက ဝါစာ) ပါဝင်ရမည်။",
+          "example": {
+            "ar": "آمَنُوا (The -u refers to Alladhina)",
+            "en": "they believed",
+            "my": "၎င်းတို့ ယုံကြည်ခဲ့ကြသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "أُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+          "en": "those are the successful ones",
+          "my": "၎င်းတို့သည် ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်ထံမှ လမ်းမှန်ညွှန်ကြားပြသချက်အပေါ်တွင် ရှိနေကြပြီး ၎င်းတို့သာလျှင် အောင်မြင်ကြမည့်သူများ ဖြစ်ကြသည်။",
+          "ref": "2:5",
+          "breakdown": {
+            "subject": {
+              "word": "أُولَٰئِكَ",
+              "en": "Those",
+              "note": "Demonstrative pronoun"
+            },
+            "predicate": {
+              "word": "الْمُفْلِحُونَ",
+              "en": "the successful ones",
+              "note": "Noun of success"
+            }
+          },
+          "myanmar_insight": "ကုရ်အာန်တွင် ဤကဲ့သို့သော ဝါကျများသည် အောင်မြင်သူများကို အခိုင်အမာ ညွှန်းဆိုရာတွင် သုံးသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Leaving the relative pronoun without a Sila",
+          "wrong": {
+            "ar": "جَاءَ الَّذِي",
+            "note": "Sentence is incomplete: Came the one who... (who what?)"
+          },
+          "correct": {
+            "ar": "جَاءَ الَّذِي نَصَرَ",
+            "en": "The one who helped came",
+            "my": "ကူညီခဲ့သောသူ ရောက်လာပြီ"
+          },
+          "myanmar_tip": "'အလ်လာဇီ' လို့ ပြောပြီးရင် နောက်က ဘာလုပ်လဲဆိုတာ ထည့်ပြောဖို့ မမေ့ပါနဲ့။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the Mawsul and the Sila in this ayah",
+          "instruction_my": "အာယသ်တော်ရှိ Mawsul နှင့် Sila ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "الَّذِينَ يُكَذِّبُونَ بِالدِّينِ",
+              "answer_en": "Mawsul: Alladhina, Sila: Yukadh-dhibuna bid-din",
+              "answer_my": "မောင်ဆိုလ်- Alladhina၊ ဆွီလာ- Yukadh-dhibuna bid-din",
+              "ref": "107:1"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: Those are the losers",
+          "instruction_my": "ဘာသာပြန်ပါ- ထိုသူများသည် ရှုံးနိမ့်သူများဖြစ်သည်",
+          "questions": [
+            {
+              "q": "أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+              "answer_en": "Those are the losers",
+              "answer_my": "ထိုသူများသည် ရှုံးနိမ့်သူများပင် ဖြစ်ကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Create a description for 'Believers' using Alladhina",
+          "instruction_my": "Alladhina ကိုသုံး၍ ယုံကြည်သူများကို ဖော်ပြပါ",
+          "questions": [
+            {
+              "q": "The believers (who) believed",
+              "answer_en": "الْمُؤْمِنُونَ الَّذِينَ آمَنُوا",
+              "answer_my": "ယုံကြည်ခဲ့ကြသော မုအ်မင်န်များ",
+              "ar": "الْمُؤْمِنُونَ الَّذِينَ آمَنُوا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The relative clause allows the Quran to define people by their actions, not just their labels. It tells us that being a 'believer' is defined by what we do (establish prayer, spend, believe).",
+        "my": "ဆက်စပ်ဝါကျများသည် လူတစ်ဦးကို နာမည်တပ်ရုံသာမက ၎င်းတို့၏ လုပ်ရပ်များဖြင့်ပါ သတ်မှတ်ပေးသည်။ 'မုအ်မင်န်' ဟူသည်မှာ လုပ်ဆောင်ချက်များ (ဝတ်ပြုခြင်း၊ လှူဒါန်းခြင်း) ရှိသူကို ခေါ်ခြင်းဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:4-5",
+        "study_number": 1,
+        "arabic_full": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ ... أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+        "en_sahih": "And those who believe in what has been revealed to you... Those are upon [right] guidance from their Lord, and it is those who are the successful.",
+        "my_mmsy": "ထို့ပြင် ၎င်းမုသ်သကီန်များသည် အသင်(တမန်တော်)ထံသို့ ထုတ်ပြန်ပို့ချခြင်းခံခဲ့ရသည့် (ကုရ်အာန်)ကျမ်းတော်ကို သာမက၊ အသင်(တမန်တော်)မတိုင်မီ (နဗီတမန်တော်များထံသို့) ထုတ်ပြန်ပို့ချခြင်းခံခဲ့ရသည့် ကျမ်းဂန်များ  ကိုလည်း ယုံကြည်ကြသည်။ ထို့ပြင် ၎င်းမုသ်သကီန်ကြောက်ရွံ့အပြစ်ရှောင် ကောင်းကျိုးဆောင်သူများသည် အာခိရသ် တမလွန်ဘဝကိုလည်း (အမှန်ဟု) ယုံကြည်ကြသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002005.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/5",
+        "context": {
+          "en": "Completing the description of the successful believers at the beginning of the Quran.",
+          "my": "ကုရ်အာန်၏ အစပိုင်းတွင် အောင်မြင်သော ယုံကြည်သူများ၏ ဖော်ပြချက်ကို အဆုံးသတ်ထားခြင်း ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْمُفْلِحُونَ",
+            "translit": "al-muflihūna",
+            "en": "the successful ones",
+            "my": "အောင်မြင်သူများ",
+            "role_en": "Noun (Plural)",
+            "role_my": "နာမ် (အများကိန်း)",
+            "root": "ف ل ح",
+            "freq": 13
+          },
+          {
+            "ar": "هُدًى",
+            "translit": "hudan",
+            "en": "guidance",
+            "my": "လမ်းညွှန်မှု",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "ه د ي",
+            "freq": 85
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The ayah uses 'Alladhina' (relative) to set the conditions, and 'Ulaika' (demonstrative) to show the result.",
+          "structure_my": "'Alladhina' ဖြင့် အခြေအနေများကို ဖော်ပြပြီး 'Ulaika' ဖြင့် ထိုသူများရရှိမည့် ရလဒ်ကို ဖော်ပြထားသည်။",
+          "insight_en": "Notice the use of 'Mā' within the Sila clause (bi-mā unzila), showing a relative clause inside another description.",
+          "insight_my": "Sila ဝါကျအတွင်း၌ပင် 'Mā' ကို သုံးထားခြင်းဖြင့် ဖော်ပြချက်တစ်ခုအတွင်း နောက်ထပ်ဖော်ပြချက်တစ်ခု ထည့်သွင်းပုံကို တွေ့ရသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ف ل ح",
+            "concept_en": "Success that is earned through continuous effort, like a farmer's labor.",
+            "concept_my": "လယ်သမားတစ်ဦးကဲ့သို့ အဆက်မပြတ် ကြိုးစားအားထုတ်မှုမှ ရရှိသော အောင်မြင်မှု",
+            "members": [
+              {
+                "ar": "فَلَّاح",
+                "en": "Farmer",
+                "my": "တောင်သူ",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Falah is distinct from other words for winning; it implies growth and fruitfulness."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အစစ်အမှန် အောင်မြင်သူများ ဖြစ်လိုပါက အလ္လာဟ်အရှင်မြတ်၏ လမ်းညွှန်မှုများကို လိုက်နာရန် လိုအပ်ပါသည်။ ကျွန်ုပ်တို့သည် မိမိတို့၏ အီမာန်နှင့် ကောင်းမှုများကို အပင်တစ်ပင်ကဲ့သို့ ဂရုစိုက်ပျိုးထောင်ပါက နောင်တမလွန်တွင် အောင်မြင်မှု အသီးအပွင့်များကို ရရှိမည် ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The repetition of 'Ulaika' creates a strong emphasis.",
+          "meaning_anchor": "People standing on a mountain of guidance.",
+          "daily_connection": "Recite when you feel you need a clear definition of success.",
+          "my": "'Ulaika' (ဥလာအိက) ကို ထပ်ခါတလဲလဲ သုံးထားခြင်းက အတည်ပြုမှုကို ပိုမိုခိုင်မာစေသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this final lesson on relative pronouns, we saw how Alladhī, Allatī, and Alladhīna build complex and beautiful descriptions in the Quran. We now know how to identify these patterns and understand who Allah is describing.",
+      "my": "ယနေ့တွင် ကုရ်အာန်ရှိ ဆက်စပ်နာမ်စားများကို အနှစ်ချုပ် လေ့လာခဲ့သည်။ အလ်လာဇီ၊ အလ်လာတီ နှင့် အလ်လာဇီးနား တို့သည် ကုရ်အာန်၏ လှပသော ဖော်ပြချက်များကို မည်သို့ တည်ဆောက်ပေးသည်ကို သိရှိနားလည်ခဲ့ပြီ ဖြစ်သည်။"
+    }
+  }
+]

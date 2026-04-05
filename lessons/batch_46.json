@@ -1,0 +1,2427 @@
+[
+  {
+    "lesson_id": "L5-226",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 226,
+    "title": {
+      "ar": "إِعْرَابُ سُورَةِ الْفَاتِحَةِ — كَلِمَةً بِكَلِمَةٍ",
+      "en": "I'rab XXVI — Parsing Surah Al-Fatiha: Word by Word",
+      "my": "စူရဟ်အလ်ဖာသိဟဟ်၏ အေ့အ်ရာဘ်ကို တစ်လုံးချင်းစီ ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Complete I'rab of every word in Al-Fatiha with case reasoning",
+      "grammar_formula": "Word + Case (Marfu/Mansub/Majrur) + Reason (Amil)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "حَمْد",
+        "translit": "hamd",
+        "en": "praise",
+        "my": "ချီးမွမ်းခြင်း",
+        "quran_freq": 43,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ح م د",
+          "concept_en": "to praise",
+          "concept_my": "ချီးမွမ်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hummed",
+          "image": "You hummed a song of praise.",
+          "cross_language": "Ahmad/Muhammad"
+        },
+        "word_family": [
+          {
+            "ar": "မَحْمُود",
+            "translit": "mahmud",
+            "en": "praised",
+            "my": "ချီးမွမ်းခံရသော",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Words ending in 'd' from this root often relate to gratitude/praise.",
+        "example": {
+          "ar": "الْحَمْدُ لِلَّهِ",
+          "en": "[All] praise is [due] to Allah",
+          "my": "ချီးမွမ်းခြင်းအပေါင်းသည် အလ္လာဟ်အရှင်မြတ်အတွက်သာ ဖြစ်တော်မူ၏",
+          "ref": "1:2"
+        }
+      },
+      {
+        "word": "رَبّ",
+        "translit": "rabb",
+        "en": "Lord",
+        "my": "ဖန်ဆင်းမွေးမြူသောသခင်",
+        "quran_freq": 980,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ر ب ب",
+          "concept_en": "lordship/nurturing",
+          "concept_my": "ပိုင်စိုးခြင်းနှင့် မွေးမြူခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rub",
+          "image": "A gardener rubs the soil to nurture seeds.",
+          "cross_language": "Rabbi (Hebrew)"
+        },
+        "word_family": [
+          {
+            "ar": "رَبَّانِيّ",
+            "translit": "rabbani",
+            "en": "godly",
+            "my": "ဘုရားသခင်ကို ကြောက်ရွံ့သော",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "This root implies ownership combined with continuous care.",
+        "example": {
+          "ar": "رَبِّ الْعَالَمِينَ",
+          "en": "Lord of the worlds",
+          "my": "လောကခပ်သိမ်းကို မွေးမြူတော်မူသောသခင်",
+          "ref": "1:2"
+        }
+      },
+      {
+        "word": "عَالَمِين",
+        "translit": "alamin",
+        "en": "worlds",
+        "my": "လောကသားများ",
+        "quran_freq": 73,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "knowledge/sign",
+          "concept_my": "အသိပညာ သို့မဟုတ် အမှတ်အသား"
+        },
+        "memory_hook": {
+          "sound": "Almanac",
+          "image": "A book containing facts about the world.",
+          "cross_language": "Ilm (knowledge)"
+        },
+        "word_family": [
+          {
+            "ar": "عَالِم",
+            "translit": "alim",
+            "en": "scholar",
+            "my": "ပညာရှိ",
+            "freq": 13
+          }
+        ],
+        "pattern_unlock": "The world is called 'Alam' because it is a sign of its Creator.",
+        "example": {
+          "ar": "رَبِّ الْعَالَمِينَ",
+          "en": "Lord of the worlds",
+          "my": "လောကခပ်သိမ်းကို မွေးမြူတော်မူသောသခင်",
+          "ref": "1:2"
+        }
+      },
+      {
+        "word": "مَالِك",
+        "translit": "malik",
+        "en": "Master/Owner",
+        "my": "ပိုင်ဆိုင်သူ",
+        "quran_freq": 3,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "م ل ك",
+          "concept_en": "possession",
+          "concept_my": "ပိုင်ဆိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mail-it",
+          "image": "The owner of the company mails the checks.",
+          "cross_language": "Malik (King)"
+        },
+        "word_family": [
+          {
+            "ar": "مُلْك",
+            "translit": "mulk",
+            "en": "dominion",
+            "my": "အချုပ်အခြာအာဏာ",
+            "freq": 48
+          }
+        ],
+        "pattern_unlock": "The 'Fa-il' pattern here denotes an active possessor.",
+        "example": {
+          "ar": "مَالِكِ يَوْمِ الدِّينِ",
+          "en": "Sovereign of the Day of Recompense",
+          "my": "တရားစီရင်ရာနေ့ကို ပိုင်စိုးတော်မူသောသခင်",
+          "ref": "1:4"
+        }
+      },
+      {
+        "word": "يَوْم",
+        "translit": "yawm",
+        "en": "Day",
+        "my": "နေ့",
+        "quran_freq": 475,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ي و م",
+          "concept_en": "time period",
+          "concept_my": "အချိန်ကာလ"
+        },
+        "memory_hook": {
+          "sound": "Yawn",
+          "image": "You yawn at the end of a long day.",
+          "cross_language": "Yawm (Urdu/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "أَيَّام",
+            "translit": "ayyam",
+            "en": "days",
+            "my": "နေ့ရက်များ",
+            "freq": 27
+          }
+        ],
+        "pattern_unlock": "Often used in IDafa (possessive) structures in the Quran.",
+        "example": {
+          "ar": "يَوْمِ الدِّينِ",
+          "en": "The Day of Recompense",
+          "my": "တရားစီရင်ရာနေ့",
+          "ref": "1:4"
+        }
+      },
+      {
+        "word": "دِين",
+        "translit": "din",
+        "en": "Religion/Judgment",
+        "my": "ဘာသာတရား သို့မဟုတ် အကျိုးပေးခြင်း",
+        "quran_freq": 92,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "د ي ن",
+          "concept_en": "debt/recompense",
+          "concept_my": "အကြွေး သို့မဟုတ် ပြန်လည်ပေးဆပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dean",
+          "image": "The Dean of the college judges the students.",
+          "cross_language": "Deen (Faith)"
+        },
+        "word_family": [
+          {
+            "ar": "مَدِين",
+            "translit": "madin",
+            "en": "indebted",
+            "my": "အကြွေးတင်နေသူ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The word implies a systematic accounting and repayment.",
+        "example": {
+          "ar": "يَوْمِ الدِّينِ",
+          "en": "The Day of Recompense",
+          "my": "တရားစီရင်ရာနေ့",
+          "ref": "1:4"
+        }
+      },
+      {
+        "word": "نَعْبُدُ",
+        "translit": "na'budu",
+        "en": "we worship",
+        "my": "ကျွန်ုပ်တို့ ခစားကိုးကွယ်ပါ၏",
+        "quran_freq": 24,
+        "word_type": "Verb",
+        "gender": "Masculine/Feminine",
+        "wazn": "نَفْعُلُ",
+        "root": {
+          "letters": "ع ب د",
+          "concept_en": "servitude/worship",
+          "concept_my": "ကျွန်ခံခြင်း သို့မဟုတ် ကိုးကွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Abid",
+          "image": "A servant named Abid bows down.",
+          "cross_language": "Abdullah"
+        },
+        "word_family": [
+          {
+            "ar": "عِبَاد",
+            "translit": "ibad",
+            "en": "servants",
+            "my": "ကျွန်များ",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "The 'Na' prefix consistently means 'We' in present tense.",
+        "example": {
+          "ar": "إِيَّاكَ نَعْبُدُ",
+          "en": "It is You we worship",
+          "my": "ကိုယ်တော်မြတ်ကိုသာလျှင် ကျွန်ုပ်တို့ခစားကိုးကွယ်ပါ၏",
+          "ref": "1:5"
+        }
+      },
+      {
+        "word": "صِرَاط",
+        "translit": "sirat",
+        "en": "Path",
+        "my": "လမ်းစဉ်",
+        "quran_freq": 45,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ص ر ط",
+          "concept_en": "straight way",
+          "concept_my": "ဖြောင့်မတ်သောလမ်း"
+        },
+        "memory_hook": {
+          "sound": "Straight",
+          "image": "A straight line across a desert.",
+          "cross_language": "Sirat (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "المُسْتَقِيم",
+            "translit": "al-mustaqim",
+            "en": "the straight",
+            "my": "ဖြောင့်မတ်သော",
+            "freq": 37
+          }
+        ],
+        "pattern_unlock": "Commonly paired with 'Mustaqim' in the Quran.",
+        "example": {
+          "ar": "الصِّرَاطَ الْمُسْتَقِيمَ",
+          "en": "The straight path",
+          "my": "ဖြောင့်မတ်သောလမ်းစဉ်",
+          "ref": "1:6"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "إِعْرَابُ الْفَاتِحَةِ",
+        "en": "Parsing Al-Fatiha",
+        "my": "အလ်ဖာသိဟဟ်၏ အေ့အ်ရာဘ် ခွဲခြမ်းစိတ်ဖြာခြင်း"
+      },
+      "formula": {
+        "display": "الْحَمْدُ (Mubtada) + لِلَّهِ (Khabar) = Nominal Sentence",
+        "example": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "myanmar_read": "ပထမဆုံး နာမ်သည် 'သမ္မုဒယ' (Mubtada) ဖြစ်ပြီး ဒုတိယပိုင်းသည် 'သတင်းစကား' (Khabar) ဖြစ်သည်။",
+        "key_insight": "In Al-Fatiha, words often end in Kasra (i) because they are attributes (Sifah) or possessives (Mudaf Ilayh) linked to 'Allah'."
+      },
+      "explanation": {
+        "en": "The I'rab of Al-Fatiha demonstrates how nouns change endings based on their relationship to Allah. 'Al-Hamdu' starts as Marfu (u) because it is the subject. Subsequent descriptions like 'Rabbi', 'Ar-Rahmani', and 'Ar-Rahimi' are in the genitive case (Majrur/i) because they follow the name of Allah (Lillah).",
+        "my": "စူရဟ်အလ်ဖာသိဟဟ်၏ အေ့အ်ရာဘ်သည် နာမ်တစ်ခုနှင့်တစ်ခု ချိတ်ဆက်ပုံကို ဖော်ပြသည်။ 'Al-Hamdu' သည် အစပြုနာမ် (Mubtada) ဖြစ်၍ 'Damma' (u) ဖြင့် ဆုံးသည်။ 'Allah' ဟူသော နာမ်၏နောက်တွင် လိုက်ပါလာသော ဘုန်းတော်ဘွဲ့များဖြစ်သည့် 'Rabbi', 'Ar-Rahman' တို့သည် 'Kasra' (i) ဖြင့် ဆုံးကြသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we use post-positions like '၏' for possession. In Arabic I'rab, this is shown through vowel changes at the end of the word.",
+        "my": "မြန်မာဘာသာစကားတွင် '၏' ဟူသော ပိုင်ဆိုင်မှုပြပစ္စည်းကို သုံးသကဲ့သို့ အာရဗီတွင် စာလုံးအဆုံးသတ်ဗျည်းပြောင်းလဲခြင်း (I'rab) ဖြင့် ဖော်ပြသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Attributes (Sifat) follow the case of the noun they describe.",
+          "rule_my": "ဘုန်းတော်ဘွဲ့ (Sifat) များသည် ၎င်းတို့ဖော်ပြသော နာမ်၏ အေ့အ်ရာဘ်အတိုင်း လိုက်ရသည်။",
+          "example": {
+            "ar": "لِلَّهِ رَبِّ",
+            "en": "For Allah, Lord...",
+            "my": "အလ္လာဟ်အရှင်မြတ်၊ ဖန်ဆင်းရှင်အတွက်..."
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "الْحَمْدُ لِلَّهِ",
+          "en": "All praise is for Allah",
+          "my": "ချီးမွမ်းခြင်းဟူသမျှသည် စကြဝဠာအပေါင်းကို ဖန်ဆင်းမွေးမြူတော်မူသော အလ္လာဟ်အရှင်မြတ်အတွက်သာဖြစ်ပါသည်။",
+          "ref": "1:2",
+          "breakdown": {
+            "subject": {
+              "word": "الْحَمْدُ",
+              "en": "The Praise",
+              "note": "Mubtada (Marfu with Damma)"
+            },
+            "predicate": {
+              "word": "لِلَّهِ",
+              "en": "For Allah",
+              "note": "Jar wa Majrur (Khabar)"
+            }
+          },
+          "myanmar_insight": "'Al-Hamdu' သည် 'u' ဖြင့်ဆုံးခြင်းမှာ အကြောင်းအရာ၏ အဓိက အစပြုနာမ် ဖြစ်သောကြောင့်ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing up the vowels in the attributes of Allah.",
+          "wrong": {
+            "ar": "لِلَّهِ رَبُّ",
+            "note": "Using 'u' instead of 'i'"
+          },
+          "correct": {
+            "ar": "لِلَّهِ رَبِّ",
+            "en": "For Allah, Lord...",
+            "my": "အလ္လာဟ်အရှင်မြတ်၊ ဖန်ဆင်းရှင်အတွက်..."
+          },
+          "myanmar_tip": "ရှေ့က 'Allah' မှာ 'i' ပါရင် နောက်က ဘုန်းတော်ဘွဲ့တွေမှာလည်း 'i' လိုက်ရမယ်လို့ မှတ်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify why 'Rabbi' is Majrur (ends in i) in Al-Fatiha",
+          "instruction_my": "'Rabbi' သည် အဘယ်ကြောင့် Majrur ဖြစ်နေသနည်း ရှာဖွေပါ။",
+          "questions": [
+            {
+              "q": "رَبِّ الْعَالَمِينَ",
+              "answer_en": "It is an attribute (Sifah) of Allah (Lillah)",
+              "answer_my": "၎င်းသည် 'Allah' ၏ ဘုန်းတော်ဘွဲ့ (Sifah) ဖြစ်သောကြောင့်ဖြစ်သည်။",
+              "ref": "1:2"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the following with attention to case endings",
+          "instruction_my": "အဆုံးသတ်သရများကို သတိပြု၍ ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "مَالِكِ يَوْمِ الدِّينِ",
+              "answer_en": "Master of the Day of Judgment",
+              "answer_my": "တရားစီရင်ရာနေ့ကို ပိုင်စိုးတော်မူသောသခင်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Complete the phrase with the correct vowel for 'Hamd'",
+          "instruction_my": "'Hamd' စာလုံးကို မှန်ကန်သော သရဖြင့် ဖြည့်စွက်ပါ။",
+          "questions": [
+            {
+              "q": "الْحَمْد_ لِلَّهِ",
+              "answer_en": "al-hamdu",
+              "answer_my": "အလ်ဟမ်ဒု",
+              "ar": "الْحَمْدُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Every time we say 'Al-Hamdu', we place praise as the foundation of our existence. The grammar connects everything back to Allah as the Source and Sustainer.",
+        "my": "ကျွန်ုပ်တို့ 'Al-Hamdu' ဟု ဆိုတိုင်း ချီးမွမ်းခြင်းကို ဘဝ၏ အခြေခံအုတ်မြစ်အဖြစ် ထားရှိခြင်းဖြစ်သည်။ အာရဗီသဒ္ဒါအရ အရာခပ်သိမ်းသည် အလ္လာဟ်အရှင်မြတ်ထံသို့သာ ပြန်လည်ဦးတည်နေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Fatiha 1:5",
+        "study_number": 1,
+        "arabic_full": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "en_sahih": "It is You we worship and You we ask for help.",
+        "my_mmsy": "ကျွန်ုပ်တို့သည် အရှင်မြတ်ကိုသာလျှင် ကိုးကွယ်ကြပါသည် ။ ထို့ပြင် ကျွန်ုပ်တို့သည် အရှင်မြတ်ထံမှသာလျှင် အကူအညီတောင်းခံကြပါသည် ။",
+        "audio_ref": {
+          "surah": 1,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/001005.mp3"
+        },
+        "qurancom_url": "https://quran.com/1/5",
+        "context": {
+          "en": "This is the heart of the Surah, shifting from praising Allah to a direct conversation and commitment from the believer.",
+          "my": "ဤသည်မှာ စူရဟ်၏ နှလုံးသားဖြစ်သည်။ အလ္လာဟ်အရှင်မြတ်ကို ချီးမွမ်းခြင်းမှ အရှင်မြတ်နှင့် တိုက်ရိုက်စကားပြောဆိုခြင်းသို့ ကူးပြောင်းသွားသည့်နေရာဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "إِيَّاكَ",
+            "translit": "iyyaka",
+            "en": "You alone",
+            "my": "ကိုယ်တော်မြတ်ကိုသာလျှင်",
+            "role_en": "Object (advanced placement)",
+            "role_my": "ကံပုဒ်",
+            "root": "N/A",
+            "freq": 24
+          },
+          {
+            "ar": "نَعْبُدُ",
+            "translit": "na'budu",
+            "en": "we worship",
+            "my": "ကျွန်ုပ်တို့ခစားကိုးကွယ်ပါ၏",
+            "role_en": "Verb + Subject (We)",
+            "role_my": "ကြိယာနှင့် ကတ္တား",
+            "root": "ع ب د",
+            "freq": 24
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The object 'Iyyaka' comes before the verb 'Na'budu' to signify exclusivity (Hasr).",
+          "structure_my": "ကံပုဒ် 'Iyyaka' ကို ကြိယာ၏ရှေ့တွင် ထားခြင်းဖြင့် 'သီးသန့်' (ကိုယ်တော်မှတစ်ပါး အခြားမရှိ) ဟူသော အဓိပ္ပာယ်ကို ဆောင်စေသည်။",
+          "insight_en": "If it were 'Na'buduka', it would mean 'We worship You'. By saying 'Iyyaka Na'budu', it means 'We worship You ALONE'.",
+          "insight_my": "အကယ်၍ 'Na'buduka' ဟုဆိုလျှင် 'ကိုယ်တော်ကို ကိုးကွယ်ပါသည်' ဟု အဓိပ္ပာယ်ရသော်လည်း 'Iyyaka Na'budu' က 'ကိုယ်တော်ကိုသာလျှင် (သီးသန့်) ကိုးကွယ်ပါသည်' ဟု အဓိပ္ပာယ်ရသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ب د",
+            "concept_en": "Total surrender and love of a slave to his master.",
+            "concept_my": "ကျွန်တစ်ဦး၏ သခင်အပေါ် ထားရှိသော လုံးဝဥဿုံ လက်နက်ချခြင်းနှင့် ချစ်ခြင်းမေတ္တာ။",
+            "members": [
+              {
+                "ar": "عَبْد",
+                "en": "slave",
+                "my": "ကျွန်",
+                "freq": 125
+              }
+            ],
+            "professors_note": "In Arabic, 'Ibada' is not just ritual; it is a path worn smooth by constant walking—meaning total submission."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ကျွန်ုပ်တို့၏ဘဝတွင် အလ္လာဟ်အရှင်မြတ် တစ်ပါးတည်းသာလျှင် အားကိုးရာဖြစ်ကြောင်း သတိပေးနေသည်။ ကျွန်ုပ်တို့၏ နေ့စဉ်လုပ်ငန်းဆောင်တာတိုင်းတွင် အရှင်မြတ်၏ အကူအညီမပါဘဲ ဘာမျှမတတ်နိုင်ပါ။ 'ကိုယ်တော်မြတ်ကိုသာလျှင် ကျွန်ုပ်တို့ အကူအညီတောင်းခံပါ၏' ဟု ဆိုခြင်းဖြင့် မာန်မာနများကို ဖယ်ရှားပြီး အရှင်မြတ်၏ ရှေ့မှောက်တွင် နှိမ့်ချမှုကို ရရှိစေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The repetitive 'Iyyaka' creates a powerful rhythmic focus on the Creator.",
+          "meaning_anchor": "Imagine yourself standing in a vast empty space, speaking directly to the only King.",
+          "daily_connection": "Recited in every single unit (Raka'ah) of prayer, reaffirming our covenant.",
+          "my": "ဤအာယသ်ကို အလွတ်ကျက်ရာတွင် 'Iyyaka' နှလုံးကို အာရုံစိုက်ပါ။ ၎င်းသည် ဆွလာသ်တိုင်းတွင် မပါမဖြစ် ဆိုရသော အာယသ်ဖြစ်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we analyzed the grammatical structure of Al-Fatiha, understanding how case endings reflect the majesty of Allah. We learned that the positioning of words can change the entire meaning, such as emphasizing exclusivity in worship.",
+      "my": "ဤသင်ခန်းစာတွင် စူရဟ်အလ်ဖာသိဟဟ်၏ သဒ္ဒါတည်ဆောက်ပုံကို လေ့လာခဲ့ပြီး အဆုံးသတ်သရများက အလ္လာဟ်အရှင်မြတ်၏ ကြီးကျယ်မှုကို မည်သို့ဖော်ပြသည်ကို နားလည်ခဲ့ကြသည်။ စာလုံးများ၏ ရှေ့နောက်စီစဉ်ပုံက ကိုးကွယ်မှုတွင် အရှင်မြတ်တစ်ပါးတည်းကိုသာ ရည်ညွှန်းခြင်းဖြစ်ကြောင်းကိုလည်း လေ့လာခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L5-227",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 227,
+    "title": {
+      "ar": "إِعْرَابُ سُورَةِ الْإِخْلَاصِ — التَّحْلِيلُ الْكَامِلُ",
+      "en": "I'rab XXVII — Parsing Surah Al-Ikhlas: Full Analysis",
+      "my": "စူရဟ်အလ်အစ်ခ်လားစ်၏ အေ့အ်ရာဘ်ကို အပြည့်အစုံ ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "I'rab of Al-Ikhlas; nominal sentences and negation analysis",
+      "grammar_formula": "Huwa (Mubtada) + Allahu (Khabar 1) + Ahad (Khabar 2)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "أَحَد",
+        "translit": "ahad",
+        "en": "One",
+        "my": "တစ်ပါးတည်း",
+        "quran_freq": 85,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "أ ح د",
+          "concept_en": "unity/oneness",
+          "concept_my": "တစ်လုံးတစ်ဝတည်းဖြစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ahead",
+          "image": "The number one is always ahead.",
+          "cross_language": "Wahid (One)"
+        },
+        "word_family": [
+          {
+            "ar": "وَاحِد",
+            "translit": "wahid",
+            "en": "one",
+            "my": "တစ်ခု",
+            "freq": 61
+          }
+        ],
+        "pattern_unlock": "'Ahad' is used specifically to deny any partner or peer.",
+        "example": {
+          "ar": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+          "en": "Say, 'He is Allah, [who is] One'",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် တစ်ပါးတည်းဖြစ်တော်မူ၏ဟု ပြောကြားပါ",
+          "ref": "112:1"
+        }
+      },
+      {
+        "word": "صَمَد",
+        "translit": "samad",
+        "en": "Eternal Refuge",
+        "my": "အရာခပ်သိမ်း အားကိုးရာ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "ص م د",
+          "concept_en": "solid/resort",
+          "concept_my": "ခိုင်မာခြင်း သို့မဟုတ် အမှီသဟဲပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Summit",
+          "image": "The summit of a mountain is where everyone looks up to.",
+          "cross_language": "Samad (Name)"
+        },
+        "word_family": [
+          {
+            "ar": "မَصْمُود",
+            "translit": "masmud",
+            "en": "intended",
+            "my": "ရည်ရွယ်ထားသော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This word appears only once in the Quran, unique to Allah.",
+        "example": {
+          "ar": "اللَّهُ الصَّمَدُ",
+          "en": "Allah, the Eternal Refuge",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်း အားကိုးရာ ဖြစ်တော်မူ၏",
+          "ref": "112:2"
+        }
+      },
+      {
+        "word": "لَمْ",
+        "translit": "lam",
+        "en": "did not",
+        "my": "မ...ခဲ့ပါ",
+        "quran_freq": 560,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "past negation",
+          "concept_my": "အတိတ်ကာလ ငြင်းပယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Lamb",
+          "image": "The lamb did not jump over the fence.",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Always makes the following present tense verb 'Majzum' (ends in sukun).",
+        "example": {
+          "ar": "لَمْ يَلِدْ",
+          "en": "He neither begets",
+          "my": "အရှင်မြတ်သည် သားသမီးမွေးဖွားခြင်းမရှိ",
+          "ref": "112:3"
+        }
+      },
+      {
+        "word": "يَلِدْ",
+        "translit": "yalid",
+        "en": "begets",
+        "my": "မွေးဖွားသည်",
+        "quran_freq": 2,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعِلْ",
+        "root": {
+          "letters": "و ل د",
+          "concept_en": "giving birth",
+          "concept_my": "မွေးဖွားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Yield",
+          "image": "A tree yields fruit like a mother gives birth.",
+          "cross_language": "Walad (Child)"
+        },
+        "word_family": [
+          {
+            "ar": "وَلَد",
+            "translit": "walad",
+            "en": "boy/son",
+            "my": "သား",
+            "freq": 65
+          }
+        ],
+        "pattern_unlock": "Ends in sukun because of the preceding 'Lam'.",
+        "example": {
+          "ar": "لَمْ يَلِدْ",
+          "en": "He neither begets",
+          "my": "အရှင်မြတ်သည် သားသမီးမွေးဖွားခြင်းမရှိ",
+          "ref": "112:3"
+        }
+      },
+      {
+        "word": "يُولَدْ",
+        "translit": "yulad",
+        "en": "is born",
+        "my": "မွေးဖွားခြင်းခံရသည်",
+        "quran_freq": 1,
+        "word_type": "Verb (Passive)",
+        "gender": "Masculine",
+        "wazn": "يُوفَعَلْ",
+        "root": {
+          "letters": "و ل د",
+          "concept_en": "being born",
+          "concept_my": "မွေးဖွားခြင်းခံရခြင်း"
+        },
+        "memory_hook": {
+          "sound": "You-lad",
+          "image": "You were once a lad who was born.",
+          "cross_language": "Maulid"
+        },
+        "word_family": [
+          {
+            "ar": "مَوْلُود",
+            "translit": "mawlud",
+            "en": "newborn",
+            "my": "မွေးကင်းစကလေး",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The 'u' sound at the start indicates the passive voice (Majhul).",
+        "example": {
+          "ar": "وَلَمْ يُولَدْ",
+          "en": "nor is He born",
+          "my": "မွေးဖွားခြင်းလည်း မခံရ",
+          "ref": "112:3"
+        }
+      },
+      {
+        "word": "كُفُوًا",
+        "translit": "kufuwan",
+        "en": "equivalent",
+        "my": "တုနှိုင်းဖွယ်",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعُلًا",
+        "root": {
+          "letters": "ك ف ؤ",
+          "concept_en": "equal/matching",
+          "concept_my": "တူညီခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Couple",
+          "image": "A couple are two people who match.",
+          "cross_language": "Kufu (Marriage compatibility)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Appears in Mansub (an) form here as the predicate of 'Yakun'.",
+        "example": {
+          "ar": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+          "en": "Nor is there to Him any equivalent",
+          "my": "အရှင်နှင့် တုနှိုင်းဖွယ် တစ်စုံတစ်ယောက်မျှမရှိ",
+          "ref": "112:4"
+        }
+      },
+      {
+        "word": "كُنْ",
+        "translit": "kun",
+        "en": "Be",
+        "my": "ဖြစ်စေ",
+        "quran_freq": 8,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فُلْ",
+        "root": {
+          "letters": "ك و ن",
+          "concept_en": "existence",
+          "concept_my": "တည်ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Can",
+          "image": "God 'can' make anything happen by saying 'Kun'.",
+          "cross_language": "Kawn (Universe)"
+        },
+        "word_family": [
+          {
+            "ar": "كَانَ",
+            "translit": "kana",
+            "en": "was",
+            "my": "ဖြစ်ခဲ့သည်",
+            "freq": 1358
+          }
+        ],
+        "pattern_unlock": "The root K-W-N is the most common root for 'existence' in Arabic.",
+        "example": {
+          "ar": "كُن فَيَكُونُ",
+          "en": "Be, and it is",
+          "my": "ဖြစ်စေဟုဆိုလျှင် ဖြစ်လာတော့၏",
+          "ref": "2:117"
+        }
+      },
+      {
+        "word": "يَكُن",
+        "translit": "yakun",
+        "en": "is/becomes",
+        "my": "ဖြစ်သည်",
+        "quran_freq": 50,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفُلْ",
+        "root": {
+          "letters": "ك و ن",
+          "concept_en": "being",
+          "concept_my": "ဖြစ်တည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ye-con",
+          "image": "A construction worker making a building exist.",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "تَكُون",
+            "translit": "takun",
+            "en": "you are",
+            "my": "သင်ဖြစ်သည်",
+            "freq": 30
+          }
+        ],
+        "pattern_unlock": "The 'vowel dropping' in 'Yakun' is due to the particle 'Lam'.",
+        "example": {
+          "ar": "وَلَمْ يَكُن",
+          "en": "And there was not",
+          "my": "မရှိခဲ့ပါ",
+          "ref": "112:4"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "إِعْرَابُ سُورَةِ الْإِخْلَاصِ",
+        "en": "I'rab of Surah Al-Ikhlas",
+        "my": "စူရဟ်အလ်အစ်ခ်လားစ်၏ အေ့အ်ရာဘ်"
+      },
+      "formula": {
+        "display": "لَمْ + Present Tense Verb = Majzum (Sukun)",
+        "example": "لَمْ يَلِدْ",
+        "myanmar_read": "'Lam' (မ...ခဲ့) ပါလျှင် နောက်ကကြိယာသည် Sukun (သတ်) ဖြင့် အဆုံးသတ်ရမည်။",
+        "key_insight": "Surah Al-Ikhlas uses 'Lam' to negate Allah's characteristics in a way that covers all of time, past and present."
+      },
+      "explanation": {
+        "en": "Surah Al-Ikhlas begins with 'Qul' (Imperative). The phrase 'Huwallahu Ahad' is a nominal sentence where 'Huwa' is the subject and 'Allahu' and 'Ahad' act as successive predicates (Khabar). The second half of the Surah uses 'Lam' which changes the present tense verbs to a 'Jazm' state, ending in Sukun.",
+        "my": "စူရဟ်အလ်အစ်ခ်လားစ်သည် 'Qul' (ပြောကြားပါ) ဟူသော အမိန့်ပေးကြိယာဖြင့် စတင်သည်။ 'Huwallahu Ahad' တွင် 'Huwa' သည် ကတ္တား (Subject) ဖြစ်ပြီး 'Allahu' နှင့် 'Ahad' တို့သည် သတင်းစကား (Predicate) များဖြစ်သည်။ 'Lam' ပါဝင်သောကြောင့် နောက်က ကြိယာများတွင် 'Sukun' (သတ်) များ ဖြစ်သွားသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use 'မ...ဘူး' or 'မ...ခဲ့ဘူး' for negation. In Arabic, 'Lam' not only negates but also enforces a specific grammatical ending (Sukun).",
+        "my": "မြန်မာဘာသာတွင် 'မ...ဘူး' ဟု ငြင်းပယ်သကဲ့သို့ အာရဗီတွင် 'Lam' ကို သုံးသည်။ ထူးခြားချက်မှာ 'Lam' သည် နောက်က စာလုံး၏ အသံကိုပါ 'သတ်' သံပြောင်းစေသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The particle 'Lam' makes the verb Jussive (Majzum).",
+          "rule_my": "'Lam' သည် ကြိယာကို 'Majzum' (Sukun ဖြင့်အဆုံးသတ်ခြင်း) ဖြစ်စေသည်။",
+          "example": {
+            "ar": "لَمْ يَلِدْ",
+            "en": "He did not beget",
+            "my": "အရှင်မြတ်သည် မွေးဖွားခြင်းမရှိခဲ့ပါ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "اللَّهُ الصَّمَدُ",
+          "en": "Allah, the Eternal Refuge",
+          "my": "(၂)  အလ္လာဟ်အရှင်မြတ်သည် လိုလားတောင့်တခြင်းဟူသမျှမှကင်းတော်မူသောအရှင်(သူတစ်ပါးတို့၏ မှီခိုအားထားရာအရှင်၊ အမြဲထာဝရအရှင်)ဖြစ်တော်မူသည်။",
+          "ref": "112:2",
+          "breakdown": {
+            "subject": {
+              "word": "اللَّهُ",
+              "en": "Allah",
+              "note": "Mubtada"
+            },
+            "predicate": {
+              "word": "الصَّمَدُ",
+              "en": "The Eternal",
+              "note": "Khabar"
+            }
+          },
+          "myanmar_insight": "ဤဝါကျသည် နာမ်နှစ်ခုဖြင့် တည်ဆောက်ထားသော ရိုးရှင်းသည့် ဝါကျဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Saying 'Lam Yalidu' instead of 'Lam Yalid'.",
+          "wrong": {
+            "ar": "لَمْ يَلِدُ",
+            "note": "Keeping the Damma vowel"
+          },
+          "correct": {
+            "ar": "لَمْ يَلِدْ",
+            "en": "He did not beget",
+            "my": "အရှင်မြတ်သည် မွေးဖွားခြင်းမရှိခဲ့ပါ"
+          },
+          "myanmar_tip": "'Lam' တွေ့ရင် အသံကို 'သတ်' (Sukun) လိုက်ဖို့ မမေ့ပါနဲ့။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the 'Mubtada' in the first ayah of Al-Ikhlas",
+          "instruction_my": "ပထမအာယသ်ရှိ 'Mubtada' (အစပြုနာမ်) ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+              "answer_en": "هُوَ (Huwa)",
+              "answer_my": "هُوَ (ဟူဝ)",
+              "ref": "112:1"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'Lam Yulad' into English",
+          "instruction_my": "'Lam Yulad' ကို အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "لَمْ يُولَدْ",
+              "answer_en": "Nor was He born",
+              "answer_my": "မွေးဖွားခြင်းလည်း မခံရ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Convert 'Yalidu' to the negative past using 'Lam'",
+          "instruction_my": "'Yalidu' ကို 'Lam' သုံး၍ အတိတ်ငြင်းပယ်ပုံစံ ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "يَلِدُ",
+              "answer_en": "Lam Yalid",
+              "answer_my": "လမ်ယလစ်ဒ်",
+              "ar": "لَمْ يَلِدْ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Surah Al-Ikhlas is the definition of Pure Monotheism. The grammar reflects this by stripping away complexity, using direct nominal sentences to state the absolute nature of Allah.",
+        "my": "စူရဟ်အလ်အစ်ခ်လားစ်သည် စစ်မှန်သော တောင်ဟီးဒ် (အရှင်မြတ်တစ်ပါးတည်းဖြစ်မှု) ၏ အဓိပ္ပာယ်ဖွင့်ဆိုချက်ဖြစ်သည်။ သဒ္ဒါတည်ဆောက်ပုံသည် ရိုးရှင်းသော်လည်း အလ္လာဟ်အရှင်မြတ်၏ အနှစ်သာရကို တိုက်ရိုက်ဖော်ပြသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Ikhlas 112:4",
+        "study_number": 1,
+        "arabic_full": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+        "en_sahih": "Nor is there to Him any equivalent.",
+        "my_mmsy": "(၄) ထို့ပြင် အရှင်မြတ်တွင် ဂုဏ်ရည်တူသူဟူ၍လည်း တစ်ဦးတစ်ယောက်မျှ မရှိပေ။",
+        "audio_ref": {
+          "surah": 112,
+          "ayah": 4,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/112004.mp3"
+        },
+        "qurancom_url": "https://quran.com/112/4",
+        "context": {
+          "en": "This is the final ayah of the Surah, concluding the absolute uniqueness of Allah by stating He has no equal.",
+          "my": "ဤသည်မှာ စူရဟ်၏ နောက်ဆုံးအာယသ်ဖြစ်သည်။ အလ္လာဟ်အရှင်မြတ်နှင့် တူညီသူ လုံးဝမရှိကြောင်း အဆုံးသတ်ထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "كُفُوًا",
+            "translit": "kufuwan",
+            "en": "equivalent",
+            "my": "တူညီသူ",
+            "role_en": "Predicate of Kana (Mansub)",
+            "role_my": "ကြိယာ၏ သတင်းစကား",
+            "root": "ك ف ؤ",
+            "freq": 1
+          },
+          {
+            "ar": "أَحَدٌ",
+            "translit": "ahadun",
+            "en": "one/anyone",
+            "my": "တစ်စုံတစ်ယောက်",
+            "role_en": "Subject of Kana (Marfu)",
+            "role_my": "ကြိယာ၏ ကတ္တား",
+            "root": "أ ح د",
+            "freq": 85
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "In this ayah, the word 'Ahad' (Subject) is delayed to the very end for emphasis.",
+          "structure_my": "ဤအာယသ်တွင် 'Ahad' (ကတ္တား) ကို အလေးပေးလိုသောကြောင့် နောက်ဆုံးမှ ထားရှိသည်။",
+          "insight_en": "The grammar structure 'Nor was there for Him equivalent anyone' emphasizes that absolutely nobody fits the description of being Allah's equal.",
+          "insight_my": "သဒ္ဒါအရ 'အရှင်မြတ်အတွက် တူညီသူ တစ်ယောက်မျှ မရှိခဲ့ပါ' ဟု ဆိုခြင်းဖြင့် အရှင်မြတ်၏ အနှိုင်းမဲ့မှုကို အလေးပေးထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ك ف ؤ",
+            "concept_en": "To be a match or equal in status.",
+            "concept_my": "အဆင့်အတန်း တူညီခြင်း သို့မဟုတ် ထိုက်တန်ခြင်း။",
+            "members": [
+              {
+                "ar": "كُفُؤ",
+                "en": "equal",
+                "my": "တူညီသောသူ",
+                "freq": 1
+              }
+            ],
+            "professors_note": "In marital law (Kafa'ah), this root is used to describe compatibility, but here it is used to deny any compatibility with the Divine."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မည်သူနှင့်မျှ မတူ၊ မည်သူသည်မျှလည်း အရှင်မြတ်နှင့် မတူနိုင်ပါ။ ကျွန်ုပ်တို့၏ စိတ်ကူးထဲတွင် ပေါ်လာသမျှအရာအားလုံးသည် ဖန်ဆင်းခံများသာ ဖြစ်သည်။ ဤအာယသ်တော်ကို ရွတ်ဆိုခြင်းဖြင့် ကျွန်ုပ်တို့၏ ယုံကြည်ချက် (အကီဒဟ်) ကို ခိုင်မာစေပြီး အရှင်မြတ်၏ ကြီးကျယ်မှုကို နှလုံးသွင်းနိုင်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah ends with the heavy 'D' sound of 'Ahad', giving a firm conclusion.",
+          "meaning_anchor": "Think of a scale where one side has Allah and the other side is forever empty.",
+          "daily_connection": "Recited to protect one's faith and clarify the concept of God in Islam.",
+          "my": "နောက်ဆုံး စာလုံး 'Ahad' ရှိ 'D' အသံကို ခိုင်ခိုင်မာမာ ထွက်ဆိုပါ။ ၎င်းသည် အရှင်မြတ်၏ တစ်ပါးတည်းဖြစ်မှုကို အမှတ်ရစေသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored Surah Al-Ikhlas, focusing on how the particle 'Lam' creates a definitive negation and how the nominal sentences define Allah's nature. This Surah is short but grammatically rich in expressing absolute oneness.",
+      "my": "စူရဟ်အလ်အစ်ခ်လားစ်ကို လေ့လာခဲ့ရာတွင် 'Lam' က မည်သို့ပြတ်ပြတ်သားသား ငြင်းပယ်သည်နှင့် နာမ်ဝါကျများက အလ္လာဟ်အရှင်မြတ်၏ သဘာဝကို မည်သို့အဓိပ္ပာယ်ဖွင့်သည်ကို သိရှိခဲ့ရသည်။ ဤစူရဟ်သည် တိုတောင်းသော်လည်း အရှင်မြတ်၏ တစ်ပါးတည်းဖြစ်မှုကို ဖော်ပြရာတွင် သဒ္ဒါအရ အလွန်ပြည့်စုံသည်။"
+    }
+  },
+  {
+    "lesson_id": "L5-228",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 228,
+    "title": {
+      "ar": "إِعْرَابُ سُورَةِ الْكَافِرُونَ — تَحْلِيلُ أَدَوَاتِ النَّفْيِ",
+      "en": "I'rab XXVIII — Parsing Surah Al-Kafirun: Full Analysis",
+      "my": "စူရဟ်အလ်ကာဖိရွန်း၏ အေ့အ်ရာဘ်ကို အပြည့်အစုံ ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "I'rab of Al-Kafirun; Lā negation patterns",
+      "grammar_formula": "Lā (Negation) + A'budu (Present Tense)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "كَافِرُون",
+        "translit": "kafirun",
+        "en": "disbelievers",
+        "my": "ငြင်းပယ်သူများ",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُون",
+        "root": {
+          "letters": "ك ف ر",
+          "concept_en": "to cover/disbelieve",
+          "concept_my": "ဖုံးအုပ်ခြင်း သို့မဟုတ် ငြင်းပယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cover",
+          "image": "A farmer covers a seed in the ground.",
+          "cross_language": "Kafir (Malay/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "كُفْر",
+            "translit": "kufr",
+            "en": "disbelief",
+            "my": "ငြင်းပယ်မှု",
+            "freq": 37
+          }
+        ],
+        "pattern_unlock": "The 'un' ending indicates a plural masculine noun in the Marfu state.",
+        "example": {
+          "ar": "يَا أَيُّهَا الْكَافِرُونَ",
+          "en": "O disbelievers",
+          "my": "အို-ငြင်းပယ်သူအပေါင်းတို့",
+          "ref": "109:1"
+        }
+      },
+      {
+        "word": "أَعْبُدُ",
+        "translit": "a'budu",
+        "en": "I worship",
+        "my": "ကျွန်ုပ်ခစားကိုးကွယ်ပါ၏",
+        "quran_freq": 24,
+        "word_type": "Verb",
+        "gender": "Masculine/Feminine",
+        "wazn": "أَفْعُلُ",
+        "root": {
+          "letters": "ع b د",
+          "concept_en": "worship/servitude",
+          "concept_my": "ခစားကိုးကွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "A-bud",
+          "image": "I am a bud on the tree of worship.",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "عَابِد",
+            "translit": "abid",
+            "en": "worshipper",
+            "my": "ကိုးကွယ်သူ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The 'A' prefix indicates 'I' in the present tense.",
+        "example": {
+          "ar": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+          "en": "I do not worship what you worship",
+          "my": "သင်တို့ကိုးကွယ်သောအရာကို ကျွန်ုပ်မကိုးကွယ်ပါ",
+          "ref": "109:2"
+        }
+      },
+      {
+        "word": "تَعْبُدُون",
+        "translit": "ta'budun",
+        "en": "you (all) worship",
+        "my": "သင်တို့ကိုးကွယ်ကြသည်",
+        "quran_freq": 20,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "تَفْعُلُون",
+        "root": {
+          "letters": "ع b د",
+          "concept_en": "worship",
+          "concept_my": "ကိုးကွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ta-bud",
+          "image": "You all are at the temple.",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "The 'Ta...un' pattern indicates 'You (plural)' in present tense.",
+        "example": {
+          "ar": "مَا تَعْبُدُونَ",
+          "en": "what you worship",
+          "my": "သင်တို့ကိုးကွယ်သောအရာ",
+          "ref": "109:2"
+        }
+      },
+      {
+        "word": "عَابِدُون",
+        "translit": "abidun",
+        "en": "worshippers",
+        "my": "ကိုးကွယ်သူများ",
+        "quran_freq": 7,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُون",
+        "root": {
+          "letters": "ع b د",
+          "concept_en": "servant",
+          "concept_my": "ကျွန် သို့မဟုတ် ကိုးကွယ်သူ"
+        },
+        "memory_hook": {
+          "sound": "Abid-un",
+          "image": "A group of worshippers.",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "This is an 'Ism Fa-il' (Active Participle) in plural form.",
+        "example": {
+          "ar": "وَلَا أَنتُمْ عَابِدُونَ",
+          "en": "Nor are you worshippers",
+          "my": "သင်တို့သည်လည်း ကိုးကွယ်သူများမဟုတ်ကြ",
+          "ref": "109:3"
+        }
+      },
+      {
+        "word": "عَابِد",
+        "translit": "abid",
+        "en": "worshipper",
+        "my": "ကိုးကွယ်သူ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ع b د",
+          "concept_en": "one who serves",
+          "concept_my": "ခစားသူ"
+        },
+        "memory_hook": {
+          "sound": "Abid",
+          "image": "One single person worshipping.",
+          "cross_language": "Abid (Name)"
+        },
+        "word_family": [],
+        "pattern_unlock": "The 'Fa-il' pattern denotes the doer of the action.",
+        "example": {
+          "ar": "وَلَا أَنَا عَابِدٌ",
+          "en": "Nor am I a worshipper",
+          "my": "ကျွန်ုပ်သည်လည်း ကိုးကွယ်သူမဟုတ်ပါ",
+          "ref": "109:4"
+        }
+      },
+      {
+        "word": "عَبَدتُّم",
+        "translit": "abadtum",
+        "en": "you (all) worshipped",
+        "my": "သင်တို့ကိုးကွယ်ခဲ့ကြသည်",
+        "quran_freq": 1,
+        "word_type": "Verb (Past)",
+        "gender": "Masculine",
+        "wazn": "فَعَلْتُمْ",
+        "root": {
+          "letters": "ع b د",
+          "concept_en": "past worship",
+          "concept_my": "အတိတ်က ကိုးကွယ်မှု"
+        },
+        "memory_hook": {
+          "sound": "Abad-tum",
+          "image": "You all did it in the past.",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "The 'tum' suffix indicates 'You (plural)' in past tense.",
+        "example": {
+          "ar": "مَا عَبَدتُّمْ",
+          "en": "what you worshipped",
+          "my": "သင်တို့ကိုးကွယ်ခဲ့သောအရာ",
+          "ref": "109:4"
+        }
+      },
+      {
+        "word": "دِين",
+        "translit": "din",
+        "en": "Religion/Way",
+        "my": "ဘာသာတရား",
+        "quran_freq": 92,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "د ي ن",
+          "concept_en": "recompense/religion",
+          "concept_my": "ဘာသာတရား"
+        },
+        "memory_hook": {
+          "sound": "Dean",
+          "image": "A dean of a religious school.",
+          "cross_language": "Deen"
+        },
+        "word_family": [],
+        "pattern_unlock": "In the final ayah, it refers to a lifestyle or path.",
+        "example": {
+          "ar": "لَكُمْ دِينُكُمْ",
+          "en": "For you is your religion",
+          "my": "သင်တို့အတွက် သင်တို့ဘာသာတရား",
+          "ref": "109:6"
+        }
+      },
+      {
+        "word": "لِي",
+        "translit": "li",
+        "en": "for me",
+        "my": "ကျွန်ုပ်အတွက်",
+        "quran_freq": 0,
+        "word_type": "Particle + Pronoun",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "belonging to me",
+          "concept_my": "ကျွန်ုပ်နှင့် ဆိုင်သော"
+        },
+        "memory_hook": {
+          "sound": "Lee",
+          "image": "This is for Lee (me).",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "The 'Ya' at the end is the first-person singular possessive pronoun.",
+        "example": {
+          "ar": "وَلِيَ دِينِ",
+          "en": "and for me is my religion",
+          "my": "ကျွန်ုပ်အတွက် ကျွန်ုပ်၏ဘာသာတရား",
+          "ref": "109:6"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أَدَوَاتُ النَّفْيِ فِي سُورَةِ الْكَافِرُونَ",
+        "en": "Negation Particles in Surah Al-Kafirun",
+        "my": "စူရဟ်အလ်ကာဖိရွန်းရှိ ငြင်းပယ်ခြင်းဆိုင်ရာ စာလုံးများ"
+      },
+      "formula": {
+        "display": "لَا + Verb (Present) = General Negation",
+        "example": "لَا أَعْبُدُ",
+        "myanmar_read": "'La' (မ...ပါ) သည် ပစ္စုပ္ပန်ကြိယာနှင့် တွဲဖက်၍ အမြဲတမ်းငြင်းပယ်ခြင်းကို ပြသည်။",
+        "key_insight": "Surah Al-Kafirun uses both 'La' with verbs and 'La' with nouns to show total separation in worship."
+      },
+      "explanation": {
+        "en": "The Surah focuses on 'La' (Negation). When 'La' precedes a present tense verb like 'A'budu', it negates the action. The Surah also contrasts the verbal form (A'budu) with the noun form (Abidun), emphasizing that neither the act of worship nor the identity of the worshipper is shared between the two groups.",
+        "my": "ဤစူရဟ်သည် 'La' (ငြင်းပယ်ခြင်း) ကို အဓိကထားသည်။ 'La' သည် 'A'budu' ကဲ့သို့သော ပစ္စုပ္ပန်ကြိယာ၏ ရှေ့တွင်ရှိပါက ထိုလုပ်ဆောင်ချက်ကို ငြင်းပယ်သည်။ ဤစူရဟ်တွင် ကိုးကွယ်ခြင်းလုပ်ရပ် (ကြိယာ) သာမက ကိုးကွယ်သူဖြစ်ခြင်း (နာမ်) ကိုပါ နှစ်ဖက်စလုံးအတွက် သီးခြားစီဖြစ်ကြောင်း ရှင်းလင်းစွာ ဖော်ပြထားသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese uses 'မ...ဘူး' for general negation. Arabic 'La' can be used with both verbs and nouns, which in Al-Kafirun creates a rhythmic and logical separation.",
+        "my": "မြန်မာဘာသာတွင် 'မ...ဘူး' ဟု သုံးသကဲ့သို့ အာရဗီတွင် 'La' ကို သုံးသည်။ 'La' သည် ကြိယာနှင့်ရော နာမ်နှင့်ပါ တွဲဖက်သုံးနိုင်ပြီး လေးနက်မှုကို ဖြစ်စေသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "'La' followed by a present tense verb does not change the verb's ending (unlike 'Lam').",
+          "rule_my": "'La' ၏နောက်တွင် ပစ္စုပ္ပန်ကြိယာလိုက်ပါက ကြိယာ၏ အဆုံးသတ်သရသည် မပြောင်းလဲပါ။ ('Lam' နှင့် မတူပါ)",
+          "example": {
+            "ar": "لَا أَعْبُدُ",
+            "en": "I do not worship",
+            "my": "ကျွန်ုပ် မကိုးကွယ်ပါ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+          "en": "I do not worship what you worship",
+          "my": "MYANMAR_PLACE_HOLDER_S109_A2",
+          "ref": "109:2",
+          "breakdown": {
+            "subject": {
+              "word": "أَعْبُدُ",
+              "en": "I worship",
+              "note": "Verb with hidden 'Ana'"
+            },
+            "predicate": {
+              "word": "لَا",
+              "en": "Not",
+              "note": "Particle of negation"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'La' သည် ကြိယာ၏အဓိပ္ပာယ်ကို ငြင်းပယ်ခြင်းသာဖြစ်ပြီး ကြိယာ၏ 'u' သရကို မပြောင်းလဲစေပါ။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing 'La' (Negation) with 'Lam' (Past Negation).",
+          "wrong": {
+            "ar": "لَمْ أَعْبُدُ",
+            "note": "Using 'Lam' with 'u' ending"
+          },
+          "correct": {
+            "ar": "لَا أَعْبُدُ",
+            "en": "I do not worship",
+            "my": "ကျွန်ုပ် မကိုးကွယ်ပါ"
+          },
+          "myanmar_tip": "'La' ဆိုရင် 'u' သံကျန်ခဲ့မယ်၊ 'Lam' ဆိုရင် Sukun (သတ်) ဖြစ်သွားမယ်လို့ မှတ်ထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find all the negation particles in the first 3 ayahs of Al-Kafirun",
+          "instruction_my": "စူရဟ်အလ်ကာဖိရွန်း၏ ပထမအာယသ် ၃ ခုရှိ ငြင်းပယ်ခြင်းစာလုံးများကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "لَا أَعْبُدُ مَا تَعْبُدُونَ . وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+              "answer_en": "لَا (La)",
+              "answer_my": "لَا (လာ)",
+              "ref": "109:2-3"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'La antum abidun' into English",
+          "instruction_my": "'La antum abidun' ကို အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "وَلَا أَنتُمْ عَابِدُونَ",
+              "answer_en": "Nor are you worshippers",
+              "answer_my": "သင်တို့သည်လည်း ကိုးကွယ်သူများ မဟုတ်ကြ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Negate the verb 'Ta'buduna' using 'La'",
+          "instruction_my": "'Ta'buduna' ကို 'La' သုံး၍ ငြင်းပယ်ပုံစံပြုလုပ်ပါ။",
+          "questions": [
+            {
+              "q": "تَعْبُدُونَ",
+              "answer_en": "La ta'buduna",
+              "answer_my": "လာ သအ်ဗုဒူန",
+              "ar": "لَا تَعْبُدُونَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Surah Al-Kafirun teaches us to have a clear identity in faith. The repetition of negation reinforces that truth and falsehood can never be mixed or compromised.",
+        "my": "စူရဟ်အလ်ကာဖိရွန်းသည် ယုံကြည်ချက်တွင် ပြတ်သားသော ကိုယ်ပိုင်လက္ခဏာရှိရန် သင်ကြားပေးသည်။ ထပ်ခါတလဲလဲ ငြင်းပယ်ခြင်းသည် အမှန်တရားနှင့် အမှားတရားတို့အား မည်သည့်အခါမျှ ရောနှော၍မရကြောင်း အလေးပေးဖော်ပြသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Kafirun 109:6",
+        "study_number": 1,
+        "arabic_full": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+        "en_sahih": "For you is your religion, and for me is my religion.",
+        "my_mmsy": "(၆) အသင်တို့အတွက် အသင်တို့၏ သာသနာဖြစ်၍ ငါ့အတွက် ငါ၏သာသာနာပင်ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 109,
+          "ayah": 6,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/109006.mp3"
+        },
+        "qurancom_url": "https://quran.com/109/6",
+        "context": {
+          "en": "This is the concluding ayah, setting a final boundary and defining the coexistence based on distinct beliefs.",
+          "my": "ဤသည်မှာ စူရဟ်၏ နိဂုံးချုပ်အာယသ်ဖြစ်သည်။ ယုံကြည်ချက်ချင်း မတူညီသော်လည်း သီးခြားစီ ရပ်တည်ကြခြင်းကို ဖော်ပြသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "لَكُمْ",
+            "translit": "lakum",
+            "en": "for you",
+            "my": "သင်တို့အတွက်",
+            "role_en": "Jar wa Majrur (Predicated)",
+            "role_my": "ရှေ့ထားသတင်းစကား",
+            "root": "N/A",
+            "freq": 0
+          },
+          {
+            "ar": "دِينُكُمْ",
+            "translit": "dinukum",
+            "en": "your religion",
+            "my": "သင်တို့၏ဘာသာတရား",
+            "role_en": "Mubtada (Subject)",
+            "role_my": "အစပြုနာမ်",
+            "root": "د ي ن",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The prepositional phrases 'Lakum' and 'Liya' are placed first to show complete separation and allocation.",
+          "structure_my": "'Lakum' နှင့် 'Liya' တို့ကို ရှေ့တွင်ထားခြင်းဖြင့် 'သင်တို့အတွက် သီးသန့်' နှင့် 'ကျွန်ုပ်အတွက် သီးသန့်' ဟူသော အပြန်အလှန် ခွဲခြားမှုကို ပိုမိုသိသာစေသည်။",
+          "insight_en": "The 'Ya' at the end of 'Dini' (my religion) is omitted for the rhyme, yet the Kasra remains to indicate its presence.",
+          "insight_my": "'Dini' (ကျွန်ုပ်၏ဘာသာတရား) ဟုဆိုရာတွင် 'Ya' ကို မြှုပ်ထားသော်လည်း အောက်က Kasra (ိ) က 'ကျွန်ုပ်၏' ဟူသော အဓိပ္ပာယ်ကို ဆက်လက်ဆောင်နေဆဲဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "د ي ن",
+            "concept_en": "A system of life that one is indebted to follow.",
+            "concept_my": "လူတစ်ဦး လိုက်နာရန် တာဝန်ရှိသော ဘဝလမ်းစဉ်။",
+            "members": [
+              {
+                "ar": "مَدِينَة",
+                "en": "city (place of law)",
+                "my": "မြို့တော်",
+                "freq": 14
+              }
+            ],
+            "professors_note": "Din refers to a complete way of life, including law, judgment, and ritual, which cannot be compromised."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်သည် ကျွန်ုပ်တို့အား အခြားသူများ၏ ယုံကြည်ချက်ကို မနှောင့်ယှက်ဘဲ မိမိ၏ ယုံကြည်ချက်အပေါ်တွင် ခိုင်မာစွာ ရပ်တည်ရန် သင်ကြားပေးသည်။ 'သင်တို့အတွက် သင်တို့ဘာသာတရား၊ ကျွန်ုပ်အတွက် ကျွန်ုပ်ဘာသာတရား' ဟု ဆိုခြင်းသည် ဘာသာရေးတွင် အတင်းအဓမ္မ စေခိုင်းခြင်းမရှိကြောင်းနှင့် မိမိလမ်းစဉ်ကိုယ်စီ ရှိကြကြောင်းကို ပြသခြင်းဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah has a balanced structure: Lakum... Liya...",
+          "meaning_anchor": "Picture two distinct paths moving in separate directions.",
+          "daily_connection": "Used to maintain boundaries and respect in a multi-faith environment.",
+          "my": "ဤအာယသ်၏ ကာရန်မှာ 'Lakum dinukum' နှင့် 'Waliya din' ဟု ညီညာစွာ ရှိနေသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we studied Surah Al-Kafirun, focusing on how 'La' is used to create categorical separation in faith. We also parsed the nominal sentences that establish the boundaries of religion.",
+      "my": "ဤသင်ခန်းစာတွင် စူရဟ်အလ်ကာဖိရွန်းကို လေ့လာခဲ့ပြီး 'La' ကို သုံး၍ ယုံကြည်ချက်တွင် မည်သို့ပြတ်သားစွာ ခွဲခြားထားသည်ကို သိရှိခဲ့ရသည်။ ဘာသာတရား၏ နယ်နိမိတ်များကို သတ်မှတ်ပေးသည့် နာမ်ဝါကျများကိုလည်း ခွဲခြမ်းစိတ်ဖြာခဲ့ကြသည်။"
+    }
+  },
+  {
+    "lesson_id": "L5-229",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 229,
+    "title": {
+      "ar": "إِعْرَابُ سُورَةِ الْعَصْرِ — تَحْلِيلُ الْقَسَمِ وَإِنَّ",
+      "en": "I'rab XXIX — Parsing Surah Al-Asr: Full Analysis",
+      "my": "စူရဟ်အလ်အဆွရ်၏ အေ့အ်ရာဘ်ကို အပြည့်အစုံ ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Oath particle, Inna, Alladhīna, Watawāsaw — all parsed",
+      "grammar_formula": "Wa (Oath) + Al-Asr (Majrur)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "عَصْر",
+        "translit": "asr",
+        "en": "Time/Afternoon",
+        "my": "ခေတ်ကာလ သို့မဟုတ် ညနေခင်း",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ع ص ر",
+          "concept_en": "to squeeze/press",
+          "concept_my": "ညှစ်ထုတ်ခြင်း သို့မဟုတ် ဖိသိပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Asset",
+          "image": "Time is your most valuable asset.",
+          "cross_language": "Asr (Prayer time)"
+        },
+        "word_family": [
+          {
+            "ar": "مُعْصِرَات",
+            "translit": "mu'sirat",
+            "en": "rain clouds",
+            "my": "မိုးတိမ်များ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "This root suggests time is 'squeezed' or passing quickly.",
+        "example": {
+          "ar": "وَالْعَصْرِ",
+          "en": "By time",
+          "my": "ခေတ်ကာလကို အစွဲပြု၍",
+          "ref": "103:1"
+        }
+      },
+      {
+        "word": "إِنَّ",
+        "translit": "inna",
+        "en": "Indeed",
+        "my": "ဧကန်မလွဲ",
+        "quran_freq": 1500,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "emphasis",
+          "concept_my": "အလေးအနက်ပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "In",
+          "image": "He is 'in'deed here.",
+          "cross_language": "Inna (Malay)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Always makes the noun following it Mansub (ends in 'a').",
+        "example": {
+          "ar": "إِنَّ الْإِنسَانَ",
+          "en": "Indeed, mankind",
+          "my": "ဧကန်စင်စစ် လူသားသည်",
+          "ref": "103:2"
+        }
+      },
+      {
+        "word": "إِنسَان",
+        "translit": "insan",
+        "en": "Man/Human",
+        "my": "လူသား",
+        "quran_freq": 65,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "إِفْعَال",
+        "root": {
+          "letters": "အ n s",
+          "concept_en": "sociability/forgetfulness",
+          "concept_my": "ပေါင်းသင်းဆက်ဆံခြင်း သို့မဟုတ် မေ့လျော့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Inside",
+          "image": "The soul is inside the human.",
+          "cross_language": "Insan (Malay/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "أُنْس",
+            "translit": "uns",
+            "en": "intimacy",
+            "my": "ရင်းနှီးမှု",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Ends in 'a' here because it is the 'Ism Inna'.",
+        "example": {
+          "ar": "إِنَّ الْإِنسَانَ",
+          "en": "Indeed, mankind",
+          "my": "ဧကန်စင်စစ် လူသားသည်",
+          "ref": "103:2"
+        }
+      },
+      {
+        "word": "خُسْر",
+        "translit": "khusr",
+        "en": "Loss",
+        "my": "ဆုံးရှုံးမှု",
+        "quran_freq": 65,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "خ s r",
+          "concept_en": "to lose",
+          "concept_my": "ဆုံးရှုံးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cuss",
+          "image": "You cuss when you lose a game.",
+          "cross_language": "Khasara (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "خَاسِرُون",
+            "translit": "khasirun",
+            "en": "losers",
+            "my": "ဆုံးရှုံးသူများ",
+            "freq": 34
+          }
+        ],
+        "pattern_unlock": "Refers to a spiritual and ultimate loss.",
+        "example": {
+          "ar": "لَفِي خُسْرٍ",
+          "en": "is in loss",
+          "my": "ဆုံးရှုံးမှုအတွင်း၌ ရှိနေ၏",
+          "ref": "103:2"
+        }
+      },
+      {
+        "word": "آمَنُوا",
+        "translit": "amanu",
+        "en": "they believed",
+        "my": "ယုံကြည်ကြသည်",
+        "quran_freq": 258,
+        "word_type": "Verb (Past)",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلُوا",
+        "root": {
+          "letters": "အ m n",
+          "concept_en": "safety/faith",
+          "concept_my": "ဘေးကင်းခြင်း သို့မဟုတ် ယုံကြည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Amen",
+          "image": "Saying Amen after a prayer of faith.",
+          "cross_language": "Iman"
+        },
+        "word_family": [
+          {
+            "ar": "مُؤْمِن",
+            "translit": "mu'min",
+            "en": "believer",
+            "my": "ယုံကြည်သူ",
+            "freq": 190
+          }
+        ],
+        "pattern_unlock": "The 'u' sound at the end followed by Alif indicates plural 'They'.",
+        "example": {
+          "ar": "الَّذِينَ آمَنُوا",
+          "en": "those who believed",
+          "my": "ယုံကြည်ကြသူများ",
+          "ref": "103:3"
+        }
+      },
+      {
+        "word": "تَوَاصَوْا",
+        "translit": "tawasaw",
+        "en": "they exhorted each other",
+        "my": "အချင်းချင်း အကြံပြုတိုက်တွန်းကြသည်",
+        "quran_freq": 2,
+        "word_type": "Verb (Past)",
+        "gender": "Masculine",
+        "wazn": "تَفَاعَلُوا",
+        "root": {
+          "letters": "و s y",
+          "concept_en": "bequest/advice",
+          "concept_my": "မှာကြားခြင်း သို့မဟုတ် အကြံပေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "To-watch",
+          "image": "Friends watching out for each other with advice.",
+          "cross_language": "Wasiyat (Will)"
+        },
+        "word_family": [
+          {
+            "ar": "وَصَّى",
+            "translit": "wassa",
+            "en": "commanded",
+            "my": "မှာကြားခဲ့သည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "The 'Tafa'alu' pattern implies mutual/reciprocal action.",
+        "example": {
+          "ar": "وَتَوَاصَوْا بِالْحَقِّ",
+          "en": "and advised each other to truth",
+          "my": "အမှန်တရားကို လက်ကိုင်ထားရန် အချင်းချင်းတိုက်တွန်းကြသည်",
+          "ref": "103:3"
+        }
+      },
+      {
+        "word": "حَقّ",
+        "translit": "haqq",
+        "en": "Truth",
+        "my": "အမှန်တရား",
+        "quran_freq": 287,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ح q q",
+          "concept_en": "reality/truth",
+          "concept_my": "အရှိတရား သို့မဟုတ် အမှန်တရား"
+        },
+        "memory_hook": {
+          "sound": "Hugging",
+          "image": "Hugging the truth tightly.",
+          "cross_language": "Haqq (Urdu/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "حَقِيقَة",
+            "translit": "haqiqa",
+            "en": "reality",
+            "my": "အရှိတရား",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Ends in 'i' here because of the particle 'bi'.",
+        "example": {
+          "ar": "بِالْحَقِّ",
+          "en": "to the truth",
+          "my": "အမှန်တရားဖြင့်",
+          "ref": "103:3"
+        }
+      },
+      {
+        "word": "صَبْر",
+        "translit": "sabr",
+        "en": "Patience",
+        "my": "သည်းခံခြင်း",
+        "quran_freq": 103,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ص b r",
+          "concept_en": "restraint/endurance",
+          "concept_my": "ချုပ်တည်းခြင်း သို့မဟုတ် သည်းခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sober",
+          "image": "Remaining sober and calm in a crisis.",
+          "cross_language": "Sabar (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "صَابِرِين",
+            "translit": "sabirin",
+            "en": "patient ones",
+            "my": "သည်းခံသူများ",
+            "freq": 35
+          }
+        ],
+        "pattern_unlock": "A fundamental Quranic virtue, often paired with 'Haqq'.",
+        "example": {
+          "ar": "وَتَوَاصَوْا بِالصَّبْرِ",
+          "en": "and advised each other to patience",
+          "my": "သည်းခံခြင်းတရားထားရှိရန် အချင်းချင်းတိုက်တွန်းကြသည်",
+          "ref": "103:3"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أُسْلُوبُ الْقَسَمِ وَإِنَّ",
+        "en": "The Style of Oath and Emphasis",
+        "my": "ကျိန်ဆိုခြင်းနှင့် အလေးအနက်ပြုခြင်းပုံစံ"
+      },
+      "formula": {
+        "display": "وَ (Oath) + Noun (Majrur) + إِنَّ (Emphasis)",
+        "example": "وَالْعَصْرِ إِنَّ الْإِنسَانَ",
+        "myanmar_read": "'Wa' (ကျိန်ဆိုခြင်း) + 'i' သရနှင့်နာမ် + 'Inna' (ဧကန်မလွဲ)။",
+        "key_insight": "The 'Wa' at the start of many Surahs is not 'and', but a particle of oath that makes the next word Majrur (ends in i)."
+      },
+      "explanation": {
+        "en": "Surah Al-Asr begins with a 'Waw al-Qasam' (Waw of Oath), which functions like a preposition, making 'Al-Asr' end in a Kasra. This is followed by 'Inna', a particle of emphasis that makes its subject 'Al-Insana' Mansub (ends in a). The 'La' in 'Lafi' is 'Lam al-Muzahlaqah', which adds further emphasis to the loss.",
+        "my": "စူရဟ်အလ်အဆွရ်ကို 'Waw al-Qasam' (ကျိန်ဆိုခြင်းဝါဝ်) ဖြင့် စတင်ထားသည်။ ၎င်းသည် ရှေ့ဆက်ပုဒ်ကဲ့သို့ အလုပ်လုပ်ပြီး 'Al-Asr' ကို 'i' သရဖြစ်စေသည်။ ထို့နောက် 'Inna' က 'Al-Insana' ကို 'a' သရဖြစ်စေပြီး အလေးအနက်ပြုသည်။ 'Lafi' ရှိ 'La' သည်လည်း ထပ်ဆင့်အလေးပေးခြင်းပင် ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar uses 'ကို အစွဲပြု၍' or 'ကို တိုင်တည်၍' for oaths. Arabic uses a single letter 'Wa' and changes the vowel of the noun.",
+        "my": "မြန်မာဘာသာတွင် 'ကို အစွဲပြု၍' ဟု ကျိန်ဆိုသကဲ့သို့ အာရဗီတွင် 'Wa' တစ်လုံးတည်းကို သုံးပြီး နာမ်၏အသံကို 'ိ' (Kasra) သို့ ပြောင်းလဲစေသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The Waw of Oath makes the following noun Majrur (ends in i).",
+          "rule_my": "ကျိန်ဆိုခြင်း 'Waw' ၏နောက်က နာမ်သည် 'i' (Kasra) ဖြင့် အဆုံးသတ်ရမည်။",
+          "example": {
+            "ar": "وَالْعَصْرِ",
+            "en": "By time",
+            "my": "ခေတ်ကာလကို အစွဲပြု၍"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "وَالْعَصْرِ",
+          "en": "By time",
+          "my": "(၁) (ငါအရှင်မြတ်သည်) ခေတ်ကာလ(အစွရ် အချိန်၊ အစွရ်စွလာသ်)ကို သက်သေထူတော်မူသည်။",
+          "ref": "103:1",
+          "breakdown": {
+            "subject": {
+              "word": "الْعَصْرِ",
+              "en": "The Time",
+              "note": "Majrur because of Waw"
+            },
+            "predicate": {
+              "word": "وَ",
+              "en": "By (Oath)",
+              "note": "Harf Qasam"
+            }
+          },
+          "myanmar_insight": "ဤနေရာရှိ 'Wa' သည် 'နှင့်' ဟု အဓိပ္ပာယ်မရဘဲ 'ကျိန်ဆိုခြင်း' ကို ဆိုလိုကြောင်း သတိပြုပါ။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Reading 'Wal-Asru' or 'Wal-Asra'.",
+          "wrong": {
+            "ar": "وَالْعَصْرُ",
+            "note": "Using 'u' or 'a' instead of 'i'"
+          },
+          "correct": {
+            "ar": "وَالْعَصْرِ",
+            "en": "By time",
+            "my": "ခေတ်ကာလကို အစွဲပြု၍"
+          },
+          "myanmar_tip": "ကျိန်ဆိုတဲ့အခါ နာမ်ရဲ့အဆုံးမှာ 'i' (Kasra) အမြဲပါရမယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the 'Ism Inna' in the second ayah of Surah Al-Asr",
+          "instruction_my": "ဒုတိယအာယသ်ရှိ 'Ism Inna' ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+              "answer_en": "الْإِنسَانَ (Al-Insana)",
+              "answer_my": "الْإِنسَانَ (အလ်အင်န်ဆာန)",
+              "ref": "103:2"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'Watawasaw bil-haqq' into English",
+          "instruction_my": "'Watawasaw bil-haqq' ကို အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "وَتَوَاصَوْا بِالْحَقِّ",
+              "answer_en": "and advised each other to truth",
+              "answer_my": "အမှန်တရားကို လက်ကိုင်ထားရန် အချင်းချင်းတိုက်တွန်းကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Add the Waw of Oath to 'Al-Fajr'",
+          "instruction_my": "'Al-Fajr' ကို ကျိန်ဆိုခြင်း 'Waw' နှင့် တွဲရေးပါ။",
+          "questions": [
+            {
+              "q": "الْفَجْر",
+              "answer_en": "Wal-Fajri",
+              "answer_my": "ဝလ်ဖဂျ်ရိ",
+              "ar": "وَالْفَجْرِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Allah swears by Time to wake us up to its fleeting nature. The structure of the Surah provides a complete roadmap for escaping loss through faith, action, and communal support.",
+        "my": "အလ္လာဟ်အရှင်မြတ်သည် အချိန်ကာလကို တိုင်တည်၍ ကျွန်ုပ်တို့အား သတိပေးနေသည်။ ဤစူရဟ်၏ တည်ဆောက်ပုံသည် ယုံကြည်မှု၊ ကောင်းမှုနှင့် အပြန်အလှန်တိုက်တွန်းမှုတို့ဖြင့် ဆုံးရှုံးမှုမှ မည်သို့လွတ်မြောက်ရမည်ကို လမ်းပြပေးနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Asr 103:2",
+        "study_number": 1,
+        "arabic_full": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+        "en_sahih": "Indeed, mankind is in loss,",
+        "my_mmsy": "(၂) အမှန်စင်စစ် လူသားသည် အမှန်ပင်ဆုံးရှုံးမှုထဲတွင်ရှိသည်။  ၁",
+        "audio_ref": {
+          "surah": 103,
+          "ayah": 2,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/103002.mp3"
+        },
+        "qurancom_url": "https://quran.com/103/2",
+        "context": {
+          "en": "This ayah states the general condition of humanity, serving as the premise for the exception that follows.",
+          "my": "ဤအာယသ်သည် လူသားတို့၏ ယေဘုယျအခြေအနေကို ဖော်ပြနေပြီး ဆုံးရှုံးမှုအတွင်း ရှိနေကြောင်း သတိပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "إِنَّ",
+            "translit": "inna",
+            "en": "Indeed",
+            "my": "ဧကန်စင်စစ်",
+            "role_en": "Particle of emphasis",
+            "role_my": "အလေးအနက်ပြုပစ္စည်း",
+            "root": "N/A",
+            "freq": 1500
+          },
+          {
+            "ar": "لَفِي",
+            "translit": "lafi",
+            "en": "is surely in",
+            "my": "ဧကန်မလွဲ အတွင်း၌ရှိ၏",
+            "role_en": "Lam of emphasis + Preposition",
+            "role_my": "အလေးပေးပစ္စည်းနှင့် ရှေ့ဆက်ပုဒ်",
+            "root": "N/A",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The combination of 'Inna' and 'La' creates a double emphasis (Tawkid) on the reality of human loss.",
+          "structure_my": "'Inna' နှင့် 'La' တို့ကို တွဲသုံးခြင်းဖြင့် လူသားတို့ ဆုံးရှုံးမှုအတွင်း ရှိနေခြင်းကို နှစ်ထပ်ကွမ်း အလေးပေးထားသည်။",
+          "insight_en": "The word 'Khusr' is indefinite, which in Arabic can imply a great, profound, or diverse type of loss.",
+          "insight_my": "'Khusr' ကို အကန့်အသတ်မရှိ (Indefinite) သုံးထားခြင်းမှာ ဆုံးရှုံးမှုသည် အလွန်ကြီးမားပြီး အမျိုးမျိုးရှိနိုင်ကြောင်းကို ပြဆိုခြင်းဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "خ s r",
+            "concept_en": "To diminish or lose one's capital.",
+            "concept_my": "မိမိ၏ အရင်းအနှီးများ လျော့နည်းသွားခြင်း သို့မဟုတ် ဆုံးရှုံးခြင်း။",
+            "members": [
+              {
+                "ar": "خَسَارَة",
+                "en": "damage",
+                "my": "ပျက်စီးဆုံးရှုံးမှု",
+                "freq": 0
+              }
+            ],
+            "professors_note": "A merchant's worst fear is 'Khusr'. In this ayah, Time is the capital, and every passing second without faith is a loss of that capital."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အချိန်ဟူသည် လူသားတို့အတွက် အဖိုးတန်ဆုံး အရင်းအနှီးဖြစ်သည်။ အချိန်ကုန်လွန်သွားတိုင်း ကျွန်ုပ်တို့၏ သက်တမ်းသည် တိုတောင်းသွားပြီး ဆုံးရှုံးမှုသို့ နီးကပ်သွားသည်။ သို့သော် အလ္လာဟ်အရှင်မြတ်သည် ဤဆုံးရှုံးမှုမှ လွတ်မြောက်ရန် လမ်းစကိုလည်း ပြသပေးထားသည်။ ဤအာယသ်ကို နှလုံးသွင်းခြင်းဖြင့် အချိန်ကို အလဟဿ မကုန်ဆုံးစေဘဲ ကောင်းမှုကုသိုလ်များတွင် အသုံးချရန် အားပေးတိုက်တွန်းနေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah moves quickly, mimicking the passing of time.",
+          "meaning_anchor": "Imagine an hourglass where the sand is running out fast.",
+          "daily_connection": "Recited to remind oneself of priorities whenever one feels busy or distracted.",
+          "my": "ဤအာယသ်ကို ဆိုရာတွင် 'Inna' နှင့် 'Lafi' ကို ခပ်ပြတ်ပြတ်ဆိုပါ။ ၎င်းသည် သတိပေးချက်တစ်ခု ဖြစ်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We analyzed Surah Al-Asr, focusing on the grammar of oaths and emphasis. We learned how 'Inna' and the 'Waw al-Qasam' structure the message to highlight the urgency of our spiritual state.",
+      "my": "စူရဟ်အလ်အဆွရ်ကို လေ့လာခဲ့ရာတွင် ကျိန်ဆိုခြင်းနှင့် အလေးအနက်ပြုခြင်းဆိုင်ရာ သဒ္ဒါများကို အဓိကထားခဲ့သည်။ 'Inna' နှင့် 'Waw al-Qasam' တို့က ကျွန်ုပ်တို့၏ ဝိညာဉ်ရေးရာ အခြေအနေကို မည်သို့အရေးတကြီး သတိပေးနေသည်ကို နားလည်ခဲ့ကြသည်။"
+    }
+  },
+  {
+    "lesson_id": "L5-230",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 230,
+    "title": {
+      "ar": "إِعْرَابُ سُورَةِ النَّصْرِ — إِعْرَابُ إِذَا وَالْأَمْرِ",
+      "en": "I'rab XXX — Parsing Surah An-Nasr: Full Analysis",
+      "my": "စူရဟ်အန်နာ့ဆွရ်၏ အေ့အ်ရာဘ်ကို အပြည့်အစုံ ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Idhā clause, imperatives sabbih/istaghfir, Inna parsed fully",
+      "grammar_formula": "Idhā (Time/Condition) + Jā'a (Past Verb with Future Meaning)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "نَصْر",
+        "translit": "nasr",
+        "en": "Help/Victory",
+        "my": "အကူအညီ သို့မဟုတ် အောင်ပွဲ",
+        "quran_freq": 12,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "န s r",
+          "concept_en": "to aid/assist",
+          "concept_my": "ကူညီခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Nasr",
+          "image": "Nasr is the name of a hero who brings victory.",
+          "cross_language": "Nasir (Helper)"
+        },
+        "word_family": [
+          {
+            "ar": "أَنصَار",
+            "translit": "ansar",
+            "en": "helpers",
+            "my": "ကူညီသူများ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "In the Quran, Nasr usually refers to Divine assistance.",
+        "example": {
+          "ar": "نَصْرُ اللَّهِ",
+          "en": "the help of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ အကူအညီ",
+          "ref": "110:1"
+        }
+      },
+      {
+        "word": "فَتْح",
+        "translit": "fath",
+        "en": "Victory/Opening",
+        "my": "အောင်ပွဲ သို့မဟုတ် ဖွင့်လှစ်ခြင်း",
+        "quran_freq": 6,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "f t h",
+          "concept_en": "to open",
+          "concept_my": "ဖွင့်လှစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Father",
+          "image": "Father opens the door to victory.",
+          "cross_language": "Al-Fatiha"
+        },
+        "word_family": [
+          {
+            "ar": "يَفْتَح",
+            "translit": "yaftah",
+            "en": "he opens",
+            "my": "အရှင်ဖွင့်လှစ်ပေးသည်",
+            "freq": 11
+          }
+        ],
+        "pattern_unlock": "Fath refers to a victory that 'opens' hearts and lands.",
+        "example": {
+          "ar": "وَالْفَتْحُ",
+          "en": "and the victory",
+          "my": "အောင်ပွဲ",
+          "ref": "110:1"
+        }
+      },
+      {
+        "word": "رَأَيْتَ",
+        "translit": "ra-aita",
+        "en": "you saw",
+        "my": "သင်မြင်တွေ့ခဲ့သည်",
+        "quran_freq": 35,
+        "word_type": "Verb (Past)",
+        "gender": "Masculine",
+        "wazn": "فَعَلْتَ",
+        "root": {
+          "letters": "r a y",
+          "concept_en": "to see/perceive",
+          "concept_my": "မြင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ray",
+          "image": "A ray of light helps you see.",
+          "cross_language": "Ru'ya (Vision)"
+        },
+        "word_family": [
+          {
+            "ar": "يَرَى",
+            "translit": "yara",
+            "en": "he sees",
+            "my": "သူမြင်သည်",
+            "freq": 52
+          }
+        ],
+        "pattern_unlock": "The 'ta' suffix means 'You (singular)'.",
+        "example": {
+          "ar": "وَرَأَيْتَ النَّاسَ",
+          "en": "And you see the people",
+          "my": "လူသားတို့အား သင်မြင်တွေ့ရသောအခါ",
+          "ref": "110:2"
+        }
+      },
+      {
+        "word": "أَفْوَاجًا",
+        "translit": "afwajan",
+        "en": "crowds/multitudes",
+        "my": "အုပ်စုလိုက် အစုလိုက်",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "أَفْعَالًا",
+        "root": {
+          "letters": "f w j",
+          "concept_en": "group/party",
+          "concept_my": "အုပ်စု"
+        },
+        "memory_hook": {
+          "sound": "A-voyage",
+          "image": "A voyage of many people together.",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "فَوْج",
+            "translit": "fawj",
+            "en": "a group",
+            "my": "အုပ်စုတစ်ခု",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Plural of 'Fawj', appearing here in Mansub (an) form.",
+        "example": {
+          "ar": "يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+          "en": "entering the religion of Allah in multitudes",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ဘာသာတရားတွင်းသို့ အုပ်စုလိုက် ဝင်ရောက်လာကြသည်",
+          "ref": "110:2"
+        }
+      },
+      {
+        "word": "سَبِّحْ",
+        "translit": "sabbih",
+        "en": "Glorify",
+        "my": "သန့်ရှင်းစင်ကြယ်ကြောင်း မြွက်ဆိုပါ",
+        "quran_freq": 14,
+        "word_type": "Verb (Imperative)",
+        "gender": "Masculine",
+        "wazn": "فَعِّلْ",
+        "root": {
+          "letters": "s b h",
+          "concept_en": "to swim/glorify",
+          "concept_my": "ကူးခတ်ခြင်း သို့မဟုတ် ချီးမွမ်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sub-beach",
+          "image": "Glorifying God by the beach.",
+          "cross_language": "SubhanAllah"
+        },
+        "word_family": [
+          {
+            "ar": "يُسَبِّحُ",
+            "translit": "yusabbihu",
+            "en": "he glorifies",
+            "my": "သူချီးမွမ်းသည်",
+            "freq": 40
+          }
+        ],
+        "pattern_unlock": "Imperative (Amr) verbs often end in Sukun.",
+        "example": {
+          "ar": "فَسَبِّحْ بِحَمْدِ رَبِّكَ",
+          "en": "Then exalt [Him] with praise of your Lord",
+          "my": "သို့ဖြစ်ရာ သင်၏အရှင်အား ချီးမွမ်းခြင်းနှင့်အတူ သန့်ရှင်းစင်ကြယ်ကြောင်း မြွက်ဆိုပါ",
+          "ref": "110:3"
+        }
+      },
+      {
+        "word": "اسْتَغْفِرْ",
+        "translit": "istaghfir",
+        "en": "ask forgiveness",
+        "my": "အပြစ်မှလွတ်ငြိမ်းခွင့် တောင်းခံပါ",
+        "quran_freq": 11,
+        "word_type": "Verb (Imperative)",
+        "gender": "Masculine",
+        "wazn": "اسْتَفْعِلْ",
+        "root": {
+          "letters": "g f r",
+          "concept_en": "to cover/forgive",
+          "concept_my": "ဖုံးအုပ်ခြင်း သို့မဟုတ် ခွင့်လွှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Istighfar",
+          "image": "Seeking a shield of forgiveness.",
+          "cross_language": "Astaghfirullah"
+        },
+        "word_family": [
+          {
+            "ar": "غَفُور",
+            "translit": "ghafur",
+            "en": "forgiving",
+            "my": "ခွင့်လွှတ်တော်မူသောသခင်",
+            "freq": 91
+          }
+        ],
+        "pattern_unlock": "The 'Ista' prefix often denotes 'seeking' or 'asking for'.",
+        "example": {
+          "ar": "وَاسْتَغْفِرْهُ",
+          "en": "and ask forgiveness of Him",
+          "my": "ထိုအရှင်ထံတွင် အပြစ်မှလွတ်ငြိမ်းခွင့် တောင်းခံပါ",
+          "ref": "110:3"
+        }
+      },
+      {
+        "word": "تَوَّابًا",
+        "translit": "tawwaban",
+        "en": "Accepting of Repentance",
+        "my": "သောင်ဗာကို လက်ခံတော်မူသောသခင်",
+        "quran_freq": 11,
+        "word_type": "Noun/Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعَّالًا",
+        "root": {
+          "letters": "t w b",
+          "concept_en": "to return",
+          "concept_my": "ပြန်လည်လှည့်လာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tower",
+          "image": "Turning back to the tower of safety.",
+          "cross_language": "Tawbah"
+        },
+        "word_family": [
+          {
+            "ar": "تَابَ",
+            "translit": "taba",
+            "en": "he repented",
+            "my": "သူသောင်ဗာပြုခဲ့သည်",
+            "freq": 44
+          }
+        ],
+        "pattern_unlock": "The 'Fa-al' pattern shows intensity (The One who accepts again and again).",
+        "example": {
+          "ar": "إِنَّهُ كَانَ تَوَّابًا",
+          "en": "Indeed, He is ever accepting of repentance",
+          "my": "ဧကန်စင်စစ် အရှင်မြတ်သည် သောင်ဗာကို အလွန်လက်ခံတော်မူသောသခင် ဖြစ်တော်မူ၏",
+          "ref": "110:3"
+        }
+      },
+      {
+        "word": "إِذَا",
+        "translit": "idha",
+        "en": "When",
+        "my": "အခါ",
+        "quran_freq": 400,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "future condition",
+          "concept_my": "အနာဂတ်ကာလ အခြေအနေ"
+        },
+        "memory_hook": {
+          "sound": "Either",
+          "image": "When either this or that happens.",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "When followed by a past tense verb, it gives it a future meaning.",
+        "example": {
+          "ar": "إِذَا جَاءَ نَصْرُ اللَّهِ",
+          "en": "When the victory of Allah has come",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ အကူအညီ ရောက်ရှိလာသောအခါ",
+          "ref": "110:1"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "إِعْرَابُ إِذَا وَأَفْعَالُ الْأَمْرِ",
+        "en": "I'rab of 'Idha' and Imperative Verbs",
+        "my": "'Idha' နှင့် အမိန့်ပေးကြိယာများ၏ အေ့အ်ရာဘ်"
+      },
+      "formula": {
+        "display": "إِذَا + Past Verb = Future Meaning | Verb + Sukun = Imperative",
+        "example": "إِذَا جَاءَ ... فَسَبِّحْ",
+        "myanmar_read": "'Idha' ပါလျှင် အတိတ်ကြိယာသည် အနာဂတ်အဓိပ္ပာယ်ဆောင်ပြီး၊ အဆုံးမှာ Sukun (သတ်) ပါလျှင် အမိန့်ပေးကြိယာ ဖြစ်သည်။",
+        "key_insight": "Surah An-Nasr uses 'Idha' to set a condition for the future, and imperatives (Sabbih, Istaghfir) to instruct the response to victory."
+      },
+      "explanation": {
+        "en": "Surah An-Nasr begins with 'Idha', a conditional particle that usually refers to the future. The response to this condition (Jawab al-Shart) is found in the final ayah with the imperative verbs 'Sabbih' and 'Istaghfir'. In I'rab, 'Idha' is an adverb of time, and imperatives are built on Sukun.",
+        "my": "စူရဟ်အန်နာ့ဆွရ်ကို အခြေအနေပြပုဒ် 'Idha' (သောအခါ) ဖြင့် စတင်ထားသည်။ ၎င်း၏ အကျိုးဆက်အဖြစ် နောက်ဆုံးအာယသ်တွင် 'Sabbih' (ချီးမွမ်းပါ) နှင့် 'Istaghfir' (ခွင့်လွှတ်မှုတောင်းပါ) ဟူသော အမိန့်ပေးကြိယာများကို သုံးထားသည်။ အမိန့်ပေးကြိယာများသည် ပုံမှန်အားဖြင့် 'Sukun' (သတ်) ဖြင့် ဆုံးကြသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use 'လျှင်' or 'သောအခါ' for conditions. In Arabic, 'Idha' specifically shifts the meaning of past verbs to the future.",
+        "my": "မြန်မာဘာသာတွင် 'သောအခါ' ဟု သုံးသကဲ့သို့ အာရဗီတွင် 'Idha' ကို သုံးသည်။ 'Idha' ၏ ထူးခြားချက်မှာ အတိတ်ကြိယာကို အနာဂတ်အဓိပ္ပာယ်သို့ ပြောင်းလဲပေးခြင်းဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Imperative verbs (Amr) for the singular masculine end in Sukun.",
+          "rule_my": "အမိန့်ပေးကြိယာ (Amr) များသည် 'Sukun' (သတ်) ဖြင့် အဆုံးသတ်ရမည်။",
+          "example": {
+            "ar": "سَبِّحْ",
+            "en": "Glorify!",
+            "my": "ချီးမွမ်းပါ!"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِذَا جَاءَ نَصْرُ اللَّهِ",
+          "en": "When the victory of Allah comes",
+          "my": "(၁) အလ္လာဟ်အရှင်မြတ်၏အကူအညီနှင့်အောင်နိုင်မှု  ၁ ရောက်ရှိလာခဲ့သည့်အခါ။",
+          "ref": "110:1",
+          "breakdown": {
+            "subject": {
+              "word": "نَصْرُ",
+              "en": "Help",
+              "note": "Subject (Marfu)"
+            },
+            "predicate": {
+              "word": "جَاءَ",
+              "en": "Came",
+              "note": "Past Verb (Future meaning)"
+            }
+          },
+          "myanmar_insight": "'Idha' ပါဝင်သောကြောင့် 'Jaa-a' (ရောက်ခဲ့သည်) ကို 'ရောက်လာသောအခါ' ဟု အနာဂတ်ပုံစံ ဘာသာပြန်ရခြင်းဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Saying 'Sabbihu' or 'Sabbihi' in the imperative.",
+          "wrong": {
+            "ar": "سَبِّحُ",
+            "note": "Using 'u' instead of Sukun"
+          },
+          "correct": {
+            "ar": "سَبِّحْ",
+            "en": "Glorify",
+            "my": "ချီးမွမ်းပါ"
+          },
+          "myanmar_tip": "အမိန့်ပေးတဲ့အခါ စာလုံးအဆုံးမှာ အသံကို 'သတ်' (Sukun) လိုက်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the two imperative verbs in Surah An-Nasr",
+          "instruction_my": "စူရဟ်အန်နာ့ဆွရ်ရှိ အမိန့်ပေးကြိယာ နှစ်ခုကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ",
+              "answer_en": "سَبِّحْ (Sabbih) and اسْتَغْفِرْ (Istaghfir)",
+              "answer_my": "သဗ္ဗိဟ် နှင့် အစ်သဂ်ဖိရ်",
+              "ref": "110:3"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'Innahu kana tawwaba' into English",
+          "instruction_my": "'Innahu kana tawwaba' ကို အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "إِنَّهُ كَانَ تَوَّابًا",
+              "answer_en": "Indeed, He is ever accepting of repentance",
+              "answer_my": "ဧကန်စင်စစ် အရှင်မြတ်သည် သောင်ဗာကို အလွန်လက်ခံတော်မူသောသခင် ဖြစ်တော်မူ၏"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Form the imperative of 'Ghafara' (he forgave)",
+          "instruction_my": "'Ghafara' မှ အမိန့်ပေးပုံစံ (ခွင့်လွှတ်ပါ) ကို ပြုလုပ်ပါ။",
+          "questions": [
+            {
+              "q": "غَفَرَ",
+              "answer_en": "Ighfir",
+              "answer_my": "အစ်ဂ်ဖိရ်",
+              "ar": "اغْفِرْ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Surah An-Nasr reminds the Prophet and the believers that victory is from Allah. Even at the height of success, the believer's response should be humility, glorification, and seeking forgiveness.",
+        "my": "စူရဟ်အန်နာ့ဆွရ်သည် အောင်ပွဲဟူသည် အလ္လာဟ်အရှင်မြတ်ထံမှသာ လာကြောင်း သတိပေးထားသည်။ အောင်မြင်မှု အထွတ်အထိပ်သို့ ရောက်သည့်တိုင်အောင် ယုံကြည်သူတို့၏ တုံ့ပြန်မှုသည် နှိမ့်ချခြင်း၊ ချီးမွမ်းခြင်းနှင့် အပြစ်ဝန်ခံခြင်းသာ ဖြစ်သင့်ကြောင်း သင်ကြားပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Nasr 110:3",
+        "study_number": 1,
+        "arabic_full": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+        "en_sahih": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever accepting of repentance.",
+        "my_mmsy": "(၃) အသင်(တမန်တော်)သည် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်ကို ချီးမွမ်းထောမနာပြုခြင်းနှင့်တကွ စင်ကြယ်သန့်ရှင်းတော်မူကြောင်းရွတ်ဆိုပါ။ ထို့ပြင်အသင်သည် အရှင်မြတ်ထံတော်တွင် လွတ်ငြိမ်းချမ်းသာခွင့်ကို တောင်းခံပါ။ အမှန်စင်စစ် အရှင်မြတ်သည် ၀န်ချတောင်းပန်မှုကို အကြိမ်ကြိမ်လက်ခံခွင့်လွှတ်တော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 110,
+          "ayah": 3,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/110003.mp3"
+        },
+        "qurancom_url": "https://quran.com/110/3",
+        "context": {
+          "en": "This final ayah of the Surah (and one of the last revealed ayahs) provides the closing instructions for the Prophet's mission.",
+          "my": "ဤအာယသ်သည် စူရဟ်၏ နိဂုံးချုပ်ဖြစ်ပြီး တမန်တော်မြတ်၏ တာဝန်ထမ်းဆောင်မှုအတွက် နောက်ဆုံးညွှန်ကြားချက်များထဲမှ တစ်ခုဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "سَبِّحْ",
+            "translit": "sabbih",
+            "en": "Glorify",
+            "my": "သန့်ရှင်းစင်ကြယ်ကြောင်းမြွက်ဆိုပါ",
+            "role_en": "Imperative Verb",
+            "role_my": "အမိန့်ပေးကြိယာ",
+            "root": "س ب h",
+            "freq": 14
+          },
+          {
+            "ar": "تَوَّابًا",
+            "translit": "tawwaban",
+            "en": "Ever-Accepting",
+            "my": "အလွန်လက်ခံတော်မူသောသခင်",
+            "role_en": "Khabar of Kana (Mansub)",
+            "role_my": "ကြိယာ၏ သတင်းစကား",
+            "root": "တ w b",
+            "freq": 11
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The combination of 'Sabbih' (Glorify) and 'Istaghfir' (Ask forgiveness) balances recognizing Allah's perfection and admitting human imperfection.",
+          "structure_my": "'Sabbih' (အရှင်မြတ်၏ စုံလင်မှု) နှင့် 'Istaghfir' (လူသားတို့၏ ချို့ယွင်းချက်) တို့ကို တွဲသုံးထားခြင်းမှာ မျှတသော တုံ့ပြန်မှုဖြစ်သည်။",
+          "insight_en": "The use of 'Kana' (was/is) with 'Tawwaba' emphasizes that Allah's nature has always been and will always be most accepting of repentance.",
+          "insight_my": "'Kana' နှင့် 'Tawwaba' ကို တွဲသုံးထားခြင်းမှာ အလ္လာဟ်အရှင်မြတ်သည် အတိတ်ကော အနာဂတ်မှာပါ သောင်ဗာကို အမြဲလက်ခံနေမည့်အရှင်ဖြစ်ကြောင်း အလေးပေးခြင်းဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "တ w b",
+            "concept_en": "To return to the straight path after wandering.",
+            "concept_my": "လမ်းလွဲသွားပြီးနောက် လမ်းမှန်သို့ ပြန်လည်လှည့်လာခြင်း။",
+            "members": [
+              {
+                "ar": "تَوْبَة",
+                "en": "repentance",
+                "my": "သောင်ဗာ",
+                "freq": 17
+              }
+            ],
+            "professors_note": "When a human does 'Tawbah', they return to Allah. When Allah does 'Tawbah', He returns to the servant with mercy."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အောင်မြင်မှုရရှိသည့်အခါ မာန်မာနမတက်ဘဲ အလ္လာဟ်အရှင်မြတ်ကိုသာ ချီးမွမ်းရမည်ဖြစ်ကြောင်း ဤအာယသ်က သတိပေးသည်။ ကျွန်ုပ်တို့၏ အလုပ်များတွင် ချို့ယွင်းချက်များ ပါနိုင်သောကြောင့် အမြဲတမ်း 'အစ်သိဂ်ဖာရ်' ပြုလုပ်နေသင့်သည်။ အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့၏ နောင်တများကို အမြဲလက်ခံနေမည့် 'Tawwab' အရှင်မြတ်ဖြစ်ကြောင်း ယုံကြည်စိတ်ချစွာဖြင့် အရှင်မြတ်ထံသို့ အမြဲလှည့်ပြန်ကြပါစို့။"
+        },
+        "memorization_helper": {
+          "rhythm": "The sequence of 'Sabbih' and 'Istaghfir' flows naturally in a rhythmic cadence.",
+          "meaning_anchor": "Think of victory as a gift that requires a 'Thank You' note (Glorification and Forgiveness).",
+          "daily_connection": "Recited after finishing a task to maintain humility and seek acceptance.",
+          "my": "ဤအာယသ်ကို ကျက်ရာတွင် 'Fa-sabbih' နှင့် 'Wastaghfir-hu' ကို ဆက်တိုက်လေ့ကျင့်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We completed the analysis of Surah An-Nasr, focusing on the grammar of 'Idha' and imperative verbs. We learned how victory in the Quran is always tied to spiritual reflection and humility.",
+      "my": "စူရဟ်အန်နာ့ဆွရ်၏ အေ့အ်ရာဘ်ကို အပြီးသတ်လေ့လာခဲ့ပြီး 'Idha' နှင့် အမိန့်ပေးကြိယာများကို သိရှိခဲ့ရသည်။ ကုရ်အာန်ကျမ်းစာရှိ အောင်ပွဲဟူသည် ဝိညာဉ်ရေးရာ ဆင်ခြင်သုံးသပ်မှုနှင့် နှိမ့်ချမှုတို့နှင့် အမြဲဆက်စပ်နေကြောင်း သင်ယူခဲ့ကြသည်။"
+    }
+  }
+]

@@ -1,0 +1,2133 @@
+[
+  {
+    "lesson_id": "L3-121",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 121,
+    "title": {
+      "ar": "الإِضَافَةُ (٦) — سِلْسِلَةُ النَّسَبِ",
+      "en": "Idafah VI — Complex Idafah in Quranic Lineage",
+      "my": "အိဿွာဖဟ် (၆) — ကုရ်အာန်လာ မျိုးနွယ်ဆက်နွယ်မှုများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Prophetic and ancestral chains using Idafah",
+      "grammar_formula": "Noun (Mudaf) + Name (Mudaf Ilayhi)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "إِبْرَاهِيمُ",
+        "translit": "Ibrāhīm",
+        "en": "Abraham",
+        "my": "အစ်ဗ်ရာဟီးမ်",
+        "quran_freq": 69,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N / A",
+          "concept_en": "Prophetic proper name",
+          "concept_my": "ပရောဖက်အမည်"
+        },
+        "memory_hook": {
+          "sound": "Abraham",
+          "image": "The father of prophets standing by the Kaaba",
+          "cross_language": "Ibrahim (Malay/Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Proper names in Idafah never take 'Al-' but can function as Mudaf Ilayhi.",
+        "example": {
+          "ar": "مِلَّةَ إِبْرَاهِيمَ",
+          "en": "The religion of Abraham",
+          "my": "အစ်ဗ်ရာဟီးမ်၏ သာသနာလမ်းစဉ်",
+          "ref": "2:135"
+        }
+      },
+      {
+        "word": "آزَرُ",
+        "translit": "Āzar",
+        "en": "Azar (Father of Ibrahim)",
+        "my": "အာဇရ် (အစ်ဗ်ရာဟီးမ်၏ဖခင်)",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N / A",
+          "concept_en": "Proper name",
+          "concept_my": "အမည်နာမ"
+        },
+        "memory_hook": {
+          "sound": "Azer",
+          "image": "Father and son relationship mentioned in Quran",
+          "cross_language": "Azar"
+        },
+        "word_family": [],
+        "pattern_unlock": "Names often end in Fatha instead of Kasra when in Mudaf Ilayhi position if they are non-Arabic (Diptotes).",
+        "example": {
+          "ar": "لِأَبِيهِ آزَرَ",
+          "en": "to his father, Azar",
+          "my": "သူ့ဖခင် အာဇရ်အား",
+          "ref": "6:74"
+        }
+      },
+      {
+        "word": "مُوسَىٰ",
+        "translit": "Mūsā",
+        "en": "Moses",
+        "my": "မူဆာ",
+        "quran_freq": 136,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N / A",
+          "concept_en": "Prophetic proper name",
+          "concept_my": "ပရောဖက်အမည်"
+        },
+        "memory_hook": {
+          "sound": "Moses",
+          "image": "Holding a staff at the sea",
+          "cross_language": "Musa"
+        },
+        "word_family": [],
+        "pattern_unlock": "Names ending in Alif Maqsura like Musa do not change their ending vowels.",
+        "example": {
+          "ar": "صُحُفِ مُوسَىٰ",
+          "en": "The scriptures of Moses",
+          "my": "မူဆာ၏ ကျမ်းဂန်များ",
+          "ref": "87:19"
+        }
+      },
+      {
+        "word": "عِمْرَانُ",
+        "translit": "‘Imrān",
+        "en": "Imran",
+        "my": "အင်မ်ရာန်",
+        "quran_freq": 3,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N / A",
+          "concept_en": "Proper name",
+          "concept_my": "အမည်နာမ"
+        },
+        "memory_hook": {
+          "sound": "Imran",
+          "image": "The family of Imran",
+          "cross_language": "Imran"
+        },
+        "word_family": [],
+        "pattern_unlock": "Words ending in -an (Alif Noon) are often Diptotes and take Fatha in the genitive case.",
+        "example": {
+          "ar": "آلَ عِمْرَانَ",
+          "en": "The family of Imran",
+          "my": "အင်မ်ရာန်၏ မိသားစု",
+          "ref": "3:33"
+        }
+      },
+      {
+        "word": "آلُ",
+        "translit": "Ālu",
+        "en": "Family / People of",
+        "my": "မိသားစု / အနွယ်ဝင်များ",
+        "quran_freq": 26,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "أ و ل",
+          "concept_en": "returning to a source/lineage",
+          "concept_my": "မူလအစ သို့မဟုတ် မျိုးနွယ်သို့ ပြန်သွားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Al (short sound)",
+          "image": "A large tent housing a family tribe",
+          "cross_language": "Ahl (similar concept)"
+        },
+        "word_family": [
+          {
+            "ar": "أَهْلٌ",
+            "translit": "Ahl",
+            "en": "Family/People",
+            "my": "လူစုလူဝေး",
+            "freq": 127
+          }
+        ],
+        "pattern_unlock": "Aal is almost always a Mudaf (first part of Idafah).",
+        "example": {
+          "ar": "آلِ لُوطٍ",
+          "en": "The family of Lot",
+          "my": "လူးသ်၏ မိသားစု",
+          "ref": "15:59"
+        }
+      },
+      {
+        "word": "اِبْنُ",
+        "translit": "Ibnu",
+        "en": "Son",
+        "my": "သားတော်",
+        "quran_freq": 41,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ب ن ي",
+          "concept_en": "building/progeny",
+          "concept_my": "တည်ဆောက်ခြင်း သို့မဟုတ် သားသမီး"
+        },
+        "memory_hook": {
+          "sound": "Bin (as in Bin Laden)",
+          "image": "A small boy holding his father's hand",
+          "cross_language": "Bin (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "بَنُونَ",
+            "translit": "Banūn",
+            "en": "Sons",
+            "my": "သားများ",
+            "freq": 6
+          },
+          {
+            "ar": "بِنْتٌ",
+            "translit": "Bint",
+            "en": "Daughter",
+            "my": "သမီး",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "In lineage, Ibnu drops the Alif (becoming 'bin') when written between two names.",
+        "example": {
+          "ar": "عِيسَى ابْنَ مَرْيَمَ",
+          "en": "Jesus, son of Mary",
+          "my": "မရ်ယမ်၏သားတော် အီစာ",
+          "ref": "2:87"
+        }
+      },
+      {
+        "word": "أَبُ",
+        "translit": "Abu",
+        "en": "Father",
+        "my": "ဖခင်",
+        "quran_freq": 117,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "أ ب و",
+          "concept_en": "paternity/origin",
+          "concept_my": "ဖခင် သို့မဟုတ် အရင်းအမြစ်"
+        },
+        "memory_hook": {
+          "sound": "Abba",
+          "image": "A father protecting his child",
+          "cross_language": "Abbu (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "آبَاءُ",
+            "translit": "Ābā'",
+            "en": "Fathers/Forefathers",
+            "my": "ဘိုးဘေးများ",
+            "freq": 64
+          }
+        ],
+        "pattern_unlock": "Abu is one of the 'Five Nouns' that change their vowel to a long letter (Waw/Alif/Ya) in Idafah.",
+        "example": {
+          "ar": "أَبَاكُمْ إِبْرَاهِيمَ",
+          "en": "your father Abraham",
+          "my": "သင်တို့၏ဖခင် အစ်ဗ်ရာဟီးမ်",
+          "ref": "22:78"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الإِضَافَةُ فِي النَّسَبِ",
+        "en": "Idafah in Lineage",
+        "my": "မျိုးနွယ်ဆက်နွယ်မှုရှိ အိဿွာဖဟ်"
+      },
+      "formula": {
+        "display": "اِبْن + [Father's Name] = [Son] of [Father]",
+        "example": "عِيسَى ابْنُ مَرْيَمَ",
+        "myanmar_read": "ပိုင်ဆိုင်သူ (ဖခင်) ကို နောက်မှထားပြီး ပိုင်ဆိုင်မှု (သား) ကို ရှေ့ကထားခြင်း",
+        "key_insight": "In Arabic lineage, the son is the 'Mudaf' and the parent is the 'Mudaf Ilayhi'."
+      },
+      "explanation": {
+        "en": "Lineage in the Quran is expressed using the Idafah structure. When we say 'Son of Imran', 'Son' (Ibnu) acts as the first part (Mudaf), and 'Imran' acts as the second part (Mudaf Ilayhi). Notice that names of people often do not follow the standard rule of taking a double Kasra; many take a single Fatha instead because they are non-Arabic names (Diptotes).",
+        "my": "ကုရ်အာန်ကျမ်းတော်မြတ်တွင် မျိုးနွယ်ဆက်နွယ်မှုကို ဖော်ပြရာ၌ အိဿွာဖဟ် တည်ဆောက်ပုံကို အသုံးပြုပါသည်။ 'အင်မ်ရာန်၏ သားတော်' ဟု ပြောလိုလျှင် 'သားတော်' (Ibnu) သည် ရှေ့ပိုင်း (Mudaf) ဖြစ်ပြီး 'အင်မ်ရာန်' (Imran) သည် နောက်ပိုင်း (Mudaf Ilayhi) ဖြစ်သည်။ လူအမည်အများစုသည် အာရပ်အမည်မဟုတ်သောကြောင့် (Diptotes ဖြစ်၍) အောက်ကဆရာ (Kasra) နှစ်ခုအစား ဖသ်ဟ် (Fatha) တစ်ခုသာ ယူလေ့ရှိသည်ကို သတိပြုပါ။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use '၏' (of) after the parent's name (e.g., Imran ၏ သား). In Arabic, the 'of' is implied by the grammar and the son comes first.",
+        "my": "မြန်မာစာတွင် '၏' ကို အသုံးပြုသော်လည်း အာရဗီတွင် '၏' ဟူသော စကားလုံး သီးသန့်မပါဘဲ ဝါစင်္ကာအထားအသိုဖြင့် ဖော်ပြသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The Mudaf (Ibnu) loses its Tanween.",
+          "rule_my": "ရှေ့စကားလုံး (Mudaf) တွင် သန်ဝင်း (Tanween) မပါရပါ။",
+          "example": {
+            "ar": "اِبْنُ مَرْيَمَ",
+            "en": "Son of Mary",
+            "my": "မရ်ယမ်၏ သားတော်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "آلَ إِبْرَاهِيمَ",
+          "en": "the family of Abraham",
+          "my": "အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် (တမန်တော်)အာဒမ် ၊ (တမန်တော်)နူးဟ် ၊ (တမန်တော်)အိဗ်ရာဟီမ်၏အဆက်အနွယ်နှင့် အင်မ်ရာန်၏အဆက်အနွယ်တို့ကို စကြဝဠာအားလုံးအပေါ်တွင် ရွေးချယ်တော်မူခဲ့သည်။",
+          "ref": "3:33",
+          "breakdown": {
+            "subject": {
+              "word": "آلَ",
+              "en": "Family",
+              "note": "Mudaf"
+            },
+            "predicate": {
+              "word": "إِبْرَاهِيمَ",
+              "en": "Abraham",
+              "note": "Mudaf Ilayhi"
+            }
+          },
+          "myanmar_insight": "Ibrahim ends with Fatha here because it is a non-Arabic name in the Mudaf Ilayhi position."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Adding 'Al' to the Mudaf",
+          "wrong": {
+            "ar": "الابْنُ مَرْيَمَ",
+            "note": "You cannot have 'Al' on the first part of Idafah."
+          },
+          "correct": {
+            "ar": "ابْنُ مَرْيَمَ",
+            "en": "Son of Mary",
+            "my": "မရ်ယမ်၏ သားတော်"
+          },
+          "myanmar_tip": "ရှေ့စကားလုံးတွင် Al လုံးဝမထည့်ပါနှင့်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Mudaf (Son/Family) in these phrases.",
+          "instruction_my": "အောက်ပါတို့တွင် မုဒွာဖ် (သား သို့မဟုတ် မိသားစု) ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "آلُ يَعْقُوبَ",
+              "answer_en": "Aal (Family)",
+              "answer_my": "Aal (မိသားစု)",
+              "ref": "12:6"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English.",
+          "instruction_my": "အင်္ဂလိပ်သို့ ပြန်ဆိုပါ။",
+          "questions": [
+            {
+              "q": "بَنِي إِسْرَائِيلَ",
+              "answer_en": "Children of Israel",
+              "answer_my": "အစ္စရေးလ်၏ သားမြေးများ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Form an Idafah meaning 'Son of Imran'.",
+          "instruction_my": "'အင်မ်ရာန်၏ သားတော်' ကို အိဿွာဖဟ် ပုံစံဖြင့် တည်ဆောက်ပါ။",
+          "questions": [
+            {
+              "q": "ابن + عمران",
+              "answer_en": "Ibnu Imrana",
+              "answer_my": "အိဗ်နု အင်မ်ရာန",
+              "ar": "ابْنُ عِمْرَانَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The Quran lists lineages to show the continuity of truth through generations. It reminds us that our primary identity is our spiritual heritage.",
+        "my": "ကုရ်အာန်သည် အမှန်တရား၏ ဆက်နွယ်မှုကို ဖော်ပြရန် မျိုးနွယ်စဉ်ဆက်များကို ဖော်ပြသည်။ ကျွန်ုပ်တို့၏ အဓိက အမှတ်အသားမှာ ဝိညာဉ်ရေးရာ အမွေအနှစ်ဖြစ်ကြောင်း သတိပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-An'am 6:74",
+        "study_number": 1,
+        "arabic_full": "وَإِذْ قَالَ إِبْرَاهِيمُ لِأَبِيهِ آزَرَ أَتَتَّخِذُ أَصْنَامًا آلِهَةً",
+        "en_sahih": "And [mention, O Muhammad], when Abraham said to his father, Azar, 'Do you take idols as deities?'",
+        "my_mmsy": "ထို့ပြင် တစ်ခါက (တမန်တော်)အိဗ်ရာဟီမ်သည် ၎င်း၏ဖခင် အာဇရ်ကို ပြောခဲ့သည်- “အသင်သည် ရုပ်တုများကို ကိုးကွယ်သည့်အရှင်များအဖြစ် ပြုလုပ်သည်လော။ အမှန်စင်စစ် ကျွန်ုပ်သည် အသင်နှင့် အသင်၏အမျိုးသားများအား ထင်ရှားသောလမ်းမှား၌ (ရောက်နေသည်ကို) တွေ့မြင်ရပါသည်။“",
+        "audio_ref": {
+          "surah": 6,
+          "ayah": 74,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/006074.mp3"
+        },
+        "qurancom_url": "https://quran.com/6/74",
+        "context": {
+          "en": "Ibrahim (AS) confronts his father regarding idol worship, establishing his priority for Tawhid over family ties.",
+          "my": "အစ်ဗ်ရာဟီးမ် (အလိုင်းဟစ္စလာမ်) သည် ၎င်း၏ဖခင်အား ရုပ်တုကိုးကွယ်မှုနှင့် ပတ်သက်၍ ထိပ်တိုက်ရင်ဆိုင်ပြီး သောင်ဟီးဒ်တရားတော်ကို မိသားစုထက် ဦးစားပေးကြောင်း ပြသခဲ့သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "لِأَبِيهِ",
+            "translit": "li-abīhi",
+            "en": "to his father",
+            "my": "၎င်း၏ဖခင်အား",
+            "role_en": "Prepositional Phrase",
+            "role_my": "ရှေ့ဆက်ပုဒ်တွဲ",
+            "root": "أ ب و",
+            "freq": 117
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The phrase 'to his father' uses a possessive Idafah with a pronoun suffix.",
+          "structure_my": "ဖခင်ဟူသော စကားလုံးနှင့် နာမ်စားကို အိဿွာဖဟ်ဖြင့် တွဲထားသည်။",
+          "insight_en": "The use of 'Abu' changes its shape when a suffix is added, showing the complexity of the Five Nouns.",
+          "insight_my": "နောက်ဆက်တွဲ နာမ်စားထည့်သောအခါ Abu ၏ ပုံစံပြောင်းလဲမှုကို တွေ့ရသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "أ ب و",
+            "concept_en": "Foundation and origin; someone who nurtures and protects.",
+            "concept_my": "အခြေခံနှင့် အရင်းအမြစ်၊ ပြုစုစောင့်ရှောက်သူ။",
+            "members": [
+              {
+                "ar": "أَبَوَيْنِ",
+                "en": "Parents",
+                "my": "မိဘနှစ်ပါး",
+                "freq": 10
+              }
+            ],
+            "professors_note": "In Arabic, any source of a thing can be called its 'Ab' (father)."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် သစ္စာတရားအတွက်ဆိုလျှင် မိသားစု၏ သံယောဇဉ်ကိုပင် ကျော်လွှားရမည်ကို သင်ပေးသည်။ အစ်ဗ်ရာဟီးမ် (အလိုင်းဟစ္စလာမ်) ၏ သတ္တိသည် ကျွန်ုပ်တို့ မြန်မာမူဆလင်လူငယ်များအတွက် စံနမူနာဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah flows with clear pauses between the dialogue.",
+          "meaning_anchor": "Focus on the name 'Azar' as the object of Ibrahim's call.",
+          "daily_connection": "Used when discussing family relationships and faith.",
+          "my": "အာယသ်တော်ကို အပိုင်းလိုက်ခွဲကျက်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You learned how the Quran describes lineages using the Idafah structure and how names behave as Mudaf Ilayhi.",
+      "my": "အိဿွာဖဟ်ကို အသုံးပြု၍ မျိုးနွယ်များကို ဖော်ပြပုံနှင့် အမည်နာမများ၏ သဒ္ဒါသဘာဝကို လေ့လာခဲ့ပြီးဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-122",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 122,
+    "title": {
+      "ar": "الإِضَافَةُ (٧) — خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ",
+      "en": "Idafah VII — Heaven/Earth Hierarchies",
+      "my": "အိဿွာဖဟ် (၇) — မိုးကောင်းကင်နှင့် ကမ္ဘာမြေ၏ အဆင့်ဆင့်ဖွဲ့စည်းပုံ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Samāwāt + Ard structures; Mulku s-samāwāti wa-l-ard",
+      "grammar_formula": "Noun + (Sky/Earth)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مُلْكُ",
+        "translit": "Mulku",
+        "en": "Dominion / Sovereignty",
+        "my": "အချုပ်အခြာအာဏာ / ပိုင်ဆိုင်မှု",
+        "quran_freq": 163,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "م ل ك",
+          "concept_en": "ownership and power",
+          "concept_my": "ပိုင်ဆိုင်မှုနှင့် တန်ခိုးအာဏာ"
+        },
+        "memory_hook": {
+          "sound": "Milk (English - imagine owning a farm)",
+          "image": "A crown representing absolute rule",
+          "cross_language": "Milik (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "مَالِك",
+            "translit": "Mālik",
+            "en": "Owner",
+            "my": "ပိုင်ရှင်",
+            "freq": 3
+          },
+          {
+            "ar": "مَلِك",
+            "translit": "Malik",
+            "en": "King",
+            "my": "ဘုရင်",
+            "freq": 13
+          }
+        ],
+        "pattern_unlock": "When Mulk is a Mudaf, it points to the vastness of Allah's control.",
+        "example": {
+          "ar": "مُلْكُ السَّمَاوَاتِ",
+          "en": "Dominion of the heavens",
+          "my": "မိုးကောင်းကင်များ၏ အချုပ်အခြာအာဏာ",
+          "ref": "5:17"
+        }
+      },
+      {
+        "word": "خَزَائِنُ",
+        "translit": "Khazā'inu",
+        "en": "Treasures / Storehouses",
+        "my": "ဘဏ္ဍာတိုက်များ",
+        "quran_freq": 6,
+        "word_type": "Noun",
+        "gender": "Feminine (Broken Plural)",
+        "wazn": "فَعَائِل",
+        "root": {
+          "letters": "خ ز ن",
+          "concept_en": "storing and guarding",
+          "concept_my": "သိုလှောင်သိမ်းဆည်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cousin (English - sharing treasures with a cousin)",
+          "image": "A massive vault full of supplies",
+          "cross_language": "Khazana (Urdu/Hindi)"
+        },
+        "word_family": [
+          {
+            "ar": "خَازِن",
+            "translit": "Khāzin",
+            "en": "Keeper",
+            "my": "ထိန်းသိမ်းသူ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "This is a plural form; notice it ends in a single Damma as a Mudaf.",
+        "example": {
+          "ar": "خَزَائِنُ رَحْمَةِ رَبِّي",
+          "en": "the treasuries of my Lord's mercy",
+          "my": "ကျွန်ုပ်၏ဖန်ဆင်းရှင်၏ ကရုဏာတော်ဘဏ္ဍာတိုက်များ",
+          "ref": "17:100"
+        }
+      },
+      {
+        "word": "السَّمَاوَاتُ",
+        "translit": "As-Samāwāt",
+        "en": "The Heavens",
+        "my": "မိုးကောင်းကင်များ",
+        "quran_freq": 190,
+        "word_type": "Noun",
+        "gender": "Feminine (Plural)",
+        "wazn": "N/A",
+        "root": {
+          "letters": "س م و",
+          "concept_en": "height and elevation",
+          "concept_my": "မြင့်မားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sky (Sama...)",
+          "image": "Seven layers of sky",
+          "cross_language": "Sema (Turkish)"
+        },
+        "word_family": [
+          {
+            "ar": "سَمَاء",
+            "translit": "Samā'",
+            "en": "Sky",
+            "my": "ကောင်းကင်",
+            "freq": 120
+          }
+        ],
+        "pattern_unlock": "This plural always ends in -at. In the genitive (after 'of'), it ends in Kasra.",
+        "example": {
+          "ar": "فِي السَّمَاوَاتِ",
+          "en": "in the heavens",
+          "my": "မိုးကောင်းကင်များတွင်",
+          "ref": "2:255"
+        }
+      },
+      {
+        "word": "الْأَرْضُ",
+        "translit": "Al-Ard",
+        "en": "The Earth",
+        "my": "ကမ္ဘာမြေ",
+        "quran_freq": 461,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "أ ر ض",
+          "concept_en": "lowland/earth",
+          "concept_my": "မြေပြင်"
+        },
+        "memory_hook": {
+          "sound": "Earth (r-d sounds)",
+          "image": "The globe or fertile soil",
+          "cross_language": "Ardh (Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Ard is a 'naturally feminine' noun even without a feminine ending.",
+        "example": {
+          "ar": "وَالْأَرْضَ بَنَيْنَاهَا",
+          "en": "And the earth We have constructed",
+          "my": "ကမ္ဘာမြေကိုလည်း ငါအရှင်မြတ် တည်ဆောက်တော်မူခဲ့သည်",
+          "ref": "51:47"
+        }
+      },
+      {
+        "word": "نُورُ",
+        "translit": "Nūru",
+        "en": "Light",
+        "my": "အလင်းရောင်",
+        "quran_freq": 194,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ن و ر",
+          "concept_en": "radiance and clarity",
+          "concept_my": "တောက်ပကြည်လင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "New (English - new light)",
+          "image": "A lamp shining in darkness",
+          "cross_language": "Nur (Malay/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "مُنِير",
+            "translit": "Munīr",
+            "en": "Radiant",
+            "my": "တောက်ပသော",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "Nuru is often a Mudaf to Allah or the Heavens.",
+        "example": {
+          "ar": "نُورُ السَّمَاوَاتِ",
+          "en": "The light of the heavens",
+          "my": "မိုးကောင်းကင်များ၏ အလင်းရောင်",
+          "ref": "24:35"
+        }
+      },
+      {
+        "word": "غَيْبُ",
+        "translit": "Ghaybu",
+        "en": "Unseen / Hidden",
+        "my": "မမြင်ရသောအရာ / အကွယ်အပ",
+        "quran_freq": 49,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "غ ي ب",
+          "concept_en": "absence from perception",
+          "concept_my": "မျက်ကွယ်ဖြစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ghayb (sounds like 'gave' - hidden things given by Allah)",
+          "image": "A veil covering a secret",
+          "cross_language": "Ghaib (Malay/Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used in Idafah to describe the knowledge of the unseen.",
+        "example": {
+          "ar": "غَيْبُ السَّمَاوَاتِ",
+          "en": "The unseen of the heavens",
+          "my": "မိုးကောင်းကင်များ၏ အကွယ်အပ",
+          "ref": "2:33"
+        }
+      },
+      {
+        "word": "جُنُودُ",
+        "translit": "Junūdu",
+        "en": "Soldiers / Hosts / Forces",
+        "my": "စစ်သည်တော်များ",
+        "quran_freq": 24,
+        "word_type": "Noun",
+        "gender": "Masculine (Broken Plural)",
+        "wazn": "فُعُول",
+        "root": {
+          "letters": "ج ن د",
+          "concept_en": "group of supporters",
+          "concept_my": "ထောက်ခံအားပေးသူများစု"
+        },
+        "memory_hook": {
+          "sound": "June (soldiers marching in June)",
+          "image": "An army of angels",
+          "cross_language": "Jund (Arabic root used in military contexts)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Usually refers to Allah's cosmic forces in the Idafah form.",
+        "example": {
+          "ar": "جُنُودُ السَّمَاوَاتِ",
+          "en": "Forces of the heavens",
+          "my": "မိုးကောင်းကင်များ၏ စစ်သည်တော်များ",
+          "ref": "48:4"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الإِضَافَةُ فِي الكَوْنِيَّاتِ",
+        "en": "Cosmic Idafah",
+        "my": "စကြဝဠာဆိုင်ရာ အိဿွာဖဟ်"
+      },
+      "formula": {
+        "display": "[Noun] + السَّمَاوَاتِ وَالْأَرْضِ",
+        "example": "مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ",
+        "myanmar_read": "စကြဝဠာဆိုင်ရာ အရာဝတ္ထုများကို ပိုင်ဆိုင်မှု သို့မဟုတ် ဂုဏ်ဒြပ်နှင့် တွဲဖက်ခြင်း",
+        "key_insight": "In these formulas, the 'Mudaf Ilayhi' is often a compound (Heavens AND Earth)."
+      },
+      "explanation": {
+        "en": "Many ayahs use a triple structure: [Noun] of [the Heavens] and [the Earth]. Grammatically, the first noun is the Mudaf, and it governs the genitive case (Kasra) for both the Heavens and the Earth. This highlights Allah's total authority over everything above and below.",
+        "my": "အာယသ်တော်အများစုတွင် [နာမ်] + [မိုးကောင်းကင်] + [ကမ္ဘာမြေ] ဟူသော သုံးဆင့်တွဲ တည်ဆောက်ပုံကို သုံးသည်။ သဒ္ဒါအရ ပထမနာမ်သည် Mudaf ဖြစ်ပြီး ၎င်းနောက်ရှိ မိုးကောင်းကင်နှင့် ကမ္ဘာမြေ နှစ်ခုလုံးကို အောက်ကဆရာ (Kasra) ဖြစ်စေသည်။ ၎င်းသည် အထက်နှင့်အောက်ရှိ အရာအားလုံးအပေါ် အလ္လာဟ်အရှင်မြတ်၏ အကြွင်းမဲ့ အာဏာစက်ကို ဖော်ပြသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar grammar uses 'နှင့်' to join the two owners (မိုးနှင့်မြေ၏ ပိုင်ဆိုင်မှု). Arabic does the same with 'wa' (and).",
+        "my": "မြန်မာစာတွင် 'နှင့်' ကို သုံးသကဲ့သို့ အာရဗီတွင်လည်း 'ဝ' (wa) ကို သုံး၍ ပိုင်ဆိုင်သူ နှစ်ဦးကို တွဲသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Both nouns following 'wa' must be in the genitive case (Kasra).",
+          "rule_my": "'ဝ' (wa) နောက်တွင် လိုက်သော နာမ်နှစ်ခုလုံးသည် အောက်ကဆရာ (Kasra) ဖြစ်ရမည်။",
+          "example": {
+            "ar": "مَلِكِ السَّمَاوَاتِ وَالْأَرْضِ",
+            "en": "King of the heavens and the earth",
+            "my": "မိုးကောင်းကင်နှင့် ကမ္ဘာမြေ၏ ဘုရင်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "لِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ",
+          "en": "To Allah belongs the dominion of the heavens and the earth",
+          "my": "MYANMAR_PLACE_HOLDER_S5_A17",
+          "ref": "5:17",
+          "breakdown": {
+            "subject": {
+              "word": "مُلْكُ",
+              "en": "Dominion",
+              "note": "Mudaf"
+            },
+            "predicate": {
+              "word": "السَّمَاوَاتِ وَالْأَرْضِ",
+              "en": "the heavens and the earth",
+              "note": "Mudaf Ilayhi (Compound)"
+            }
+          },
+          "myanmar_insight": "The word Mulku is the key focus here as the thing owned by Allah."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Leaving the second noun with Damma",
+          "wrong": {
+            "ar": "مُلْكُ السَّمَاوَاتِ وَالْأَرْضُ",
+            "note": "Al-Ard must follow the case of As-Samawat."
+          },
+          "correct": {
+            "ar": "مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ",
+            "en": "Dominion of the heavens and the earth",
+            "my": "မိုးကောင်းကင်နှင့် ကမ္ဘာမြေ၏ အချုပ်အခြာအာဏာ"
+          },
+          "myanmar_tip": "နောက်ဆုံး စကားလုံး၏ အသံထွက်ကို (အိ) အသံဖြင့် အဆုံးသတ်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the Mudaf (The thing being possessed).",
+          "instruction_my": "မုဒွာဖ် (ပိုင်ဆိုင်ခြင်းခံရသည့်အရာ) ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "نُورُ السَّمَاوَاتِ",
+              "answer_en": "Nuru (Light)",
+              "answer_my": "Nuru (အလင်း)",
+              "ref": "24:35"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: 'Treasures of the earth'",
+          "instruction_my": "'ကမ္ဘာမြေ၏ ဘဏ္ဍာတိုက်များ' ဟု ပြန်ဆိုပါ။",
+          "questions": [
+            {
+              "q": "خَزَائِنُ الْأَرْضِ",
+              "answer_en": "Treasures of the earth",
+              "answer_my": "ကမ္ဘာမြေ၏ ဘဏ္ဍာတိုက်များ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Combine: Ghayb (Unseen) + As-Samawat (The Heavens)",
+          "instruction_my": "ပေါင်းစပ်ပါ - ဂိုင်ဘ် (အကွယ်အပ) + အတ်စ်စမာဝသ် (မိုးကောင်းကင်များ)",
+          "questions": [
+            {
+              "q": "غيب + السماوات",
+              "answer_en": "Ghaybu s-samāwāti",
+              "answer_my": "ဂိုင်ဗုစ် စမာဝါးသ်",
+              "ar": "غَيْبُ السَّمَاوَاتِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Using Idafah for the cosmos links every physical reality to its Creator. It reminds us that nothing exists independently of Allah's ownership.",
+        "my": "စကြဝဠာအတွက် အိဿွာဖဟ်ကို အသုံးပြုခြင်းသည် ရုပ်ဝတ္ထုတိုင်းကို ဖန်ဆင်းရှင်နှင့် ချိတ်ဆက်ပေးသည်။ အလ္လာဟ်အရှင်မြတ်၏ ပိုင်ဆိုင်မှုပြင်ပတွင် မည်သည့်အရာမျှ မရှိကြောင်း သတိပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Nur 24:35",
+        "study_number": 1,
+        "arabic_full": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+        "en_sahih": "Allah is the Light of the heavens and the earth.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S24_A35",
+        "audio_ref": {
+          "surah": 24,
+          "ayah": 35,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/024035.mp3"
+        },
+        "qurancom_url": "https://quran.com/24/35",
+        "context": {
+          "en": "One of the most profound descriptions of Allah's guidance in the entire Quran.",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ လမ်းညွှန်မှုနှင့် ပတ်သက်၍ ကုရ်အာန်တွင် အလေးနက်ဆုံး ဖော်ပြချက်တစ်ခုဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "نُورُ",
+            "translit": "Nūru",
+            "en": "Light",
+            "my": "အလင်းရောင်",
+            "role_en": "Mudaf / Predicate",
+            "role_my": "မုဒွာဖ် / သတင်းစကား",
+            "root": "ن و ر",
+            "freq": 43
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Idafah is used to describe Allah as the source of light for the entire universe.",
+          "structure_my": "အိဿွာဖဟ်ကို အသုံးပြု၍ အလ္လာဟ်အရှင်မြတ်အား စကြဝဠာတစ်ခုလုံး၏ အလင်းအရင်းအမြစ်အဖြစ် ဖော်ပြထားသည်။",
+          "insight_en": "Notice how 'Nuru' doesn't have 'Al' but is definite because it's attached to 'the Heavens'.",
+          "insight_my": "'Nuru' တွင် 'Al' မပါသော်လည်း မိုးကောင်းကင်နှင့် တွဲထားသောကြောင့် သီးသန့်နာမ် (Definite) ဖြစ်သွားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ن و ر",
+            "concept_en": "That which makes things visible; guidance that clears darkness.",
+            "concept_my": "အရာဝတ္ထုများကို မြင်သာစေသောအရာ၊ မှောင်မိုက်ကို ပယ်ဖျက်သည့် လမ်းညွှန်မှု။",
+            "members": [
+              {
+                "ar": "مُنِير",
+                "en": "Illuminating",
+                "my": "လင်းထိန်စေသော",
+                "freq": 6
+              }
+            ],
+            "professors_note": "Nur is not just physical light, but intellectual and spiritual clarity."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မိုးမြေအားလုံး၏ အလင်းရှင်ဖြစ်သည်။ ကျွန်ုပ်တို့၏ ဘဝတွင် မှောင်မိုက်သောအခါများ၌ ဤအာယသ်တော်ကို သတိရပြီး အလင်းရောင်တောင်းခံရမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Short, majestic, and powerful phrase.",
+          "meaning_anchor": "Imagine the sun shining across the sky and earth.",
+          "daily_connection": "Recited when seeking guidance and clarity.",
+          "my": "အလွန်တိုတောင်း၍ ကျက်မှတ်ရန် လွယ်ကူသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You have mastered the cosmic Idafah patterns that describe Allah's dominion over the heavens and the earth.",
+      "my": "မိုးကောင်းကင်နှင့် ကမ္ဘာမြေအပေါ် အလ္လာဟ်အရှင်မြတ်၏ အုပ်စိုးမှုကို ဖော်ပြသည့် အိဿွာဖဟ် ပုံစံများကို သင်ယူပြီးဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-123",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 123,
+    "title": {
+      "ar": "الإِضَافَةُ أَمِ الصِّفَةُ؟ — التَّفْرِيقُ بَيْنَهُمَا",
+      "en": "Idafah vs Sifah: How to Tell Them Apart",
+      "my": "အိဿွာဖဟ် နှင့် စိဖတ်ဟ် — ၎င်းတို့နှစ်ခု၏ ကွာခြားချက်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Distinction: Idafah (noun + noun) vs Sifah (noun + adjective)",
+      "grammar_formula": "Idafah [X of Y] vs Sifah [X-ish Y]"
+    },
+    "section_1_vocab": [
+      {
+        "word": "كِتَابُ",
+        "translit": "Kitābu",
+        "en": "Book",
+        "my": "စာအုပ် / ကျမ်း",
+        "quran_freq": 230,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ك ت ب",
+          "concept_en": "writing/prescribing",
+          "concept_my": "ရေးသားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kitab (standard Arabic word)",
+          "image": "A bound book",
+          "cross_language": "Kitab (Malay/Urdu/Myanmar Muslim usage)"
+        },
+        "word_family": [],
+        "pattern_unlock": "As a Mudaf, it loses its Tanween.",
+        "example": {
+          "ar": "كِتَابُ اللَّهِ",
+          "en": "The book of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ကျမ်းတော်",
+          "ref": "3:23"
+        }
+      },
+      {
+        "word": "مُبِينٌ",
+        "translit": "Mubīn",
+        "en": "Clear / Manifest",
+        "my": "ရှင်းလင်းထင်ရှားသော",
+        "quran_freq": 119,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "مُفْعِل",
+        "root": {
+          "letters": "ب ي ن",
+          "concept_en": "separation and clarity",
+          "concept_my": "ကွဲပြားထင်ရှားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Moon (shining clear at night)",
+          "image": "A crystal clear glass",
+          "cross_language": "Bayan (Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "This is an adjective (Sifah) and will match its noun in 'Al' and case.",
+        "example": {
+          "ar": "كِتَابٌ مُبِينٌ",
+          "en": "A clear book",
+          "my": "ရှင်းလင်းသော ကျမ်းတစ်စောင်",
+          "ref": "5:15"
+        }
+      },
+      {
+        "word": "حَكِيمٌ",
+        "translit": "Ḥakīm",
+        "en": "Wise",
+        "my": "ဉာဏ်ပညာနှင့် ပြည့်စုံသော",
+        "quran_freq": 97,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ح ك م",
+          "concept_en": "judgement and wisdom",
+          "concept_my": "စီရင်ဆုံးဖြတ်ခြင်းနှင့် ပညာ"
+        },
+        "memory_hook": {
+          "sound": "Hakeem (standard name)",
+          "image": "A judge making a wise choice",
+          "cross_language": "Hakim (Malay/Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Standard adjective pattern for 'permanent qualities'.",
+        "example": {
+          "ar": "الْقُرْآنِ الْحَكِيمِ",
+          "en": "the wise Quran",
+          "my": "ပညာနှင့်ပြည့်စုံသော ကုရ်အာန်",
+          "ref": "36:2"
+        }
+      },
+      {
+        "word": "عَظِيمٌ",
+        "translit": "‘Aẓīm",
+        "en": "Great / Magnificent",
+        "my": "ကြီးကျယ်မြင့်မြတ်သော",
+        "quran_freq": 107,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ع ظ م",
+          "concept_en": "greatness and size",
+          "concept_my": "ကြီးကျယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Awesome (Azeem...)",
+          "image": "A vast mountain",
+          "cross_language": "Azmat (Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used frequently as a Sifah for Allah's attributes.",
+        "example": {
+          "ar": "الْعَرْشِ الْعَظِيمِ",
+          "en": "the Great Throne",
+          "my": "ကြီးကျယ်သော ပလ္လင်တော်",
+          "ref": "9:129"
+        }
+      },
+      {
+        "word": "قَوْلُ",
+        "translit": "Qawlu",
+        "en": "Word / Statement",
+        "my": "စကား / မိန့်ကြားချက်",
+        "quran_freq": 91,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ق و ل",
+          "concept_en": "saying and speech",
+          "concept_my": "ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Call (English - calling out a word)",
+          "image": "A speech bubble",
+          "cross_language": "Kaul (Malay)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Often used as Mudaf to a person (Word of Prophet).",
+        "example": {
+          "ar": "قَوْلُ رَسُولٍ",
+          "en": "The word of a messenger",
+          "my": "ရစူလ်တမန်တော်၏ စကားတော်",
+          "ref": "69:40"
+        }
+      },
+      {
+        "word": "فَصْلٌ",
+        "translit": "Faṣlun",
+        "en": "Decisive / Separation",
+        "my": "ပြတ်သားသော / ခွဲခြားခြင်း",
+        "quran_freq": 6,
+        "word_type": "Noun/Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ف ص ل",
+          "concept_en": "dividing/deciding",
+          "concept_my": "ခွဲခြားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fasten (English - separate and fasten)",
+          "image": "A line separating two things",
+          "cross_language": "Faisal (Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Usually describes a day or a statement.",
+        "example": {
+          "ar": "قَوْلٌ فَصْلٌ",
+          "en": "a decisive word",
+          "my": "ပြတ်သားသော စကား",
+          "ref": "86:13"
+        }
+      },
+      {
+        "word": "صِرَاطٌ",
+        "translit": "Ṣirāṭ",
+        "en": "Path",
+        "my": "လမ်းစဉ်",
+        "quran_freq": 45,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ص ر ط",
+          "concept_en": "straight pathway",
+          "concept_my": "ဖြောင့်မတ်သော လမ်း"
+        },
+        "memory_hook": {
+          "sound": "Straight (starts with S)",
+          "image": "A straight highway",
+          "cross_language": "Sirat (Malay/Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "In the Quran, it is mostly used in Idafah (Path of Allah).",
+        "example": {
+          "ar": "صِرَاطُ اللَّهِ",
+          "en": "The path of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ လမ်းစဉ်",
+          "ref": "42:53"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الإِضَافَةُ مُقَابِلَ الصِّفَةِ",
+        "en": "Idafah vs. Sifah",
+        "my": "အိဿွာဖဟ် နှင့် စိဖတ်ဟ် နှိုင်းယှဉ်ချက်"
+      },
+      "formula": {
+        "display": "Idafah: Noun1 + Noun2 (Genitive) | Sifah: Noun + Adjective (Matching)",
+        "example": "كِتَابُ اللَّهِ (Idafah) vs الْكِتَابُ الْمُبِينُ (Sifah)",
+        "myanmar_read": "စကားလုံးနှစ်ခု၏ အသံထွက်နှင့် Al ပါဝင်မှုကို ကြည့်၍ ခွဲခြားခြင်း",
+        "key_insight": "In Idafah, the first word NEVER has 'Al'. In Sifah, both words usually have 'Al'."
+      },
+      "explanation": {
+        "en": "It is vital to distinguish between a 'Noun-Noun' relationship (Idafah) and a 'Noun-Adjective' relationship (Sifah). In Idafah (e.g., 'Book of Allah'), the two words are different entities. In Sifah (e.g., 'The Clear Book'), the second word describes the first. Look at the Al: if the first word has Al, it is NOT an Idafah.",
+        "my": "နာမ်နှစ်ခုတွဲ (အိဿွာဖဟ်) နှင့် နာမ်နှင့်နာမဝိသေသနတွဲ (စိဖတ်ဟ်) ကို ခွဲခြားရန် အလွန်အရေးကြီးသည်။ အိဿွာဖဟ်တွင် (ဥပမာ- အလ္လာဟ်၏ကျမ်း) စကားလုံးနှစ်လုံးသည် မတူညီသောအရာများဖြစ်သည်။ စိဖတ်ဟ်တွင် (ဥပမာ- ရှင်းလင်းသောကျမ်း) ဒုတိယစကားလုံးသည် ပထမစကားလုံးကို အထူးပြုသည်။ Al ကိုကြည့်ပါ၊ ရှေ့စကားလုံးတွင် Al ပါနေလျှင် ၎င်းသည် အိဿွာဖဟ် မဟုတ်ပါ။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar uses '၏' for Idafah and direct placement for Sifah (e.g., အလ္လာဟ်၏ကျမ်း vs ရှင်းလင်းသောကျမ်း).",
+        "my": "မြန်မာစာတွင် အိဿွာဖဟ်အတွက် '၏' ကို သုံးပြီး စိဖတ်ဟ်အတွက်မူ တိုက်ရိုက်တွဲသုံးသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Idafah: First word has no 'Al', second word is genitive (Kasra).",
+          "rule_my": "အိဿွာဖဟ် - ရှေ့စကားလုံးတွင် Al မပါရ၊ နောက်စကားလုံးသည် Kasra ဖြစ်ရမည်။",
+          "example": {
+            "ar": "رَسُولُ اللَّهِ",
+            "en": "Messenger of Allah",
+            "my": "အလ္လာဟ်၏ တမန်တော်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Sifah: Both words must match in 'Al' status and vowel ending.",
+          "rule_my": "စိဖတ်ဟ် - စကားလုံးနှစ်ခုလုံး Al ပါဝင်မှုနှင့် အဆုံးသတ်အသံ တူညီရမည်။",
+          "example": {
+            "ar": "الرَّسُولُ الْكَرِيمُ",
+            "en": "The noble messenger",
+            "my": "မွန်မြတ်သော တမန်တော်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "فِي كِتَابٍ مُبِينٍ",
+          "en": "in a clear record",
+          "my": "ထို့ပြင် အရှင်မြတ်ထံတော်တွင် အကွယ်၏သော့များရှိသည်။  ထိုအရာများကို အရှင်မြတ်မှလွဲ၍ မည်သူမှမသိပေ။ ထို့ပြင် အရှင်မြတ်သည် ကုန်းမြေတွင်ရှိသမျှနှင့် ပင်လယ်ထဲတွင်ရှိသမျှအရာများကို သိတော်မူသည်။ ၎င်းပြင် သစ်ရွက်တစ်ရွက် ကြွေကျသည်ကိုလည်း အရှင်မြတ်သိတော်မူသည်။ ထို့ပြင် ပထဝီမြေ၏အမှောင်များထဲ၌ ကျရောက်နေသော အစေ့အဆံဟူသမျှနှင့် စိမ်းစိုသောအရာဟူသမျှအပြင် ခြောက်သွေ့သောအရာသူသမျှသည် ရှင်းလင်းထင်ရှားသော (မှတ်တမ်း)စာအုပ်တွင် ရှိကြသည်။",
+          "ref": "6:59",
+          "breakdown": {
+            "subject": {
+              "word": "كِتَابٍ",
+              "en": "Record (Noun)",
+              "note": "Mawsuf"
+            },
+            "predicate": {
+              "word": "مُبِينٍ",
+              "en": "Clear (Adjective)",
+              "note": "Sifah"
+            }
+          },
+          "myanmar_insight": "Both words match with Tanween Kasra, so it is a Sifah relationship."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing up the two patterns",
+          "wrong": {
+            "ar": "كِتَابُ الْمُبِينُ",
+            "note": "This is neither a correct Idafah nor a Sifah."
+          },
+          "correct": {
+            "ar": "الْكِتَابُ الْمُبِينُ",
+            "en": "The clear book",
+            "my": "ရှင်းလင်းသောကျမ်း"
+          },
+          "myanmar_tip": "စကားလုံးနှစ်ခုလုံးတွင် Al ပါလျှင် ၎င်းသည် အထူးပြုချက် (Sifah) ဖြစ်သည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Is this Idafah or Sifah?",
+          "instruction_my": "အိဿွာဖဟ်လား စိဖတ်ဟ်လား ခွဲခြားပါ။",
+          "questions": [
+            {
+              "q": "كِتَابُ اللَّهِ",
+              "answer_en": "Idafah",
+              "answer_my": "အိဿွာဖဟ်",
+              "ref": "3:23"
+            },
+            {
+              "q": "الْقُرْآنُ الْحَكِيمُ",
+              "answer_en": "Sifah",
+              "answer_my": "စိဖတ်ဟ်",
+              "ref": "36:2"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'A great reward'",
+          "instruction_my": "'ကြီးကျယ်သော အကျိုးကျေးဇူး' ဟု ပြန်ဆိုပါ။",
+          "questions": [
+            {
+              "q": "أَجْرٌ عَظِيمٌ",
+              "answer_en": "A great reward",
+              "answer_my": "ကြီးကျယ်သော အကျိုးကျေးဇူး"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Turn 'Kitab Allah' into 'The Wise Book'.",
+          "instruction_my": "'အလ္လာဟ်၏ကျမ်း' ကို 'ပညာရှိကျမ်း' (စိဖတ်ဟ်) သို့ ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "كتاب + حكيم",
+              "answer_en": "al-kitābu l-ḥakīmu",
+              "answer_my": "အလ်ကိသာဗုလ် ဟကီးမု",
+              "ar": "الْكِتَابُ الْحَكِيمُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Distinguishing between ownership and description helps us understand whether a quality is inherent to a thing or if it belongs to someone else.",
+        "my": "ပိုင်ဆိုင်မှုနှင့် ဂုဏ်အင်္ဂါကို ခွဲခြားသိခြင်းသည် အရာဝတ္ထုတစ်ခု၏ ပင်ကိုယ်ဂုဏ်သတ္တိလား သို့မဟုတ် အခြားတစ်ဦး၏ ပိုင်ဆိုင်မှုလားဆိုသည်ကို နားလည်စေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "At-Tariq 86:13-14",
+        "study_number": 1,
+        "arabic_full": "إِنَّهُ لَقَوْلٌ فَصْلٌ وَمَا هُوَ بِالْهَزْلِ",
+        "en_sahih": "Indeed, the Qur'an is a decisive statement, And it is not amusement.",
+        "my_mmsy": "(၁၃) အမှန်စင်စစ် ဤ(ကုရ်အာန်)သည် ပြတ်သားသော အဆုံးအဖြတ်စကားဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 86,
+          "ayah": 13,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/086013.mp3"
+        },
+        "qurancom_url": "https://quran.com/86/13",
+        "context": {
+          "en": "Allah swears by the sky and rain that the Quran is a serious and decisive message.",
+          "my": "ကုရ်အာန်သည် အလေးအနက်ထားရမည့် ပြတ်သားသော သတင်းစကားဖြစ်ကြောင်း အလ္လာဟ်အရှင်မြတ်က ကောင်းကင်နှင့် မိုးရေကို အမှီပြု၍ ကျိန်ဆိုထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "قَوْلٌ",
+            "translit": "Qawlun",
+            "en": "Statement",
+            "my": "စကား",
+            "role_en": "Noun / Mawsuf",
+            "role_my": "နာမ် / အထူးပြုခံ",
+            "root": "ق و ل",
+            "freq": 91
+          },
+          {
+            "ar": "فَصْلٌ",
+            "translit": "Faṣlun",
+            "en": "Decisive",
+            "my": "ပြတ်သားသော",
+            "role_en": "Adjective / Sifah",
+            "role_my": "နာမဝိသေသန / စိဖတ်ဟ်",
+            "root": "ف ص ل",
+            "freq": 6
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "This is a Sifah relationship where 'Fasl' describes 'Qawl'.",
+          "structure_my": "၎င်းသည် 'Fasl' က 'Qawl' ကို အထူးပြုသော စိဖတ်ဟ် ဆက်နွယ်မှု ဖြစ်သည်။",
+          "insight_en": "Because both have Tanween Damma, they match and form a description, not an Idafah.",
+          "insight_my": "နှစ်ခုလုံးတွင် သန်ဝင်း ဖသ်ဟ် (Tanween Damma) တူညီစွာ ပါဝင်နေသောကြောင့် ၎င်းသည် အထူးပြုချက် ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ف ص ل",
+            "concept_en": "To divide between truth and falsehood.",
+            "concept_my": "အမှန်နှင့် အမှားကို ခွဲခြားခြင်း။",
+            "members": [
+              {
+                "ar": "فَصَلَ",
+                "en": "He separated",
+                "my": "သူခွဲခြားခဲ့သည်",
+                "freq": 3
+              }
+            ],
+            "professors_note": "A 'decisive word' is one that leaves no room for doubt or confusion."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကုရ်အာန်သည် နောက်ပြောင်ရမည့်အရာ မဟုတ်ပါ။ ၎င်းသည် ကျွန်ုပ်တို့ဘဝ၏ အမှန်နှင့်အမှားကို ပြတ်ပြတ်သားသား ခွဲခြားပေးသည့် အရာဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Heavy rhythm on 'Qawlun Fasl'.",
+          "meaning_anchor": "Imagine a judge's gavel striking to make a final decision.",
+          "daily_connection": "Used to remind ourselves of the seriousness of Quranic study.",
+          "my": "အာယသ်တော်၏ အဆုံးသတ်သံကို ဂရုစိုက်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You can now confidently distinguish between Idafah and Sifah patterns in the Quran.",
+      "my": "ကုရ်အာန်ရှိ အိဿွာဖဟ် နှင့် စိဖတ်ဟ် ပုံစံများကို ယခုအခါ ယုံကြည်စိတ်ချစွာ ခွဲခြားနိုင်ပြီ ဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-124",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 124,
+    "title": {
+      "ar": "الإِضَافَةُ فِي سُورَةِ الْفَاتِحَةِ",
+      "en": "Idafah in Surah al-Fatiha Deep Parse",
+      "my": "စူရဟ် ဖွာသိဟဟ်ရှိ အိဿွာဖဟ်များကို အသေးစိတ်လေ့လာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Every Idafah in Al-Fatiha: Rabb al-'ālamīn, Mālik yawm al-dīn",
+      "grammar_formula": "Reviewing all Idafah forms in Fatiha"
+    },
+    "section_1_vocab": [
+      {
+        "word": "رَبُّ",
+        "translit": "Rabbu",
+        "en": "Lord / Sustainer",
+        "my": "ဖန်ဆင်းပြုစုစောင့်ရှောက်တော်မူသော အရှင်",
+        "quran_freq": 980,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ر ب ب",
+          "concept_en": "nurturing and mastery",
+          "concept_my": "ပြုစုပျိုးထောင်ခြင်းနှင့် အုပ်စိုးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rabbi (standard term)",
+          "image": "A hand nurturing a plant",
+          "cross_language": "Rab (Malay/Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Rabbu is the most frequent Mudaf in the Quran.",
+        "example": {
+          "ar": "رَبِّ الْعَالَمِينَ",
+          "en": "Lord of the worlds",
+          "my": "လောကခပ်သိမ်းကို ပြုစုစောင့်ရှောက်တော်မူသော အရှင်",
+          "ref": "1:2"
+        }
+      },
+      {
+        "word": "الْعَالَمِينَ",
+        "translit": "Al-‘Ālamīn",
+        "en": "The Worlds / All creations",
+        "my": "လောကခပ်သိမ်း / သတ္တဝါအပေါင်း",
+        "quran_freq": 73,
+        "word_type": "Noun",
+        "gender": "Masculine (Plural)",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "sign/knowledge",
+          "concept_my": "အမှတ်အသား သို့မဟုတ် အသိပညာ"
+        },
+        "memory_hook": {
+          "sound": "Alam (standard term)",
+          "image": "The universe and stars",
+          "cross_language": "Alam (Malay/Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "This is a plural that ends in -een in the genitive case.",
+        "example": {
+          "ar": "رَبِّ الْعَالَمِينَ",
+          "en": "Lord of the worlds",
+          "my": "လောကခပ်သိမ်း၏ အရှင်",
+          "ref": "1:2"
+        }
+      },
+      {
+        "word": "مَالِكِ",
+        "translit": "Māliki",
+        "en": "Master / Owner",
+        "my": "ပိုင်ရှင် / အရှင်",
+        "quran_freq": 3,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "م ل ك",
+          "concept_en": "ownership",
+          "concept_my": "ပိုင်ဆိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mālik (king/owner)",
+          "image": "Someone holding the keys to a kingdom",
+          "cross_language": "Milik (Malay)"
+        },
+        "word_family": [],
+        "pattern_unlock": "In Fatiha, it is in genitive because it follows 'Allah'.",
+        "example": {
+          "ar": "مَالِكِ يَوْمِ الدِّينِ",
+          "en": "Sovereign of the Day of Recompense",
+          "my": "အကျိုးပေးမည့်နေ့ကို ပိုင်စိုးတော်မူသော အရှင်",
+          "ref": "1:4"
+        }
+      },
+      {
+        "word": "يَوْمِ",
+        "translit": "Yawmi",
+        "en": "Day",
+        "my": "နေ့ရက်",
+        "quran_freq": 475,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ي و م",
+          "concept_en": "time period",
+          "concept_my": "အချိန်ကာလ"
+        },
+        "memory_hook": {
+          "sound": "Yom (Hebrew) / Yawm",
+          "image": "A rising sun",
+          "cross_language": "Yaum (Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Often Mudaf to another noun to specify a certain day.",
+        "example": {
+          "ar": "يَوْمِ الدِّينِ",
+          "en": "Day of Judgment",
+          "my": "တရားစီရင်ရာနေ့",
+          "ref": "1:4"
+        }
+      },
+      {
+        "word": "الدِّينِ",
+        "translit": "Ad-Dīn",
+        "en": "Judgment / Religion / Way of Life",
+        "my": "တရားစီရင်ခြင်း / သာသနာ",
+        "quran_freq": 92,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "د ي ن",
+          "concept_en": "debt/obligation/accountability",
+          "concept_my": "ကြွေးမြီ သို့မဟုတ် တာဝန်ခံမှု"
+        },
+        "memory_hook": {
+          "sound": "Deen (standard term)",
+          "image": "A scale of justice",
+          "cross_language": "Din (Malay/Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "In Fatiha, it means the 'recompense' or 'judgment'.",
+        "example": {
+          "ar": "يَوْمِ الدِّينِ",
+          "en": "Day of Recompense",
+          "my": "အကျိုးပေးမည့်နေ့",
+          "ref": "1:4"
+        }
+      },
+      {
+        "word": "حَمْدُ",
+        "translit": "Ḥamdu",
+        "en": "Praise / Gratitude",
+        "my": "ချီးမွမ်းထောမနာပြုခြင်း",
+        "quran_freq": 43,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ح م د",
+          "concept_en": "praiseworthiness",
+          "concept_my": "ချီးမွမ်းထိုက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hamd (standard term)",
+          "image": "Someone saying 'Alhamdulillah'",
+          "cross_language": "Hamd (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "مُحَمَّد",
+            "translit": "Muhammad",
+            "en": "The Praised One",
+            "my": "ချီးမွမ်းခံရသောသူ",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "Usually starts Al-Fatiha as 'The Praise'.",
+        "example": {
+          "ar": "الْحَمْدُ لِلَّهِ",
+          "en": "All praise is for Allah",
+          "my": "ချီးမွမ်းခြင်းအပေါင်းသည် အလ္လာဟ်အရှင်မြတ်အတွက်သာ ဖြစ်သည်",
+          "ref": "1:2"
+        }
+      },
+      {
+        "word": "صِرَاطَ",
+        "translit": "Ṣirāṭa",
+        "en": "Path",
+        "my": "လမ်းစဉ်",
+        "quran_freq": 45,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ص ر ط",
+          "concept_en": "pathway",
+          "concept_my": "လမ်း"
+        },
+        "memory_hook": {
+          "sound": "Sirat",
+          "image": "A narrow bridge",
+          "cross_language": "Sirat (Malay)"
+        },
+        "word_family": [],
+        "pattern_unlock": "In the ayah 'Sirat al-ladhina', it is a Mudaf.",
+        "example": {
+          "ar": "صِرَاطَ الَّذِينَ",
+          "en": "The path of those...",
+          "my": "ထိုသူတို့၏ လမ်းစဉ်...",
+          "ref": "1:7"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الإِضَافَةُ فِي الْفَاتِحَةِ",
+        "en": "Idafah in Al-Fatiha",
+        "my": "ဖွာသိဟဟ်ရှိ အိဿွာဖဟ်များ"
+      },
+      "formula": {
+        "display": "Rabb + al-Alamin | Malik + Yawm | Yawm + al-Din",
+        "example": "مَالِكِ يَوْمِ الدِّينِ",
+        "myanmar_read": "စူရဟ်ဖွာသိဟဟ်ရှိ ဆက်စပ်နာမ်များကို လေ့လာခြင်း",
+        "key_insight": "Al-Fatiha contains a 'Triple Idafah' (Master of the Day of Judgment)."
+      },
+      "explanation": {
+        "en": "Surah Al-Fatiha is rich with Idafah structures. 'Rabb al-'Alamin' is a standard Idafah. 'Malik yawm al-Din' is a complex Idafah where 'Yawm' acts as both a Mudaf Ilayhi (to Malik) and a Mudaf (to Al-Din). This nesting shows how meanings can be layered in Arabic syntax.",
+        "my": "စူရဟ်ဖွာသိဟဟ်တွင် အိဿွာဖဟ် တည်ဆောက်ပုံများစွာ ပါဝင်သည်။ 'ရဗ်ဗိလ် အာလမီးန်' သည် ရိုးရှင်းသော အိဿွာဖဟ် ဖြစ်သည်။ 'မာလိကိ ယောင်မိဒ် ဒီန်' သည် ပို၍ ရှုပ်ထွေးသော အိဿွာဖဟ် ဖြစ်ပြီး 'ယောင်မ်' သည် ရှေ့စကားလုံးအတွက် ပိုင်ဆိုင်သူဖြစ်သလို နောက်စကားလုံးအတွက်လည်း ပိုင်ဆိုင်ခြင်းခံရသူ ဖြစ်နေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we would say 'တရားစီရင်ရာနေ့၏ အရှင်' (Master of [Judgment Day]).",
+        "my": "မြန်မာစာတွင်လည်း '၏' ကို နှစ်ခါထပ်၍ ဆက်စပ်ပြနိုင်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "A word can be both a Mudaf and a Mudaf Ilayhi at the same time.",
+          "rule_my": "စကားလုံးတစ်လုံးသည် မုဒွာဖ် ဖြစ်သလို တစ်ချိန်တည်းမှာပင် မုဒွာဖ်အိလိုင်းဟိ လည်း ဖြစ်နိုင်သည်။",
+          "example": {
+            "ar": "يَوْمِ الدِّينِ",
+            "en": "Day of Judgment",
+            "my": "တရားစီရင်ရာနေ့"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "رَبِّ الْعَالَمِينَ",
+          "en": "Lord of the worlds",
+          "my": "MYANMAR_PLACE_HOLDER_S1_A2",
+          "ref": "1:2",
+          "breakdown": {
+            "subject": {
+              "word": "رَبِّ",
+              "en": "Lord",
+              "note": "Mudaf"
+            },
+            "predicate": {
+              "word": "الْعَالَمِينَ",
+              "en": "The worlds",
+              "note": "Mudaf Ilayhi"
+            }
+          },
+          "myanmar_insight": "The Kasra on Rabbi shows it is connected to the 'Hamd' before it."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Not applying Kasra to all parts of the chain",
+          "wrong": {
+            "ar": "مَالِكُ يَوْمُ الدِّينُ",
+            "note": "In an Idafah chain, everything after the first word must be genitive."
+          },
+          "correct": {
+            "ar": "مَالِكِ يَوْمِ الدِّينِ",
+            "en": "Master of the Day of Judgment",
+            "my": "တရားစီရင်ရာနေ့၏ အရှင်"
+          },
+          "myanmar_tip": "စကားလုံးဆက်တွဲများတွင် အဆုံးသတ်များကို (အိ) အသံဖြင့် အဆုံးသတ်ရန် သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the two Idafahs in 'Malik yawm al-Din'.",
+          "instruction_my": "'မာလိကိ ယောင်မိဒ်ဒီန်' ရှိ အိဿွာဖဟ် နှစ်ခုကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "مَالِكِ يَوْمِ",
+              "answer_en": "First Idafah",
+              "answer_my": "ပထမအဆင့်",
+              "ref": "1:4"
+            },
+            {
+              "q": "يَوْمِ الدِّينِ",
+              "answer_en": "Second Idafah",
+              "answer_my": "ဒုတိယအဆင့်",
+              "ref": "1:4"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: 'The path of those...'",
+          "instruction_my": "'ထိုသူတို့၏ လမ်းစဉ်' ဟု ပြန်ဆိုပါ။",
+          "questions": [
+            {
+              "q": "صِرَاطَ الَّذِينَ",
+              "answer_en": "The path of those who...",
+              "answer_my": "ထိုသူတို့၏ လမ်းစဉ်..."
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Form: Lord + The Heavens",
+          "instruction_my": "ပေါင်းစပ်ပါ - ဖန်ဆင်းရှင် + မိုးကောင်းကင်များ",
+          "questions": [
+            {
+              "q": "رب + السماوات",
+              "answer_en": "Rabbu s-samāwāti",
+              "answer_my": "ရဗ်ဗုစ် စမာဝါးသ်",
+              "ar": "رَبُّ السَّمَاوَاتِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "By starting the Quran with Idafahs, Allah defines His relationship with us: He is the Owner, the Nurturer, and the Judge.",
+        "my": "ကုရ်အာန်ကို အိဿွာဖဟ်များဖြင့် စတင်ခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့နှင့် ၎င်း၏ ဆက်ဆံရေးကို သတ်မှတ်လိုက်ခြင်းဖြစ်သည် - ကိုယ်တော်သည် ပိုင်ရှင်၊ ပြုစုစောင့်ရှောက်သူနှင့် တရားသူကြီးဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Fatiha 1:4",
+        "study_number": 1,
+        "arabic_full": "مَالِكِ يَوْمِ الدِّينِ",
+        "en_sahih": "Sovereign of the Day of Recompense.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S1_A4",
+        "audio_ref": {
+          "surah": 1,
+          "ayah": 4,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/001004.mp3"
+        },
+        "qurancom_url": "https://quran.com/1/4",
+        "context": {
+          "en": "In Al-Fatiha, Allah is described as the absolute Master of the time when everyone will be held accountable.",
+          "my": "စူရဟ်ဖွာသိဟဟ်တွင် အလ္လာဟ်အရှင်မြတ်အား လူသားအားလုံး တာဝန်ခံရမည့်အချိန်၏ အကြွင်းမဲ့ အရှင်အဖြစ် ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "مَالِكِ",
+            "translit": "Māliki",
+            "en": "Master",
+            "my": "အရှင်",
+            "role_en": "Mudaf",
+            "role_my": "မုဒွာဖ်",
+            "root": "م ل ك",
+            "freq": 3
+          },
+          {
+            "ar": "يَوْمِ",
+            "translit": "Yawmi",
+            "en": "Day",
+            "my": "နေ့",
+            "role_en": "Mudaf Ilayhi / Mudaf",
+            "role_my": "မုဒွာဖ်အိလိုင်းဟိ / မုဒွာဖ်",
+            "root": "ي و م",
+            "freq": 393
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Nested Idafah: [Master] of [the Day] of [the Judgment].",
+          "structure_my": "ဆင့်ပွားအိဿွာဖဟ် - [တရားစီရင်ခြင်း] ၏ [နေ့ရက်] ၏ [အရှင်]။",
+          "insight_en": "The second word 'Yawmi' takes a Kasra because it's a Mudaf Ilayhi, and it loses its Al because it's also a Mudaf.",
+          "insight_my": "'Yawmi' သည် မုဒွာဖ်အိလိုင်းဟိ ဖြစ်၍ Kasra ယူထားပြီး မုဒွာဖ် ဖြစ်နေ၍ Al မပါဝင်ပါ။"
+        },
+        "root_depth": [
+          {
+            "root": "د ي ن",
+            "concept_en": "System of law and the debt one owes to God.",
+            "concept_my": "ဥပဒေစနစ်နှင့် ဘုရားသခင်အပေါ် ပေးဆပ်ရမည့် တာဝန်။",
+            "members": [
+              {
+                "ar": "مَدِينَة",
+                "en": "City (place of law)",
+                "my": "မြို့တော်",
+                "freq": 17
+              }
+            ],
+            "professors_note": "Din refers to the accounting process where every deed is weighed."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် နေ့စဉ် ဆွလာသ်ဝတ်ပြုတိုင်း ဤစကားကို ဆိုနေကြသည်။ ၎င်းသည် ကျွန်ုပ်တို့အား တရားစီရင်ရာနေ့အတွက် အမြဲပြင်ဆင်နေစေရန် သတိပေးချက်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Balanced and slow pace: Mā-li-ki-yaw-mid-dīn.",
+          "meaning_anchor": "Imagine a courtroom where the final truth is revealed.",
+          "daily_connection": "Recited in every rak'ah of prayer.",
+          "my": "ဆွလာသ်တွင် အမြဲဆိုနေရသဖြင့် အဓိပ္ပါယ်ကို စဉ်းစားပြီးဆိုပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You have analyzed the profound Idafah structures in Al-Fatiha, realizing how words connect to build spiritual meaning.",
+      "my": "စူရဟ်ဖွာသိဟဟ်ရှိ အိဿွာဖဟ် တည်ဆောက်ပုံများကို အသေးစိတ် လေ့လာခဲ့ပြီးနောက် ဝိညာဉ်ရေးရာ အဓိပ္ပါယ်များ မည်သို့တည်ဆောက်ထားသည်ကို သိရှိခဲ့ပြီး ဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-125",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 125,
+    "title": {
+      "ar": "مُرَاجَعَةُ الإِضَافَةِ — مَلَخَّصٌ شَامِلٌ",
+      "en": "Idafah X — Review: All Idafah Patterns",
+      "my": "အိဿွာဖဟ် (၁၀) — ပြန်လည်သုံးသပ်ခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Comprehensive Idafah review drill",
+      "grammar_formula": "All previous Idafah formulas"
+    },
+    "section_1_vocab": [
+      {
+        "word": "أَهْلُ",
+        "translit": "Ahlu",
+        "en": "People of / Family",
+        "my": "လူစုလူဝေး / မိသားစု",
+        "quran_freq": 127,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "أ هـ ل",
+          "concept_en": "belonging to a place/group",
+          "concept_my": "အုပ်စု သို့မဟုတ် နေရာတစ်ခုသို့ သက်ဆိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ahl (standard term)",
+          "image": "A village of people",
+          "cross_language": "Ahli (Malay)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Usually the Mudaf in phrases like 'People of the Book'.",
+        "example": {
+          "ar": "أَهْلُ الْكِتَابِ",
+          "en": "People of the Book",
+          "my": "ကျမ်းရရှိသူများ",
+          "ref": "3:64"
+        }
+      },
+      {
+        "word": "أَصْحَابُ",
+        "translit": "Aṣḥābu",
+        "en": "Companions / Dwellers",
+        "my": "အဖော်များ / နေထိုင်သူများ",
+        "quran_freq": 78,
+        "word_type": "Noun",
+        "gender": "Masculine (Plural)",
+        "wazn": "أَفْعَال",
+        "root": {
+          "letters": "ص ح ب",
+          "concept_en": "companionship",
+          "concept_my": "အတူတကွရှိနေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sahaba (standard term)",
+          "image": "Friends walking together",
+          "cross_language": "Sahabat (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "صَاحِب",
+            "translit": "Ṣāḥib",
+            "en": "Companion",
+            "my": "အဖော်",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "Standard plural for groups identified by their destination.",
+        "example": {
+          "ar": "أَصْحَابُ الْجَنَّةِ",
+          "en": "Companions of Paradise",
+          "my": "ဂျန္နသ်သုခဘုံသားများ",
+          "ref": "2:82"
+        }
+      },
+      {
+        "word": "نَارُ",
+        "translit": "Nāru",
+        "en": "Fire",
+        "my": "ငရဲမီး",
+        "quran_freq": 145,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ن و ر",
+          "concept_en": "heat/burning",
+          "concept_my": "ပူလောင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Narrow (hot narrow path)",
+          "image": "Flames",
+          "cross_language": "Nar (Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Feminine by nature, used as Mudaf Ilayhi for 'dwellers'.",
+        "example": {
+          "ar": "أَصْحَابُ النَّارِ",
+          "en": "Companions of the Fire",
+          "my": "ငရဲသားများ",
+          "ref": "2:39"
+        }
+      },
+      {
+        "word": "جَنَّةُ",
+        "translit": "Jannatu",
+        "en": "Paradise / Garden",
+        "my": "သုခဘုံ / ဥယျာဉ်",
+        "quran_freq": 147,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "ج ن ن",
+          "concept_en": "concealment/lushness",
+          "concept_my": "ဖုံးကွယ်ထားခြင်း သို့မဟုတ် စိမ်းလန်းစိုပြေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Jannah (standard term)",
+          "image": "A beautiful green garden",
+          "cross_language": "Jannah (Malay)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Ends in Ta-Marbuta; as Mudaf it becomes 'Jannat-'.",
+        "example": {
+          "ar": "جَنَّةُ الْخُلْدِ",
+          "en": "The Garden of Eternity",
+          "my": "ထာဝရသုခဘုံ",
+          "ref": "25:15"
+        }
+      },
+      {
+        "word": "عِبَادُ",
+        "translit": "‘Ibādu",
+        "en": "Servants / Slaves",
+        "my": "ကျွန်တော်မျိုးများ",
+        "quran_freq": 125,
+        "word_type": "Noun",
+        "gender": "Masculine (Plural)",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ع ب د",
+          "concept_en": "worship/service",
+          "concept_my": "ခစားဝတ်ပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ibadah (standard term)",
+          "image": "People in prostration",
+          "cross_language": "Abdi (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "عَبْد",
+            "translit": "‘Abd",
+            "en": "Slave",
+            "my": "ကျွန်",
+            "freq": 29
+          }
+        ],
+        "pattern_unlock": "Frequently Mudaf to Allah (Servants of Allah).",
+        "example": {
+          "ar": "عِبَادُ الرَّحْمَنِ",
+          "en": "The servants of the Most Merciful",
+          "my": "မဟာကရုဏာတော်ရှင်၏ ကျွန်တော်မျိုးများ",
+          "ref": "25:63"
+        }
+      },
+      {
+        "word": "رَحْمَةُ",
+        "translit": "Raḥmatu",
+        "en": "Mercy",
+        "my": "ကရုဏာတော်",
+        "quran_freq": 79,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "ر ح م",
+          "concept_en": "womb-like compassion",
+          "concept_my": "နက်ရှိုင်းသော သနားကြင်နာမှု"
+        },
+        "memory_hook": {
+          "sound": "Rahmat (standard term)",
+          "image": "Rain falling on dry land",
+          "cross_language": "Rahmat (Malay/Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Usually Mudaf to Allah.",
+        "example": {
+          "ar": "رَحْمَةُ اللَّهِ",
+          "en": "The mercy of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ကရုဏာတော်",
+          "ref": "3:107"
+        }
+      },
+      {
+        "word": "عَذَابُ",
+        "translit": "‘Adhābu",
+        "en": "Punishment / Torment",
+        "my": "အပြစ်ပေးခြင်း / ဝေဒနာ",
+        "quran_freq": 373,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَال",
+        "root": {
+          "letters": "ع ذ ب",
+          "concept_en": "pain/deprivation",
+          "concept_my": "နာကျင်မှု သို့မဟုတ် ဆုံးရှုံးမှု"
+        },
+        "memory_hook": {
+          "sound": "Adhab (standard term)",
+          "image": "Dark clouds of a storm",
+          "cross_language": "Azab (Malay/Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Mudaf to the source or type of punishment.",
+        "example": {
+          "ar": "عَذَابُ النَّارِ",
+          "en": "The punishment of the fire",
+          "my": "ငရဲမီး၏ ပြစ်ဒဏ်",
+          "ref": "2:201"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "مُرَاجَعَةُ جَمِيعِ الإِضَافَاتِ",
+        "en": "Complete Idafah Review",
+        "my": "အိဿွာဖဟ် အားလုံးကို ပြန်လည်သုံးသပ်ခြင်း"
+      },
+      "formula": {
+        "display": "Review: [No Tanween/Al] + [Genitive Case]",
+        "example": "أَصْحَابُ الْجَنَّةِ",
+        "myanmar_read": "အိဿွာဖဟ် ဥပဒေသများကို စုစည်းသုံးသပ်ခြင်း",
+        "key_insight": "The Mudaf creates a link of belonging, origin, or category."
+      },
+      "explanation": {
+        "en": "This lesson reviews the four key rules of Idafah: 1. The first word (Mudaf) never has 'Al' or Tanween. 2. The second word (Mudaf Ilayhi) is always in the genitive case (Kasra/Ending in -een). 3. Pronouns can also be Mudaf Ilayhi. 4. Multiple Idafahs can be chained together. Mastery of this is key to understanding 50% of Quranic noun phrases.",
+        "my": "ဤသင်ခန်းစာသည် အိဿွာဖဟ်၏ အဓိကစည်းမျဉ်း ၄ ခုကို ပြန်လည်သုံးသပ်သည်- ၁။ ရှေ့စကားလုံးတွင် Al သို့မဟုတ် သန်ဝင်း မပါရ။ ၂။ နောက်စကားလုံးသည် အမြဲတမ်း Kasra ဖြစ်ရမည်။ ၃။ နာမ်စားများကိုလည်း နောက်စကားလုံးအဖြစ် သုံးနိုင်သည်။ ၄။ အိဿွာဖဟ်များကို ဆင့်ပွား၍ ချိတ်ဆက်နိုင်သည်။ ၎င်းကို တတ်မြောက်ခြင်းသည် ကုရ်အာန်၏ နာမ်တွဲ ၅၀ ရာခိုင်နှုန်းကို နားလည်စေမည် ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Arabic Idafah is much more frequent and structurally rigid than the English 'of' or Myanmar '၏'.",
+        "my": "အာရဗီ အိဿွာဖဟ်သည် အင်္ဂလိပ် သို့မဟုတ် မြန်မာစာထက် ပို၍ ပုံသေကားကျပြီး အသုံးများသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Check for: No Al on first, Kasra on second.",
+          "rule_my": "ရှေ့တွင် Al မပါဘဲ နောက်တွင် Kasra ရှိမရှိ စစ်ဆေးပါ။",
+          "example": {
+            "ar": "عِبَادُ اللَّهِ",
+            "en": "Servants of Allah",
+            "my": "အလ္လာဟ်၏ ကျွန်တော်မျိုးများ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "أَصْحَابُ الْجَنَّةِ",
+          "en": "the companions of Paradise",
+          "my": "MYANMAR_PLACE_HOLDER_S2_A82",
+          "ref": "2:82",
+          "breakdown": {
+            "subject": {
+              "word": "أَصْحَابُ",
+              "en": "Companions",
+              "note": "Mudaf"
+            },
+            "predicate": {
+              "word": "الْجَنَّةِ",
+              "en": "Paradise",
+              "note": "Mudaf Ilayhi"
+            }
+          },
+          "myanmar_insight": "This describes a group defined by their destination."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting the genitive case on the second word",
+          "wrong": {
+            "ar": "أَهْلُ الْكِتَابُ",
+            "note": "Al-Kitab must have a Kasra."
+          },
+          "correct": {
+            "ar": "أَهْلُ الْكِتَابِ",
+            "en": "People of the Book",
+            "my": "ကျမ်းရရှိသူများ"
+          },
+          "myanmar_tip": "နောက်ဆုံးအသံကို (အိ) အသံဖြင့် အမြဲဖတ်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Idafah in these phrases.",
+          "instruction_my": "အောက်ပါတို့တွင် အိဿွာဖဟ်ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "عَذَابُ الْقَبْرِ",
+              "answer_en": "Idafah",
+              "answer_my": "အိဿွာဖဟ်",
+              "ref": "Hadith Ref"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'Servants of the Most Merciful'",
+          "instruction_my": "'မဟာကရုဏာတော်ရှင်၏ ကျွန်တော်မျိုးများ' ဟု ပြန်ဆိုပါ။",
+          "questions": [
+            {
+              "q": "عِبَادُ الرَّحْمَنِ",
+              "answer_en": "Servants of the Most Merciful",
+              "answer_my": "မဟာကရုဏာတော်ရှင်၏ ကျွန်တော်မျိုးများ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make an Idafah with: Mercy + Allah",
+          "instruction_my": "'ကရုဏာတော်' နှင့် 'အလ္လာဟ်' ကို အိဿွာဖဟ် ပြုလုပ်ပါ။",
+          "questions": [
+            {
+              "q": "رحمة + الله",
+              "answer_en": "Rahmatu llāhi",
+              "answer_my": "ရဟ်မသုလ္လာဟ်",
+              "ar": "رَحْمَةُ اللَّهِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Idafah reflects the order of the universe: everything is connected to something higher, ultimately leading to Allah.",
+        "my": "အိဿွာဖဟ်သည် စကြဝဠာ၏ စနစ်တကျရှိမှုကို ထင်ဟပ်စေသည် - အရာအားလုံးသည် ပို၍ မြင့်မားသောအရာတစ်ခုနှင့် ချိတ်ဆက်နေပြီး နောက်ဆုံးတွင် အလ္လာဟ်အရှင်မြတ်ထံသို့သာ ဦးတည်သွားသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Furqan 25:63",
+        "study_number": 1,
+        "arabic_full": "وَعِبَادُ الرَّحْمَنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا",
+        "en_sahih": "And the servants of the Most Merciful are those who walk upon the earth easily...",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S25_A63",
+        "audio_ref": {
+          "surah": 25,
+          "ayah": 63,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/025063.mp3"
+        },
+        "qurancom_url": "https://quran.com/25/63",
+        "context": {
+          "en": "Allah describes the characteristics of His most beloved servants.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ၎င်း၏ အချစ်ရဆုံးသော ကျွန်တော်မျိုးများ၏ အင်္ဂါရပ်များကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "عِبَادُ",
+            "translit": "‘Ibādu",
+            "en": "Servants",
+            "my": "ကျွန်တော်မျိုးများ",
+            "role_en": "Mudaf",
+            "role_my": "မုဒွာဖ်",
+            "root": "ع ب د",
+            "freq": 125
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The phrase 'Servants of the Most Merciful' is a classic Idafah.",
+          "structure_my": "'မဟာကရုဏာတော်ရှင်၏ ကျွန်တော်မျိုးများ' ဟူသည်မှာ အခြေခံအိဿွာဖဟ် ဖြစ်သည်။",
+          "insight_en": "Attaching 'Servants' to 'The Most Merciful' gives them a special status of honor.",
+          "insight_my": "'ကျွန်တော်မျိုးများ' ကို 'မဟာကရုဏာတော်ရှင်' နှင့် တွဲဖက်လိုက်ခြင်းသည် ၎င်းတို့အတွက် ထူးကဲသော ဂုဏ်ဒြပ်ကို ရရှိစေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ب د",
+            "concept_en": "Total surrender and worshipful service.",
+            "concept_my": "အကြွင်းမဲ့ လက်နက်ချခြင်းနှင့် ဝတ်ပြုခစားခြင်း။",
+            "members": [
+              {
+                "ar": "عِبَادَة",
+                "en": "Worship",
+                "my": "ဝတ်ပြုကိုးကွယ်မှု",
+                "freq": 10
+              }
+            ],
+            "professors_note": "A servant ('Abd) has no will of his own against his Master's will."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကျွန်တော်မျိုးများအဖြစ် ကမ္ဘာမြေပေါ်တွင် နှိမ့်ချစွာ လျှောက်လှမ်းရမည်။ မာနထောင်လွှားခြင်းသည် ကျွန်ုပ်တို့နှင့် မထိုက်တန်ပါ။"
+        },
+        "memorization_helper": {
+          "rhythm": "Calm and steady rhythm reflecting the 'walking easily'.",
+          "meaning_anchor": "Imagine walking gently on the ground, not causing harm.",
+          "daily_connection": "A reminder for humility in our daily conduct.",
+          "my": "နှိမ့်ချမှုကို ဖော်ပြသော အာယသ်တော်အဖြစ် ကျက်မှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You have completed the intensive review of Idafah patterns. You are now ready to identify this structure across the entire Quran.",
+      "my": "အိဿွာဖဟ် ပုံစံများ၏ အလေးပေးပြန်လှန်လေ့လာမှုကို သင်ပြီးဆုံးခဲ့ပြီ။ ယခုအခါ ကုရ်အာန် တစ်ကျမ်းလုံးတွင် ဤတည်ဆောက်ပုံကို ရှာဖွေနိုင်ပြီ ဖြစ်သည်။"
+    }
+  }
+]

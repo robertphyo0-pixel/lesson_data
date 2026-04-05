@@ -1,0 +1,2480 @@
+[
+  {
+    "lesson_id": "L5-206",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 206,
+    "title": {
+      "ar": "الْمَنْصُوبَاتُ (١) — الْمَفْعُولُ بِهِ",
+      "en": "I'rab VI — Mansubat I: The Direct Object (Maf'ul Bihi)",
+      "my": "ကံပုဒ် (Maf'ul Bihi) ကို လေ့လာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Maf'ūl Bihi in Fatha/Nasb; position after verb and Fā'il",
+      "grammar_formula": "فِعْل + فَاعِل + مَفْعُول بِهِ (Mansub)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "عَبَدَ",
+        "translit": "abada",
+        "en": "he worshipped",
+        "my": "သူခစားကိုးကွယ်ခဲ့သည်",
+        "quran_freq": 280,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ع ب د",
+          "concept_en": "servitude and worship",
+          "concept_my": "ကျွန်ခံခြင်းနှင့် ခစားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Abbot (monk)",
+          "image": "A humble servant bowing in worship",
+          "cross_language": "Ibadah (Malay/Urdu/Myanmar-Muslim)"
+        },
+        "word_family": [
+          {
+            "ar": "عِبَادَة",
+            "translit": "ibadah",
+            "en": "worship",
+            "my": "ခစားခြင်း",
+            "freq": 0
+          },
+          {
+            "ar": "عَبْد",
+            "translit": "abd",
+            "en": "slave",
+            "my": "ကျွန်",
+            "freq": 120
+          }
+        ],
+        "pattern_unlock": "Words starting with Ayn-Ba-Dal always relate to service to a master/God.",
+        "example": {
+          "ar": "إِيَّاكَ نَعْبُدُ",
+          "en": "It is You we worship",
+          "my": "ကိုယ်တော်ရှင်ကိုသာလျှင် ကျွန်ုပ်တို့ခစားကြပါ၏",
+          "ref": "1:5"
+        }
+      },
+      {
+        "word": "يَحْمَدُ",
+        "translit": "yahmadu",
+        "en": "he praises",
+        "my": "သူချီးမွမ်းသည်",
+        "quran_freq": 63,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلُ",
+        "root": {
+          "letters": "ح م د",
+          "concept_en": "praise and gratitude",
+          "concept_my": "ချီးမွမ်းထောမနာပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ham (meat) - imagine giving thanks for food",
+          "image": "A person raising hands in praise",
+          "cross_language": "Alhamdulillah"
+        },
+        "word_family": [
+          {
+            "ar": "حَمْد",
+            "translit": "hamd",
+            "en": "praise",
+            "my": "ချီးမွမ်းခြင်း",
+            "freq": 43
+          },
+          {
+            "ar": "مَحْمُود",
+            "translit": "mahmud",
+            "en": "praised",
+            "my": "ချီးမွမ်းအပ်သော",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The Ha-Mim-Dal root is the foundation of all gratitude in the Quran.",
+        "example": {
+          "ar": "وَيَحْمَدُونَ اللَّهَ",
+          "en": "and they praise Allah",
+          "my": "၎င်းပြင် သူတို့သည် အလ္လာဟ်အရှင်မြတ်ကို ချီးမွမ်းကြသည်",
+          "ref": "3:188"
+        }
+      },
+      {
+        "word": "خَلَقَ",
+        "translit": "khalaqa",
+        "en": "he created",
+        "my": "သူဖန်ဆင်းခဲ့သည်",
+        "quran_freq": 261,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "خ ل ق",
+          "concept_en": "creation from nothing",
+          "concept_my": "အသစ်ဖန်ဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Clock (making time)",
+          "image": "A potter molding clay",
+          "cross_language": "Makhluq (Created being)"
+        },
+        "word_family": [
+          {
+            "ar": "خَالِق",
+            "translit": "khaliq",
+            "en": "creator",
+            "my": "ဖန်ဆင်းရှင်",
+            "freq": 11
+          }
+        ],
+        "pattern_unlock": "Any word with Kha-La-Qaf deals with the act of creation or nature.",
+        "example": {
+          "ar": "خَلَقَ السَّمَاوَاتِ",
+          "en": "He created the heavens",
+          "my": "အရှင်သည် မိုးကောင်းကင်များကို ဖန်ဆင်းတော်မူခဲ့သည်",
+          "ref": "6:1"
+        }
+      },
+      {
+        "word": "أَرْسَلَ",
+        "translit": "arsala",
+        "en": "he sent",
+        "my": "သူစေလွှတ်ခဲ့သည်",
+        "quran_freq": 150,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "ر س ل",
+          "concept_en": "sending a message",
+          "concept_my": "စေလွှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Arsenal (sending a fleet)",
+          "image": "A messenger carrying a scroll",
+          "cross_language": "Rasul (Messenger)"
+        },
+        "word_family": [
+          {
+            "ar": "رَسُول",
+            "translit": "rasul",
+            "en": "messenger",
+            "my": "တမန်တော်",
+            "freq": 332
+          }
+        ],
+        "pattern_unlock": "The prefix 'Alif' often turns a root into 'causing' an action (Sending).",
+        "example": {
+          "ar": "أَرْسَلْنَا رُسُلَنَا",
+          "en": "We sent Our messengers",
+          "my": "ငါအရှင်သည် ငါအရှင်၏တမန်တော်များကို စေလွှတ်ခဲ့သည်",
+          "ref": "57:25"
+        }
+      },
+      {
+        "word": "كَتَبَ",
+        "translit": "kataba",
+        "en": "he wrote / ordained",
+        "my": "သူရေးသားခဲ့သည် / သတ်မှတ်ခဲ့သည်",
+        "quran_freq": 319,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ك ت ب",
+          "concept_en": "writing and decreeing",
+          "concept_my": "ရေးသားခြင်းနှင့် အမိန့်သတ်မှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cat-Table (cat on a writing table)",
+          "image": "A pen writing on a scroll",
+          "cross_language": "Kitab (Book)"
+        },
+        "word_family": [
+          {
+            "ar": "كِتَاب",
+            "translit": "kitab",
+            "en": "book",
+            "my": "စာအုပ်",
+            "freq": 261
+          }
+        ],
+        "pattern_unlock": "Kaf-Ta-Ba links writing to laws and destiny.",
+        "example": {
+          "ar": "كَتَبَ اللَّهُ",
+          "en": "Allah has decreed",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် သတ်မှတ်တော်မူခဲ့သည်",
+          "ref": "58:21"
+        }
+      },
+      {
+        "word": "جَعَلَ",
+        "translit": "ja'ala",
+        "en": "he made / placed",
+        "my": "သူပြုလုပ်ခဲ့သည်",
+        "quran_freq": 346,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ج ع ل",
+          "concept_en": "making or appointing",
+          "concept_my": "ပြုလုပ်ဖန်တီးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Jell-o (making jelly)",
+          "image": "Putting a crown on someone's head",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "جَاعِل",
+            "translit": "ja'il",
+            "en": "maker",
+            "my": "ပြုလုပ်သူ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Ja-A'-La is a high-frequency verb for setting things in their place.",
+        "example": {
+          "ar": "جَعَلَ لَكُمُ الْأَرْضَ",
+          "en": "He made for you the earth",
+          "my": "အရှင်သည် သင်တို့အတွက် ကမ္ဘာမြေကို ပြုလုပ်ပေးခဲ့သည်",
+          "ref": "2:22"
+        }
+      },
+      {
+        "word": "أَنْزَلَ",
+        "translit": "anzala",
+        "en": "he sent down",
+        "my": "သူချပေးခဲ့သည်",
+        "quran_freq": 178,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "ن ز ل",
+          "concept_en": "descending",
+          "concept_my": "သက်ဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Un-sell (sending down price)",
+          "image": "Rain falling from clouds",
+          "cross_language": "Nazil (Coming down)"
+        },
+        "word_family": [
+          {
+            "ar": "تَنْزِيل",
+            "translit": "tanzil",
+            "en": "revelation",
+            "my": "ကျနိုးခြင်း",
+            "freq": 16
+          }
+        ],
+        "pattern_unlock": "Usually refers to Allah sending down revelation or rain.",
+        "example": {
+          "ar": "أَنْزَلَ الْكِتَابَ",
+          "en": "He sent down the Book",
+          "my": "အရှင်သည် ကျမ်းဂန်ကို ချပေးသနားတော်မူခဲ့သည်",
+          "ref": "3:3"
+        }
+      },
+      {
+        "word": "نَصَرَ",
+        "translit": "nasara",
+        "en": "he helped / gave victory",
+        "my": "သူကူညီခဲ့သည် / အောင်နိုင်စေခဲ့သည်",
+        "quran_freq": 92,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ن ص ر",
+          "concept_en": "aid and support",
+          "concept_my": "ကူညီစောင့်ရှောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "NASA (helping rocket launch)",
+          "image": "A shield protecting a person",
+          "cross_language": "Nasir (Helper)"
+        },
+        "word_family": [
+          {
+            "ar": "نَصْر",
+            "translit": "nasr",
+            "en": "victory",
+            "my": "အောင်ပွဲ",
+            "freq": 16
+          },
+          {
+            "ar": "أَنْصَار",
+            "translit": "ansar",
+            "en": "helpers",
+            "my": "ကူညီသူများ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "This root is central to the concept of divine support in battle.",
+        "example": {
+          "ar": "نَصَرَكُمُ اللَّهُ",
+          "en": "Allah helped you",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် သင်တို့ကို ကူညီတော်မူခဲ့သည်",
+          "ref": "3:123"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمَفْعُولُ بِهِ",
+        "en": "The Direct Object",
+        "my": "ကံပုဒ်"
+      },
+      "formula": {
+        "display": "Verb + Subject (Marfu') + Object (Mansub)",
+        "example": "خَلَقَ اللَّهُ الْإِنْسَانَ",
+        "myanmar_read": "ပြုလုပ်သူသည် အပြုခံရသူကို ပြုလုပ်သည်",
+        "key_insight": "The word that receives the action must end in a Fatha (a) or be in the state of Nasb."
+      },
+      "explanation": {
+        "en": "The Maf'ul Bihi is the noun that receives the action of the verb. In Arabic, it is always in the state of Nasb, typically shown by a Fatha at the end. While English relies on word order, Arabic uses I'rab to tell us who did what to whom.",
+        "my": "Maf'ul Bihi ဆိုသည်မှာ ကြိယာ၏ အပြုခံရသော နာမ်ဖြစ်သည်။ အာရဗီဘာသာစကားတွင် ၎င်းသည် အမြဲတမ်း Nasb အခြေအနေတွင်ရှိပြီး များသောအားဖြင့် စာလုံးအဆုံးတွင် Fatha (Zabar) ဖြင့် ပြသလေ့ရှိသည်။ အင်္ဂလိပ်စာတွင် စကားလုံးအစီအစဉ်ကို ကြည့်ရသော်လည်း အာရဗီတွင် I'rab (အဆုံးသတ်ဗျည်းသံ) ကိုကြည့်ခြင်းဖြင့် မည်သူက မည်သူ့ကိုပြုလုပ်သည်ကို သိနိုင်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, the particle 'ကို' (ko) is added to the object. In Arabic, the 'a' sound (Fatha) serves the same purpose.",
+        "my": "မြန်မာစာတွင် 'ကို' ဟူသော နောက်ဆက်တွဲပုဒ်ကို ကံပုဒ်တွင် ထည့်သွင်းသကဲ့သို့ အာရဗီတွင် Fatha (အ) သံသည် ထိုလုပ်ဆောင်ချက်ကို လုပ်ပေးသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The Maf'ul Bihi is always Mansub (usually ends in Fatha).",
+          "rule_my": "Maf'ul Bihi သည် အမြဲတမ်း Mansub ဖြစ်ရမည် (များသောအားဖြင့် Fatha ဖြင့်ဆုံးသည်)။",
+          "example": {
+            "ar": "نَعْبُدُ اللَّهَ",
+            "en": "We worship Allah",
+            "my": "ကျွန်ုပ်တို့သည် အလ္လာဟ်ကို ခစားကြသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Direct Object Example",
+          "ar": "خَلَقَ اللَّهُ السَّمَاوَاتِ",
+          "en": "Allah created the heavens",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်များနှင့် မြေပထဝီကို တိကျမှန်ကန်မှုနှင့် ဖန်ဆင်းတော်မူခဲ့ခြင်းဖြစ်သည်။ အမှန်စင်စစ် ထိုအထဲတွင် အီမာန်ယုံကြည်သူများအတွက် သက်သေလက္ခဏာ အမှန်ပင်ရှိသည်။",
+          "ref": "29:44",
+          "breakdown": {
+            "subject": {
+              "word": "اللَّهُ",
+              "en": "Allah",
+              "note": "Marfu' (Doer)"
+            },
+            "predicate": {
+              "word": "السَّمَاوَاتِ",
+              "en": "the heavens",
+              "note": "Mansub (Object)"
+            }
+          },
+          "myanmar_insight": "Notice how 'Allah' is the doer (u) and 'Heavens' is the object."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using Damma on the object",
+          "wrong": {
+            "ar": "خَلَقَ اللَّهُ الْإِنْسَانُ",
+            "note": "This would imply the human created Allah (astaghfirullah)"
+          },
+          "correct": {
+            "ar": "خَلَقَ اللَّهُ الْإِنْسَانَ",
+            "en": "Allah created the human",
+            "my": "အလ္လာဟ်သည် လူသားကို ဖန်ဆင်းခဲ့သည်"
+          },
+          "myanmar_tip": "အပြုခံရသူ (ကံ) မှာ Fatha (Zabar) ထည့်ရန် မမေ့ပါနှင့်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အတိအကျနှင့် အတိအကျမဟုတ်သော နာမ်များကို ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "أَنْزَلَ اللَّهُ الْكِتَابَ",
+              "answer_en": "Al-Kitaba is the object",
+              "answer_my": "Al-Kitaba သည် ကံပုဒ်ဖြစ်သည်",
+              "ref": "2:176"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "يَعْبُدُونَ اللَّهَ",
+              "answer_en": "They worship Allah",
+              "answer_my": "၎င်းတို့သည် အလ္လာဟ်ကို ခစားကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "Al- ထည့်၍ အတိအကျနာမ်ပြုလုပ်ပါ",
+          "questions": [
+            {
+              "q": "بَيْت",
+              "answer_en": "The House",
+              "answer_my": "အိမ်",
+              "ar": "الْبَيْت"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "When we place 'Allah' in the position of Maf'ul Bihi (the object of worship), we align our lives with our true purpose.",
+        "my": "အလ္လာဟ်အရှင်မြတ်ကို ကျွန်ုပ်တို့၏ ကိုးကွယ်ရာအဖြစ် (Maf'ul Bihi နေရာတွင်) ထားရှိသောအခါ ကျွန်ုပ်တို့၏ဘဝသည် စစ်မှန်သော ရည်ရွယ်ချက်နှင့် ကိုက်ညီလာပါသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Fatiha 1:5",
+        "study_number": 1,
+        "arabic_full": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "en_sahih": "It is You we worship and You we ask for help.",
+        "my_mmsy": "ကျွန်ုပ်တို့သည် အရှင်မြတ်ကိုသာလျှင် ကိုးကွယ်ကြပါသည် ။ ထို့ပြင် ကျွန်ုပ်တို့သည် အရှင်မြတ်ထံမှသာလျှင် အကူအညီတောင်းခံကြပါသည် ။",
+        "audio_ref": {
+          "surah": 1,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/001005.mp3"
+        },
+        "qurancom_url": "https://quran.com/1/5",
+        "context": {
+          "en": "This is the central verse of Al-Fatiha, where the believer speaks directly to Allah.",
+          "my": "ဤသည်မှာ Al-Fatiha ၏ ဗဟိုချက်ကျသော အာယသ်တော်ဖြစ်ပြီး အီမာန်ရှင်က အလ္လာဟ်အရှင်မြတ်အား တိုက်ရိုက်လျှောက်ထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "إِيَّاكَ",
+            "translit": "Iyyaka",
+            "en": "You alone",
+            "my": "ကိုယ်တော်ရှင်ကိုသာလျှင်",
+            "role_en": "Object (Fronted)",
+            "role_my": "ကံပုဒ်",
+            "root": "إ ي ي",
+            "freq": 24
+          },
+          {
+            "ar": "نَعْبُدُ",
+            "translit": "na'budu",
+            "en": "we worship",
+            "my": "ကျွန်ုပ်တို့ခစားကြပါ၏",
+            "role_en": "Verb + Subject",
+            "role_my": "ကြိယာ",
+            "root": "ع ب د",
+            "freq": 143
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The Maf'ul Bihi (Iyyaka) comes first for restriction (only You).",
+          "structure_my": "ကံပုဒ်ကို ရှေ့ထုတ်ထားခြင်းမှာ 'ကိုယ်တော်ကိုသာလျှင်' ဟု ကန့်သတ်ခြင်းအဓိပ္ပာယ်ဆောင်သည်။",
+          "insight_en": "Normal order is 'Na'budu Iyyaka', but 'Iyyaka Na'budu' means ONLY You.",
+          "insight_my": "ပုံမှန်အားဖြင့် ကြိယာအရင်လာရသော်လည်း ဤနေရာတွင် ကံပုဒ်ကို အလေးပေးလို၍ ရှေ့ထုတ်ထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ب د",
+            "concept_en": "Total submission and slave-like obedience",
+            "concept_my": "လုံးဝဥဿုံ လက်အောက်ခံခြင်း",
+            "members": [
+              {
+                "ar": "عِبَاد",
+                "en": "servants",
+                "my": "ကျွန်များ",
+                "freq": 0
+              }
+            ],
+            "professors_note": "A slave (Abd) has no will of his own against his master's."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် နေ့စဉ်ဆွလာသ်ဝတ်ပြုတိုင်း ဤစကားလုံးများကို ရွတ်ဆိုနေကြသည်။ 'ကိုယ်တော်ရှင်ကိုသာလျှင်' ဟုပြောခြင်းဖြင့် လောကီအာဏာရှင်များ သို့မဟုတ် ကိုယ့်အတ္တနောက်သို့ မလိုက်ဘဲ ဖန်ဆင်းရှင်၏ အလိုတော်နောက်သို့သာ လိုက်ပါမည်ဟု ဝန်ခံခြင်းဖြစ်သည်။ ဤသည်မှာ မြန်မာမွတ်စလင်တစ်ဦး၏ ဘဝအတွက် အကြီးမားဆုံးသော ခွန်အားဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Balanced and symmetrical phrases",
+          "meaning_anchor": "Focusing on the 'Kaf' at the end of Iyyaka (You)",
+          "daily_connection": "Recited in every single Raka'at of prayer",
+          "my": "ဆွလာသ်တိုင်းတွင် ရွတ်ဆိုနေရသဖြင့် အဓိပ္ပာယ်ကို နှလုံးသွင်းရန် လွယ်ကူသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we learned that the receiver of an action (Maf'ul Bihi) is marked by the Nasb state. This helps us accurately identify who is being acted upon in Quranic sentences.",
+      "my": "ဤသင်ခန်းစာတွင် အပြုခံရသူ (Maf'ul Bihi) ကို Nasb အခြေအနေဖြင့် မှတ်သားရကြောင်း လေ့လာခဲ့သည်။ ၎င်းသည် ကုရ်အာန်ပါ ဝါကျများတွင် မည်သူ့ကိုပြုလုပ်သည်ကို မှန်ကန်စွာ သိရှိရန် ကူညီပေးသည်။"
+    }
+  },
+  {
+    "lesson_id": "L5-207",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 207,
+    "title": {
+      "ar": "الْمَنْصُوبَاتُ (٢) — الْمَفْعُولُ الْمُطْلَقُ",
+      "en": "I'rab VII — Mansubat II: Maf'ul Mutlaq (Absolute Object)",
+      "my": "အလေးပေးကံပုဒ် (Maf'ul Mutlaq) ကို လေ့လာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Masdar as Maf'ūl Mutlaq for emphasis: qatala qatlan",
+      "grammar_formula": "Verb + its Masdar (Mansub)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "ذَكَرَ",
+        "translit": "dhakara",
+        "en": "he remembered / mentioned",
+        "my": "သူသတိရခဲ့သည် / မြွက်ဟခဲ့သည်",
+        "quran_freq": 292,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ذ ك ر",
+          "concept_en": "remembering or male gender",
+          "concept_my": "သတိရအောက်မေ့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "The-Car (remember where you parked)",
+          "image": "A person counting beads (dhikr)",
+          "cross_language": "Zikir (Malay/Myanmar-Muslim)"
+        },
+        "word_family": [
+          {
+            "ar": "ذِكْر",
+            "translit": "dhikr",
+            "en": "remembrance",
+            "my": "အောက်မေ့ခြင်း",
+            "freq": 75
+          }
+        ],
+        "pattern_unlock": "This root covers both mental memory and spoken mention.",
+        "example": {
+          "ar": "اذْكُرُوا اللَّهَ",
+          "en": "Remember Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်ကို အောက်မေ့တသကြကုန်လော့",
+          "ref": "2:152"
+        }
+      },
+      {
+        "word": "حَمْدًا",
+        "translit": "hamdan",
+        "en": "a praising",
+        "my": "ချီးမွမ်းခြင်း",
+        "quran_freq": 43,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلًا",
+        "root": {
+          "letters": "ح م د",
+          "concept_en": "praise",
+          "concept_my": "ချီးမွမ်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hamdan (Proper name)",
+          "image": "A trophy of praise",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "حَمِدَ",
+            "translit": "hamida",
+            "en": "he praised",
+            "my": "သူချီးမွမ်းခဲ့သည်",
+            "freq": 63
+          }
+        ],
+        "pattern_unlock": "The Tanween-an indicates this is being used as an absolute object.",
+        "example": {
+          "ar": "تَحْمَدُوهُ حَمْدًا",
+          "en": "You praise Him a [great] praising",
+          "my": "သင်တို့သည် အရှင်မြတ်အား အလွန်အမင်း ချီးမွမ်းကြသည်",
+          "ref": "N/A"
+        }
+      },
+      {
+        "word": "صَبَرَ",
+        "translit": "sabara",
+        "en": "he was patient",
+        "my": "သူသည်းခံခဲ့သည်",
+        "quran_freq": 103,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ص ب ر",
+          "concept_en": "patience and steadfastness",
+          "concept_my": "သည်းခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sober (calm and clear)",
+          "image": "A tree standing firm in a storm",
+          "cross_language": "Sabr (Malay/Urdu/Myanmar-Muslim)"
+        },
+        "word_family": [
+          {
+            "ar": "صَبْر",
+            "translit": "sabr",
+            "en": "patience",
+            "my": "သည်းခံခြင်း",
+            "freq": 39
+          }
+        ],
+        "pattern_unlock": "Relates to holding oneself back from reacting negatively.",
+        "example": {
+          "ar": "وَاصْبِرْ صَبْرًا",
+          "en": "And be patient with beautiful patience",
+          "my": "လှပသော သည်းခံခြင်းမျိုးဖြင့် သည်းခံပါ",
+          "ref": "70:5"
+        }
+      },
+      {
+        "word": "قَتَلَ",
+        "translit": "qatala",
+        "en": "he killed",
+        "my": "သူသတ်ခဲ့သည်",
+        "quran_freq": 120,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ق ت ل",
+          "concept_en": "killing or fighting",
+          "concept_my": "သတ်ဖြတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cut-Allah (phonetic)",
+          "image": "A fallen sword",
+          "cross_language": "Qatl (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "قِتَال",
+            "translit": "qital",
+            "en": "fighting",
+            "my": "တိုက်ခိုက်ခြင်း",
+            "freq": 13
+          }
+        ],
+        "pattern_unlock": "One of the most common verbs describing historical events in the Quran.",
+        "example": {
+          "ar": "قَتَلُوا قَتْلًا",
+          "en": "They killed thoroughly",
+          "my": "၎င်းတို့သည် အပြင်းအထန် သတ်ဖြတ်ခဲ့ကြသည်",
+          "ref": "N/A"
+        }
+      },
+      {
+        "word": "رَتَّلَ",
+        "translit": "rattala",
+        "en": "he recited in measured tone",
+        "my": "သူသည် စည်းချက်မှန်မှန်ရွတ်ဆိုခဲ့သည်",
+        "quran_freq": 2,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ر ت ل",
+          "concept_en": "orderly arrangement",
+          "concept_my": "စနစ်တကျ စီစဉ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rattle (but rhythmic)",
+          "image": "Pearls on a string",
+          "cross_language": "Tajweed/Tarteel"
+        },
+        "word_family": [
+          {
+            "ar": "تَرْتِيل",
+            "translit": "tartil",
+            "en": "slow recitation",
+            "my": "စည်းချက်မှန်မှန်ရွတ်ခြင်း",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Used specifically for the beautiful recitation of the Quran.",
+        "example": {
+          "ar": "وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+          "en": "And recite the Quran with measured recitation",
+          "my": "ကုရ်အာန်ကျမ်းတော်မြတ်ကို စည်းချက်မှန်မှန် ရွတ်ဆိုပါ",
+          "ref": "73:4"
+        }
+      },
+      {
+        "word": "كَلَّمَ",
+        "translit": "kallama",
+        "en": "he spoke to",
+        "my": "သူစကားပြောခဲ့သည်",
+        "quran_freq": 26,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ك ل م",
+          "concept_en": "wounding or speaking",
+          "concept_my": "စကားပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Column (of text)",
+          "image": "Two people talking",
+          "cross_language": "Kalimah (Word)"
+        },
+        "word_family": [
+          {
+            "ar": "كَلَام",
+            "translit": "kalam",
+            "en": "speech",
+            "my": "စကား",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "Form II verb implies direct communication between two parties.",
+        "example": {
+          "ar": "وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا",
+          "en": "And Allah spoke to Moses directly",
+          "my": "အလ္လာဟ်သည် မူဆာအား တိုက်ရိုက် စကားပြောတော်မူခဲ့သည်",
+          "ref": "4:164"
+        }
+      },
+      {
+        "word": "أَحْسَنَ",
+        "translit": "ahsana",
+        "en": "he did good",
+        "my": "သူကောင်းမှုကို ပြုခဲ့သည်",
+        "quran_freq": 35,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "ح س ن",
+          "concept_en": "beauty and goodness",
+          "concept_my": "လှပကောင်းမွန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "A-Sun (bright and good)",
+          "image": "A helping hand",
+          "cross_language": "Ihsan"
+        },
+        "word_family": [
+          {
+            "ar": "إِحْسَان",
+            "translit": "ihsan",
+            "en": "excellence",
+            "my": "အကောင်းဆုံးပြုခြင်း",
+            "freq": 12
+          }
+        ],
+        "pattern_unlock": "Refers to doing something in the best possible way.",
+        "example": {
+          "ar": "أَحْسَنَ كُلَّ شَيْءٍ",
+          "en": "He made everything good",
+          "my": "အရှင်သည် အရာခပ်သိမ်းကို ကောင်းမွန်အောင် ပြုလုပ်ခဲ့သည်",
+          "ref": "32:7"
+        }
+      },
+      {
+        "word": "تَابَ",
+        "translit": "taba",
+        "en": "he repented",
+        "my": "သူနောင်တရခဲ့သည်",
+        "quran_freq": 90,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ت و ب",
+          "concept_en": "returning",
+          "concept_my": "ပြန်လည်လှည့်လာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tab (close a tab and restart)",
+          "image": "A person turning around a corner",
+          "cross_language": "Tawbah"
+        },
+        "word_family": [
+          {
+            "ar": "تَوْبَة",
+            "translit": "tawbah",
+            "en": "repentance",
+            "my": "နောင်တ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "To Allah, Taba means to forgive; to a slave, it means to return to Him.",
+        "example": {
+          "ar": "تَابَ عَلَيْهِمْ",
+          "en": "He turned to them in forgiveness",
+          "my": "အရှင်သည် ၎င်းတို့အပေါ် ခွင့်လွှတ်မှုဖြင့် လှည့်တော်မူခဲ့သည်",
+          "ref": "9:117"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمَفْعُولُ الْمُطْلَقُ",
+        "en": "The Absolute Object",
+        "my": "အလေးပေးကံပုဒ်"
+      },
+      "formula": {
+        "display": "Verb + [Same Root Noun] (Mansub)",
+        "example": "وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا",
+        "myanmar_read": "ကြိယာနှင့် ၎င်း၏ရင်းမြစ်ကို တွဲသုံးခြင်း",
+        "key_insight": "Using the 'noun version' of a verb right after the verb adds massive emphasis or describes how it happened."
+      },
+      "explanation": {
+        "en": "Maf'ul Mutlaq is when a noun derived from the same verb is used to emphasize the action. It's like saying 'I really, truly ran.' In Quranic Arabic, this shows the certainty and intensity of Allah's actions.",
+        "my": "Maf'ul Mutlaq ဆိုသည်မှာ ကြိယာတစ်ခု၏ အဓိပ္ပာယ်ကို ပိုမိုလေးနက်စေရန် ၎င်းကြိယာနှင့် ဓာတ်ခံတူသော နာမ် (Masdar) ကို ထပ်မံထည့်သွင်းခြင်းဖြစ်သည်။ ၎င်းသည် 'အမှန်တကယ် ပြုလုပ်သည်' ဟု အလေးပေးလိုသောအခါ သုံးသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use words like 'အမှန်တကယ်' (really) or 'အပြင်းအထန်' (severely). Arabic uses the verb's own noun instead.",
+        "my": "မြန်မာစာတွင် 'အမှန်တကယ်' သို့မဟုတ် 'အလွန်အမင်း' ဟု သုံးသော်လည်း အာရဗီတွင် ထိုကြိယာ၏ နာမ်ကိုသာ ပြန်သုံးခြင်းဖြင့် အလေးပေးသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The Maf'ul Mutlaq must be from the same root as the verb.",
+          "rule_my": "Maf'ul Mutlaq သည် ကြိယာနှင့် ဓာတ်ခံ (Root) တူရမည်။",
+          "example": {
+            "ar": "صَبَرَ صَبْرًا",
+            "en": "He was patient with [real] patience",
+            "my": "သူသည် အမှန်တကယ် သည်းခံခဲ့သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Emphasis Example",
+          "ar": "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا",
+          "en": "And you love wealth with immense love",
+          "my": "MYANMAR_PLACE_HOLDER_S89_A20",
+          "ref": "89:20",
+          "breakdown": {
+            "subject": {
+              "word": "تُحِبُّونَ",
+              "en": "You love",
+              "note": "Verb"
+            },
+            "predicate": {
+              "word": "حُبًّا",
+              "en": "a love",
+              "note": "Maf'ul Mutlaq"
+            }
+          },
+          "myanmar_insight": "The word Hubban emphasizes how deep the love is."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using a different root",
+          "wrong": {
+            "ar": "قَتَلَ ذَبْحًا",
+            "note": "This is not Maf'ul Mutlaq because the roots differ."
+          },
+          "correct": {
+            "ar": "قَتَلَ قَتْلًا",
+            "en": "He killed with a [severe] killing",
+            "my": "သူသည် အပြင်းအထန် သတ်ဖြတ်ခဲ့သည်"
+          },
+          "myanmar_tip": "ကြိယာနှင့် နာမ်၏ အရင်းအမြစ် တူ၊ မတူ စစ်ဆေးပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Maf'ul Mutlaq",
+          "instruction_my": "Maf'ul Mutlaq ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+              "answer_en": "Tartilan",
+              "answer_my": "Tartilan",
+              "ref": "73:4"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "اصْبِرْ صَبْرًا",
+              "answer_en": "Be patient with [true] patience",
+              "answer_my": "အမှန်တကယ် သည်းခံပါ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Provide the Maf'ul Mutlaq (Masdar) for the verb",
+          "instruction_my": "ကြိယာအတွက် Maf'ul Mutlaq ကို ရေးပါ",
+          "questions": [
+            {
+              "q": "ذَكَرَ",
+              "answer_en": "dhikran",
+              "answer_my": "dhikran",
+              "ar": "ذِكْرًا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Maf'ul Mutlaq teaches us that Allah's words and promises are absolute and unconditional.",
+        "my": "Maf'ul Mutlaq က အလ္လာဟ်အရှင်မြတ်၏ ကတိတော်များသည် အကြွင်းမဲ့မှန်ကန်ပြီး လေးနက်ကြောင်း သင်ကြားပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Muzzammil 73:4",
+        "study_number": 1,
+        "arabic_full": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+        "en_sahih": "Or add to it, and recite the Qur'an with measured recitation.",
+        "my_mmsy": "(၄) သို့မဟုတ် ညဝက်ထက်ပို၍(အိပ်ပါ)။  ၂ ထို့ပြင် အသင်သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို (သရ်သီလ်ဖြင့်)ဌာန်ကရိုဏ်းကျကျ ဖတ်ရွတ်ပါ။  ၃",
+        "audio_ref": {
+          "surah": 73,
+          "ayah": 4,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/073004.mp3"
+        },
+        "qurancom_url": "https://quran.com/73/4",
+        "context": {
+          "en": "Allah is instructing Prophet Muhammad (peace be upon him) on how to pray during the night.",
+          "my": "ညဉ့်ဦးယံဝတ်ပြုမှုများတွင် ကုရ်အာန်ကို မည်သို့ရွတ်ဆိုရမည်ကို အလ္လာဟ်အရှင်မြတ်က တမန်တော်မြတ်အား ညွှန်ကြားနေခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "رَتِّلِ",
+            "translit": "rattil",
+            "en": "recite in slow style",
+            "my": "စည်းချက်မှန်မှန်ရွတ်ပါ",
+            "role_en": "Command Verb",
+            "role_my": "အမိန့်ပေးကြိယာ",
+            "root": "ر ت ل",
+            "freq": 2
+          },
+          {
+            "ar": "تَرْتِيلًا",
+            "translit": "tartilan",
+            "en": "a measured recitation",
+            "my": "စည်းချက်မှန်စွာရွတ်ဆိုခြင်း",
+            "role_en": "Maf'ul Mutlaq",
+            "role_my": "အလေးပေးကံပုဒ်",
+            "root": "ر ت ل",
+            "freq": 2
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Rattil (Verb) + Tartilan (Noun) creates absolute emphasis.",
+          "structure_my": "Rattil နှင့် Tartilan တွဲသုံးခြင်းဖြင့် အလွန်အမင်း အလေးပေးထားသည်။",
+          "insight_en": "This is not just any recitation; it must be 'the' specific Tarteel style.",
+          "insight_my": "ရိုးရိုးရွတ်ဆိုခြင်းမျိုးမဟုတ်ဘဲ စနစ်တကျ အလွန်အမင်း ဂရုစိုက်ရွတ်ဆိုရန် ဆိုလိုသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ر ت ل",
+            "concept_en": "Putting things in order like teeth in a mouth",
+            "concept_my": "သွားများစီထားသကဲ့သို့ စနစ်တကျရှိခြင်း",
+            "members": [
+              {
+                "ar": "رَتَل",
+                "en": "neatness",
+                "my": "သပ်ရပ်ခြင်း",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Tarteel implies clarity where every letter is given its due right."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကုရ်အာန်ကို မြန်မြန်ရွတ်ဆိုခြင်းထက် တစ်လုံးချင်းစီ၏ အဓိပ္ပာယ်ကို နှလုံးသွင်းပြီး စနစ်တကျ ရွတ်ဆိုခြင်းက ပို၍အကျိုးရှိကြောင်း ဤအာယသ်က ပြသနေသည်။ ကျွန်ုပ်တို့၏ ဘဝတွင်လည်း အရာရာကို အလျင်စလိုမလုပ်ဘဲ စနစ်တကျ (Tarteel) ရှိရှိ လုပ်ဆောင်ရန် လိုအပ်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Ends with a long 'aa' sound for reflection",
+          "meaning_anchor": "The word 'Tartilan' sounds like the tapping of a drum",
+          "daily_connection": "Whenever opening the Quran to read",
+          "my": "ကုရ်အာန်ဖတ်တိုင်း ဤစည်းကမ်းကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Maf'ul Mutlaq is a powerful tool in Quranic Arabic to show emphasis, frequency, or the manner of an action using the verb's own root.",
+      "my": "Maf'ul Mutlaq သည် အာရဗီဘာသာစကားတွင် လုပ်ဆောင်ချက်တစ်ခု၏ လေးနက်မှု သို့မဟုတ် ပုံစံကို ဖော်ပြရန် အလွန်ထိရောက်သော နည်းလမ်းဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L5-208",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 208,
+    "title": {
+      "ar": "الْمَنْصُوبَاتُ (٣) — الظَّرْفُ (الزَّمَانُ وَالْمَكَانُ)",
+      "en": "I'rab VIII — Mansubat III: Zarif (Adverbs of Time & Place)",
+      "my": "အချိန်နှင့် နေရာပြပုဒ် (Zarif) ကို လေ့လာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Zarf al-Zamān (yawma) and Zarf al-Makān (fawqa/tahta)",
+      "grammar_formula": "Noun of Time/Place + Nasb (Fatha)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "يَوْمَ",
+        "translit": "yawma",
+        "en": "on the day",
+        "my": "နေ့တွင်",
+        "quran_freq": 475,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلَ",
+        "root": {
+          "letters": "ي و م",
+          "concept_en": "time period / day",
+          "concept_my": "နေ့ရက်"
+        },
+        "memory_hook": {
+          "sound": "Yawm (Yawn - morning time)",
+          "image": "A sun rising",
+          "cross_language": "Yaumul Qiyamah"
+        },
+        "word_family": [
+          {
+            "ar": "أَيَّام",
+            "translit": "ayyam",
+            "en": "days",
+            "my": "နေ့ရက်များ",
+            "freq": 27
+          }
+        ],
+        "pattern_unlock": "When it ends in Fatha (yawma), it usually means 'during' or 'on' that day.",
+        "example": {
+          "ar": "يَوْمَ الْقِيَامَةِ",
+          "en": "on the Day of Resurrection",
+          "my": "ရှင်ပြန်ထမြောက်မည့်နေ့တွင်",
+          "ref": "2:85"
+        }
+      },
+      {
+        "word": "فَوْقَ",
+        "translit": "fawqa",
+        "en": "above",
+        "my": "အထက်တွင်",
+        "quran_freq": 35,
+        "word_type": "Noun",
+        "gender": "N/A",
+        "wazn": "فَعْلَ",
+        "root": {
+          "letters": "ف و ق",
+          "concept_en": "superiority / above",
+          "concept_my": "အထက်ပိုင်း"
+        },
+        "memory_hook": {
+          "sound": "Fork (lifted up)",
+          "image": "An arrow pointing up",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "فَائِق",
+            "translit": "faiq",
+            "en": "superior",
+            "my": "သာလွန်သော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Always used in Nasb to show location.",
+        "example": {
+          "ar": "فَوْقَهُمْ",
+          "en": "above them",
+          "my": "၎င်းတို့၏ အထက်တွင်",
+          "ref": "16:50"
+        }
+      },
+      {
+        "word": "تَحْتَ",
+        "translit": "tahta",
+        "en": "below / beneath",
+        "my": "အောက်တွင်",
+        "quran_freq": 51,
+        "word_type": "Noun",
+        "gender": "N/A",
+        "wazn": "فَعْلَ",
+        "root": {
+          "letters": "ت ح ت",
+          "concept_en": "bottom / underneath",
+          "concept_my": "အောက်ခြေ"
+        },
+        "memory_hook": {
+          "sound": "Tight (stuck under)",
+          "image": "A river flowing under a bridge",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Commonly used in Paradise descriptions (rivers flowing beneath).",
+        "example": {
+          "ar": "تَحْتَهَا الْأَنْهَارُ",
+          "en": "beneath it rivers [flow]",
+          "my": "၎င်း၏အောက်တွင် မြစ်ချောင်းများ စီးဆင်းသည်",
+          "ref": "2:25"
+        }
+      },
+      {
+        "word": "قَبْلَ",
+        "translit": "qabla",
+        "en": "before",
+        "my": "မတိုင်မီ",
+        "quran_freq": 175,
+        "word_type": "Noun",
+        "gender": "N/A",
+        "wazn": "فَعْلَ",
+        "root": {
+          "letters": "ق ب ل",
+          "concept_en": "front / before",
+          "concept_my": "ရှေ့ပိုင်း"
+        },
+        "memory_hook": {
+          "sound": "Couple (before marriage)",
+          "image": "A person standing at the front of a line",
+          "cross_language": "Qabla (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "قَبْلُ",
+            "translit": "qablu",
+            "en": "beforehand",
+            "my": "ကြိုတင်၍",
+            "freq": 14
+          }
+        ],
+        "pattern_unlock": "Relates to both time and physical direction.",
+        "example": {
+          "ar": "مِنْ قَبْلِكَ",
+          "en": "from before you",
+          "my": "သင့်မတိုင်မီက",
+          "ref": "2:4"
+        }
+      },
+      {
+        "word": "بَعْدَ",
+        "translit": "ba'da",
+        "en": "after",
+        "my": "ပြီးနောက်",
+        "quran_freq": 130,
+        "word_type": "Noun",
+        "gender": "N/A",
+        "wazn": "فَعْلَ",
+        "root": {
+          "letters": "ب ع د",
+          "concept_en": "distance / after",
+          "concept_my": "နောက်ပိုင်း"
+        },
+        "memory_hook": {
+          "sound": "Bad (after a bad event)",
+          "image": "The back of a line",
+          "cross_language": "Ba'd (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "بَعِيد",
+            "translit": "ba'id",
+            "en": "far",
+            "my": "ဝေးသော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Used as a time marker in almost every story in the Quran.",
+        "example": {
+          "ar": "مِنْ بَعْدِ ذَٰلِكَ",
+          "en": "after that",
+          "my": "ထိုအဖြစ်အပျက်ပြီးနောက်",
+          "ref": "2:52"
+        }
+      },
+      {
+        "word": "عِنْدَ",
+        "translit": "inda",
+        "en": "with / at / near",
+        "my": "အနီးတွင် / ထံတွင်",
+        "quran_freq": 197,
+        "word_type": "Noun",
+        "gender": "N/A",
+        "wazn": "فِعْلَ",
+        "root": {
+          "letters": "ع ن د",
+          "concept_en": "presence",
+          "concept_my": "ရှိနေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "In-the (presence)",
+          "image": "Standing next to a treasure chest",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Indicates proximity or possession ('at' someone's side).",
+        "example": {
+          "ar": "عِنْدَ اللَّهِ",
+          "en": "with Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ထံတော်တွင်",
+          "ref": "3:19"
+        }
+      },
+      {
+        "word": "حَيْنُ",
+        "translit": "haynu",
+        "en": "time / period",
+        "my": "အချိန်ကာလ",
+        "quran_freq": 15,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ح ي ن",
+          "concept_en": "time",
+          "concept_my": "အချိန်"
+        },
+        "memory_hook": {
+          "sound": "Hine (Behind the time)",
+          "image": "An hourglass",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Often describes a long or specific span of time.",
+        "example": {
+          "ar": "حِينَ مِنَ الدَّهْرِ",
+          "en": "a period of time",
+          "my": "အချိန်ကာလတစ်ခု",
+          "ref": "76:1"
+        }
+      },
+      {
+        "word": "خَلْفَ",
+        "translit": "khalfa",
+        "en": "behind",
+        "my": "နောက်ကွယ်တွင်",
+        "quran_freq": 16,
+        "word_type": "Noun",
+        "gender": "N/A",
+        "wazn": "فَعْلَ",
+        "root": {
+          "letters": "خ ل ف",
+          "concept_en": "succession / behind",
+          "concept_my": "နောက်ကွယ်"
+        },
+        "memory_hook": {
+          "sound": "Calf (back of leg)",
+          "image": "A shadow following someone",
+          "cross_language": "Khalifa"
+        },
+        "word_family": [
+          {
+            "ar": "خَلِيفَة",
+            "translit": "khalifah",
+            "en": "successor",
+            "my": "ဆက်ခံသူ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Used both for physical location and generations following one another.",
+        "example": {
+          "ar": "مَا خَلْفَهُمْ",
+          "en": "what is behind them",
+          "my": "၎င်းတို့၏နောက်ကွယ်၌ရှိသောအရာ",
+          "ref": "2:255"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الظَّرْفُ",
+        "en": "The Adverb (Time & Place)",
+        "my": "အချိန်နှင့်နေရာပြပုဒ်"
+      },
+      "formula": {
+        "display": "Zarf (Ends in Fatha) + Noun (Ends in Kasra)",
+        "example": "تَحْتَ الشَّجَرَةِ",
+        "myanmar_read": "နေရာ သို့မဟုတ် အချိန် ပြပြီးနောက် '၏' ဖြင့် ဆက်သည်",
+        "key_insight": "Words like 'under', 'above', or 'day' are treated as objects of time/place and take a Fatha."
+      },
+      "explanation": {
+        "en": "A Zarf is a noun that describes when or where an action happens. In Arabic, these are usually Mansub (ending in Fatha). They also often act as the first part of a Mudaf-Mudaf Ilaihi structure, meaning the word after them will have a Kasra.",
+        "my": "Zarf ဆိုသည်မှာ အပြုအမူတစ်ခု မည်သည့်အချိန် သို့မဟုတ် မည်သည့်နေရာတွင် ဖြစ်ပျက်သည်ကို ဖော်ပြသော နာမ်ဖြစ်သည်။ အာရဗီတွင် ၎င်းတို့သည် များသောအားဖြင့် Mansub အခြေအနေတွင်ရှိသည်။ ၎င်းတို့သည် Mudaf ကဲ့သို့ ပြုမူတတ်သဖြင့် နောက်ကလာသော စကားလုံးမှာ Kasra (Zer) ဖြစ်သွားသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar uses postpositions like 'မှာ' (ma) or 'အောက်' (auk). Arabic uses the word itself in the Mansub case.",
+        "my": "မြန်မာစာတွင် 'အောက်မှာ'၊ 'အပေါ်မှာ' ဟု နောက်ဆက်တွဲ သုံးသော်လည်း အာရဗီတွင် အရှေ့မှ ထည့်သွင်းကာ Fatha ဖြင့် ဖော်ပြသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Adverbs of place and time are generally Mansub (end with Fatha).",
+          "rule_my": "နေရာနှင့်အချိန်ပြပုဒ်များသည် များသောအားဖြင့် Mansub (Fatha) ဖြစ်သည်။",
+          "example": {
+            "ar": "فَوْقَ السَّمَاءِ",
+            "en": "Above the sky",
+            "my": "ကောင်းကင်၏အထက်တွင်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Place Adverb Example",
+          "ar": "تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ",
+          "en": "Rivers flow beneath them",
+          "my": "၎င်းနောက် အသင်(တမန်တော်)သည် အီမာန်ယုံကြည်ကြပြီး ကောင်းမြတ်သောလုပ်ရပ်များပြုလုပ်သည့်သူများကို သတင်းကောင်းပေးလိုက်ပါ။ အမှန်စင်စစ် ၎င်းတို့အတွက် ဂျန္နသ်သုခဘုံများရှိသည်။ ထိုသုခဘုံများ၏အောက်တွင် စမ်းရေချောင်းများစီးဆင်းနေသည်။  သုခဘုံသားများသည် ထိုသုခဘုံထဲမှ သစ်သီးဝလံ ကျွေးမွေးခြင်းခံရသည့်အခါတိုင်းတွင် ”ဤသစ်သီးဝလံသည် ယခင်(လောကမှာရှိစဉ်)က ကျွန်ုပ်တို့ကို ကျွေးမွေးခြင်းခံခဲ့ရပြီးဖြစ်သည်”ဟု ပြောဆိုကြလိမ့်မည်။ ၎င်းနောက် သူတို့သည် (အရသာကွဲပြီး) ပုံသဏ္ဍာန်တူသော သစ်သီးဝလံကိုလည်း ကျွေးမွေးခြင်းခံကြရပေဦးမည်။ ထို့ပြင် သူတို့အတွက် သုခဘုံထဲတွင် စင်ကြယ်သန့်ပြန့်သည့် ဇနီးကြင်ရာများလည်း ရှိကြပေဦးမည်။  ထို့ပြင် သူတို့သည် သုခဘုံထဲတွင် အမြဲထာဝရ စံမြန်းနေထိုင်လျက်ရှိကြမည်။",
+          "ref": "2:25",
+          "breakdown": {
+            "subject": {
+              "word": "الْأَنْهَارُ",
+              "en": "the rivers",
+              "note": "Subject"
+            },
+            "predicate": {
+              "word": "تَحْتِهَا",
+              "en": "beneath it",
+              "note": "Zarf (Place)"
+            }
+          },
+          "myanmar_insight": "Notice 'Tahta' has a Fatha because it's an adverb of place."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Putting Damma on Zarf",
+          "wrong": {
+            "ar": "فَوْقُ الْبَيْتِ",
+            "note": "Adverbs like 'fawqa' should be Mansub"
+          },
+          "correct": {
+            "ar": "فَوْقَ الْبَيْتِ",
+            "en": "Above the house",
+            "my": "အိမ်၏အထက်တွင်"
+          },
+          "myanmar_tip": "နေရာပြပုဒ်များတွင် Fatha သုံးရန် သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the Zarf in the sentence",
+          "instruction_my": "Zarf ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "يَوْمَ يُنْفَخُ فِي الصُّورِ",
+              "answer_en": "Yawma (Time)",
+              "answer_my": "Yawma (အချိန်)",
+              "ref": "6:73"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "تَحْتَ الشَّجَرَةِ",
+              "answer_en": "Under the tree",
+              "answer_my": "သစ်ပင်အောက်တွင်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change the Damma to Fatha for the Zarf",
+          "instruction_my": "Zarf အတွက် Damma ကို Fatha ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "بَعْدُ",
+              "answer_en": "ba'da",
+              "answer_my": "ba'da",
+              "ar": "بَعْدَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "By defining 'Time' and 'Place', the Quran reminds us that Allah is the Master of every moment and every inch of existence.",
+        "my": "အချိန်နှင့်နေရာများကို သတ်မှတ်ဖော်ပြခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်း၏ အရှင်ဖြစ်ကြောင်း ကုရ်အာန်က သတိပေးနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Ayat al-Kursi 2:255",
+        "study_number": 1,
+        "arabic_full": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ",
+        "en_sahih": "He knows what is [present] before them and what will be after them.",
+        "my_mmsy": "အလ္လာဟ်အရှင်မြတ်၊ ထိုအရှင်မှလွဲ၍ ကိုးကွယ်ထိုက်သောအရှင် မရှိပေ။ (ထိုအရှင်သည်) အမြဲထာဝရရှင်နေတော်မူသောအရှင်၊ အမြဲတည်ရှိလျက် ထိန်းသိမ်းစောင့်ရှောက်တော်မူသောအရှင် ဖြစ်တော်မူသည်။ အရှင်မြတ်အား ငိုက်မြည်းခြင်းနှင့် အိပ်စက်ခြင်းက မဖိစီးနိုင်ပေ။ ကောင်းကင်များနှင့် မြေပေါ်တွင်ရှိသမျှအရာများကို အရှင်မြတ်သာ ပိုင်ဆိုင်တော်မူသည်။ အရှင်မြတ်၏ခွင့်ပြုချက်မရှိဘဲ အရှင်မြတ်ထံတွင် သူတစ်ပါးအတွက် ကြားဝင်သနားခံ လိုက်ပြောပေးမည့်သူသည် မည်သူရှိသနည်း။ အရှင်မြတ်သည် သူတို့၏ရှေ့နောက် အဖြစ်အပျက် အကြောင်းစုံကို သိတော်မူသည်။ ထို့ပြင် သူတို့သည် အရှင်မြတ်၏အသိတော်ထဲမှ အရှင်မြတ်အလိုရှိသည်မှလွဲ၍ မည်သည့်အရာကိုမျှ လွှမ်းခြံုမသိနိုင်ကြပေ။ အရှင်မြတ်၏ ကုရ်စီ သည် ကောင်းကင်များနှင့် ကမ္ဘာမြေအားလုံးကို ဝန်းခြံုထားသည်။ ထို့ပြင် ကောင်းကင်များနှင် ကမ္ဘာမြေကို စောင့်ရှောက်ရခြင်းသည် အရှင်မြတ်အား ပင်ပန်းငြီးငွေ့စေခြင်း မရှိပေ။ ၎င်းပြင် အရှင်မြတ်သည် အလွန်မြင့်မားတော်မူသောအရှင်၊ အလွန်ကြီးကျယ်မြင့်မြတ်တော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 255,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002255.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/255",
+        "context": {
+          "en": "Part of the greatest verse in the Quran, describing Allah's infinite knowledge.",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ အကန့်အသတ်မဲ့ အသိဉာဏ်တော်ကို ဖော်ပြသည့် ကုရ်အာန်၏ အကြီးကျယ်ဆုံးသော အာယသ်တော်၏ အစိတ်အပိုင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "بَيْنَ",
+            "translit": "bayna",
+            "en": "between / before",
+            "my": "အကြား / အရှေ့တွင်",
+            "role_en": "Zarf (Place/Time)",
+            "role_my": "နေရာပြပုဒ်",
+            "root": "ب ي ن",
+            "freq": 200
+          },
+          {
+            "ar": "خَلْفَهُمْ",
+            "translit": "khalfahum",
+            "en": "behind them",
+            "my": "၎င်းတို့၏နောက်ကွယ်",
+            "role_en": "Zarf + Pronoun",
+            "role_my": "နေရာပြပုဒ်",
+            "root": "خ ل ف",
+            "freq": 16
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Bayna and Khalfa are used as Mansub nouns of place.",
+          "structure_my": "Bayna နှင့် Khalfa တို့ကို Mansub (Fatha) ဖြင့် သုံးထားသည်။",
+          "insight_en": "These words encompass all directions and times, showing Allah knows everything.",
+          "insight_my": "ဤစကားလုံးများသည် အချိန်နှင့် နေရာအားလုံးကို ခြုံငုံမိစေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "خ ل ف",
+            "concept_en": "That which comes after or stays behind",
+            "concept_my": "နောက်မှလာသောအရာ",
+            "members": [
+              {
+                "ar": "خَلِيفَة",
+                "en": "Vicegerent",
+                "my": "ကိုယ်စားလှယ်",
+                "freq": 2
+              }
+            ],
+            "professors_note": "Khalfa refers to what is hidden from our current vision."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ ရှေ့မှောက်တွင်ရှိသော အရာများနှင့် ကျွန်ုပ်တို့ မမြင်နိုင်သော နောက်ကွယ်မှ အရာအားလုံးကို အလ္လာဟ်အရှင်မြတ် သိရှိတော်မူသည်။ ဤအချက်သည် ကျွန်ုပ်တို့ကို စိတ်အေးချမ်းမှု ပေးသည်။ အကြောင်းမှာ ကျွန်ုပ်တို့ မသိသော်လည်း ကျွန်ုပ်တို့၏ အရှင်သည် အရာအားလုံးကို စီမံခန့်ခွဲနေသောကြောင့် ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Flowing contrast between 'Bayna' and 'Khalfa'",
+          "meaning_anchor": "Imagine two walls: one in front and one behind",
+          "daily_connection": "Recited before sleeping for protection",
+          "my": "အိပ်ခါနီးတိုင်း ဤအာယသ်ကို ဖတ်ရွတ်လေ့ရှိသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Adverbs of time and place (Zarf) are essential for understanding context in Quranic stories, usually appearing in the Mansub state.",
+      "my": "အချိန်နှင့်နေရာပြပုဒ် (Zarf) များသည် ကုရ်အာန်ပါ အကြောင်းအရာများကို နားလည်ရန် အရေးကြီးပြီး ၎င်းတို့ကို Mansub အခြေအနေဖြင့် တွေ့ရှိရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L5-209",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 209,
+    "title": {
+      "ar": "الْمَنْصُوبَاتُ (٤) — الْحَالُ",
+      "en": "I'rab IX — Mansubat IV: The Hal (Circumstantial State)",
+      "my": "အခြေအနေပြပုဒ် (Hal) ကို လေ့လာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Hal as Nasb descriptor of state during action; Sāhibu l-Hāl",
+      "grammar_formula": "Verb + Subject + Hal (Indefinite Mansub)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "خَاشِعِينَ",
+        "translit": "khashi'ina",
+        "en": "humbly / in a state of humbleness",
+        "my": "နှိမ့်ချစွာဖြင့်",
+        "quran_freq": 17,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَاعِلِينَ",
+        "root": {
+          "letters": "خ ش ع",
+          "concept_en": "submission and fear",
+          "concept_my": "ရိုသေခန့်ညားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cash-In (humbly taking it)",
+          "image": "A person bowing with head down",
+          "cross_language": "Khushu' (Urdu/Malay/Myanmar-Muslim)"
+        },
+        "word_family": [
+          {
+            "ar": "خُشُوع",
+            "translit": "khushu",
+            "en": "humility",
+            "my": "နှိမ့်ချမှု",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The 'ina' ending shows it is in Nasb, describing a group of people.",
+        "example": {
+          "ar": "لِلَّهِ خَاشِعِينَ",
+          "en": "[They stand] for Allah, humbly",
+          "my": "အလ္လာဟ်အရှင်မြတ်အတွက် နှိမ့်ချစွာဖြင့် [ရပ်တည်ကြသည်]",
+          "ref": "2:238"
+        }
+      },
+      {
+        "word": "فَرِحِينَ",
+        "translit": "farihina",
+        "en": "rejoicing",
+        "my": "ဝမ်းမြောက်စွာဖြင့်",
+        "quran_freq": 3,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِلِينَ",
+        "root": {
+          "letters": "ف ر ح",
+          "concept_en": "joy and happiness",
+          "concept_my": "ပျော်ရွှင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fairy (happy and light)",
+          "image": "A smiling person receiving a gift",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "فَرَح",
+            "translit": "farah",
+            "en": "joy",
+            "my": "ဝမ်းသာခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Describes the emotional state of a person during an action.",
+        "example": {
+          "ar": "فَرِحِينَ بِمَا آتَاهُمُ",
+          "en": "rejoicing in what He has given them",
+          "my": "အရှင်ပေးသနားတော်မူသောအရာအပေါ် ဝမ်းမြောက်စွာဖြင့်",
+          "ref": "3:170"
+        }
+      },
+      {
+        "word": "سَاجِدًا",
+        "translit": "sajidan",
+        "en": "prostrating",
+        "my": "ပျပ်ဝပ်ဦးချလျက်",
+        "quran_freq": 2,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَاعِلًا",
+        "root": {
+          "letters": "س ج د",
+          "concept_en": "prostration",
+          "concept_my": "ဦးချခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sajdah",
+          "image": "Forehead on the ground",
+          "cross_language": "Sujood"
+        },
+        "word_family": [
+          {
+            "ar": "مَسْجِد",
+            "translit": "masjid",
+            "en": "place of prostration",
+            "my": "ဗလီ",
+            "freq": 28
+          }
+        ],
+        "pattern_unlock": "Describes the physical posture of worship.",
+        "example": {
+          "ar": "يَخِرُّونَ سُجَّدًا",
+          "en": "They fall down prostrating",
+          "my": "၎င်းတို့သည် ဦးချလျက် ပြုတ်ကျသွားကြသည်",
+          "ref": "17:107"
+        }
+      },
+      {
+        "word": "قَائِمًا",
+        "translit": "qaiman",
+        "en": "standing",
+        "my": "ရပ်လျက်",
+        "quran_freq": 10,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَاعِلًا",
+        "root": {
+          "letters": "ق و م",
+          "concept_en": "standing / upright",
+          "concept_my": "ရပ်တည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qiyam",
+          "image": "A person standing tall",
+          "cross_language": "Qiyam"
+        },
+        "word_family": [
+          {
+            "ar": "قِيَامَة",
+            "translit": "qiyamah",
+            "en": "standing up",
+            "my": "ကိယာမတ်",
+            "freq": 70
+          }
+        ],
+        "pattern_unlock": "Often used to describe being in prayer.",
+        "example": {
+          "ar": "وَهُوَ قَائِمٌ يُصَلِّي",
+          "en": "while he was standing in prayer",
+          "my": "သူသည် ဝတ်ပြုလျက် ရပ်နေစဉ်",
+          "ref": "3:39"
+        }
+      },
+      {
+        "word": "مُبِينًا",
+        "translit": "mubinan",
+        "en": "clear / manifest",
+        "my": "ရှင်းလင်းစွာဖြင့်",
+        "quran_freq": 119,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "مُفْعِلًا",
+        "root": {
+          "letters": "ب ي ن",
+          "concept_en": "clarity / separation",
+          "concept_my": "ရှင်းလင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Moon-in (shining clear)",
+          "image": "A bright light in darkness",
+          "cross_language": "Bayan (Speech/Explanation)"
+        },
+        "word_family": [
+          {
+            "ar": "بَيِّنَة",
+            "translit": "bayyinah",
+            "en": "clear proof",
+            "my": "ရှင်းလင်းသော သက်သေ",
+            "freq": 19
+          }
+        ],
+        "pattern_unlock": "One of the most frequent descriptions of the Quran.",
+        "example": {
+          "ar": "ضَلَالٍ مُبِينٍ",
+          "en": "clear error",
+          "my": "ရှင်းလင်းသော လမ်းမှားမှု",
+          "ref": "3:164"
+        }
+      },
+      {
+        "word": "آمِنِينَ",
+        "translit": "aminina",
+        "en": "secure / safe",
+        "my": "ဘေးကင်းစွာဖြင့်",
+        "quran_freq": 11,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَاعِلِينَ",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "security / faith",
+          "concept_my": "ယုံကြည်ဘေးကင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Amen",
+          "image": "A safe house",
+          "cross_language": "Aman (Malay/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "إِيمَان",
+            "translit": "iman",
+            "en": "faith",
+            "my": "ယုံကြည်မှု",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "Describes the state of those entering Paradise.",
+        "example": {
+          "ar": "ادْخُلُوهَا بِسَلَامٍ آمِنِينَ",
+          "en": "Enter it in peace, safe",
+          "my": "ငြိမ်းချမ်းစွာ၊ ဘေးကင်းစွာဖြင့် ၎င်းထဲသို့ ဝင်ကြလော့",
+          "ref": "15:46"
+        }
+      },
+      {
+        "word": "مُسْلِمًا",
+        "translit": "musliman",
+        "en": "submitting / as a Muslim",
+        "my": "မွတ်စလင်အဖြစ် / နာခံလျက်",
+        "quran_freq": 4,
+        "word_type": "Noun/Adjective",
+        "gender": "Masculine",
+        "wazn": "مُفْعِلًا",
+        "root": {
+          "letters": "س ل م",
+          "concept_en": "peace / submission",
+          "concept_my": "ငြိမ်းချမ်းစွာနာခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Muslim",
+          "image": "A person in prayer",
+          "cross_language": "Muslim"
+        },
+        "word_family": [
+          {
+            "ar": "إِسْلَام",
+            "translit": "islam",
+            "en": "submission",
+            "my": "အစ္စလာမ်",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "Used to describe the state in which one should die.",
+        "example": {
+          "ar": "تَوَفَّنِي مُسْلِمًا",
+          "en": "Take my soul as a Muslim",
+          "my": "ကျွန်ုပ်အား မွတ်စလင်အဖြစ် သေဆုံးစေတော်မူပါ",
+          "ref": "12:101"
+        }
+      },
+      {
+        "word": "ضَاحِكَةً",
+        "translit": "dahikatan",
+        "en": "laughing",
+        "my": "ရယ်မောလျက်",
+        "quran_freq": 1,
+        "word_type": "Adjective",
+        "gender": "Feminine",
+        "wazn": "فَاعِلَةً",
+        "root": {
+          "letters": "ض ح ك",
+          "concept_en": "laughter",
+          "concept_my": "ရယ်မောခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dark (laughing at it)",
+          "image": "A beaming, happy face",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "يَضْحَكُ",
+            "translit": "yadhaku",
+            "en": "he laughs",
+            "my": "သူရယ်သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Usually describes the faces of believers on Judgement Day.",
+        "example": {
+          "ar": "وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ ضَاحِكَةٌ",
+          "en": "Faces, that Day, will be beaming, laughing",
+          "my": "ထိုနေ့တွင် မျက်နှာများသည် တောက်ပကာ ရယ်မောလျက် ရှိကြမည်",
+          "ref": "80:38-39"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْحَالُ",
+        "en": "The Circumstantial State",
+        "my": "အခြေအနေပြပုဒ်"
+      },
+      "formula": {
+        "display": "Subject + [Indefinite Mansub Noun]",
+        "example": "جَاءَ زَيْدٌ رَاكِبًا",
+        "myanmar_read": "တစ်စုံတစ်ယောက်သည် [မည်သည့်အခြေအနေ] ဖြင့် လာသည်",
+        "key_insight": "The Hal answers the question 'How was the doer during the action?'"
+      },
+      "explanation": {
+        "en": "The Hal is a noun in the Nasb state that describes the condition of the subject or object while the action is happening. It must be indefinite (without Al-), while the person it describes (Sahibu l-Hal) is usually definite.",
+        "my": "Hal ဆိုသည်မှာ အပြုအမူတစ်ခု ဖြစ်ပျက်နေစဉ် အပြုလုပ်သူ သို့မဟုတ် အပြုခံရသူ၏ အခြေအနေကို ဖော်ပြသော နာမ်ဖြစ်သည်။ ၎င်းသည် အမြဲတမ်း Nasb အခြေအနေတွင်ရှိပြီး အတိအကျမဟုတ်သော နာမ် (Indefinite) ဖြစ်ရမည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we add 'လျက်' (lyet) or 'စွာဖြင့်' (swar-pyint) to describe the state.",
+        "my": "မြန်မာစာတွင် 'ရယ်မောလျက်' သို့မဟုတ် 'နှိမ့်ချစွာဖြင့်' ဟု သုံးနှုန်းသကဲ့သို့ အာရဗီတွင် Hal ကို သုံးသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The Hal must be Indefinite and Mansub.",
+          "rule_my": "Hal သည် အတိအကျမဟုတ်သောနာမ် (Indefinite) ဖြစ်ရမည်ဖြစ်ပြီး Mansub (Fatha) ဖြစ်ရမည်။",
+          "example": {
+            "ar": "دَخَلَ آمِنًا",
+            "en": "He entered safely",
+            "my": "သူသည် ဘေးကင်းစွာဖြင့် ဝင်ခဲ့သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "State of Believers",
+          "ar": "ادْخُلُوهَا بِسَلَامٍ آمِنِينَ",
+          "en": "Enter it in peace, safe",
+          "my": "(ကိယာမသ်နေ့တွင် သူတို့သည် ဤသို့ မိန့်ကြားခံကြရမည်) “အသင်တို့သည် ထိုဥယျာဉ်များထဲသို့ ငြိမ်းချမ်းမှုဖြင့် ဘေးကင်းစွာ ဝင်ရောက်ကြပါ။“",
+          "ref": "15:46",
+          "breakdown": {
+            "subject": {
+              "word": "ادْخُلُوا",
+              "en": "Enter (You all)",
+              "note": "Verb + Subject"
+            },
+            "predicate": {
+              "word": "آمِنِينَ",
+              "en": "Safe / Secure",
+              "note": "Hal (State)"
+            }
+          },
+          "myanmar_insight": "Aminina is the Hal, describing the state of those entering Jannah."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Making the Hal definite",
+          "wrong": {
+            "ar": "جَاءَ زَيْدٌ الرَّاكِبَ",
+            "note": "This makes it an adjective, not a Hal"
+          },
+          "correct": {
+            "ar": "جَاءَ زَيْدٌ رَاكِبًا",
+            "en": "Zaid came riding",
+            "my": "ဇိုက်ဒ်သည် စီးလျက် ရောက်လာသည်"
+          },
+          "myanmar_tip": "Hal တွင် 'Al' မထည့်ရပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Hal in the ayah",
+          "instruction_my": "အာယသ်တော်ထဲမှ Hal ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "تَوَفَّنِي مُسْلِمًا",
+              "answer_en": "Musliman",
+              "answer_my": "Musliman",
+              "ref": "12:101"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "يَسْجُدُونَ خَاشِعِينَ",
+              "answer_en": "They prostrate humbly",
+              "answer_my": "၎င်းတို့သည် နှိမ့်ချစွာဖြင့် ဦးချကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Turn the adjective into a Hal (Mansub)",
+          "instruction_my": "နာမဝိသေသနကို Hal (Mansub) ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "سَاجِد",
+              "answer_en": "sajidan",
+              "answer_my": "sajidan",
+              "ar": "سَاجِدًا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Allah is not just concerned with WHAT we do, but HOW we do it—the heart's state during worship.",
+        "my": "အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့ မည်သည့်အရာကို လုပ်သည်သာမက မည်သို့သောအခြေအနေ (နှလုံးသားအခြေအနေ) ဖြင့် လုပ်သည်ကိုလည်း အရေးထားတော်မူသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:238",
+        "study_number": 1,
+        "arabic_full": "حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَىٰ وَقُومُوا لِلَّهِ خَاشِعِينَ",
+        "en_sahih": "Maintain with care the [obligatory] prayers and [in particular] the middle prayer and stand before Allah, devoutly obedient.",
+        "my_mmsy": "အသင်တို့သည် စွလာသ်ဝတ်ပြုမှုများကို ဂရုစိုက်(ဝတ်ပြု)ကြပါ၊ (အထူးသဖြင့်)အလယ် စွလာသ်ဝတ်ပြုမှု ကို ဂရုစိုက်(ဝတ်ပြု)ကြပါ။ ထို့ပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ရှေ့တော်မှောက်တွင် ရိုကျိုးသူများအဖြစ်နှင့်ရပ်ကြပါ။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 238,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002238.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/238",
+        "context": {
+          "en": "Allah commands the believers to protect their prayers and perform them with the right inward attitude.",
+          "my": "ဝတ်ပြုမှုများကို စနစ်တကျ ထိန်းသိမ်းရန်နှင့် မှန်ကန်သော စိတ်နေသဘောထားဖြင့် ဝတ်ပြုရန် အလ္လာဟ်အရှင်မြတ်က အမိန့်ပေးထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "قُومُوا",
+            "translit": "qumu",
+            "en": "stand (plural)",
+            "my": "ရပ်ကြလော့",
+            "role_en": "Command Verb",
+            "role_my": "အမိန့်ပေးကြိယာ",
+            "root": "ق و م",
+            "freq": 70
+          },
+          {
+            "ar": "خَاشِعِينَ",
+            "translit": "khashi'ina",
+            "en": "humbly obedient",
+            "my": "နှိမ့်ချရိုကျိုးစွာဖြင့်",
+            "role_en": "Hal",
+            "role_my": "အခြေအနေပြပုဒ်",
+            "root": "خ ش ع",
+            "freq": 17
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The word 'Khashi'ina' describes the internal state of the person standing in prayer.",
+          "structure_my": "'Khashi'ina' သည် ဝတ်ပြုနေစဉ် လူ၏ အတွင်းစိတ်အခြေအနေကို ဖော်ပြသည်။",
+          "insight_en": "The 'ina' ending indicates the Nasb plural state for Hal.",
+          "insight_my": "'ina' ဖြင့် ဆုံးခြင်းမှာ လူအများ၏ အခြေအနေ (Hal) ကို Mansub ဖြင့် ဖော်ပြခြင်းဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "خ ش ع",
+            "concept_en": "Stillness of the limbs out of awe of a greater power",
+            "concept_my": "ကြီးမြတ်သောအရှိန်အဝါကြောင့် ငြိမ်သက်သွားခြင်း",
+            "members": [
+              {
+                "ar": "خُشُوع",
+                "en": "Humility",
+                "my": "နှိမ့်ချမှု",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Khushu' starts in the heart and reflects in the eyes and posture."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဝတ်ပြုရာတွင် ကိုယ်လက်အင်္ဂါများ ငြိမ်သက်နေရုံသာမက နှလုံးသားကပါ အလ္လာဟ်အရှင်မြတ်ကို ကြောက်ရွံ့ရိုသေမှု (Khushu') ရှိနေရပါမည်။ ဤအခြေအနေသည် ဝတ်ပြုမှုကို စစ်မှန်သော ဝတ်ပြုမှုဖြစ်စေသည်။ ဤအာယသ်သည် ကျွန်ုပ်တို့၏ ဆွလာသ်များ အရည်အသွေးတက်လာစေရန် လမ်းပြပေးနေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Strong command 'Qumu' followed by the soft 'Khashi'ina'",
+          "meaning_anchor": "The sound of silence in a quiet room",
+          "daily_connection": "Every time you start a prayer",
+          "my": "ဝတ်ပြုရန် ထရပ်သည့်အခါတိုင်း ဤအာယသ်ကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "The Hal tells us the manner or condition of the subject during an action. Understanding it adds color and depth to our understanding of Quranic scenes.",
+      "my": "Hal သည် လုပ်ဆောင်ချက်တစ်ခုအတွင်း အပြုလုပ်သူ၏ အခြေအနေကို ဖော်ပြသည်။ ၎င်းကို နားလည်ခြင်းဖြင့် ကုရ်အာန်ပါ အကြောင်းအရာများကို ပိုမိုသက်ဝင်လှပစွာ မြင်ယောင်နိုင်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L5-210",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 210,
+    "title": {
+      "ar": "الْمَنْصُوبَاتُ (٥) — التَّمْيِيزُ",
+      "en": "I'rab X — Mansubat V: Tamyiz (Specification)",
+      "my": "သတ်မှတ်ခွဲခြားပြပုဒ် (Tamyiz) ကို လေ့လာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Tamyīz clarifies ambiguous number/measure; always Nasb singular",
+      "grammar_formula": "Ambiguous Word (Number/Measure) + Indefinite Mansub Singular Noun"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مِائَةَ",
+        "translit": "mi'ata",
+        "en": "one hundred",
+        "my": "တစ်ရာ",
+        "quran_freq": 8,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعْلَة",
+        "root": {
+          "letters": "م أ ي",
+          "concept_en": "hundred",
+          "concept_my": "တစ်ရာ"
+        },
+        "memory_hook": {
+          "sound": "Me-at-a (hundred)",
+          "image": "The number 100 on a paper",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "The Alif in the middle is usually not pronounced (pronounced as Mi'ah).",
+        "example": {
+          "ar": "مِائَةَ عَامٍ",
+          "en": "a hundred years",
+          "my": "နှစ်ပေါင်း တစ်ရာ",
+          "ref": "2:259"
+        }
+      },
+      {
+        "word": "أَلْفَ",
+        "translit": "alfa",
+        "en": "one thousand",
+        "my": "တစ်ထောင်",
+        "quran_freq": 8,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلَ",
+        "root": {
+          "letters": "أ ل ف",
+          "concept_en": "thousand / familiarity",
+          "concept_my": "တစ်ထောင်"
+        },
+        "memory_hook": {
+          "sound": "Alpha (beginning of a big number)",
+          "image": "The number 1000",
+          "cross_language": "Alf (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "أُلُوف",
+            "translit": "uluf",
+            "en": "thousands",
+            "my": "ထောင်ပေါင်းများစွာ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Also related to the root meaning 'to unite' or 'to be familiar'.",
+        "example": {
+          "ar": "أَلْفَ سَنَةٍ",
+          "en": "a thousand years",
+          "my": "နှစ်ပေါင်း တစ်ထောင်",
+          "ref": "29:14"
+        }
+      },
+      {
+        "word": "عَامًا",
+        "translit": "aman",
+        "en": "years",
+        "my": "နှစ်များ",
+        "quran_freq": 8,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلًا",
+        "root": {
+          "letters": "ع و م",
+          "concept_en": "year / swimming",
+          "concept_my": "နှစ်"
+        },
+        "memory_hook": {
+          "sound": "Arm (time passes)",
+          "image": "A calendar flipping",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used as Tamyiz to specify the unit of time for numbers.",
+        "example": {
+          "ar": "مِائَةَ عَامٍ",
+          "en": "one hundred years",
+          "my": "နှစ်ပေါင်း တစ်ရာ",
+          "ref": "2:259"
+        }
+      },
+      {
+        "word": "كَوَاكِبَ",
+        "translit": "kawakiba",
+        "en": "stars / planets",
+        "my": "ကြယ်များ",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَوَاعِل",
+        "root": {
+          "letters": "ك ك ب",
+          "concept_en": "star",
+          "concept_my": "ကြယ်"
+        },
+        "memory_hook": {
+          "sound": "Kawakib (Proper name)",
+          "image": "Night sky full of stars",
+          "cross_language": "Kaukab (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "كَوْكَب",
+            "translit": "kawkab",
+            "en": "star",
+            "my": "ကြယ်",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "Plural form often used in visions or descriptions of heaven.",
+        "example": {
+          "ar": "أَحَدَ عَشَرَ كَوْكَبًا",
+          "en": "eleven stars",
+          "my": "ကြယ်ပေါင်း ဆယ့်တစ်လုံး",
+          "ref": "12:4"
+        }
+      },
+      {
+        "word": "شَهْرًا",
+        "translit": "shahran",
+        "en": "months",
+        "my": "လများ",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلًا",
+        "root": {
+          "letters": "ش ه ر",
+          "concept_en": "month / fame",
+          "concept_my": "လ"
+        },
+        "memory_hook": {
+          "sound": "Share (sharing time)",
+          "image": "A crescent moon",
+          "cross_language": "Shahr (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "أَشْهُر",
+            "translit": "ashhur",
+            "en": "months",
+            "my": "လများ",
+            "freq": 8
+          }
+        ],
+        "pattern_unlock": "Commonly used with numbers between 11-99 in the Quran.",
+        "example": {
+          "ar": "اثْنَا عَشَرَ شَهْرًا",
+          "en": "twelve months",
+          "my": "ဆယ့်နှစ်လ",
+          "ref": "9:36"
+        }
+      },
+      {
+        "word": "رَجُلًا",
+        "translit": "rajulan",
+        "en": "man",
+        "my": "ယောက်ျား",
+        "quran_freq": 24,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعُلًا",
+        "root": {
+          "letters": "ر ج ل",
+          "concept_en": "man / foot",
+          "concept_my": "ယောက်ျား"
+        },
+        "memory_hook": {
+          "sound": "Regular (man)",
+          "image": "A silhouette of a man",
+          "cross_language": "Rijal"
+        },
+        "word_family": [
+          {
+            "ar": "رِجَال",
+            "translit": "rijal",
+            "en": "men",
+            "my": "ယောက်ျားများ",
+            "freq": 46
+          }
+        ],
+        "pattern_unlock": "Also means 'on foot' when used in different contexts.",
+        "example": {
+          "ar": "أَلْفَ رَجُلٍ",
+          "en": "a thousand men",
+          "my": "ယောက်ျား တစ်ထောင်",
+          "ref": "N/A"
+        }
+      },
+      {
+        "word": "مَالًا",
+        "translit": "malan",
+        "en": "wealth",
+        "my": "ဥစ္စာပစ္စည်း",
+        "quran_freq": 26,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلًا",
+        "root": {
+          "letters": "م و ل",
+          "concept_en": "wealth",
+          "concept_my": "ပစ္စည်းဥစ္စာ"
+        },
+        "memory_hook": {
+          "sound": "Mall (where money is spent)",
+          "image": "A bag of gold coins",
+          "cross_language": "Maal (Malay/Urdu/Myanmar-Muslim)"
+        },
+        "word_family": [
+          {
+            "ar": "أَمْوَال",
+            "translit": "amwal",
+            "en": "properties",
+            "my": "ပစ္စည်းများ",
+            "freq": 56
+          }
+        ],
+        "pattern_unlock": "Used to specify what someone has 'more' of (Tamyiz).",
+        "example": {
+          "ar": "أَكْثَرَ مِنْكَ مَالًا",
+          "en": "more than you in wealth",
+          "my": "သင့်ထက် ပစ္စည်းဥစ္စာ ပိုများသော",
+          "ref": "18:34"
+        }
+      },
+      {
+        "word": "نَفَرًا",
+        "translit": "nafaran",
+        "en": "people / company",
+        "my": "လူအုပ်စု",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَلًا",
+        "root": {
+          "letters": "ن ف ر",
+          "concept_en": "group of people",
+          "concept_my": "လူတစ်စု"
+        },
+        "memory_hook": {
+          "sound": "Never (forget your group)",
+          "image": "A small group standing together",
+          "cross_language": "Nafar (Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used in comparison to show who has more supporters.",
+        "example": {
+          "ar": "أَعَزُّ نَفَرًا",
+          "en": "stronger in number of men",
+          "my": "လူအင်အား ပိုမိုတောင့်တင်းသော",
+          "ref": "18:34"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "التَّمْيِيزُ",
+        "en": "The Specification",
+        "my": "သတ်မှတ်ခွဲခြားပြပုဒ်"
+      },
+      "formula": {
+        "display": "Ambiguous Word + Noun (Singular, Indefinite, Mansub)",
+        "example": "أَحَدَ عَشَرَ كَوْكَبًا",
+        "myanmar_read": "[မည်မျှ/မည်သည့်အရာ] ဆိုသည်ကို နာမ်တစ်ခုဖြင့် ရှင်းပြခြင်း",
+        "key_insight": "Tamyiz removes ambiguity. If I say 'I have eleven...', you ask 'Eleven what?' The word 'stars' clarifies it."
+      },
+      "explanation": {
+        "en": "Tamyiz is a noun used to clarify something vague that came before it. It usually comes after numbers (11 to 99), measurements, or in comparisons (like 'more than you in [what?]'). It is always singular, indefinite, and in the Nasb state.",
+        "my": "Tamyiz ဆိုသည်မှာ ရှေ့တွင်ပါရှိသော မရေရာသည့်အရာတစ်ခုကို ရှင်းလင်းတိကျစေရန် သုံးသော နာမ်ဖြစ်သည်။ များသောအားဖြင့် ကိန်းဂဏန်းများ (၁၁ မှ ၉၉)၊ အတိုင်းအတာများ သို့မဟုတ် နှိုင်းယှဉ်ချက်များနောက်တွင် လိုက်လေ့ရှိသည်။ ၎င်းသည် အမြဲတမ်း ဧကဝုစ် (Singular) ဖြစ်ရမည်ဖြစ်ပြီး Nasb အခြေအနေတွင် ရှိရမည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use classifiers like 'ခု' (khu) or 'လုံး' (lone). In Arabic, the noun itself in Nasb form acts as the classifier.",
+        "my": "မြန်မာစာတွင် '၁၁ လုံး'၊ '၁၁ ယောက်' ဟု သုံးနှုန်းသကဲ့သို့ အာရဗီတွင် ကိန်းဂဏန်းနောက်မှ နာမ်ကို Nasb (Fatha) ဖြင့် သုံးခြင်းဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Tamyiz must be singular, indefinite, and Mansub.",
+          "rule_my": "Tamyiz သည် ဧကဝုစ်ဖြစ်ရမည်၊ အတိအကျမဟုတ်သောနာမ်ဖြစ်ရမည်၊ Mansub ဖြစ်ရမည်။",
+          "example": {
+            "ar": "عِشْرُونَ بَيْتًا",
+            "en": "Twenty houses",
+            "my": "အိမ်နှစ်ဆယ်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Number Specification",
+          "ar": "إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا",
+          "en": "Indeed, I saw eleven stars",
+          "my": "တစ်ခါတွင် (တမန်တော်)ယူစွဖ်သည် ၎င်း၏ဖခင်(တမန်တော်ယအ်ကူဗ်)အား ပြောဆိုခဲ့သည်- အို- ဖခင်၊ အမှန်စင်စစ် ကျွန်ုပ်သည် (အိပ်မက်ထဲ၌) ကြယ်ဆယ့်တစ်လုံး အပြင် နေနှင့်လကိုပါ  ကျွန်ုပ်အား စဂျ်ဒဟ်ဦးချနေသည်ကို တွေ့မြင်ခဲ့ရပါသည်။",
+          "ref": "12:4",
+          "breakdown": {
+            "subject": {
+              "word": "أَحَدَ عَشَرَ",
+              "en": "eleven",
+              "note": "Ambiguous number"
+            },
+            "predicate": {
+              "word": "كَوْكَبًا",
+              "en": "stars",
+              "note": "Tamyiz (Specification)"
+            }
+          },
+          "myanmar_insight": "Kawkaban is singular in Arabic but means plural 'stars' in English/Myanmar context."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using plural for Tamyiz with numbers 11-99",
+          "wrong": {
+            "ar": "أَحَدَ عَشَرَ كَوَاكِبَ",
+            "note": "Tamyiz must be singular"
+          },
+          "correct": {
+            "ar": "أَحَدَ عَشَرَ كَوْكَبًا",
+            "en": "eleven stars",
+            "my": "ကြယ် ဆယ့်တစ်လုံး"
+          },
+          "myanmar_tip": "Tamyiz ကို ဧကဝုစ်ပုံစံဖြင့်သာ သုံးရမည်ကို သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Tamyiz in the phrase",
+          "instruction_my": "စာသားထဲမှ Tamyiz ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "أَكْثَرَ مِنْكَ مَالًا",
+              "answer_en": "Malan",
+              "answer_my": "Malan",
+              "ref": "18:34"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "اثْنَا عَشَرَ شَهْرًا",
+              "answer_en": "Twelve months",
+              "answer_my": "ဆယ့်နှစ်လ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Provide the Tamyiz form of 'Man'",
+          "instruction_my": "'Man' (ယောက်ျား) ၏ Tamyiz ပုံစံကို ရေးပါ",
+          "questions": [
+            {
+              "q": "رَجُل",
+              "answer_en": "rajulan",
+              "answer_my": "rajulan",
+              "ar": "رَجُلًا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Tamyiz teaches us precision. In our faith, we shouldn't just be 'better', but better in 'character', better in 'worship'—being specific in our growth.",
+        "my": "Tamyiz က ကျွန်ုပ်တို့အား တိကျသေချာမှုကို သင်ကြားပေးသည်။ ကျွန်ုပ်တို့၏ အီမာန်တွင် 'ပိုကောင်းသည်' ဟု ရိုးရိုးပြောမည့်အစား 'စာရိတ္တ' တွင် ပိုကောင်းခြင်း၊ 'ဝတ်ပြုမှု' တွင် ပိုကောင်းခြင်းစသဖြင့် တိကျသော တိုးတက်မှုကို ရှာဖွေရမည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Yusuf 12:4",
+        "study_number": 1,
+        "arabic_full": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَا أَبَتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ",
+        "en_sahih": "[Of these stories mention] when Joseph said to his father, 'O my father, indeed I have seen eleven stars and the sun and the moon; I saw them prostrating to me.'",
+        "my_mmsy": "တစ်ခါတွင် (တမန်တော်)ယူစွဖ်သည် ၎င်း၏ဖခင်(တမန်တော်ယအ်ကူဗ်)အား ပြောဆိုခဲ့သည်- အို- ဖခင်၊ အမှန်စင်စစ် ကျွန်ုပ်သည် (အိပ်မက်ထဲ၌) ကြယ်ဆယ့်တစ်လုံး အပြင် နေနှင့်လကိုပါ  ကျွန်ုပ်အား စဂျ်ဒဟ်ဦးချနေသည်ကို တွေ့မြင်ခဲ့ရပါသည်။",
+        "audio_ref": {
+          "surah": 12,
+          "ayah": 4,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/012004.mp3"
+        },
+        "qurancom_url": "https://quran.com/12/4",
+        "context": {
+          "en": "The beginning of the story of Prophet Yusuf (AS) where he describes his prophetic dream to his father.",
+          "my": "တမန်တော်ယူဆွဖ် (အလိုင်ဟစ္စလာမ်) ၏ သမိုင်းကြောင်းအစဖြစ်ပြီး ၎င်း၏ အိပ်မက်ကို ဖခင်ဖြစ်သူအား ပြောပြနေခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أَحَدَ عَشَرَ",
+            "translit": "ahada 'ashara",
+            "en": "eleven",
+            "my": "ဆယ့်တစ်",
+            "role_en": "Number (Ambiguous)",
+            "role_my": "ကိန်းဂဏန်း",
+            "root": "أ ح د / ع ش ر",
+            "freq": 0
+          },
+          {
+            "ar": "كَوْكَبًا",
+            "translit": "kawkaban",
+            "en": "stars",
+            "my": "ကြယ်များ",
+            "role_en": "Tamyiz",
+            "role_my": "ခွဲခြားပြပုဒ်",
+            "root": "ك ك ب",
+            "freq": 3
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Kawkaban (Singular) clarifies the number eleven.",
+          "structure_my": "Kawkaban (ဧကဝုစ်) သည် ဆယ့်တစ် ဟူသော ကိန်းဂဏန်းကို ရှင်းလင်းစေသည်။",
+          "insight_en": "Even though eleven is plural, the Arabic Tamyiz for numbers 11-99 is always singular and Mansub.",
+          "insight_my": "ဆယ့်တစ်သည် အများကိန်းဖြစ်သော်လည်း အာရဗီတွင် ၁၁ မှ ၉၉ အထိ ကိန်းဂဏန်းများအတွက် Tamyiz ကို ဧကဝုစ် (Singular) ဖြင့်သာ သုံးရသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ك ك ب",
+            "concept_en": "A celestial body that shines",
+            "concept_my": "တောက်ပသော ကောင်းကင်ဝတ္ထု",
+            "members": [
+              {
+                "ar": "كَوْكَب",
+                "en": "Star",
+                "my": "ကြယ်",
+                "freq": 3
+              }
+            ],
+            "professors_note": "In Yusuf's dream, the stars represented his brothers."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "တမန်တော်ယူဆွဖ်၏ အိပ်မက်သည် အနာဂတ်တွင် ဖြစ်ပေါ်လာမည့် ကြီးကျယ်သော အဖြစ်အပျက်များကို နိမိတ်ပြခြင်းဖြစ်သည်။ ကြယ်ပေါင်း ဆယ့်တစ်လုံးကဲ့သို့သော တိကျသော အရေအတွက်ကို ကုရ်အာန်တွင် ဖော်ပြခြင်းသည် ထိုအဖြစ်အပျက်များ၏ တိကျမှန်ကန်မှုကို ပြသနေပါသည်။ ကျွန်ုပ်တို့၏ဘဝတွင်လည်း အလ္လာဟ်အရှင်မြတ်၏ အစီအမံများသည် အလွန်တိကျကြောင်း ယုံကြည်ရပါမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Reciting 'Ahada Ashara Kawkaban' has a distinctive melodic jump",
+          "meaning_anchor": "Visualize the night sky with exactly eleven bright stars",
+          "daily_connection": "Used when discussing the story of Yusuf (AS)",
+          "my": "ယူဆွဖ်နဗီ၏ ပုံပြင်ကို ပြောပြတိုင်း ဤအာယသ်ကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Tamyiz is a vital grammatical tool that clarifies numbers and comparisons. By mastering it, we can understand the precise details mentioned in Quranic miracles and stories.",
+      "my": "Tamyiz သည် ကိန်းဂဏန်းများနှင့် နှိုင်းယှဉ်ချက်များကို ရှင်းလင်းစေသည့် အရေးကြီးသော သဒ္ဒါတစ်ခုဖြစ်သည်။ ၎င်းကို တတ်မြောက်ခြင်းဖြင့် ကုရ်အာန်ပါ အံ့ဖွယ်ရာများနှင့် သမိုင်းကြောင်းများကို ပိုမိုတိကျစွာ နားလည်နိုင်သည်။"
+    }
+  }
+]

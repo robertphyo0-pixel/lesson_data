@@ -1,0 +1,2557 @@
+[
+  {
+    "lesson_id": "L5-216",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 216,
+    "title": {
+      "ar": "إِعْرَابُ الْفِعْلِ الْمُضَارِعِ (الْمَنْصُوبُ)",
+      "en": "I'rab XVI — Verb I'rab: Subjunctive (Nasb of Mudari')",
+      "my": "ကြိယာ၏ အိအ်ရာဗ် (၁၆) - မုဒါရိအ်ကြိယာ နဆွဗ်ဖြစ်ခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "An + Mudāri' = Nasb; Nūn drops from plural",
+      "grammar_formula": "أَنْ + فِعْل مُضَارِع = مَنْصُوب"
+    },
+    "section_1_vocab": [
+      {
+        "word": "أَنْ تُرِيدَ",
+        "translit": "an turīda",
+        "en": "that you intend",
+        "my": "သင်အလိုရှိရန်",
+        "quran_freq": 140,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَنْ تُفْعِلَ",
+        "root": {
+          "letters": "ر و د",
+          "concept_en": "to seek, want, or intend",
+          "concept_my": "ရှာဖွေခြင်း၊ အလိုရှိခြင်း သို့မဟုတ် ရည်ရွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Want 'To Read' (Turīda)",
+          "image": "Someone intending to read a specific book",
+          "cross_language": "Urdu: Iraada (Intention)"
+        },
+        "word_family": [
+          {
+            "ar": "أَرَادَ",
+            "translit": "arāda",
+            "en": "he intended",
+            "my": "သူရည်ရွယ်ခဲ့သည်",
+            "freq": 139
+          }
+        ],
+        "pattern_unlock": "The 'a' ending after 'an' indicates purpose or intent in the future.",
+        "example": {
+          "ar": "أَنْ تُرِيدُوا",
+          "en": "that you (plural) intend",
+          "my": "အသင်တို့ရည်ရွယ်ရန်",
+          "ref": "18:79"
+        }
+      },
+      {
+        "word": "أَنْ تُؤْمِنَ",
+        "translit": "an tu'mina",
+        "en": "that you believe",
+        "my": "သင်ယုံကြည်ရန်",
+        "quran_freq": 800,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَنْ تُفْعِلَ",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "safety, security, and faith",
+          "concept_my": "ဘေးကင်းခြင်း၊ လုံခြုံခြင်းနှင့် သက်ဝင်ယုံကြည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Amen",
+          "image": "A hand placed on the heart in faith",
+          "cross_language": "Malay: Iman"
+        },
+        "word_family": [
+          {
+            "ar": "مُؤْمِن",
+            "translit": "mu'min",
+            "en": "believer",
+            "my": "မုအ်မင်န် (ယုံကြည်သူ)",
+            "freq": 230
+          }
+        ],
+        "pattern_unlock": "Verbs starting with 'Tu-' often address the second person 'You'.",
+        "example": {
+          "ar": "أَنْ تُؤْمِنُوا بِاللَّهِ",
+          "en": "that you believe in Allah",
+          "my": "အသင်တို့ အလ္လာဟ်အရှင်မြတ်အား သက်ဝင်ယုံကြည်ရန်",
+          "ref": "57:8"
+        }
+      },
+      {
+        "word": "أَنْ يَعْفُوَ",
+        "translit": "an ya'fuwa",
+        "en": "that He pardons",
+        "my": "ကိုယ်တော်ခွင့်လွှတ်တော်မူရန်",
+        "quran_freq": 35,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَنْ يَفْعُلَ",
+        "root": {
+          "letters": "ع ف و",
+          "concept_en": "effacing, pardoning",
+          "concept_my": "ဖျောက်ပစ်ခြင်း၊ ခွင့်လွှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Afu (pardon)",
+          "image": "Erasing a mistake from a chalkboard",
+          "cross_language": "Urdu: Afw"
+        },
+        "word_family": [
+          {
+            "ar": "الْعَفُوُّ",
+            "translit": "Al-Afuww",
+            "en": "The Pardoner",
+            "my": "ခွင့်လွှတ်တော်မူသောအရှင်",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "The final 'w' keeps the 'fatha' (a) in Nasb state clearly.",
+        "example": {
+          "ar": "عَسَى اللَّهُ أَنْ يَعْفُوَ عَنْهُمْ",
+          "en": "Perhaps Allah will pardon them",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား ခွင့်လွှတ်တော်မူတန်ကောင်း၏",
+          "ref": "4:99"
+        }
+      },
+      {
+        "word": "أَنْ يَقُولُوا",
+        "translit": "an yaqūlū",
+        "en": "that they say",
+        "my": "၎င်းတို့ပြောကြရန်",
+        "quran_freq": 1700,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَنْ يَفْعُلُوا",
+        "root": {
+          "letters": "ق و ل",
+          "concept_en": "speech, saying",
+          "concept_my": "ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Quote",
+          "image": "Speech bubble",
+          "cross_language": "Malay: Qol"
+        },
+        "word_family": [
+          {
+            "ar": "قَالَ",
+            "translit": "qāla",
+            "en": "he said",
+            "my": "သူပြောခဲ့သည်",
+            "freq": 500
+          }
+        ],
+        "pattern_unlock": "In the plural, the 'Nun' at the end is deleted when 'An' is present.",
+        "example": {
+          "ar": "أَنْ يَقُولُوا آمَنَّا",
+          "en": "that they say: We believe",
+          "my": "ကျွန်ုပ်တို့ယုံကြည်ပါသည်ဟု ၎င်းတို့ပြောဆိုကြရန်",
+          "ref": "29:2"
+        }
+      },
+      {
+        "word": "أَنْ نَكُونَ",
+        "translit": "an nakūna",
+        "en": "that we be",
+        "my": "ကျွန်ုပ်တို့ဖြစ်လာရန်",
+        "quran_freq": 1300,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "أَنْ نَفْعُلَ",
+        "root": {
+          "letters": "က ဝ န",
+          "concept_en": "existence, being",
+          "concept_my": "တည်ရှိခြင်း၊ ဖြစ်တည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Noun (being)",
+          "image": "A seed becoming a tree",
+          "cross_language": "Urdu: Kaun (Universe)"
+        },
+        "word_family": [
+          {
+            "ar": "كَانَ",
+            "translit": "kāna",
+            "en": "he was",
+            "my": "သူဖြစ်ခဲ့သည်",
+            "freq": 600
+          }
+        ],
+        "pattern_unlock": "Starting with 'Na-' always refers to 'We'.",
+        "example": {
+          "ar": "نُرِيدُ أَنْ نَكُونَ",
+          "en": "We wish that we be...",
+          "my": "ကျွန်ုပ်တို့ဖြစ်ရန် အလိုရှိကြသည်",
+          "ref": "5:113"
+        }
+      },
+      {
+        "word": "أَنْ تَعْلَمُوا",
+        "translit": "an ta'lamū",
+        "en": "that you (pl) know",
+        "my": "အသင်တို့သိရှိကြရန်",
+        "quran_freq": 800,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَنْ تَفْعَلُوا",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "knowledge",
+          "concept_my": "အသိပညာ"
+        },
+        "memory_hook": {
+          "sound": "Alarm (waking up to knowledge)",
+          "image": "A lightbulb turning on",
+          "cross_language": "Malay: Ilmu"
+        },
+        "word_family": [
+          {
+            "ar": "عَالِم",
+            "translit": "ālim",
+            "en": "scholar",
+            "my": "ပညာရှင်",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "The Alif at the end replaces the dropped Nun in plural verbs.",
+        "example": {
+          "ar": "لِتَعْلَمُوا",
+          "en": "So that you may know",
+          "my": "အသင်တို့သိရှိကြရန်အလို့ငှာ",
+          "ref": "5:97"
+        }
+      },
+      {
+        "word": "لَنْ تَنَالُوا",
+        "translit": "lan tanālū",
+        "en": "never will you attain",
+        "my": "အသင်တို့ဘယ်တော့မှ ရရှိကြမည်မဟုတ်",
+        "quran_freq": 15,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَنْ تَفْعَلُوا",
+        "root": {
+          "letters": "န ဝ လ",
+          "concept_en": "reaching or attaining",
+          "concept_my": "ရောက်ရှိခြင်း သို့မဟုတ် ရရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tunnel (reaching the end)",
+          "image": "Reaching a trophy",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "نَالَ",
+            "translit": "nāla",
+            "en": "he reached",
+            "my": "သူရောက်ရှိခဲ့သည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "'Lan' causes the same grammatical change as 'An'.",
+        "example": {
+          "ar": "لَنْ تَنَالُوا الْبِرَّ",
+          "en": "Never will you attain righteousness",
+          "my": "အသင်တို့သည် ကောင်းမှုကုသိုလ်ကို ဘယ်တော့မှရရှိကြမည်မဟုတ်",
+          "ref": "3:92"
+        }
+      },
+      {
+        "word": "أَنْ تَبَرُّوا",
+        "translit": "an tabarrū",
+        "en": "that you be righteous",
+        "my": "အသင်တို့ကောင်းမှုပြုရန်",
+        "quran_freq": 20,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَنْ تَفْعَلُوا",
+        "root": {
+          "letters": "ب ر ر",
+          "concept_en": "righteousness, kindness",
+          "concept_my": "ဖြောင့်မတ်ခြင်း၊ ကြင်နာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Bar (setting the bar high)",
+          "image": "Helping an elderly person",
+          "cross_language": "Urdu: Birr"
+        },
+        "word_family": [
+          {
+            "ar": "الْبِرُّ",
+            "translit": "al-birru",
+            "en": "righteousness",
+            "my": "ကောင်းမှုကုသိုလ်",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Verbs with double root letters like 'Barr' keep them joined in Nasb.",
+        "example": {
+          "ar": "أَنْ تَبَرُّوا وَتَتَّقُوا",
+          "en": "that you be righteous and fear Allah",
+          "my": "အသင်တို့သည် ကောင်းမှုပြုရန်နှင့် ပြစ်မှုများမှကြဉ်ရှောင်ရန်",
+          "ref": "2:224"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمُضَارِعُ الْمَنْصُوبُ بِأَنْ",
+        "en": "Subjunctive Mood with 'An'",
+        "my": "'အန်န်' ကြောင့် ဖြစ်ပေါ်လာသော နဆွဗ်အခြေအနေ"
+      },
+      "formula": {
+        "display": "أَنْ + يَفْعَلُ = أَنْ يَفْعَلَ",
+        "example": "أَنْ يَعْلَمَ",
+        "myanmar_read": "အန်န် (An) ပါလာလျှင် နောက်ကကြိယာသည် အ (a) အသံဖြင့်ဆုံးရမည်။",
+        "key_insight": "The particle 'An' (to/that) changes the verb from the 'U' sound to the 'A' sound."
+      },
+      "explanation": {
+        "en": "In Arabic, verbs in the present tense (Mudari') usually end in a Damma (u). However, when certain particles like 'An' (that/to) come before them, the verb changes to the Nasb (Subjunctive) state. This means the final Damma changes to a Fatha (a). If the verb is plural, the 'Nun' at the end is deleted.",
+        "my": "အာရဗီဘာသာစကားတွင် ပစ္စုပ္ပန်ကာလကြိယာ (မုဒါရိအ်) များသည် ပုံမှန်အားဖြင့် ဒမ္မဟ် (u) အသံဖြင့် ဆုံးပါသည်။ သို့သော် 'အန်န်' (An) ကဲ့သို့သော စကားလုံးများ ရှေ့ကပါလာပါက ကြိယာ၏အဆုံးသည် နဆွဗ် (Nasb) အခြေအနေသို့ ပြောင်းလဲသွားပါသည်။ ဆိုလိုသည်မှာ အဆုံးသတ် 'u' အသံသည် 'a' (ဖသ်ဟဟ်) အသံသို့ ပြောင်းသွားခြင်းဖြစ်သည်။ အကယ်၍ ကြိယာသည် အများကိန်းဖြစ်ပါက အဆုံးရှိ 'နွန်' (n) အက္ခရာသည် ပြုတ်သွားမည်ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese uses particles like 'ဖို့' (pho) or 'ရန်' (yan) to express purpose, but it doesn't change the internal sound of the verb itself like Arabic does with I'rab.",
+        "my": "မြန်မာစာတွင် 'ရန်' သို့မဟုတ် 'ဖို့' ဟူသော စကားလုံးများဖြင့် ရည်ရွယ်ချက်ကို ဖော်ပြသော်လည်း၊ အာရဗီကဲ့သို့ ကြိယာ၏ အဆုံးသတ်အသံ (I'rab) ပြောင်းလဲသွားခြင်းမျိုး မရှိပါ။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Singular verbs change Damma to Fatha.",
+          "rule_my": "ဧကဝုစ်ကြိယာများတွင် ဒမ္မဟ်မှ ဖသ်ဟဟ်သို့ ပြောင်းသည်။",
+          "example": {
+            "ar": "يَعْلَمُ -> أَنْ يَعْلَمَ",
+            "en": "He knows -> That he knows",
+            "my": "သူသိသည် -> သူသိရှိရန်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Plural verbs drop the final 'Nun'.",
+          "rule_my": "အများကိန်းကြိယာများတွင် အဆုံးသတ် 'နွန်' ပြုတ်သွားသည်။",
+          "example": {
+            "ar": "تَعْلَمُونَ -> أَنْ تَعْلَمُوا",
+            "en": "You all know -> That you all know",
+            "my": "အသင်တို့သိကြသည် -> အသင်တို့သိရှိကြရန်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "أَنْ تَقُولُوا",
+          "en": "Lest you say",
+          "my": "(ကယာမသ်နေ့တွင်) အသင်တို့က “ကျွန်ုပ်တို့မတိုင်မီရှိခဲ့ကြသော အုပ်စုနှစ်ခု(ယဟူဒီနှင့် နတ်စွ်ရာနီ)အပေါ်၌သာ ကျမ်းဂန်များ  ကျရောက်လာခဲ့သည်။ ကျွန်ုပ်တို့မှာမူ သူတို့၏ သင်ကြားလေ့ကျင့်မှုများကို အမှန်ပင် မသိခဲ့ကြပါ“ဟု မပြောနိုင်ကြရန် (ငါအရှင်မြတ်သည် ဤ ကုရ်အာန်ကျမ်းတော်ကို ချပေးတော်မူခဲ့သည်)။",
+          "ref": "6:156",
+          "breakdown": {
+            "subject": {
+              "word": "تَقُولُوا",
+              "en": "you (pl) say",
+              "note": "originally taqūlūna"
+            },
+            "predicate": {
+              "word": "أَنْ",
+              "en": "that / lest",
+              "note": "Nasb particle"
+            }
+          },
+          "myanmar_insight": "နွန် (Nun) ပြုတ်သွားခြင်းသည် ဤနေရာ၌ အန်န် (An) ၏ သက်ရောက်မှုကြောင့် ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Keeping the Nun in plural after 'An'",
+          "wrong": {
+            "ar": "أَنْ تَقُولُونَ",
+            "note": "Forgot to drop the Nun"
+          },
+          "correct": {
+            "ar": "أَنْ تَقُولُوا",
+            "en": "That you say",
+            "my": "အသင်တို့ပြောဆိုရန်"
+          },
+          "myanmar_tip": "အများကိန်းဆိုလျှင် 'နွန်' ကို ဖြုတ်ပစ်ဖို့ မမေ့ပါနှင့်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အတည်ပြုပြီးသောနာမ်နှင့် အတည်မပြုရသေးသောနာမ်များကို ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "يُرِيدُ اللَّهُ أَنْ يُخَفِّفَ عَنْكُمْ",
+              "answer_en": "yukhaffifa is Nasb because of An",
+              "answer_my": "An ကြောင့် yukhaffifa သည် Nasb ဖြစ်သည်",
+              "ref": "4:28"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "أَنْ تَعْلَمُوا",
+              "answer_en": "That you know",
+              "answer_my": "အသင်တို့သိရှိရန်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the verb Subjunctive by adding Al-",
+          "instruction_my": "'An' ကို ထည့်သွင်းပြီး နဆွဗ်အခြေအနေသို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "يَشْرَحُ",
+              "answer_en": "an yashraha",
+              "answer_my": "အန်န် ယရှ်ရဟ (သူရှင်းပြရန်)",
+              "ar": "أَنْ يَشْرَحَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The particle 'An' connects our current state to a future purpose. In the Quran, it often describes Allah's will or the believers' intentions, showing that every action has a spiritual goal.",
+        "my": "'အန်န်' (An) ဟူသော စကားလုံးသည် ကျွန်ုပ်တို့၏ လက်ရှိအခြေအနေကို အနာဂတ် ရည်မှန်းချက်တစ်ခုနှင့် ချိတ်ဆက်ပေးသည်။ ကုရ်အာန်တွင် ၎င်းသည် အလ္လာဟ်အရှင်မြတ်၏ အလိုတော် သို့မဟုတ် မုအ်မင်န်တို့၏ ရည်ရွယ်ချက်များကို ဖော်ပြလေ့ရှိပြီး လုပ်ရပ်တိုင်းတွင် ဝိညာဉ်ရေးရာ ရည်မှန်းချက်ရှိကြောင်း ပြသနေပါသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:214",
+        "study_number": 1,
+        "arabic_full": "أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ",
+        "en_sahih": "Or do you think that you will enter Paradise",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S2_A214",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 214,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002214.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/214",
+        "context": {
+          "en": "Allah is addressing the believers who are facing hardships, reminding them that Paradise requires patience and testing.",
+          "my": "အခက်အခဲများနှင့် ရင်ဆိုင်နေရသော မုအ်မင်န်များအား အလ္လာဟ်အရှင်မြတ်က ဂျန္နသ်သုခဘုံသို့ ရောက်ရှိရန် စိတ်ရှည်မှုနှင့် စမ်းသပ်မှုများ လိုအပ်ကြောင်း မိန့်ကြားနေခြင်း ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أَنْ",
+            "translit": "an",
+            "en": "that",
+            "my": "ကြောင်း",
+            "role_en": "Particle",
+            "role_my": "အမှုန်",
+            "root": "N/A",
+            "freq": 0
+          },
+          {
+            "ar": "تَدْخُلُوا",
+            "translit": "tadkhulū",
+            "en": "you enter",
+            "my": "အသင်တို့ဝင်ရောက်ကြမည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "د خ ل",
+            "freq": 80
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb 'tadkhulūna' (you enter) lost its 'Nun' because of the particle 'An'.",
+          "structure_my": "'An' (အန်န်) ကြောင့် 'tadkhulūna' ရှိ 'နွန်' အက္ခရာ ပြုတ်သွားပြီး 'tadkhulū' ဖြစ်သွားသည်။",
+          "insight_en": "The subjunctive mood here highlights the 'expectation' or 'concept' of entering Paradise.",
+          "insight_my": "ဤနေရာတွင် နဆွဗ် အခြေအနေသည် ဂျန္နသ်သို့ ဝင်ရောက်ရမည့် 'မျှော်လင့်ချက်' သို့မဟုတ် 'ယူဆချက်' ကို ပေါ်လွင်စေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "د خ ل",
+            "concept_en": "Entering or being inside",
+            "concept_my": "ဝင်ရောက်ခြင်း သို့မဟုတ် အတွင်း၌ရှိခြင်း",
+            "members": [
+              {
+                "ar": "دَاخِل",
+                "en": "Inside",
+                "my": "အတွင်းပိုင်း",
+                "freq": 10
+              }
+            ],
+            "professors_note": "This root implies not just physical entry, but entering into a state or a contract."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ကျွန်ုပ်တို့အား ဂျန္နသ်အပေါ် ထားရှိသော စိတ်ကူးယဉ်မှုများကို သတိပေးနေသည်။ အလ္လာဟ်အရှင်မြတ်၏ လမ်းစဉ်တွင် စမ်းသပ်မှုများရှိမည်ဖြစ်ပြီး 'အန်န်' ဟူသော စကားလုံးက ကျွန်ုပ်တို့၏ ရည်မှန်းချက်မှာ ဂျန္နသ်ဖြစ်ကြောင်း ဖော်ပြနေသည်။ မြန်မာမုစလင်မ်များအနေဖြင့် ဘဝ၏ အခက်အခဲများကို ဂျန္နသ်သို့ ဝင်ရောက်ရန် လှေကားထစ်များအဖြစ် ရှုမြင်သင့်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Short and punchy rhythm: an-tad-khu-lu",
+          "meaning_anchor": "The 'U' at the end of tadkhulū sounds like an open door.",
+          "daily_connection": "Whenever we think of our goals, remember that 'intent' (An) precedes 'action'.",
+          "my": "အသံထွက်တွင် 'အန်န်-သဒ်-ခု-လူး' ဟူသော စည်းချက်ကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Today we learned how 'An' changes the present tense verb from Damma to Fatha and drops the Nun in plurals. This is crucial for understanding statements of intent and purpose in the Quran.",
+      "my": "ယနေ့တွင် 'အန်န်' (An) က ပစ္စုပ္ပန်ကာလကြိယာ၏ အဆုံးသတ်အသံကို မည်သို့ပြောင်းလဲစေကြောင်း သင်ယူခဲ့ပါသည်။ ၎င်းသည် ကုရ်အာန်ရှိ ရည်ရွယ်ချက်နှင့် လုပ်ဆောင်ချက်များကို နားလည်ရန် အလွန်အရေးကြီးပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L5-217",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 217,
+    "title": {
+      "ar": "إِعْرَابُ الْمُضَارِعِ بِلَنْ",
+      "en": "I'rab XVII — Nasb of Verb: Lan + Mudari'",
+      "my": "ကြိယာ၏ အိအ်ရာဗ် (၁၇) - 'လန်န်' ကြောင့် နဆွဗ်ဖြစ်ခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Lan vs Lā for future negation; Nasb by Lan",
+      "grammar_formula": "لَنْ + فِعْل مُضَارِع = مَنْصُوب (أَبَدًا)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "لَنْ تَرَانِي",
+        "translit": "lan tarānī",
+        "en": "you shall never see Me",
+        "my": "အသင်သည် ကျွန်ုပ်အား ဘယ်တော့မှ မြင်ရမည်မဟုတ်",
+        "quran_freq": 10,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَنْ تَفْعَلْنِي",
+        "root": {
+          "letters": "ر أ ي",
+          "concept_en": "seeing or perceiving",
+          "concept_my": "မြင်တွေ့ခြင်း သို့မဟုတ် အာရုံခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ray (of light to see)",
+          "image": "An eye with a line through it",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "رُؤْيَا",
+            "translit": "ru'yā",
+            "en": "vision",
+            "my": "အမြင်အာရုံ",
+            "freq": 7
+          }
+        ],
+        "pattern_unlock": "'Lan' indicates a total negation in the future, often translated as 'Never'.",
+        "example": {
+          "ar": "قَالَ لَنْ تَرَانِي",
+          "en": "He said: You shall never see Me",
+          "my": "အရှင်မြတ်က မိန့်ကြားတော်မူသည် - အသင်သည် ကျွန်ုပ်အား ဘယ်တော့မှ မြင်ရမည်မဟုတ်",
+          "ref": "7:143"
+        }
+      },
+      {
+        "word": "لَنْ تَنَالُوا",
+        "translit": "lan tanālū",
+        "en": "never will you attain",
+        "my": "အသင်တို့ဘယ်တော့မှ ရရှိမည်မဟုတ်",
+        "quran_freq": 15,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَنْ تَفْعَلُوا",
+        "root": {
+          "letters": "န ဝ လ",
+          "concept_en": "attainment",
+          "concept_my": "ရရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Nil (zero chance)",
+          "image": "Empty hands",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "نَائِل",
+            "translit": "nā'il",
+            "en": "attainer",
+            "my": "ရရှိသူ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The 'a' sound in verbs after 'Lan' is the signature of Nasb.",
+        "example": {
+          "ar": "لَنْ تَنَالُوا الْبِرَّ",
+          "en": "Never will you attain righteousness",
+          "my": "အသင်တို့သည် ကောင်းမှုကုသိုလ်ကို ဘယ်တော့မှရရှိကြမည်မဟုတ်",
+          "ref": "3:92"
+        }
+      },
+      {
+        "word": "لَنْ یَخْلُقُوا",
+        "translit": "lan yakhluqū",
+        "en": "never will they create",
+        "my": "၎င်းတို့ဘယ်တော့မှ ဖန်ဆင်းနိုင်မည်မဟုတ်",
+        "quran_freq": 250,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَنْ يَفْعُلُوا",
+        "root": {
+          "letters": "خ ل ق",
+          "concept_en": "creation",
+          "concept_my": "ဖန်ဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khaliq (Creator)",
+          "image": "Someone trying to make something and failing",
+          "cross_language": "Malay: Makhluk"
+        },
+        "word_family": [
+          {
+            "ar": "الْخَالِقُ",
+            "translit": "Al-Khāliq",
+            "en": "The Creator",
+            "my": "ဖန်ဆင်းတော်မူသောအရှင်",
+            "freq": 11
+          }
+        ],
+        "pattern_unlock": "Plural verbs drop the Nun after Lan, just like after An.",
+        "example": {
+          "ar": "لَنْ يَخْلُقُوا ذُبَابًا",
+          "en": "Never will they create a fly",
+          "my": "၎င်းတို့သည် ယင်ကောင်တစ်ကောင်ကိုပင် ဘယ်တော့မှ ဖန်ဆင်းနိုင်ကြမည်မဟုတ်",
+          "ref": "22:73"
+        }
+      },
+      {
+        "word": "لَنْ يَقْدِرَ",
+        "translit": "lan yaqdira",
+        "en": "never will he have power",
+        "my": "သူသည်ဘယ်တော့မှ တတ်စွမ်းနိုင်မည်မဟုတ်",
+        "quran_freq": 130,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَنْ يَفْعِلَ",
+        "root": {
+          "letters": "ق د ر",
+          "concept_en": "power, capability",
+          "concept_my": "စွမ်းအား၊ တတ်စွမ်းနိုင်မှု"
+        },
+        "memory_hook": {
+          "sound": "Qadr (Destiny/Power)",
+          "image": "A strong arm",
+          "cross_language": "Urdu: Qudrat"
+        },
+        "word_family": [
+          {
+            "ar": "قَدِير",
+            "translit": "qadīr",
+            "en": "powerful",
+            "my": "စွမ်းအားရှင်",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "The 'a' at the end of yaqdira is mandatory after 'Lan'.",
+        "example": {
+          "ar": "أَيَحْسَبُ أَنْ لَنْ يَقْدِرَ عَلَيْهِ أَحَدٌ",
+          "en": "Does he think that never will anyone have power over him?",
+          "my": "မိမိအပေါ် မည်သူတစ်ဦးတစ်ယောက်မျှ တတ်စွမ်းနိုင်မည်မဟုတ်ဟု သူထင်နေသလော",
+          "ref": "90:5"
+        }
+      },
+      {
+        "word": "لَنْ نَبْرَحَ",
+        "translit": "lan nabraha",
+        "en": "never will we leave",
+        "my": "ကျွန်ုပ်တို့ဘယ်တော့မှ စွန့်ခွာမည်မဟုတ်",
+        "quran_freq": 5,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "لَنْ نَفْعَلَ",
+        "root": {
+          "letters": "ب ر ح",
+          "concept_en": "leaving or ceasing",
+          "concept_my": "စွန့်ခွာခြင်း သို့မဟုတ် ရပ်စဲခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Branch (staying on a branch)",
+          "image": "People standing firm in one place",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "بَارِح",
+            "translit": "bārih",
+            "en": "leaving",
+            "my": "စွန့်ခွာသူ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Verbs of staying/leaving often appear with 'Lan' for emphasis.",
+        "example": {
+          "ar": "لَنْ نَبْرَحَ عَلَيْهِ عَاكِفِينَ",
+          "en": "We will never cease being devoted to it",
+          "my": "ကျွန်ုပ်တို့သည် ၎င်းအပေါ်တွင် ဆက်လက်စွဲကပ်နေကြမည်သာဖြစ်သည်",
+          "ref": "20:91"
+        }
+      },
+      {
+        "word": "لَنْ نُؤْمِنَ",
+        "translit": "lan nu'mina",
+        "en": "never will we believe",
+        "my": "ကျွန်ုပ်တို့ဘယ်တော့မှ ယုံကြည်မည်မဟုတ်",
+        "quran_freq": 800,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "لَنْ نُفْعِلَ",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "faith",
+          "concept_my": "ယုံကြည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "No-man (no man believes)",
+          "image": "A closed heart",
+          "cross_language": "Malay: Iman"
+        },
+        "word_family": [
+          {
+            "ar": "آمَنَ",
+            "translit": "āmana",
+            "en": "he believed",
+            "my": "သူယုံကြည်ခဲ့သည်",
+            "freq": 500
+          }
+        ],
+        "pattern_unlock": "The 'Na-' prefix indicates 'We' in this negation.",
+        "example": {
+          "ar": "لَنْ نُؤْمِنَ لَكَ",
+          "en": "We will never believe you",
+          "my": "ကျွန်ုပ်တို့သည် အသင့်အား ဘယ်တော့မှ ယုံကြည်မည်မဟုတ်",
+          "ref": "2:55"
+        }
+      },
+      {
+        "word": "لَنْ يَضُرُّوا",
+        "translit": "lan yaḍurrū",
+        "en": "never will they harm",
+        "my": "၎င်းတို့ဘယ်တော့မှ အန္တရာယ်ပြုနိုင်မည်မဟုတ်",
+        "quran_freq": 70,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَنْ يَفْعُلُوا",
+        "root": {
+          "letters": "ض ر ر",
+          "concept_en": "harm or adversity",
+          "concept_my": "အန္တရာယ် သို့မဟုတ် ဆင်းရဲဒုက္ခ"
+        },
+        "memory_hook": {
+          "sound": "Door (hitting a door)",
+          "image": "A shield blocking an arrow",
+          "cross_language": "Urdu: Zarar"
+        },
+        "word_family": [
+          {
+            "ar": "الضَّرَّاء",
+            "translit": "aḍ-ḍarrā'",
+            "en": "adversity",
+            "my": "ဆင်းရဲခက်ခဲမှု",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Double-letter roots (ḍ-r-r) lose their Nun but keep the Shaddah in plural.",
+        "example": {
+          "ar": "لَنْ يَضُرُّوا اللَّهَ شَيْئًا",
+          "en": "Never will they harm Allah at all",
+          "my": "၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်အား အနည်းငယ်မျှပင် အန္တရာယ်ပြုနိုင်ကြမည်မဟုတ်",
+          "ref": "3:176"
+        }
+      },
+      {
+        "word": "لَنْ يَتَمَنَّوْهُ",
+        "translit": "lan yatamannawhu",
+        "en": "never will they wish for it",
+        "my": "၎င်းတို့သည် ၎င်းကို ဘယ်တော့မှ တောင့်တကြမည်မဟုတ်",
+        "quran_freq": 15,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَنْ يَتَفَعَّلُوا",
+        "root": {
+          "letters": "မ န ယ",
+          "concept_en": "wishing or desiring",
+          "concept_my": "တောင့်တခြင်း သို့မဟုတ် အလိုရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Money (wishing for money)",
+          "image": "A thought bubble with an X",
+          "cross_language": "Urdu: Tamanna"
+        },
+        "word_family": [
+          {
+            "ar": "أُمْنِيَّة",
+            "translit": "umniyyah",
+            "en": "wish",
+            "my": "ဆန္ဒ",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "The 'w' before 'hu' is part of the plural ending after the Nun is dropped.",
+        "example": {
+          "ar": "لَنْ يَتَمَنَّوْهُ أَبَدًا",
+          "en": "Never will they wish for it, ever",
+          "my": "၎င်းတို့သည် ၎င်းကို မည်သည့်အခါမျှ ဘယ်တော့မှ တောင့်တကြမည်မဟုတ်",
+          "ref": "2:95"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "النَّفْيُ بِلَنْ",
+        "en": "Negation with 'Lan'",
+        "my": "'လန်န်' ဖြင့် ငြင်းပယ်ခြင်း"
+      },
+      "formula": {
+        "display": "لَنْ + فِعْل مُضَارِع (u) = فِعْل مُضَارِع (a)",
+        "example": "لَنْ يَقْدِرَ",
+        "myanmar_read": "လန်န် (Lan) ပါလာလျှင် အနာဂတ်အတွက် 'ဘယ်တော့မှမဟုတ်' ဟု အဓိပ္ပာယ်ရပြီး ကြိယာအဆုံးသည် 'a' အသံပြောင်းရမည်။",
+        "key_insight": "'Lan' is stronger than 'La'. It specifically denies something will EVER happen in the future."
+      },
+      "explanation": {
+        "en": "The particle 'Lan' is used for strong future negation. Grammatically, it functions exactly like 'An'—it puts the following present tense verb into the Nasb (Subjunctive) state. This means singular verbs end in Fatha (a) and plural verbs drop the final Nun. While 'La' simply means 'no', 'Lan' implies 'never' or a definite 'will not'.",
+        "my": "'လန်န်' (Lan) ကို အနာဂတ်တွင် တစ်စုံတစ်ခု လုံးဝဖြစ်လာမည်မဟုတ်ကြောင်း ခိုင်မာစွာငြင်းဆိုရာတွင် အသုံးပြုသည်။ သဒ္ဒါနည်းအရ ၎င်းသည် 'အန်န်' (An) နှင့် အတူတူပင်ဖြစ်သည်။ ၎င်းသည် နောက်ကလိုက်လာသော ကြိယာကို နဆွဗ် (Nasb) အခြေအနေသို့ ပို့ဆောင်သည်။ ဆိုလိုသည်မှာ ဧကဝုစ်ကြိယာများသည် ဖသ်ဟဟ် (a) ဖြင့် ဆုံးပြီး၊ အများကိန်းကြိယာများသည် အဆုံးသတ် 'နွန်' ပြုတ်သွားသည်။ 'လား' (La) သည် ရိုးရိုးငြင်းဆိုခြင်းဖြစ်သော်လည်း 'လန်န်' သည် 'ဘယ်တော့မှ' သို့မဟုတ် 'လုံးဝမဟုတ်' ဟု အဓိပ္ပာယ်ရသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese uses 'မည်မဟုတ်' (myi ma hoke) for future negation. To say 'never', we add 'ဘယ်တော့မှ' (be daw ma). In Arabic, 'Lan' contains both the 'future' and the 'never' emphasis in one word.",
+        "my": "မြန်မာစာတွင် အနာဂတ်ငြင်းဆိုရန် 'မည်မဟုတ်' ကို သုံးသည်။ 'ဘယ်တော့မှ' ဟု အလေးပေးလိုလျှင် ထပ်ထည့်ရသည်။ အာရဗီတွင် 'လန်န်' တစ်လုံးတည်းဖြင့် အနာဂတ်ငြင်းဆိုမှုနှင့် အလေးပေးမှုကို ဖော်ပြနိုင်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "'Lan' only enters upon present tense verbs (Mudari').",
+          "rule_my": "'လန်န်' သည် ပစ္စုပ္ပန်ကာလကြိယာ (မုဒါရိအ်) များရှေ့တွင်သာ လာနိုင်သည်။",
+          "example": {
+            "ar": "لَنْ يَفْعَلَ",
+            "en": "He will never do",
+            "my": "သူဘယ်တော့မှ လုပ်မည်မဟုတ်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "It negates the future with emphasis.",
+          "rule_my": "၎င်းသည် အနာဂတ်ကာလကို အလေးပေး၍ ငြင်းဆိုသည်။",
+          "example": {
+            "ar": "لَنْ نُؤْمِنَ",
+            "en": "We will never believe",
+            "my": "ကျွန်ုပ်တို့ဘယ်တော့မှ ယုံကြည်မည်မဟုတ်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "لَنْ تَنَالُوا الْبِرَّ",
+          "en": "Never will you attain righteousness",
+          "my": "အသင်တို့သည် အသင်တို့နှစ်သက်ကြသော ပစ္စည်းဥစ္စာများထဲမှ သုံးစွဲလှူဒါန်းမှု မပြုသမျှ ကောင်းကျိုးချမ်းသာ(ဂျန္နသ်)ကို မည်သည့်အခါမျှ ရရှိကြမည်မဟုတ်ပေ။ ထို့ပြင် အသင်တို့သည် မည်သည့်အရာမျှပင် လှူသည်ဖြစ်စေ၊ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် ထိုအရာအား အကြွင်းမဲ့သိတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+          "ref": "3:92",
+          "breakdown": {
+            "subject": {
+              "word": "تَنَالُوا",
+              "en": "you (pl) attain",
+              "note": "Nun dropped"
+            },
+            "predicate": {
+              "word": "لَنْ",
+              "en": "never will",
+              "note": "Nasb particle"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'လန်န်' သည် အလွန်ခိုင်မာသော ကတိကဝတ် သို့မဟုတ် နိယာမကို ဖော်ပြနေသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using 'Lan' with a past tense verb",
+          "wrong": {
+            "ar": "لَنْ فَعَلَ",
+            "note": "Lan cannot be used with past tense"
+          },
+          "correct": {
+            "ar": "مَا فَعَلَ",
+            "en": "He did not do",
+            "my": "သူမလုပ်ခဲ့ပါ"
+          },
+          "myanmar_tip": "'လန်န်' သည် အနာဂတ်အတွက်သာ ဖြစ်ကြောင်း မှတ်ထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အတည်ပြုပြီးသောနာမ်နှင့် အတည်မပြုရသေးသောနာမ်များကို ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "لَنْ تَرَانِي",
+              "answer_en": "tarāni is Nasb due to Lan",
+              "answer_my": "Lan ကြောင့် tarāni သည် Nasb ဖြစ်သည်",
+              "ref": "7:143"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "لَنْ يَخْلُقُوا",
+              "answer_en": "They will never create",
+              "answer_my": "၎င်းတို့ဘယ်တော့မှ ဖန်ဆင်းနိုင်မည်မဟုတ်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "'Lan' ကို ထည့်သွင်းပြီး နဆွဗ်အခြေအနေသို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "یَصْبِرُونَ",
+              "answer_en": "lan yaṣbirū",
+              "answer_my": "လန်န် ယဆ်ဗိရူး (၎င်းတို့ဘယ်တော့မှ သည်းခံမည်မဟုတ်)",
+              "ar": "لَنْ يَصْبِرُوا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The use of 'Lan' in the Quran often sets eternal truths. For example, failing to attain righteousness without giving from what we love is an absolute law. It teaches us the certainty of Allah's words.",
+        "my": "ကုရ်အာန်တွင် 'လန်န်' ကို အသုံးပြုခြင်းသည် ထာဝရအမှန်တရားများကို ပြဆိုခြင်းဖြစ်သည်။ ဥပမာ - မိမိနှစ်သက်သောအရာကို လှူဒါန်းခြင်းမရှိဘဲ ကောင်းမှုကုသိုလ်ကို မရရှိနိုင်ခြင်းသည် အကြွင်းမဲ့နိယာမတစ်ခုဖြစ်သည်။ ၎င်းသည် အလ္လာဟ်အရှင်မြတ်၏ မိန့်ကြားချက်များအပေါ် သေချာရေရာမှုကို သင်ကြားပေးပါသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Kahf 18:67",
+        "study_number": 1,
+        "arabic_full": "إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا",
+        "en_sahih": "Indeed, you will never be able to have patience with me",
+        "my_mmsy": "၎င်း(ခိဿွ်ရ်)ကပြောသည်၊ အသင်သည် ကျွန်ုပ်နှင့်အတူ လုံးဝ သည်းခံနေနိုင်မည် မဟုတ်ပေ။",
+        "audio_ref": {
+          "surah": 18,
+          "ayah": 67,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/018067.mp3"
+        },
+        "qurancom_url": "https://quran.com/18/67",
+        "context": {
+          "en": "Khidr (as) is speaking to Prophet Musa (as), telling him that the nature of the knowledge Khidr has will be too difficult for Musa to witness patiently.",
+          "my": "ခိဿရ်အရှင်သည် မူစာနဗီအား မိမိထံ၌ရှိသော ပညာရပ်များ၏ သဘောသဘာဝအရ မူစာနဗီအနေဖြင့် စိတ်ရှည်စွာ စောင့်ကြည့်နိုင်မည်မဟုတ်ကြောင်း မိန့်ကြားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "لَنْ",
+            "translit": "lan",
+            "en": "never",
+            "my": "ဘယ်တော့မှမဟုတ်",
+            "role_en": "Particle of Negation",
+            "role_my": "ငြင်းပယ်ခြင်းအမှုန်",
+            "root": "N/A",
+            "freq": 0
+          },
+          {
+            "ar": "تَسْتَطِيعَ",
+            "translit": "tastaṭī'a",
+            "en": "you will be able",
+            "my": "အသင်တတ်စွမ်းနိုင်မည်",
+            "role_en": "Verb (Nasb)",
+            "role_my": "ကြိယာ (နဆွဗ်)",
+            "root": "ط و ع",
+            "freq": 40
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb ends in Fatha (a) because of 'Lan'.",
+          "structure_my": "'Lan' (လန်န်) ကြောင့် ကြိယာ၏အဆုံးတွင် ဖသ်ဟဟ် (a) ဖြစ်သွားသည်။",
+          "insight_en": "The negation here is emphatic, stressing the impossibility of human patience when faced with divine wisdom beyond their grasp.",
+          "insight_my": "လူသားတို့ နားမလည်နိုင်သော အရှင်မြတ်၏ ဉာဏ်ပညာနှင့် ရင်ဆိုင်ရသောအခါ စိတ်ရှည်ရန် မဖြစ်နိုင်ကြောင်း ဤနေရာတွင် 'လန်န်' ဖြင့် အလေးပေးထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ط و ع",
+            "concept_en": "To obey or be capable",
+            "concept_my": "နာခံခြင်း သို့မဟုတ် တတ်စွမ်းနိုင်ခြင်း",
+            "members": [
+              {
+                "ar": "طَاعَة",
+                "en": "Obedience",
+                "my": "နာခံမှု",
+                "freq": 15
+              }
+            ],
+            "professors_note": "Istita'a refers to having the specific capacity or strength to carry out a task."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ကျွန်ုပ်တို့အား နှိမ့်ချမှုကို သင်ကြားပေးပါသည်။ မူစာနဗီကဲ့သို့သော အရှင်မြတ်၏ ချစ်မြတ်နိုးရသူပင်လျှင် အချို့သောကိစ္စရပ်များ၌ 'ဘယ်တော့မှ' သည်းခံနိုင်မည်မဟုတ်ကြောင်း မိန့်ကြားခံရသည်။ ကျွန်ုပ်တို့၏ ဘဝတွင်လည်း နားမလည်နိုင်သော အခက်အခဲများ ကြုံလာရသောအခါ အရာအားလုံးသည် အလ္လာဟ်အရှင်မြတ်၏ ဉာဏ်ပညာတော်အောက်တွင်ရှိကြောင်း ယုံကြည်ရပါမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Lan tas-ta-tee-a (Ending with a sharp 'a')",
+          "meaning_anchor": "The word 'Lan' is like a wall blocking the future action.",
+          "daily_connection": "Used when admitting our human limitations before Allah.",
+          "my": "'လန်န် သပ်စ်သသီးအ' ဟု အသံထွက်ကို လေ့ကျင့်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored how 'Lan' negates the future with power and changes the verb to Nasb. This helps us distinguish between simple negation and absolute, emphatic negation in the Quranic text.",
+      "my": "'လန်န်' သည် အနာဂတ်ကို မည်သို့ခိုင်မာစွာ ငြင်းဆိုပြီး ကြိယာကို နဆွဗ် အခြေအနေသို့ ပြောင်းလဲစေကြောင်း လေ့လာခဲ့ပါသည်။ ၎င်းသည် ရိုးရိုးငြင်းဆိုခြင်းနှင့် အလေးပေးငြင်းဆိုခြင်းတို့ကို ခွဲခြားသိမြင်စေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L5-218",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 218,
+    "title": {
+      "ar": "إِعْرَابُ الْمُضَارِعِ (الْمَجْزُومُ)",
+      "en": "I'rab XVIII — Jussive (Jazm): Conditions and Commands",
+      "my": "ကြိယာ၏ အိအ်ရာဗ် (၁၈) - ဂျဇ်မ် (Jazm) ဖြစ်ခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Jazm by Lam, Lā al-Nāhiya, and Shart particles",
+      "grammar_formula": "لَمْ / لَا / إِنْ + فِعْل مُضَارِع = مَجْزُوم"
+    },
+    "section_1_vocab": [
+      {
+        "word": "إِنْ يَفْعَلْ",
+        "translit": "in yaf'al",
+        "en": "if he does",
+        "my": "သူပြုလုပ်လျှင်",
+        "quran_freq": 1000,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "إِنْ يَفْعَلْ",
+        "root": {
+          "letters": "ဖ င လ",
+          "concept_en": "doing or acting",
+          "concept_my": "ပြုလုပ်ခြင်း သို့မဟုတ် ဆောင်ရွက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "In (If)",
+          "image": "A person deciding between two paths",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "فِعْل",
+            "translit": "fi'l",
+            "en": "action",
+            "my": "လုပ်ရပ်",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "The Sukun at the end (yaf'al) is caused by 'In' (if).",
+        "example": {
+          "ar": "إِنْ يَفْعَلْ خَيْرًا",
+          "en": "If he does good",
+          "my": "သူသည် ကောင်းမှုပြုလုပ်လျှင်",
+          "ref": "Quranic phrase"
+        }
+      },
+      {
+        "word": "لَا تَثْرُكْ",
+        "translit": "lā tathruk",
+        "en": "do not leave",
+        "my": "မစွန့်ခွာပါနှင့်",
+        "quran_freq": 40,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَا تَفْعُلْ",
+        "root": {
+          "letters": "သ ရ က",
+          "concept_en": "leaving behind",
+          "concept_my": "ချန်ထားရစ်ခြင်း သို့မဟုတ် စွန့်ခွာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Truck (leaving something in a truck)",
+          "image": "A hand holding onto something",
+          "cross_language": "Urdu: Tark"
+        },
+        "word_family": [
+          {
+            "ar": "تَرَكَ",
+            "translit": "taraka",
+            "en": "he left",
+            "my": "သူစွန့်ခွာခဲ့သည်",
+            "freq": 40
+          }
+        ],
+        "pattern_unlock": "This 'La' is for prohibition, which causes Sukun.",
+        "example": {
+          "ar": "لَا تَثْرُكْهُ",
+          "en": "Do not leave it",
+          "my": "၎င်းကို မစွန့်ခွာပါနှင့်",
+          "ref": "Grammar Example"
+        }
+      },
+      {
+        "word": "لَمْ يَلِدْ",
+        "translit": "lam yalid",
+        "en": "He did not beget",
+        "my": "ကိုယ်တော်သည် သားသမီးဖွားမြင်တော်မမူခဲ့",
+        "quran_freq": 50,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَمْ يَفْعِلْ",
+        "root": {
+          "letters": "ဝ လ ဒ",
+          "concept_en": "birth, begetting",
+          "concept_my": "မွေးဖွားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Walad (child)",
+          "image": "A lineage tree",
+          "cross_language": "Malay: Walad"
+        },
+        "word_family": [
+          {
+            "ar": "وَلَد",
+            "translit": "walad",
+            "en": "child",
+            "my": "ကလေး",
+            "freq": 40
+          }
+        ],
+        "pattern_unlock": "'Lam' turns the present tense into past negation and adds a Sukun.",
+        "example": {
+          "ar": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "en": "He neither begets nor is born",
+          "my": "ကိုယ်တော်သည် သားသမီးဖွားမြင်တော်မမူခဲ့၊ ကိုယ်တော်အားလည်း ဖွားမြင်ခြင်းမရှိခဲ့",
+          "ref": "112:3"
+        }
+      },
+      {
+        "word": "لِيُنْفِقْ",
+        "translit": "li-yunfiq",
+        "en": "let him spend",
+        "my": "သူ့အားသုံးစွဲစေပါ",
+        "quran_freq": 70,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لِيُفْعِلْ",
+        "root": {
+          "letters": "န ဖ က",
+          "concept_en": "spending, outflow",
+          "concept_my": "သုံးစွဲခြင်း၊ ထွက်သွားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Infaq",
+          "image": "Coins falling into a hand",
+          "cross_language": "Malay: Infaq"
+        },
+        "word_family": [
+          {
+            "ar": "نَفَقَة",
+            "translit": "nafaqah",
+            "en": "provision",
+            "my": "ရိက္ခာ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "The 'Li-' prefix here is a command (Lam al-Amr), causing Jazm.",
+        "example": {
+          "ar": "لِيُنْفِقْ ذُو سَعَةٍ",
+          "en": "Let a man of wealth spend",
+          "my": "ချမ်းသာကြွယ်ဝသူသည် သုံးစွဲပါစေ",
+          "ref": "65:7"
+        }
+      },
+      {
+        "word": "لَا تَحْزَنْ",
+        "translit": "lā taḥzan",
+        "en": "do not grieve",
+        "my": "ဝမ်းမနည်းပါနှင့်",
+        "quran_freq": 40,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَا تَفْعَلْ",
+        "root": {
+          "letters": "ဟ ဇ န",
+          "concept_en": "sadness, grief",
+          "concept_my": "ဝမ်းနည်းပူဆွေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hazan (sadness)",
+          "image": "A face smiling through tears",
+          "cross_language": "Urdu: Huzn"
+        },
+        "word_family": [
+          {
+            "ar": "حَزِين",
+            "translit": "hazīn",
+            "en": "sad",
+            "my": "ဝမ်းနည်းသော",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Prohibition 'La' always results in a silent ending (Sukun).",
+        "example": {
+          "ar": "لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+          "en": "Do not grieve; indeed Allah is with us",
+          "my": "ဝမ်းမနည်းပါနှင့်၊ အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့နှင့်အတူ ရှိတော်မူသည်",
+          "ref": "9:40"
+        }
+      },
+      {
+        "word": "لَمْ يَكُنْ",
+        "translit": "lam yakun",
+        "en": "he was not",
+        "my": "သူမဖြစ်ခဲ့ပါ",
+        "quran_freq": 1300,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَمْ يَفْعُلْ",
+        "root": {
+          "letters": "က ဝ န",
+          "concept_en": "existence",
+          "concept_my": "တည်ရှိမှု"
+        },
+        "memory_hook": {
+          "sound": "Lam Ya-kun (was not)",
+          "image": "An empty chair",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "كَائِن",
+            "translit": "kā'in",
+            "en": "existing",
+            "my": "တည်ရှိနေသော",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The 'w' in 'yakūnu' is dropped in Jazm to avoid two Sukuns.",
+        "example": {
+          "ar": "لَمْ يَكُنِ الَّذِينَ كَفَرُوا",
+          "en": "Those who disbelieved were not...",
+          "my": "သစ္စာမရှိသောသူတို့သည် မဖြစ်ခဲ့ကြပါ",
+          "ref": "98:1"
+        }
+      },
+      {
+        "word": "فَلْيَعْبُدُوا",
+        "translit": "fal-ya'budū",
+        "en": "so let them worship",
+        "my": "၎င်းတို့ခယဝတ်ပြုကြပါစေ",
+        "quran_freq": 150,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَلْيَفْعُلُوا",
+        "root": {
+          "letters": "င ဗ ဒ",
+          "concept_en": "worship, service",
+          "concept_my": "ခယဝတ်ပြုခြင်း၊ အစေခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Abid (worshipper)",
+          "image": "People in Sujud",
+          "cross_language": "Malay: Abdi"
+        },
+        "word_family": [
+          {
+            "ar": "عِبَادَة",
+            "translit": "ibādah",
+            "en": "worship",
+            "my": "ဝတ်ပြုကိုးကွယ်မှု",
+            "freq": 30
+          }
+        ],
+        "pattern_unlock": "In the plural, Jazm (just like Nasb) drops the Nun.",
+        "example": {
+          "ar": "فَلْيَعْبُدُوا رَبَّ هَذَا الْبَيْتِ",
+          "en": "So let them worship the Lord of this House",
+          "my": "ထို့ကြောင့် ၎င်းတို့သည် ဤအိမ်တော်၏ အရှင်မြတ်အား ခယဝတ်ပြုကြပါစေ",
+          "ref": "106:3"
+        }
+      },
+      {
+        "word": "لَا تُخْزِنِي",
+        "translit": "lā tukhzinī",
+        "en": "do not disgrace me",
+        "my": "ကျွန်ုပ်အား အရှက်မခွဲပါနှင့်",
+        "quran_freq": 10,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَا تُفْعِلْنِي",
+        "root": {
+          "letters": "ခ ဇ ယ",
+          "concept_en": "disgrace, shame",
+          "concept_my": "အရှက်ရခြင်း၊ ဂုဏ်ငယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khiz-ni (disgrace me)",
+          "image": "Covering the face in shame",
+          "cross_language": "Urdu: Ruswa"
+        },
+        "word_family": [
+          {
+            "ar": "خِزْي",
+            "translit": "khizyun",
+            "en": "disgrace",
+            "my": "အရှက်ရမှု",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "The final 'Ya' of a weak verb is dropped in Jazm.",
+        "example": {
+          "ar": "وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ",
+          "en": "And do not disgrace me on the Day they are resurrected",
+          "my": "၎င်းတို့အား ပြန်လည်ထမြောက်စေမည့်နေ့တွင် ကျွန်ုပ်အား အရှက်မခွဲပါနှင့်",
+          "ref": "26:87"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْفِعْلُ الْمُضَارِعُ الْمَجْزُومُ",
+        "en": "The Jussive Mood (Jazm)",
+        "my": "မုဒါရိအ်ကြိယာ ဂျဇ်မ် (Jazm) ဖြစ်ခြင်း"
+      },
+      "formula": {
+        "display": "لَمْ + يَعْمَلُ = لَمْ يَعْمَلْ",
+        "example": "لَمْ يَنْصُرْ",
+        "myanmar_read": "လမ်မ် (Lam) သို့မဟုတ် လား (La) ပါလာလျှင် ကြိယာအဆုံးတွင် စုကွန် (Sukun) တင်ရမည်။",
+        "key_insight": "Jazm means 'cutting'—it cuts off the vowel sound at the end of the verb."
+      },
+      "explanation": {
+        "en": "Jazm (Jussive) is the third state of the Arabic verb. It is triggered by particles like 'Lam' (did not), 'La' (do not - prohibition), and 'In' (if). For singular verbs, the Damma changes into a Sukun (silent). For plural verbs, the Nun is dropped (just like in Nasb). This state is used for past negation, commands, and conditions.",
+        "my": "ဂျဇ်မ် (Jazm) သည် အာရဗီကြိယာ၏ တတိယမြောက် အခြေအနေဖြစ်သည်။ ၎င်းကို 'လမ်မ်' (Lam - မဟုတ်ခဲ့)၊ 'လား' (La - မလုပ်နှင့်) နှင့် 'အင်န်' (In - လျှင်) ကဲ့သို့သော စကားလုံးများက ဖြစ်ပေါ်စေသည်။ ဧကဝုစ်ကြိယာများတွင် ဒမ္မဟ်သည် စုကွန် (Sukun) သို့ ပြောင်းသွားသည်။ အများကိန်းများတွင်မူ နဆွဗ်ကဲ့သို့ပင် 'နွန်' ပြုတ်သွားသည်။ ဤအခြေအနေကို အတိတ်ငြင်းဆိုချက်များ၊ အမိန့်များနှင့် အခြေအနေပြဝါကျများတွင် သုံးသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we show commands with 'ပါနှင့်' (pa ne) or 'မ...နဲ့' (ma...ne). Arabic shows this through the 'Jazm' ending, which literally sounds like the speaker is cutting the word short to show authority or finality.",
+        "my": "မြန်မာစာတွင် 'မလုပ်နဲ့' ဟူသော တားမြစ်ချက်မျိုးကို အာရဗီတွင် ကြိယာအဆုံးကို စုကွန် (Sukun) တင်ခြင်းဖြင့် ပြသသည်။ ၎င်းသည် စကားလုံးကို တိုတိုပြတ်ပြတ် ပြောလိုက်သကဲ့သို့ အမိန့်ဆန်သောအသံ ထွက်ပေါ်စေသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Singular verbs take a Sukun.",
+          "rule_my": "ဧကဝုစ်ကြိယာများတွင် စုကွန် (Sukun) ဖြစ်သွားသည်။",
+          "example": {
+            "ar": "يَشْرَبُ -> لَمْ يَشْرَبْ",
+            "en": "He drinks -> He did not drink",
+            "my": "သူသောက်သည် -> သူ မသောက်ခဲ့ပါ"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Plural verbs drop the Nun.",
+          "rule_my": "အများကိန်းကြိယာများတွင် 'နွန်' ပြုတ်သွားသည်။",
+          "example": {
+            "ar": "تَفْعَلُونَ -> لَا تَفْعَلُوا",
+            "en": "You all do -> Do not (you all) do",
+            "my": "အသင်တို့လုပ်ကြသည် -> မလုပ်ကြပါနှင့်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "en": "He neither begets nor is born",
+          "my": "(၃) အရှင်မြတ်သည် မည်သူတစ်ဦးတစ်ယောက်ကိုမှ မွေးဖွားတော်မူခဲ့သည်မဟုတ်ပေ။ မည်သူ တစ်ဦးတစ်ယောက်၏ မွေးဖွားခြင်းကိုမှလည်း ခံခဲ့ရတော်မမူပေ။",
+          "ref": "112:3",
+          "breakdown": {
+            "subject": {
+              "word": "يَلِدْ",
+              "en": "beget",
+              "note": "Majzum by Lam"
+            },
+            "predicate": {
+              "word": "لَمْ",
+              "en": "did not",
+              "note": "Jazm particle"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'လမ်မ်' နှစ်ခုလုံးသည် ကြိယာများကို စုကွန် (Sukun) ဖြစ်စေသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing 'La' for negation with 'La' for prohibition",
+          "wrong": {
+            "ar": "لَا تَفْعَلُ",
+            "note": "Used Damma for prohibition"
+          },
+          "correct": {
+            "ar": "لَا تَفْعَلْ",
+            "en": "Do not do",
+            "my": "မလုပ်ပါနှင့်"
+          },
+          "myanmar_tip": "တားမြစ်ချက် (Prohibition) ဆိုလျှင် အဆုံးမှာ စုကွန် (Sukun) အမြဲဖြစ်ရမည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အတည်ပြုပြီးသောနာမ်နှင့် အတည်မပြုရသေးသောနာမ်များကို ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "أَلَمْ نَشْرَحْ لَكَ",
+              "answer_en": "nashrah is Majzum by Lam",
+              "answer_my": "Lam ကြောင့် nashrah သည် Majzum ဖြစ်သည်",
+              "ref": "94:1"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "لَا تَحْزَنْ",
+              "answer_en": "Do not grieve",
+              "answer_my": "ဝမ်းမနည်းပါနှင့်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "'Lam' ကို ထည့်သွင်းပြီး ဂျဇ်မ်အခြေအနေသို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "يَقُولُ",
+              "answer_en": "lam yaqul",
+              "answer_my": "လမ်မ် ယကုလ် (သူမပြောခဲ့ပါ)",
+              "ar": "لَمْ يَقُلْ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Jazm brings a sense of finality and discipline. When Allah says 'Do not grieve,' the Jazm ending acts as a spiritual anchor, halting the emotion of sadness immediately through the power of His command.",
+        "my": "ဂျဇ်မ် (Jazm) သည် ပြတ်သားမှုနှင့် စည်းကမ်းကို ဖြစ်ပေါ်စေသည်။ အလ္လာဟ်အရှင်မြတ်က 'ဝမ်းမနည်းပါနှင့်' ဟု မိန့်ကြားသောအခါ၊ ဂျဇ်မ်အဆုံးသတ်သည် ဝိညာဉ်ရေးရာ ကျောက်ဆူးတစ်ခုကဲ့သို့ ဖြစ်ပြီး အရှင်မြတ်၏ အမိန့်တော်စွမ်းအားဖြင့် ဝမ်းနည်းမှုကို ချက်ချင်းရပ်တန့်စေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Ikhlas 112:3-4",
+        "study_number": 1,
+        "arabic_full": "لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+        "en_sahih": "He neither begets nor is born, Nor is there to Him any equivalent.",
+        "my_mmsy": "(၃) အရှင်မြတ်သည် မည်သူတစ်ဦးတစ်ယောက်ကိုမှ မွေးဖွားတော်မူခဲ့သည်မဟုတ်ပေ။ မည်သူ တစ်ဦးတစ်ယောက်၏ မွေးဖွားခြင်းကိုမှလည်း ခံခဲ့ရတော်မမူပေ။",
+        "audio_ref": {
+          "surah": 112,
+          "ayah": 3,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/112003.mp3"
+        },
+        "qurancom_url": "https://quran.com/112/3",
+        "context": {
+          "en": "This Surah defines the absolute oneness of Allah, negating any human-like attributes of birth or lineage.",
+          "my": "ဤသူရာသည် အလ္လာဟ်အရှင်မြတ်၏ တစ်ဆူတည်းဖြစ်တော်မူခြင်းကို အဓိပ္ပာယ်ဖွင့်ဆိုထားပြီး လူသားကဲ့သို့ မွေးဖွားခြင်း သို့မဟုတ် မျိုးနွယ်ရှိခြင်းတို့ကို ငြင်းဆိုထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "لَمْ",
+            "translit": "lam",
+            "en": "did not",
+            "my": "မဟုတ်ခဲ့",
+            "role_en": "Jussive Particle",
+            "role_my": "ဂျဇ်မ်အမှုန်",
+            "root": "N/A",
+            "freq": 0
+          },
+          {
+            "ar": "يَلِدْ",
+            "translit": "yalid",
+            "en": "beget",
+            "my": "ဖွားမြင်ခြင်း",
+            "role_en": "Verb (Jussive)",
+            "role_my": "ကြိယာ (ဂျဇ်မ်)",
+            "root": "ဝ လ ဒ",
+            "freq": 50
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Three verbs in this ayah (yalid, yūlad, yakun) are all in the Jazm state due to 'Lam'.",
+          "structure_my": "ဤအာယသ်တော်ရှိ ကြိယာသုံးလုံးစလုံးသည် 'လမ်မ်' ကြောင့် ဂျဇ်မ် (Jazm) အခြေအနေတွင် ရှိနေသည်။",
+          "insight_en": "The use of 'Lam' with the present tense (Mudari') creates a powerful past-tense negation that is absolute and unchanging.",
+          "insight_my": "ပစ္စုပ္ပန်ကာလကြိယာနှင့် 'လမ်မ်' ကို တွဲသုံးခြင်းဖြင့် အကြွင်းမဲ့ပြီး ပြောင်းလဲခြင်းမရှိသော အတိတ်ငြင်းဆိုချက်ကို ဖြစ်ပေါ်စေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "က ဝ န",
+            "concept_en": "To be or exist",
+            "concept_my": "ဖြစ်ခြင်း သို့မဟုတ် တည်ရှိခြင်း",
+            "members": [
+              {
+                "ar": "كَوْن",
+                "en": "Universe",
+                "my": "စကြဝဠာ",
+                "freq": 1
+              }
+            ],
+            "professors_note": "In 'lam yakun', the middle 'w' is dropped for phonetic ease in the Jussive mood."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "စူရဟ် အိခ်လားစ်သည် ကျွန်ုပ်တို့၏ သောင်ဟီးဒ် (တစ်ဆူတည်းသောယုံကြည်မှု) ၏ အခြေခံဖြစ်သည်။ 'လမ်မ်' ဟူသော စကားလုံးကို သုံးခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်သည် မည်သူ့ထံမှ မွေးဖွားလာသူမဟုတ်သလို၊ မည်သူ့ကိုမျှ မွေးဖွားသူလည်းမဟုတ်ကြောင်း ပြတ်ပြတ်သားသား ဖော်ပြထားသည်။ ဤသဒ္ဒါကို နားလည်ခြင်းဖြင့် ကျွန်ုပ်တို့၏ အကီဒါဟ် (ယုံကြည်ချက်) ပိုမိုခိုင်မာလာစေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Lam yalid - wa lam yūlad (matching ends)",
+          "meaning_anchor": "The Sukun (stop) at the end of each verb emphasizes the perfection and self-sufficiency of Allah.",
+          "daily_connection": "Recited in almost every prayer; notice the Jazm endings every time.",
+          "my": "အဆုံးသတ်ရှိ စုကွန် (Sukun) များသည် ပြတ်သားသော အဓိပ္ပာယ်ကို ပေးသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We learned the Jussive (Jazm) state, triggered by 'Lam', 'La', and 'In'. This state is essential for reading commands, prohibitions, and conditional sentences in the Quran.",
+      "my": "ယနေ့တွင် 'လမ်မ်'၊ 'လား' နှင့် 'အင်န်' တို့ကြောင့် ဖြစ်ပေါ်သော ဂျဇ်မ် (Jazm) အခြေအနေကို သင်ယူခဲ့ပါသည်။ ၎င်းသည် ကုရ်အာန်ရှိ အမိန့်များ၊ တားမြစ်ချက်များနှင့် အခြေအနေပြဝါကျများကို ဖတ်ရှုရန် အခြေခံကျပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L5-219",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 219,
+    "title": {
+      "ar": "إِعْرَابُ الْمُضَارِعِ فِي الشَّرْطِ وَالْجَزَاءِ",
+      "en": "I'rab XIX — Jazm: Laws and Conditional Consequences",
+      "my": "ကြိယာ၏ အိအ်ရာဗ် (၁၉) - အခြေအနေပြဝါကျများရှိ ဂျဇ်မ်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Jazm in Islamic legal language; Shart + Jawāb both Majzūm",
+      "grammar_formula": "إِنْ + [condition verb] + [result verb] = Both Majzūm"
+    },
+    "section_1_vocab": [
+      {
+        "word": "لَا تَقْتُلُوا",
+        "translit": "lā taqtulū",
+        "en": "do not kill",
+        "my": "မသတ်ကြပါနှင့်",
+        "quran_freq": 170,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَا تَفْعُلُوا",
+        "root": {
+          "letters": "က သ လ",
+          "concept_en": "killing, slaying",
+          "concept_my": "သတ်ဖြတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cut (killing involves cutting)",
+          "image": "A red 'X' over a weapon",
+          "cross_language": "Malay: Qatil"
+        },
+        "word_family": [
+          {
+            "ar": "قَتْل",
+            "translit": "qatl",
+            "en": "murder",
+            "my": "လူသတ်မှု",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "The Nun is dropped in this legal prohibition (Jazm).",
+        "example": {
+          "ar": "وَلَا تَقْتُلُوا أَوْلَادَكُمْ",
+          "en": "And do not kill your children",
+          "my": "အသင်တို့၏ သားသမီးများကို မသတ်ကြပါနှင့်",
+          "ref": "17:31"
+        }
+      },
+      {
+        "word": "لَا تَقْرَبُوا",
+        "translit": "lā taqrabū",
+        "en": "do not approach",
+        "my": "မနီးကပ်ကြပါနှင့်",
+        "quran_freq": 90,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَا تَفْعَلُوا",
+        "root": {
+          "letters": "က ရ ဗ",
+          "concept_en": "nearness",
+          "concept_my": "နီးကပ်မှု"
+        },
+        "memory_hook": {
+          "sound": "Crab (don't approach a crab)",
+          "image": "A 'keep out' sign",
+          "cross_language": "Urdu: Qareeb"
+        },
+        "word_family": [
+          {
+            "ar": "قَرِيب",
+            "translit": "qarīb",
+            "en": "near",
+            "my": "နီးသော",
+            "freq": 40
+          }
+        ],
+        "pattern_unlock": "Legal boundaries in the Quran often start with 'La taqrabu'.",
+        "example": {
+          "ar": "وَلَا تَقْرَبُوا الزِّنَى",
+          "en": "And do not approach adultery",
+          "my": "သူ့သားအိမ်ရာ ပြစ်မှားခြင်း (ဇိနာ) အနားသို့ မချဉ်းကပ်ကြပါနှင့်",
+          "ref": "17:32"
+        }
+      },
+      {
+        "word": "مَنْ یُطِعِ",
+        "translit": "man yuṭi'i",
+        "en": "whoever obeys",
+        "my": "နာခံသောသူမည်သူမဆို",
+        "quran_freq": 80,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "مَنْ يُفْعِلْ",
+        "root": {
+          "letters": "တ ဝ င",
+          "concept_en": "obedience",
+          "concept_my": "နာခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Muti (obedient)",
+          "image": "A child following a parent",
+          "cross_language": "Malay: Taat"
+        },
+        "word_family": [
+          {
+            "ar": "أَطَاعَ",
+            "translit": "aṭā'a",
+            "en": "he obeyed",
+            "my": "သူနာခံခဲ့သည်",
+            "freq": 70
+          }
+        ],
+        "pattern_unlock": "The 'i' at the end of yuṭi'i is just for connecting, it's actually Majzum.",
+        "example": {
+          "ar": "مَنْ يُطِعِ الرَّسُولَ",
+          "en": "Whoever obeys the Messenger",
+          "my": "ရစူလ်တမန်တော်မြတ်အား နာခံသောသူမည်သူမဆို",
+          "ref": "4:80"
+        }
+      },
+      {
+        "word": "مَنْ یَعْمَلْ",
+        "translit": "man ya'mal",
+        "en": "whoever does",
+        "my": "ပြုလုပ်သောသူမည်သူမဆို",
+        "quran_freq": 300,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "مَنْ يَفْعَلْ",
+        "root": {
+          "letters": "င မ လ",
+          "concept_en": "work, action",
+          "concept_my": "အလုပ်၊ လုပ်ဆောင်ချက်"
+        },
+        "memory_hook": {
+          "sound": "Amal",
+          "image": "Tools for work",
+          "cross_language": "Malay: Amal"
+        },
+        "word_family": [
+          {
+            "ar": "عَمَل",
+            "translit": "amal",
+            "en": "deed",
+            "my": "လုပ်ရပ်",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "'Man' (whoever) is a conditional tool that makes the verb Majzum.",
+        "example": {
+          "ar": "مَنْ يَعْمَلْ سُوءًا",
+          "en": "Whoever does evil",
+          "my": "မကောင်းမှုကို ပြုလုပ်သောသူမည်သူမဆို",
+          "ref": "4:123"
+        }
+      },
+      {
+        "word": "مَنْ یُؤْمِنْ",
+        "translit": "man yu'min",
+        "en": "whoever believes",
+        "my": "ယုံကြည်သောသူမည်သူမဆို",
+        "quran_freq": 800,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "مَنْ يُفْعِلْ",
+        "root": {
+          "letters": "အ မ န",
+          "concept_en": "faith",
+          "concept_my": "ယုံကြည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Man (the person who believes)",
+          "image": "A bright light",
+          "cross_language": "Malay: Iman"
+        },
+        "word_family": [
+          {
+            "ar": "أَمَانَة",
+            "translit": "amānah",
+            "en": "trust",
+            "my": "အာမါနသ် (ယုံကြည်အပ်နှံမှု)",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Commonly followed by a 'result' verb which is also Majzum.",
+        "example": {
+          "ar": "وَمَنْ يُؤْمِنْ بِاللَّهِ یَهْدِ",
+          "en": "And whoever believes in Allah, He guides...",
+          "my": "အလ္လာဟ်အရှင်မြတ်အား ယုံကြည်သောသူမည်သူမဆို၊ ကိုယ်တော်သည် လမ်းပြတော်မူမည်",
+          "ref": "64:11"
+        }
+      },
+      {
+        "word": "لَا تَغْلُوا",
+        "translit": "lā taghlū",
+        "en": "do not exceed limits",
+        "my": "စည်းမကျော်ကြပါနှင့်",
+        "quran_freq": 2,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَا تَفْعُلُوا",
+        "root": {
+          "letters": "ဃ လ ဝ",
+          "concept_en": "exceeding, boiling over",
+          "concept_my": "ကျော်လွန်ခြင်း သို့မဟုတ် ပွက်ပွက်ဆူခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Glue (sticking to limits)",
+          "image": "A pot boiling over",
+          "cross_language": "Urdu: Ghuluw"
+        },
+        "word_family": [
+          {
+            "ar": "غُلُوّ",
+            "translit": "ghuluww",
+            "en": "extremism",
+            "my": "အစွန်းရောက်ခြင်း",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "This refers to religious extremism or exceeding the truth.",
+        "example": {
+          "ar": "لَا تَغْلُوا فِي دِينِكُمْ",
+          "en": "Do not exceed limits in your religion",
+          "my": "အသင်တို့၏ သာသနာရေးတွင် စည်းမကျော်ကြပါနှင့်",
+          "ref": "4:171"
+        }
+      },
+      {
+        "word": "لَا تَقُولُوا",
+        "translit": "lā taqūlū",
+        "en": "do not say",
+        "my": "မပြောကြပါနှင့်",
+        "quran_freq": 1700,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "لَا تَفْعُلُوا",
+        "root": {
+          "letters": "က ဝ လ",
+          "concept_en": "speech",
+          "concept_my": "ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ta-qu-lu",
+          "image": "A finger over the lips",
+          "cross_language": "Urdu: Qaul"
+        },
+        "word_family": [
+          {
+            "ar": "قِيلَ",
+            "translit": "qīla",
+            "en": "it was said",
+            "my": "ပြောဆိုခြင်းခံရသည်",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "The 'w' remains in taqūlū because the Nun was dropped instead of a Sukun being added.",
+        "example": {
+          "ar": "وَلَا تَقُولُوا عَلَى اللَّهِ",
+          "en": "And do not say against Allah...",
+          "my": "အလ္လာဟ်အရှင်မြတ်အပေါ် (မမှန်ကန်သောအရာများကို) မပြောကြပါနှင့်",
+          "ref": "4:171"
+        }
+      },
+      {
+        "word": "مَنْ یَشْفَعْ",
+        "translit": "man yashfa'",
+        "en": "whoever intercedes",
+        "my": "ကြားဝင်အသနားခံပေးသူ မည်သူမဆို",
+        "quran_freq": 30,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "مَنْ يَفْعَلْ",
+        "root": {
+          "letters": "သျှ ဖ င",
+          "concept_en": "even numbers, intercession",
+          "concept_my": "စုံကိန်း၊ ကြားဝင်အသနားခံပေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shafa'at",
+          "image": "Connecting two people",
+          "cross_language": "Malay: Syafaat"
+        },
+        "word_family": [
+          {
+            "ar": "شَفِيع",
+            "translit": "shafī'",
+            "en": "intercessor",
+            "my": "ကြားဝင်အသနားခံပေးသူ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Conditional Jazm often links a human action to a divine response.",
+        "example": {
+          "ar": "مَنْ يَشْفَعْ شَفَاعَةً حَسَنَةً",
+          "en": "Whoever intercedes a good intercession",
+          "my": "ကောင်းသော ကြားဝင်အသနားခံပေးမှုကို ပြုသောသူမည်သူမဆို",
+          "ref": "4:85"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "جَزْمُ الشَّرْطِ وَالْجَوَابِ",
+        "en": "Jazm in Condition and Result",
+        "my": "အခြေအနေပြနှင့် အကျိုးရလဒ်ပြဝါကျများရှိ ဂျဇ်မ်"
+      },
+      "formula": {
+        "display": "مَنْ / إِنْ + [Verb 1 Majzūm] + [Verb 2 Majzūm]",
+        "example": "مَنْ يَعْمَلْ سُوءًا يُجْزَ بِهِ",
+        "myanmar_read": "မန်န် (Man) သို့မဟုတ် အင်န် (In) ပါလာလျှင် 'အခြေအနေ' နှင့် 'ရလဒ်' ကြိယာနှစ်ခုလုံးသည် ဂျဇ်မ် (Sukun) ဖြစ်ရမည်။",
+        "key_insight": "In Arabic 'If-Then' sentences, both the 'If' part and the 'Then' part are cut short (Majzūm)."
+      },
+      "explanation": {
+        "en": "When we use conditional particles like 'Man' (whoever) or 'In' (if), they affect two verbs in the sentence. The first verb is the condition (Shart) and the second is the result (Jawab). Both verbs enter the Jussive (Jazm) state. This creates a logical 'If A happens, then B happens' structure which is very common in the Quranic laws and warnings.",
+        "my": "'မန်န်' (Man - မည်သူမဆို) သို့မဟုတ် 'အင်န်' (In - အကယ်၍) ကဲ့သို့သော စကားလုံးများကို သုံးသောအခါ၊ ၎င်းတို့သည် ဝါကျရှိ ကြိယာနှစ်ခုလုံးကို သက်ရောက်မှုရှိစေသည်။ ပထမကြိယာသည် အခြေအနေ (Shart) ဖြစ်ပြီး ဒုတိယကြိယာသည် ရလဒ် (Jawab) ဖြစ်သည်။ ကြိယာနှစ်ခုလုံးသည် ဂျဇ်မ် (Jazm) အခြေအနေသို့ ရောက်ရှိသွားသည်။ ၎င်းသည် 'အကယ်၍ A ဖြစ်လျှင် B ဖြစ်မည်' ဟူသော ယုတ္တိဗေဒဆိုင်ရာ တည်ဆောက်ပုံကို ဖြစ်ပေါ်စေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese uses 'လျှင်' (lyin) for conditions. We don't change the verb ending. In Arabic, seeing both verbs end in Sukun tells you immediately that they are linked as a cause and effect.",
+        "my": "မြန်မာစာတွင် 'လျှင်' ကို သုံးသော်လည်း ကြိယာအဆုံးသတ် မပြောင်းပါ။ အာရဗီတွင် ကြိယာနှစ်ခုလုံး စုကွန် (Sukun) ဖြစ်နေခြင်းက ၎င်းတို့သည် အကြောင်းနှင့် အကျိုးအဖြစ် ချိတ်ဆက်နေကြောင်း သိရှိစေသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Both Shart and Jawab must be Majzūm.",
+          "rule_my": "အခြေအနေပြကြိယာနှင့် ရလဒ်ပြကြိယာ နှစ်ခုလုံးသည် ဂျဇ်မ် (Majzum) ဖြစ်ရမည်။",
+          "example": {
+            "ar": "مَنْ يَعْمَلْ ... يُجْزَ",
+            "en": "Whoever does... will be recompensed",
+            "my": "ပြုလုပ်သူမည်သူမဆို... အကျိုးပေးခြင်းခံရမည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Weak final letters are dropped in Jazm.",
+          "rule_my": "ဂျဇ်မ်အခြေအနေတွင် နောက်ဆုံးရှိ အားနည်းသောအက္ခရာများ ပြုတ်သွားသည်။",
+          "example": {
+            "ar": "يَهْدِي -> يَهْدِ",
+            "en": "He guides -> (If) He guides",
+            "my": "ကိုယ်တော်လမ်းပြသည် -> (အကယ်၍) ကိုယ်တော်လမ်းပြလျှင်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "مَنْ يَعْمَلْ سُوءًا يُجْزَ بِهِ",
+          "en": "Whoever does evil will be recompensed for it",
+          "my": "အသင်တို့လိုချင်သည့်အတိုင်းလည်း မဖြစ်သည်သာမက ကျမ်းရသူများ၏ လိုချင်သည့်အတိုင်းလည်း မဖြစ်ပေ။ မည်သူမဆို မကောင်းမှုကို ကျူးလွန်လျှင် ထိုမကောင်းမှုအတွက် အပြစ်ပေးခံရမည်။ ၎င်းပြင် သူသည် သူ့အတွက် အလ္လာဟ်အရှင်မြတ်မှလွဲ၍ အခြားတစ်ဦးတစ်ယောက်ကို မိတ်ဆွေအဖြစ်၊ ကူညီစောင်မမည့်သူအဖြစ် တွေ့ရမည် မဟုတ်ပေ။",
+          "ref": "4:123",
+          "breakdown": {
+            "subject": {
+              "word": "يَعْمَلْ",
+              "en": "does",
+              "note": "Shart (Majzum)"
+            },
+            "predicate": {
+              "word": "يُجْزَ",
+              "en": "be recompensed",
+              "note": "Jawab (Majzum - Alif dropped)"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'ya'mal' ၏ စုကွန်နှင့် 'yujza' ၏ အက္ခရာပြုတ်သွားခြင်းကို သတိပြုပါ။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting to make the second verb Majzum",
+          "wrong": {
+            "ar": "مَنْ یُؤْمِنْ یَهْدِي",
+            "note": "Second verb kept its Ya"
+          },
+          "correct": {
+            "ar": "مَنْ یُؤْمِنْ یَهْدِ",
+            "en": "Whoever believes, He guides",
+            "my": "ယုံကြည်သူအား ကိုယ်တော်လမ်းပြတော်မူသည်"
+          },
+          "myanmar_tip": "ဒုတိယကြိယာ (ရလဒ်) ကိုလည်း ဂျဇ်မ် (Jazm) လုပ်ရန် မမေ့ပါနှင့်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အတည်ပြုပြီးသောနာမ်နှင့် အတည်မပြုရသေးသောနာမ်များကို ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "وَمَنْ يَتَّقِ اللَّهَ يَجْعَلْ لَهُ مَخْرَجًا",
+              "answer_en": "yattaqi and yaj'al are both Majzum",
+              "answer_my": "yattaqi နှင့် yaj'al နှစ်ခုလုံးသည် Majzum ဖြစ်သည်",
+              "ref": "65:2"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "مَنْ يَعْمَلْ خَيْرًا يَرَه",
+              "answer_en": "Whoever does good will see it",
+              "answer_my": "ကောင်းမှုပြုသူမည်သူမဆို ၎င်းကို မြင်ရမည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "'Man' ကိုသုံး၍ အခြေအနေပြဝါကျတည်ဆောက်ပါ (ဂျဇ်မ်လုပ်ပါ)",
+          "questions": [
+            {
+              "q": "يَشْكُرُ (He thanks)",
+              "answer_en": "man yashkur",
+              "answer_my": "မန်န် ယရှ်ကုရ် (ကျေးဇူးတင်သူမည်သူမဆို)",
+              "ar": "مَنْ يَشْكُرْ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The conditional Jazm reflects the Divine Justice. It shows that for every spiritual action, there is a certain, immediate, and grammatical consequence. It links our choices to Allah's decree.",
+        "my": "အခြေအနေပြ ဂျဇ်မ်သည် အရှင်မြတ်၏ တရားမျှတမှုကို ထင်ဟပ်စေသည်။ ဝိညာဉ်ရေးရာ လုပ်ရပ်တိုင်းအတွက် သေချာသော ရလဒ်ရှိကြောင်း ပြသနေသည်။ ၎င်းသည် ကျွန်ုပ်တို့၏ ရွေးချယ်မှုများကို အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်နှင့် ချိတ်ဆက်ပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Az-Zalzalah 99:7",
+        "study_number": 1,
+        "arabic_full": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَه",
+        "en_sahih": "So whoever does an atom's weight of good will see it",
+        "my_mmsy": "(၇) သို့ဖြစ်ရာ မည်သူမဆို အဏုမြူမှုန်မျှ ကောင်းမှုတစ်စုံတစ်ခု ပြုလုပ်ခဲ့လျှင်လည်း ထိုသူသည် ထိုကောင်းမှုကို တွေ့မြင်ရမည်။",
+        "audio_ref": {
+          "surah": 99,
+          "ayah": 7,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/099007.mp3"
+        },
+        "qurancom_url": "https://quran.com/99/7",
+        "context": {
+          "en": "This ayah describes the Day of Judgment when every single deed, no matter how small, will be presented to the person.",
+          "my": "ဤအာယသ်တော်သည် စီရင်ရာနေ့တွင် မည်မျှပင်သေးငယ်စေကာမူ လုပ်ရပ်တိုင်းကို ထိုသူအား ပြသမည်ဖြစ်ကြောင်း ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "يَعْمَلْ",
+            "translit": "ya'mal",
+            "en": "does",
+            "my": "ပြုလုပ်သည်",
+            "role_en": "Verb (Shart)",
+            "role_my": "ကြိယာ (အခြေအနေ)",
+            "root": "င မ လ",
+            "freq": 300
+          },
+          {
+            "ar": "يَرَه",
+            "translit": "yarahu",
+            "en": "will see it",
+            "my": "၎င်းကို မြင်ရမည်",
+            "role_en": "Verb (Jawab)",
+            "role_my": "ကြိယာ (ရလဒ်)",
+            "root": "ရ အ ယ",
+            "freq": 300
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The 'Man' makes 'ya'mal' end in Sukun and makes 'yarahu' drop its original Alif/Ya.",
+          "structure_my": "'မန်န်' (Man) ကြောင့် 'ya'mal' တွင် စုကွန်ဖြစ်သွားပြီး 'yarahu' တွင် မူလအက္ခရာပြုတ်သွားသည်။",
+          "insight_en": "The structure is so precise that the grammar itself mirrors the precision of Allah's accounting.",
+          "insight_my": "ဤသဒ္ဒါတည်ဆောက်ပုံသည် အလ္လာဟ်အရှင်မြတ်၏ စာရင်းစစ်ဆေးမှု တိကျသေချာပုံကို ထင်ဟပ်နေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "သျှ ဖ င",
+            "concept_en": "Atom or tiny particle",
+            "concept_my": "မြူမှုန် သို့မဟုတ် အလွန်သေးငယ်သောအမှုန်",
+            "members": [
+              {
+                "ar": "ذَرَّة",
+                "en": "Atom",
+                "my": "မြူမှုန်",
+                "freq": 6
+              }
+            ],
+            "professors_note": "Dharratan originally referred to a tiny ant, the smallest thing seen by the Arabs."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ ဘဝတွင် မြူမှုန်ခန့်ရှိသော ကောင်းမှုလေးများကို အမှုမဲ့အမှတ်မဲ့ မနေသင့်ပါ။ အာရဗီသဒ္ဒါ၏ တိကျမှုကဲ့သို့ပင် အလ္လာဟ်အရှင်မြတ်၏ တရားမျှတမှုသည်လည်း အလွန်တိကျပါသည်။ 'မန်န် ယအ်မလ်' - မည်သူမဆို ပြုလုပ်လျှင်၊ 'ယရဟ်' - မြင်ရမည်။ ဤကတိတော်သည် ကျွန်ုပ်တို့အား ကောင်းမှုပြုရန် အမြဲတွန်းအားပေးနေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Fa-man ya'-mal... ya-rah (The flow leads directly to the result)",
+          "meaning_anchor": "Imagine a scale (Mithqal) where even an atom causes a movement.",
+          "daily_connection": "Recite this when doing small acts of kindness like removing an obstacle from the path.",
+          "my": "စည်းချက်သည် အကြောင်းမှ အကျိုးသို့ တိုက်ရိုက်ဦးတည်နေသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored how conditional sentences create a double Jazm effect. This pattern is vital for understanding the 'Cause and Effect' laws of the Quran and Islamic jurisprudence.",
+      "my": "အခြေအနေပြဝါကျများက ဂျဇ်မ် (Jazm) နှစ်ထပ်သက်ရောက်မှုကို မည်သို့ဖြစ်ပေါ်စေကြောင်း လေ့လာခဲ့ပါသည်။ ၎င်းသည် ကုရ်အာန်၏ 'အကြောင်းနှင့်အကျိုး' နိယာမများကို နားလည်ရန် အလွန်အရေးကြီးပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L5-220",
+    "phase": 5,
+    "phase_name": "I'rab",
+    "lesson_number": 220,
+    "title": {
+      "ar": "تَدْرِيبَاتُ الْإِعْرَابِ — سُورَةُ الْفَاتِحَةِ",
+      "en": "I'rab XX — Full I'rab Drill: Parsing Al-Fatiha",
+      "my": "ကြိယာ၏ အိအ်ရာဗ် (၂၀) - စူရဟ် ဖွာသိဟဟ်ကို အိအ်ရာဗ်ခွဲခြမ်းစိတ်ဖြာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Full I'rab of Al-Fatiha word by word",
+      "grammar_formula": "Noun/Verb + Case/State = Full Analysis"
+    },
+    "section_1_vocab": [
+      {
+        "word": "الْحَمْدُ",
+        "translit": "al-ḥamdu",
+        "en": "the praise",
+        "my": "ချီးမွမ်းခြင်း",
+        "quran_freq": 60,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "الْفَعْلُ",
+        "root": {
+          "letters": "ဟ မ ဒ",
+          "concept_en": "praise and gratitude",
+          "concept_my": "ချီးမွမ်းခြင်းနှင့် ကျေးဇူးတင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hamd",
+          "image": "A trophy of light",
+          "cross_language": "Malay: Alhamdulillah"
+        },
+        "word_family": [
+          {
+            "ar": "مُحَمَّد",
+            "translit": "Muḥammad",
+            "en": "The Praised One",
+            "my": "မုဟမ္မဒ် (ချီးမွမ်းအပ်သူ)",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "The Damma at the end shows it is the subject (Marfu') of the sentence.",
+        "example": {
+          "ar": "الْحَمْدُ لِلَّهِ",
+          "en": "All praise is for Allah",
+          "my": "ချီးမွမ်းခြင်းအပေါင်းသည် အလ္လာဟ်အရှင်မြတ်အတွက်သာ ဖြစ်သည်",
+          "ref": "1:2"
+        }
+      },
+      {
+        "word": "رَبِّ",
+        "translit": "rabbi",
+        "en": "Lord of",
+        "my": "အရှင်",
+        "quran_freq": 980,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلُ",
+        "root": {
+          "letters": "ရ ဗ ဗ",
+          "concept_en": "nurturing, lordship",
+          "concept_my": "ပြုစုပျိုးထောင်ခြင်း၊ အရှင်သခင်ဖြစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rab",
+          "image": "A gardener tending to a flower",
+          "cross_language": "Malay: Rabb"
+        },
+        "word_family": [
+          {
+            "ar": "رَبَّانِيّ",
+            "translit": "rabbāniyy",
+            "en": "godly person",
+            "my": "သူတော်စင်",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "The Kasra (i) shows it is in the genitive case (Majrur) following Allah.",
+        "example": {
+          "ar": "رَبِّ الْعَالَمِينَ",
+          "en": "Lord of the worlds",
+          "my": "စကြဝဠာအပေါင်းကို ပြုစုပျိုးထောင်တော်မူသောအရှင်",
+          "ref": "1:2"
+        }
+      },
+      {
+        "word": "مَالِكِ",
+        "translit": "māliki",
+        "en": "Owner / King of",
+        "my": "ပိုင်ဆိုင်တော်မူသောအရှင်",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلِ",
+        "root": {
+          "letters": "မ လ က",
+          "concept_en": "possession, kingship",
+          "concept_my": "ပိုင်ဆိုင်ခြင်း၊ ဘုရင်ဖြစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Malik",
+          "image": "A crown",
+          "cross_language": "Malay: Malik"
+        },
+        "word_family": [
+          {
+            "ar": "مَلِك",
+            "translit": "malik",
+            "en": "king",
+            "my": "ဘုရင်",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Fā'il pattern indicates the 'Doer' or 'Owner'.",
+        "example": {
+          "ar": "مَالِكِ يَوْمِ الدِّينِ",
+          "en": "Master of the Day of Judgment",
+          "my": "စီရင်ရာနေ့ကို ပိုင်စိုးတော်မူသောအရှင်",
+          "ref": "1:4"
+        }
+      },
+      {
+        "word": "نَعْبُدُ",
+        "translit": "na'budu",
+        "en": "we worship",
+        "my": "ကျွန်ုပ်တို့ခယဝတ်ပြုကြသည်",
+        "quran_freq": 150,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "نَفْعُلُ",
+        "root": {
+          "letters": "င ဗ ဒ",
+          "concept_en": "service, worship",
+          "concept_my": "အစေခံခြင်း၊ ဝတ်ပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Abudu",
+          "image": "A group in prayer",
+          "cross_language": "Urdu: Ibadat"
+        },
+        "word_family": [
+          {
+            "ar": "عَابِدُون",
+            "translit": "ābidūn",
+            "en": "worshippers",
+            "my": "ဝတ်ပြုသူများ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "The 'Na-' prefix clearly marks 'We' as the subject.",
+        "example": {
+          "ar": "إِيَّاكَ نَعْبُدُ",
+          "en": "You alone we worship",
+          "my": "ကျွန်ုပ်တို့သည် ကိုယ်တော်တစ်ပါးတည်းကိုသာ ခယဝတ်ပြုကြပါသည်",
+          "ref": "1:5"
+        }
+      },
+      {
+        "word": "نَسْتَعِينُ",
+        "translit": "nasta'īnu",
+        "en": "we seek help",
+        "my": "ကျွန်ုပ်တို့အကူအညီတောင်းခံကြသည်",
+        "quran_freq": 10,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "نَسْتَفْعِلُ",
+        "root": {
+          "letters": "င ဝ န",
+          "concept_en": "help, assistance",
+          "concept_my": "အကူအညီ၊ ထောက်ပံ့မှု"
+        },
+        "memory_hook": {
+          "sound": "Inayah (Help)",
+          "image": "Two hands clasping",
+          "cross_language": "Urdu: I'anat"
+        },
+        "word_family": [
+          {
+            "ar": "مُعِين",
+            "translit": "mu'īn",
+            "en": "helper",
+            "my": "ကူညီသူ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The 'Ista-' prefix indicates 'seeking' something.",
+        "example": {
+          "ar": "وَإِيَّاكَ نَسْتَعِينُ",
+          "en": "And You alone we ask for help",
+          "my": "ကိုယ်တော်တစ်ပါးတည်းထံ၌သာ ကျွန်ုပ်တို့ အကူအညီတောင်းခံကြပါသည်",
+          "ref": "1:5"
+        }
+      },
+      {
+        "word": "اهْدِنَا",
+        "translit": "ihdinā",
+        "en": "guide us",
+        "my": "ကျွန်ုပ်တို့အား လမ်းပြတော်မူပါ",
+        "quran_freq": 300,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "افْعِلْ",
+        "root": {
+          "letters": "ဟ ဒ ယ",
+          "concept_en": "guidance",
+          "concept_my": "လမ်းညွှန်မှု"
+        },
+        "memory_hook": {
+          "sound": "Hidayah",
+          "image": "A compass",
+          "cross_language": "Malay: Hidayah"
+        },
+        "word_family": [
+          {
+            "ar": "هُدًى",
+            "translit": "hudan",
+            "en": "guidance",
+            "my": "ဟိဒါယသ် (လမ်းမှန်)",
+            "freq": 80
+          }
+        ],
+        "pattern_unlock": "This is a command form (Amr) used as a request to Allah.",
+        "example": {
+          "ar": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+          "en": "Guide us to the straight path",
+          "my": "ကျွန်ုပ်တို့အား ဖြောင့်မတ်သောလမ်းစဉ်သို့ လမ်းပြတော်မူပါ",
+          "ref": "1:6"
+        }
+      },
+      {
+        "word": "الْمُسْتَقِيمَ",
+        "translit": "al-mustaqīma",
+        "en": "the straight",
+        "my": "ဖြောင့်မတ်သော",
+        "quran_freq": 40,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "الْمُسْتَفْعِلَ",
+        "root": {
+          "letters": "က ဝ မ",
+          "concept_en": "standing, uprightness",
+          "concept_my": "မတ်တပ်ရပ်ခြင်း၊ ဖြောင့်မတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Stadium (straight lines)",
+          "image": "A straight arrow",
+          "cross_language": "Urdu: Mustaqeem"
+        },
+        "word_family": [
+          {
+            "ar": "قَائِم",
+            "translit": "qā'im",
+            "en": "standing",
+            "my": "ရပ်နေသော",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "The Fatha (a) matches 'As-Sirata' because it is an adjective.",
+        "example": {
+          "ar": "الصِّرَاطَ الْمُسْتَقِيمَ",
+          "en": "The straight path",
+          "my": "ဖြောင့်မတ်သောလမ်းစဉ်",
+          "ref": "1:6"
+        }
+      },
+      {
+        "word": "الْمَغْضُوبِ",
+        "translit": "al-maghḍūbi",
+        "en": "those who earned anger",
+        "my": "အမျက်တော်စူးရှခြင်းခံရသူများ",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "الْمَفْعُولِ",
+        "root": {
+          "letters": "ဃ ဿ ဗ",
+          "concept_en": "anger",
+          "concept_my": "အမျက်ထွက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ghadab (Anger)",
+          "image": "A storm cloud",
+          "cross_language": "Malay: Murka"
+        },
+        "word_family": [
+          {
+            "ar": "غَضَب",
+            "translit": "ghadab",
+            "en": "wrath",
+            "my": "အမျက်ဒေါသ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Maf'ūl pattern indicates those to whom something is done.",
+        "example": {
+          "ar": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ",
+          "en": "Not of those who have evoked [Your] anger",
+          "my": "အမျက်တော်စူးရှခြင်းခံရသူတို့၏ လမ်းစဉ်မဟုတ်သော",
+          "ref": "1:7"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْإِعْرَابُ التَّطْبِيقِيُّ لِلسُّورَةِ",
+        "en": "Applied I'rab of the Surah",
+        "my": "သူရာအား လက်တွေ့အိအ်ရာဗ်ခွဲခြမ်းစိတ်ဖြာခြင်း"
+      },
+      "formula": {
+        "display": "Word + Role + Case = I'rab",
+        "example": "الْحَمْدُ = مُبْتَدَأٌ مَرْفُوعٌ",
+        "myanmar_read": "စကားလုံးတစ်ခုချင်းစီ၏ အခန်းကဏ္ဍနှင့် အဆုံးသတ်အသံ (I'rab) ကို ပေါင်းစပ်လေ့လာခြင်း။",
+        "key_insight": "Al-Fatiha is a perfect map of all basic I'rab rules we have studied."
+      },
+      "explanation": {
+        "en": "In this final drill of the phase, we apply all our I'rab knowledge to Surah Al-Fatiha. We look at how 'Al-Hamdu' is Marfu' (Damma) because it starts the sentence, how 'Rabbi' is Majrur (Kasra) because it's a description of Allah, and how the verbs like 'Na'budu' remain Marfu' because no particle changed them. This word-by-word analysis is called 'Tahlil' or 'Parsing'.",
+        "my": "ဤသင်ခန်းစာတွင် ကျွန်ုပ်တို့သင်ယူခဲ့သမျှ အိအ်ရာဗ်အသိပညာများကို စူရဟ်ဖွာသိဟဟ်၌ လက်တွေ့အသုံးချပါမည်။ 'Al-Hamdu' သည် ဝါကျအစဖြစ်၍ ဒမ္မဟ် (Marfu') ဖြစ်ပုံ၊ 'Rabbi' သည် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်ဖြစ်၍ ကပ်စ်ရဟ် (Majrur) ဖြစ်ပုံနှင့် 'Na'budu' ကဲ့သို့သော ကြိယာများသည် မည်သည့်အမှုန်မှ မပြောင်းလဲစေသဖြင့် မူလအတိုင်း Marfu' ဖြစ်နေပုံတို့ကို လေ့လာပါမည်။ ၎င်းကို စကားလုံးချင်းစီ ခွဲခြမ်းစိတ်ဖြာခြင်း (Parsing) ဟု ခေါ်ပါသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we understand the role of a word by the suffix (e.g., -thee, -ko, -e). In Arabic, the 'I'rab' (vowel at the end) performs this same function. Al-Fatiha shows every type of ending clearly.",
+        "my": "မြန်မာစာတွင် 'သည်'၊ 'ကို'၊ '၏' စသည့် နောက်ဆက်တွဲများဖြင့် စကားလုံး၏ အခန်းကဏ္ဍကို သိရသကဲ့သို့၊ အာရဗီတွင် အိအ်ရာဗ် (အဆုံးသတ်အသံ) က ထိုတာဝန်ကို ထမ်းဆောင်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Nouns starting a sentence are Marfu' (Damma).",
+          "rule_my": "ဝါကျအစတွင်ရှိသော နာမ်များသည် Marfu' (ဒမ္မဟ်) ဖြစ်သည်။",
+          "example": {
+            "ar": "الْحَمْدُ",
+            "en": "The praise (Subject)",
+            "my": "ချီးမွမ်းခြင်း (ကတ္တား)"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Nouns following a preposition or in Idafa are Majrur (Kasra).",
+          "rule_my": "ဝိဘတ်နောက်လိုက်သော သို့မဟုတ် ပိုင်ဆိုင်မှုပြသော နာမ်များသည် Majrur (ကပ်စ်ရဟ်) ဖြစ်သည်။",
+          "example": {
+            "ar": "لِلَّهِ / رَبِّ",
+            "en": "For Allah / Lord of",
+            "my": "အလ္လာဟ်အရှင်မြတ်အတွက် / ...၏အရှင်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+          "en": "All praise is for Allah, Lord of the worlds",
+          "my": "ချီးမွမ်းခြင်းဟူသမျှသည် စကြဝဠာအပေါင်းကို ဖန်ဆင်းမွေးမြူတော်မူသော အလ္လာဟ်အရှင်မြတ်အတွက်သာဖြစ်ပါသည်။",
+          "ref": "1:2",
+          "breakdown": {
+            "subject": {
+              "word": "الْحَمْدُ",
+              "en": "The Praise",
+              "note": "Marfu'"
+            },
+            "predicate": {
+              "word": "لِلَّهِ",
+              "en": "is for Allah",
+              "note": "Majrur"
+            }
+          },
+          "myanmar_insight": "အဆုံးသတ်အသံများကို ကြည့်ရုံဖြင့် ဝါကျတည်ဆောက်ပုံကို သိနိုင်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Reciting with wrong endings in prayer",
+          "wrong": {
+            "ar": "الْحَمْدَ لِلَّهِ",
+            "note": "Changed Subject to Object"
+          },
+          "correct": {
+            "ar": "الْحَمْدُ لِلَّهِ",
+            "en": "All praise is for Allah",
+            "my": "ချီးမွမ်းခြင်းအပေါင်းသည် အလ္လာဟ်အရှင်မြတ်အတွက်သာ ဖြစ်သည်"
+          },
+          "myanmar_tip": "နမားဇ်ဝတ်ပြုရာတွင် အဆုံးသတ် ဟရကသ် (Harakat) များကို မှန်ကန်စွာ ဆိုရမည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အတည်ပြုပြီးသောနာမ်နှင့် အတည်မပြုရသေးသောနာမ်များကို ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "مَالِكِ يَوْمِ الدِّينِ",
+              "answer_en": "All three nouns are Majrur (Kasra) due to Idafa",
+              "answer_my": "ပိုင်ဆိုင်မှုပြ (Idafa) ကြောင့် နာမ်သုံးလုံးစလုံးသည် Majrur ဖြစ်သည်",
+              "ref": "1:4"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "إِيَّاكَ نَعْبُدُ",
+              "answer_en": "You alone we worship",
+              "answer_my": "ကိုယ်တော်တစ်ပါးတည်းကိုသာ ကျွန်ုပ်တို့ ခယဝတ်ပြုကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "'Al-' ထည့်၍ အတည်ပြုနာမ်လုပ်ပြီး Damma တင်ပါ",
+          "questions": [
+            {
+              "q": "صِرَاط",
+              "answer_en": "as-ṣirāṭu",
+              "answer_my": "အဆွ်-ဆွိရာတွု (လမ်းစဉ်)",
+              "ar": "الصِّرَاطُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Surah Al-Fatiha is called 'The Essence of the Quran'. By understanding its I'rab, we see how every word is perfectly placed to show Allah's sovereignty and our total dependence on Him.",
+        "my": "စူရဟ်ဖွာသိဟဟ်ကို 'ကုရ်အာန်၏ အနှစ်ချုပ်' ဟု ခေါ်ဆိုသည်။ ၎င်း၏ အိအ်ရာဗ်ကို နားလည်ခြင်းဖြင့် စကားလုံးတိုင်းသည် အလ္လာဟ်အရှင်မြတ်၏ အချုပ်အခြာအာဏာနှင့် ကျွန်ုပ်တို့၏ အရှင်မြတ်အပေါ် မှီခိုအားထားမှုကို မည်သို့ပြသနေကြောင်း သိမြင်နိုင်ပါသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Fatiha 1:5",
+        "study_number": 1,
+        "arabic_full": "إِيَّاك نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "en_sahih": "It is You we worship and You we ask for help.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S1_A5",
+        "audio_ref": {
+          "surah": 1,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/001005.mp3"
+        },
+        "qurancom_url": "https://quran.com/1/5",
+        "context": {
+          "en": "This is the central ayah of the Surah, shifting from praising Allah to our direct relationship and covenant with Him.",
+          "my": "၎င်းသည် ဤသူရာ၏ ဗဟိုချက်မဖြစ်ပြီး၊ အလ္လာဟ်အရှင်မြတ်အား ချီးမွမ်းခြင်းမှ ကျွန်ုပ်တို့နှင့် အရှင်မြတ်အကြား တိုက်ရိုက်ဆက်ဆံရေးသို့ ကူးပြောင်းသွားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "إِيَّاكَ",
+            "translit": "iyyāka",
+            "en": "You alone",
+            "my": "ကိုယ်တော်တစ်ပါးတည်းကိုသာ",
+            "role_en": "Object (Mansub)",
+            "role_my": "ကံပုဒ် (နဆွဗ်)",
+            "root": "N/A",
+            "freq": 20
+          },
+          {
+            "ar": "نَعْبُدُ",
+            "translit": "na'budu",
+            "en": "we worship",
+            "my": "ကျွန်ုပ်တို့ခယဝတ်ပြုသည်",
+            "role_en": "Verb (Marfu')",
+            "role_my": "ကြိယာ (မာရ်ဖူအ်)",
+            "root": "င ဗ ဒ",
+            "freq": 150
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The object 'Iyyaka' is placed before the verb 'Na'budu' to indicate exclusivity (Only You).",
+          "structure_my": "'Iyyaka' (ကိုယ်တော်ကိုသာ) ဟူသော ကံပုဒ်ကို ကြိယာ၏ရှေ့တွင် ထားခြင်းဖြင့် 'သီးသန့်ဖြစ်မှု' (ကိုယ်တော်တစ်ပါးတည်းသာ) ကို ဖော်ပြသည်။",
+          "insight_en": "Grammatically, the normal order would be 'Na'budu iyyaka'. By reversing it, the meaning becomes 'Only You and no one else'.",
+          "insight_my": "သဒ္ဒါအရ 'Na'budu iyyaka' ဟု ဆိုရမည်ဖြစ်သော်လည်း၊ ပြောင်းပြန်လှန်လိုက်ခြင်းဖြင့် 'ကိုယ်တော်တစ်ပါးတည်းကိုသာ' ဟူသော အဓိပ္ပာယ် ပေါ်ထွက်လာသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "င ဝ န",
+            "concept_en": "Seeking aid beyond one's capacity",
+            "concept_my": "မိမိ၏ တတ်စွမ်းနိုင်မှုထက် ကျော်လွန်သော အကူအညီကို တောင်းခံခြင်း",
+            "members": [
+              {
+                "ar": "عَوْن",
+                "en": "Aid",
+                "my": "အကူအညီ",
+                "freq": 1
+              }
+            ],
+            "professors_note": "Isti'ana implies that you are already trying your best but need Divine power to complete the task."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် တစ်နေ့လျှင် အနည်းဆုံး ၁၇ ကြိမ် ဤစကားလုံးများကို ဆိုကြသည်။ 'အိယားက နအ်ဗုဒု' - ကျွန်ုပ်တို့သည် ကိုယ်တော်ကိုသာ ကိုးကွယ်ပါသည်၊ 'အိယားက နပ်စ်သအီးန်' - ကိုယ်တော်ထံ၌သာ အကူအညီတောင်းပါသည်ဟု ကတိပြုခြင်းဖြစ်သည်။ ဤသဒ္ဒါကို နားလည်ခြင်းဖြင့် ကျွန်ုပ်တို့၏ ဝတ်ပြုမှုသည် ပိုမိုအဓိပ္ပာယ်ရှိလာပြီး အလ္လာဟ်အရှင်မြတ်အပေါ် ယုံကြည်ကိုးစားမှု ပိုမိုနက်ရှိုင်းလာစေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Iyyaka na'budu - wa iyyaka nasta'een (Symmetrical balance)",
+          "meaning_anchor": "Two pillars: Worship and Help. One cannot stand without the other.",
+          "daily_connection": "Recite slowly in Salat, focusing on the 'Na-' (We) that includes the whole Muslim community.",
+          "my": "စည်းချက်ညီသော ဟန်ချက်ညီမှုကို သတိပြုပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We concluded Phase 5 by parsing Surah Al-Fatiha. You can now see the grammar live in every ayah you recite, making your prayer a truly linguistic and spiritual experience.",
+      "my": "ကျွန်ုပ်တို့သည် Phase 5 ကို စူရဟ်ဖွာသိဟဟ်၏ အိအ်ရာဗ်ဖြင့် နိဂုံးချုပ်ခဲ့ပါသည်။ ယခုအခါ သင်သည် ကုရ်အာန်ဖတ်တိုင်း သဒ္ဒါများကို လက်တွေ့မြင်နိုင်ပြီဖြစ်ပြီး သင်၏ ဝတ်ပြုကိုးကွယ်မှုသည် ပိုမိုထူးခြားလာမည်ဖြစ်သည်။"
+    }
+  }
+]

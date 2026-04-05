@@ -1,0 +1,2277 @@
+[
+  {
+    "lesson_id": "L3-146",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 146,
+    "title": {
+      "ar": "الشَّرْطُ (١) — إِنْ الشَّرْطِيَّةُ",
+      "en": "Conditionals I — In (إِنْ): The Simple If-Clause",
+      "my": "အခြေအနေပြဝါကျများ (၁) — အကယ်၍ (إِنْ)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "In + Jazm in both Shart and Jawāb clauses",
+      "grammar_formula": "إِنْ + Shart (Jazm) + Jawāb (Jazm) = IF X happens, THEN Y happens"
+    },
+    "section_1_vocab": [
+      {
+        "word": "تُبْتُمْ",
+        "translit": "tubtum",
+        "en": "you (plural) repented",
+        "my": "သင်တို့ နောင်တရခဲ့ကြသည်",
+        "quran_freq": 87,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلْتُمْ",
+        "root": {
+          "letters": "ت و ب",
+          "concept_en": "returning to Allah/repentance",
+          "concept_my": "အလ္လာဟ်အရှင်မြတ်ထံ ပြန်လှည့်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tube",
+          "image": "Turning around in a tube to go back to the right path",
+          "cross_language": "Taubah (Urdu/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "تَابَ",
+            "translit": "tāba",
+            "en": "he repented",
+            "my": "သူနောင်တရသည်",
+            "freq": 35
+          }
+        ],
+        "pattern_unlock": "Verbs with 'Waw' in the middle often drop it in the past tense 'you' form.",
+        "example": {
+          "ar": "إِنْ تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ",
+          "en": "If you repent, it is better for you",
+          "my": "အကယ်၍ သင်တို့ နောင်တရလျှင် ၎င်းသည် သင်တို့အတွက် ပို၍ကောင်း၏",
+          "ref": "9:3"
+        }
+      },
+      {
+        "word": "آتَيْتُمْ",
+        "translit": "ātaytum",
+        "en": "you (plural) gave/brought",
+        "my": "သင်တို့ ပေးခဲ့သည်/ယူဆောင်လာခဲ့သည်",
+        "quran_freq": 270,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلْتُمْ",
+        "root": {
+          "letters": "أ ت ي",
+          "concept_en": "coming or bringing something",
+          "concept_my": "လာခြင်း သို့မဟုတ် ယူဆောင်လာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "At-them",
+          "image": "Bringing a gift at them",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "آتَى",
+            "translit": "ātā",
+            "en": "he gave",
+            "my": "သူပေးခဲ့သည်",
+            "freq": 150
+          }
+        ],
+        "pattern_unlock": "The Madd (آ) often indicates a causative meaning: to make something come (to give).",
+        "example": {
+          "ar": "فَإِنْ آتَيْتُمْ",
+          "en": "So if you give",
+          "my": "သို့ဖြစ်၍ အကယ်၍ သင်တို့ပေးလျှင်",
+          "ref": "2:233"
+        }
+      },
+      {
+        "word": "تَعُودُوا",
+        "translit": "ta'ūdū",
+        "en": "you (plural) return",
+        "my": "သင်တို့ ပြန်လာကြသည်",
+        "quran_freq": 35,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "تَفْعُلُوا",
+        "root": {
+          "letters": "ع و د",
+          "concept_en": "returning to a previous state",
+          "concept_my": "ယခင်အခြေအနေသို့ ပြန်သွားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Audi",
+          "image": "Returning home in an Audi car",
+          "cross_language": "I'dah (Arabic-Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "عِيد",
+            "translit": "'īd",
+            "en": "festival (returning joy)",
+            "my": "ပွဲတော်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The plural ending -ū (without noon) signals the conditional Jussive state.",
+        "example": {
+          "ar": "وَإِنْ تَعُودُوا نَعُدْ",
+          "en": "And if you return [to sin], We will return [to punishment]",
+          "my": "အကယ်၍ သင်တို့သည် (ပြစ်မှုဘက်သို့) ပြန်လှည့်ကြလျှင် ငါအရှင်မြတ်သည်လည်း (အပြစ်ပေးရန်) ပြန်လှည့်တော်မူအံ့",
+          "ref": "8:19"
+        }
+      },
+      {
+        "word": "يَشَأْ",
+        "translit": "yasha'",
+        "en": "He wills",
+        "my": "သူအလိုရှိတော်မူသည်",
+        "quran_freq": 236,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلْ",
+        "root": {
+          "letters": "ش ي ء",
+          "concept_en": "willing or wanting something",
+          "concept_my": "အလိုရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Yash",
+          "image": "Wishing for a 'Yash' (success)",
+          "cross_language": "Insha-Allah"
+        },
+        "word_family": [
+          {
+            "ar": "شَيْء",
+            "translit": "shay'",
+            "en": "a thing",
+            "my": "အရာဝတ္ထု",
+            "freq": 500
+          }
+        ],
+        "pattern_unlock": "The Sukun on the last letter is caused by the preceding 'In'.",
+        "example": {
+          "ar": "إِن يَّشَأْ يُذْهِبْكُمْ",
+          "en": "If He wills, He can do away with you",
+          "my": "အကယ်၍ အရှင်မြတ်အလိုရှိပါက သင်တို့ကို ဖယ်ရှားတော်မူနိုင်၏",
+          "ref": "14:19"
+        }
+      },
+      {
+        "word": "تَنْصُرُوا",
+        "translit": "tanṣurū",
+        "en": "you (plural) help",
+        "my": "သင်တို့ ကူညီကြသည်",
+        "quran_freq": 90,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "تَنْصُرُوا",
+        "root": {
+          "letters": "ن ص ر",
+          "concept_en": "victory and support",
+          "concept_my": "အောင်နိုင်မှုနှင့် အထောက်အပံ့"
+        },
+        "memory_hook": {
+          "sound": "Nusrat",
+          "image": "Asking for Nusrat (help)",
+          "cross_language": "Nasir (Name)"
+        },
+        "word_family": [
+          {
+            "ar": "نَصْر",
+            "translit": "naṣr",
+            "en": "help/victory",
+            "my": "အကူအညီ",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Helping Allah (His religion) leads to His help.",
+        "example": {
+          "ar": "إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ",
+          "en": "If you help Allah, He will help you",
+          "my": "အကယ်၍ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကို (အရှင်မြတ်၏သာသနာကို) ကူညီကြလျှင် အရှင်မြတ်သည် သင်တို့ကို ကူညီတော်မူအံ့",
+          "ref": "47:7"
+        }
+      },
+      {
+        "word": "يَغْفِرْ",
+        "translit": "yaghfir",
+        "en": "He forgives",
+        "my": "သူခွင့်လွှတ်တော်မူသည်",
+        "quran_freq": 120,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعِلْ",
+        "root": {
+          "letters": "غ ف ر",
+          "concept_en": "covering or forgiving sins",
+          "concept_my": "အပြစ်များကို ဖုံးအုပ်ခြင်း သို့မဟုတ် ခွင့်လွှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Gaff",
+          "image": "Covering a 'gaff' (mistake)",
+          "cross_language": "Istighfar"
+        },
+        "word_family": [
+          {
+            "ar": "غَفُور",
+            "translit": "ghafūr",
+            "en": "All-Forgiving",
+            "my": "အလွန်ခွင့်လွှတ်တော်မူသောအရှင်",
+            "freq": 91
+          }
+        ],
+        "pattern_unlock": "The Jussive (Sukun) reflects the result of a condition.",
+        "example": {
+          "ar": "إِن يَّعْلَمِ اللَّهُ فِي قُلُوبِكُمْ خَيْرًا يُؤْتِكُمْ خَيْرًا",
+          "en": "If Allah knows any good in your hearts, He will give you better",
+          "my": "အကယ်၍ အလ္လာဟ်အရှင်မြတ်သည် သင်တို့၏ စိတ်နှလုံးထဲ၌ ကောင်းမြတ်မှုကို တွေ့ရှိပါက သင်တို့ကို ပို၍ကောင်းမြတ်သောအရာကို ပေးသနားတော်မူအံ့",
+          "ref": "8:70"
+        }
+      },
+      {
+        "word": "يَرْحَمْ",
+        "translit": "yarḥam",
+        "en": "He has mercy",
+        "my": "သူကရုဏာသက်တော်မူသည်",
+        "quran_freq": 160,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلْ",
+        "root": {
+          "letters": "ر ح م",
+          "concept_en": "mercy and compassion",
+          "concept_my": "ကရုဏာနှင့် သနားကြင်နာမှု"
+        },
+        "memory_hook": {
+          "sound": "Rahma",
+          "image": "Raining mercy (Rahma)",
+          "cross_language": "Rahman/Rahim"
+        },
+        "word_family": [
+          {
+            "ar": "رَحْمَة",
+            "translit": "raḥmah",
+            "en": "mercy",
+            "my": "ကရုဏာ",
+            "freq": 114
+          }
+        ],
+        "pattern_unlock": "Conditionals connect human action to Divine response.",
+        "example": {
+          "ar": "وَإِنْ عُدْتُمْ عُدْنَا",
+          "en": "But if you return [to sin], We will return [to punishment]",
+          "my": "အကယ်၍ သင်တို့သည် (အပြစ်ဘက်သို့) ပြန်လှည့်ကြလျှင် ငါအရှင်မြတ်သည်လည်း (အပြစ်ပေးရန်) ပြန်လှည့်တော်မူအံ့",
+          "ref": "17:8"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أُسْلُوبُ الشَّرْطِ",
+        "en": "The Conditional Structure",
+        "my": "အခြေအနေပြဝါကျ တည်ဆောက်ပုံ"
+      },
+      "formula": {
+        "display": "إِنْ + Shart (v) + Jawab (v)",
+        "example": "إِنْ تَنْصُرُوا اللَّهَ يَنْصُرْكُمْ",
+        "myanmar_read": "အကယ်၍ (အခြေအနေ) ဖြစ်လျှင် (ရလဒ်) ဖြစ်လိမ့်မည်",
+        "key_insight": "The word 'In' acts like a pair of scissors, cutting off the endings of both the condition and the result verbs (Jazm)."
+      },
+      "explanation": {
+        "en": "The particle 'In' (إِنْ) introduces a hypothetical condition. It requires two parts: the Shart (the condition) and the Jawāb (the response/result). Both verbs are usually placed in the Jussive state (Majzum), which means they end in a Sukun or drop their final 'Noon' in plural forms.",
+        "my": "'In' (إِنْ) သည် အကယ်၍ဟု အဓိပ္ပာယ်ရပြီး အခြေအနေတစ်ခုကို ဖော်ပြသည်။ ၎င်းတွင် အစိတ်အပိုင်းနှစ်ခုပါဝင်သည် - အခြေအနေ (Shart) နှင့် ရလဒ် (Jawab)။ ဤအစိတ်အပိုင်းနှစ်ခုလုံးရှိ ကြိယာများသည် Jussive state (Majzum) ဖြစ်ရမည်။ ဆိုလိုသည်မှာ ကြိယာအဆုံးတွင် Sukun ဖြစ်နေရမည် သို့မဟုတ် အများကိန်းတွင် 'Noon' အက္ခရာ ပြုတ်သွားရမည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we use 'lyin' (လျှင်) at the end of the first clause, whereas Arabic uses 'In' at the beginning.",
+        "my": "မြန်မာဘာသာတွင် 'လျှင်' ကို ဝါကျ၏အဆုံးတွင် သုံးသော်လည်း အာရပ်ဘာသာတွင် 'In' ကို ဝါကျ၏အစတွင် သုံးသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Both the condition and result verbs must be Majzum (Jussive).",
+          "rule_my": "အခြေအနေနှင့် ရလဒ် ကြိယာနှစ်ခုလုံးသည် Majzum ဖြစ်ရမည်။",
+          "example": {
+            "ar": "إِنْ تَعُدْ نَعُدْ",
+            "en": "If you return, we return.",
+            "my": "သင်ပြန်လျှင် ငါတို့ပြန်မည်။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ",
+          "en": "If you support Allah, He will support you",
+          "my": "(၇) အို-အီမာန်ယုံကြည်သူအပေါင်းတို့၊ အကယ်၍ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကူညီကြလျှင်အရှင်မြတ်ကလည်း အသင်တို့အား ကူညီတော်မူမည်။ ၂ ထို့ပြင် အရှင်မြတ်သည် အသင်တို့၏ ခြေများကို မြဲမြံကြံ့ခိုင်စေတော်မူမည်။",
+          "ref": "47:7",
+          "breakdown": {
+            "subject": {
+              "word": "إِن تَنصُرُوا۟",
+              "en": "If you help",
+              "note": "Condition (Shart)"
+            },
+            "predicate": {
+              "word": "يَنصُرْكُمْ",
+              "en": "He will help you",
+              "note": "Result (Jawab)"
+            }
+          },
+          "myanmar_insight": "Notice how 'Tan-suru' dropped its 'Noon' because of 'In'."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting to apply Sukun to the second verb (the result).",
+          "wrong": {
+            "ar": "إِنْ تَذْهَبْ أَذْهَبُ",
+            "note": "The second verb should be Majzum too."
+          },
+          "correct": {
+            "ar": "إِنْ تَذْهَبْ أَذْهَبْ",
+            "en": "If you go, I go.",
+            "my": "မင်းသွားရင် ငါသွားမယ်။"
+          },
+          "myanmar_tip": "In ကြောင့် နှစ်ဖက်လုံးမှာ အသံရပ် (Sukun) ဖြစ်ရမယ်ဆိုတာ မှတ်ထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အောက်ပါဝါကျတွင် အခြေအနေပြကြိယာနှင့် ရလဒ်ပြကြိယာကို ရှာပါ",
+          "questions": [
+            {
+              "q": "إِنْ يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ",
+              "answer_en": "Shart: yamsaska, Jawab: la kashifa",
+              "answer_my": "Shart: yamsaska, Jawab: la kashifa",
+              "ref": "6:17"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "إِنْ تَعُودُوا نَعُدْ",
+              "answer_en": "If you return, We return",
+              "answer_my": "သင်တို့ပြန်လှည့်လျှင် ငါတို့ပြန်လှည့်မည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "အောက်ပါကြိယာကို 'In' နှင့်တွဲ၍ Jussive ဖြစ်အောင်လုပ်ပါ",
+          "questions": [
+            {
+              "q": "تَنْصُرُونَ",
+              "answer_en": "in tanṣurū",
+              "answer_my": "in tanṣurū",
+              "ar": "إِنْ تَنْصُرُوا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Allah's relationship with us is often framed in conditionals to show that our choices matter; if we take one step toward Him, He takes many toward us.",
+        "my": "အလ္လာဟ်အရှင်မြတ်နှင့် ကျွန်ုပ်တို့၏ ဆက်ဆံရေးသည် ကျွန်ုပ်တို့၏ ရွေးချယ်မှုအပေါ် မူတည်ကြောင်း ဤဝါကျတည်ဆောက်ပုံက ပြသနေသည်။ ကျွန်ုပ်တို့ဘက်မှ စတင်ခြေလှမ်းလျှင် အရှင်မြတ်ဘက်မှ ကရုဏာဖြင့် တုံ့ပြန်မည်ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Muhammad 47:7",
+        "study_number": 1,
+        "arabic_full": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تَنصُرُوا اللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+        "en_sahih": "O you who have believed, if you support Allah, He will support you and plant firmly your feet.",
+        "my_mmsy": "(၇) အို-အီမာန်ယုံကြည်သူအပေါင်းတို့၊ အကယ်၍ အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကူညီကြလျှင်အရှင်မြတ်ကလည်း အသင်တို့အား ကူညီတော်မူမည်။ ၂ ထို့ပြင် အရှင်မြတ်သည် အသင်တို့၏ ခြေများကို မြဲမြံကြံ့ခိုင်စေတော်မူမည်။",
+        "audio_ref": {
+          "surah": 47,
+          "ayah": 7,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/047007.mp3"
+        },
+        "qurancom_url": "https://quran.com/47/7",
+        "context": {
+          "en": "This Surah was revealed in Medina. It encourages the believers to be steadfast in their faith and actions, promising Divine support for those who act for Allah's sake.",
+          "my": "ဤစူရာဟ်သည် မဒီနာမြို့တွင် ကျရောက်ခဲ့သည်။ အလ္လာဟ်အရှင်မြတ်၏ လမ်းစဉ်အတွက် ကြိုးပမ်းသူများကို အရှင်မြတ်က ကူညီမည့်အကြောင်းနှင့် ယုံကြည်သူများကို ကြံ့ကြံ့ခံရန် တိုက်တွန်းထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "تَنصُرُوا",
+            "translit": "tanṣurū",
+            "en": "you support",
+            "my": "သင်တို့ ကူညီကြသည်",
+            "role_en": "Conditional Verb",
+            "role_my": "အခြေအနေပြကြိယာ",
+            "root": "ن ص ر",
+            "freq": 90
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of 'In' makes the reward of support dependent on the action of supporting the Deen.",
+          "structure_my": "'In' ကို အသုံးပြုခြင်းဖြင့် သာသနာကို ကူညီခြင်းဟူသော လုပ်ရပ်အပေါ်တွင် အရှင်မြတ်၏ ကူညီမှုရလဒ်သည် မူတည်နေကြောင်း ဖော်ပြသည်။",
+          "insight_en": "The Jussive mood in 'Yansur' emphasizes the certainty of the response once the condition is met.",
+          "insight_my": "'Yansur' တွင် Jussive (Sukun) သုံးထားခြင်းသည် အခြေအနေ ပြည့်စုံပါက ရလဒ်မှာ မုချဖြစ်လာမည်ကို အလေးပေးဖော်ပြခြင်းဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ن ص ر",
+            "concept_en": "Giving strength against an enemy or providing aid to overcome a difficulty.",
+            "concept_my": "ရန်သူကို အောင်နိုင်ရန် ခွန်အားပေးခြင်း သို့မဟုတ် အခက်အခဲကို ကျော်လွှားရန် အကူအညီပေးခြင်း။",
+            "members": [
+              {
+                "ar": "نَاصِر",
+                "en": "Helper",
+                "my": "ကူညီသူ",
+                "freq": 5
+              }
+            ],
+            "professors_note": "Nasr is not just any help; it is help that leads to a definitive victory."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် မြန်မာမွတ်စလင်မ်လူငယ်များအတွက် အလွန်အားတက်ဖွယ်ဖြစ်သည်။ ကျွန်ုပ်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ သာသနာတော်ကို မိမိတို့၏ အကျင့်စာရိတ္တ၊ ပညာရေးနှင့် လူမှုရေးလုပ်ငန်းများဖြင့် ကူညီမည်ဆိုပါက အရှင်မြတ်သည် ကျွန်ုပ်တို့၏ဘဝခရီးလမ်းတွင် အခိုင်အမာရပ်တည်နိုင်ရန် ကူညီမစမည်ဖြစ်သည်။ အရှင်မြတ်၏ အကူအညီသည် ကျွန်ုပ်တို့၏ ကြိုးစားမှုအပေါ်တွင် မူတည်နေသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah has a balanced rhythm: In-Tansuru-Allah... Yansur-kum.",
+          "meaning_anchor": "Imagine two pillars: your support for Islam is one, and Allah's support for you is the matching one.",
+          "daily_connection": "Recite this when facing a challenge where you need to stand firm for your principles.",
+          "my": "ဝါကျ၏ စည်းချက်မှာ မျှတသည်။ 'အင်-သန်ဆုရု-လော... ယန်ဆုရ်-ကွန်' ဟု အလွယ်တကူ ကျက်မှတ်နိုင်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we learned how to form 'If-Then' sentences using 'In'. This structure is vital for understanding the promises and warnings in the Quran, where actions are linked to consequences through the Jussive state.",
+      "my": "ဤသင်ခန်းစာတွင် 'In' ကို အသုံးပြု၍ 'အကယ်၍...လျှင်' ဝါကျများ တည်ဆောက်ပုံကို လေ့လာခဲ့သည်။ ကုရ်အာန်ရှိ ကတိတော်များနှင့် သတိပေးချက်များကို နားလည်ရန် ဤတည်ဆောက်ပုံသည် အလွန်အရေးကြီးပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-147",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 147,
+    "title": {
+      "ar": "الشَّرْطُ (٢) — إِذَا الشَّرْطِيَّةُ",
+      "en": "Conditionals II — Idhā (إِذَا): When / If (Certain Condition)",
+      "my": "အခြေအနေပြဝါကျများ (၂) — သည့်အခါ (إِذَا)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Idhā for expected/likely conditions; stronger certainty than In",
+      "grammar_formula": "إِذَا + Past Tense Verb = WHEN X happens (Certainty)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "جَاءَ",
+        "translit": "jā'a",
+        "en": "he came",
+        "my": "သူလာခဲ့သည်",
+        "quran_freq": 278,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ج ي أ",
+          "concept_en": "coming or arriving",
+          "concept_my": "ရောက်ရှိလာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Jar",
+          "image": "A jar arriving at your doorstep",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مَجِيء",
+            "translit": "majī'",
+            "en": "coming/arrival",
+            "my": "ရောက်ရှိခြင်း",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "This verb often takes the subject after it: 'When comes the help of Allah'.",
+        "example": {
+          "ar": "إِذَا جَاءَ نَصْرُ اللَّهِ",
+          "en": "When the victory of Allah comes",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ကူညီစောင်မမှု ရောက်ရှိလာသောအခါ",
+          "ref": "110:1"
+        }
+      },
+      {
+        "word": "زُلْزِلَتِ",
+        "translit": "zulzilat",
+        "en": "it is shaken",
+        "my": "၎င်းသည် တုန်ခါခြင်းခံရသည်",
+        "quran_freq": 6,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فُعْلِلَتْ",
+        "root": {
+          "letters": "ز ل ز ل",
+          "concept_en": "earthquake or shaking",
+          "concept_my": "ငလျင်လှုပ်ခြင်း သို့မဟုတ် တုန်ခါခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Zilzal",
+          "image": "A zigzag movement on the ground",
+          "cross_language": "Zilzal (Surah name)"
+        },
+        "word_family": [
+          {
+            "ar": "زِلْزَال",
+            "translit": "zilzāl",
+            "en": "earthquake",
+            "my": "ငလျင်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Four-letter roots often repeat sounds (Zal-Zal) to indicate repeated action.",
+        "example": {
+          "ar": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+          "en": "When the earth is shaken with its [final] earthquake",
+          "my": "ကမ္ဘာမြေသည် ၎င်း၏ ပြင်းထန်သော တုန်ခါမှုဖြင့် တုန်ခါသောအခါ",
+          "ref": "99:1"
+        }
+      },
+      {
+        "word": "وَقَعَتِ",
+        "translit": "waqa'at",
+        "en": "it occurred/fell",
+        "my": "၎င်းဖြစ်ပွားသည်/ကျရောက်သည်",
+        "quran_freq": 24,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فَعَلَتْ",
+        "root": {
+          "letters": "و ق ع",
+          "concept_en": "happening or falling down",
+          "concept_my": "ဖြစ်ပျက်ခြင်း သို့မဟုတ် ကျဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Waka",
+          "image": "Something falling with a 'waka' sound",
+          "cross_language": "Waqi'ah (Surah name)"
+        },
+        "word_family": [
+          {
+            "ar": "الْوَاقِعَةُ",
+            "translit": "al-wāqi'ah",
+            "en": "The Event/Inevitable",
+            "my": "မုချဖြစ်ပျက်မည့်အရာ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "This root implies an event that cannot be stopped once it starts.",
+        "example": {
+          "ar": "إِذَا وَقَعَتِ الْوَاقِعَةُ",
+          "en": "When the Occurrence occurs",
+          "my": "မုချဖြစ်ပျက်မည့် (ရှင်ပြန်ထမြောက်ရာနေ့) ဖြစ်ပေါ်လာသောအခါ",
+          "ref": "56:1"
+        }
+      },
+      {
+        "word": "رَأَيْتَ",
+        "translit": "ra'ayta",
+        "en": "you saw",
+        "my": "သင်မြင်ခဲ့သည်",
+        "quran_freq": 328,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلْتَ",
+        "root": {
+          "letters": "ر أ ي",
+          "concept_en": "seeing with eyes or heart",
+          "concept_my": "မျက်စိ သို့မဟုတ် နှလုံးသားဖြင့် မြင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ray",
+          "image": "A ray of light helping you see",
+          "cross_language": "Ru'ya (vision)"
+        },
+        "word_family": [
+          {
+            "ar": "رُؤْيَا",
+            "translit": "ru'yā",
+            "en": "vision/dream",
+            "my": "အိပ်မက်/မြင်ကွင်း",
+            "freq": 7
+          }
+        ],
+        "pattern_unlock": "After 'Idha', the past tense 'Ra'ayta' can mean 'when you see' (future).",
+        "example": {
+          "ar": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ",
+          "en": "And you see the people entering",
+          "my": "လူသားတို့သည် (အုပ်စုလိုက်) ဝင်ရောက်နေကြသည်ကို သင်မြင်ရသောအခါ",
+          "ref": "110:2"
+        }
+      },
+      {
+        "word": "أَظْلَمَ",
+        "translit": "aẓlama",
+        "en": "it became dark",
+        "my": "မှောင်မိုက်သွားသည်",
+        "quran_freq": 23,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "ظ ل م",
+          "concept_en": "darkness or injustice",
+          "concept_my": "အမှောင် သို့မဟုတ် မတရားမှု"
+        },
+        "memory_hook": {
+          "sound": "A-Zulm",
+          "image": "A dark room where injustice happens",
+          "cross_language": "Zulmat (Urdu/Arabic)"
+        },
+        "word_family": [
+          {
+            "ar": "ظُلُمَات",
+            "translit": "ẓulumāt",
+            "en": "darknesses",
+            "my": "အမှောင်ထုများ",
+            "freq": 23
+          }
+        ],
+        "pattern_unlock": "The root 'Z-L-M' links physical darkness to spiritual darkness (wrongdoing).",
+        "example": {
+          "ar": "وَإِذَا أَظْلَمَ عَلَيْهِمْ قَامُوا",
+          "en": "And when it becomes dark for them, they stand [still]",
+          "my": "၎င်းတို့အပေါ် အမှောင်ဖုံးလွှမ်းသွားသောအခါ ၎င်းတို့သည် ရပ်တန့်သွားကြကုန်၏",
+          "ref": "2:20"
+        }
+      },
+      {
+        "word": "انشَقَّتِ",
+        "translit": "inshaqqat",
+        "en": "it split asunder",
+        "my": "၎င်းကွဲအက်သွားသည်",
+        "quran_freq": 5,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "انْفَعَلَتْ",
+        "root": {
+          "letters": "ش ق ق",
+          "concept_en": "splitting or tearing",
+          "concept_my": "ကွဲအက်ခြင်း သို့မဟုတ် ဆုတ်ဖြဲခြင်း"
+        },
+        "memory_hook": {
+          "sound": "In-shak",
+          "image": "In shock when something splits open",
+          "cross_language": "Inshiqaq (Surah name)"
+        },
+        "word_family": [
+          {
+            "ar": "شِقَاق",
+            "translit": "shiqāq",
+            "en": "schism/dissension",
+            "my": "ကွဲပြားမှု",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "The 'In-' prefix often means something happens to the subject (passive-like).",
+        "example": {
+          "ar": "إِذَا السَّمَاءُ انشَقَّتْ",
+          "en": "When the sky has split asunder",
+          "my": "မိုးကောင်းကင်သည် ကွဲအက်သွားသောအခါ",
+          "ref": "84:1"
+        }
+      },
+      {
+        "word": "فَتَحْنَا",
+        "translit": "fataḥnā",
+        "en": "We opened",
+        "my": "ငါတို့ဖွင့်လှစ်ခဲ့သည်",
+        "quran_freq": 38,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "فَعَلْنَا",
+        "root": {
+          "letters": "ف ت ح",
+          "concept_en": "opening or victory",
+          "concept_my": "ဖွင့်လှစ်ခြင်း သို့မဟုတ် အောင်ပွဲ"
+        },
+        "memory_hook": {
+          "sound": "Fata",
+          "image": "Opening a fat book",
+          "cross_language": "Al-Fatihah"
+        },
+        "word_family": [
+          {
+            "ar": "فَتْح",
+            "translit": "fatḥ",
+            "en": "victory/opening",
+            "my": "အောင်ပွဲ",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "Opening is a prerequisite for victory or abundance.",
+        "example": {
+          "ar": "حَتَّىٰ إِذَا فَتَحْنَا عَلَيْهِم",
+          "en": "Until, when We have opened for them",
+          "my": "ငါအရှင်မြတ်သည် ၎င်းတို့အပေါ်၌ ဖွင့်လှစ်ပေးတော်မူသည့်အခါ",
+          "ref": "23:77"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "إِذَا الشَّرْطِيَّةُ",
+        "en": "The Certain Conditional (When)",
+        "my": "အတည်ပြုအခြေအနေပြဝါကျ (သောအခါ)"
+      },
+      "formula": {
+        "display": "إِذَا + Noun/Past Verb",
+        "example": "إِذَا جَاءَ نَصْرُ اللَّهِ",
+        "myanmar_read": "(ဖြစ်ရပ်) ဖြစ်ပွားသောအခါ",
+        "key_insight": "While 'In' is used for things that might happen, 'Idha' is used for things that will happen or happen regularly."
+      },
+      "explanation": {
+        "en": "'Idha' (إِذَا) is a conditional noun that functions like 'When'. Unlike 'In', it usually doesn't make the verbs Jussive (Majzum). It is frequently followed by a past tense verb to describe a future event that is guaranteed to occur, such as the Day of Judgment.",
+        "my": "'Idha' (إِذَا) သည် 'သောအခါ' ဟု အဓိပ္ပာယ်ရသော အခြေအနေပြပုဒ်ဖြစ်သည်။ 'In' နှင့်မတူသည်မှာ ၎င်းသည် ကြိယာများကို Majzum ဖြစ်စေရန် အမြဲတမ်းမလိုအပ်ပါ။ ၎င်းနောက်တွင် အတိတ်ကာလကြိယာများ လိုက်လေ့ရှိသော်လည်း အနာဂတ်တွင် မုချဖြစ်ပျက်မည့် (ဥပမာ - ကိယာမတ်နေ့ကဲ့သို့) အရာများကို ဖော်ပြရန် သုံးသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we distinguish between 'yin' (if) and 'thaw-akhar' (when). Arabic uses 'In' and 'Idha' similarly.",
+        "my": "မြန်မာဘာသာတွင် 'ရင်' (အကယ်၍) နှင့် 'သောအခါ' ဟု ခွဲခြားသကဲ့သို့ အာရပ်ဘာသာတွင်လည်း 'In' နှင့် 'Idha' ဟု ခွဲခြားထားသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "'Idha' is often followed by a past tense verb, but it refers to a future certainty.",
+          "rule_my": "'Idha' နောက်တွင် အတိတ်ကာလကြိယာ လိုက်လေ့ရှိသော်လည်း အနာဂတ်တွင် သေချာပေါက် ဖြစ်မည့်အရာကို ဆိုလိုသည်။",
+          "example": {
+            "ar": "إِذَا وَقَعَتِ",
+            "en": "When it occurs (future).",
+            "my": "ကျရောက်သောအခါ (အနာဂတ်)။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِذَا جَاءَ نَصْرُ اللَّهِ",
+          "en": "When the victory of Allah comes",
+          "my": "(၁) အလ္လာဟ်အရှင်မြတ်၏အကူအညီနှင့်အောင်နိုင်မှု  ၁ ရောက်ရှိလာခဲ့သည့်အခါ။",
+          "ref": "110:1",
+          "breakdown": {
+            "subject": {
+              "word": "إِذَا",
+              "en": "When",
+              "note": "Time/Condition"
+            },
+            "predicate": {
+              "word": "جَاءَ نَصْرُ اللَّهِ",
+              "en": "Allah's victory comes",
+              "note": "Event"
+            }
+          },
+          "myanmar_insight": "Notice that 'Jā'a' is past tense but translated as future certainty."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing 'Idha' with 'Idhin' (then/at that time).",
+          "wrong": {
+            "ar": "إِذًا جَاءَ",
+            "note": "'Idhan' means 'consequently', not 'when'."
+          },
+          "correct": {
+            "ar": "إِذَا جَاءَ",
+            "en": "When it comes",
+            "my": "ရောက်လာတဲ့အခါ"
+          },
+          "myanmar_tip": "Alif ပါတဲ့ 'Idha' က အခြေအနေပြတာ ဖြစ်ပါတယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အောက်ပါဝါကျတွင် 'Idha' ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "فَإِذَا نُقِرَ فِي النَّاقُورِ",
+              "answer_en": "Idha",
+              "answer_my": "Idha",
+              "ref": "74:8"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "إِذَا زُلْزِلَتِ الْأَرْضُ",
+              "answer_en": "When the earth is shaken",
+              "answer_my": "ကမ္ဘာမြေ တုန်ခါသောအခါ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "'Idha' ကို အသုံးပြု၍ ဝါကျတစ်ခု တည်ဆောက်ပါ",
+          "questions": [
+            {
+              "q": "جَاءَ الْحَقُّ",
+              "answer_en": "Idha ja'al haqqu",
+              "answer_my": "Idha ja'al haqqu",
+              "ar": "إِذَا جَاءَ الْحَقُّ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "'Idha' is the language of prophecy. It assures the believer that Allah's promises are not 'maybes' but inevitable realities.",
+        "my": "'Idha' သည် ပရောဖက်ပြုချက်ဆိုင်ရာ ဘာသာစကားဖြစ်သည်။ အလ္လာဟ်အရှင်မြတ်၏ ကတိတော်များသည် ဖြစ်နိုင်ခြေများသာမဟုတ်ဘဲ မုချဖြစ်လာမည့် အမှန်တရားများဖြစ်ကြောင်း ယုံကြည်သူအား အာမခံချက်ပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Nasr 110:1",
+        "study_number": 1,
+        "arabic_full": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+        "en_sahih": "When the victory of Allah has come and the conquest",
+        "my_mmsy": "(၁) အလ္လာဟ်အရှင်မြတ်၏အကူအညီနှင့်အောင်နိုင်မှု  ၁ ရောက်ရှိလာခဲ့သည့်အခါ။",
+        "audio_ref": {
+          "surah": 110,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/110001.mp3"
+        },
+        "qurancom_url": "https://quran.com/110/1",
+        "context": {
+          "en": "This was one of the last Surahs revealed to the Prophet (ﷺ), signaling the completion of his mission and the conquest of Mecca.",
+          "my": "ဤစူရာဟ်သည် တမန်တော်မြတ် (ﷺ) ထံ နောက်ဆုံးကျရောက်ခဲ့သော စူရာဟ်များထဲမှ တစ်ခုဖြစ်သည်။ ၎င်းသည် သာသနာတော် ထွန်းကားခြင်းနှင့် မက္ကာဟ်မြို့ကို အောင်နိုင်ခြင်းတို့၏ နိမိတ်လက္ခဏာဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "جَاءَ",
+            "translit": "jā'a",
+            "en": "came",
+            "my": "ရောက်ရှိလာသည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ج ي أ",
+            "freq": 278
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The combination of 'Idha' and past tense 'Ja'a' indicates a future event that is as certain as if it has already happened.",
+          "structure_my": "'Idha' နှင့် အတိတ်ကာလကြိယာ 'Ja'a' တွဲသုံးထားခြင်းသည် အနာဂတ်တွင် ဖြစ်မည့်အရာကို အတိတ်က ဖြစ်ပြီးသားအရာကဲ့သို့ သေချာကြောင်း ဖော်ပြသည်။",
+          "insight_en": "The sentence links 'Nasr' (support) and 'Fath' (victory), showing support comes before opening.",
+          "insight_my": "'Nasr' (ကူညီမှု) နှင့် 'Fath' (အောင်ပွဲ) ကို တွဲပြထားခြင်းဖြင့် အရှင်မြတ်၏ ကူညီမှုသည် အောင်ပွဲ၏ အခြေခံဖြစ်ကြောင်း သိနိုင်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ف ت ح",
+            "concept_en": "To remove a barrier or lock, leading to expansion and success.",
+            "concept_my": "အတားအဆီး သို့မဟုတ် သော့ကို ဖယ်ရှားခြင်း၊ ထို့မှတစ်ဆင့် တိုးတက်အောင်မြင်မှုသို့ ရောက်ရှိခြင်း။",
+            "members": [
+              {
+                "ar": "مَفَاتِيح",
+                "en": "Keys",
+                "my": "သော့များ",
+                "freq": 4
+              }
+            ],
+            "professors_note": "Fath is not just conquest; it is the opening of hearts to Islam."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ဘဝတွင်လည်း အခက်အခဲများ ကြုံရသောအခါ အလ္လာဟ်အရှင်မြတ်၏ ကူညီမှုရောက်လာမည့်အချိန် (Idha) ကို စိတ်ရှည်စွာ စောင့်ဆိုင်းရမည်ဖြစ်သည်။ အရှင်မြတ်၏ အကူအညီ ရောက်လာသောအခါ အောင်ပွဲသည် မုချဖြစ်သည်။ ဤအာယသ်တော်သည် အောင်ပွဲအတွက် ဂုဏ်မောက်ရန် မဟုတ်ဘဲ အရှင်မြတ်အား ချီးမွမ်းထောပနာပြုရန် သင်ကြားပေးပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Simple 3-word phrase: Idha - ja'a - nasrullah.",
+          "meaning_anchor": "Think of a heavy gate finally being unlocked (Fath).",
+          "daily_connection": "Recite during times of success to remember the Source of victory.",
+          "my": "စကားလုံး ၃ လုံးတည်းမို့ ကျက်ရလွယ်ကူသည်။ 'အိဇာ - ဂျာအ - နဆ်ွရုလော'။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored 'Idha' as a marker of certainty in conditions. Understanding the nuance between 'In' (possible) and 'Idha' (certain) helps us perceive the absolute nature of Quranic prophecies.",
+      "my": "သေချာသောအခြေအနေများကို ဖော်ပြသည့် 'Idha' အကြောင်းကို လေ့လာခဲ့သည်။ 'In' (ဖြစ်နိုင်ခြေ) နှင့် 'Idha' (သေချာမှု) တို့၏ ကွာခြားချက်ကို သိခြင်းဖြင့် ကုရ်အာန်၏ ဟောကိန်းများ မည်မျှ ခိုင်မာကြောင်း သိရှိနိုင်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-148",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 148,
+    "title": {
+      "ar": "الشَّرْطُ (٣) — مَنْ الشَّرْطِيَّةُ",
+      "en": "Conditionals III — Man (مَنْ): Whoever Does X Gets Y",
+      "my": "အခြေအနေပြဝါကျများ (၃) — မည်သူမဆို (مَنْ)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Man al-Shartiyya for universal conditional; consequence clauses",
+      "grammar_formula": "مَنْ + Shart (Jazm) + Jawab (Jazm) = WHOEVER does X, THEN Y"
+    },
+    "section_1_vocab": [
+      {
+        "word": "عَمِلَ",
+        "translit": "'amila",
+        "en": "he worked/did",
+        "my": "သူအလုပ်လုပ်ခဲ့သည်/ပြုလုပ်ခဲ့သည်",
+        "quran_freq": 359,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعِلَ",
+        "root": {
+          "letters": "ع م ل",
+          "concept_en": "intentional action or labor",
+          "concept_my": "ရည်ရွယ်ချက်ရှိသော လုပ်ရပ် သို့မဟုတ် အလုပ်"
+        },
+        "memory_hook": {
+          "sound": "Amal",
+          "image": "A manual laborer working hard",
+          "cross_language": "Amal (Urdu/Malay/Myanmar-Muslim)"
+        },
+        "word_family": [
+          {
+            "ar": "أَعْمَال",
+            "translit": "a'māl",
+            "en": "deeds",
+            "my": "အကျင့်သီလများ",
+            "freq": 42
+          }
+        ],
+        "pattern_unlock": "In the Quran, 'faith' (iman) is almost always followed by 'action' ('amal).",
+        "example": {
+          "ar": "مَنْ عَمِلَ صَالِحًا",
+          "en": "Whoever does righteousness",
+          "my": "မည်သူမဆို ကောင်းမှုကို ပြုလုပ်လျှင်",
+          "ref": "16:97"
+        }
+      },
+      {
+        "word": "كَفَرَ",
+        "translit": "kafara",
+        "en": "he disbelieved/denied",
+        "my": "သူငြင်းပယ်ခဲ့သည်",
+        "quran_freq": 525,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ك ف ر",
+          "concept_en": "covering up the truth/ingratitude",
+          "concept_my": "အမှန်တရားကို ဖုံးကွယ်ခြင်း သို့မဟုတ် ကျေးဇူးကန်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cover",
+          "image": "Covering a light with a blanket",
+          "cross_language": "Kafir"
+        },
+        "word_family": [
+          {
+            "ar": "كُفْر",
+            "translit": "kufr",
+            "en": "disbelief",
+            "my": "မယုံကြည်မှု",
+            "freq": 37
+          }
+        ],
+        "pattern_unlock": "The root meaning is 'to cover'; a farmer is called 'kāfir' in Arabic because he covers seeds with soil.",
+        "example": {
+          "ar": "وَمَن كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ",
+          "en": "And whoever disbelieves, then Allah is free of need",
+          "my": "မည်သူမဆို ငြင်းပယ်လျှင် အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် လိုလားမှုကင်းမဲ့တော်မူသောအရှင် ဖြစ်တော်မူ၏",
+          "ref": "3:97"
+        }
+      },
+      {
+        "word": "يَتَّقِ",
+        "translit": "yattaqi",
+        "en": "he fears/is conscious of Allah",
+        "my": "သူ (အလ္လာဟ်ကို) ကြောက်ရွံ့သည်",
+        "quran_freq": 115,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْتَعِلِ",
+        "root": {
+          "letters": "و ق ي",
+          "concept_en": "protection or guarding",
+          "concept_my": "ကာကွယ်ခြင်း သို့မဟုတ် စောင့်ရှောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Taqwa",
+          "image": "Wearing armor for protection",
+          "cross_language": "Muttaqin"
+        },
+        "word_family": [
+          {
+            "ar": "تَقْوَى",
+            "translit": "taqwā",
+            "en": "piety",
+            "my": "ဘုရားတရားကြည်ညိုခြင်း",
+            "freq": 17
+          }
+        ],
+        "pattern_unlock": "The 'Ya' at the end is dropped here because 'Man' makes the verb Jussive.",
+        "example": {
+          "ar": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا",
+          "en": "And whoever fears Allah, He will make for him a way out",
+          "my": "မည်သူမဆို အလ္လာဟ်အရှင်မြတ်ကို ကြောက်ရွံ့ရိုသေပါက အရှင်မြတ်သည် ၎င်းအတွက် လွတ်မြောက်ရာလမ်းကို ဖန်တီးပေးတော်မူအံ့",
+          "ref": "65:2"
+        }
+      },
+      {
+        "word": "يُؤْمِن",
+        "translit": "yu'min",
+        "en": "he believes",
+        "my": "သူယုံကြည်သည်",
+        "quran_freq": 538,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفْعِلْ",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "safety, trust, and faith",
+          "concept_my": "ဘေးကင်းမှု၊ ယုံကြည်မှုနှင့် သဒ္ဓါတရား"
+        },
+        "memory_hook": {
+          "sound": "Amen",
+          "image": "Feeling safe after saying 'Amen'",
+          "cross_language": "Iman/Mumin"
+        },
+        "word_family": [
+          {
+            "ar": "إِيمَان",
+            "translit": "īmān",
+            "en": "faith",
+            "my": "သဒ္ဓါတရား",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "Faith provides 'Amn' (safety) to the heart.",
+        "example": {
+          "ar": "وَمَن يُؤْمِن بِاللَّهِ يَهْدِ قَلْبَهُ",
+          "en": "And whoever believes in Allah - He will guide his heart",
+          "my": "မည်သူမဆို အလ္လာဟ်အရှင်မြတ်အား ယုံကြည်ပါက အရှင်မြတ်သည် ၎င်း၏ စိတ်နှလုံးကို လမ်းညွှန်တော်မူအံ့",
+          "ref": "64:11"
+        }
+      },
+      {
+        "word": "يَشْفَعْ",
+        "translit": "yashfa'",
+        "en": "he intercedes",
+        "my": "သူကြားဝင်တောင်းပန်သည်",
+        "quran_freq": 13,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلْ",
+        "root": {
+          "letters": "ش ف ع",
+          "concept_en": "pairing or intercession",
+          "concept_my": "တွဲဖက်ခြင်း သို့မဟုတ် ကြားဝင်အကျိုးဆောင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shafa",
+          "image": "Two people walking together to ask a favor",
+          "cross_language": "Shafa'at"
+        },
+        "word_family": [
+          {
+            "ar": "شَفَاعَة",
+            "translit": "shafā'ah",
+            "en": "intercession",
+            "my": "ကြားဝင်တောင်းပန်မှု",
+            "freq": 24
+          }
+        ],
+        "pattern_unlock": "The Sukun on the 'Ain' is due to 'Man' acting as a conditional.",
+        "example": {
+          "ar": "مَنْ يَشْفَعْ شَفَاعَةً حَسَنَةً",
+          "en": "Whoever intercedes with a good intercession",
+          "my": "မည်သူမဆို ကောင်းမြတ်သော ကြားဝင်အကျိုးဆောင်မှုမျိုး ပြုလုပ်လျှင်",
+          "ref": "4:85"
+        }
+      },
+      {
+        "word": "يُضْلِلْ",
+        "translit": "yuḍlil",
+        "en": "He leaves to stray",
+        "my": "သူလမ်းမှားသို့ ပစ်ထားတော်မူသည်",
+        "quran_freq": 65,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفْعِلْ",
+        "root": {
+          "letters": "ض ل ل",
+          "concept_en": "getting lost or straying",
+          "concept_my": "လမ်းပျောက်ခြင်း သို့မဟုတ် လမ်းမှားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dull",
+          "image": "A dull sense of direction leads to getting lost",
+          "cross_language": "Dalal"
+        },
+        "word_family": [
+          {
+            "ar": "الضَّالِّين",
+            "translit": "aḍ-ḍāllīn",
+            "en": "those who stray",
+            "my": "လမ်းမှားသူများ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The double 'Lam' is separated here to accommodate the Sukun.",
+        "example": {
+          "ar": "وَمَن يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ",
+          "en": "And whoever Allah leaves to stray - for him there is no guide",
+          "my": "မည်သူ့ကိုမဆို အလ္လာဟ်အရှင်မြတ်သည် လမ်းမှား၌ ပစ်ထားပါက ၎င်းအတွက် လမ်းညွှန်မည့်သူ လုံးဝမရှိနိုင်တော့ပေ",
+          "ref": "13:33"
+        }
+      },
+      {
+        "word": "يَتَوَكَّلْ",
+        "translit": "yatawakkal",
+        "en": "he relies",
+        "my": "သူအားကိုးယုံကြည်သည်",
+        "quran_freq": 14,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَتَفَعَّلْ",
+        "root": {
+          "letters": "و ك ل",
+          "concept_en": "entrusting or relying",
+          "concept_my": "ယုံကြည်အပ်နှံခြင်း သို့မဟုတ် အားကိုးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Woke",
+          "image": "Staying 'woke' and trusting in Allah",
+          "cross_language": "Tawakkul"
+        },
+        "word_family": [
+          {
+            "ar": "وَكِيل",
+            "translit": "wakīl",
+            "en": "trustee/disposer of affairs",
+            "my": "တာဝန်ခံ/စီမံသူ",
+            "freq": 24
+          }
+        ],
+        "pattern_unlock": "The 'Tashdid' on 'Kaf' shows an intensive action of entrusting oneself.",
+        "example": {
+          "ar": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+          "en": "And whoever relies upon Allah - then He is sufficient for him",
+          "my": "မည်သူမဆို အလ္လာဟ်အရှင်မြတ်အား အားကိုးယုံကြည်ပါက အရှင်မြတ်သည် ၎င်းအတွက် အလုံအလောက် ဖြစ်တော်မူ၏",
+          "ref": "65:3"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "مَنْ الشَّرْطِيَّةُ",
+        "en": "The Conditional 'Whoever'",
+        "my": "'မည်သူမဆို' အခြေအနေပြပုဒ်"
+      },
+      "formula": {
+        "display": "مَنْ + Verb (Jussive) + Verb (Jussive)",
+        "example": "مَنْ يَعْمَلْ سُوءًا يُجْزَ بِهِ",
+        "myanmar_read": "မည်သူမဆို (အပြုအမူ) လုပ်လျှင် (ရလဒ်) ရလိမ့်မည်",
+        "key_insight": "'Man' changes from a simple question word ('Who?') to a powerful conditional ('Whoever') when it is followed by a Jussive verb."
+      },
+      "explanation": {
+        "en": "'Man' (مَنْ) is primarily an interrogative (Who?), but in this context, it is 'Man al-Shartiyya'. It applies a condition to a person. It functions just like 'In', meaning it makes both verbs in the sentence Majzum (Jussive). It is used to state universal laws of reward and punishment.",
+        "my": "'Man' (مَنْ) သည် ပုံမှန်အားဖြင့် မေးခွန်း (မည်သူနည်း) ဖြစ်သော်လည်း ဤနေရာတွင် 'မည်သူမဆို' ဟု အဓိပ္ပာယ်ရသည်။ ၎င်းသည် 'In' ကဲ့သို့ပင် ဝါကျရှိ ကြိယာနှစ်ခုလုံးကို Majzum (Jussive) ဖြစ်စေသည်။ ၎င်းကို ကောင်းကျိုး၊ ဆိုးကျိုးဆိုင်ရာ စကြဝဠာနိယာမများကို ဖော်ပြရန် သုံးသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we say 'be-thu ma-so' (မည်သူမဆို) and then end with 'yin' (လျှင်). In Arabic, 'Man' covers both.",
+        "my": "မြန်မာဘာသာတွင် 'မည်သူမဆို' ဟု ပြောပြီးနောက် 'လျှင်' ဖြင့် အဆုံးသတ်သည်။ အာရပ်ဘာသာတွင် 'Man' တစ်လုံးတည်းက ထိုနှစ်ခုလုံးကို လွှမ်းခြုံထားသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "'Man' makes the following verb Majzum (Sukun or dropping weak letters).",
+          "rule_my": "'Man' သည် ၎င်းနောက်ရှိ ကြိယာကို Majzum ဖြစ်စေသည် (Sukun ဖြစ်ခြင်း သို့မဟုတ် အားနည်းသောအက္ခရာများ ပြုတ်သွားခြင်း)။",
+          "example": {
+            "ar": "مَنْ يَتَّقِ",
+            "en": "Whoever fears (The 'Ya' is dropped).",
+            "my": "မည်သူမဆို ကြောက်ရွံ့လျှင် ('Ya' ပြုတ်သွားသည်)။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+          "en": "And whoever relies upon Allah - then He is sufficient for him",
+          "my": "(၃) ထို့ပြင် အရှင်မြတ်သည် ထိုသူအား သူမထင်သည့်နေရာမှ စားနပ်ရိက္ခာကို ပေးသနားတော်မူမည်။ ထို့ပြင် မည်သူမဆို အလ္လာဟ် အရှင်မြတ်အပေါ်တွင် ယုံပုံလွှဲအပ်လျှင်အရှင်မြတ်သည် သူ့အတွက်လုံလောက်တော်မူသည်။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏အရေးကိစ္စကို ပြီးမြောက်အောင်ပြုလုပ်တော်မူသောအရှင်မြတ်ပင်ဖြစ်တော်မူသည်။ အမှန်မှာ အလ္လာဟ်အရှင်မြတ်သည် အရာအားလုံးအတွက် အချိန်အဆတစ်ခုပြုလုပ်ထားတော်မူသည်။",
+          "ref": "65:3",
+          "breakdown": {
+            "subject": {
+              "word": "مَن يَتَوَكَّلْ",
+              "en": "Whoever relies",
+              "note": "Condition (Shart)"
+            },
+            "predicate": {
+              "word": "فَهُوَ حَسْبُهُ",
+              "en": "He is sufficient",
+              "note": "Result (Jawab)"
+            }
+          },
+          "myanmar_insight": "The 'Fa' here starts the result clause because it's a noun sentence."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using 'Man' for non-humans.",
+          "wrong": {
+            "ar": "مَنْ تَقْرَأُ",
+            "note": "Man is for people. Use 'Ma' for things/books."
+          },
+          "correct": {
+            "ar": "مَا تَقْرَأْ",
+            "en": "Whatever you read",
+            "my": "မင်းဘာပဲဖတ်ဖတ်"
+          },
+          "myanmar_tip": "လူတွေအတွက်ဆိုရင် 'Man' ကို သုံးပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အောက်ပါဝါကျတွင် 'Man' နှင့် ၎င်း၏ရလဒ်ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "مَن يَعْمَلْ سُوءًا يُجْزَ بِهِ",
+              "answer_en": "Shart: ya'mal, Jawab: yujza",
+              "answer_my": "Shart: ya'mal, Jawab: yujza",
+              "ref": "4:123"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "مَنْ يَكْفُرْ بِاللَّهِ",
+              "answer_en": "Whoever disbelieves in Allah",
+              "answer_my": "မည်သူမဆို အလ္လာဟ်ကို ငြင်းပယ်လျှင်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "'Man' ကို အသုံးပြု၍ ဝါကျတစ်ခု တည်ဆောက်ပါ",
+          "questions": [
+            {
+              "q": "يُؤْمِنُ بِاللَّهِ",
+              "answer_en": "man yu'min billahi",
+              "answer_my": "man yu'min billahi",
+              "ar": "مَنْ يُؤْمِنْ بِاللَّهِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The use of 'Man' emphasizes individual accountability. Each soul is directly linked to the consequences of its own choices.",
+        "my": "'Man' ကို အသုံးပြုခြင်းသည် တစ်ဦးချင်းစီ၏ တာဝန်ယူမှုကို အလေးပေးသည်။ လူသားတိုင်းသည် မိမိတို့၏ ရွေးချယ်မှုနောက်ဆက်တွဲ ရလဒ်များနှင့် တိုက်ရိုက်ဆက်နွယ်နေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "At-Talaq 65:2-3",
+        "study_number": 1,
+        "arabic_full": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ",
+        "en_sahih": "And whoever fears Allah - He will make for him a way out and will provide for him from where he does not expect.",
+        "my_mmsy": "(၂) ထို့နောက် ထို(ကွာရှင်းခဲ့သည့်)ဇနီးမိ်န်းမများသည် သူမတို့၏ သတ်မှတ်သည့် အိဒ်ဒသ်ရက် နောက်ဆုံးအချိန်ကိုရောက်ခါနီးတွင် အသင်တို့သည် သူမတို့အား စည်းကမ်းနှင့် အညီ ပြန်သိမ်းပိုက်ကြပါ။ သို့မဟုတ် အသင်တို့သည် စည်းကမ်းနှင့်အညီ သူမတို့နှင့် ခွဲခွာကြပါ။ ထို့ပြင် အသင်တို့သည် အသင်တို့ထဲမှ သစ္စာသမာဓိရှိသူနှစ်ဦးကို သက်သေထား ကြပါ။  ၄ ထို့ပြင် အသင်တို့သည် အလ္လာဟ် အရှင်မြတ်အတွက် ရည်ရွယ်ပြီး ဖြောင့်မတ်စွာ သက်သေထွက်ဆိုကြပါ။ ဤသည် အလ္လာဟ်အရှင်မြတ်နှင့် နောက်ဆုံးနေ့ကို ယုံကြည်သူများအား ဆုံးမသြဝါဒပေးခြင်းဖြစ်သည်။ ထို့ပြင် မည်သူမဆို အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့လျှင် အရှင်မြတ်သည် ထိုသူ့အတွက် ထွက်ပေါက်ဖန်တီးပေးတော်မူမည်။",
+        "audio_ref": {
+          "surah": 65,
+          "ayah": 2,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/065002.mp3"
+        },
+        "qurancom_url": "https://quran.com/65/2",
+        "context": {
+          "en": "These verses were revealed during the discussion of divorce, a time of great stress and uncertainty, providing hope that Taqwa leads to solutions.",
+          "my": "ဤအာယသ်တော်များသည် လင်မယားကွာရှင်းခြင်းကဲ့သို့သော စိတ်ဖိစီးမှုနှင့် မရေမရာဖြစ်မှုများရှိနေချိန်တွင် ကျရောက်ခဲ့ပြီး Taqwa သည် ထွက်ပေါက်များကို ဖြစ်ပေါ်စေကြောင်း မျှော်လင့်ချက်ပေးသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "يَتَّقِ",
+            "translit": "yattaqi",
+            "en": "fears/guards",
+            "my": "ကြောက်ရွံ့သည်",
+            "role_en": "Condition Verb",
+            "role_my": "အခြေအနေပြကြိယာ",
+            "root": "و ق ي",
+            "freq": 115
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb 'Yattaqi' should end in a 'Ya' (يَتَّقِي), but 'Man' has clipped it to show it's a condition.",
+          "structure_my": "'Yattaqi' သည် မူလက 'Ya' (يَتَّقِي) ဖြင့် ဆုံးသော်လည်း 'Man' ကြောင့် ၎င်း၏အမြီး 'Ya' ပြုတ်သွားခြင်းဖြစ်သည်။",
+          "insight_en": "The reward (a way out) is physically linked to the condition (Taqwa) in the sentence structure.",
+          "insight_my": "ဝါကျတည်ဆောက်ပုံအရ ရလဒ် (ထွက်ပေါက်) သည် အခြေအနေ (Taqwa) နှင့် တိုက်ရိုက်ဆက်စပ်နေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "و ق ي",
+            "concept_en": "To protect oneself from harm by placing a shield in between.",
+            "concept_my": "အကာအကွယ်တစ်ခုခုကို ကြားခံထားခြင်းဖြင့် ဘေးဥပဒ်မှ မိမိကိုယ်ကို ကာကွယ်ခြင်း။",
+            "members": [
+              {
+                "ar": "تَقِيّ",
+                "en": "God-fearing",
+                "my": "ဘုရားတရားရှိသူ",
+                "freq": 1
+              }
+            ],
+            "professors_note": "Taqwa is like walking on a thorny path while carefully holding your clothes so they don't get caught."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဘဝတွင် အခက်အခဲများစွာ ကြုံတွေ့ရတတ်သည်။ အကြပ်အတည်းများကြားတွင် အလ္လာဟ်အရှင်မြတ်ကို အမြဲသတိရပြီး အရှင်မြတ် တားမြစ်ထားသောအရာများကို ရှောင်ကြဉ်မည်ဆိုပါက (Taqwa) အရှင်မြတ်သည် ကျွန်ုပ်တို့ မထင်မှတ်ထားသော နေရာမှ လမ်းစများကို ဖွင့်ပေးမည်ဖြစ်ကြောင်း ဤအာယသ်တော်က အာမခံနေသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Wa-man-yattaqi-llaha... yaj-'al-lahu-makhraja.",
+          "meaning_anchor": "Imagine a wall opening up to reveal a secret door.",
+          "daily_connection": "Recite when feeling stuck in a difficult situation.",
+          "my": "ဝါကျ၏ စည်းချက်မှာ ပြေပြစ်သည်။ 'ဝမန်-ယသ်သကိ-လောဟ... ယဂျ်အလ်-လဟူ-မဂျ်ရဂျာ'။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We mastered 'Man' as a universal conditional. We saw how it clips verbs and establishes direct links between deeds and Divine responses in the Quran.",
+      "my": "'Man' ကို အသုံးပြု၍ အခြေအနေပြဝါကျများ တည်ဆောက်ပုံကို လေ့လာခဲ့သည်။ အကျင့်သီလနှင့် ရလဒ်တို့ကြားရှိ တိုက်ရိုက်ဆက်နွယ်မှုကို ဤတည်ဆောက်ပုံက မည်သို့ပြသကြောင်း နားလည်ခဲ့သည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-149",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 149,
+    "title": {
+      "ar": "الشَّرْطُ (٤) — مَا الشَّرْطِيَّةُ",
+      "en": "Conditionals IV — Mā (مَا): Whatever (Non-Human Conditional)",
+      "my": "အခြေအနေပြဝါကျများ (၄) — ဘာပဲဖြစ်ဖြစ် (مَا)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Mā al-Shartiyya for things; mā taf'al (whatever you do)",
+      "grammar_formula": "مَا + Verb (Jussive) + Verb (Jussive) = WHATEVER you do X, then Y"
+    },
+    "section_1_vocab": [
+      {
+        "word": "تَفْعَلُوا",
+        "translit": "taf'alū",
+        "en": "you (plural) do",
+        "my": "သင်တို့ ပြုလုပ်ကြသည်",
+        "quran_freq": 105,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "تَفْعَلُوا",
+        "root": {
+          "letters": "ف ع ل",
+          "concept_en": "doing or acting",
+          "concept_my": "ပြုလုပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fact",
+          "image": "Turning a plan into a fact by doing it",
+          "cross_language": "Fi'l (verb)"
+        },
+        "word_family": [
+          {
+            "ar": "فِعْل",
+            "translit": "fi'l",
+            "en": "action",
+            "my": "လုပ်ရပ်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The 'Noon' is dropped from the end because of 'Mā'.",
+        "example": {
+          "ar": "وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ",
+          "en": "And whatever good you do - Allah knows it",
+          "my": "သင်တို့သည် ကောင်းမှုတစ်စုံတစ်ရာကို ပြုလုပ်ပါက အလ္လာဟ်အရှင်မြတ်သည် ၎င်းကို သိတော်မူ၏",
+          "ref": "2:197"
+        }
+      },
+      {
+        "word": "تُنفِقُوا",
+        "translit": "tunfiqū",
+        "en": "you (plural) spend",
+        "my": "သင်တို့ သုံးစွဲကြသည်",
+        "quran_freq": 60,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "تُفْعِلُوا",
+        "root": {
+          "letters": "ن ف ق",
+          "concept_en": "spending or passing through",
+          "concept_my": "သုံးစွဲခြင်း သို့မဟုတ် ဖြတ်သန်းသွားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "In-fuck (avoid)",
+          "image": "Money passing through a tunnel",
+          "cross_language": "Infaq"
+        },
+        "word_family": [
+          {
+            "ar": "نَفَقَة",
+            "translit": "nafaqah",
+            "en": "expenditure",
+            "my": "စရိတ်စက",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "Infaq refers to spending for the sake of Allah.",
+        "example": {
+          "ar": "وَمَا تُنفِقُوا مِنْ خَيْرٍ فَلِأَنفُسِكُمْ",
+          "en": "And whatever you spend in good, it is for yourselves",
+          "my": "သင်တို့သည် ကောင်းမြတ်သောအရာများမှ ဘာပဲသုံးစွဲပါစေ ၎င်းသည် သင်တို့အတွက်သာ ဖြစ်၏",
+          "ref": "2:272"
+        }
+      },
+      {
+        "word": "تُقَدِّمُوا",
+        "translit": "tuqaddimū",
+        "en": "you (plural) send forward",
+        "my": "သင်တို့ ကြိုတင်ပို့လွှတ်ကြသည်",
+        "quran_freq": 15,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "تُفَعِّلُوا",
+        "root": {
+          "letters": "ق د م",
+          "concept_en": "precedence or moving forward",
+          "concept_my": "ရှေ့ရောက်ခြင်း သို့မဟုတ် ရှေ့သို့တိုးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dam",
+          "image": "Stepping forward onto a dam",
+          "cross_language": "Qadim (Old)"
+        },
+        "word_family": [
+          {
+            "ar": "قَدَم",
+            "translit": "qadam",
+            "en": "foot",
+            "my": "ခြေထောက်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Sending forward means doing deeds today for the hereafter.",
+        "example": {
+          "ar": "وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ",
+          "en": "And whatever good you send forward for yourselves, you will find it",
+          "my": "သင်တို့သည် မိမိတို့အတွက် ကောင်းမှုတစ်စုံတစ်ရာကို ကြိုတင်ပို့လွှတ်ပါက ၎င်းကို (အရှင်မြတ်ထံတွင်) တွေ့ရှိကြမည်ဖြစ်သည်",
+          "ref": "2:110"
+        }
+      },
+      {
+        "word": "تَجِدُوهُ",
+        "translit": "tajidūhu",
+        "en": "you (plural) will find it",
+        "my": "သင်တို့ ၎င်းကို တွေ့ရှိကြမည်",
+        "quran_freq": 40,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "تَفْعَلُوهُ",
+        "root": {
+          "letters": "و ج د",
+          "concept_en": "finding or discovering",
+          "concept_my": "ရှာဖွေတွေ့ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Jewel",
+          "image": "Finding a jewel",
+          "cross_language": "Wujud (Existence)"
+        },
+        "word_family": [
+          {
+            "ar": "وُجُود",
+            "translit": "wujūd",
+            "en": "existence",
+            "my": "တည်ရှိမှု",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The 'Waw' of the root is dropped in the present tense 'Yajidu'.",
+        "example": {
+          "ar": "تَجِدُوهُ عِندَ اللَّهِ",
+          "en": "You will find it with Allah",
+          "my": "၎င်းကို အလ္လာဟ်အရှင်မြတ်ထံတွင် တွေ့ရှိကြမည်",
+          "ref": "73:20"
+        }
+      },
+      {
+        "word": "يُوَفَّ",
+        "translit": "yuwaffa",
+        "en": "it is paid in full",
+        "my": "၎င်းကို အပြည့်အဝပေးဆပ်ခြင်းခံရသည်",
+        "quran_freq": 18,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفَعَّ",
+        "root": {
+          "letters": "و ف ي",
+          "concept_en": "fulfillment or completion",
+          "concept_my": "ပြည့်စုံခြင်း သို့မဟုတ် ပြီးမြောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Wafa",
+          "image": "Full loyalty and fulfillment",
+          "cross_language": "Wafa (Loyalty)"
+        },
+        "word_family": [
+          {
+            "ar": "وَفَاة",
+            "translit": "wafāt",
+            "en": "death (completion of term)",
+            "my": "သေဆုံးခြင်း",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The shortened ending shows the Jussive result of spending for Allah.",
+        "example": {
+          "ar": "وَمَا تُنفِقُوا مِن شَيْءٍ فِي سَبِيلِ اللَّهِ يُوَفَّ إِلَيْكُمْ",
+          "en": "And whatever you spend in the way of Allah will be fully repaid to you",
+          "my": "သင်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ လမ်းစဉ်တွင် တစ်စုံတစ်ရာကို သုံးစွဲပါက သင်တို့ထံသို့ အပြည့်အဝ ပြန်လည်ပေးဆပ်မည်ဖြစ်သည်",
+          "ref": "8:60"
+        }
+      },
+      {
+        "word": "يَعْلَمْهُ",
+        "translit": "ya'lamhu",
+        "en": "He knows it",
+        "my": "သူ ၎င်းကို သိတော်မူသည်",
+        "quran_freq": 150,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلْهُ",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "knowledge or science",
+          "concept_my": "အသိပညာ သို့မဟုတ် သိပ္ပံပညာ"
+        },
+        "memory_hook": {
+          "sound": "Alarm",
+          "image": "An alarm that goes off when something is known",
+          "cross_language": "Alim/Ilm"
+        },
+        "word_family": [
+          {
+            "ar": "عَالِم",
+            "translit": "'ālim",
+            "en": "Scholar",
+            "my": "ပညာရှင်",
+            "freq": 13
+          }
+        ],
+        "pattern_unlock": "The Sukun on 'Mim' is the Jussive mark caused by 'Mā'.",
+        "example": {
+          "ar": "وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ",
+          "en": "And whatever good you do - Allah knows it",
+          "my": "သင်တို့သည် ကောင်းမှုတစ်စုံတစ်ရာကို ပြုလုပ်ပါက အလ္လာဟ်အရှင်မြတ်သည် ၎င်းကို သိတော်မူ၏",
+          "ref": "2:197"
+        }
+      },
+      {
+        "word": "نَسَخْ",
+        "translit": "nasakh",
+        "en": "We abrogate",
+        "my": "ငါတို့ ပယ်ဖျက်သည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "نَفْعَلْ",
+        "root": {
+          "letters": "ن س خ",
+          "concept_en": "copying or abrogating",
+          "concept_my": "ကူးယူခြင်း သို့မဟုတ် ပယ်ဖျက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Next",
+          "image": "Moving to the next rule by abrogating the old one",
+          "cross_language": "Mansukh"
+        },
+        "word_family": [
+          {
+            "ar": "نُسْخَة",
+            "translit": "nuskhah",
+            "en": "copy",
+            "my": "မိတ္တူ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The Sukun shows it is a condition set by Allah.",
+        "example": {
+          "ar": "مَا نَنسَخْ مِنْ آيَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَا",
+          "en": "Whatever We abrogate of a verse or cause it to be forgotten - We bring forth [one] better than it",
+          "my": "ငါအရှင်မြတ်သည် အာယသ်တော်တစ်ရပ်ရပ်ကို ပယ်ဖျက်လျှင်ဖြစ်စေ သို့မဟုတ် ယင်းကို မေ့ပျောက်စေလျှင်ဖြစ်စေ ၎င်းထက် ပို၍ကောင်းမြတ်သောအရာကို ယူဆောင်လာတော်မူအံ့",
+          "ref": "2:106"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "مَا الشَّرْطِيَّةُ",
+        "en": "The Conditional 'Whatever'",
+        "my": "'ဘာပဲဖြစ်ဖြစ်' အခြေအနေပြပုဒ်"
+      },
+      "formula": {
+        "display": "مَا + Verb (Jussive) + Verb (Jussive)",
+        "example": "مَا تَفْعَلُوا يَعْلَمْهُ اللَّهُ",
+        "myanmar_read": "(အရာတစ်ခု) လုပ်လျှင် (ရလဒ်) ဖြစ်မည်",
+        "key_insight": "'Mā' works exactly like 'Man', but while 'Man' is for people, 'Mā' is for things and actions."
+      },
+      "explanation": {
+        "en": "'Mā' (مَا) can mean 'what' (question) or 'not' (negation), but as a conditional, it means 'Whatever'. It requires a Jussive verb for the condition and another for the result. It is often used in the Quran to emphasize that no action, however small, goes unnoticed by Allah.",
+        "my": "'Mā' (مَا) သည် 'ဘာလဲ' သို့မဟုတ် 'မဟုတ်ဘူး' ဟု အဓိပ္ပာယ်ရသော်လည်း ဤနေရာတွင် 'ဘာပဲဖြစ်ဖြစ်' ဟု အဓိပ္ပာယ်ရသည်။ ၎င်းသည် အခြေအနေပြကြိယာနှင့် ရလဒ်ပြကြိယာ နှစ်ခုလုံးကို Jussive ဖြစ်စေသည်။ မည်မျှပင်သေးငယ်သော လုပ်ရပ်ဖြစ်ပါစေ အလ္လာဟ်အရှင်မြတ်သည် လစ်လျူရှုမည်မဟုတ်ကြောင်း ဤတည်ဆောက်ပုံက ပြသသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we use 'ba-pè phpyit-hpyit' (ဘာပဲဖြစ်ဖြစ်). In Arabic, 'Mā' serves this function while also tying the two verbs together grammatically.",
+        "my": "မြန်မာဘာသာတွင် 'ဘာပဲဖြစ်ဖြစ်' ဟု သုံးနှုန်းသကဲ့သို့ အာရပ်ဘာသာတွင် 'Mā' ကို သုံးသည်။ ၎င်းသည် ကြိယာနှစ်ခုကို သဒ္ဒါနည်းအရ ချိတ်ဆက်ပေးသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "When 'Mā' is conditional, the plural 'Noon' (ـونَ) is removed from the verb.",
+          "rule_my": "'Mā' သည် အခြေအနေပြဖြစ်သောအခါ ကြိယာ၏အဆုံးရှိ 'Noon' (ـونَ) ကို ဖယ်ရှားရမည်။",
+          "example": {
+            "ar": "تَفْعَلُونَ -> مَا تَفْعَلُوا",
+            "en": "You do -> Whatever you do",
+            "my": "မင်းတို့လုပ်တယ် -> မင်းတို့ဘာပဲလုပ်လုပ်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ",
+          "en": "And whatever good you do - Allah knows it",
+          "my": "ဟဂျ်(၏အချိန်)သည် သတ်မှတ်သိရှိပြီးဖြစ်သည့်လများပင်ဖြစ်သည်။  သို့ဖြစ်ရာ အကြင်သူသည် ထိုလများ၌ ဟဂျ်ပြုလုပ်ရန် သတ်မှတ်ခဲ့လျှင် ထိုသူသည် ဟဂျ်(ပြုလုပ်ရန် အိဟ်ရာမ်ရုံထားစဉ်)အတွင်း၌ ကာမ(ဆက်ဆံမှုမပြုရ သည့်အပြင် ၎င်းနှင့်ဆိုင်သည့်) ညစ်ညမ်းသောစကားကိုပင် မပြောရပေ၊ အပြစ်ကျူးလွန်မှုလည်း မပြုလုပ်ရပေ၊ ခိုက်ရန်ဖြစ်ပွားမှုကိုလည်း မပြုရပေ။ ထို့ပြင် အသင်တို့ပြုလုပ်ကြသည့် မည်သည့်ကောင်းမှုကိုမဆို အလ္လာဟ်အရှင်မြတ်သိရှိတော်မူသည်။ ထို့ပြင် အသင်တို့သည် ခရီးစရိတ် ယူဆောင်သွားကြပါ၊ ထို့ပြင် အမှန်စင်စစ် အကောင်းဆုံးခရီးစရိတ်သည် သက္ကဝါရှောင်ကြဉ်ခြင်းပင်ဖြစ်သည်။  သို့ဖြစ်ရာ အို-ဉာဏ်ရှိသူအပေါင်းတို့၊ အသင်တို့သည် ငါအရှင်မြတ်အား (မနာခံခြင်းကနေ) ကြောက်ရွံ့ကြပါ။",
+          "ref": "2:197",
+          "breakdown": {
+            "subject": {
+              "word": "وَمَا تَفْعَلُوا۟",
+              "en": "And whatever you do",
+              "note": "Condition (Shart)"
+            },
+            "predicate": {
+              "word": "يَعْلَمْهُ ٱللَّهُ",
+              "en": "Allah knows it",
+              "note": "Result (Jawab)"
+            }
+          },
+          "myanmar_insight": "Even a secret good deed is captured by 'Mā... ya'lamhu'."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Translating 'Mā' as 'No' in a conditional sentence.",
+          "wrong": {
+            "ar": "مَا تَفْعَلُوا",
+            "note": "Student might think it means 'Don't do'."
+          },
+          "correct": {
+            "ar": "لَا تَفْعَلُوا",
+            "en": "Don't do (Prohibition)",
+            "my": "မလုပ်နဲ့"
+          },
+          "myanmar_tip": "ကြိယာနှစ်ခုပါပြီး အဓိပ္ပာယ်ချိတ်ဆက်နေရင် 'Mā' ဟာ 'ဘာပဲဖြစ်ဖြစ်' လို့ အဓိပ္ပာယ်ရပါတယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အောက်ပါဝါကျတွင် 'Mā' နှင့် ၎င်းကြောင့် ပြောင်းလဲသွားသော ကြိယာကို ရှာပါ",
+          "questions": [
+            {
+              "q": "وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ",
+              "answer_en": "Mā, tuqaddimū, tajidūhu",
+              "answer_my": "Mā, tuqaddimū, tajidūhu",
+              "ref": "2:110"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "مَا تُنْفِقُوا مِنْ خَيْرٍ",
+              "answer_en": "Whatever you spend of good",
+              "answer_my": "ကောင်းမှုမှ သင်တို့ ဘာပဲသုံးစွဲသည်ဖြစ်စေ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "ပေးထားသောကြိယာကို 'Mā' ဖြင့် အခြေအနေပြဝါကျ ပြုလုပ်ပါ",
+          "questions": [
+            {
+              "q": "تَكْتُبُونَ",
+              "answer_en": "mā taktubū",
+              "answer_my": "mā taktubū",
+              "ar": "مَا تَكْتُبُوا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "'Mā' encompasses every atom of effort. It reassures the heart that no kindness is lost, and every sacrifice is registered in the Divine ledger.",
+        "my": "'Mā' သည် ကြိုးပမ်းမှုတိုင်းကို လွှမ်းခြုံထားသည်။ မည်သည့်စေတနာမျှ အလဟဿမဖြစ်ဘဲ စွန့်လွှတ်မှုတိုင်းကို အလ္လာဟ်အရှင်မြတ်က မှတ်တမ်းတင်ထားကြောင်း နှလုံးသားကို နှစ်သိမ့်ပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:110",
+        "study_number": 1,
+        "arabic_full": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ۚ وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ ۗ إِنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+        "en_sahih": "And establish prayer and give zakah, and whatever good you send forth for yourselves, you will find it with Allah. Indeed, Allah of what you do is Seeing.",
+        "my_mmsy": "ထို့ပြင် အသင်တို့သည် စွလာသ်ဝတ်ပြုမှုကို ဆောက်တည်ကြပြီး ဇကာသ်(ဆင်းရဲသားနှင့် လိုအပ်သူများ၏ဝေစု)ကို ပေးဆောင်ကြပါ။ ထို့ပြင် အသင်တို့အတွက် ရှေ့ကိုကြိုတင်ပို့ဆောင်ထားသည့် မည်သည့်ကောင်းမှုကိုမဆို အလ္လာဟ်အရှင်မြတ်ထံ၌ အသင်တို့ ရရှိကြလိမ့်မည်။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ပြုမူကြသည့် အရာအားလုံးကို အကြွင်းမဲ့မြင်တော်မူသောအရှင်ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 110,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002110.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/110",
+        "context": {
+          "en": "This verse directs the believers to focus on worship and charity as investments for the hereafter, assuring them that their deeds are safely kept with Allah.",
+          "my": "ဤအာယသ်တော်သည် ယုံကြည်သူများကို ဝတ်ပြုကိုးကွယ်ခြင်းနှင့် ဒါနပြုခြင်းတို့ကို နောင်တမလွန်အတွက် ရင်းနှီးမြှုပ်နှံမှုအဖြစ် အာရုံစိုက်ရန် ညွှန်ကြားထားပြီး ၎င်းတို့၏ လုပ်ရပ်များကို အလ္လာဟ်အရှင်မြတ်ထံတွင် ဘေးကင်းစွာ ထိန်းသိမ်းထားမည်ဖြစ်ကြောင်း အာမခံထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "تُقَدِّمُوا",
+            "translit": "tuqaddimū",
+            "en": "you send forward",
+            "my": "သင်တို့ ကြိုတင်ပို့လွှတ်ကြသည်",
+            "role_en": "Condition Verb",
+            "role_my": "အခြေအနေပြကြိယာ",
+            "root": "ق د م",
+            "freq": 15
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The 'Ma' links the action of 'sending forward' (spending) to the result of 'finding it with Allah'.",
+          "structure_my": "'Ma' သည် 'ကြိုတင်ပို့လွှတ်ခြင်း' (ဒါနပြုခြင်း) လုပ်ရပ်ကို 'အရှင်မြတ်ထံတွင် တွေ့ရှိခြင်း' ဟူသော ရလဒ်နှင့် ချိတ်ဆက်ပေးသည်။",
+          "insight_en": "The verbs 'Tuqaddimu' and 'Tajidu' both drop their 'Noon' because they are part of the conditional 'Ma' structure.",
+          "insight_my": "'Tuqaddimu' နှင့် 'Tajidu' ကြိယာနှစ်ခုလုံးသည် 'Ma' အခြေအနေပြ တည်ဆောက်ပုံကြောင့် ၎င်းတို့၏ 'Noon' များ ပြုတ်သွားကြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ق د م",
+            "concept_en": "To place something in front or to prioritize something.",
+            "concept_my": "တစ်ခုခုကို ရှေ့တွင်ထားခြင်း သို့မဟုတ် ဦးစားပေးခြင်း။",
+            "members": [
+              {
+                "ar": "قَدِيم",
+                "en": "Ancient/Preceding",
+                "my": "ရှေးကျသော",
+                "freq": 1
+              }
+            ],
+            "professors_note": "What you 'send forward' is what you truly own; what you keep is what you eventually lose."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် လောကတွင် ဒါနကောင်းမှုများ ပြုလုပ်သောအခါ ငွေကုန်သွားသည်ဟု ထင်ရသော်လည်း အမှန်တကယ်တွင် ထိုငွေများကို နောင်တမလွန်ဘဏ်တွင် ကြိုတင်အပ်နှံထားခြင်းသာ ဖြစ်သည်။ အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့၏ လုပ်ရပ်တိုင်းကို မြင်တော်မူသောအရှင် ဖြစ်သည်။ ထို့ကြောင့် မိမိပြုခဲ့သော ကောင်းမှုများကို အရှင်မြတ်ထံတွင် အပြည့်အဝ ပြန်လည်တွေ့ရှိရမည်မှာ မလွဲဧကန်ပင်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Wa-ma-tuqaddimu... tajiduhu 'indallah.",
+          "meaning_anchor": "Think of a person mailing a parcel to his future home.",
+          "daily_connection": "Recite after giving charity to reinforce the belief in its reward.",
+          "my": "ကျက်မှတ်ရလွယ်ကူသော စည်းချက်ရှိသည်။ 'ဝမာ-သုကတ်ဒီမူး... သဂျီဒူးဟူး-အင်ဒလော'။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored 'Mā' as a tool for non-human conditionals. We learned that 'Mā' creates a link between our worldly deeds and their spiritual preservation with Allah.",
+      "my": "လူမဟုတ်သောအရာများအတွက် သုံးသော 'Mā' အခြေအနေပြပုဒ်ကို လေ့လာခဲ့သည်။ 'Mā' သည် ကျွန်ုပ်တို့၏ လောကီလုပ်ရပ်များနှင့် အလ္လာဟ်အရှင်မြတ်ထံရှိ ဝိညာဉ်ရေးရာ ထိန်းသိမ်းမှုတို့ကြားတွင် ချိတ်ဆက်မှုတစ်ခု ဖန်တီးပေးကြောင်း သိရှိခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-150",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 150,
+    "title": {
+      "ar": "مُرَاجَعَةُ الْمَرْحَلَةِ الثَّالِثَةِ",
+      "en": "Conditionals V — Phase 3 Grand Review",
+      "my": "အဆင့် ၃ အနှစ်ချုပ် ပြန်လည်သုံးသပ်ခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Full Phase 3 review: Particles, Idafah, Inna/Kana, Negation, Relatives, Conditionals",
+      "grammar_formula": "Review: Noun + Noun (Idafah), Inna + Mansub, In/Ma/Man + Jazm"
+    },
+    "section_1_vocab": [
+      {
+        "word": "كِتَابُ اللَّهِ",
+        "translit": "kitābu-llāh",
+        "en": "Book of Allah",
+        "my": "အလ္လာဟ်အရှင်မြတ်၏ ကျမ်းတော်",
+        "quran_freq": 50,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "က တ ဗ",
+          "concept_en": "writing and decreeing",
+          "concept_my": "ရေးသားခြင်းနှင့် သတ်မှတ်ပြဋ္ဌာန်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kitab",
+          "image": "The holy book held with respect",
+          "cross_language": "Kitab (Myanmar-Muslim)"
+        },
+        "word_family": [
+          {
+            "ar": "كَتَبَ",
+            "translit": "kataba",
+            "en": "he wrote",
+            "my": "သူရေးခဲ့သည်",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "This is an Idafah (possessive) structure: Mudaf + Mudaf Ilayhi.",
+        "example": {
+          "ar": "ذَٰلِكَ كِتَابُ اللَّهِ",
+          "en": "That is the Book of Allah",
+          "my": "၎င်းသည် အလ္လာဟ်အရှင်မြတ်၏ ကျမ်းတော်ဖြစ်သည်",
+          "ref": "3:23"
+        }
+      },
+      {
+        "word": "إِنَّ اللَّهَ",
+        "translit": "inna-llāha",
+        "en": "Indeed Allah",
+        "my": "ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည်",
+        "quran_freq": 500,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "emphasis",
+          "concept_my": "အလေးပေးဖော်ပြခြင်း"
+        },
+        "memory_hook": {
+          "sound": "In-na",
+          "image": "A big neon sign emphasizing the truth",
+          "cross_language": "Inna"
+        },
+        "word_family": [
+          {
+            "ar": "إِنَّمَا",
+            "translit": "innamā",
+            "en": "only",
+            "my": "သာလျှင်",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "'Inna' makes the noun after it 'Mansub' (ending with -a).",
+        "example": {
+          "ar": "إِنَّ اللَّهَ غَفُورٌ",
+          "en": "Indeed Allah is Forgiving",
+          "my": "ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အလွန်ခွင့်လွှတ်တော်မူသောအရှင် ဖြစ်တော်မူ၏",
+          "ref": "2:173"
+        }
+      },
+      {
+        "word": "كَانَ اللَّهُ",
+        "translit": "kāna-llāhu",
+        "en": "Allah was/is",
+        "my": "အလ္လာဟ်အရှင်မြတ်သည် ဖြစ်တော်မူ၏",
+        "quran_freq": 200,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "က ဝ န",
+          "concept_en": "being or existence",
+          "concept_my": "ဖြစ်တည်မှု"
+        },
+        "memory_hook": {
+          "sound": "Cane",
+          "image": "A king's cane representing his steady existence",
+          "cross_language": "Kayanat (Universe)"
+        },
+        "word_family": [
+          {
+            "ar": "يَكُونُ",
+            "translit": "yakūnu",
+            "en": "he is/becomes",
+            "my": "သူဖြစ်သည်",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "'Kana' makes the predicate (the news) 'Mansub' (ending with -an).",
+        "example": {
+          "ar": "وَكَانَ اللَّهُ عَلِيمًا",
+          "en": "And Allah is ever Knowing",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းကို သိတော်မူသောအရှင် ဖြစ်တော်မူ၏",
+          "ref": "4:11"
+        }
+      },
+      {
+        "word": "الَّذِينَ",
+        "translit": "alladhīna",
+        "en": "those who",
+        "my": "ထိုသူများ",
+        "quran_freq": 1080,
+        "word_type": "Pronoun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "relative connection",
+          "concept_my": "ဆက်စပ်မှုပြနာမ်စား"
+        },
+        "memory_hook": {
+          "sound": "The-na",
+          "image": "Pointing to a group of people",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "الَّذِي",
+            "translit": "alladhī",
+            "en": "the one who",
+            "my": "ထိုသူ",
+            "freq": 300
+          }
+        ],
+        "pattern_unlock": "This starts a relative clause that describes the people.",
+        "example": {
+          "ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا",
+          "en": "O you who have believed",
+          "my": "အို-ယုံကြည်ခြင်းသဒ္ဓါတရား ထားရှိကြကုန်သော သူတို့",
+          "ref": "2:153"
+        }
+      },
+      {
+        "word": "لَيْسَ",
+        "translit": "laysa",
+        "en": "is not",
+        "my": "မဟုတ်ပါ",
+        "quran_freq": 89,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "လ ယ သ",
+          "concept_en": "negation of existence",
+          "concept_my": "မရှိခြင်း သို့မဟုတ် မဟုတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Less",
+          "image": "Something becoming less until it is gone",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "لَسْتُمْ",
+            "translit": "lastum",
+            "en": "you are not",
+            "my": "သင်တို့ မဟုတ်ကြ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "This is a 'sister of Kana' used to negate a noun sentence.",
+        "example": {
+          "ar": "لَيْسَ الْبِرَّ أَنْ تُوَلُّوا",
+          "en": "Righteousness is not that you turn",
+          "my": "ကောင်းမှုဆိုသည်မှာ သင်တို့ (မျက်နှာ) လှည့်ခြင်း မဟုတ်ပေ",
+          "ref": "2:177"
+        }
+      },
+      {
+        "word": "إِذَا",
+        "translit": "idhā",
+        "en": "when",
+        "my": "သောအခါ",
+        "quran_freq": 400,
+        "word_type": "Noun",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "certain time/condition",
+          "concept_my": "သေချာသောအချိန်/အခြေအနေ"
+        },
+        "memory_hook": {
+          "sound": "Eat-that",
+          "image": "Eating when you are hungry",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "إِذْ",
+            "translit": "idh",
+            "en": "when (past)",
+            "my": "ထိုစဉ်အခါက",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "Used for events that are guaranteed to happen.",
+        "example": {
+          "ar": "إِذَا زُلْزِلَتِ الْأَرْضُ",
+          "en": "When the earth is shaken",
+          "my": "ကမ္ဘာမြေ တုန်ခါသောအခါ",
+          "ref": "99:1"
+        }
+      },
+      {
+        "word": "مَنْ",
+        "translit": "man",
+        "en": "whoever",
+        "my": "မည်သူမဆို",
+        "quran_freq": 2960,
+        "word_type": "Pronoun",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "human conditional",
+          "concept_my": "လူသားနှင့်ဆိုင်သော အခြေအနေပြပုဒ်"
+        },
+        "memory_hook": {
+          "sound": "Man",
+          "image": "A man standing at a crossroad",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مَنْ",
+            "translit": "man",
+            "en": "who?",
+            "my": "ဘယ်သူလဲ",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "Used to link a person's choices to their consequences.",
+        "example": {
+          "ar": "مَن يَعْمَلْ سُوءًا",
+          "en": "Whoever does evil",
+          "my": "မည်သူမဆို မကောင်းမှုကို ပြုလုပ်လျှင်",
+          "ref": "4:123"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "مُرَاجَعَةُ النَّحْوِ",
+        "en": "The Grand Syntax Review",
+        "my": "ဝါကျတည်ဆောက်ပုံ အနှစ်ချုပ် ပြန်လည်သုံးသပ်ခြင်း"
+      },
+      "formula": {
+        "display": "Phase 3 = Idafah + Inna/Kana + Relatives + Conditionals",
+        "example": "إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوْا",
+        "myanmar_read": "ယခင်သင်ခန်းစာများအားလုံးကို စုစည်းလေ့လာခြင်း",
+        "key_insight": "Syntax is the 'DNA' of the sentence; once you master these building blocks, the Quranic message becomes crystal clear."
+      },
+      "explanation": {
+        "en": "Phase 3 covered the essential rules of sentence structure. We learned how nouns connect (Idafah), how particles add emphasis (Inna), how verbs describe state (Kana), how relatives describe nouns (Alladhina), and how conditions create cause-and-effect (In/Idha/Man/Ma).",
+        "my": "အဆင့် ၃ တွင် ဝါကျတည်ဆောက်ပုံ၏ အရေးကြီးသော စည်းမျဉ်းများကို လေ့လာခဲ့သည်။ နာမ်များ ချိတ်ဆက်ပုံ (Idafah)၊ အလေးပေးပုဒ်များ (Inna)၊ အခြေအနေပြကြိယာ (Kana)၊ ဆက်စပ်နာမ်စား (Alladhina) နှင့် အကြောင်းအကျိုးပြ ဝါကျများ (In/Idha/Man/Ma) တို့ကို စုစည်းတင်ပြထားသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese syntax is SOV (Subject-Object-Verb), while Arabic is often VSO or SVO. Phase 3 helps bridge this structural gap.",
+        "my": "မြန်မာဝါကျတည်ဆောက်ပုံသည် ကတ္တား-ကံ-ကြိယာ ဖြစ်သော်လည်း အာရပ်ဘာသာတွင် ကြိယာက အရှေ့သို့ ရောက်လေ့ရှိသည်။ ဤအဆင့်သည် ထိုကွာဟချက်ကို ဖြည့်ဆည်းပေးသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Particles like 'Inna' and 'In' change the endings of the words they govern.",
+          "rule_my": "'Inna' နှင့် 'In' ကဲ့သို့သော ပုဒ်များသည် ၎င်းတို့နောက်ရှိ စကားလုံးများ၏ အဆုံးသံကို ပြောင်းလဲစေသည်။",
+          "example": {
+            "ar": "اللَّهُ -> إِنَّ اللَّهَ",
+            "en": "Allah -> Indeed Allah",
+            "my": "အလ္လာဟ် -> ဧကန်စင်စစ် အလ္လာဟ်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+          "en": "Indeed, Allah is with the patient",
+          "my": "အို- အီမာန်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် သည်းခံခြင်း၊ စွလာသ်ဝတ်ပြုခြင်းတို့ဖြင့် (အရှင်မြတ်ထံတွင်) အကူအညီတောင်းကြပါ။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် သည်းခံသူများနှင့်အတူတကွ ရှိတော်မူသည်။",
+          "ref": "2:153",
+          "breakdown": {
+            "subject": {
+              "word": "إِنَّ اللَّهَ",
+              "en": "Indeed Allah",
+              "note": "Emphasis + Noun (Mansub)"
+            },
+            "predicate": {
+              "word": "مَعَ الصَّابِرِينَ",
+              "en": "with the patient",
+              "note": "Prepositional phrase"
+            }
+          },
+          "myanmar_insight": "Combines 'Inna' rule with a plural noun ending."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing up the effects of 'Inna' (makes noun -a) and 'Kana' (makes predicate -an).",
+          "wrong": {
+            "ar": "إِنَّ اللَّهُ / كَانَ اللَّهَ",
+            "note": "Opposite endings."
+          },
+          "correct": {
+            "ar": "إِنَّ اللَّهَ / كَانَ اللَّهُ",
+            "en": "Indeed Allah / Allah was",
+            "my": "ဧကန်စင်စစ် အလ္လာဟ် / အလ္လာဟ်သည် ဖြစ်တော်မူ၏"
+          },
+          "myanmar_tip": "Inna က အရှေ့ကို အသံပြောင်းတယ်၊ Kana က အနောက်ကို အသံပြောင်းတယ်လို့ မှတ်ထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အောက်ပါဝါကျတွင် အလေးပေးပုဒ် (Inna) ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+              "answer_en": "Inna",
+              "answer_my": "Inna",
+              "ref": "2:20"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "مَنْ يَتَّقِ اللَّهَ",
+              "answer_en": "Whoever fears Allah",
+              "answer_my": "မည်သူမဆို အလ္လာဟ်ကို ကြောက်ရွံ့လျှင်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "'Kana' ကို သုံး၍ ဝါကျတစ်ခု တည်ဆောက်ပါ",
+          "questions": [
+            {
+              "q": "اللَّهُ غَفُورًا",
+              "answer_en": "kana-llahu ghafuran",
+              "answer_my": "kana-llahu ghafuran",
+              "ar": "كَانَ اللَّهُ غَفُورًا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The beauty of Quranic syntax is that it creates a perfectly ordered universe where every word has its place, reflecting the perfect order of Allah's creation.",
+        "my": "ကုရ်အာန်၏ ဝါကျတည်ဆောက်ပုံ အလှတရားသည် စနစ်တကျရှိသော စကြဝဠာကို ထင်ဟပ်စေသည်။ စကားလုံးတိုင်းသည် ၎င်းတို့၏ နေရာတွင် တိကျစွာရှိနေခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ ဖန်ဆင်းမှုစနစ် တိကျမှုကို ပြသနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Nahl 16:128",
+        "study_number": 1,
+        "arabic_full": "إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوْا وَّالَّذِينَ هُم مُّحْسِنُونَ",
+        "en_sahih": "Indeed, Allah is with those who fear Him and those who are doers of good.",
+        "my_mmsy": "အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် ကြောက်ရွံ့အပြစ်ရှောင် ကောင်းကျိုးဆောင်ကြသောသူများနှင့်အတူ၊ ၎င်းနောက် ကောင်းမြတ်သောလုပ်ရပ်များကို ပြုလုပ်ကြသောသူများနှင့်အတူ ရှိတော်မူသည်။",
+        "audio_ref": {
+          "surah": 16,
+          "ayah": 128,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/016128.mp3"
+        },
+        "qurancom_url": "https://quran.com/16/128",
+        "context": {
+          "en": "This concluding verse of Surah An-Nahl gives a divine guarantee of support for those who embody the qualities of Taqwa and Ihsan.",
+          "my": "စူရာဟ် အန်-နဟ်လ်၏ ဤနောက်ဆုံးအာယသ်တော်သည် Taqwa (ကြောက်ရွံ့ရိုသေမှု) နှင့် Ihsan (ကောင်းမှုပြုခြင်း) ရှိသူများအတွက် အလ္လာဟ်အရှင်မြတ်၏ အကူအညီရရှိမည့်အကြောင်း အာမခံချက်ပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الَّذِينَ",
+            "translit": "alladhīna",
+            "en": "those who",
+            "my": "ထိုသူများ",
+            "role_en": "Relative Pronoun",
+            "role_my": "ဆက်စပ်နာမ်စား",
+            "root": "N/A",
+            "freq": 1080
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The ayah combines 'Inna' (emphasis) with 'Alladhina' (relative) to precisely define who receives Allah's companionship.",
+          "structure_my": "ဤအာယသ်တော်တွင် အလ္လာဟ်အရှင်မြတ်၏ အနီးကပ်စောင့်ရှောက်မှုကို မည်သူတို့ရရှိမည်ကို အတိအကျဖော်ပြရန် 'Inna' (အလေးပေးပုဒ်) နှင့် 'Alladhina' (ဆက်စပ်နာမ်စား) ကို တွဲသုံးထားသည်။",
+          "insight_en": "The word 'Ma'a' (with) acts as a bridge between the Divine and the believers.",
+          "insight_my": "'Ma'a' (နှင့်အတူ) ဟူသော စကားလုံးသည် ဖန်ဆင်းရှင်နှင့် ဖန်ဆင်းခံ ယုံကြည်သူများကြားရှိ ပေါင်းကူးတံတားတစ်ခုကဲ့သို့ ဆောင်ရွက်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ح س ن",
+            "concept_en": "Beauty, excellence, and doing things in the best possible way.",
+            "concept_my": "လှပခြင်း၊ ထူးကဲသာလွန်ခြင်းနှင့် အကောင်းဆုံးသောနည်းလမ်းဖြင့် ပြုလုပ်ခြင်း။",
+            "members": [
+              {
+                "ar": "حَسَنَة",
+                "en": "Good deed",
+                "my": "ကောင်းမှု",
+                "freq": 28
+              }
+            ],
+            "professors_note": "Ihsan is to worship Allah as if you see Him."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ မြန်မာမွတ်စလင်မ်လူ့အဖွဲ့အစည်းတွင် အချင်းချင်း ကူညီစောင့်ရှောက်ခြင်းနှင့် ကောင်းမြတ်သောအကျင့်စာရိတ္တ (Ihsan) ရှိခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ အနီးကပ်ကူညီမှုကို ရရှိစေမည့် လမ်းစဖြစ်သည်။ အရှင်မြတ်သည် ကျွန်ုပ်တို့နှင့်အတူရှိနေသည်ဟု ခံစားရခြင်းသည် အကြီးမားဆုံးသော အောင်မြင်မှုပင်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Inna-llaha-ma'alladhina-ttaqaw... wa-lladhina-hum-muhsinun.",
+          "meaning_anchor": "Imagine a shield (Taqwa) and a shining light (Ihsan) surrounding a believer.",
+          "daily_connection": "Recite to remind yourself of the two keys to Allah's company: Taqwa and Ihsan.",
+          "my": "နှုတ်တိုက်ကျက်ရလွယ်ကူသော စည်းချက်ရှိသည်။ 'အင်-နလောဟ-မအလ်-လဇီး-နသ်သကော... ဝလ်-လဇီး-နဟွန်-မုဟ်စီနူးန်'။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We completed Phase 3 by reviewing the core pillars of Arabic syntax. You are now equipped to break down complex Quranic sentences into their functional parts.",
+      "my": "အာရပ်ဝါကျတည်ဆောက်ပုံ၏ အခြေခံဒေါက်တိုင်များကို ပြန်လည်သုံးသပ်ခြင်းဖြင့် အဆင့် ၃ ကို အောင်မြင်စွာ ပြီးဆုံးခဲ့သည်။ ယခုအခါ သင်သည် ကုရ်အာန်၏ ရှုပ်ထွေးသော ဝါကျများကို အစိတ်အပိုင်းအလိုက် ခွဲခြားနားလည်နိုင်သော စွမ်းရည်ရှိနေပြီဖြစ်သည်။"
+    }
+  }
+]

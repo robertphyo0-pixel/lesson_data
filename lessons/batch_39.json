@@ -1,0 +1,2437 @@
+[
+  {
+    "lesson_id": "L4-191",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 191,
+    "title": {
+      "ar": "سُورَةُ الْعَلَقِ — طُغْيَانُ الْإِنْسَانِ",
+      "en": "Surah Al-Alaq: Man Transgresses",
+      "my": "စူရဟ်အလ်အလပ်က် - လူသားတို့၏ နယ်ကျွံမှု"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Inna + Lam of Emphasis + Mudari; Istaghna (Form X)",
+      "grammar_formula": "إِنَّ + Noun + لَـ + Verb = VERILY, [Noun] SURELY [Verbs]"
+    },
+    "section_1_vocab": [
+      {
+        "word": "طَغَىٰ",
+        "translit": "taghā",
+        "en": "he transgressed",
+        "my": "သူသည် နယ်ကျွံခဲ့သည်",
+        "quran_freq": 39,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ط غ ي",
+          "concept_en": "to exceed limits",
+          "concept_my": "အတိုင်းအတာကို ကျော်လွန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tag",
+          "image": "Tagging over a boundary line",
+          "cross_language": "Urdu: Taghyan"
+        },
+        "word_family": [
+          {
+            "ar": "طَاغِيَة",
+            "translit": "tāghiyah",
+            "en": "tyrant",
+            "my": "အာဏာရှင်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Words from this root always imply going beyond a proper boundary, like a river flooding.",
+        "example": {
+          "ar": "إِنَّ الْإِنْسَانَ لَيَطْغَىٰ",
+          "en": "Indeed, man transgresses",
+          "my": "ဧကန်စင်စစ် လူသားသည် နယ်ကျွံ၏",
+          "ref": "96:6"
+        }
+      },
+      {
+        "word": "اسْتَغْنَىٰ",
+        "translit": "istaghnā",
+        "en": "he felt self-sufficient",
+        "my": "မိမိကိုယ်ကို လုံလောက်သည်ဟု ထင်မြင်သည်",
+        "quran_freq": 6,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "اسْتَفْعَلَ",
+        "root": {
+          "letters": "غ ن ي",
+          "concept_en": "wealth and independence",
+          "concept_my": "ချမ်းသာကြွယ်ဝမှုနှင့် လွတ်လပ်မှု"
+        },
+        "memory_hook": {
+          "sound": "Ghani",
+          "image": "A wealthy person pushing away help",
+          "cross_language": "Myanmar: အလ်ဂနီ (The Rich - Allah's name)"
+        },
+        "word_family": [
+          {
+            "ar": "غَنِيّ",
+            "translit": "ghaniyy",
+            "en": "rich",
+            "my": "ချမ်းသာသော",
+            "freq": 26
+          }
+        ],
+        "pattern_unlock": "Form X (Istaf'ala) often means 'to consider oneself' or 'to seek' the root quality.",
+        "example": {
+          "ar": "أَنْ رَآهُ اسْتَغْنَىٰ",
+          "en": "Because he sees himself self-sufficient",
+          "my": "မိမိကိုယ်ကို ဖူလုံသည်ဟု မြင်သောကြောင့်",
+          "ref": "96:7"
+        }
+      },
+      {
+        "word": "رُجْعَىٰ",
+        "translit": "ruj'ā",
+        "en": "return",
+        "my": "ပြန်လည်ရောက်ရှိခြင်း",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فُعْلَى",
+        "root": {
+          "letters": "ر ج ع",
+          "concept_en": "to go back",
+          "concept_my": "ပြန်သွားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ruj",
+          "image": "Returning to a judge",
+          "cross_language": "Myanmar: ရုဂျူး (Return to Allah)"
+        },
+        "word_family": [
+          {
+            "ar": "رَجَعَ",
+            "translit": "raja'a",
+            "en": "he returned",
+            "my": "သူပြန်သွားခဲ့သည်",
+            "freq": 28
+          }
+        ],
+        "pattern_unlock": "The 'a' ending here denotes a final or ultimate noun of state.",
+        "example": {
+          "ar": "إِلَىٰ رَبِّكَ الرُّجْعَىٰ",
+          "en": "Indeed, to your Lord is the return",
+          "my": "ဧကန်စင်စစ် သင်၏အရှင်ထံသို့သာ ပြန်လှည့်ရမည်",
+          "ref": "96:8"
+        }
+      },
+      {
+        "word": "رَآى",
+        "translit": "ra'ā",
+        "en": "he saw",
+        "my": "သူမြင်ခဲ့သည်",
+        "quran_freq": 271,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ر أ ي",
+          "concept_en": "sight/opinion",
+          "concept_my": "အမြင် သို့မဟုတ် ထင်မြင်ချက်"
+        },
+        "memory_hook": {
+          "sound": "Ray",
+          "image": "A ray of light hitting the eye",
+          "cross_language": "Urdu: Royat"
+        },
+        "word_family": [
+          {
+            "ar": "رُؤْيَا",
+            "translit": "ru'yā",
+            "en": "vision/dream",
+            "my": "အိပ်မက်",
+            "freq": 7
+          }
+        ],
+        "pattern_unlock": "In the Quran, this verb can mean physical seeing or mental perceiving/thinking.",
+        "example": {
+          "ar": "أَنْ رَآهُ",
+          "en": "Because he saw him",
+          "my": "သူ့ကို သူမြင်ခဲ့သောကြောင့်",
+          "ref": "96:7"
+        }
+      },
+      {
+        "word": "إِنَّ",
+        "translit": "inna",
+        "en": "Indeed/Verily",
+        "my": "ဧကန်စင်စစ်",
+        "quran_freq": 1533,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "إ ن",
+          "concept_en": "certainty",
+          "concept_my": "သေချာမှု"
+        },
+        "memory_hook": {
+          "sound": "In",
+          "image": "Inside a solid box of truth",
+          "cross_language": "Malay: Inna"
+        },
+        "word_family": [],
+        "pattern_unlock": "This particle changes the following noun to the 'Mansub' (nasba) case.",
+        "example": {
+          "ar": "إِنَّ إِلَىٰ رَبِّكَ",
+          "en": "Indeed, to your Lord",
+          "my": "ဧကန်စင်စစ် သင်၏အရှင်ထံသို့",
+          "ref": "96:8"
+        }
+      },
+      {
+        "word": "إِنْسَان",
+        "translit": "insān",
+        "en": "human",
+        "my": "လူသား",
+        "quran_freq": 65,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "إِفْعَال",
+        "root": {
+          "letters": "أ ن س",
+          "concept_en": "to be sociable/forgetful",
+          "concept_my": "အပေါင်းအသင်းဝင်ခြင်း သို့မဟုတ် မေ့လျော့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Insane",
+          "image": "A human acting forgetful",
+          "cross_language": "Myanmar: အင်စာနီယသ် (Humanity)"
+        },
+        "word_family": [
+          {
+            "ar": "نَاس",
+            "translit": "nās",
+            "en": "people",
+            "my": "လူများ",
+            "freq": 241
+          }
+        ],
+        "pattern_unlock": "Commonly used for the species of mankind in the Quran.",
+        "example": {
+          "ar": "خَلَقَ الْإِنْسَانَ",
+          "en": "Created man",
+          "my": "လူသားအား ဖန်ဆင်းတော်မူခဲ့သည်",
+          "ref": "96:2"
+        }
+      },
+      {
+        "word": "لَـ",
+        "translit": "la",
+        "en": "surely/definitely",
+        "my": "ဧကန်အမှန်",
+        "quran_freq": 2000,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ل",
+          "concept_en": "emphasis",
+          "concept_my": "အလေးအနက်ပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "La",
+          "image": "A loud shout for attention",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "When attached to the second part of an Inna sentence, it adds double emphasis.",
+        "example": {
+          "ar": "لَيَطْغَىٰ",
+          "en": "surely transgresses",
+          "my": "ဧကန်အမှန် နယ်ကျွံ၏",
+          "ref": "96:6"
+        }
+      },
+      {
+        "word": "رَبّ",
+        "translit": "rabb",
+        "en": "Lord/Sustainer",
+        "my": "ဖန်ဆင်းမွေးမြူသော အရှင်",
+        "quran_freq": 980,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ر ب ب",
+          "concept_en": "to nurture",
+          "concept_my": "ပြုစုပျိုးထောင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rub",
+          "image": "A gardener rubbing soil to nurture plants",
+          "cross_language": "Myanmar: ရဗ်ဗုလ်အာလမီးန်"
+        },
+        "word_family": [
+          {
+            "ar": "رَبَّانِيّ",
+            "translit": "rabbāniyy",
+            "en": "godly person",
+            "my": "သူတော်စင်",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "One of the most frequent nouns in the Quran, implying both ownership and care.",
+        "example": {
+          "ar": "بِاسْمِ رَبِّكَ",
+          "en": "In the name of your Lord",
+          "my": "သင်၏အရှင်မြတ်၏ နာမံတော်ဖြင့်",
+          "ref": "96:1"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "إِنَّ وَاللَّامُ الْمُزَحْلَقَةُ",
+        "en": "Inna and the Emphatic Lam",
+        "my": "အင်န နှင့် အလေးအနက်ပြု လာမ်"
+      },
+      "formula": {
+        "display": "إِنَّ + الاسْم + لَـ + الْفِعْل",
+        "example": "إِنَّ زَيْدًا لَقَائِمٌ",
+        "myanmar_read": "Inna က 'ဧကန်စင်စစ်' ဟု အဓိပ္ပာယ်ရပြီး Lam က 'အမှန်တကယ်' ဟု ထပ်ဆင့် အလေးအနက်ပြုသည်",
+        "key_insight": "Inna is like a spotlight, and the 'La-' prefix on the verb is like a laser beam on top of it. Together, they leave zero room for doubt."
+      },
+      "explanation": {
+        "en": "When 'Inna' starts a sentence, it provides emphasis. To add even more power to the statement, a 'Lam' (known as the sliding Lam) is attached to the predicate (Khabar). In Surah Al-Alaq, this structure is used to describe the nature of man's rebellion against God.",
+        "my": "Inna သည် ဝါကျတစ်ခုကို အလေးအနက်ပြုရာတွင် သုံးသည်။ ၎င်းထက် ပို၍ လေးနက်စေလိုပါက သတင်းစကား (Khabar) ၏ ရှေ့တွင် 'La-' ကို ထည့်သွင်းသည်။ စူရဟ်အလ်အလပ်က်တွင် လူသားတို့၏ ဖီဆန်မှုကို ဖော်ပြရာ၌ ဤပုံစံကို အသုံးပြုထားသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese uses double emphasis particles like 'ဧကန်စင်စစ်... အမှန်ပင်' which mirrors this Arabic structure.",
+        "my": "မြန်မာဘာသာတွင် 'ဧကန်စင်စစ်... အမှန်ပင်' ဟု နှစ်ထပ်ကွမ်း အလေးအနက်ပြုခြင်းနှင့် ဆင်တူပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The Lam must not be attached directly to Inna's noun; it slides to the Khabar.",
+          "rule_my": "Lam သည် Inna ၏ နောက်တွင် ကပ်လျက်ရှိသော နာမ်တွင် မကပ်ဘဲ နောက်က သတင်းစကားတွင်သာ ကပ်ရမည်။",
+          "example": {
+            "ar": "إِنَّ الْإِنْسَانَ لَيَطْغَىٰ",
+            "en": "Indeed man surely transgresses",
+            "my": "ဧကန်စင်စစ် လူသားသည် အမှန်တကယ် နယ်ကျွံ၏"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِنَّ الْإِنْسَانَ لَيَطْغَىٰ",
+          "en": "Indeed, man transgresses",
+          "my": "(၆) အမှန်ပင်၊ မုချလူသားသည် ဆိုးသွမ်းပုန်ကန်လေ့ရှိသည်။",
+          "ref": "96:6",
+          "breakdown": {
+            "subject": {
+              "word": "الْإِنْسَانَ",
+              "en": "the human",
+              "note": "Ism Inna (Mansub)"
+            },
+            "predicate": {
+              "word": "لَيَطْغَىٰ",
+              "en": "surely transgresses",
+              "note": "Khabar with Emphatic Lam"
+            }
+          },
+          "myanmar_insight": "Inna ၏ အကျိုးသက်ရောက်မှုကြောင့် 'အလ်အင်စာနု' မှ 'အလ်အင်စာန' သို့ ပြောင်းလဲသွားသည်ကို သတိပြုပါ။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using 'Li-' instead of 'La-' for emphasis",
+          "wrong": {
+            "ar": "لِيَطْغَىٰ",
+            "note": "Li means 'for' or 'to', while La means emphasis."
+          },
+          "correct": {
+            "ar": "لَيَطْغَىٰ",
+            "en": "He surely transgresses",
+            "my": "သူသည် အမှန်တကယ် နယ်ကျွံ၏"
+          },
+          "myanmar_tip": "အလေးအနက်ပြုလိုလျှင် အသံထွက် (အာ) ဖြစ်သော 'လာ' ကို သုံးပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Inna and the Emphatic Lam",
+          "instruction_my": "Inna နှင့် အလေးအနက်ပြု လာမ် ကို ရှာဖွေပါ",
+          "questions": [
+            {
+              "q": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
+              "answer_en": "Inna + La-bil-mirsad",
+              "answer_my": "Inna နှင့် La-bil-mirsad",
+              "ref": "89:14"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "أَنْ رَآهُ اسْتَغْنَىٰ",
+              "answer_en": "Because he saw him self-sufficient",
+              "answer_my": "သူသည် မိမိကိုယ်ကို လုံလောက်သည်ဟု မြင်သောကြောင့်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "Al- ထည့်ခြင်းဖြင့် သတ်မှတ်နာမ် ပြုလုပ်ပါ",
+          "questions": [
+            {
+              "q": "إِنْسَان",
+              "answer_en": "The human",
+              "answer_my": "လူသား",
+              "ar": "الْإِنْسَان"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "This grammar pattern reveals the peak of human arrogance—when we feel self-sufficient (Istaghna), we forget our Creator and cross the boundaries (Tagha). Allah uses double emphasis to warn us that this state is a dangerous illusion.",
+        "my": "ဤဂရမ်မာပုံစံသည် လူသားတို့၏ မာနထောင်လွှားမှုကို ဖော်ပြသည်။ မိမိကိုယ်ကို ဖူလုံပြီဟု ထင်သောအခါ ဖန်ဆင်းရှင်ကို မေ့လျော့ပြီး နယ်ကျွံကြသည်။ အလ္လာဟ်အရှင်မြတ်သည် ဤအခြေအနေသည် အလွန်အန္တရာယ်ရှိသော လှည့်စားမှုဖြစ်ကြောင်း နှစ်ထပ်ကွမ်း သတိပေးထားခြင်း ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Alaq 96:8",
+        "study_number": 1,
+        "arabic_full": "إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ",
+        "en_sahih": "Indeed, to your Lord is the return.",
+        "my_mmsy": "(၈) အမှန်စင်စစ် ပြန်လည်ရောက်ရှိခြင်းသည် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်ထံတော်သို့ပင်ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 96,
+          "ayah": 8,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/096008.mp3"
+        },
+        "qurancom_url": "https://quran.com/96/8",
+        "context": {
+          "en": "After mentioning man's rebellion due to perceived wealth, Allah reminds us of the ultimate reality: the final return to Him for accountability.",
+          "my": "လူသားတို့၏ ချမ်းသာကြွယ်ဝမှုကြောင့် မာန်တက်မှုကို ဖော်ပြပြီးနောက်၊ အလ္လာဟ်အရှင်မြတ်သည် နောက်ဆုံးတွင် ကိုယ်တော်ထံသို့သာ ပြန်လာရမည်ဖြစ်ကြောင်း သတိပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "إِنَّ",
+            "translit": "inna",
+            "en": "Indeed",
+            "my": "ဧကန်စင်စစ်",
+            "role_en": "Particle",
+            "role_my": "အလေးအနက်ပြုပုဒ်",
+            "root": "إ ن",
+            "freq": 1533
+          },
+          {
+            "ar": "رَبِّكَ",
+            "translit": "rabbika",
+            "en": "your Lord",
+            "my": "သင်၏အရှင်",
+            "role_en": "Noun + Pronoun",
+            "role_my": "နာမ် + နာမ်စား",
+            "root": "ر ب ب",
+            "freq": 970
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The sentence begins with Inna followed by a prepositional phrase (Ila Rabbika) for further emphasis by restriction.",
+          "structure_my": "ဝါကျကို Inna နှင့် စတင်ထားပြီး 'သင်၏အရှင်ထံသို့သာ' ဟု ကန့်သတ်ခြင်းဖြင့် ပိုမို လေးနက်စေသည်။",
+          "insight_en": "The word 'Al-Ruj'a' is used instead of the more common 'Marji', implying a total and unavoidable return.",
+          "insight_my": "'ရုဂျ်အာ' ဆိုသောစကားလုံးသည် ရှောင်လွှဲ၍မရသော ပြန်လည်ရောက်ရှိခြင်းကို ဆိုလိုသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ر ج ع",
+            "concept_en": "to return to a previous state or place",
+            "concept_my": "ယခင်အခြေအနေ သို့မဟုတ် နေရာသို့ ပြန်သွားခြင်း",
+            "members": [
+              {
+                "ar": "مَرْجِع",
+                "en": "place of return",
+                "my": "ပြန်ရာဌာန",
+                "freq": 0
+              }
+            ],
+            "professors_note": "In Quranic psychology, return implies that we originally belonged to Allah; we are simply going back home."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် ဤလောကတွင် မည်မျှပင် အောင်မြင်မှုများ ရရှိသည်ဖြစ်စေ၊ နောက်ဆုံးတွင် အလ္လာဟ်အရှင်မြတ်ထံသို့သာ ပြန်သွားရမည်ဖြစ်သည်။ မိမိကိုယ်ကို လုံလောက်ပြီဟု ထင်မှတ်ခြင်းသည် လှည့်စားမှုသာ ဖြစ်သည်။ ဤအာယသ်တော်သည် ကျွန်ုပ်တို့၏ နှလုံးသားကို နှိမ့်ချမှုရှိစေရန်နှင့် နောင်တမလွန်အတွက် ပြင်ဆင်ရန် သတိပေးနေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Short, punchy rhythm ending with the 'aa' sound: Inna ila rabbika al-ruj'aa.",
+          "meaning_anchor": "Imagine a circle starting and ending at the same point.",
+          "daily_connection": "Recite this when feeling overconfident or arrogant about one's achievements.",
+          "my": "Inna ila rabbika al-ruj'aa ဟူသော စည်းချက်ကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored how 'Inna' and the sliding 'Lam' create powerful emphasis to describe human rebellion. We learned that 'Istaghna' (feeling self-sufficient) is the root cause of 'Tagha' (transgression). Understanding this helps us recognize our constant need for Allah.",
+      "my": "'Inna' နှင့် 'Lam' တို့သည် လူသားတို့၏ ဖီဆန်မှုကို မည်သို့ လေးနက်စေကြောင်း လေ့လာခဲ့သည်။ မိမိကိုယ်ကို လုံလောက်ပြီဟု ထင်ခြင်းသည် နယ်ကျွံမှု၏ အဓိက အကြောင်းရင်းဖြစ်ကြောင်း သိရှိခဲ့ရသည်။ ဤအချက်ကို နားလည်ခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်အား အမြဲတစေ အမှီသဟဲပြုရန် လိုအပ်ကြောင်း သဘောပေါက်စေပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L4-192",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 192,
+    "title": {
+      "ar": "سُورَةُ الْعَلَقِ — النَّهْيُ عَنِ الصَّلَاةِ",
+      "en": "Surah Al-Alaq: The Prohibition to Pray",
+      "my": "စူရဟ်အလ်အလပ်က် - ဆွလာသ်ဝတ်ပြုမှုကို တားမြစ်ခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "A-ra'ayta (did you see?) rhetorical; Alladhi relative clause",
+      "grammar_formula": "أَرَأَيْتَ + الَّذِي = HAVE YOU SEEN THE ONE WHO...?"
+    },
+    "section_1_vocab": [
+      {
+        "word": "يَنْهَىٰ",
+        "translit": "yanhā",
+        "en": "he forbids",
+        "my": "သူသည် တားမြစ်သည်",
+        "quran_freq": 28,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلُ",
+        "root": {
+          "letters": "ن ه ي",
+          "concept_en": "to prohibit/restrain",
+          "concept_my": "တားဆီးခြင်း သို့မဟုတ် ထိန်းချုပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Nay",
+          "image": "Saying 'Nay' to an action",
+          "cross_language": "Myanmar: နဟီ (Prohibition)"
+        },
+        "word_family": [
+          {
+            "ar": "مُنْتَهِي",
+            "translit": "muntahi",
+            "en": "finishing",
+            "my": "အဆုံးသတ်ခြင်း",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "This root is used for both 'stopping' others and 'rational intelligence' (nuhā) because it restrains one's whims.",
+        "example": {
+          "ar": "أَرَأَيْتَ الَّذِي يَنْهَىٰ",
+          "en": "Have you seen the one who forbids",
+          "my": "တားမြစ်သောသူကို သင်မြင်ဖူးပါသလော",
+          "ref": "96:9"
+        }
+      },
+      {
+        "word": "عَبْد",
+        "translit": "'abd",
+        "en": "slave/servant",
+        "my": "ကျွန်/အစေခံ",
+        "quran_freq": 280,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ع ب د",
+          "concept_en": "to serve/worship",
+          "concept_my": "ခစားခြင်း သို့မဟုတ် ဝတ်ပြုကိုးကွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Abid",
+          "image": "A person bowing down in service",
+          "cross_language": "Myanmar: အဗ်ဒူလ္လာဟ်"
+        },
+        "word_family": [
+          {
+            "ar": "عِبَادَة",
+            "translit": "'ibādah",
+            "en": "worship",
+            "my": "ဝတ်ပြုကိုးကွယ်ခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This word specifically refers to the relationship of the creation to the Creator.",
+        "example": {
+          "ar": "عَبْدًا إِذَا صَلَّىٰ",
+          "en": "A servant when he prays",
+          "my": "ဝတ်ပြုသော ကျွန်တစ်ဦးကို",
+          "ref": "96:10"
+        }
+      },
+      {
+        "word": "صَلَّىٰ",
+        "translit": "sallā",
+        "en": "he prayed",
+        "my": "သူသည် ဝတ်ပြုခဲ့သည်",
+        "quran_freq": 12,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ص ل و",
+          "concept_en": "to connect/pray",
+          "concept_my": "ဆက်သွယ်ခြင်း သို့မဟုတ် ဆုတောင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Salah",
+          "image": "Daily prayer",
+          "cross_language": "Myanmar: ဆွလာသ်"
+        },
+        "word_family": [
+          {
+            "ar": "صَلَاة",
+            "translit": "salāh",
+            "en": "prayer",
+            "my": "ဆွလာသ်",
+            "freq": 67
+          }
+        ],
+        "pattern_unlock": "Form II verb used specifically for performing prayer.",
+        "example": {
+          "ar": "عَبْدًا إِذَا صَلَّىٰ",
+          "en": "A servant when he prays",
+          "my": "ဝတ်ပြုသော ကျွန်တစ်ဦးကို",
+          "ref": "96:10"
+        }
+      },
+      {
+        "word": "هُدَىٰ",
+        "translit": "hudā",
+        "en": "guidance",
+        "my": "လမ်းညွှန်မှု",
+        "quran_freq": 85,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعَل",
+        "root": {
+          "letters": "ه د ي",
+          "concept_en": "to guide",
+          "concept_my": "လမ်းညွှန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hood",
+          "image": "A GPS hood guiding a driver",
+          "cross_language": "Myanmar: ဟေဒါယသ်"
+        },
+        "word_family": [
+          {
+            "ar": "هَادِي",
+            "translit": "hādī",
+            "en": "guide",
+            "my": "လမ်းပြသူ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Huda is the 'source' or 'concept' of guidance itself.",
+        "example": {
+          "ar": "إِنْ كَانَ عَلَى الْهُدَىٰ",
+          "en": "If he was upon guidance",
+          "my": "သူသည် တရားလမ်းပေါ်တွင် ရှိနေပါက",
+          "ref": "96:11"
+        }
+      },
+      {
+        "word": "تَقْوَىٰ",
+        "translit": "taqwā",
+        "en": "God-consciousness/piety",
+        "my": "ဘုရားသခင်ကို ကြောက်ရွံ့ခြင်း",
+        "quran_freq": 17,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَى",
+        "root": {
+          "letters": "و ق ي",
+          "concept_en": "to guard/protect",
+          "concept_my": "ကာကွယ်စောင့်ရှောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Taqwa",
+          "image": "Wearing a shield of protection",
+          "cross_language": "Myanmar: သက္ကဝါ"
+        },
+        "word_family": [
+          {
+            "ar": "اتَّقَى",
+            "translit": "ittaqa",
+            "en": "he guarded against",
+            "my": "သူသည် ကာကွယ်ခဲ့သည်",
+            "freq": 30
+          }
+        ],
+        "pattern_unlock": "Taqwa literally means to protect oneself from Allah's displeasure.",
+        "example": {
+          "ar": "أَوْ أَمَرَ بِالتَّقْوَىٰ",
+          "en": "Or enjoined piety",
+          "my": "သို့မဟုတ် ဘုရားတရားကို လိုက်နာရန် အမိန့်ပေးပါက",
+          "ref": "96:12"
+        }
+      },
+      {
+        "word": "أَمَرَ",
+        "translit": "amara",
+        "en": "he commanded",
+        "my": "သူအမိန့်ပေးခဲ့သည်",
+        "quran_freq": 182,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "أ م ر",
+          "concept_en": "to command/affair",
+          "concept_my": "အမိန့်ပေးခြင်း သို့မဟုတ် ကိစ္စရပ်"
+        },
+        "memory_hook": {
+          "sound": "Amir",
+          "image": "An Amir giving an order",
+          "cross_language": "Myanmar: အမိန့်"
+        },
+        "word_family": [
+          {
+            "ar": "أَمْر",
+            "translit": "amr",
+            "en": "command/matter",
+            "my": "အမိန့်/ကိစ္စ",
+            "freq": 188
+          }
+        ],
+        "pattern_unlock": "A primary verb for authority and command in the Quran.",
+        "example": {
+          "ar": "أَمَرَ بِالتَّقْوَىٰ",
+          "en": "He commanded piety",
+          "my": "ဘုရားတရားကို လိုက်နာရန် အမိန့်ပေးခဲ့သည်",
+          "ref": "96:12"
+        }
+      },
+      {
+        "word": "كَانَ",
+        "translit": "kāna",
+        "en": "he was",
+        "my": "သူဖြစ်ခဲ့သည်",
+        "quran_freq": 1358,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ك و ن",
+          "concept_en": "to be/exist",
+          "concept_my": "ဖြစ်တည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Can",
+          "image": "A 'can' of soup that existed in the past",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "كَوْن",
+            "translit": "kawn",
+            "en": "universe/existence",
+            "my": "စကြဝဠာ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The most common auxiliary verb in Arabic, denoting past or continuous states.",
+        "example": {
+          "ar": "إِنْ كَانَ عَلَى الْهُدَىٰ",
+          "en": "If he was upon guidance",
+          "my": "သူသည် တရားလမ်းပေါ်တွင် ရှိနေပါက",
+          "ref": "96:11"
+        }
+      },
+      {
+        "word": "الَّذِي",
+        "translit": "alladhī",
+        "en": "the one who",
+        "my": "အကြင်သူ",
+        "quran_freq": 1442,
+        "word_type": "Pronoun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ل ذ ي",
+          "concept_en": "relative pronoun",
+          "concept_my": "ဆက်စပ်နာမ်စား"
+        },
+        "memory_hook": {
+          "sound": "Allies",
+          "image": "A person linking two groups",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "الَّذِينَ",
+            "translit": "alladhīna",
+            "en": "those who",
+            "my": "အကြင်သူတို့",
+            "freq": 1080
+          }
+        ],
+        "pattern_unlock": "This relative pronoun is essential for connecting a person to an action.",
+        "example": {
+          "ar": "أَرَأَيْتَ الَّذِي يَنْهَىٰ",
+          "en": "Have you seen the one who forbids",
+          "my": "တားမြစ်သောသူကို သင်မြင်ဖူးပါသလော",
+          "ref": "96:9"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الِاسْتِفْهَامُ التَّقْرِيرِيُّ",
+        "en": "Rhetorical Questioning",
+        "my": "အမေးစကားဖြင့် အလေးအနက်ပြုခြင်း"
+      },
+      "formula": {
+        "display": "أَ + رَأَيْتَ = أَرَأَيْتَ؟",
+        "example": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ؟",
+        "myanmar_read": "Hamza (A) က မေးခွန်းဖြစ်ပြီး Ra'ayta က 'သင်မြင်ဖူးသလား' ဖြစ်သည်။ ပေါင်းစပ်လိုက်လျှင် 'သင်မြင်ဖူးသလား' ဟု အံ့သြစွာ မေးခြင်းဖြစ်သည်။",
+        "key_insight": "In these ayahs, 'A-ra'ayta' is not a simple question about sight; it's an invitation to ponder the absurdity of a person preventing another from praying."
+      },
+      "explanation": {
+        "en": "The phrase 'A-ra'ayta' (Have you seen?) is used in the Quran to draw immediate attention to a person's conduct. It is followed by 'Alladhi' (the one who) to link the person to their specific action, like 'forbidding prayer'. This creates a vivid image of the transgressor.",
+        "my": "'A-ra'ayta' (သင်မြင်ဖူးပါသလား) ဆိုသော စကားစုသည် ကုရ်အာန်တွင် လူတစ်ဦး၏ အပြုအမူကို အာရုံစိုက်စေရန် သုံးသည်။ ၎င်းနောက်တွင် 'Alladhi' (အကြင်သူ) ကို သုံးပြီး ထိုသူ၏ 'ဆွလာသ်တားမြစ်ခြင်း' ကဲ့သို့သော အပြုအမူနှင့် ချိတ်ဆက်ပြသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we often use 'မြင်ဖူးလား' (Have you seen?) not to ask about vision, but to highlight a surprising situation.",
+        "my": "မြန်မာစကားတွင် 'မြင်ဖူးလား' ဆိုသည်မှာ အမြင်အာရုံကို မေးခြင်းထက် ထူးဆန်းသော အခြေအနေကို ထောက်ပြရာတွင် သုံးလေ့ရှိပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The 'A' (Hamza) at the beginning is the interrogative particle.",
+          "rule_my": "အစတွင်ရှိသော 'A' (ဟမ်ဇာ) သည် မေးခွန်းသင်္ကေတ ဖြစ်သည်။",
+          "example": {
+            "ar": "أَرَأَيْتَ",
+            "en": "Have you seen?",
+            "my": "သင်မြင်ဖူးပါသလော"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "أَرَأَيْتَ الَّذِي يَنْهَىٰ * عَبْدًا إِذَا صَلَّىٰ",
+          "en": "Have you seen the one who forbids a servant when he prays?",
+          "my": "(၉) အသင်သည် တားမြစ်နေသောသူကိုမြင်ခဲ့ပါ၏လော၊",
+          "ref": "96:9-10",
+          "breakdown": {
+            "subject": {
+              "word": "الَّذِي",
+              "en": "the one who",
+              "note": "Relative Pronoun"
+            },
+            "predicate": {
+              "word": "يَنْهَىٰ",
+              "en": "forbids",
+              "note": "The action being questioned"
+            }
+          },
+          "myanmar_insight": "'Alladhi' သည် မည်သူ့ကို ဆိုလိုကြောင်း အသေးစိတ် ရှင်းပြရန် နောက်က ဝါကျစုနှင့် ချိတ်ပေးသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking 'Alladhi' means 'and' because it connects sentences.",
+          "wrong": {
+            "ar": "الَّذِي",
+            "note": "Alladhi is a pronoun meaning 'the one who', not a conjunction like 'and'."
+          },
+          "correct": {
+            "ar": "الَّذِي يَنْهَىٰ",
+            "en": "The one who forbids",
+            "my": "တားမြစ်သောသူ"
+          },
+          "myanmar_tip": "'Alladhi' ကို 'အကြင်သူ' သို့မဟုတ် 'သောသူ' ဟု ဘာသာပြန်ရန် မှတ်ထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the relative pronoun Alladhi",
+          "instruction_my": "ဆက်စပ်နာမ်စား Alladhi ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+              "answer_en": "Alladhi",
+              "answer_my": "Alladhi",
+              "ref": "107:1"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "عَبْدًا إِذَا صَلَّىٰ",
+              "answer_en": "A servant when he prays",
+              "answer_my": "ဝတ်ပြုသော ကျွန်တစ်ဦးကို"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Combine 'A' and 'Ra'ayta'",
+          "instruction_my": "'A' နှင့် 'Ra'ayta' ကို ပေါင်းစပ်ပါ",
+          "questions": [
+            {
+              "q": "أ + رَأَيْتَ",
+              "answer_en": "A-ra'ayta",
+              "answer_my": "A-ra'ayta",
+              "ar": "أَرَأَيْتَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Allah poses these questions to the Prophet (PBUH) to show the irony of Abu Jahl's actions. How can a mortal man try to stop another from connecting with his Creator? It highlights that true guidance is a blessing from Allah that some try to block.",
+        "my": "အလ္လာဟ်အရှင်မြတ်သည် တမန်တော်မြတ်အား ဤမေးခွန်းများ မေးခြင်းဖြင့် အဘူဂျဟ်၏ လုပ်ရပ်များကို ထောက်ပြနေခြင်း ဖြစ်သည်။ သာမန်လူသားတစ်ဦးက အခြားတစ်ဦး၏ ဖန်ဆင်းရှင်နှင့် ဆက်သွယ်မှုကို မည်သို့ တားဆီးနိုင်မည်နည်း။ ၎င်းသည် စစ်မှန်သော လမ်းညွှန်မှု၏ တန်ဖိုးကို ဖော်ပြသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Alaq 96:11",
+        "study_number": 1,
+        "arabic_full": "أَرَأَيْتَ إِنْ كَانَ عَلَى الْهُدَىٰ",
+        "en_sahih": "Have you seen if he is upon guidance?",
+        "my_mmsy": "(၁၁) အသင်မည်သို့ယူဆသနည်း၊ အကယ်၍ ထို(တားမြစ်ခံရ)သူသည် တရားလမ်းမှန်ပေါ်တွင်ရှိခဲ့လျှင်၊",
+        "audio_ref": {
+          "surah": 96,
+          "ayah": 11,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/096011.mp3"
+        },
+        "qurancom_url": "https://quran.com/96/11",
+        "context": {
+          "en": "Allah is asking about the one being prevented (the Prophet) or challenging the preventer to think: What if this person I am stopping is actually on the right path?",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် တားမြစ်ခံရသူ (တမန်တော်မြတ်) အကြောင်းကို မေးခြင်း သို့မဟုတ် တားမြစ်သူအား 'ငါတားနေတဲ့သူက အမှန်တရားပေါ်မှာ ရှိနေရင်ကော' ဟု စဉ်းစားစေခြင်း ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "إِنْ",
+            "translit": "in",
+            "en": "if",
+            "my": "အကယ်၍",
+            "role_en": "Conditional Particle",
+            "role_my": "အခြေအနေပြပုဒ်",
+            "root": "إ ن",
+            "freq": 585
+          },
+          {
+            "ar": "عَلَى",
+            "translit": "'alā",
+            "en": "upon",
+            "my": "အပေါ်၌",
+            "role_en": "Preposition",
+            "role_my": "ဝိဘတ်",
+            "root": "ع ل و",
+            "freq": 1445
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Uses the conditional 'In' (If) to set up a hypothetical that leads to a deep realization.",
+          "structure_my": "'In' (အကယ်၍) ကို သုံးပြီး နက်နဲသော စဉ်းစားဆင်ခြင်မှုဆီသို့ ဦးတည်စေသည်။",
+          "insight_en": "The use of 'Ala' (upon) implies that guidance is like a solid foundation or a mount that one sits firmly upon.",
+          "insight_my": "'အလား' (အပေါ်၌) ဟု သုံးခြင်းမှာ လမ်းညွှန်မှုသည် ခိုင်မာသော အုတ်မြစ်တစ်ခုကဲ့သို့ ဖြစ်ကြောင်း ပြသသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ه د ي",
+            "concept_en": "to lead someone gently to their destination",
+            "concept_my": "တစ်စုံတစ်ဦးကို ညင်သာစွာ လမ်းပြခေါ်ဆောင်ခြင်း",
+            "members": [
+              {
+                "ar": "هَدِيَّة",
+                "en": "gift",
+                "my": "လက်ဆောင်",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Guidance is called 'Hadiya' (gift) in its root form because you cannot force it; it is a gentle gift from Allah."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် တစ်ခါတစ်ရံတွင် သူတစ်ပါး၏ ကောင်းမှုများကို သတိမပြုမိဘဲ ဝေဖန်တတ်ကြသည်။ အကယ်၍ ထိုသူသည် အလ္လာဟ်အရှင်မြတ်၏ လမ်းညွှန်မှုစစ်စစ်ပေါ်တွင် ရှိနေပါက ကျွန်ုပ်တို့၏ အခြေအနေမှာ အဘယ်သို့ ရှိမည်နည်း။ ဤအာယသ်တော်သည် ကျွန်ုပ်တို့အား သူတစ်ပါး၏ အခြေအနေကို လေးစားရန်နှင့် မိမိကိုယ်မိမိ ပြန်လည်သုံးသပ်ရန် သင်ခန်းစာပေးပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "A-ra'ayta in kāna 'ala al-huda.",
+          "meaning_anchor": "Imagine a bright light shining on a straight path.",
+          "daily_connection": "Recite this when you are unsure about someone's intentions, to remind yourself that Allah knows best.",
+          "my": "အမေးပုံစံ အသံထွက်ကို ဂရုပြုပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We learned the rhetorical power of 'A-ra'ayta' and how it focuses our minds on moral scenarios. We also explored vocabulary related to guidance (Huda) and piety (Taqwa), and how the relative pronoun 'Alladhi' defines the subject of an action.",
+      "my": "'A-ra'ayta' ၏ အမေးစကား အာနိသင်နှင့် ၎င်းက ကျွန်ုပ်တို့၏ စိတ်ကို မည်သို့ ဆွဲဆောင်ကြောင်း လေ့လာခဲ့သည်။ လမ်းညွှန်မှု (Huda) နှင့် ဘုရားကြောက်စိတ် (Taqwa) ဆိုင်ရာ ဝေါဟာရများကိုလည်း သင်ယူခဲ့ပြီး 'Alladhi' က လုပ်ဆောင်သူကို မည်သို့ သတ်မှတ်ကြောင်း နားလည်ခဲ့သည်။"
+    }
+  },
+  {
+    "lesson_id": "L4-193",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 193,
+    "title": {
+      "ar": "سُورَةُ التِّينِ — الْقَسَمُ وَأَحْسَنُ تَقْوِيمٍ",
+      "en": "Surah At-Tin: The Fig and the Olive",
+      "my": "စူရဟ်အသ်သီးန် - သဖန်းသီးနှင့် သံလွင်သီး"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Waw oath series; Ahsan taqwim — Af'al superlative",
+      "grammar_formula": "وَ + Noun (Kasra) = BY THE [Noun]"
+    },
+    "section_1_vocab": [
+      {
+        "word": "التِّين",
+        "translit": "at-tīn",
+        "en": "the fig",
+        "my": "သဖန်းသီး",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ت ي ن",
+          "concept_en": "fig tree/fruit",
+          "concept_my": "သဖန်းပင် သို့မဟုတ် အသီး"
+        },
+        "memory_hook": {
+          "sound": "Teen",
+          "image": "A teenager eating a fig",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "This is a unique noun occurring once in the Quran to represent a blessed fruit or location.",
+        "example": {
+          "ar": "وَالتِّينِ وَالزَّيْتُونِ",
+          "en": "By the fig and the olive",
+          "my": "သဖန်းသီးကိုလည်းကောင်း၊ သံလွင်သီးကိုလည်းကောင်း တိုင်တည်၍",
+          "ref": "95:1"
+        }
+      },
+      {
+        "word": "الزَّيْتُون",
+        "translit": "az-zaytūn",
+        "en": "the olive",
+        "my": "သံလွင်သီး",
+        "quran_freq": 6,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلُون",
+        "root": {
+          "letters": "ز ي ت",
+          "concept_en": "oil/olive",
+          "concept_my": "ဆီ သို့မဟုတ် သံလွင်"
+        },
+        "memory_hook": {
+          "sound": "Zayt",
+          "image": "A bottle of olive oil",
+          "cross_language": "Myanmar: ဇိုင်သုန် (Olive)"
+        },
+        "word_family": [
+          {
+            "ar": "زَيْت",
+            "translit": "zayt",
+            "en": "oil",
+            "my": "ဆီ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "This root specifically refers to the oil and the fruit, both symbols of blessing.",
+        "example": {
+          "ar": "وَالزَّيْتُونِ",
+          "en": "And the olive",
+          "my": "သံလွင်သီးကိုလည်းကောင်း",
+          "ref": "95:1"
+        }
+      },
+      {
+        "word": "أَحْسَن",
+        "translit": "ahsan",
+        "en": "best/most beautiful",
+        "my": "အကောင်းဆုံး/အလှဆုံး",
+        "quran_freq": 36,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "أَفْعَل",
+        "root": {
+          "letters": "ح س ن",
+          "concept_en": "beauty/goodness",
+          "concept_my": "အလှအပ သို့မဟုတ် ကောင်းမြတ်မှု"
+        },
+        "memory_hook": {
+          "sound": "Hassan",
+          "image": "A person named Hassan doing something best",
+          "cross_language": "Myanmar: အဲဟ်စာန် (Perfection)"
+        },
+        "word_family": [
+          {
+            "ar": "حَسَنَة",
+            "translit": "hasanah",
+            "en": "good deed",
+            "my": "ကောင်းမှု",
+            "freq": 28
+          }
+        ],
+        "pattern_unlock": "The Af'al pattern turns a quality into its superlative 'the most...'.",
+        "example": {
+          "ar": "فِي أَحْسَنِ تَقْوِيمٍ",
+          "en": "In the best of forms",
+          "my": "အကောင်းဆုံးသော ပုံပန်းသဏ္ဍာန်ဖြင့်",
+          "ref": "95:4"
+        }
+      },
+      {
+        "word": "تَقْوِيم",
+        "translit": "taqwīm",
+        "en": "stature/form",
+        "my": "ပုံသဏ္ဍာန်/ဖွဲ့စည်းပုံ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "ق و م",
+          "concept_en": "to stand straight",
+          "concept_my": "မတ်မတ်ရပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Time",
+          "image": "A person standing tall and straight",
+          "cross_language": "Myanmar: ဣကာမသ်"
+        },
+        "word_family": [
+          {
+            "ar": "مُسْتَقِيم",
+            "translit": "mustaqīm",
+            "en": "straight",
+            "my": "ဖြောင့်မတ်သော",
+            "freq": 37
+          }
+        ],
+        "pattern_unlock": "This word describes the balance and symmetry in human creation.",
+        "example": {
+          "ar": "أَحْسَنِ تَقْوِيمٍ",
+          "en": "best of forms",
+          "my": "အကောင်းဆုံးသော ပုံပန်းသဏ္ဍာန်",
+          "ref": "95:4"
+        }
+      },
+      {
+        "word": "بَلَد",
+        "translit": "balad",
+        "en": "city/land",
+        "my": "မြို့/နယ်မြေ",
+        "quran_freq": 19,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "ب ل د",
+          "concept_en": "land/territory",
+          "concept_my": "နယ်မြေ"
+        },
+        "memory_hook": {
+          "sound": "Ballad",
+          "image": "A song about a city",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "بِلَاد",
+            "translit": "bilād",
+            "en": "lands",
+            "my": "နယ်မြေများ",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "Often refers to Makkah in the Quran when preceded by 'this'.",
+        "example": {
+          "ar": "وَهَٰذَا الْبَلَدِ الْأَمِينِ",
+          "en": "And by this secure city",
+          "my": "ဤဘေးကင်းလုံခြုံသော မြို့တော်ကိုလည်းကောင်း",
+          "ref": "95:3"
+        }
+      },
+      {
+        "word": "أَمِين",
+        "translit": "amīn",
+        "en": "secure/trustworthy",
+        "my": "လုံခြုံသော/ယုံကြည်ရသော",
+        "quran_freq": 13,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "safety/trust",
+          "concept_my": "ဘေးကင်းမှု သို့မဟုတ် ယုံကြည်မှု"
+        },
+        "memory_hook": {
+          "sound": "Amen",
+          "image": "Saying 'Ameen' after a prayer for safety",
+          "cross_language": "Myanmar: အမာနသ်"
+        },
+        "word_family": [
+          {
+            "ar": "إِيمَان",
+            "translit": "īmān",
+            "en": "faith",
+            "my": "အီမာန်",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "Relates to both security (peace) and integrity (trust).",
+        "example": {
+          "ar": "الْبَلَدِ الْأَمِينِ",
+          "en": "The secure city",
+          "my": "ဘေးကင်းလုံခြုံသော မြို့တော်",
+          "ref": "95:3"
+        }
+      },
+      {
+        "word": "طُور",
+        "translit": "tūr",
+        "en": "mount/mountain",
+        "my": "တောင်တော်",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ط و ر",
+          "concept_en": "mountain/stage",
+          "concept_my": "တောင် သို့မဟုတ် အဆင့်"
+        },
+        "memory_hook": {
+          "sound": "Tour",
+          "image": "A tour up a mountain",
+          "cross_language": "Myanmar: သူရ်တောင်"
+        },
+        "word_family": [],
+        "pattern_unlock": "Specifically refers to Mount Sinai where Allah spoke to Musa (AS).",
+        "example": {
+          "ar": "وَطُورِ سِينِينَ",
+          "en": "By Mount Sinai",
+          "my": "သူရ်စီနီးန် တောင်တော်ကိုလည်းကောင်း",
+          "ref": "95:2"
+        }
+      },
+      {
+        "word": "سِينِين",
+        "translit": "sīnīn",
+        "en": "Sinai",
+        "my": "စီနီးန် (အရပ်ဒေသ)",
+        "quran_freq": 1,
+        "word_type": "Noun/Proper Name",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "س ي ن",
+          "concept_en": "Sinai region",
+          "concept_my": "စီနီးန်ဒေသ"
+        },
+        "memory_hook": {
+          "sound": "Seen",
+          "image": "A place that has been 'seen'",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "A specific geographic location in the Quran.",
+        "example": {
+          "ar": "وَطُورِ سِينِينَ",
+          "en": "By Mount Sinai",
+          "my": "သူရ်စီနီးန် တောင်တော်ကိုလည်းကောင်း",
+          "ref": "95:2"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أَسْلُوبُ الْقَسَمِ",
+        "en": "The Method of Oaths",
+        "my": "ကျိန်ဆိုခြင်း ပုံစံ"
+      },
+      "formula": {
+        "display": "وَ + Ism (Majrur)",
+        "example": "وَالشَّمْسِ، وَالْقَمَرِ",
+        "myanmar_read": "'ဝါ' က ကျိန်ဆိုခြင်းကို ပြပြီး နောက်က နာမ်ကို ဂျဲရ် (Kasra) ပေးသည်။",
+        "key_insight": "In Arabic, when Allah swears by something, He is highlighting its importance and using it as evidence for the statement that follows (the Jawab al-Qasam)."
+      },
+      "explanation": {
+        "en": "The 'Waw al-Qasam' is a particle used for swearing an oath. It requires the noun that follows to be in the Majrur state (ending with Kasra). Surah At-Tin starts with four consecutive oaths to emphasize the perfection of human creation.",
+        "my": "'Waw al-Qasam' သည် ကျိန်ဆိုရာတွင် သုံးသော ပုဒ်ဖြစ်သည်။ ၎င်း၏နောက်တွင် ရှိသော နာမ်သည် Kasra (အောက်ကဆွဲ) ဖြင့် ဆုံးရမည်။ စူရဟ်အသ်သီးန်တွင် လူသားဖန်ဆင်းမှု၏ ပြည့်စုံမှုကို အလေးပေးရန် ကျိန်ဆိုချက် လေးခုဖြင့် စတင်ထားသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, oaths are often expressed with 'ကို တိုင်တည်၍' (By...). The Arabic Waw acts like this phrase.",
+        "my": "မြန်မာဘာသာတွင် '...ကို တိုင်တည်၍' ဟု ကျိန်ဆိုခြင်းနှင့် အာရပ်ဘာသာမှ 'Waw' သည် သဘောတရား တူညီပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The Waw of Oath makes the following noun Majrur.",
+          "rule_my": "ကျိန်ဆိုခြင်း ဝါ သည် ၎င်းနောက်က နာမ်ကို Majrur (ဂျဲရ်) ဖြစ်စေသည်။",
+          "example": {
+            "ar": "وَالتِّينِ",
+            "en": "By the fig",
+            "my": "သဖန်းသီးကို တိုင်တည်၍"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Af'al pattern (like Ahsan) is used for superlatives (the most/best).",
+          "rule_my": "Af'al ပုံစံ (Ahsan ကဲ့သို့) ကို အသာလွန်ဆုံး (အကောင်းဆုံး) ဟု ဖော်ပြရာတွင် သုံးသည်။",
+          "example": {
+            "ar": "أَحْسَنِ تَقْوِيمٍ",
+            "en": "Best of forms",
+            "my": "အကောင်းဆုံးသော ပုံသဏ္ဍာန်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "وَالتِّينِ وَالزَّيْتُونِ",
+          "en": "By the fig and the olive",
+          "my": "MYANMAR_PLACE_HOLDER_S95_A1",
+          "ref": "95:1",
+          "breakdown": {
+            "subject": {
+              "word": "التِّينِ",
+              "en": "the fig",
+              "note": "Majrur due to Waw al-Qasam"
+            },
+            "predicate": {
+              "word": "الزَّيْتُونِ",
+              "en": "the olive",
+              "note": "Connected by regular Waw"
+            }
+          },
+          "myanmar_insight": "ပထမ ဝါ သည် ကျိန်ဆိုခြင်းဖြစ်ပြီး ဒုတိယ ဝါ သည် 'နှင့်' ဟု အဓိပ္ပာယ်ရသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking every 'Waw' at the start of a sentence is an oath.",
+          "wrong": {
+            "ar": "وَ هُوَ",
+            "note": "Here Waw just means 'And' if it doesn't cause Kasra."
+          },
+          "correct": {
+            "ar": "وَالتِّينِ",
+            "en": "By the fig",
+            "my": "သဖန်းသီးကို တိုင်တည်၍"
+          },
+          "myanmar_tip": "နာမ်၏အဆုံးတွင် Kasra (အောက်ကဆွဲ) ရှိမရှိ ကြည့်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the superlative (Af'al) word",
+          "instruction_my": "အသာလွန်ဆုံးပြစကားလုံး (Af'al) ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+              "answer_en": "Ahsan",
+              "answer_my": "Ahsan",
+              "ref": "95:4"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the oath into English",
+          "instruction_my": "ကျိန်ဆိုချက်ကို အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "وَهَٰذَا الْبَلَدِ الْأَمِينِ",
+              "answer_en": "And by this secure city",
+              "answer_my": "ဤဘေးကင်းလုံခြုံသော မြို့တော်ကိုလည်းကောင်း"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Turn 'Hasan' (good) into 'Best'",
+          "instruction_my": "'Hasan' (ကောင်းသော) ကို 'အကောင်းဆုံး' သို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "حَسَن",
+              "answer_en": "Ahsan",
+              "answer_my": "Ahsan",
+              "ar": "أَحْسَن"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Allah swears by sacred foods and places (Sinai, Makkah) to testify that He created humans in the most perfect mold. This reminds us of our high potential and dignity as creatures designed by the Almighty.",
+        "my": "အလ္လာဟ်အရှင်မြတ်သည် မွန်မြတ်သော အစားအစာများနှင့် နေရာဒေသများကို တိုင်တည်၍ လူသားတို့အား အကောင်းဆုံးသော ပုံစံဖြင့် ဖန်ဆင်းထားကြောင်း သက်သေပြုထားသည်။ ၎င်းသည် ကျွန်ုပ်တို့၏ မြင့်မြတ်သော တန်ဖိုးကို သတိရစေပါသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "At-Tin 95:4",
+        "study_number": 1,
+        "arabic_full": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+        "en_sahih": "We have certainly created man in the best of stature.",
+        "my_mmsy": "(၄) အမှန်စင်စစ် ငါအရှင်မြတ်သည် လူသားကို အကောင်းဆုံး ပုံသဏ္ဌာန်နှင့်ဖန်ဆင်းတော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 95,
+          "ayah": 4,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/095004.mp3"
+        },
+        "qurancom_url": "https://quran.com/95/4",
+        "context": {
+          "en": "This is the 'response to the oath' (Jawab al-Qasam). After swearing by great things, Allah delivers the main message about human excellence.",
+          "my": "ဒါဟာ ကျိန်ဆိုချက်ရဲ့ အဓိက သတင်းစကား ဖြစ်ပါတယ်။ ကြီးကျယ်တဲ့အရာတွေကို တိုင်တည်ပြီးနောက် လူသားတွေရဲ့ ထူးကဲသာလွန်မှုကို ဖော်ပြလိုက်ခြင်း ဖြစ်ပါတယ်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "خَلَقْنَا",
+            "translit": "khalaqnā",
+            "en": "We created",
+            "my": "ငါတို့ဖန်ဆင်းခဲ့သည်",
+            "role_en": "Verb + Subject",
+            "role_my": "ကြိယာ + ကတ္တား",
+            "root": "خ ل ق",
+            "freq": 250
+          },
+          {
+            "ar": "تَقْوِيمٍ",
+            "translit": "taqwīm",
+            "en": "stature/form",
+            "my": "ပုံသဏ္ဍာန်",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "ق و م",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The particle 'La-qad' adds a third layer of emphasis (La + Qad) to the already powerful oath-driven context.",
+          "structure_my": "'La-qad' သည် ကျိန်ဆိုချက်များအပြင် အလွန်အမင်း အလေးအနက်ပြုခြင်းကို ထပ်မံဖြည့်စွက်ပေးသည်။",
+          "insight_en": "Taqwim refers to both physical symmetry and the spiritual potential to know Allah.",
+          "insight_my": "Taqwim ဆိုသည်မှာ ရုပ်ပိုင်းဆိုင်ရာ ညီညွတ်မျှတမှုသာမက အလ္လာဟ်အရှင်မြတ်ကို သိရှိနိုင်သော ဝိညာဉ်ရေးရာ စွမ်းရည်ကိုလည်း ဆိုလိုသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ق و م",
+            "concept_en": "to stand or establish something with balance",
+            "concept_my": "မျှတစွာ ရပ်တည်ခြင်း သို့မဟုတ် တည်ဆောက်ခြင်း",
+            "members": [
+              {
+                "ar": "قِيَامَة",
+                "en": "resurrection",
+                "my": "ရှင်ပြန်ထမြောက်ခြင်း",
+                "freq": 70
+              }
+            ],
+            "professors_note": "Taqwim suggests that humans were engineered for a specific purpose, just as a building is established for its function."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့အား အနိမ့်ကျဆုံးအရာများမှ ဖန်ဆင်းခဲ့သော်လည်း အမြင့်မြတ်ဆုံးသော ပုံစံကို ပေးသနားတော်မူခဲ့သည်။ ကျွန်ုပ်တို့၏ ခန္ဓာကိုယ်နှင့် စိတ်ဝိညာဉ်သည် အရှင်မြတ်၏ လက်ရာမွန်များ ဖြစ်ကြသည်။ ဤအချက်ကို သိရှိခြင်းဖြင့် မိမိကိုယ်မိမိ တန်ဖိုးထားရန်နှင့် အရှင်မြတ်ပေးထားသော စွမ်းရည်များကို အကောင်းဆုံး အသုံးချရန် လိုအပ်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Laqad khalaqna al-insana fi ahsani taqwim.",
+          "meaning_anchor": "Think of a masterpiece painting created by the greatest artist.",
+          "daily_connection": "Recite this when feeling low in self-esteem to remember your Divine origin.",
+          "my": "Laqad ၏ အလေးပေးသံကို ပီပြင်စွာ ထွက်ဆိုပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we explored the grammar of oaths (Waw al-Qasam) and the superlative form (Af'al). We saw how Allah uses these to highlight the dignity of human creation in Surah At-Tin. We also learned key vocabulary for sacred fruits and places.",
+      "my": "ဤသင်ခန်းစာတွင် ကျိန်ဆိုခြင်း ဂရမ်မာနှင့် အသာလွန်ဆုံးပြပုံစံ (Af'al) ကို လေ့လာခဲ့သည်။ စူရဟ်အသ်သီးန်တွင် လူသားဖန်ဆင်းမှု၏ ဂုဏ်သိက္ခာကို အလေးပေးရန် ၎င်းတို့ကို မည်သို့ သုံးထားကြောင်း တွေ့ရှိရသည်။ မွန်မြတ်သော အစားအစာများနှင့် နေရာဒေသများဆိုင်ရာ ဝေါဟာရများကိုလည်း သင်ယူခဲ့သည်။"
+    }
+  },
+  {
+    "lesson_id": "L4-194",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 194,
+    "title": {
+      "ar": "سُورَةُ التِّينِ — أَسْفَلَ سَافِلِينَ",
+      "en": "Surah At-Tin: Lowest of the Low",
+      "my": "စူရဟ်အသ်သီးန် - အနိမ့်ကျဆုံးသော အခြေအနေ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Asfala Safilin — double comparative; Illa exception clause",
+      "grammar_formula": "أَسْفَلَ + سَافِلِينَ = LOWEST OF THE LOW"
+    },
+    "section_1_vocab": [
+      {
+        "word": "أَسْفَل",
+        "translit": "asfal",
+        "en": "lowest",
+        "my": "အနိမ့်ဆုံး",
+        "quran_freq": 3,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "أَفْعَل",
+        "root": {
+          "letters": "س ف ل",
+          "concept_en": "to be low",
+          "concept_my": "နိမ့်ကျခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Asphalt",
+          "image": "Asphalt on the low ground",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "سُفْلَى",
+            "translit": "suflā",
+            "en": "lower (fem)",
+            "my": "ပိုနိမ့်သော",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The Af'al pattern here shows the absolute bottom degree.",
+        "example": {
+          "ar": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+          "en": "Then We returned him to the lowest of the low",
+          "my": "ထို့နောက် ငါတို့သည် သူ့အား အနိမ့်ကျဆုံးသော အခြေအနေသို့ ပို့ဆောင်ခဲ့သည်",
+          "ref": "95:5"
+        }
+      },
+      {
+        "word": "سَافِلِين",
+        "translit": "sāfilīn",
+        "en": "those who are low",
+        "my": "နိမ့်ကျသောသူများ",
+        "quran_freq": 2,
+        "word_type": "Noun/Participle",
+        "gender": "Masculine Plural",
+        "wazn": "فَاعِلِين",
+        "root": {
+          "letters": "س ف ل",
+          "concept_en": "lowliness",
+          "concept_my": "နိမ့်ကျမှု"
+        },
+        "memory_hook": {
+          "sound": "Safil",
+          "image": "People falling down to a low level",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "This is the active participle plural, describing people in a low state.",
+        "example": {
+          "ar": "أَسْفَلَ سَافِلِينَ",
+          "en": "lowest of the low",
+          "my": "အနိမ့်ကျဆုံးသော အခြေအနေ",
+          "ref": "95:5"
+        }
+      },
+      {
+        "word": "ثُمَّ",
+        "translit": "thumma",
+        "en": "then/afterwards",
+        "my": "ထို့နောက်",
+        "quran_freq": 339,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ث م",
+          "concept_en": "sequence",
+          "concept_my": "အစီအစဉ်"
+        },
+        "memory_hook": {
+          "sound": "Thumb",
+          "image": "Giving a thumbs up 'after' finishing",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Indicates a delay or a sequence between two events.",
+        "example": {
+          "ar": "ثُمَّ رَدَدْنَاهُ",
+          "en": "Then We returned him",
+          "my": "ထို့နောက် ငါတို့သည် သူ့အား ပြန်ပို့ခဲ့သည်",
+          "ref": "95:5"
+        }
+      },
+      {
+        "word": "رَدَدْنَا",
+        "translit": "radadnā",
+        "en": "We returned (something)",
+        "my": "ငါတို့ပြန်ပို့ခဲ့သည်",
+        "quran_freq": 5,
+        "word_type": "Verb",
+        "gender": "Masculine Plural",
+        "wazn": "فَعَلْنَا",
+        "root": {
+          "letters": "ر د د",
+          "concept_en": "to send back/reject",
+          "concept_my": "ပြန်ပို့ခြင်း သို့မဟုတ် ငြင်းပယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rad",
+          "image": "A radar sending back signals",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مَرْدُود",
+            "translit": "mardūd",
+            "en": "rejected",
+            "my": "ငြင်းပယ်ခံရသော",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "This verb implies a change of state back to an original or lower position.",
+        "example": {
+          "ar": "رَدَدْنَاهُ أَسْفَلَ",
+          "en": "We returned him to the lowest",
+          "my": "ငါတို့သည် သူ့အား အနိမ့်ဆုံးသို့ ပြန်ပို့ခဲ့သည်",
+          "ref": "95:5"
+        }
+      },
+      {
+        "word": "إِلَّا",
+        "translit": "illā",
+        "en": "except",
+        "my": "မှအပ",
+        "quran_freq": 662,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "إ ل",
+          "concept_en": "exception",
+          "concept_my": "ခြွင်းချက်"
+        },
+        "memory_hook": {
+          "sound": "Ill",
+          "image": "Everyone is healthy except one ill person",
+          "cross_language": "Myanmar: အီလာ (Except)"
+        },
+        "word_family": [],
+        "pattern_unlock": "The primary word used for excluding a group from a general rule.",
+        "example": {
+          "ar": "إِلَّا الَّذِينَ آمَنُوا",
+          "en": "Except those who believe",
+          "my": "အီမာန်သက်ဝင်ယုံကြည်သူများမှအပ",
+          "ref": "95:6"
+        }
+      },
+      {
+        "word": "آمَنُوا",
+        "translit": "āmanū",
+        "en": "they believed",
+        "my": "၎င်းတို့ယုံကြည်ခဲ့ကြသည်",
+        "quran_freq": 258,
+        "word_type": "Verb",
+        "gender": "Masculine Plural",
+        "wazn": "أَفْعَلُوا",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "to believe/feel safe",
+          "concept_my": "ယုံကြည်ခြင်း သို့မဟုတ် ဘေးကင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Amen",
+          "image": "A group saying Amen",
+          "cross_language": "Myanmar: အီမာန်ရှင်များ"
+        },
+        "word_family": [
+          {
+            "ar": "مُؤْمِن",
+            "translit": "mu'min",
+            "en": "believer",
+            "my": "မုအ်မင်န်",
+            "freq": 191
+          }
+        ],
+        "pattern_unlock": "Form IV verb used throughout the Quran for faith.",
+        "example": {
+          "ar": "الَّذِينَ آمَنُوا",
+          "en": "those who believed",
+          "my": "ယုံကြည်ခဲ့ကြသောသူများ",
+          "ref": "95:6"
+        }
+      },
+      {
+        "word": "الصَّالِحَات",
+        "translit": "as-sālihāt",
+        "en": "righteous deeds",
+        "my": "ကောင်းမြတ်သော အကျင့်သီလများ",
+        "quran_freq": 62,
+        "word_type": "Noun/Adjective",
+        "gender": "Feminine Plural",
+        "wazn": "فَاعِلَات",
+        "root": {
+          "letters": "ص ل ح",
+          "concept_en": "to be good/correct",
+          "concept_my": "ကောင်းမွန်ခြင်း သို့မဟုတ် မှန်ကန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Salih",
+          "image": "A person doing good deeds",
+          "cross_language": "Myanmar: ဆွာလေဟ်"
+        },
+        "word_family": [
+          {
+            "ar": "إِصْلَاح",
+            "translit": "islāh",
+            "en": "reform",
+            "my": "ပြုပြင်ပြောင်းလဲခြင်း",
+            "freq": 8
+          }
+        ],
+        "pattern_unlock": "Usually paired with faith (Iman) to show that belief must lead to action.",
+        "example": {
+          "ar": "وَعَمِلُوا الصَّالِحَاتِ",
+          "en": "and did righteous deeds",
+          "my": "ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူခဲ့ကြသည်",
+          "ref": "95:6"
+        }
+      },
+      {
+        "word": "مَمْنُون",
+        "translit": "mamnūn",
+        "en": "interrupted/diminished",
+        "my": "ပြတ်တောက်သွားခြင်း/လျော့နည်းသွားခြင်း",
+        "quran_freq": 2,
+        "word_type": "Noun/Participle",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "م ن ن",
+          "concept_en": "to favor/diminish",
+          "concept_my": "မျက်နှာသာပေးခြင်း သို့မဟုတ် လျော့နည်းစေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Menu",
+          "image": "A menu that never ends",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مَنَّ",
+            "translit": "manna",
+            "en": "he favored",
+            "my": "သူမျက်နှာသာပေးခဲ့သည်",
+            "freq": 7
+          }
+        ],
+        "pattern_unlock": "The phrase 'ghayru mamnun' means an unending reward.",
+        "example": {
+          "ar": "أَجْرٌ غَيْرُ مَمْنُونٍ",
+          "en": "a reward never ending",
+          "my": "ပြတ်တောက်မှုမရှိသော အကျိုးကျေးဇူး",
+          "ref": "95:6"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الِاسْتِثْنَاءُ بِإِلَّا",
+        "en": "Exception with Illa",
+        "my": "Illa ဖြင့် ခြွင်းချက်ပြုခြင်း"
+      },
+      "formula": {
+        "display": "الْمُسْتَثْنَى مِنْهُ + إِلَّا + الْمُسْتَثْنَى",
+        "example": "فَسَجَدُوا إِلَّا إِبْلِيسَ",
+        "myanmar_read": "'Illa' သည် 'မှအပ' ဖြစ်ပြီး ရှေ့က အုပ်စုထဲမှ တစ်စုံတစ်ဦးကို ဖယ်ထုတ်ရာတွင် သုံးသည်။",
+        "key_insight": "'Illa' acts as a pivot point in the Quran. It takes us from a general rule of loss or punishment to a specific group that is saved through faith and action."
+      },
+      "explanation": {
+        "en": "The particle 'Illa' (except) is used to exclude a specific group from a general statement. In Surah At-Tin, after stating that man is returned to the lowest state, 'Illa' introduces the believers who are exempt from this decline. This structure highlights that faith is the only way to maintain human dignity.",
+        "my": "'Illa' (မှအပ) ပုဒ်သည် ယေဘုယျပြောဆိုချက်တစ်ခုမှ သီးခြားအုပ်စုတစ်ခုကို ဖယ်ထုတ်ရာတွင် သုံးသည်။ စူရဟ်အသ်သီးန်တွင် လူသားတို့သည် အနိမ့်ကျဆုံးအခြေအနေသို့ ရောက်ရမည်ဟု ဆိုပြီးနောက်၊ 'Illa' ဖြင့် ယုံကြည်သူများကို ထိုအခြေအနေမှ ကင်းလွတ်ခွင့်ပေးထားသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar grammar uses 'မှအပ' (except) at the end of the phrase, whereas Arabic 'Illa' comes before the excluded noun.",
+        "my": "မြန်မာဘာသာတွင် '...မှအပ' ဟု နောက်ဆုံးတွင် သုံးသော်လည်း အာရပ်ဘာသာတွင် 'Illa' ကို ရှေ့တွင် သုံးသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The noun following Illa in a positive sentence is usually in the Mansub (Fatha) case.",
+          "rule_my": "ဝါကျအပြုတွင် Illa ၏နောက်က နာမ်သည် များသောအားဖြင့် Mansub (ဖသ်ဟ်) ဖြစ်သည်။",
+          "example": {
+            "ar": "إِلَّا الَّذِينَ",
+            "en": "Except those who",
+            "my": "အကြင်သူတို့မှအပ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ",
+          "en": "Except those who believe and do righteous deeds",
+          "my": "MYANMAR_PLACE_HOLDER_S95_A6",
+          "ref": "95:6",
+          "breakdown": {
+            "subject": {
+              "word": "الَّذِينَ آمَنُوا",
+              "en": "those who believe",
+              "note": "The group being excepted"
+            },
+            "predicate": {
+              "word": "عَمِلُوا الصَّالِحَاتِ",
+              "en": "did righteous deeds",
+              "note": "The condition for exception"
+            }
+          },
+          "myanmar_insight": "ယုံကြည်ခြင်း (Iman) နှင့် လက်တွေ့ကျင့်မူခြင်း (Amal) နှစ်ခုလုံး လိုအပ်ကြောင်း ပြသနေသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Translating Illa as 'Only'",
+          "wrong": {
+            "ar": "إِلَّا",
+            "note": "Illa means 'Except'. It only means 'Only' when combined with a negative like 'La'."
+          },
+          "correct": {
+            "ar": "إِلَّا الَّذِينَ",
+            "en": "Except those who",
+            "my": "အကြင်သူတို့မှအပ"
+          },
+          "myanmar_tip": "ဝါကျ၏ အစပိုင်းတွင် အငြင်းစကား ပါမပါ အရင်ကြည့်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the exception particle",
+          "instruction_my": "ခြွင်းချက်ပြပုဒ်ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "إِلَّا مَنْ رَحِمَ رَبُّكَ",
+              "answer_en": "Illa",
+              "answer_my": "Illa",
+              "ref": "11:119"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "عَمِلُوا الصَّالِحَاتِ",
+              "answer_en": "they did righteous deeds",
+              "answer_my": "၎င်းတို့သည် ကောင်းမြတ်သော အကျင့်သီလများကို ကျင့်မူခဲ့ကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Use 'Illa' with 'Alladhina'",
+          "instruction_my": "'Illa' နှင့် 'Alladhina' ကို တွဲသုံးပါ",
+          "questions": [
+            {
+              "q": "إِلَّا + الَّذِينَ",
+              "answer_en": "Illa alladhina",
+              "answer_my": "Illa alladhina",
+              "ar": "إِلَّا الَّذِينَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Humanity is prone to decline—both in age and in morality. Without the anchor of faith and good works, we fall into the 'lowest of the low'. Faith is the only bridge that carries us back to the 'best of forms' in the eyes of Allah.",
+        "my": "လူသားများသည် အသက်အရွယ်အရသော်လည်းကောင်း၊ ကိုယ်ကျင့်တရားအရသော်လည်းကောင်း ဆုတ်ယုတ်တတ်ကြသည်။ အီမာန်နှင့် ကောင်းမှုများ မရှိပါက 'အနိမ့်ကျဆုံးသော အခြေအနေ' သို့ ကျရောက်သွားမည်။ အီမာန်သည်သာ ကျွန်ုပ်တို့အား အလ္လာဟ်အရှင်မြတ်၏ ရှေ့မှောက်တွင် ပြန်လည် မြင့်တင်ပေးနိုင်သော တံတားဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "At-Tin 95:5",
+        "study_number": 1,
+        "arabic_full": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+        "en_sahih": "Then We returned him to the lowest of the low,",
+        "my_mmsy": "(၅) ထို့နောက် ငါအရှင်မြတ်သည် သူ့အား ညံ့ဖျင်းသူများထက် အညံ့ဖျင်းဆုံးအခြေအနေသို့ ပြန်ရောက်စေတော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 95,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/095005.mp3"
+        },
+        "qurancom_url": "https://quran.com/95/5",
+        "context": {
+          "en": "After creating man in the best form, Allah describes the potential fall of those who do not use their gifts for the right purpose.",
+          "my": "လူသားကို အကောင်းဆုံးပုံစံဖြင့် ဖန်ဆင်းပြီးနောက်၊ ပေးထားသော စွမ်းရည်များကို အကျိုးရှိရှိ အသုံးမချသူများ၏ ကျရှုံးမှုကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "ثُمَّ",
+            "translit": "thumma",
+            "en": "Then",
+            "my": "ထို့နောက်",
+            "role_en": "Particle",
+            "role_my": "ပုဒ်",
+            "root": "ث م",
+            "freq": 340
+          },
+          {
+            "ar": "أَسْفَلَ",
+            "translit": "asfala",
+            "en": "lowest",
+            "my": "အနိမ့်ဆုံး",
+            "role_en": "Adjective (Superlative)",
+            "role_my": "အသာလွန်ဆုံးပြနာမဝိသေသန",
+            "root": "س ف ل",
+            "freq": 3
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The combination of the verb 'Radadnāhu' (We returned him) with 'Asfala Safilin' creates a dramatic contrast with the previous verse.",
+          "structure_my": "'Radadnāhu' (ငါတို့ပြန်ပို့ခဲ့သည်) နှင့် 'Asfala Safilin' (အနိမ့်ကျဆုံး) တို့ကို တွဲသုံးခြင်းဖြင့် ရှေ့အာယသ်တော်နှင့် ပြင်းထန်သော ခြားနားမှုကို ပြသသည်။",
+          "insight_en": "Sāfilīn is plural, suggesting a state where one joins a low crowd, losing their unique individual excellence.",
+          "insight_my": "Sāfilīn သည် အများကိန်းဖြစ်ပြီး၊ မိမိ၏ မြင့်မြတ်သော အရည်အချင်းများကို ဆုံးရှုံးပြီး နိမ့်ကျသူများထဲသို့ ရောက်ရှိသွားခြင်းကို ဆိုလိုသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "س ف ل",
+            "concept_en": "the bottom part or the base of something",
+            "concept_my": "အောက်ခြေ သို့မဟုတ် အောက်ပိုင်း",
+            "members": [
+              {
+                "ar": "سُفْل",
+                "en": "lowness",
+                "my": "နိမ့်ကျမှု",
+                "freq": 0
+              }
+            ],
+            "professors_note": "In Arabic, Sifl is the opposite of 'Uluw (Highness). It refers to both physical depth and moral degradation."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့အား မြင့်မြတ်သောအဆင့်တွင် ထားရှိသော်လည်း ကျွန်ုပ်တို့၏ လုပ်ရပ်များက ကျွန်ုပ်တို့ကို နိမ့်ကျစေနိုင်သည်။ အသက်အရွယ်ကြီးရင့်လာသောအခါ ခန္ဓာကိုယ်အားနည်းလာခြင်းသည် သဘာဝဖြစ်သော်လည်း၊ ကိုယ်ကျင့်တရားနိမ့်ကျခြင်းမှာမူ မိမိ၏ ရွေးချယ်မှုဖြစ်သည်။ ကျွန်ုပ်တို့သည် အနိမ့်ကျဆုံးအဆင့်သို့ မကျရောက်စေရန် အမြဲသတိရှိနေသင့်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Thumma radadnahu asfala safilin.",
+          "meaning_anchor": "Imagine a tall building having a basement floor that goes deep into the earth.",
+          "daily_connection": "Recite this when witnessing corruption or moral decay, as a reminder of where it leads.",
+          "my": "Asfala နှင့် Safilin တို့၏ 'ဖ' အသံကို ဂရုပြုပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored the concept of moral and physical decline through the phrase 'Asfala Safilin' and the grammar of 'Illa' (exception). We learned that while humans can fall to the lowest states, faith and good deeds act as a shield to keep us in the 'best of forms'.",
+      "my": "'Asfala Safilin' နှင့် 'Illa' (မှအပ) ဂရမ်မာတို့ဖြင့် လူသားတို့၏ ဆုတ်ယုတ်မှု သဘောတရားကို လေ့လာခဲ့သည်။ လူသားများသည် အနိမ့်ကျဆုံး အခြေအနေသို့ ရောက်နိုင်သော်လည်း၊ အီမာန်နှင့် ကောင်းမှုများသည် ကျွန်ုပ်တို့အား အကောင်းဆုံးပုံစံဖြင့် တည်ရှိနေစေရန် ကာကွယ်ပေးကြောင်း သိရှိခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L4-195",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 195,
+    "title": {
+      "ar": "سُورَةُ التِّينِ — أَحْكَمُ الْحَاكِمِينَ",
+      "en": "Surah At-Tin: Allah as Best of Judges",
+      "my": "စူရဟ်အသ်သီးန် - အလ္လာဟ်အရှင်မြတ်သည် အမျှတဆုံးသော တရားသူကြီး"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Ahkam al-Hakimin — Af'al superlative + Idafah; rhetorical Alaisa",
+      "grammar_formula": "أَ + لَيْسَ = IS NOT...?"
+    },
+    "section_1_vocab": [
+      {
+        "word": "أَحْكَم",
+        "translit": "ahkam",
+        "en": "most just/wisest",
+        "my": "အမျှတဆုံး/အသိပညာအရှိဆုံး",
+        "quran_freq": 1,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "أَفْعَل",
+        "root": {
+          "letters": "ح ك م",
+          "concept_en": "wisdom/judgment/restraint",
+          "concept_my": "ပညာ သို့မဟုတ် စီရင်ချက်"
+        },
+        "memory_hook": {
+          "sound": "Hakim",
+          "image": "A wise judge named Hakim",
+          "cross_language": "Myanmar: အဲဟ်ကမ် (Ruling)"
+        },
+        "word_family": [
+          {
+            "ar": "حِكْمَة",
+            "translit": "hikmah",
+            "en": "wisdom",
+            "my": "ပညာ",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "This superlative form emphasizes that Allah's judgment is superior to any human wisdom.",
+        "example": {
+          "ar": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+          "en": "Is not Allah the most just of judges?",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အမျှတဆုံးသော တရားသူကြီး မဟုတ်ပါလော",
+          "ref": "95:8"
+        }
+      },
+      {
+        "word": "الْحَاكِمِينَ",
+        "translit": "al-hākimīn",
+        "en": "the judges",
+        "my": "တရားသူကြီးများ",
+        "quran_freq": 5,
+        "word_type": "Noun/Participle",
+        "gender": "Masculine Plural",
+        "wazn": "فَاعِلِين",
+        "root": {
+          "letters": "ح ك م",
+          "concept_en": "to rule/judge",
+          "concept_my": "အုပ်ချုပ်ခြင်း သို့မဟုတ် စီရင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hakim",
+          "image": "A courtroom with many judges",
+          "cross_language": "Myanmar: ဟာကင်မ် (Ruler)"
+        },
+        "word_family": [
+          {
+            "ar": "حُكْم",
+            "translit": "hukm",
+            "en": "judgment",
+            "my": "စီရင်ချက်",
+            "freq": 47
+          }
+        ],
+        "pattern_unlock": "The plural 'Hakimin' encompasses all who have authority or wisdom.",
+        "example": {
+          "ar": "بِأَحْكَمِ الْحَاكِمِينَ",
+          "en": "the most just of judges",
+          "my": "အမျှတဆုံးသော တရားသူကြီး",
+          "ref": "95:8"
+        }
+      },
+      {
+        "word": "أَلَيْسَ",
+        "translit": "alaysa",
+        "en": "Is not?",
+        "my": "မဟုတ်ပါလော",
+        "quran_freq": 15,
+        "word_type": "Particle + Verb",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ل ي س",
+          "concept_en": "negation in question",
+          "concept_my": "အမေးစကားတွင် အငြင်းပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Alice",
+          "image": "Alice asking a question",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used to pose a question that expects a 'Yes' (Bala) in response.",
+        "example": {
+          "ar": "أَلَيْسَ اللَّهُ",
+          "en": "Is Allah not...?",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ... မဟုတ်ပါလော",
+          "ref": "95:8"
+        }
+      },
+      {
+        "word": "دِين",
+        "translit": "dīn",
+        "en": "judgment/recompense/religion",
+        "my": "တရားစီရင်ခြင်း/ဘာသာတရား",
+        "quran_freq": 92,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "د ي ن",
+          "concept_en": "debt/judgment",
+          "concept_my": "အကြွေး သို့မဟုတ် စီရင်ချက်"
+        },
+        "memory_hook": {
+          "sound": "Dean",
+          "image": "A dean judging a student's grades",
+          "cross_language": "Myanmar: ဒီးန်"
+        },
+        "word_family": [
+          {
+            "ar": "مَدِينَة",
+            "translit": "madīnah",
+            "en": "city (place of law)",
+            "my": "မြို့တော်",
+            "freq": 14
+          }
+        ],
+        "pattern_unlock": "In this context, it refers to the Day of Judgment or the system of recompense.",
+        "example": {
+          "ar": "يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+          "en": "makes you deny the judgment",
+          "my": "တရားစီရင်ခြင်းကို ငြင်းပယ်စေသည်",
+          "ref": "95:7"
+        }
+      },
+      {
+        "word": "يُكَذِّبُ",
+        "translit": "yukadh-dhibu",
+        "en": "he denies/calls a lie",
+        "my": "သူသည် မုသားဟု ဆိုသည်",
+        "quran_freq": 182,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفَعِّلُ",
+        "root": {
+          "letters": "ك ذ ب",
+          "concept_en": "lie/falsehood",
+          "concept_my": "မုသား သို့မဟုတ် မှားယွင်းမှု"
+        },
+        "memory_hook": {
+          "sound": "Kizb",
+          "image": "A person pointing at a truth and calling it a lie",
+          "cross_language": "Myanmar: ကာဇစ်ဗ်"
+        },
+        "word_family": [
+          {
+            "ar": "كَاذِب",
+            "translit": "kādhib",
+            "en": "liar",
+            "my": "လူလိမ်",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Form II verb implies an active, repetitive denial of the truth.",
+        "example": {
+          "ar": "فَمَا يُكَذِّبُكَ",
+          "en": "So what causes you to deny",
+          "my": "သင့်အား မည်သည့်အရာက ငြင်းပယ်စေသနည်း",
+          "ref": "95:7"
+        }
+      },
+      {
+        "word": "بَعْد",
+        "translit": "ba'du",
+        "en": "after",
+        "my": "နောက်ပိုင်း",
+        "quran_freq": 130,
+        "word_type": "Adverb",
+        "gender": "N/A",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ب ع د",
+          "concept_en": "remoteness/after",
+          "concept_my": "ဝေးကွာမှု သို့မဟုတ် နောက်ပိုင်း"
+        },
+        "memory_hook": {
+          "sound": "Bad",
+          "image": "Something that happens 'after' a bad event",
+          "cross_language": "Myanmar: ဗားဒ် (After)"
+        },
+        "word_family": [
+          {
+            "ar": "بَعِيد",
+            "translit": "ba'īd",
+            "en": "far",
+            "my": "ဝေးသော",
+            "freq": 48
+          }
+        ],
+        "pattern_unlock": "Common adverb showing temporal sequence.",
+        "example": {
+          "ar": "يُكَذِّبُكَ بَعْدُ",
+          "en": "causes you to deny after [this]",
+          "my": "ဤသို့ဖြစ်ပြီးနောက် သင့်အား ငြင်းပယ်စေသည်",
+          "ref": "95:7"
+        }
+      },
+      {
+        "word": "اللَّه",
+        "translit": "allāh",
+        "en": "Allah",
+        "my": "အလ္လာဟ်အရှင်မြတ်",
+        "quran_freq": 2699,
+        "word_type": "Proper Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "أ ل ه",
+          "concept_en": "the one to be worshiped",
+          "concept_my": "ကိုးကွယ်ရာအရှင်"
+        },
+        "memory_hook": {
+          "sound": "Allah",
+          "image": "The Name of God",
+          "cross_language": "Universal"
+        },
+        "word_family": [
+          {
+            "ar": "إِلَٰه",
+            "translit": "ilāh",
+            "en": "god",
+            "my": "ဘုရား",
+            "freq": 147
+          }
+        ],
+        "pattern_unlock": "The proper name for the One Creator.",
+        "example": {
+          "ar": "أَلَيْسَ اللَّهُ",
+          "en": "Is not Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မဟုတ်ပါလော",
+          "ref": "95:8"
+        }
+      },
+      {
+        "word": "فَمَا",
+        "translit": "famā",
+        "en": "so what",
+        "my": "သို့ဖြစ်ရာ အဘယ်အရာက",
+        "quran_freq": 100,
+        "word_type": "Particle + Pronoun",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ف م",
+          "concept_en": "consequence + what",
+          "concept_my": "အကျိုးဆက် + အဘယ်အရာ"
+        },
+        "memory_hook": {
+          "sound": "Fama",
+          "image": "Asking 'What' about 'Fame'",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Combined form of 'Fa' (so) and 'Ma' (what/not).",
+        "example": {
+          "ar": "فَمَا يُكَذِّبُكَ",
+          "en": "So what causes you to deny",
+          "my": "သို့ဖြစ်ရာ သင့်အား မည်သည့်အရာက ငြင်းပယ်စေသနည်း",
+          "ref": "95:7"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الِاسْتِفْهَامُ التَّقْرِيرِيُّ — أَلَيْسَ",
+        "en": "Confirmative Question — Alaysa",
+        "my": "အတည်ပြုမေးခွန်း - Alaysa"
+      },
+      "formula": {
+        "display": "أَ (Question) + لَيْسَ (is not) + Subj + بِـ (Emphasis) + Predicate",
+        "example": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ",
+        "myanmar_read": "'Alaysa' ဆိုတာ 'မဟုတ်ဘူးလား' လို့ မေးတာဖြစ်ပြီး တစ်ဖက်လူက 'ဟုတ်ပါတယ်' လို့ ဝန်ခံစေချင်တဲ့အခါ သုံးပါတယ်။",
+        "key_insight": "A negative question (Is not...?) in Arabic is actually a way to strongly affirm a truth. It is almost always answered with 'Bala' (Yes indeed!)."
+      },
+      "explanation": {
+        "en": "The phrase 'Alaysa' combines the question mark 'A' with the negative verb 'Laysa' (is not). It is a rhetorical device used to confirm a fact that the listener already knows. In Surah At-Tin, it is used to close the surah by confirming that Allah is the ultimate Judge, necessitating the Day of Judgment.",
+        "my": "'Alaysa' သည် 'A' (အမေး) နှင့် 'Laysa' (အငြင်း) တို့ကို ပေါင်းစပ်ထားခြင်း ဖြစ်သည်။ နားထောင်သူ သိရှိပြီးသား အမှန်တရားတစ်ခုကို အတည်ပြုရန် သုံးသည်။ စူရဟ်အသ်သီးန်တွင် အလ္လာဟ်အရှင်မြတ်သည် အမျှတဆုံးသော တရားသူကြီးဖြစ်ကြောင်းနှင့် တရားစီရင်ရာနေ့ ရှိရမည်ဖြစ်ကြောင်း အတည်ပြုရန် သုံးထားသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese uses '...မဟုတ်ပါလော' at the end of a sentence to achieve the same confirmative effect.",
+        "my": "မြန်မာဘာသာတွင် ဝါကျအဆုံး၌ '...မဟုတ်ပါလော' ဟု သုံးခြင်းဖြင့် အလားတူ အတည်ပြုချက်ကို ရရှိစေပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The predicate of Alaysa often takes the preposition 'Bi-' for extra emphasis.",
+          "rule_my": "Alaysa ၏ သတင်းစကားတွင် အလေးအနက်ပြုရန် 'Bi-' ကို ထည့်သွင်းလေ့ရှိသည်။",
+          "example": {
+            "ar": "بِأَحْكَمِ",
+            "en": "The most just",
+            "my": "အမျှတဆုံးသော"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+          "en": "Is not Allah the most just of judges?",
+          "my": "(၈) အလ္လာဟ်အရှင်မြတ်သည် တရားစီရင်သူအားလုံးထက် အကောင်းဆုံးတရားစီရင်တော်မူသော အရှင်မြတ်ပင်ဖြစ်တော်မူသည်မဟုတ်လော။",
+          "ref": "95:8",
+          "breakdown": {
+            "subject": {
+              "word": "اللَّهُ",
+              "en": "Allah",
+              "note": "The subject of the question"
+            },
+            "predicate": {
+              "word": "بِأَحْكَمِ",
+              "en": "the most just",
+              "note": "Emphasized with 'Bi-'"
+            }
+          },
+          "myanmar_insight": "ဤမေးခွန်း၏ အဖြေမှာ 'ဟုတ်ပါသည်' (ဗလာ) ဟုသာ ဖြစ်ရပါမည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Answering 'Na'am' (Yes) to 'Alaysa'.",
+          "wrong": {
+            "ar": "نَعَمْ",
+            "note": "In Arabic, answering 'Na'am' to a negative question confirms the negative. You should use 'Bala'."
+          },
+          "correct": {
+            "ar": "بَلَىٰ",
+            "en": "Yes indeed!",
+            "my": "ဟုတ်ပါသည်၊ ဧကန်စင်စစ်!"
+          },
+          "myanmar_tip": "Alaysa နှင့် မေးလျှင် 'ဗလာ' ဟု ဖြေရန် မှတ်ထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the 'Bi-' of emphasis",
+          "instruction_my": "အလေးအနက်ပြု 'Bi-' ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَنْ يُحْيِيَ الْمَوْتَىٰ",
+              "answer_en": "Bi-qadirin",
+              "answer_my": "Bi-qadirin",
+              "ref": "75:40"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+              "answer_en": "So what causes you to deny the judgment?",
+              "answer_my": "သို့ဖြစ်ရာ သင့်အား မည်သည့်အရာက တရားစီရင်ခြင်းကို ငြင်းပယ်စေသနည်း"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Add 'A-' to 'Laysa Allah'",
+          "instruction_my": "'Laysa Allah' တွင် 'A-' ကို ထည့်ပါ",
+          "questions": [
+            {
+              "q": "لَيْسَ اللَّهُ",
+              "answer_en": "Alaysa Allah",
+              "answer_my": "Alaysa Allah",
+              "ar": "أَلَيْسَ اللَّهُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "This final ayah of Surah At-Tin is a powerful closure. If Allah is the Most Just, then it is impossible that good and evil should have the same end. The existence of the Best Judge proves the necessity of the Day of Judgment.",
+        "my": "ဤအာယသ်တော်သည် စူရဟ်အသ်သီးန်၏ အလွန်လေးနက်သော နိဂုံးဖြစ်သည်။ အလ္လာဟ်အရှင်မြတ်သည် အမျှတဆုံးဖြစ်ပါက ကောင်းသူနှင့် ဆိုးသူသည် တူညီသော နိဂုံးရှိရန် မဖြစ်နိုင်ပါ။ ထို့ကြောင့် တရားစီရင်ရာနေ့သည် မဖြစ်မနေ ရှိရမည်ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "At-Tin 95:7",
+        "study_number": 1,
+        "arabic_full": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+        "en_sahih": "So what causes you to deny the Recompense after this?",
+        "my_mmsy": "(၇) ထို(အရာများကို သိရှိပြီးသည့်)နောက် အစားပေးခြင်းကို မဟုတ်မမှန်ဟု ငြင်းပယ်ရန် အသင့်အား မည်သူကလှုံ့ဆော်သနည်း။",
+        "audio_ref": {
+          "surah": 95,
+          "ayah": 7,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/095007.mp3"
+        },
+        "qurancom_url": "https://quran.com/95/7",
+        "context": {
+          "en": "Following the evidence of perfect creation and the inevitable decline, Allah challenges the human intellect: Why deny the Day of Judgment now?",
+          "my": "ပြည့်စုံသော ဖန်ဆင်းမှုနှင့် မလွှဲမရှောင်သာသော ဆုတ်ယုတ်မှု သက်သေများကို ပြပြီးနောက်၊ အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့၏ အသိဉာဏ်ကို စိန်ခေါ်ထားသည်။ 'ယခုအခါတွင် တရားစီရင်ရာနေ့ကို အဘယ်ကြောင့် ငြင်းပယ်နေသနည်း'။"
+        },
+        "word_by_word": [
+          {
+            "ar": "بَعْدُ",
+            "translit": "ba'du",
+            "en": "after",
+            "my": "နောက်ပိုင်း",
+            "role_en": "Adverb",
+            "role_my": "ကြိယာဝိသေသန",
+            "root": "ب ع د",
+            "freq": 148
+          },
+          {
+            "ar": "بِالدِّينِ",
+            "translit": "bid-dīn",
+            "en": "in the judgment",
+            "my": "စီရင်ချက်အပေါ်",
+            "role_en": "Prep + Noun",
+            "role_my": "ဝိဘတ် + နာမ်",
+            "root": "د ي ن",
+            "freq": 92
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of 'Ma' (what) as an interrogative pronoun asks for the reason behind a person's denial.",
+          "structure_my": "'Ma' (အဘယ်အရာ) ကို အမေးနာမ်စားအဖြစ် သုံးပြီး လူတစ်ဦး၏ ငြင်းပယ်မှုနောက်ကွယ်မှ အကြောင်းရင်းကို မေးထားသည်။",
+          "insight_en": "Din here is often translated as Religion, but its root meaning is 'recompense' or 'settling a debt'.",
+          "insight_my": "Din ကို ဘာသာတရားဟု ဘာသာပြန်လေ့ရှိသော်လည်း ဤနေရာတွင် 'အကြွေးဆပ်ခြင်း' သို့မဟုတ် 'အကျိုးပေးခြင်း' ဟု အဓိပ္ပာယ်ရသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "د ي ن",
+            "concept_en": "to owe something or to follow a systematic law",
+            "concept_my": "တစ်စုံတစ်ခု ကြွေးမြီရှိခြင်း သို့မဟုတ် စနစ်ကျသော ဥပဒေကို လိုက်နာခြင်း",
+            "members": [
+              {
+                "ar": "دَيْن",
+                "en": "debt",
+                "my": "အကြွေး",
+                "freq": 0
+              }
+            ],
+            "professors_note": "A religion is called Din because it is a system of rights and duties that we 'owe' to our Creator."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ ပတ်ဝန်းကျင်ရှိ သက်သေအထောက်အထားများအားလုံးက အလ္လာဟ်အရှင်မြတ်၏ တန်ခိုးတော်ကို ပြသနေသည်။ ဤမျှလောက် သက်သေများ ရှိနေပါလျက်နှင့် နောင်တမလွန်ကို ငြင်းပယ်ခြင်းသည် အဓိပ္ပာယ်မဲ့သော လုပ်ရပ်သာ ဖြစ်သည်။ ကျွန်ုပ်တို့သည် အရှင်မြတ်၏ ရှေ့မှောက်တွင် အစစ်ဆေးခံရမည်ကို အမြဲသတိရပြီး ကောင်းမှုများကို ကြိုးစားအားထုတ်သင့်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Famā yukadh-dhibuka ba'du bid-dīn.",
+          "meaning_anchor": "Imagine a judge holding a scale of justice.",
+          "daily_connection": "Recite this to yourself whenever you feel tempted to doubt the justice of this world.",
+          "my": "Yukadh-dhibu ၏ သောဒ်ဒီဒ် (အသံလေးခြင်း) ကို သတိပြုပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We concluded Surah At-Tin by studying the rhetorical question 'Alaysa' and the concept of Allah as 'Ahkam al-Hakimin' (The Best of Judges). We learned that Allah's justice is the foundation of our faith and the reason for the Day of Judgment.",
+      "my": "စူရဟ်အသ်သီးန်ကို 'Alaysa' အမေးစကားနှင့် အလ္လာဟ်အရှင်မြတ်သည် 'Ahkam al-Hakimin' (အမျှတဆုံးသော တရားသူကြီး) ဖြစ်ကြောင်း လေ့လာခြင်းဖြင့် နိဂုံးချုပ်ခဲ့သည်။ အလ္လာဟ်အရှင်မြတ်၏ တရားမျှတမှုသည် ကျွန်ုပ်တို့၏ ယုံကြည်ခြင်း၏ အခြေခံဖြစ်ကြောင်း သိရှိခဲ့ရသည်။"
+    }
+  }
+]

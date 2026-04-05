@@ -299,7 +299,7 @@
         "L3-124",
         "L3-125"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_26",
@@ -311,7 +311,7 @@
         "L3-129",
         "L3-130"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_27",
@@ -323,7 +323,7 @@
         "L3-134",
         "L3-135"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_28",
@@ -347,7 +347,7 @@
         "L3-144",
         "L3-145"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_30",
@@ -359,7 +359,7 @@
         "L3-149",
         "L3-150"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_31",
@@ -395,7 +395,7 @@
         "L4-164",
         "L4-165"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_34",
@@ -407,7 +407,7 @@
         "L4-169",
         "L4-170"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_35",
@@ -419,7 +419,7 @@
         "L4-174",
         "L4-175"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_36",
@@ -431,7 +431,7 @@
         "L4-179",
         "L4-180"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_37",
@@ -443,7 +443,7 @@
         "L4-184",
         "L4-185"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_38",
@@ -467,7 +467,7 @@
         "L4-194",
         "L4-195"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_40",
@@ -503,7 +503,7 @@
         "L5-209",
         "L5-210"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_43",
@@ -527,7 +527,7 @@
         "L5-219",
         "L5-220"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_45",
@@ -551,7 +551,7 @@
         "L5-229",
         "L5-230"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_47",
@@ -563,7 +563,7 @@
         "L5-234",
         "L5-235"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_48",
@@ -599,7 +599,7 @@
         "L5-249",
         "L5-250"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_51",
@@ -623,7 +623,7 @@
         "L6-259",
         "L6-260"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_53",
@@ -635,7 +635,7 @@
         "L6-264",
         "L6-265"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_54",
@@ -647,7 +647,7 @@
         "L6-269",
         "L6-270"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_55",
@@ -659,7 +659,7 @@
         "L6-274",
         "L6-275"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_56",
@@ -671,7 +671,7 @@
         "L6-279",
         "L6-280"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_57",
@@ -683,7 +683,7 @@
         "L6-284",
         "L6-285"
       ],
-      "available": false
+      "available": true
     },
     {
       "batch": "batch_58",

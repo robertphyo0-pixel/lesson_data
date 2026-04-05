@@ -1,0 +1,1120 @@
+[
+  {
+    "lesson_id": "L6-256",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 256,
+    "title": {
+      "ar": "التَّشْبِيهُ (٦) — تَشْبِيهُ الْحَالَةِ الْإِنْسَانِيَّةِ",
+      "en": "Rhetoric VI — Tashbih V: Human State Similes",
+      "my": "အာရပ်စကားအလင်္ကာ (၆) — လူသားတို့၏ အခြေအနေကို ဥပမာပေးခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 10,
+      "grammar_focus": "Hypocrites as donkeys carrying books; human condition similes",
+      "grammar_formula": "Mushabbah (State A) + Ka (Like) + Mushabbah Bihi (State B)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "حِمَار",
+        "translit": "himār",
+        "en": "donkey",
+        "my": "မြည်း",
+        "quran_freq": 3,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ح م ر",
+          "concept_en": "redness or the animal donkey",
+          "concept_my": "အနီရောင် သို့မဟုတ် မြည်း"
+        },
+        "memory_hook": {
+          "sound": "Hee-mar (sounds like a braying sound)",
+          "image": "A donkey carrying heavy sacks of books it cannot read",
+          "cross_language": "Urdu/Persian: Khimar/Himar"
+        },
+        "word_family": [
+          {
+            "ar": "حُمُر",
+            "translit": "humur",
+            "en": "donkeys (plural)",
+            "my": "မြည်းများ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The word is used in the Quran specifically to mock those who possess knowledge but do not apply it.",
+        "example": {
+          "ar": "كَمَثَلِ الْحِمَارِ",
+          "en": "like the example of the donkey",
+          "my": "မြည်းတစ်ကောင်၏ ဥပမာကဲ့သို့",
+          "ref": "62:5"
+        }
+      },
+      {
+        "word": "أَسْفَار",
+        "translit": "asfār",
+        "en": "large books / scriptures",
+        "my": "ကျမ်းစာအုပ်ကြီးများ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "أَفْعَال",
+        "root": {
+          "letters": "س ف ر",
+          "concept_en": "to travel or to uncover/shine",
+          "concept_my": "ခရီးသွားခြင်း သို့မဟုတ် ထင်ရှားစေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Safar (Travel)",
+          "image": "Books that take you on a journey of knowledge",
+          "cross_language": "Safar (Travel) in Malay/Urdu/Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "سَفَر",
+            "translit": "safar",
+            "en": "travel",
+            "my": "ခရီးသွားခြင်း",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Sifr (singular) refers to a large, significant book, while Safar refers to the travel required to obtain its knowledge.",
+        "example": {
+          "ar": "يَحْمِلُ أَسْفَارًا",
+          "en": "carrying large books",
+          "my": "ကျမ်းစာများကို သယ်ဆောင်ထားသော",
+          "ref": "62:5"
+        }
+      },
+      {
+        "word": "زَنِيم",
+        "translit": "zanīm",
+        "en": "base-born / ignoble / cruel",
+        "my": "ယုတ်ညံ့သော / ရက်စက်သော",
+        "quran_freq": 1,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ز ن م",
+          "concept_en": "protrusion or something attached but not belonging",
+          "concept_my": "ကပ်ပါးရပ်ပါးဖြစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Zenim (sounds like venom)",
+          "image": "A person who claims status they don't truly possess",
+          "cross_language": "Classical Arabic: A goat with an extra flap of skin"
+        },
+        "word_family": [],
+        "pattern_unlock": "This word describes a person who is 'attached' to a noble lineage but is actually ignoble in character.",
+        "example": {
+          "ar": "عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ",
+          "en": "Cruel, moreover, and an outsider",
+          "my": "ကြမ်းတမ်းရက်စက်ပြီး ယုတ်ညံ့သောသူ",
+          "ref": "68:13"
+        }
+      },
+      {
+        "word": "يَحْمِلُ",
+        "translit": "yahmilu",
+        "en": "he carries",
+        "my": "သူသယ်ဆောင်သည်",
+        "quran_freq": 45,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلُ",
+        "root": {
+          "letters": "ح م ل",
+          "concept_en": "to carry/bear a burden",
+          "concept_my": "ဝန်ထုပ်ဝန်ပိုး သယ်ဆောင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hamil (Pregnant woman carries a child)",
+          "image": "Someone carrying a heavy box",
+          "cross_language": "Hamil in Malay/Indonesian (Pregnant)"
+        },
+        "word_family": [
+          {
+            "ar": "حِمْل",
+            "translit": "himl",
+            "en": "burden",
+            "my": "ဝန်ထုပ်",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "This verb is used for both physical carrying and metaphorical carrying of responsibility.",
+        "example": {
+          "ar": "يَحْمِلُ أَثْقَالَهُ",
+          "en": "he carries his burdens",
+          "my": "သူ၏ဝန်ထုပ်များကို သူသယ်ဆောင်သည်",
+          "ref": "29:13"
+        }
+      },
+      {
+        "word": "مَثَل",
+        "translit": "mathal",
+        "en": "example / likeness",
+        "my": "ဥပမာ / ပုံပမာ",
+        "quran_freq": 80,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "م ث ل",
+          "concept_en": "to be like or resemble",
+          "concept_my": "တူညီခြင်း သို့မဟုတ် ပုံတူပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Math (Mathematics uses examples)",
+          "image": "Two things side by side being compared",
+          "cross_language": "Mithaal in Urdu/Persian"
+        },
+        "word_family": [
+          {
+            "ar": "تَمْثِيل",
+            "translit": "tamthīl",
+            "en": "representation",
+            "my": "ကိုယ်စားပြုခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "In Balagha, Mathal refers to a parable that paints a vivid picture to explain a complex reality.",
+        "example": {
+          "ar": "مَثَلُهُمْ كَمَثَلِ",
+          "en": "Their example is like the example of",
+          "my": "သူတို့၏ဥပမာသည် ... ၏ဥပမာကဲ့သို့ဖြစ်သည်",
+          "ref": "2:17"
+        }
+      },
+      {
+        "word": "كِتَاب",
+        "translit": "kitāb",
+        "en": "book / scripture",
+        "my": "စာအုပ် / ကျမ်းမြတ်",
+        "quran_freq": 230,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ك ت ب",
+          "concept_en": "to write/prescribe",
+          "concept_my": "ရေးသားခြင်း သို့မဟုတ် ပြဌာန်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kitab (Common across Islamic world)",
+          "image": "A holy book with light coming out",
+          "cross_language": "Kittab in Myanmar Muslim usage"
+        },
+        "word_family": [
+          {
+            "ar": "يَكْتُبُ",
+            "translit": "yaktubu",
+            "en": "he writes",
+            "my": "သူရေးသည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Any word with K-T-B relates to documentation or decreeing.",
+        "example": {
+          "ar": "ذَٰلِكَ الْكِتَابُ",
+          "en": "That is the Book",
+          "my": "ထိုကျမ်းမြတ်သည်",
+          "ref": "2:2"
+        }
+      },
+      {
+        "word": "قَوْم",
+        "translit": "qawm",
+        "en": "people / nation",
+        "my": "လူမျိုး / လူစု",
+        "quran_freq": 383,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ق و م",
+          "concept_en": "to stand or rise",
+          "concept_my": "မတ်တပ်ရပ်ခြင်း သို့မဟုတ် ဝိုင်းဝန်းလုပ်ဆောင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Com (Community)",
+          "image": "A group of people standing together",
+          "cross_language": "Qaum in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "قِيَام",
+            "translit": "qiyām",
+            "en": "standing",
+            "my": "မတ်တပ်ရပ်ခြင်း",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "A 'Qawm' is a group of people who 'stand' together for a cause or purpose.",
+        "example": {
+          "ar": "لِقَوْمٍ يَعْقِلُونَ",
+          "en": "for a people who use reason",
+          "my": "ဆင်ခြင်တုံတရားရှိသော လူစုအတွက်",
+          "ref": "2:164"
+        }
+      },
+      {
+        "word": "كَذَّبُوا",
+        "translit": "kadh-dhabū",
+        "en": "they denied / belied",
+        "my": "သူတို့ငြင်းပယ်ခဲ့ကြသည်",
+        "quran_freq": 180,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلُوا",
+        "root": {
+          "letters": "ك ذ ب",
+          "concept_en": "to lie / deny truth",
+          "concept_my": "မုသားပြောခြင်း သို့မဟုတ် အမှန်တရားကို ငြင်းပယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kazzab (Great Liar)",
+          "image": "Someone shaking their head 'no' to the truth",
+          "cross_language": "Kizb in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "كَاذِب",
+            "translit": "kādhib",
+            "en": "liar",
+            "my": "လိမ်ညာသူ",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "The Shaddah on the 'dhal' intensifies the action: it's not just a lie, but active denial of truth.",
+        "example": {
+          "ar": "الَّذِينَ كَذَّبُوا",
+          "en": "those who denied",
+          "my": "ငြင်းပယ်ခဲ့ကြသောသူများ",
+          "ref": "7:64"
+        }
+      },
+      {
+        "word": "بِئْسَ",
+        "translit": "bi'sa",
+        "en": "wretched / evil is...",
+        "my": "ဆိုးယုတ်လှစွာသော / အလွန်ဆိုးသော",
+        "quran_freq": 40,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ب أ س",
+          "concept_en": "misery or severity",
+          "concept_my": "ဆင်းရဲဒုက္ခ သို့မဟုတ် ပြင်းထန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Beast (Evil animal)",
+          "image": "A dark, miserable situation",
+          "cross_language": "Ba's in Urdu (strength/courage in battle)"
+        },
+        "word_family": [
+          {
+            "ar": "بَأْس",
+            "translit": "ba's",
+            "en": "severity",
+            "my": "ပြင်းထန်မှု",
+            "freq": 25
+          }
+        ],
+        "pattern_unlock": "Bi'sa is always used to express strong condemnation or disgust.",
+        "example": {
+          "ar": "بِئْسَ الِاسْمُ",
+          "en": "evil is the name",
+          "my": "နာမည်သည် အလွန်ဆိုးယုတ်လှ၏",
+          "ref": "49:11"
+        }
+      },
+      {
+        "word": "ظَالِمِين",
+        "translit": "zālimīn",
+        "en": "wrongdoers / oppressors",
+        "my": "မတရားပြုသူများ / အဓမ္မသမားများ",
+        "quran_freq": 200,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلِين",
+        "root": {
+          "letters": "ظ ل م",
+          "concept_en": "darkness or putting something out of place",
+          "concept_my": "မှောင်မိုက်ခြင်း သို့မဟုတ် မတရားပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Zalim (Common word for oppressor)",
+          "image": "A dark cloud over a person's deeds",
+          "cross_language": "Zalim in Myanmar Muslim community"
+        },
+        "word_family": [
+          {
+            "ar": "ظُلُمَات",
+            "translit": "zulumāt",
+            "en": "darknesses",
+            "my": "အမှောင်ထုများ",
+            "freq": 23
+          }
+        ],
+        "pattern_unlock": "Zulm is essentially 'darkness' because it hides the truth of justice.",
+        "example": {
+          "ar": "الْقَوْمَ الظَّالِمِينَ",
+          "en": "the wrongdoing people",
+          "my": "မတရားသောသူများ",
+          "ref": "5:51"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "تَشْبِيهُ الْحَالَةِ (التَّشْبِيهُ الْمُرَكَّبُ)",
+        "en": "Simile of State (Compound Simile)",
+        "my": "အခြေအနေပြ ပုံပမာစကား"
+      },
+      "formula": {
+        "display": "Picture A (Subject) + Similarity + Picture B (Vehicle)",
+        "example": "كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا",
+        "myanmar_read": "စာအုပ်များသယ်ထားသည့် မြည်းတစ်ကောင်နှင့်တူသည်",
+        "key_insight": "It's not just comparing a person to a donkey; it's comparing the state of ignoring knowledge to the state of a donkey carrying books it cannot understand."
+      },
+      "explanation": {
+        "en": "Tashbih al-Halah (Compound Simile) compares a complex situation to another complex situation. Instead of just one word (Man = Lion), it uses an entire scene. This is used in the Quran to create a vivid psychological impact, making the reader feel the absurdity or gravity of a human behavior.",
+        "my": "Tashbih al-Halah ဆိုသည်မှာ အခြေအနေတစ်ခုလုံးကို နောက်ထပ်အခြေအနေတစ်ခုနှင့် နှိုင်းယှဉ်ပြခြင်းဖြစ်သည်။ လူတစ်ယောက်ကို တိရစ္ဆာန်တစ်ကောင်နှင့် တိုက်ရိုက်နှိုင်းခြင်းမျိုးမဟုတ်ဘဲ၊ ထိုသူ၏ ပြုမူပုံအဆင့်ဆင့်ကို မြင်သာထင်သာရှိစေရန် ပုံဖော်ပြခြင်းဖြစ်သည်။ ၎င်းသည် ဖတ်ရှုသူ၏ စိတ်ထဲတွင် ရုပ်ပုံကားချပ်တစ်ခုကို ပေါ်လွင်စေပြီး ပိုမိုနက်ရှိုင်းစွာ နားလည်စေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar literature, 'Upama' (similes) often use nature or animal behavior to illustrate human flaws, similar to Quranic Balagha.",
+        "my": "မြန်မာစာပေတွင် 'ဥပမာ' ပေးရာ၌ လူတို့၏ အားနည်းချက်များကို တိရစ္ဆာန်တို့၏ သဘာဝနှင့် နှိုင်းယှဉ်ပြလေ့ရှိသည်မှာ ကုရ်အာန်၏ အလင်္ကာစတိုင်နှင့် များစွာတူညီပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The 'Ka' (as/like) connects the two states.",
+          "rule_my": "'Ka' (ကဲ့သို့) ဟူသော စကားလုံးသည် အခြေအနေနှစ်ခုကို ဆက်စပ်ပေးသည်။",
+          "example": {
+            "ar": "كَمَثَلِ",
+            "en": "like the example of",
+            "my": "ဥပမာကဲ့သို့"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا",
+          "en": "like the example of the donkey which carries huge tomes",
+          "my": "(၅) သောင်ရာသ်ကျမ်းတော်မြတ်နှင့် ပတ်သက်၍ တာဝန်ပေးခြင်းခံခဲ့ကြရပြီးနောက် ထိုကျမ်းတော်မြတ်ကို (တာဝန်ကျေအောင်)ထမ်းဆောင်ခြင်း မရှိခဲ့ကြသည့်သူများ၏ ပမာ သည် ကျမ်းစာအုပ်များကို တင်ဆောင်လျက်ရှိနေသော မြည်းတိရစ္ဆာန်နှင့်တူသည်။  အလ္လာဟ်အရှင်မြတ်၏ အာယသ်တော်များကိုမဟုတ်မမှန်ဟု စွပ်စွဲငြင်းပယ်ခဲ့ကြသည့်လူမျိုး ၏ပမာသည် အဘယ်မျှယုတ်ညံ့လိုက်သနည်း။  ၁ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် မတရားသူများကို လမ်းမှန်သို့ ပို့ဆောင်ပေးတော်မမူပေ။",
+          "ref": "62:5",
+          "breakdown": {
+            "subject": {
+              "word": "الَّذِينَ حُمِّلُوا التَّوْرَاةَ",
+              "en": "Those entrusted with the Torah",
+              "note": "They have the knowledge but don't act"
+            },
+            "predicate": {
+              "word": "كَمَثَلِ الْحِمَارِ",
+              "en": "like a donkey",
+              "note": "carrying books it doesn't understand"
+            }
+          },
+          "myanmar_insight": "ဗဟုသုတရှိသော်လည်း အသုံးမချသူကို စာအုပ်သယ်သော မြည်းနှင့် နှိုင်းထားခြင်းမှာ အလွန်ထိရောက်သော တင်စားချက်ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking the comparison is just about the animal.",
+          "wrong": {
+            "ar": "هُوَ حِمَار",
+            "note": "He is a donkey (literal insult)"
+          },
+          "correct": {
+            "ar": "كَمَثَلِ الْحِمَارِ",
+            "en": "like the example of a donkey",
+            "my": "မြည်းတစ်ကောင်၏ ဥပမာကဲ့သို့"
+          },
+          "myanmar_tip": "၎င်းသည် လူကို ဆဲဆိုခြင်းမဟုတ်ဘဲ လုပ်ရပ်၏ အကျိုးမဲ့ပုံကို ပုံဖော်ခြင်းသာဖြစ်သည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Mushabbah (thing compared) in the ayah",
+          "instruction_my": "နှိုင်းယှဉ်ခံရသည့် အရာကို ရှာဖွေပါ",
+          "questions": [
+            {
+              "q": "مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ",
+              "answer_en": "Those entrusted with the Torah",
+              "answer_my": "သောင်ရာသ်ကျမ်းကို ထမ်းဆောင်ခွင့်ရသူများ",
+              "ref": "62:5"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "يَحْمِلُ أَسْفَارًا",
+              "answer_en": "He carries books",
+              "answer_my": "သူသည် ကျမ်းစာများကို သယ်ဆောင်သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Complete the simile structure",
+          "instruction_my": "ဥပမာပုံစံကို ဖြည့်စွက်ပါ",
+          "questions": [
+            {
+              "q": "مَثَلُهُمْ [like] مَثَلِ الْحِمَارِ",
+              "answer_en": "ka",
+              "answer_my": "ကဲ့သို့",
+              "ar": "كَمَثَلِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Knowledge without practice is a burden, not a blessing. Allah uses this visual to warn us that carrying the Quran in our hearts without applying it is as futile as a donkey carrying books.",
+        "my": "လက်တွေ့မကျင့်သုံးသော ပညာသည် ဝန်ထုပ်ဝန်ပိုးသာဖြစ်သည်။ ကုရ်အာန်ကျမ်းကို ရင်ဝယ်ပိုက်ထားသော်လည်း လက်တွေ့မလိုက်နာပါက စာအုပ်သယ်သော မြည်းကဲ့သို့ အကျိုးမဲ့ဖြစ်သွားနိုင်ကြောင်း အလ္လာဟ်အရှင်မြတ်က သတိပေးထားခြင်းဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Jumu'ah 62:5",
+        "study_number": 1,
+        "arabic_full": "مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا ۚ بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+        "en_sahih": "The example of those who were entrusted with the Torah and then did not take it on is like that of a donkey who carries volumes [of books]. Wretched is the example of the people who denied the signs of Allah. And Allah does not guide the wrongdoing people.",
+        "my_mmsy": "(၅) သောင်ရာသ်ကျမ်းတော်မြတ်နှင့် ပတ်သက်၍ တာဝန်ပေးခြင်းခံခဲ့ကြရပြီးနောက် ထိုကျမ်းတော်မြတ်ကို (တာဝန်ကျေအောင်)ထမ်းဆောင်ခြင်း မရှိခဲ့ကြသည့်သူများ၏ ပမာ သည် ကျမ်းစာအုပ်များကို တင်ဆောင်လျက်ရှိနေသော မြည်းတိရစ္ဆာန်နှင့်တူသည်။  အလ္လာဟ်အရှင်မြတ်၏ အာယသ်တော်များကိုမဟုတ်မမှန်ဟု စွပ်စွဲငြင်းပယ်ခဲ့ကြသည့်လူမျိုး ၏ပမာသည် အဘယ်မျှယုတ်ညံ့လိုက်သနည်း။  ၁ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် မတရားသူများကို လမ်းမှန်သို့ ပို့ဆောင်ပေးတော်မမူပေ။",
+        "audio_ref": {
+          "surah": 62,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/062005.mp3"
+        },
+        "qurancom_url": "https://quran.com/62/5",
+        "context": {
+          "en": "In Surah Al-Jumu'ah, Allah addresses the Jews of Madinah who had the Torah but ignored its commands, warning the Muslims to not fall into the same trap with the Quran.",
+          "my": "စူရဟ် အလ်-ဂျွမ္မုအဟ်တွင် အလ္လာဟ်အရှင်မြတ်သည် မဒီနာရှိ သောင်ရာသ်ကျမ်းရရှိထားသော်လည်း လိုက်နာခြင်းမရှိသည့် ယဟူဒီများကို မိန့်ကြားထားခြင်းဖြစ်သည်။ မူဆလင်များအနေဖြင့်လည်း ကုရ်အာန်ကျမ်းနှင့် ပတ်သက်၍ ထိုကဲ့သို့ မဖြစ်စေရန် သတိပေးထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "حُمِّلُوا",
+            "translit": "hummilū",
+            "en": "they were entrusted / made to carry",
+            "my": "သူတို့အား ထမ်းဆောင်စေခဲ့သည်",
+            "role_en": "Verb (Passive)",
+            "role_my": "ကြိယာ (ခံပြိုင်)",
+            "root": "ح م ل",
+            "freq": 45
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The ayah uses 'Mathal' to introduce the image and 'Ka' to lock the comparison between a religious failure and a physical animal state.",
+          "structure_my": "ဤအာယသ်တော်တွင် 'Mathal' ကိုသုံး၍ ပုံရိပ်ကို စတင်ဖော်ပြပြီး 'Ka' ကိုသုံး၍ လူသား၏ပျက်ကွက်မှုနှင့် တိရစ္ဆာန်၏အခြေအနေကို ချိတ်ဆက်ပြထားသည်။",
+          "insight_en": "The donkey is chosen because it is an animal known for stupidity and physical endurance of burdens without any intellectual benefit from them.",
+          "insight_my": "မြည်းကို ရွေးချယ်ရခြင်းမှာ ၎င်းသည် ဝန်ထုပ်ဝန်ပိုးများကို သီးခံသယ်ဆောင်နိုင်သော်လည်း ၎င်းသယ်ဆောင်လာသည့်အရာမှ မည်သည့်အသိပညာမျှ မရရှိသောကြောင့် ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ح م ر",
+            "concept_en": "Himar refers to the wild or domestic donkey; in Arabic rhetoric, it symbolizes the peak of ignorance when knowledge is available.",
+            "concept_my": "မြည်းသည် အာရပ်အလင်္ကာတွင် ပညာရှိပါလျက်နှင့် အသိဉာဏ်ကင်းမဲ့ခြင်း၏ အထွတ်အထိပ်သင်္ကေတဖြစ်သည်။",
+            "members": [
+              {
+                "ar": "حُمْر",
+                "en": "red (plural)",
+                "my": "အနီရောင်များ",
+                "freq": 1
+              }
+            ],
+            "professors_note": "The root also means 'red', possibly because the typical wild ass had a reddish coat, but it's used here for its behavioral characteristics."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ကျွန်ုပ်တို့အား ပညာတတ်ရုံနှင့် မလုံလောက်ဘဲ လက်တွေ့ကျင့်သုံးရန် လိုအပ်ကြောင်း အလွန်နက်ရှိုင်းစွာ သတိပေးနေပါသည်။ ကုရ်အာန်ကို အလွတ်ကျက်ထားပြီး အဓိပ္ပာယ်ကို နားမလည်၊ ဘဝတွင် ကျင့်သုံးခြင်းမရှိပါက ကျွန်ုပ်တို့သည်လည်း အကျိုးမဲ့ဝန်ထုပ်ကို သယ်ဆောင်နေသူများသာ ဖြစ်ပါလိမ့်မည်။ ကျွန်ုပ်တို့၏ နှလုံးသားများကို ပညာနှင့်အတူ လက်တွေ့ကျင့်မူနိုင်သော အလင်းတရား ပေးသနားတော်မူပါစေ။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah flows with a heavy emphasis on the 'L' and 'M' sounds (Hummilu, Lam, Yahmilu, Mathalu).",
+          "meaning_anchor": "Visualize a donkey sweating under the weight of books that hold the secrets of the universe, yet it only feels the weight.",
+          "daily_connection": "When you read the Quran, ask yourself: 'Am I just carrying these words, or am I living them?'",
+          "my": "စာအုပ်များအောက်တွင် ပင်ပန်းနေသော မြည်းတစ်ကောင်ကို မြင်ယောင်ရင်း ဤအာယသ်ကို ကျက်မှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we explored how the Quran uses complex similes to describe human conditions. The donkey carrying books is a powerful rhetorical device (Tashbih al-Halah) used to illustrate the futility of knowledge without action. Understanding these images is key to grasping the Quran's emotional and intellectual depth.",
+      "my": "ဤသင်ခန်းစာတွင် ကုရ်အာန်က လူသားတို့၏ အခြေအနေကို ပုံဖော်ရာ၌ အနုပညာမြောက်စွာ နှိုင်းယှဉ်ပုံကို လေ့လာခဲ့သည်။ စာအုပ်သယ်သော မြည်းဥပမာသည် လက်တွေ့မပါသော ပညာ၏ အသုံးမဝင်ပုံကို ထင်ရှားစေသည်။ ဤကဲ့သို့သော တင်စားချက်များကို နားလည်ခြင်းသည် ကုရ်အာန်၏ နက်နဲသော အဓိပ္ပာယ်များကို သဘောပေါက်ရန် သော့ချက်ဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-257",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 257,
+    "title": {
+      "ar": "الِاسْتِعَارَةُ (١) — مَفْهُومُ الِاسْتِعَارَةِ",
+      "en": "Rhetoric VII — Isti'arah I: Conceptual Metaphor Defined",
+      "my": "အာရပ်စကားအလင်္ကာ (၇) — တင်စားချက် (Isti'arah) အဓိပ္ပာယ်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 10,
+      "grammar_focus": "Isti'ārah as borrowing a word from its original context; Taşrīhiyya vs Makniyya",
+      "grammar_formula": "Metaphor = Simile - (Particle of Likeness + One Side of Comparison)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "اسْتِعَارَة",
+        "translit": "isti'ārah",
+        "en": "metaphor / borrowing",
+        "my": "တင်စားခြင်း / ခေတ္တချေးယူခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "اسْتِفْعَالَة",
+        "root": {
+          "letters": "ع و ر",
+          "concept_en": "to be naked or to borrow/lend",
+          "concept_my": "အကာအကွယ်မဲ့ခြင်း သို့မဟုတ် ခေတ္တချေးငှားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Isti-Ara (sounds like 'Is there a' metaphor?)",
+          "image": "Borrowing a coat from someone else to wear",
+          "cross_language": "Musta'ar in Urdu (borrowed)"
+        },
+        "word_family": [
+          {
+            "ar": "أَعَارَ",
+            "translit": "a'āra",
+            "en": "he lent",
+            "my": "သူချေးငှားခဲ့သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "In Balagha, this means 'borrowing' a word from its original meaning to use in a new context because of a hidden similarity.",
+        "example": {
+          "ar": "نُورًا",
+          "en": "a light (metaphor for guidance)",
+          "my": "အလင်းရောင် (လမ်းညွှန်မှုအတွက် တင်စားချက်)",
+          "ref": "6:122"
+        }
+      },
+      {
+        "word": "تَصْرِيحِيَّة",
+        "translit": "tasrīhiyya",
+        "en": "explicit / declared",
+        "my": "ရှင်းလင်းထင်ရှားသော",
+        "quran_freq": 0,
+        "word_type": "Adjective",
+        "gender": "Feminine",
+        "wazn": "تَفْعِيلِيَّة",
+        "root": {
+          "letters": "ص ر ح",
+          "concept_en": "to be clear or pure",
+          "concept_my": "ရှင်းလင်းခြင်း သို့မဟုတ် သန့်စင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sarih (Clear)",
+          "image": "A clear, cloudless sky",
+          "cross_language": "Sarih in Urdu/Malay"
+        },
+        "word_family": [
+          {
+            "ar": "صَرْح",
+            "translit": "sarh",
+            "en": "lofty palace",
+            "my": "မြင့်မားသော နန်းတော်",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "A metaphor is 'Tasrihiyya' when the thing being borrowed (the image) is explicitly mentioned.",
+        "example": {
+          "ar": "الصِّرَاطَ الْمُسْتَقِيمَ",
+          "en": "the straight path",
+          "my": "ဖြောင့်မတ်သော လမ်းစဉ်",
+          "ref": "1:6"
+        }
+      },
+      {
+        "word": "مَكْنِيَّة",
+        "translit": "makniyya",
+        "en": "allusive / hidden",
+        "my": "ဝှက်ဖုံးထားသော",
+        "quran_freq": 0,
+        "word_type": "Adjective",
+        "gender": "Feminine",
+        "wazn": "مَفْعُولِيَّة",
+        "root": {
+          "letters": "ك ن ي",
+          "concept_en": "to allude or use a title",
+          "concept_my": "သွယ်ဝိုက်ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kunya (Nickname/Title)",
+          "image": "A person wearing a mask",
+          "cross_language": "Kinaya in Urdu/Persian"
+        },
+        "word_family": [
+          {
+            "ar": "كِنَايَة",
+            "translit": "kināyah",
+            "en": "metonymy",
+            "my": "သွယ်ဝိုက်ပြောဆိုခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "A metaphor is 'Makniyya' when the object of comparison is hidden but its characteristics are mentioned.",
+        "example": {
+          "ar": "وَاشْتَعَلَ الرَّأْسُ شَيْبًا",
+          "en": "and the head flared with white hair",
+          "my": "ဦးခေါင်းသည် ဆံပင်ဖြူများဖြင့် တောက်လောင်လာသည်",
+          "ref": "19:4"
+        }
+      },
+      {
+        "word": "ظُلُمَات",
+        "translit": "zulumāt",
+        "en": "darknesses",
+        "my": "အမှောင်ထုများ",
+        "quran_freq": 23,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فُعُلَات",
+        "root": {
+          "letters": "ظ ل م",
+          "concept_en": "darkness / injustice",
+          "concept_my": "မှောင်မိုက်ခြင်း / မတရားမှု"
+        },
+        "memory_hook": {
+          "sound": "Zulum (Oppression)",
+          "image": "Deep, layered darkness",
+          "cross_language": "Zulmat in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "ظُلْم",
+            "translit": "zulm",
+            "en": "wrongdoing",
+            "my": "မတရားမှု",
+            "freq": 200
+          }
+        ],
+        "pattern_unlock": "In the Quran, 'darkness' is almost always a metaphor for misguidance or disbelief.",
+        "example": {
+          "ar": "مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
+          "en": "from darknesses into the light",
+          "my": "အမှောင်ထုများမှ အလင်းရောင်သို့",
+          "ref": "2:257"
+        }
+      },
+      {
+        "word": "نُور",
+        "translit": "nūr",
+        "en": "light",
+        "my": "အလင်းရောင်",
+        "quran_freq": 194,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ن و ر",
+          "concept_en": "to shine or illuminate",
+          "concept_my": "တောက်ပခြင်း သို့မဟုတ် လင်းထိန်စေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Noon (High noon light)",
+          "image": "A lamp in a dark room",
+          "cross_language": "Noor in Myanmar Muslim names"
+        },
+        "word_family": [
+          {
+            "ar": "مُنِير",
+            "translit": "munīr",
+            "en": "radiant",
+            "my": "လင်းလက်သော",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "Light is the Quranic metaphor for guidance, faith, and clarity.",
+        "example": {
+          "ar": "اللَّهُ نُورُ السَّمَاوَاتِ",
+          "en": "Allah is the Light of the heavens",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်တို့၏ အလင်းရောင်ဖြစ်တော်မူ၏",
+          "ref": "24:35"
+        }
+      },
+      {
+        "word": "يُخْرِجُهُمْ",
+        "translit": "yukhrijuhum",
+        "en": "He brings them out",
+        "my": "ကိုယ်တော်သည် သူတို့အား ထုတ်ဆောင်တော်မူသည်",
+        "quran_freq": 50,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفْعِلُ",
+        "root": {
+          "letters": "خ ر ج",
+          "concept_en": "to exit / come out",
+          "concept_my": "ထွက်ခွာခြင်း သို့မဟုတ် အပြင်သို့ထွက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Exit (Kh-r-j sounds like a harsh exit)",
+          "image": "Someone walking out of a cave",
+          "cross_language": "Kharij in Urdu (excluded)"
+        },
+        "word_family": [
+          {
+            "ar": "خُرُوج",
+            "translit": "khurūj",
+            "en": "emergence",
+            "my": "ထွက်ပေါ်လာခြင်း",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "This verb often describes Allah's action of moving believers from one spiritual state to another.",
+        "example": {
+          "ar": "يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ",
+          "en": "He brings them out of darknesses",
+          "my": "ကိုယ်တော်သည် သူတို့အား အမှောင်ထုများမှ ထုတ်ဆောင်တော်မူသည်",
+          "ref": "2:257"
+        }
+      },
+      {
+        "word": "وَلِيُّ",
+        "translit": "waliyyu",
+        "en": "protector / ally",
+        "my": "အကာအကွယ်ပေးသူ / မိတ်ဆွေ",
+        "quran_freq": 44,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "و ل ي",
+          "concept_en": "proximity or to be near",
+          "concept_my": "နီးကပ်ခြင်း သို့မဟုတ် တာဝန်ယူခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Wali (A saint or guardian)",
+          "image": "A hand guiding a child",
+          "cross_language": "Wali in Myanmar Muslim usage"
+        },
+        "word_family": [
+          {
+            "ar": "أَوْلِيَاء",
+            "translit": "awliyā'",
+            "en": "allies",
+            "my": "မိတ်ဆွေများ",
+            "freq": 42
+          }
+        ],
+        "pattern_unlock": "A Wali is someone who is close enough to help and protect you.",
+        "example": {
+          "ar": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا",
+          "en": "Allah is the protector of those who believe",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အီမာန်သက်ဝင်သူတို့၏ အကာအကွယ်ပေးသူဖြစ်တော်မူ၏",
+          "ref": "2:257"
+        }
+      },
+      {
+        "word": "آمَنُوا",
+        "translit": "āmanū",
+        "en": "they believed",
+        "my": "သူတို့ယုံကြည်ခဲ့ကြသည်",
+        "quran_freq": 258,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلُوا",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "safety / security / faith",
+          "concept_my": "ဘေးကင်းခြင်း သို့မဟုတ် ယုံကြည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Amen / Amin",
+          "image": "A heart at peace",
+          "cross_language": "Iman in Myanmar language"
+        },
+        "word_family": [
+          {
+            "ar": "إِيمَان",
+            "translit": "īmān",
+            "en": "faith",
+            "my": "ယုံကြည်မှု",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "True faith (Iman) provides safety (Aman) for the soul.",
+        "example": {
+          "ar": "الَّذِينَ آمَنُوا",
+          "en": "those who believed",
+          "my": "ယုံကြည်ခဲ့ကြသောသူများ",
+          "ref": "2:257"
+        }
+      },
+      {
+        "word": "كَفَرُوا",
+        "translit": "kafarū",
+        "en": "they disbelieved / covered truth",
+        "my": "သူတို့ငြင်းပယ်ခဲ့ကြသည်",
+        "quran_freq": 289,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلُوا",
+        "root": {
+          "letters": "ك ف ر",
+          "concept_en": "to cover or hide",
+          "concept_my": "ဖုံးကွယ်ခြင်း သို့မဟုတ် ငြင်းပယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cover (K-F-R)",
+          "image": "Someone covering a bright light with a cloth",
+          "cross_language": "Kafir in Myanmar language"
+        },
+        "word_family": [
+          {
+            "ar": "كُفْر",
+            "translit": "kufr",
+            "en": "disbelief",
+            "my": "ငြင်းပယ်မှု",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "Kufr is not just absence of faith; it is the active 'covering' of the truth.",
+        "example": {
+          "ar": "وَالَّذِينَ كَفَرُوا",
+          "en": "and those who disbelieved",
+          "my": "ငြင်းပယ်ခဲ့ကြသောသူများမှာမူ",
+          "ref": "2:257"
+        }
+      },
+      {
+        "word": "طَاغُوت",
+        "translit": "tāghūt",
+        "en": "false deities / idols",
+        "my": "မှားယွင်းသော ဘုရားများ / ရုပ်တုများ",
+        "quran_freq": 8,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَلُوت",
+        "root": {
+          "letters": "ط غ ي",
+          "concept_en": "to exceed limits",
+          "concept_my": "စည်းကျော်ခြင်း သို့မဟုတ် အာဏာရှင်ဆန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Taghut (Tyrant)",
+          "image": "A person stepping over a boundary line",
+          "cross_language": "Tughyan in Urdu (flooding/rebellion)"
+        },
+        "word_family": [
+          {
+            "ar": "طَغَى",
+            "translit": "taghā",
+            "en": "he transgressed",
+            "my": "သူစည်းကျော်ခဲ့သည်",
+            "freq": 9
+          }
+        ],
+        "pattern_unlock": "Taghut is anything that is worshipped or followed instead of Allah, exceeding the bounds of servitude.",
+        "example": {
+          "ar": "أَوْلِيَاؤُهُمُ الطَّاغُوتُ",
+          "en": "their allies are the Taghut",
+          "my": "သူတို့၏မိတ်ဆွေများမှာ မှားယွင်းသောဘုရားများဖြစ်သည်",
+          "ref": "2:257"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الِاسْتِعَارَة",
+        "en": "Isti'arah (Metaphor)",
+        "my": "တင်စားချက် (Metaphor)"
+      },
+      "formula": {
+        "display": "Word (Original Meaning) -> Borrowed Context (Similarity)",
+        "example": "النُّور (Light) = الإِيمَان (Faith)",
+        "myanmar_read": "အလင်းရောင်သည် လမ်းညွှန်မှုကို ကိုယ်စားပြုသည်",
+        "key_insight": "In Isti'arah, we don't say 'Faith is like Light.' We simply call Faith 'The Light.' The comparison is so strong that the words are swapped."
+      },
+      "explanation": {
+        "en": "Isti'arah is the highest form of simile. It is when you 'borrow' a word (like Light) to describe a concept (like Guidance) because they share a common quality (clarity and safety). Unlike Tashbih, Isti'arah removes the 'like' and treats the two things as one.",
+        "my": "Isti'arah သည် နှိုင်းယှဉ်မှု၏ အမြင့်ဆုံးပုံစံဖြစ်သည်။ ၎င်းသည် စကားလုံးတစ်လုံး (ဥပမာ-အလင်းရောင်) ကို ၎င်း၏မူလအဓိပ္ပာယ်မှ ခေတ္တချေးယူပြီး အခြားအရာတစ်ခု (ဥပမာ-လမ်းညွှန်မှု) ကို ဖော်ပြရန် အသုံးပြုခြင်းဖြစ်သည်။ 'ကဲ့သို့' ဟူသော စကားလုံးကို မသုံးတော့ဘဲ အရာနှစ်ခုကို တစ်ခုတည်းအဖြစ် ပေါင်းစပ်ဖော်ပြလိုက်ခြင်းဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to how we use 'light' (Alinn) in Myanmar to mean knowledge or a bright future, Arabic uses 'Nur' to mean the Quran and Faith.",
+        "my": "မြန်မာစကားတွင် 'အလင်း' ကို အသိပညာ သို့မဟုတ် တောက်ပသော အနာဂတ်အတွက် သုံးသကဲ့သို့၊ အာရပ်စကားတွင် 'Nur' ကို ကုရ်အာန်နှင့် အီမာန်အတွက် သုံးပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Isti'arah Tasrihiyya: The metaphor is explicitly named (e.g., 'The Light' instead of 'Faith').",
+          "rule_my": "Isti'arah Tasrihiyya - တင်စားသည့် စကားလုံးကို တိုက်ရိုက်ဖော်ပြခြင်း။",
+          "example": {
+            "ar": "الظُّلُمَات",
+            "en": "The Darknesses (meaning Misguidance)",
+            "my": "အမှောင်ထု (လမ်းမှားခြင်းကို ဆိုလိုသည်)"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
+          "en": "from darknesses into the light",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အီမာန်ယုံကြည်သူများကို ကာကွယ်စောင့်ရှောက် စောင်မတော်မူသည့် အဆွေတော်ဖြစ်တော်မူသည်။ အရှင်မြတ်သည် ထိုအီမာန်ယုံကြည်သူများကို အမိုက်အမှောင်များ(ကုဖ်ရ်)မှ အလင်းရောင်(အစ္စလာမ်)ထံသို့ ထုတ်ယူပို့ဆောင်တော်မူသည်။ ထို့ပြင် ကာဖိရ်ငြင်းပယ်သူများ၏ အဆွေခင်ပွန်းများသည် ရှိုင်သွာန်များပင်ဖြစ်ကြသည်။ ထိုရှိုင်သွာန်များသည် သူတို့အား (အစ္စလာမ်)အလင်းရောင်မှ အမိုက်အမှောင်(ကုဖ်ရ်)များထဲသို့ ပို့ဆောင်ကြသည်။ သူတို့သည်ငရဲသားများဖြစ်ကြသည်။ သူတို့သည် ထိုငရဲထဲ၌ပင် အမြဲနေထိုင်ကြရမည့်သူများဖြစ်ကြသည်။",
+          "ref": "2:257",
+          "breakdown": {
+            "subject": {
+              "word": "الظُّلُمَات",
+              "en": "Darkness",
+              "note": "Metaphor for Kufr"
+            },
+            "predicate": {
+              "word": "النُّور",
+              "en": "Light",
+              "note": "Metaphor for Iman"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'အမှောင်' နှင့် 'အလင်း' သည် ရုပ်ပိုင်းဆိုင်ရာမဟုတ်ဘဲ စိတ်ပိုင်းဆိုင်ရာ အခြေအနေများကို တင်စားထားခြင်းဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Taking the metaphor literally.",
+          "wrong": {
+            "ar": "نُور الشَّمْس",
+            "note": "Thinking it means literal sunlight in this context"
+          },
+          "correct": {
+            "ar": "نُور الإِيمَان",
+            "en": "The light of faith",
+            "my": "အီမာန်၏ အလင်းရောင်"
+          },
+          "myanmar_tip": "ရှေ့နောက်စကားအဆက်အစပ်ကို ကြည့်ခြင်းဖြင့် တင်စားချက်ဟုတ်မဟုတ် သိနိုင်ပါသည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the borrowed word (metaphor) in this phrase",
+          "instruction_my": "တင်စားထားသည့် စကားလုံးကို ရှာပါ",
+          "questions": [
+            {
+              "q": "يُخْرِجُهُمْ إِلَى النُّورِ",
+              "answer_en": "An-Nur (The Light)",
+              "answer_my": "အလ်-နူးရ် (အလင်းရောင်)",
+              "ref": "2:257"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English (interpretive)",
+          "instruction_my": "အနက်အဓိပ္ပာယ်ကို ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "مِنَ الظُّلُمَاتِ",
+              "answer_en": "From misguidance (lit: darknesses)",
+              "answer_my": "လမ်းမှားခြင်းမှ (တိုက်ရိုက်အနက်- အမှောင်ထုမှ)"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Use the word 'Nur' in a sentence about guidance",
+          "instruction_my": "လမ်းညွှန်မှုအတွက် 'Nur' ကိုသုံး၍ စာကြောင်းဖွဲ့ပါ",
+          "questions": [
+            {
+              "q": "Allah is the [Light] of my heart",
+              "answer_en": "Nur",
+              "answer_my": "နူးရ် (အလင်းရောင်)",
+              "ar": "اللَّهُ نُورُ قَلْبِي"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Allah calls His guidance 'Light' because just as light makes the path visible and safe, faith makes the purpose of life clear and protects us from the pitfalls of ego and sin.",
+        "my": "အလ္လာဟ်အရှင်မြတ်သည် ကိုယ်တော်၏လမ်းညွှန်မှုကို 'အလင်း' ဟု ခေါ်ဆိုခြင်းမှာ အလင်းရောင်သည် လမ်းကို မြင်သာစေပြီး ဘေးကင်းစေသကဲ့သို့၊ အီမာန်သည်လည်း ဘဝ၏ရည်ရွယ်ချက်ကို ရှင်းလင်းစေပြီး အတ္တနှင့် အပြစ်များမှ ကာကွယ်ပေးသောကြောင့် ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:257",
+        "study_number": 1,
+        "arabic_full": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ ۖ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَاتِ ۗ أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+        "en_sahih": "Allah is the ally of those who believe. He brings them out from darknesses into the light. And those who disbelieved - their allies are Taghut. They take them out of the light into darknesses. Those are the companions of the Fire; they will abide eternally therein.",
+        "my_mmsy": "အလ္လာဟ်အရှင်မြတ်သည် အီမာန်ယုံကြည်သူများကို ကာကွယ်စောင့်ရှောက် စောင်မတော်မူသည့် အဆွေတော်ဖြစ်တော်မူသည်။ အရှင်မြတ်သည် ထိုအီမာန်ယုံကြည်သူများကို အမိုက်အမှောင်များ(ကုဖ်ရ်)မှ အလင်းရောင်(အစ္စလာမ်)ထံသို့ ထုတ်ယူပို့ဆောင်တော်မူသည်။ ထို့ပြင် ကာဖိရ်ငြင်းပယ်သူများ၏ အဆွေခင်ပွန်းများသည် ရှိုင်သွာန်များပင်ဖြစ်ကြသည်။ ထိုရှိုင်သွာန်များသည် သူတို့အား (အစ္စလာမ်)အလင်းရောင်မှ အမိုက်အမှောင်(ကုဖ်ရ်)များထဲသို့ ပို့ဆောင်ကြသည်။ သူတို့သည်ငရဲသားများဖြစ်ကြသည်။ သူတို့သည် ထိုငရဲထဲ၌ပင် အမြဲနေထိုင်ကြရမည့်သူများဖြစ်ကြသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 257,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002257.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/257",
+        "context": {
+          "en": "This ayah follows Ayat al-Kursi and explains the nature of divine guardianship. It contrasts the direction of the believer (towards light) and the disbeliever (towards darkness).",
+          "my": "ဤအာယသ်တော်သည် အာယသ်သုလ်ကုရ်စီ၏နောက်တွင် လာရှိပြီး အလ္လာဟ်အရှင်မြတ်၏ စောင့်ရှောက်မှုသဘာဝကို ရှင်းပြထားသည်။ ယုံကြည်သူ (အလင်းသို့ဦးတည်သူ) နှင့် ငြင်းပယ်သူ (အမှောင်သို့ဦးတည်သူ) တို့၏ လားရာကို နှိုင်းယှဉ်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الطَّاغُوتُ",
+            "translit": "at-tāghūtu",
+            "en": "the false deities",
+            "my": "မှားယွင်းသော ဘုရားများ",
+            "role_en": "Subject / Noun",
+            "role_my": "ကတ္တား / နာမ်",
+            "root": "ط غ ي",
+            "freq": 8
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Notice 'Darknesses' is plural (Zulumāt) because error has many paths, but 'Light' is singular (Nur) because the Truth is only one.",
+          "structure_my": "'အမှောင်ထု' ကို အများကိန်း (Zulumat) သုံးထားခြင်းမှာ လမ်းမှားများစွာရှိသောကြောင့်ဖြစ်ပြီး၊ 'အလင်း' ကို အနည်းကိန်း (Nur) သုံးထားခြင်းမှာ အမှန်တရားသည် တစ်ခုတည်းသာရှိသောကြောင့်ဖြစ်သည်။",
+          "insight_en": "The movement from plural darkness to singular light indicates a spiritual 'gathering' and focus on the Creator.",
+          "insight_my": "အမှောင်များစွာမှ အလင်းတစ်ခုတည်းသို့ ကူးပြောင်းခြင်းသည် စိတ်ဝိညာဉ်၏ တည်ငြိမ်မှုနှင့် ဖန်ဆင်းရှင်အပေါ် အာရုံစိုက်မှုကို ပြသသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "و ل ي",
+            "concept_en": "W-L-Y involves being so close to something that nothing else intervenes. A 'Wali' is a friend who is always by your side.",
+            "concept_my": "W-L-Y သည် အရာတစ်ခုနှင့် အလွန်နီးကပ်နေခြင်းကို ဆိုလိုသည်။ 'Wali' ဆိုသည်မှာ အမြဲတမ်း ဘေးနားတွင်ရှိနေသော မိတ်ဆွေဖြစ်သည်။",
+            "members": [
+              {
+                "ar": "مَوْلَى",
+                "en": "Master/Guardian",
+                "my": "အရှင်သခင်",
+                "freq": 22
+              }
+            ],
+            "professors_note": "In this context, Wilayah (guardianship) implies both protection and the active leading from darkness to light."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ဘဝတွင် တစ်ခါတစ်ရံ စိတ်ဓာတ်ကျခြင်း၊ လမ်းပျောက်ခြင်းဟူသော အမှောင်ထုများကို ကြုံတွေ့ရတတ်ပါသည်။ ထိုအချိန်မျိုးတွင် အလ္လာဟ်အရှင်မြတ်အား 'ဝလီ' (မိတ်ဆွေစစ်) အဖြစ် အားကိုးပါက အရှင်မြတ်သည် ကျွန်ုပ်တို့အား မျှော်လင့်ချက်နှင့် ယုံကြည်ခြင်းဟူသော 'အလင်းရောင်' သို့ ထုတ်ဆောင်ပေးမည်ဖြစ်ကြောင်း ဤအာယသ်တော်က ကတိပေးထားပါသည်။ ကျွန်ုပ်တို့၏ဘဝခရီးကို အမြဲတမ်း အလင်းထဲတွင်သာ ရှိပါစေရန် ဆုတောင်းရပါမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The contrast between 'Mina-zulumati ilan-nur' and 'Minan-nuri ila-zulumat' creates a powerful structural symmetry.",
+          "meaning_anchor": "Imagine a compass always pointing to a single sun (Nur) while many shadows (Zulumat) try to pull it away.",
+          "daily_connection": "Every time you turn on a light in a dark room, remember this ayah.",
+          "my": "အမှောင်မှအလင်း နှင့် အလင်းမှအမှောင် ဟူသော ဆန့်ကျင်ဘက်စကားလုံးများကို အာရုံစိုက်၍ ကျက်မှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Isti'arah (metaphor) is more than just a literary tool; it is a way the Quran shifts our perspective. By calling faith 'Light', it teaches us that without it, we are spiritually blind. We learned that 'Light' is singular and 'Darkness' is plural, reflecting the unity of Truth and the multiplicity of falsehood.",
+      "my": "Isti'arah (တင်စားချက်) သည် စာပေအလင်္ကာသက်သက်မဟုတ်ဘဲ ကုရ်အာန်က ကျွန်ုပ်တို့၏ အမြင်ကို ပြောင်းလဲပေးသည့် နည်းလမ်းဖြစ်သည်။ အီမာန်ကို 'အလင်း' ဟု ခေါ်ဆိုခြင်းဖြင့် ၎င်းမရှိပါက စိတ်ဝိညာဉ်အရ မျက်စိကန်းနေသူများဖြစ်ကြောင်း သင်ပေးသည်။ အမှန်တရားသည် တစ်ခုတည်းဖြစ်ပြီး အမှားများသည် များပြားကြောင်းကို 'အလင်း' (အနည်းကိန်း) နှင့် 'အမှောင်' (အများကိန်း) သုံးနှုန်းပုံဖြင့် သိရှိခဲ့ရသည်။"
+    }
+  }
+]

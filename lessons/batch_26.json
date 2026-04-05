@@ -1,0 +1,932 @@
+[
+  {
+    "lesson_id": "L3-126",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 126,
+    "title": {
+      "ar": "إِنَّ وَأَخَوَاتُهَا (١) — التَّأْكِيدُ",
+      "en": "Inna & Sisters I — Emphasis and Certainty",
+      "my": "အင်န (إِنَّ) နှင့် ၎င်း၏ညီအစ်မများ (၁) - အတည်ပြုခြင်းနှင့် သေချာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Inna puts Ism in Nasb; changes nominal sentence structure",
+      "grammar_formula": "إِنَّ + (Ism in Nasb) + (Khabar in Raf')"
+    },
+    "section_1_vocab": [
+      {
+        "word": "إِنَّ",
+        "translit": "Inna",
+        "en": "Indeed / Verily",
+        "my": "ဧကန်မလွဲ / အမှန်ပင်",
+        "quran_freq": 1682,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ء ن ن",
+          "concept_en": "Emphasis and affirmation",
+          "concept_my": "အတည်ပြုခြင်းနှင့် အလေးပေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Inner",
+          "image": "An 'Inner' truth that is absolutely certain",
+          "cross_language": "Inna lillahi (Commonly used by Myanmar Muslims)"
+        },
+        "word_family": [
+          {
+            "ar": "أَنَّ",
+            "translit": "Anna",
+            "en": "That",
+            "my": "ကြောင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Whenever you see Inna, look for the next noun to have a 'Fatha' (Nasb) ending.",
+        "example": {
+          "ar": "إِنَّ ٱللَّهَ عَلِيمٌ",
+          "en": "Indeed, Allah is Knowing",
+          "my": "ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် အလုံးစုံကို သိရှိတော်မူသောအရှင်ဖြစ်တော်မူ၏",
+          "ref": "2:158"
+        }
+      },
+      {
+        "word": "حَقّ",
+        "translit": "Haqq",
+        "en": "Truth / Right",
+        "my": "အမှန်တရား / ရပိုင်ခွင့်",
+        "quran_freq": 287,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ح ق ق",
+          "concept_en": "Truth, reality, necessity",
+          "concept_my": "မှန်ကန်ခြင်း၊ လက်တွေ့ကျခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Haq",
+          "image": "A stamp of truth on a document",
+          "cross_language": "Haq (Used in Myanmar as 'Haqq-ni' for truth)"
+        },
+        "word_family": [
+          {
+            "ar": "أَحَقُّ",
+            "translit": "Ahaqqu",
+            "en": "More worthy",
+            "my": "ပို၍ထိုက်တန်သော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Haqq refers to anything that is established and cannot be denied.",
+        "example": {
+          "ar": "إِنَّ وَعْدَ ٱللَّهِ حَقٌّ",
+          "en": "Indeed, the promise of Allah is truth",
+          "my": "ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်၏ ကတိတော်သည် အမှန်တရားဖြစ်၏",
+          "ref": "10:55"
+        }
+      },
+      {
+        "word": "عَزِيز",
+        "translit": "Aziz",
+        "en": "Almighty / Powerful",
+        "my": "တန်ခိုးအာနုဘော်ကြီးမားသော",
+        "quran_freq": 129,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ع ز ز",
+          "concept_en": "Strength, honor, rarity",
+          "concept_my": "အင်အား၊ ဂုဏ်ဒြပ်၊ ရှားပါးမှု"
+        },
+        "memory_hook": {
+          "sound": "As is",
+          "image": "A king sitting with absolute power",
+          "cross_language": "Izzat (Urdu/Myanmar word for honor)"
+        },
+        "word_family": [
+          {
+            "ar": "عِزَّة",
+            "translit": "Izzah",
+            "en": "Honor/Might",
+            "my": "ဂုဏ်သိက္ခာ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Words on the pattern Fa'eel often describe permanent attributes of Allah.",
+        "example": {
+          "ar": "إِنَّ ٱللَّهَ عَزِيزٌ",
+          "en": "Indeed, Allah is Exalted in Might",
+          "my": "ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးအာနုဘော်ကြီးမားတော်မူသောအရှင်ဖြစ်၏",
+          "ref": "2:209"
+        }
+      },
+      {
+        "word": "بَيِّنَة",
+        "translit": "Bayyinah",
+        "en": "Clear proof",
+        "my": "ထင်ရှားလှသော သက်သေသာဓက",
+        "quran_freq": 52,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعِّلَة",
+        "root": {
+          "letters": "ب ي ن",
+          "concept_en": "To be clear or separate",
+          "concept_my": "ရှင်းလင်းခြင်း သို့မဟုတ် ခွဲခြားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Bay",
+          "image": "A bright lighthouse in a bay showing the way",
+          "cross_language": "Bayan (Myanmar Muslim term for religious lecture/explanation)"
+        },
+        "word_family": [
+          {
+            "ar": "مُبِين",
+            "translit": "Mubeen",
+            "en": "Clear",
+            "my": "ရှင်းလင်းသော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The root B-Y-N always relates to clarity and making things distinct.",
+        "example": {
+          "ar": "جَاءَتْهُمُ ٱلْبَيِّنَةُ",
+          "en": "The clear proof came to them",
+          "my": "၎င်းတို့ထံသို့ ထင်ရှားသော သက်သေသာဓက ရောက်ရှိလာခဲ့ပြီ",
+          "ref": "98:1"
+        }
+      },
+      {
+        "word": "غَفُور",
+        "translit": "Ghafoor",
+        "en": "All-Forgiving",
+        "my": "အလွန်တရာ ခွင့်လွှတ်တော်မူသောအရှင်",
+        "quran_freq": 91,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعُول",
+        "root": {
+          "letters": "غ ف ر",
+          "concept_en": "To cover, protect, or forgive",
+          "concept_my": "ဖုံးအုပ်ခြင်း၊ ကာကွယ်ခြင်း သို့မဟုတ် ခွင့်လွှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Go for",
+          "image": "Covering a mistake with a blanket of mercy",
+          "cross_language": "Istighfar (Asking for forgiveness)"
+        },
+        "word_family": [
+          {
+            "ar": "مَغْفِرَة",
+            "translit": "Maghfirah",
+            "en": "Forgiveness",
+            "my": "ခွင့်လွှတ်မှု",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Fa'ool pattern indicates intensity—Allah doesn't just forgive, He is All-Forgiving.",
+        "example": {
+          "ar": "إِنَّ ٱللَّهَ غَفُورٌ",
+          "en": "Indeed, Allah is Forgiving",
+          "my": "ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် ခွင့်လွှတ်တော်မူသောအရှင်ဖြစ်၏",
+          "ref": "2:173"
+        }
+      },
+      {
+        "word": "رَحِيم",
+        "translit": "Raheem",
+        "en": "Most Merciful",
+        "my": "အလွန်တရာ သနားကြင်နာတော်မူသောအရှင်",
+        "quran_freq": 115,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ر ح م",
+          "concept_en": "Mercy, womb, kindness",
+          "concept_my": "ကရုဏာ၊ သားအိမ်၊ ကြင်နာမှု"
+        },
+        "memory_hook": {
+          "sound": "Rain",
+          "image": "Mercy falling like rain on parched land",
+          "cross_language": "Rahman/Raheem (Daily used in Bismillah)"
+        },
+        "word_family": [
+          {
+            "ar": "رَحْمَة",
+            "translit": "Rahmah",
+            "en": "Mercy",
+            "my": "ကရုဏာ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This root implies a deep, protective mercy like that of a mother.",
+        "example": {
+          "ar": "إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+          "en": "Indeed, He is the Accepting of repentance, the Merciful",
+          "my": "ဧကန်မလွဲ ကိုယ်တော်ရှင်သည် နောင်တကိုလက်ခံသောအရှင်၊ ကရုဏာတော်ရှင် ဖြစ်တော်မူ၏",
+          "ref": "2:37"
+        }
+      },
+      {
+        "word": "سَرِيع",
+        "translit": "Saree'",
+        "en": "Swift / Fast",
+        "my": "လျင်မြန်သော",
+        "quran_freq": 9,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "س ر ع",
+          "concept_en": "Speed and quickness",
+          "concept_my": "မြန်ဆန်ခြင်းနှင့် အလျင်စလိုဖြစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Series",
+          "image": "Actions happening in a fast series",
+          "cross_language": "Sur'at (Urdu/Arabic word for speed)"
+        },
+        "word_family": [
+          {
+            "ar": "يُسَارِعُونَ",
+            "translit": "Yusari'una",
+            "en": "They hasten",
+            "my": "၎င်းတို့ အပြိုင်အဆိုင်ပြုကြသည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Describes how quickly Allah responds or how fast reckoning occurs.",
+        "example": {
+          "ar": "إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+          "en": "Indeed, Allah is swift in account",
+          "my": "ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် စစ်ဆေးရာတွင် အလွန်လျင်မြန်တော်မူသောအရှင်ဖြစ်၏",
+          "ref": "3:19"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "إِنَّ وَأَخَوَاتُهَا",
+        "en": "Inna and its Sisters",
+        "my": "အင်န နှင့် ၎င်း၏ ညီအစ်မများ"
+      },
+      "formula": {
+        "display": "إِنَّ + اِسْم (مَنْصُوب) + خَبَر (مَرْفُوع)",
+        "example": "إِنَّ ٱللَّهَ غَفُورٌ",
+        "myanmar_read": "Inna + နာမ် (ဖသဟ်/နဆဗ်) + သတင်း (ဒမ္မဟ်/ရဖ်)",
+        "key_insight": "Inna acts like a 'boss' that forces the noun following it to change its ending to Nasb (usually a Fatha)."
+      },
+      "explanation": {
+        "en": "Inna is a particle used for emphasis, meaning 'Indeed' or 'Verily'. When it enters a nominal sentence (Mubtada & Khabar), it changes the Mubtada's case from Raf' (nominative) to Nasb (accusative), and it is then called 'Ism Inna'. The Khabar remains in the Raf' case and is called 'Khabar Inna'.",
+        "my": "Inna သည် 'ဧကန်မလွဲ' သို့မဟုတ် 'အမှန်ပင်' ဟု အဓိပ္ပာယ်ရပြီး အလေးပေးအတည်ပြုရာတွင် အသုံးပြုသည်။ ၎င်းသည် နာမ်ဝါကျ (Nominal Sentence) တစ်ခု၏ ရှေ့တွင်ရောက်လာသောအခါ Mubtada (ကတ္တား) ၏ အဆုံးသတ်သရကို Raf' (Dammah) မှ Nasb (Fatha) သို့ ပြောင်းလဲစေသည်။ ၎င်းကို Ism Inna ဟုခေါ်ပြီး ကျန်ရှိသော သတင်းစကား (Khabar) သည် Raf' အတိုင်းပင် ရှိနေမည် ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we use suffixes like 'ပဲ' or 'ဧကန်မလွဲ' at the start or end for emphasis, but it doesn't change the grammatical case of the noun. In Arabic, the word 'Inna' physically changes the noun's ending vowel.",
+        "my": "မြန်မာစကားတွင် 'အမှန်တကယ်ပဲ' သို့မဟုတ် 'ဧကန်မလွဲ' ဟု အလေးပေးပြောဆိုသော်လည်း နာမ်၏ ဝိဘတ် သို့မဟုတ် အဆုံးသတ်သံ ပြောင်းလဲသွားခြင်း မရှိပါ။ အာရပ်ဘာသာတွင်မူ 'Inna' ကြောင့် နောက်ကလိုက်လာသော နာမ်၏ အဆုံးသတ်သရသည် ပြောင်းလဲသွားရသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Inna causes the noun (Ism) to be in the Nasb case.",
+          "rule_my": "Inna သည် ၎င်း၏နောက်ရှိ နာမ် (Ism) ကို Nasb (Fatha) အခြေအနေသို့ ရောက်ရှိစေသည်။",
+          "example": {
+            "ar": "ٱللَّهُ عَلِيمٌ -> إِنَّ ٱللَّهَ عَلِيمٌ",
+            "en": "Allah is Knowing -> Indeed Allah is Knowing",
+            "my": "အလ္လာဟ်သည် အလုံးစုံသိတော်မူသောအရှင်ဖြစ်၏ -> ဧကန်မလွဲ အလ္လာဟ်သည် အလုံးစုံသိတော်မူသောအရှင်ဖြစ်၏"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+          "en": "Indeed, Allah is Forgiving and Merciful",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အပေါ်တွင် အသေကောင်၊ (ယိုစီးပြီးသည့်)သွေး၊ ဝက်သား နှင့် အလ္လာဟ်အရှင်မြတ်မှလွဲ၍ အခြားအရာများအတွက် ရည်စူး(သတ်ဖြတ်ထား)သည့် သားကောင်များ ကိုသာ အမှန်စင်စစ် တားမြစ်ထားတော်မူသည်။ သို့ရာတွင် (အစားအစာမရရှိ၍ အသက်စိုးရိမ်ရသည်အထိ) အကျပ်အတည်းနှင့် ရင်ဆိုင်ခဲ့ရသူသည် (အရသာခံချင်သည့်)မက်မောခုံမင်သူလည်းမဟုတ်ဘဲ၊ (လိုသည်ထက် ပိုစားသည့်)အစားကျူးသည်လည်းမဟုတ်ဘဲ (မသေရုံစားခဲ့လျှင်)  ထိုသူ၏အပေါ်တွင် မည်သည့်အပြစ်မျှ မရှိပေ။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အလွန်လွတ်ငြိမ်းချမ်းသာခွင့်ပေးတော်မူသောအရှင်၊ အလွန်သနားကြင်နာတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+          "ref": "2:173",
+          "breakdown": {
+            "subject": {
+              "word": "ٱللَّهَ",
+              "en": "Allah",
+              "note": "Ism Inna (Nasb)"
+            },
+            "predicate": {
+              "word": "غَفُورٌ",
+              "en": "Forgiving",
+              "note": "Khabar Inna (Raf')"
+            }
+          },
+          "myanmar_insight": "Notice how 'Allah' ends with a Fatha because of 'Inna'."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Keeping the Ism in Raf' case after Inna.",
+          "wrong": {
+            "ar": "إِنَّ ٱللَّهُ",
+            "note": "Using Dammah instead of Fatha"
+          },
+          "correct": {
+            "ar": "إِنَّ ٱللَّهَ",
+            "en": "Indeed Allah...",
+            "my": "ဧကန်မလွဲ အလ္လာဟ်..."
+          },
+          "myanmar_tip": "Inna တွေ့ရင် နောက်ကစကားလုံးကို Nasb (Fatha) ဖတ်ဖို့ မမေ့ပါနဲ့။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Ism Inna and its case",
+          "instruction_my": "Ism Inna နှင့် ၎င်း၏ case ကို ရှာဖွေပါ",
+          "questions": [
+            {
+              "q": "إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا",
+              "answer_en": "Ism: Al-'Ahda, Case: Nasb",
+              "answer_my": "Ism: Al-'Ahda, Case: Nasb",
+              "ref": "17:34"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "إِنَّ ٱللَّهَ عَزِيزٌ ذُو ٱنتِقَامٍ",
+              "answer_en": "Indeed, Allah is Exalted in Might, Owner of Retribution",
+              "answer_my": "ဧကန်မလွဲ အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးအာနုဘော်ကြီးမားတော်မူသောအရှင်၊ လက်စားချေတော်မူသောအရှင် ဖြစ်တော်မူ၏"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the sentence definite and emphasized using Inna",
+          "instruction_my": "Inna ကိုအသုံးပြု၍ ဝါကျကို အလေးပေးဖော်ပြပါ",
+          "questions": [
+            {
+              "q": "ٱللَّهُ سَمِيعٌ",
+              "answer_en": "Indeed Allah is All-Hearing",
+              "answer_my": "ဧကန်မလွဲ အလ္လာဟ်သည် အလုံးစုံကြားတော်မူသောအရှင်ဖြစ်၏",
+              "ar": "إِنَّ ٱللَّهَ سَمِيعٌ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Inna removes all doubt. When Allah uses Inna, He is assuring our hearts that His attributes and promises are absolute realities, regardless of our feelings or circumstances.",
+        "my": "Inna သည် သံသယအားလုံးကို ဖယ်ရှားပေးသည်။ အလ္လာဟ်အရှင်မြတ်သည် Inna ကို အသုံးပြုသောအခါ ကျွန်ုပ်တို့၏ စိတ်နှလုံးကို ကိုယ်တော်ရှင်၏ ကတိတော်များသည် အကြွင်းမဲ့ အမှန်တရားဖြစ်ကြောင်း အာမခံချက် ပေးနေခြင်းဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:209",
+        "study_number": 1,
+        "arabic_full": "فَإِن زَلَلْتُم مِّن بَعْدِ مَا جَاءَتْكُمُ ٱلْبَيِّنَٰتُ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+        "en_sahih": "But if you slip after clear proofs have come to you, then know that Allah is Exalted in Might and Wise.",
+        "my_mmsy": "၎င်းပြင် ထင်ရှားသည့် သက်သေလက္ခဏာများသည် အသင်တို့ထံသို့ ရောက်ရှိလာပြီးနောက်တွင်မှ အသင်တို့သည် ချွတ်ချော်လွဲမှားသွားခဲ့ကြလျှင် အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးတော်နှင့် အလွန်လွှမ်းမိုးတော်မူသောအရှင်၊ ပညာဉာဏ်အမြော်အမြင်နှင့် အလွန်ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူသည်ကို အသင်တို့ သိထားလိုက်ကြပါ။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 209,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002209.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/209",
+        "context": {
+          "en": "Allah warns believers against deviating from the straight path after receiving clear guidance.",
+          "my": "ရှင်းလင်းသော လမ်းညွှန်ချက်များ ရရှိပြီးနောက် လမ်းမှားသို့ မရောက်သွားစေရန် အလ္လာဟ်အရှင်မြတ်က သတိပေးထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أَنَّ",
+            "translit": "Anna",
+            "en": "That",
+            "my": "ကြောင်း",
+            "role_en": "Particle",
+            "role_my": "Harf",
+            "root": "ء ن ن",
+            "freq": 0
+          },
+          {
+            "ar": "ٱللَّهَ",
+            "translit": "Allaha",
+            "en": "Allah",
+            "my": "အလ္လာဟ်အရှင်မြတ်",
+            "role_en": "Ism Anna",
+            "role_my": "Ism Anna",
+            "root": "ا ل ه",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The word 'Anna' (a sister of Inna) follows 'Fa'lamu' (Then know), making the Ism 'Allaha' Nasb.",
+          "structure_my": "'Anna' သည် 'Fa'lamu' ၏ နောက်တွင် လိုက်ပါလာပြီး 'Allaha' ကို Nasb ဖြစ်စေသည်။",
+          "insight_en": "Using Anna after 'Know' emphasizes that Allah's power and wisdom are undeniable facts.",
+          "insight_my": "'သိရှိထားပါ' ဟူသော စကားလုံးနောက်တွင် Anna ကို သုံးခြင်းသည် အလ္လာဟ်၏ စွမ်းဆောင်နိုင်ရည်ကို သံသယမရှိ အလေးပေးခြင်းဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ز ز",
+            "concept_en": "Inimitable strength that cannot be overcome",
+            "concept_my": "ဘယ်သူမျှ အနိုင်မယူနိုင်သော အင်အား",
+            "members": [
+              {
+                "ar": "العزيز",
+                "en": "The Mighty",
+                "my": "အင်အားကြီးမားသော",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Aziz doesn't just mean powerful; it means so powerful that nothing can resist His will."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် လူသားများဖြစ်သည့်အတွက် တစ်ခါတစ်ရံ အမှားပြုမိတတ်သည်။ သို့သော် ရှင်းလင်းသော အမှန်တရားကို သိရှိပြီးမှ တမင်သက်သက် လမ်းလွဲသွားခြင်းသည် အလွန်အန္တရာယ်ရှိသည်။ အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးအာနုဘော်ကြီးမားသူဖြစ်သလို အသိပညာနှင့် ပြည့်စုံသူလည်း ဖြစ်သည်။ ကိုယ်တော်ရှင်၏ တန်ခိုးတော်ကို ကြောက်ရွံ့ခြင်းဖြင့် ကျွန်ုပ်တို့၏ ဘဝလမ်းစဉ်ကို ပြုပြင်သင့်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Ends with the heavy sounding 'Azeezun Hakeem'",
+          "meaning_anchor": "The 'Clear Proofs' (Bayyinah) leading to the 'Mighty One' (Aziz)",
+          "daily_connection": "Reminds us to stay firm on the path after learning the Truth.",
+          "my": "ရှင်းလင်းသော သက်သေများ ရောက်ပြီးမှ မချော်လဲရန် သတိပေးချက်အဖြစ် အလွတ်ကျက်မှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we learned how 'Inna' and its sisters emphasize a sentence and change the case of the noun to Nasb. This is a vital pattern to recognize as it appears thousands of times in the Quran to affirm divine truths.",
+      "my": "ဤသင်ခန်းစာတွင် 'Inna' နှင့် ၎င်း၏ညီအစ်မများသည် ဝါကျတစ်ခုကို မည်သို့အလေးပေးပုံနှင့် နာမ်၏အဆုံးသတ်ကို Nasb သို့ မည်သို့ပြောင်းလဲစေပုံကို လေ့လာခဲ့ရသည်။ ဤပုံစံသည် ကုရ်အာန်ကျမ်းတော်မြတ်တွင် အကြိမ်ပေါင်းထောင်ချီ ပါဝင်သောကြောင့် အလွန်အရေးကြီးပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-127",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 127,
+    "title": {
+      "ar": "إِنَّ وَأَخَوَاتُهَا (٢) — أَنَّ",
+      "en": "Inna & Sisters II — Anna (أَنَّ)",
+      "my": "အင်န နှင့် ၎င်း၏ညီအစ်မများ (၂) - အန်န (أَنَّ)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Anna in reported speech and subordinate clauses",
+      "grammar_formula": "Verb (e.g., 'Alima) + أَنَّ + Ism (Nasb)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "أَنَّ",
+        "translit": "Anna",
+        "en": "That",
+        "my": "ကြောင်း / သည့်အတွက်",
+        "quran_freq": 533,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ء ن ن",
+          "concept_en": "Affirmation within a sentence",
+          "concept_my": "ဝါကျအတွင်း အတည်ပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Anna",
+          "image": "Connecting two ideas like a bridge named Anna",
+          "cross_language": "Similar to 'that' in English"
+        },
+        "word_family": [
+          {
+            "ar": "أَنَّمَا",
+            "translit": "Annama",
+            "en": "That only",
+            "my": "သာလျှင်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Anna is like Inna but usually comes in the middle of a sentence after a verb of 'knowing' or 'seeing'.",
+        "example": {
+          "ar": "أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+          "en": "That Allah is severe in penalty",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ပြစ်ဒဏ်ပေးရာတွင် အလွန်ပြင်းထန်တော်မူကြောင်း",
+          "ref": "2:196"
+        }
+      },
+      {
+        "word": "عَلِمَ",
+        "translit": "Alima",
+        "en": "He knew",
+        "my": "သူ သိရှိခဲ့သည်",
+        "quran_freq": 854,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعِلَ",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "Knowledge, to mark",
+          "concept_my": "အသိပညာ၊ မှတ်သားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Alim",
+          "image": "A scholar with a big book",
+          "cross_language": "Alim (Myanmar Muslim term for a scholar)"
+        },
+        "word_family": [
+          {
+            "ar": "يَعْلَمُ",
+            "translit": "Ya'lamu",
+            "en": "He knows",
+            "my": "သူ သိရှိသည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This root is the source of words like 'Ilm' (knowledge) and 'Aalam' (world/sign).",
+        "example": {
+          "ar": "عَلِمَ أَن لَّن تُحْصُوهُ",
+          "en": "He knew that you could not enumerate it",
+          "my": "သင်တို့သည် ၎င်းကို ရေတွက်နိုင်မည်မဟုတ်ကြောင်း ကိုယ်တော်ရှင် သိရှိတော်မူ၏",
+          "ref": "73:20"
+        }
+      },
+      {
+        "word": "شَهِدَ",
+        "translit": "Shahida",
+        "en": "He bore witness",
+        "my": "သူ သက်သေခံခဲ့သည်",
+        "quran_freq": 56,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعِلَ",
+        "root": {
+          "letters": "ش ه د",
+          "concept_en": "To witness, be present",
+          "concept_my": "သက်သေခံခြင်း၊ ရှိနေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shahid",
+          "image": "A witness in a courtroom",
+          "cross_language": "Shahadah (The declaration of faith)"
+        },
+        "word_family": [
+          {
+            "ar": "شَهَادَة",
+            "translit": "Shahadah",
+            "en": "Testimony",
+            "my": "သက်သေထွက်ဆိုချက်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Whenever someone 'witnesses', the content of that witness usually follows with 'Anna'.",
+        "example": {
+          "ar": "شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا هُوَ",
+          "en": "Allah witnesses that there is no deity except Him",
+          "my": "ကိုယ်တော်ရှင်မှတစ်ပါး အခြားအရှင်မရှိကြောင်း အလ္လာဟ်အရှင်မြတ်ကိုယ်တိုင် သက်သေခံတော်မူ၏",
+          "ref": "3:18"
+        }
+      },
+      {
+        "word": "قُوَّة",
+        "translit": "Quwwah",
+        "en": "Power / Strength",
+        "my": "အင်အား / စွမ်းအား",
+        "quran_freq": 28,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ق و ي",
+          "concept_en": "Strength and stability",
+          "concept_my": "အင်အားနှင့် တည်ငြိမ်မှု"
+        },
+        "memory_hook": {
+          "sound": "Quwa",
+          "image": "A heavy weightlifter",
+          "cross_language": "Quwwat-e-Imaan (Strength of faith)"
+        },
+        "word_family": [
+          {
+            "ar": "قَوِيّ",
+            "translit": "Qawiy",
+            "en": "Strong",
+            "my": "သန်စွမ်းသော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The 'h' at the end makes it a feminine noun, but the strength is universal.",
+        "example": {
+          "ar": "أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًا",
+          "en": "That all power belongs to Allah",
+          "my": "အင်အားအားလုံးသည် အလ္လာဟ်အရှင်မြတ်ထံတွင်သာ ရှိကြောင်း",
+          "ref": "2:165"
+        }
+      },
+      {
+        "word": "مَوْلَىٰ",
+        "translit": "Mawla",
+        "en": "Protector / Guardian",
+        "my": "အုပ်ထိန်းသူ / အရှင်သခင်",
+        "quran_freq": 18,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعَل",
+        "root": {
+          "letters": "و ل ي",
+          "concept_en": "Proximity, friendship, authority",
+          "concept_my": "နီးကပ်မှု၊ ချစ်ကြည်ရင်းနှီးမှု၊ အာဏာ"
+        },
+        "memory_hook": {
+          "sound": "Mawla",
+          "image": "A guardian protecting a child",
+          "cross_language": "Mawlana (Our Master - used for teachers in Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "وَلِيّ",
+            "translit": "Wali",
+            "en": "Ally/Friend",
+            "my": "မိတ်ဆွေ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Relates to someone who is 'close' to you to help or lead you.",
+        "example": {
+          "ar": "وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَوْلَىٰكُمْ",
+          "en": "And know that Allah is your protector",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် သင်တို့၏ အုပ်ထိန်းသူဖြစ်ကြောင်း သိရှိထားကြလော့",
+          "ref": "8:40"
+        }
+      },
+      {
+        "word": "نَصِير",
+        "translit": "Naseer",
+        "en": "Helper",
+        "my": "ကူညီစောင့်ရှောက်သူ",
+        "quran_freq": 24,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ن ص ر",
+          "concept_en": "Victory, help",
+          "concept_my": "အောင်ပွဲ၊ အကူအညီ"
+        },
+        "memory_hook": {
+          "sound": "Near",
+          "image": "Someone helping you when you are in trouble",
+          "cross_language": "Nasir (Common name among Myanmar Muslims)"
+        },
+        "word_family": [
+          {
+            "ar": "نَصْرُ ٱللَّهِ",
+            "translit": "Nasrullah",
+            "en": "Help of Allah",
+            "my": "အလ္လာဟ်၏ အကူအညီ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Usually paired with 'Wali' in the Quran to show Allah's complete support.",
+        "example": {
+          "ar": "نِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ",
+          "en": "Excellent is the protector, and excellent is the helper",
+          "my": "ကိုယ်တော်ရှင်သည် အကောင်းဆုံးသော အုပ်ထိန်းသူ၊ အကောင်းဆုံးသော ကူညီစောင့်ရှောက်သူ ဖြစ်တော်မူ၏",
+          "ref": "8:40"
+        }
+      },
+      {
+        "word": "رَسُول",
+        "translit": "Rasul",
+        "en": "Messenger",
+        "my": "တမန်တော်",
+        "quran_freq": 332,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعُول",
+        "root": {
+          "letters": "ر س ل",
+          "concept_en": "To send a message",
+          "concept_my": "သဝဏ်လွှာ ပေးပို့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Result",
+          "image": "A postman delivering a vital letter",
+          "cross_language": "Rasulullah (The Prophet Muhammad PBUH)"
+        },
+        "word_family": [
+          {
+            "ar": "رِسَالَة",
+            "translit": "Risalah",
+            "en": "Message",
+            "my": "သဝဏ်လွှာ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The Fa'ool pattern here means 'the one who is sent'.",
+        "example": {
+          "ar": "أَنَّ مُحَمَّدًا رَّسُولُ ٱللَّهِ",
+          "en": "That Muhammad is the Messenger of Allah",
+          "my": "မုဟမ္မဒ်သည် အလ္လာဟ်အရှင်မြတ်၏ တမန်တော်ဖြစ်ကြောင်း",
+          "ref": "48:29 (Part of Shahadah)"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أَنَّ",
+        "en": "Anna (The Subordinate 'That')",
+        "my": "အန်န (ဆက်စပ်သော 'ကြောင်း'/'ဖြစ်ကြောင်း')"
+      },
+      "formula": {
+        "display": "Verb + أَنَّ + Ism (Nasb)",
+        "example": "فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَوْلَىٰكُمْ",
+        "myanmar_read": "ကြိယာ + အန်န + နာမ် (ဖသဟ်/နဆဗ်)",
+        "key_insight": "Anna is exactly like Inna, but it is used to connect two parts of a sentence, whereas Inna starts a sentence."
+      },
+      "explanation": {
+        "en": "Anna (أَنَّ) is used to link a verb of perception (like 'know', 'witness', 'hear') to the content of that perception. Just like Inna, it makes the following noun Nasb. In English, it is translated as 'that'.",
+        "my": "Anna (أَنَّ) သည် သိရှိခြင်း၊ သက်သေခံခြင်း၊ ကြားသိခြင်း စသည့် ကြိယာများနှင့် ၎င်းတို့၏ အကြောင်းအရာများကို ဆက်စပ်ပေးရန် အသုံးပြုသည်။ Inna ကဲ့သို့ပင် ၎င်း၏နောက်တွင်ရှိသော နာမ်ကို Nasb (Fatha) ဖြစ်စေသည်။ မြန်မာလို '...ကြောင်း' သို့မဟုတ် '...ဖြစ်ကြောင်း' ဟု ဘာသာပြန်ရလေ့ရှိသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar grammar, we place 'ကြောင်း' or 'မှ' after the clause. In Arabic, 'Anna' is placed before the clause.",
+        "my": "မြန်မာသဒ္ဒါတွင် '...ကြောင်း' ကို ဝါကျနောက်မှာ ထားသော်လည်း၊ အာရပ်သဒ္ဒါတွင် 'Anna' ကို ဝါကျ၏အရှေ့ (သို့မဟုတ်) ကြိယာ၏နောက်တွင် ထားရသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Anna cannot start a sentence (unlike Inna).",
+          "rule_my": "Anna သည် Inna ကဲ့သို့ ဝါကျအစတွင် မလာနိုင်ပါ။",
+          "example": {
+            "ar": "فَٱعْلَمُوا۟ أَنَّ...",
+            "en": "So know that...",
+            "my": "ထို့ကြောင့် ... ကြောင်း သိရှိကြလော့"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "أَنَّ ٱللَّهَ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
+          "en": "That Allah is Seeing of what you do",
+          "my": "ထို့ပြင် မိခင်များသည် သူတို့၏သားသမီးများအား ၂နှစ်အပြည့် နို့တိုက်ကြရမည်။ ဤသည် ရက်ပြည့်အောင်နို့တိုက်ကျွေးလိုသူအတွက်ဖြစ်သည်။ ထို့ပြင် (ကလေး၏)ဖခင်အပေါ်တွင် နို့တိုက်ရက်ပြည့်သည်အထိ ထိုမိခင်၏စားနပ်ရိက္ခာနှင့် အဝတ်အစားကို ကောင်းမွန်သည့်နည်းဖြင့် (စီစဉ်ပေးရန်)တာဝန်ရှိသည်။ မည်သူမျှ သူတတ်စွမ်းနိုင်သည်ထက်ပိုပြီး တာဝန်ပေးခြင်း မခံရပေ။  မည်သည့်မိခင်မျှ သူ၏သားသမီးအတွက်ဖြင့် မနစ်နာစေရပေ၊ မည်သည့်ဖခင်မျှလည်း သူ၏သားသမီးအတွက်ဖြင့် မနစ်နာစေရပေ။ (ဖခင်သေဆုံးသွားလျှင်) အမွေစားအမွေခံများအပေါ်၌ ထိုကဲ့သို့ပင် (မိခင်၏စားနပ်ရိက္ခာနှင့် အဝတ်အစားကို စီစဉ်ပေးရန်)တာဝန်ရှိသည်။  ထို့နောက် မိဘနှစ်ပါးသည် သူတို့အချင်းချင်း သဘောတူတိုင်ပင်ပြီး နို့ဖြတ်လိုက်မည်ဆိုလျှင် သူတို့နှစ်ဦးအပေါ်တွင် မည်သည့်အပြစ်မျှ မရှိပေ။ ထို့ပြင် အကယ်၍ အသင်တို့သည် အသင်တို့၏သားသမီးများကို (နို့ထိန်းသည်အား) သင့်တော်သည့်ငှားရမ်းခပေးပြီး နို့တိုက်ကျွေးခိုင်းမည်ဆိုလျှင်လည်း  အသင်တို့အပေါ်တွင် မည်သည့်အပြစ်မျှ မရှိပေ။ (ဝါ) အသင်တို့သည် ကလေးမိခင်ကို ပေးရန်တာဝန်ရှိသည်(များ စားစရာနှင့် အဝတ်အစား)ကို ပေးပြီးနောက် နို့ထိန်းသည် ငှားရမ်းကာ အသင်တို့၏သားသမီးများကို နို့တိုက်ကျွေးခိုင်းမည်ဆိုလျှင်လည်း  အသင်တို့အပေါ်တွင် မည်သည့်အပြစ်မျှ မရှိပေ။ ထို့ပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ကြပါ၊ ထို့ပြင် အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ပြုလုပ်သည်များကို အကြွင်းမဲ့မြင်တော်မူသောအရှင် ဖြစ်တော်မူသည်ကို အသင်တို့ သိထားကြပါ။",
+          "ref": "2:233",
+          "breakdown": {
+            "subject": {
+              "word": "ٱللَّهَ",
+              "en": "Allah",
+              "note": "Ism Anna (Nasb)"
+            },
+            "predicate": {
+              "word": "بَصِيرٌ",
+              "en": "Seeing",
+              "note": "Khabar Anna (Raf')"
+            }
+          },
+          "myanmar_insight": "Anna is usually preceded by words like 'Wa'lamu' (And know)."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing up Inna (starts sentence) and Anna (middle of sentence).",
+          "wrong": {
+            "ar": "أَنَّ ٱللَّهَ غَفُورٌ (at start)",
+            "note": "Anna cannot start a speech"
+          },
+          "correct": {
+            "ar": "إِنَّ ٱللَّهَ غَفُورٌ",
+            "en": "Indeed Allah is Forgiving",
+            "my": "ဧကန်မလွဲ အလ္လာဟ်သည် ခွင့်လွှတ်တော်မူသောအရှင်ဖြစ်၏"
+          },
+          "myanmar_tip": "ဝါကျအစဆိုရင် Inna သုံးပါ၊ ဝါကျအလယ် (ကြိယာနောက်) ဆိုရင် Anna သုံးပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the word affected by Anna",
+          "instruction_my": "Anna ကြောင့် ပြောင်းလဲသွားသော စကားလုံးကို ရှာပါ",
+          "questions": [
+            {
+              "q": "أَنَّ ٱلْقُوَّةَ لِلَّهِ",
+              "answer_en": "Al-Quwwata",
+              "answer_my": "Al-Quwwata",
+              "ref": "2:165"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the sentence fragment",
+          "instruction_my": "ဝါကျအစိတ်အပိုင်းကို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ",
+              "answer_en": "That Allah is with the righteous",
+              "answer_my": "အလ္လာဟ်အရှင်မြတ်သည် ပြစ်မှုဒုစရိုက်မှ ရှောင်ကြဉ်သူများနှင့်အတူ ရှိတော်မူကြောင်း"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Add Anna to connect 'Alima' and 'Allahu Ghafoorun'",
+          "instruction_my": "'Alima' နှင့် 'Allahu Ghafoorun' ကို ဆက်ရန် Anna ကို အသုံးပြုပါ",
+          "questions": [
+            {
+              "q": "عَلِمَ + ٱللَّهُ غَفُورٌ",
+              "answer_en": "Alima anna Allaha Ghafoorun",
+              "answer_my": "အလ္လာဟ်သည် ခွင့်လွှတ်တော်မူသောအရှင်ဖြစ်ကြောင်း သူသိရှိခဲ့သည်",
+              "ar": "عَلِمَ أَنَّ ٱللَّهَ غَفُورٌ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Anna turns information into conviction. When we say 'I witness that...', we are linking our inner knowledge to the external reality of Allah's existence.",
+        "my": "Anna သည် သတင်းအချက်အလက်ကို ယုံကြည်ချက်အဖြစ် ပြောင်းလဲပေးသည်။ '...ကြောင်း ကျွန်ုပ်သက်သေခံပါသည်' ဟု ဆိုရာတွင် ကျွန်ုပ်တို့၏ အတွင်းသိဉာဏ်ကို အလ္လာဟ်အရှင်မြတ် တည်ရှိမှုနှင့် ဆက်စပ်ပေးခြင်း ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Anfal 8:40",
+        "study_number": 1,
+        "arabic_full": "وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَوْلَىٰكُمْ ۚ نِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ",
+        "en_sahih": "And know that Allah is your protector; excellent is the protector, and excellent is the helper.",
+        "my_mmsy": "ထို့နောက် အကယ်၍ သူတို့သည် မျက်နှာလွှဲသွားခဲ့ကြလျှင် အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အား(ကူညီတော်မူမည့်)မိတ်ဆွေ ဖြစ်တော်မူသည်ကို အသင်တို့ သိထားလိုက်ကြပါ။ အရှင်မြတ်သည် အဘယ်မျှကောင်းသော မိတ်ဆွေနှင့် အဘယ်မျှကောင်းသော ကူညီတော်မူသောအရှင် ဖြစ်တော်မူလိုက်ပါသနည်း။",
+        "audio_ref": {
+          "surah": 8,
+          "ayah": 40,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/008040.mp3"
+        },
+        "qurancom_url": "https://quran.com/8/40",
+        "context": {
+          "en": "Allah encourages the believers that regardless of their enemies, they have the ultimate protector.",
+          "my": "ရန်သူများ မည်မျှပင် ရှိစေကာမူ အလ္လာဟ်အရှင်မြတ်သည် အကောင်းဆုံးသော အကာအကွယ်ပေးသူ ဖြစ်ကြောင်း ယုံကြည်သူများကို အားပေးထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "وَٱعْلَمُوٓا۟",
+            "translit": "Wa'lamu",
+            "en": "And know (plural)",
+            "my": "ပြီးတော့ သင်တို့သိရှိထားကြလော့",
+            "role_en": "Command Verb",
+            "role_my": "Amr",
+            "root": "ع ل م",
+            "freq": 0
+          },
+          {
+            "ar": "أَنَّ",
+            "translit": "Anna",
+            "en": "That",
+            "my": "ကြောင်း",
+            "role_en": "Particle",
+            "role_my": "Harf",
+            "root": "ء n n",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The command 'Know!' is followed by 'Anna', which introduces the fact: 'Allah is your Mawla'.",
+          "structure_my": "'သိရှိကြလော့' ဟူသော အမိန့်နောက်တွင် 'Anna' လိုက်ပါလာပြီး အချက်အလက်ကို ဖော်ပြသည်။",
+          "insight_en": "The Nasb on 'Allaha' is the direct result of 'Anna'.",
+          "insight_my": "'Allaha' ၏ အဆုံးသတ်တွင် Nasb (Fatha) ဖြစ်နေခြင်းသည် 'Anna' ၏ အကျိုးသက်ရောက်မှုဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "و ل ي",
+            "concept_en": "Being close and in charge",
+            "concept_my": "နီးကပ်စွာ အုပ်ချုပ်ခြင်း",
+            "members": [
+              {
+                "ar": "ولي",
+                "en": "Friend/Guardian",
+                "my": "မိတ်ဆွေ/အုပ်ထိန်းသူ",
+                "freq": 0
+              }
+            ],
+            "professors_note": "A Mawla is not just a master, but one who loves and cares for those under his authority."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤလောကတွင် ကျွန်ုပ်တို့အား ကာကွယ်ပေးမည့်သူ မရှိတော့ဟု ခံစားရချိန်တွင် ဤအာယသ်တော်ကို သတိရပါ။ အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့၏ အုပ်ထိန်းသူ (Mawla) ဖြစ်ကြောင်း ကိုယ်တော်တိုင် အာမခံထားသည်။ ကိုယ်တော်သည် အကောင်းဆုံးသော အကူအညီပေးသူ (Naseer) လည်း ဖြစ်သည်။ ကျွန်ုပ်တို့ တစ်ဦးတည်း မဟုတ်ပါ။"
+        },
+        "memorization_helper": {
+          "rhythm": "Ni'mal mawla wa ni'man naseer (Very melodic rhyming end)",
+          "meaning_anchor": "A hand protecting a small light (Allah protecting the believer)",
+          "daily_connection": "Recited often in times of difficulty or as a daily Dhikr.",
+          "my": "ခက်ခဲချိန်တွင် 'နိအ်မလ် မောင်လာ ဝနိအ်မန် နဆီရ်' ကို ရွတ်ဆိုလေ့ရှိသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored 'Anna', the sister of 'Inna' that connects verbs of knowledge to their subjects. Understanding the subtle difference between 'Inna' (Inception) and 'Anna' (Connection) is key to reading Quranic sentences fluently.",
+      "my": "ကျွန်ုပ်တို့သည် သိရှိခြင်းဆိုင်ရာ ကြိယာများကို ဆက်စပ်ပေးသော 'Anna' အကြောင်း လေ့လာခဲ့သည်။ 'Inna' (အစပြုခြင်း) နှင့် 'Anna' (ဆက်စပ်ခြင်း) တို့၏ ကွဲပြားမှုကို နားလည်ခြင်းသည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို ချောမွေ့စွာ ဖတ်ရှုနိုင်ရန် သော့ချက်ဖြစ်သည်။"
+    }
+  }
+]

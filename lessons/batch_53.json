@@ -1,0 +1,2701 @@
+[
+  {
+    "lesson_id": "L6-261",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 261,
+    "title": {
+      "ar": "الْبَلَاغَةُ (١١) — الْكِنَايَةُ",
+      "en": "Rhetoric XI — Kinayah: Indirect Expression",
+      "my": "အလင်္ကာပညာ (၁၁) — ကိနာယဟ် (သွယ်ဝိုက်ဖော်ပြခြင်း)"
+    },
+    "meta": {
+      "study_time_minutes": 90,
+      "vocab_time": 20,
+      "grammar_time": 25,
+      "deep_study_time": 45,
+      "vocab_count": 10,
+      "grammar_focus": "Kināyah as indirect allusion; modesty and emphasis through indirection",
+      "grammar_formula": "Meaning A -> suggests -> Meaning B"
+    },
+    "section_1_vocab": [
+      {
+        "word": "كِنَايَة",
+        "translit": "kināyah",
+        "en": "allusion/indirect expression",
+        "my": "သွယ်ဝိုက်သောအသုံးအနှုန်း",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعَالَة",
+        "root": {
+          "letters": "ك ن ي",
+          "concept_en": "naming something by another name",
+          "concept_my": "အမည်တစ်ခုကို အခြားအမည်ဖြင့် အစားထိုးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kin (relative)",
+          "image": "A relative whispering a secret instead of saying it out loud",
+          "cross_language": "Used in Urdu/Persian poetry"
+        },
+        "word_family": [
+          {
+            "ar": "يَكْنِي",
+            "translit": "yaknī",
+            "en": "to allude to",
+            "my": "သွယ်ဝိုက်ပြောဆိုသည်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Words ending in -yah often represent abstract concepts or academic fields.",
+        "example": {
+          "ar": "كِنَايَةً عَنِ الصِّفَةِ",
+          "en": "An allusion to a quality",
+          "my": "အရည်အသွေးတစ်ခုကို သွယ်ဝိုက်ရည်ညွှန်းခြင်း",
+          "ref": "Grammar context"
+        }
+      },
+      {
+        "word": "لَمَسَ",
+        "translit": "lamasa",
+        "en": "to touch/have intimacy",
+        "my": "ထိတွေ့သည် / အတူနေသည်",
+        "quran_freq": 5,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ل م س",
+          "concept_en": "physical contact",
+          "concept_my": "ရုပ်ပိုင်းဆိုင်ရာ ထိတွေ့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Limit",
+          "image": "Touching the limit/boundary",
+          "cross_language": "Lamas in Malay (to feel/touch)"
+        },
+        "word_family": [
+          {
+            "ar": "لَامَسْتُمُ",
+            "translit": "lāmastum",
+            "en": "you touched",
+            "my": "သင်တို့ထိတွေ့ခဲ့သည်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The Fa'ala pattern here is used for physical actions that carry deeper rhetorical meanings in Quranic context.",
+        "example": {
+          "ar": "أَوْ لَامَسْتُمُ النِّسَاءَ",
+          "en": "...or you have had contact with women",
+          "my": "သို့မဟုတ် သင်တို့သည် အမျိုးသမီးများနှင့် ထိတွေ့ခဲ့လျှင်",
+          "ref": "4:43"
+        }
+      },
+      {
+        "word": "غَائِط",
+        "translit": "ghā'iṭ",
+        "en": "low-lying ground (allusion for bathroom)",
+        "my": "နိမ့်သောမြေ (အိမ်သာသွားခြင်းကို ဆိုလိုသည်)",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "غ و ط",
+          "concept_en": "going deep or low into the ground",
+          "concept_my": "မြေနိမ့်ရာသို့ သွားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Gait",
+          "image": "A person walking with a specific gait to a private low area",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Quran uses geographical terms as Kinayah for biological functions to maintain modesty.",
+        "example": {
+          "ar": "جَاءَ أَحَدٌ مِّنكُم مِّنَ الْغَائِطِ",
+          "en": "...one of you comes from the place of relieving himself",
+          "my": "သင်တို့အနက်မှ တစ်စုံတစ်ယောက်သည် အိမ်သာမှလာခဲ့လျှင်",
+          "ref": "5:6"
+        }
+      },
+      {
+        "word": "رَمَاد",
+        "translit": "ramād",
+        "en": "ashes",
+        "my": "ပြာ",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَال",
+        "root": {
+          "letters": "ر م د",
+          "concept_en": "burning to dust",
+          "concept_my": "လောင်ကျွမ်းပြာကျခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Remand",
+          "image": "Remanding old things to the fire until they are ashes",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "In Balagha, 'much ash' is a Kinayah for extreme generosity (hosting many guests/cooking much).",
+        "example": {
+          "ar": "أَعْمَالُهُمْ كَرَمَادٍ",
+          "en": "Their deeds are like ashes",
+          "my": "၎င်းတို့၏ လုပ်ရပ်များသည် ပြာကဲ့သို့ဖြစ်သည်",
+          "ref": "14:18"
+        }
+      },
+      {
+        "word": "عَقِيم",
+        "translit": "‘aqīm",
+        "en": "barren/sterile",
+        "my": "မြုံသော / အသီးအပွင့်မရှိသော",
+        "quran_freq": 4,
+        "word_type": "Adjective",
+        "gender": "N/A",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ع ق م",
+          "concept_en": "obstruction/sterility",
+          "concept_my": "ပိတ်ဆို့ခြင်း သို့မဟုတ် မျိုးမပွားနိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "A-Keem",
+          "image": "A king with no heir because the land is barren",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used as Kinayah for a day of punishment where no 'offspring' of hope remains.",
+        "example": {
+          "ar": "عَذَابُ يَوْمٍ عَقِيمٍ",
+          "en": "punishment of a barren day",
+          "my": "အကျိုးမဲ့သောနေ့၏ ပြစ်ဒဏ်",
+          "ref": "22:55"
+        }
+      },
+      {
+        "word": "لِبَاس",
+        "translit": "libās",
+        "en": "clothing/covering",
+        "my": "အဝတ်အစား / ဖုံးအုပ်မှု",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ل ب س",
+          "concept_en": "covering or wearing",
+          "concept_my": "ဝတ်ဆင်ခြင်း သို့မဟုတ် ဖုံးအုပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Libas (Urdu)",
+          "image": "Wrapping a warm cloth around someone",
+          "cross_language": "Libas is used in Myanmar Muslim circles for dress"
+        },
+        "word_family": [
+          {
+            "ar": "يَلْبِسُونَ",
+            "translit": "yalbisūn",
+            "en": "they wear",
+            "my": "၎င်းတို့ဝတ်ဆင်ကြသည်",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Used as Kinayah for the intimacy and protection between spouses.",
+        "example": {
+          "ar": "هُنَّ لِبَاسٌ لَّكُمْ",
+          "en": "They are clothing for you",
+          "my": "၎င်းတို့သည် သင်တို့အတွက် အဝတ်တန်ဆာဖြစ်ကြသည်",
+          "ref": "2:187"
+        }
+      },
+      {
+        "word": "بَسَطَ",
+        "translit": "basata",
+        "en": "to spread/extend",
+        "my": "ဖြန့်ခင်းသည် / ဆန့်ထုတ်သည်",
+        "quran_freq": 25,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ب س ط",
+          "concept_en": "extension and vastness",
+          "concept_my": "ကျယ်ပြန့်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Basta (it's enough/vast)",
+          "image": "Spreading a large carpet",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "يَبْسُطُ",
+            "translit": "yabsuṭu",
+            "en": "He extends",
+            "my": "ကိုယ်တော်သည် ဖြန့်ခင်းပေးသည်",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "Spreading hands is a Kinayah for generosity or power.",
+        "example": {
+          "ar": "بَلْ يَدَاهُ مَبْسُوطَتَانِ",
+          "en": "Nay, both His hands are extended",
+          "my": "အမှန်စင်စစ် ကိုယ်တော့်လက်နှစ်ဖက်စလုံးသည် ဆန့်တန်းလျက်ရှိသည်",
+          "ref": "5:64"
+        }
+      },
+      {
+        "word": "كَفّ",
+        "translit": "kaff",
+        "en": "palm/hand",
+        "my": "လက်ဝါး",
+        "quran_freq": 3,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ك ف ف",
+          "concept_en": "palm of the hand or restraining",
+          "concept_my": "လက်ဝါး သို့မဟုတ် တားဆီးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cuff",
+          "image": "Restraining someone with the palm",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Wringing hands (Kaffayhi) is a Kinayah for regret and sorrow.",
+        "example": {
+          "ar": "يُقَلِّبُ كَفَّيْهِ",
+          "en": "wringing his hands",
+          "my": "သူ၏လက်ဝါးနှစ်ဖက်ကို လှန်လှောလျက် (နောင်တရလျက်)",
+          "ref": "18:42"
+        }
+      },
+      {
+        "word": "خَلَا",
+        "translit": "khalā",
+        "en": "to pass away/be alone",
+        "my": "လွန်လေပြီးသော / တစ်ယောက်တည်းဖြစ်သော",
+        "quran_freq": 28,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "خ ل و",
+          "concept_en": "emptiness or passing of time",
+          "concept_my": "ဆိတ်သုဉ်းခြင်း သို့မဟုတ် အချိန်ကုန်လွန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khalas (Finished)",
+          "image": "An empty room after someone leaves",
+          "cross_language": "Khalwat (solitude) in Malay/Myanmar context"
+        },
+        "word_family": [
+          {
+            "ar": "خَلَتْ",
+            "translit": "khalat",
+            "en": "she/it passed",
+            "my": "၎င်းသည် လွန်လေပြီးပြီ",
+            "freq": 12
+          }
+        ],
+        "pattern_unlock": "Used as Kinayah for death or the passing of generations.",
+        "example": {
+          "ar": "قَدْ خَلَتْ مِن قَبْلِهِ الرُّسُلُ",
+          "en": "Messengers have passed before him",
+          "my": "သူ့အလျင်က ရစူလ်တမန်တော်များ ပွင့်ခဲ့လေပြီ",
+          "ref": "3:144"
+        }
+      },
+      {
+        "word": "عَضَّ",
+        "translit": "‘aḍḍa",
+        "en": "to bite",
+        "my": "ကိုက်သည်",
+        "quran_freq": 4,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ع ض ض",
+          "concept_en": "pressing teeth against something",
+          "concept_my": "သွားဖြင့် ကိုက်ခဲခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Add (adding pressure)",
+          "image": "Biting one's fingers in frustration",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "يَعَضُّ",
+            "translit": "ya‘aḍḍu",
+            "en": "he bites",
+            "my": "သူကိုက်သည်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Biting fingers is a classic Kinayah for intense regret or extreme anger.",
+        "example": {
+          "ar": "وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَىٰ يَدَيْهِ",
+          "en": "And the day the wrongdoer will bite on his hands",
+          "my": "အဓမ္မပြုကျင့်သူသည် မိမိ၏လက်များကို ကိုက်ခဲမည့်နေ့တွင်",
+          "ref": "25:27"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْكِنَايَة",
+        "en": "Kinayah (Indirect Allusion)",
+        "my": "သွယ်ဝိုက်အလင်္ကာ (ကိနာယဟ်)"
+      },
+      "formula": {
+        "display": "Expression A -> implies -> Meaning B (Contextual)",
+        "example": "لَامَسْتُمُ النِّسَاءَ (Physical touch -> Intimacy)",
+        "myanmar_read": "တိုက်ရိုက်အဓိပ္ပာယ်ထက် သွယ်ဝိုက်သော ဆိုလိုရင်းကို ယူဆခြင်း",
+        "key_insight": "Kinayah allows the speaker to describe sensitive or complex realities with elegance, modesty, or added emphasis."
+      },
+      "explanation": {
+        "en": "Kinayah is a rhetorical device where a speaker uses a phrase to imply a meaning that is not the literal one, although the literal meaning is technically possible. Unlike metaphor (Majaz), Kinayah doesn't require the literal meaning to be impossible. In the Quran, it is frequently used for modesty (Haya') when discussing biological or marital matters, or to provide a vivid physical image for an emotional state like regret or generosity.",
+        "my": "Kinayah ဆိုသည်မှာ စကားလုံးတစ်ခု၏ တိုက်ရိုက်အနက်ထက် ပိုမိုနက်ရှိုင်းသော သွယ်ဝိုက်အနက်ကို ဆိုလိုခြင်းဖြစ်သည်။ ဥပမာအားဖြင့် နောင်တရခြင်းကို ဖော်ပြရာတွင် 'လက်ကိုကိုက်သည်' ဟု သုံးနှုန်းခြင်းမျိုး ဖြစ်သည်။ ကုရ်အာန်ကျမ်းတော်မြတ်တွင် ရှက်ကြောက်ခြင်း (Modesty) နှင့် ပတ်သက်သော အကြောင်းအရာများ သို့မဟုတ် စိတ်ခံစားမှုများကို ထိထိရောက်ရောက် ဖော်ပြလိုသောအခါ ဤအလင်္ကာကို အသုံးပြုသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese literature also uses 'Thwal-waik-auk-mwae' (သွယ်ဝိုက်အသုံးအနှုန်း) for politeness. For example, instead of saying someone died directly, one might say 'passed away' or 'reached the end of life' to be more respectful.",
+        "my": "မြန်မာစကားတွင်လည်း 'ကွယ်လွန်သည်' သို့မဟုတ် 'လူ့ဘောင်မှ ခွဲခွာသည်' စသည့် သွယ်ဝိုက်သောအသုံးအနှုန်းများသည် အရေအတွက်ထက် အရည်အချင်းကို ဖော်ပြသော ကိနာယဟ်များနှင့် ဆင်တူပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Kinayah for Quality: Describing a person by a trait that implies their character (e.g., 'much ash' for generosity).",
+          "rule_my": "ဂုဏ်ရည်ကို သွယ်ဝိုက်ဖော်ပြခြင်း (ဥပမာ- ရက်ရောမှုကို ဖော်ပြရန် မီးခိုးတိတ်ခြင်းမရှိဟု ဆိုခြင်း)။",
+          "example": {
+            "ar": "كَثِيرُ الرَّمَادِ",
+            "en": "He has much ash (He is generous)",
+            "my": "သူ့တွင် ပြာများစွာရှိသည် (သူသည် ဧည့်ဝတ်ကျေပွန်သူဖြစ်သည်)"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Kinayah for Modesty: Using neutral terms for sensitive topics like marital relations or bathroom use.",
+          "rule_my": "ယဉ်ကျေးမှုအတွက် သွယ်ဝိုက်ဖော်ပြခြင်း (ဥပမာ- အိမ်သာသွားခြင်းကို မြေနိမ့်ရာသို့သွားသည်ဟု ဆိုခြင်း)။",
+          "example": {
+            "ar": "لَامَسْتُمُ النِّسَاءَ",
+            "en": "You touched women (intimacy)",
+            "my": "အမျိုးသမီးများကို ထိတွေ့ခြင်း (ဇနီးမောင်နှံဆက်ဆံခြင်း)"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ",
+          "en": "They are clothing for you and you are clothing for them",
+          "my": "အသင်တို့အတွက် စွောင်မ်ဥပုသ်စောင့်သောည၌ အသင်တို့၏ဇနီးများနှင့် ပေါင်းသင်းဆက်ဆံခြင်းကို ခွင့်ပြုပေးတော်မူလိုက်သည်။  သူမတို့သည် အသင်တို့အတွက် အဝတ်အစားဖြစ်ပြီး အသင်တို့သည်လည်း သူမတို့အတွက် အဝတ်အစားဖြစ်သည်။  အမှန်စင်စစ် အသင်တို့သည် အသင်တို့ကိုယ်ကို အသင်တို့သာ လှည့်စားနေခဲ့ကြသည် ကို အလ္လာဟ်အရှင်မြတ်သည် သိရှိပြီးဖြစ်တော်မူသည်။ ထို့နောက် အရှင်မြတ်သည် အသင်တို့(ဘက်သို့ သနားကရုဏာနှင့်လှည့်ပြီး အသင်တို့၏ဝန်ချတောင်းပန်မှု)ကို လက်ခံခွင့်လွှတ်လိုက်တော်မူသည်။ ထို့ပြင် အသင်တို့၏မှားယွင်းချွတ်ချော်မှုများကိုလည်း ပလပ်လိုက်တော်မူသည်။ သို့ဖြစ်ရာ ယခုမူ အသင်တို့သည် အသင်တို့၏ ဇနီးကြင်ရာများနှင့် ပေါင်းသင်းဆက်ဆံကြ၍ အသင်တို့အတွက် အလ္လာဟ်အရှင်မြတ် ပြဋ္ဌာန်းထားတော်မူသည့်အရာများကို ရှာဖွေကြပါ။  ထို့ပြင် အသင်တို့သည် မိုးလင်းချိန်၏အဖြူမျှင်တန်းသည် အနက်မျှင်ထုမှ ထင်ရှားလာသည့်အချိန်ထိ စားသောက်ကြပါ။  ထို့နောက် အသင်တို့သည် ညအချိန်အထိ စွောင်မ်ဥပုသ် စောင့်ထိန်းကြပါ။ ထို့ပြင် အသင်တို့သည် ဗလီကျောင်းတော်များထဲတွင် အိအ်သိကာဖ် ထိုင်နေသည့် အခြေအနေတွင် ဇနီးများနှင့် ပေါင်းသင်းဆက်ဆံခြင်း မပြုကြနှင့်။ ဤအရာများသည် အလ္လာဟ်အရှင်မြတ် သတ်မှတ်ထားတော်မူသည့် သတ်မှတ်ချက် အမိန့်များပင်ဖြစ်သည်။ သို့ဖြစ်ရာ အသင်တို့သည် ထိုနယ်နိမိတ်သတ်မှတ်ချက်များ၏အနီးသို့ မကပ်ကြနှင့်။ ထိုသို့ပင် အလ္လာဟ်အရှင်မြတ်သည် အရှင်မြတ်၏အာယသ်တော်များကို လူများအတွက် သူတို့ ကြောက်ရွံ့အပြစ်ရှောင် ကောင်းကျိုးဆောင်ကြရန် ရှင်းပြတော်မူသည်။",
+          "ref": "2:187",
+          "breakdown": {
+            "subject": {
+              "word": "هُنَّ",
+              "en": "They (women)",
+              "note": "Refers to wives"
+            },
+            "predicate": {
+              "word": "لِبَاسٌ",
+              "en": "Clothing",
+              "note": "Kinayah for protection and intimacy"
+            }
+          },
+          "myanmar_insight": "အဝတ်အစားသည် လူတစ်ဦး၏ အရှက်ကို ဖုံးကွယ်ပေးသလို ဇနီးမောင်နှံသည်လည်း တစ်ဦး၏ လျှို့ဝှက်ချက်နှင့် ဂုဏ်သိက္ခာကို တစ်ဦးက ကာကွယ်ပေးကြောင်း တင်စားထားခြင်း ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Taking Kinayah only literally",
+          "wrong": {
+            "ar": "لِبَاس",
+            "note": "Thinking it ONLY means physical fabric"
+          },
+          "correct": {
+            "ar": "لِبَاس",
+            "en": "Protection/Intimacy/Covering",
+            "my": "ကာကွယ်မှု နှင့် အရင်းနှီးဆုံး ဆက်ဆံရေး"
+          },
+          "myanmar_tip": "စကားလုံး၏ အပေါ်ယံ အဓိပ္ပာယ်ထက် ကုရ်အာန်က ဘာကို ရည်ရွယ်လဲဆိုတာကို စဉ်းစားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the word used as Kinayah in this phrase",
+          "instruction_my": "အောက်ပါစာသားတွင် ကိနာယဟ် (သွယ်ဝိုက်အသုံး) ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "أَوْ جَاءَ أَحَدٌ مِّنكُم مِّنَ الْغَائِطِ",
+              "answer_en": "Al-Gha'it (the low ground)",
+              "answer_my": "အလ်-ဂါအစ်သ် (နိမ့်သောမြေ)",
+              "ref": "5:6"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the following with attention to the Kinayah meaning",
+          "instruction_my": "သွယ်ဝိုက်သောအနက်ကို အာရုံစိုက်၍ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "وَيَوْمَ يَعَضُّ الظَّالِمُ عَلَىٰ يَدَيْهِ",
+              "answer_en": "And the day the wrongdoer will bite his hands (regret)",
+              "answer_my": "အဓမ္မပြုကျင့်သူသည် မိမိ၏လက်များကို နောင်တတကြီးကိုက်ခဲမည့်နေ့"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Apply the article Al- to the word Gha'it",
+          "instruction_my": "Gha'it စကားလုံးကို Al- ထည့်၍ အဓိပ္ပာယ်ရှိသော နာမ်အဖြစ် ပြောင်းလဲပါ",
+          "questions": [
+            {
+              "q": "غَائِط",
+              "answer_en": "The low ground",
+              "answer_my": "နိမ့်သောမြေ / အိမ်သာ",
+              "ar": "الْغَائِط"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Kinayah reflects the Divine Modesty of Allah's speech. It teaches us to speak of sensitive matters with dignity and to use language that preserves the honor of others.",
+        "my": "ကိနာယဟ် အလင်္ကာသည် အလ္လာဟ်အရှင်မြတ်၏ မိန့်ကြားချက်များတွင် ပါဝင်သော မြင့်မြတ်သည့် ယဉ်ကျေးမှုကို ဖော်ပြသည်။ ၎င်းသည် ကျွန်ုပ်တို့အား ထိရှလွယ်သော ကိစ္စရပ်များကို ပြောဆိုရာတွင် ဂုဏ်သိက္ခာရှိစွာ ပြောဆိုတတ်ရန် သင်ကြားပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Nisa 4:43",
+        "study_number": 1,
+        "arabic_full": "أَوْ لَامَسْتُمُ النِّسَاءَ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا",
+        "en_sahih": "...or you have had contact with women and do not find water, then seek clean earth and wipe over your faces and hands [with it].",
+        "my_mmsy": "အို- အီမာန်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် မူးယစ်နေကြလျက် အသင်တို့ပြောဆိုသောအရာများကို အသင်တို့မသိသမျှကာလပတ်လုံး စွလာသ်ဝတ်ပြုမှုအနီးသို့ မချဉ်းကပ်ကြနှင့်။  ၎င်းပြင် အသင်တို့သည် ရေချိုးသန့်စင်ရန် တာဝန်ရှိသူများဖြစ်နေကြလျက်နှင့်လည်း  ရေချိုသန့်စင်မှုမပြုသမျှကာလပတ်လုံး (စွလာသ်ဝတ်ပြုမှု၏အနီးနှင့် စွလာသ်ဝတ်ပြုရာနေရာ ဝတ်ကျောင်းတော်များအနီးသို့ ချဉ်းကပ်မှု) မပြုကြနှင့်။ သို့ရာတွင် အသင်တို့သည် (မလွှဲမရှောင်သာ) ဖြတ်သွားဖြတ်လာပြုရသောအခါမျိုး၌သာ (ဖြတ်သန်းခွင့်ရှိသည်)။ ထို့ပြင် အသင်တို့သည် အကယ်၍ ရောဂါသည်များ၊ သို့မဟုတ် ခရီးသည်များဖြစ်ကြလျှင် သို့မဟုတ် အသင်တို့ထဲက တစ်ဦးတစ်ယောက်သည် ကျင်ကြီးကျင်ငယ်စွန့်ရာမှ ပြန်လာခဲ့လျှင်၊ သို့မဟုတ် အသင်တို့သည် ဇနီးမိန်းမများနှင့်ပေါင်းသင်းဆက်ဆံခဲ့ကြလျှင်၊ ထို့နောက်(သန့်စင်ရန်)ရေမရှိလျှင် အသင်တို့သည် စင်ကြယ်သောမြေကြီးဖြင့် သယမ်မွမ် ပြုလုပ်ကြပါ။ (ပြုလုပ်နည်းမှာ) အသင်တို့သည် (အသင်တို့၏လက်ဖဝါးနှစ်ဖက်နှင့် မြေကိုရိုက်ပုတ်၍) အသင်တို့၏မျက်နှာများနှင့် လက်များကို ပွတ်သပ်ကြပါ။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အလွန်ခွင့်လွှတ်တော်မူသောအရှင်၊ အလွန်လွတ်ငြိမ်းချမ်းသာခွင့်ပေးတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 4,
+          "ayah": 43,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/004043.mp3"
+        },
+        "qurancom_url": "https://quran.com/4/43",
+        "context": {
+          "en": "This ayah details the conditions for purification (wudu and tayammum) before prayer, specifically addressing states of ritual impurity.",
+          "my": "ဤအာယသ်တော်သည် ဆွလာသ်ဝတ်ပြုခြင်းမပြုမီ သန့်ရှင်းစင်ကြယ်ခြင်း (ဝုဒူ နှင့် သယမ်မွန်) ပြုလုပ်ရန် လိုအပ်သော အခြေအနေများကို အသေးစိတ်ရှင်းပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "لَامَسْتُمُ",
+            "translit": "lāmastum",
+            "en": "you touched",
+            "my": "သင်တို့ထိတွေ့ခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ل م س",
+            "freq": 2
+          },
+          {
+            "ar": "تَجِدُوا",
+            "translit": "tajidū",
+            "en": "you find",
+            "my": "သင်တို့တွေ့ရှိသည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "و ج د",
+            "freq": 107
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb 'lāmastum' (Form III) implies interaction. Rhetorically, it's used here as a Kinayah for marital relations.",
+          "structure_my": "لَامَسْتُمُ (သင်တို့ထိတွေ့ခဲ့သည်) ဟူသော စကားလုံးကို ကုရ်အာန်တွင် ဇနီးမောင်နှံဆက်ဆံခြင်းအတွက် အလွန်ယဉ်ကျေးသော သွယ်ဝိုက်အသုံးအနှုန်းအဖြစ် သုံးထားသည်။",
+          "insight_en": "By using 'touch' instead of a more explicit biological term, the Quran maintains a standard of sublime modesty (Haya') even in legal rulings.",
+          "insight_my": "ဥပဒေရေးရာ အဆုံးအဖြတ်များတွင်ပင် ကုရ်အာန်သည် အလွန်မြင့်မားသော ယဉ်ကျေးမှု စံနှုန်းများကို ထိန်းသိမ်းထားကြောင်း ဤအသုံးအနှုန်းက ပြသနေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ل م س",
+            "concept_en": "The sense of touch, seeking something through feeling.",
+            "concept_my": "ထိတွေ့ခြင်း အာရုံ သို့မဟုတ် တစ်ခုခုကို စမ်းသပ်ရှာဖွေခြင်း",
+            "members": [
+              {
+                "ar": "لَمْس",
+                "en": "touching",
+                "my": "ထိတွေ့ခြင်း",
+                "freq": 1
+              }
+            ],
+            "professors_note": "In Balagha, Lamas moves from physical contact to the deepest level of human intimacy."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ကျွန်ုပ်တို့အား စကားပြောဆိုရာတွင် ယဉ်ကျေးမှု (အဒဗ်) ရှိရန် သင်ကြားပေးသည်။ အလ္လာဟ်အရှင်မြတ်သည်ပင်လျှင် လူသားတို့၏ သဘာဝကိစ္စရပ်များကို မိန့်ကြားရာတွင် သွယ်ဝိုက်၍ ယဉ်ကျေးသော စကားလုံးများကို သုံးနှုန်းထားသည်။ ကျွန်ုပ်တို့၏ နေ့စဉ်ဘဝတွင်လည်း အခြားသူများ၏ ဂုဏ်သိက္ခာကို မထိခိုက်စေဘဲ ယဉ်ကျေးသိမ်မွေ့စွာ ပြောဆိုတတ်ရန် ဤသင်ခန်းစာက လမ်းညွှန်နေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The flow is steady with the repetition of 'maa' sounds in water and 'tayammamu'.",
+          "meaning_anchor": "Imagine the transition from the 'touch' that necessitates washing to the 'earth' used for Tayammum.",
+          "daily_connection": "Relevant whenever preparing for prayer and reflecting on the purity of speech and body.",
+          "my": "သန့်ရှင်းစင်ကြယ်ခြင်းဆိုင်ရာ စည်းမျဉ်းများကို မှတ်သားရာတွင် ဤသွယ်ဝိုက်အသုံးအနှုန်းကိုပါ တွဲဖက်မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we explored Kinayah, the art of indirect expression in the Quran. We learned how it is used for modesty, vivid imagery, and emphasis, moving beyond literal meanings to understand the deeper rhetorical intent of the Divine speech.",
+      "my": "ဤသင်ခန်းစာတွင် ကုရ်အာန်ကျမ်းတော်မြတ်ရှိ 'ကိနာယဟ်' ခေါ် သွယ်ဝိုက်အလင်္ကာအကြောင်းကို လေ့လာခဲ့သည်။ ရှက်ကြောက်ခြင်း၊ ထင်ရှားသော ပုံဖော်ခြင်းနှင့် အလေးပေးခြင်းတို့အတွက် တိုက်ရိုက်အနက်ထက် သွယ်ဝိုက်သောအနက်ကို မည်သို့အသုံးပြုထားကြောင်း နားလည်ခဲ့ကြသည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-262",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 262,
+    "title": {
+      "ar": "الْمَجَازُ الْمُرْسَلُ — جُزْئِيَّةٌ وَكُلِّيَّةٌ",
+      "en": "Rhetoric XII — Majaz Mursal: Metonymy",
+      "my": "အလင်္ကာပညာ (၁၂) — မဂျားဇ် မူရ်စလ် (အစိတ်အပိုင်းဖြင့် တစ်ခုလုံးကို ရည်ညွှန်းခြင်း)"
+    },
+    "meta": {
+      "study_time_minutes": 80,
+      "vocab_time": 20,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 10,
+      "grammar_focus": "Using part to mean whole; raqaba (neck) for slave; finger for generosity",
+      "grammar_formula": "Part of Object -> Represents -> Whole Object"
+    },
+    "section_1_vocab": [
+      {
+        "word": "رَقَبَة",
+        "translit": "raqabah",
+        "en": "neck/slave",
+        "my": "လည်ပင်း / ကျွန်",
+        "quran_freq": 9,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعَلَة",
+        "root": {
+          "letters": "ر ق ب",
+          "concept_en": "observing or the neck area",
+          "concept_my": "စောင့်ကြည့်ခြင်း သို့မဟုတ် လည်ပင်းပိုင်း"
+        },
+        "memory_hook": {
+          "sound": "Rock-a-ba",
+          "image": "A person wearing a heavy yoke around their neck",
+          "cross_language": "Raqib (Watcher) in many Muslim names"
+        },
+        "word_family": [
+          {
+            "ar": "رَقِيب",
+            "translit": "raqīb",
+            "en": "observer",
+            "my": "စောင့်ကြည့်သူ",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "In the Quran, 'freeing a neck' is the standard metonymy for freeing a slave.",
+        "example": {
+          "ar": "فَتَحْرِيرُ رَقَبَةٍ",
+          "en": "then the freeing of a slave",
+          "my": "ကျွန်တစ်ဦးအား လွတ်လပ်ခွင့်ပေးခြင်း",
+          "ref": "4:92"
+        }
+      },
+      {
+        "word": "يَد",
+        "translit": "yad",
+        "en": "hand/power/favor",
+        "my": "လက် / အာဏာ / ကျေးဇူး",
+        "quran_freq": 120,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ي د ي",
+          "concept_en": "capability and possession",
+          "concept_my": "စွမ်းဆောင်နိုင်မှု နှင့် ပိုင်ဆိုင်မှု"
+        },
+        "memory_hook": {
+          "sound": "Yad (Malay for hand)",
+          "image": "A powerful hand holding a scepter",
+          "cross_language": "Yad is common in Arabic-derived languages"
+        },
+        "word_family": [
+          {
+            "ar": "أَيْدِي",
+            "translit": "aydī",
+            "en": "hands",
+            "my": "လက်များ",
+            "freq": 60
+          }
+        ],
+        "pattern_unlock": "The hand often represents the person's entire power or their past actions.",
+        "example": {
+          "ar": "بِمَا قَدَّمَتْ يَدَاكَ",
+          "en": "for what your hands have put forth",
+          "my": "သင်၏လက်နှစ်ဖက်က ကြိုတင်ပေးပို့ခဲ့သည့် (လုပ်ရပ်များ) ကြောင့်",
+          "ref": "22:10"
+        }
+      },
+      {
+        "word": "أَصَابِع",
+        "translit": "aṣābi‘",
+        "en": "fingers",
+        "my": "လက်ချောင်းများ",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَالِل",
+        "root": {
+          "letters": "ص ب ع",
+          "concept_en": "pointing or digits",
+          "concept_my": "ညွှန်ပြခြင်း သို့မဟုတ် လက်ချောင်းများ"
+        },
+        "memory_hook": {
+          "sound": "Asabi (Sabi in Myanmar sounds like speaking/pointing)",
+          "image": "Sticking fingers in ears to block sound",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used in the Quran to show a part (fingertip) representing the whole attempt to block hearing.",
+        "example": {
+          "ar": "جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ",
+          "en": "they put their fingers in their ears",
+          "my": "၎င်းတို့သည် မိမိတို့၏လက်ချောင်းများကို နားထဲသို့ ထည့်ခဲ့ကြသည်",
+          "ref": "71:7"
+        }
+      },
+      {
+        "word": "وَجْه",
+        "translit": "wajh",
+        "en": "face/essence/direction",
+        "my": "မျက်နှာ / ပင်ကိုယ်သဘာဝ / ဦးတည်ချက်",
+        "quran_freq": 72,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "و ج ه",
+          "concept_en": "front part or presence",
+          "concept_my": "ရှေ့ပိုင်း သို့မဟုတ် ရှေ့မှောက်"
+        },
+        "memory_hook": {
+          "sound": "Wage (looking for a wage face-to-face)",
+          "image": "The most noble part of a person",
+          "cross_language": "Wajah in Malay/Indonesian"
+        },
+        "word_family": [
+          {
+            "ar": "وُجُوه",
+            "translit": "wujūh",
+            "en": "faces",
+            "my": "မျက်နှာများ",
+            "freq": 30
+          }
+        ],
+        "pattern_unlock": "'The Face of Allah' often represents His Entire Being or Pleasure.",
+        "example": {
+          "ar": "يُرِيدُونَ وَجْهَهُ",
+          "en": "seeking His Countenance",
+          "my": "ကိုယ်တော့်မျက်နှာတော် (နှစ်သက်မှု) ကို ရှာဖွေကြသည်",
+          "ref": "6:52"
+        }
+      },
+      {
+        "word": "قَرْيَة",
+        "translit": "qaryah",
+        "en": "town/village",
+        "my": "မြို့ရွာ / ရွာ",
+        "quran_freq": 52,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "ق ر ي",
+          "concept_en": "gathering or dwelling",
+          "concept_my": "စုဝေးခြင်း သို့မဟုတ် နေထိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Quarry",
+          "image": "A town built near a stone quarry",
+          "cross_language": "Kariya in some dialects"
+        },
+        "word_family": [
+          {
+            "ar": "قُرَى",
+            "translit": "qurā",
+            "en": "towns",
+            "my": "မြို့ရွာများ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Sometimes used to mean the people of the town (Majaz).",
+        "example": {
+          "ar": "وَاسْأَلِ الْقَرْيَةَ",
+          "en": "And ask the city (its people)",
+          "my": "ထိုမြို့ (သူမြို့သားများ) ကို မေးကြည့်ပါ",
+          "ref": "12:82"
+        }
+      },
+      {
+        "word": "لِسَان",
+        "translit": "lisān",
+        "en": "tongue/language/reputation",
+        "my": "လျှာ / ဘာသာစကား / ကျော်စောမှု",
+        "quran_freq": 25,
+        "word_type": "Noun",
+        "gender": "Masculine/Feminine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ل س ن",
+          "concept_en": "speech and communication",
+          "concept_my": "စကားပြောဆိုခြင်း နှင့် ဆက်သွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Listen (with the tongue/ear connection)",
+          "image": "A tongue speaking truth",
+          "cross_language": "Lisan is used in Myanmar religious texts"
+        },
+        "word_family": [
+          {
+            "ar": "أَلْسِنَة",
+            "translit": "alsinah",
+            "en": "tongues",
+            "my": "လျှာများ",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "The tongue represents the act of speaking or the fame one leaves behind.",
+        "example": {
+          "ar": "لِسَانَ صِدْقٍ",
+          "en": "a mention of truth (good reputation)",
+          "my": "မှန်ကန်သော ကျော်စောသတင်း",
+          "ref": "19:50"
+        }
+      },
+      {
+        "word": "صَدْر",
+        "translit": "ṣadr",
+        "en": "chest/heart/center",
+        "my": "ရင်ဘတ် / နှလုံးသား / ဗဟို",
+        "quran_freq": 44,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ص د ر",
+          "concept_en": "front or chest area",
+          "concept_my": "ရင်ဘတ်ပိုင်း သို့မဟုတ် ရှေ့ပိုင်း"
+        },
+        "memory_hook": {
+          "sound": "Sad (feeling it in the chest)",
+          "image": "A chest containing a secret heart",
+          "cross_language": "Sadr (President/Head) in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "صُدُور",
+            "translit": "ṣudūr",
+            "en": "chests",
+            "my": "ရင်ဘတ်များ",
+            "freq": 25
+          }
+        ],
+        "pattern_unlock": "The chest is used to refer to the heart or the hidden thoughts within.",
+        "example": {
+          "ar": "فِي صُدُورِ النَّاسِ",
+          "en": "in the chests of mankind",
+          "my": "လူသားတို့၏ ရင်ထဲ၌",
+          "ref": "114:5"
+        }
+      },
+      {
+        "word": "عَيْن",
+        "translit": "‘ayn",
+        "en": "eye/spring/spy",
+        "my": "မျက်စိ / စမ်းရေတွင်း / ထောက်လှမ်းသူ",
+        "quran_freq": 88,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ع ي ن",
+          "concept_en": "seeing or flowing water",
+          "concept_my": "မြင်တွေ့ခြင်း သို့မဟုတ် စီးဆင်းသောရေ"
+        },
+        "memory_hook": {
+          "sound": "Eye (sounds like 'I' or the letter 'Ayn')",
+          "image": "A clear eye watching or a clear spring",
+          "cross_language": "Ain in many Islamic languages"
+        },
+        "word_family": [
+          {
+            "ar": "أَعْيُن",
+            "translit": "a‘yun",
+            "en": "eyes",
+            "my": "မျက်စိများ",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Used as Majaz for protection ('under Our eyes').",
+        "example": {
+          "ar": "تَجْرِي بِأَعْيُنِنَا",
+          "en": "Sailing under Our observation",
+          "my": "ငါအရှင်မြတ်၏ စောင့်ရှောက်မှုအောက်တွင် (မျက်မှောက်တွင်) စီးဆင်းလျက်",
+          "ref": "54:14"
+        }
+      },
+      {
+        "word": "فَم",
+        "translit": "fam",
+        "en": "mouth",
+        "my": "ပါးစပ်",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ف و ه",
+          "concept_en": "opening for speech or food",
+          "concept_my": "စကားပြောရန် သို့မဟုတ် စားရန် အပေါက်"
+        },
+        "memory_hook": {
+          "sound": "Fam (Family - talking with them)",
+          "image": "A mouth speaking words",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "أَفْوَاه",
+            "translit": "afwāh",
+            "en": "mouths",
+            "my": "ပါးစပ်များ",
+            "freq": 11
+          }
+        ],
+        "pattern_unlock": "The mouth represents the words spoken, often when they are empty of heart-felt belief.",
+        "example": {
+          "ar": "بِأَفْوَاهِهِمْ",
+          "en": "with their mouths",
+          "my": "၎င်းတို့၏ ပါးစပ်များဖြင့်",
+          "ref": "3:167"
+        }
+      },
+      {
+        "word": "دَم",
+        "translit": "dam",
+        "en": "blood",
+        "my": "သွေး",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "د م ي",
+          "concept_en": "life fluid",
+          "concept_my": "အသက်သွေးကြော"
+        },
+        "memory_hook": {
+          "sound": "Dam (holding back blood)",
+          "image": "Red blood representing life or sacrifice",
+          "cross_language": "Darah in Malay"
+        },
+        "word_family": [
+          {
+            "ar": "دِمَاء",
+            "translit": "dimā’",
+            "en": "bloods",
+            "my": "သွေးများ",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "Shedding blood is a Majaz for killing a person.",
+        "example": {
+          "ar": "وَيَسْفِكُ الدِّمَاءَ",
+          "en": "and sheds blood",
+          "my": "သွေးချောင်းစီးစေသည် (လူသတ်သည်)",
+          "ref": "2:30"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمَجَازُ الْمُرْسَل",
+        "en": "Majaz Mursal (Metonymy)",
+        "my": "မဂျားဇ် မူရ်စလ် (သွယ်ဝိုက်တင်စားခြင်း)"
+      },
+      "formula": {
+        "display": "Part (Juz') -> Means -> Whole (Kull)",
+        "example": "رَقَبَة (Neck) = Slave",
+        "myanmar_read": "အစိတ်အပိုင်းတစ်ခုကို ပြောသော်လည်း တစ်ခုလုံးကို ဆိုလိုခြင်း",
+        "key_insight": "Majaz Mursal links two things based on a relationship (like part-to-whole) rather than just similarity."
+      },
+      "explanation": {
+        "en": "Majaz Mursal is a type of figurative language where a word is used in a non-literal sense because of a connection between the literal and figurative meanings. The most common types in the Quran are 'Mentioning the Part but meaning the Whole' (Juz'iyyah) and 'Mentioning the Place but meaning the People in it' (Mahalliyyah). This focuses the listener's attention on a specific, significant part of the subject.",
+        "my": "Majaz Mursal ဆိုသည်မှာ စကားလုံးတစ်ခု၏ အစိတ်အပိုင်းတစ်ခုကိုသာ ထုတ်ဖော်ပြောဆိုသော်လည်း တစ်ခုလုံးကို ဆိုလိုခြင်းဖြစ်သည်။ ဥပမာ- 'ကျွန်တစ်ယောက်ကို လွှတ်ပါ' ဟု ဆိုမည့်အစား 'လည်ပင်းတစ်ခုကို လွှတ်ပါ' ဟု သုံးနှုန်းခြင်းမျိုး ဖြစ်သည်။ ဤနေရာတွင် လည်ပင်းသည် ကျွန်တစ်ဦးလုံးကို ကိုယ်စားပြုသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we say 'Helping hands' (ဝိုင်းဝန်းကူညီမည့်လက်များ) to mean people who help. The 'hand' is a part that represents the whole person.",
+        "my": "မြန်မာစကားတွင် 'ဝိုင်းဝန်းကူညီမည့်လက်များ' ဟု ဆိုရာ၌ လက်များကိုသာ ဆိုလိုခြင်းမဟုတ်ဘဲ ကူညီမည့်သူများကို ဆိုလိုခြင်းဖြစ်သည်။ ၎င်းသည် Majaz Mursal နှင့် အလွန်ဆင်တူသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The relationship is not based on similarity (that would be Isti'arah/Metaphor), but on association (e.g., Cause/Effect, Part/Whole).",
+          "rule_my": "နှိုင်းယှဉ်ချက်မဟုတ်ဘဲ ဆက်စပ်မှုအပေါ် အခြေခံခြင်း (ဥပမာ- အစိတ်အပိုင်းနှင့် တစ်ခုလုံး)။",
+          "example": {
+            "ar": "رَقَبَة",
+            "en": "Neck (representing the whole slave)",
+            "my": "လည်ပင်း (ကျွန်တစ်ဦးလုံးကို ကိုယ်စားပြုသည်)"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Mentioning the location (Mahall) to refer to the inhabitants or contents.",
+          "rule_my": "နေရာကိုပြောပြီး ထိုနေရာရှိ လူများကို ဆိုလိုခြင်း။",
+          "example": {
+            "ar": "الْقَرْيَة",
+            "en": "The town (meaning its people)",
+            "my": "မြို့ရွာ (မြို့သူမြို့သားများကို ဆိုလိုသည်)"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ",
+          "en": "then the freeing of a believing slave",
+          "my": "ထို့ပြင် မှားယွင်းချွတ်ချော်ပြီး သတ်မိသည်မှလွဲ၍ မုအ်မင်န်တစ်ဦးသည် အခြားမုအ်မင်န်တစ်ဦးအား မသတ်ထိုက်ပေ။  ထို့ပြင် အကြင်သူသည် မှား၍ မုအ်မင်န်တစ်ဦးအား သတ်မိလျှင် (ထိုသူ၏အပေါ်၌) မုအ်မင်န်ကျွန်တစ်ဦးကို သူကောင်းပြုရမည့်အပြင် ထို(အသတ်ခံရသော)သူ၏ဆွေမျိုး အမွေစားအမွေခံများကို လျော်ကြေးပေးရန်တာဝန်ရှိသည်။  သို့ရာတွင် ထိုအမွေစားအမွေခံများက ခွင့်လွှတ်ခဲ့လျှင် (လျော်ကြေးပေးရန်မလိုပေ)။  ၎င်းပြင် အကယ်၍ ထို(မှားသတ်ခံရသော)သူသည် မုအ်မင်န်ဖြစ်လျက် အသင်တို့၏ ရန်သူများ၏အုပ်စုထဲမှဖြစ်မည်ဆိုလျှင် (သတ်မိသူအပေါ်၌) မုအ်မင်န်ကျွန်တစ်ဦးကို သူကောင်းပြုရန်သာ တာဝန်ရှိသည်။  ထို့ပြင် အကယ်၍ ထို(မှားသတ်ခံရသော)သူသည် အသင်တို့၏မဟာမိတ်အုပ်စုထဲမှ ဖြစ်ခဲ့လျှင် ထိုသူ၏ အမွေစားအမွေခံများကို လျော်ကြေးပေးရမည့်အပြင် မုအ်မင်န်ကျွန်တစ်ဦးကိုလည်း သူကောင်းပြုရန်တာဝန်ရှိသည်။ ၎င်းပြင် အကြင်သူသည် (ကျွန်ကို သူကောင်းပြုရန်)မတတ်နိုင်ခဲ့လျှင် ထိုသူသည် နှစ်လဆက်တိုက် စွောင်မ်ဥပုသ်စောင့်ထိန်းရမည်ဖြစ်သည်။  ဤသည် အလ္လာဟ်အရှင်မြတ်ထံတော်မှ သတ်မှတ်ပြဋ္ဌာန်းတော်မူသော ဝန်ချတောင်းပန်နည်းပင်ဖြစ်သည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် အကြွင်းမဲ့သိတော်မူသောအရှင်၊ ပညာဉာဏ်အမြော်အမြင်နှင့် အလွန်ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+          "ref": "4:92",
+          "breakdown": {
+            "subject": {
+              "word": "تَحْرِيرُ",
+              "en": "Freeing",
+              "note": "To set free"
+            },
+            "predicate": {
+              "word": "رَقَبَةٍ",
+              "en": "A neck",
+              "note": "Majaz Mursal for a whole person (slave)"
+            }
+          },
+          "myanmar_insight": "'လည်ပင်း' ကို သုံးရခြင်းမှာ ကျွန်တစ်ဦး၏ ချုပ်နှောင်ခံထားရမှုသည် လည်ပင်းရှိ သံကြိုးများဖြင့် အထင်ရှားဆုံး ဖြစ်နေသောကြောင့် ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking the text means ONLY the physical part",
+          "wrong": {
+            "ar": "أَصَابِع",
+            "note": "Thinking they shoved the whole hand in, not just fingertips"
+          },
+          "correct": {
+            "ar": "أَصَابِع",
+            "en": "Fingertips",
+            "my": "လက်ချောင်းထိပ်များ (လက်ချောင်းဟု ပြောသော်လည်း)"
+          },
+          "myanmar_tip": "အစိတ်အပိုင်းတစ်ခုကို ပြောသော်လည်း လက်တွေ့တွင် အဆင်ပြေဆုံး အဓိပ္ပာယ်ကို ယူရပါမည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Which word is the 'Part' representing the 'Whole'?",
+          "instruction_my": "အောက်ပါတို့တွင် 'အစိတ်အပိုင်း' မှ 'တစ်ခုလုံး' ကို ကိုယ်စားပြုသော စကားလုံးမှာ အဘယ်နည်း။",
+          "questions": [
+            {
+              "q": "وَاسْأَلِ الْقَرْيَةَ",
+              "answer_en": "Al-Qaryah (The Town)",
+              "answer_my": "အလ်-ကရ်ယဟ် (မြို့ရွာ)",
+              "ref": "12:82"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate and explain the Majaz",
+          "instruction_my": "ဘာသာပြန်ပြီး မဂျားဇ်ကို ရှင်းပြပါ",
+          "questions": [
+            {
+              "q": "فِي صُدُورِ النَّاسِ",
+              "answer_en": "In the chests of people (meaning hearts)",
+              "answer_my": "လူသားတို့၏ ရင်ထဲ၌ (နှလုံးသားကို ဆိုလိုသည်)"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change the singular Raqabah to plural",
+          "instruction_my": "Raqabah (ဧကဝုစ်) ကို အများကိန်းသို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "رَقَبَة",
+              "answer_en": "Necks",
+              "answer_my": "လည်ပင်းများ / ကျွန်များ",
+              "ar": "رِقَاب"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Majaz Mursal shows that Allah values the specific essential parts of our being. Freeing a 'neck' highlights the weight of bondage, while 'chests' highlights the depth of where faith resides.",
+        "my": "မဂျားဇ် မူရ်စလ်သည် အလ္လာဟ်အရှင်မြတ်က ကျွန်ုပ်တို့၏ တန်ဖိုးရှိသော အစိတ်အပိုင်းများကို အလေးထားကြောင်း ပြသသည်။ 'လည်ပင်း' ဟု သုံးခြင်းက ကျွန်ဘဝ၏ လေးလံမှုကို ဖော်ပြပြီး 'ရင်ဘတ်' ဟု သုံးခြင်းက အီမာန်သက်ဝင်ယုံကြည်မှု၏ နက်ရှိုင်းမှုကို ဖော်ပြသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Inshirah 94:1",
+        "study_number": 1,
+        "arabic_full": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+        "en_sahih": "Did We not expand for you, [O Muhammad], your breast?",
+        "my_mmsy": "(၁) ငါအရှင်မြတ်သည် အသင်(တမန်တော်)၏ ရင်ကို ဖွင့်ပေးတော်မူခဲ့သည်မဟုတ်လော။ ၁",
+        "audio_ref": {
+          "surah": 94,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/094001.mp3"
+        },
+        "qurancom_url": "https://quran.com/94/1",
+        "context": {
+          "en": "This surah comforts the Prophet (peace be upon him) by reminding him of the divine favors and spiritual opening he received.",
+          "my": "ဤသူရာသည် တမန်တော်မြတ် (ဆွ) အား အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်များနှင့် ဝိညာဉ်ရေးရာ ဖွင့်လှစ်ပေးမှုများကို သတိပေးခြင်းဖြင့် နှစ်သိမ့်မှုပေးသော သူရာဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "نَشْرَحْ",
+            "translit": "nashraḥ",
+            "en": "We expand",
+            "my": "ငါအရှင်မြတ်သည် ဖွင့်ပေးတော်မူသည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ش ر ح",
+            "freq": 4
+          },
+          {
+            "ar": "صَدْرَكَ",
+            "translit": "ṣadraka",
+            "en": "your chest",
+            "my": "သင်၏ရင်ဘတ်",
+            "role_en": "Noun + Pronoun",
+            "role_my": "နာမ် + နာမ်စား",
+            "root": "ص د ر",
+            "freq": 44
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The word 'Sadraka' (your chest) is a Majaz Mursal. The chest is the location (Mahall), but the heart (Qalb) inside is what is being expanded with knowledge and peace.",
+          "structure_my": "'Sadraka' (သင်၏ရင်ဘတ်) သည် မဂျားဇ် မူရ်စလ် ဖြစ်သည်။ ရင်ဘတ်သည် နေရာကို ဆိုလိုသော်လည်း လက်တွေ့တွင် ရင်ထဲ၌ရှိသော 'နှလုံးသား' ကို အသိပညာနှင့် ငြိမ်းချမ်းမှုများဖြင့် ကျယ်ပြန့်စေခြင်းကို ဆိုလိုသည်။",
+          "insight_en": "The use of 'chest' implies a total relief that physically manifests in how a person breathes and carries themselves.",
+          "insight_my": "'ရင်ဘတ်' ဟု သုံးနှုန်းခြင်းသည် လူတစ်ဦး အသက်ရှူချောင်သွားသကဲ့သို့ စိတ်သက်သာရာရမှုကို ရုပ်ပိုင်းဆိုင်ရာအရပါ ခံစားရကြောင်း ဖော်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ش ر ح",
+            "concept_en": "To cut open or lay bare for clarification/expansion.",
+            "concept_my": "ရှင်းလင်းစေရန် သို့မဟုတ် ကျယ်ပြန့်စေရန် ဖွင့်ထုတ်ခြင်း",
+            "members": [
+              {
+                "ar": "شَرْح",
+                "en": "explanation",
+                "my": "ရှင်းလင်းချက်",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Sharh is not just expanding space, it is removing the tightness of worry and replacing it with clarity."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ ဘဝတွင် အခက်အခဲများ ကြုံလာသောအခါ ရင်ထဲ၌ ကျဉ်းထဲကျပ်ထဲ ခံစားရတတ်သည်။ ဤအာယသ်တော်သည် အလ္လာဟ်အရှင်မြတ်က တမန်တော်မြတ်၏ ရင်ဘတ်ကို ဖွင့်ပေးသကဲ့သို့ ကျွန်ုပ်တို့ကိုလည်း စိတ်နှလုံးချမ်းမြေ့မှုနှင့် အသိပညာများ ပေးသနားနိုင်ကြောင်း ပြသနေသည်။ အစိတ်အပိုင်းတစ်ခု (ရင်ဘတ်) ကို အလ္လာဟ်အရှင်မြတ်က ပြုပြင်ပေးလျှင် တစ်ကိုယ်လုံး ငြိမ်းချမ်းမှု ရရှိနိုင်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Short, powerful opening with a questioning tone ('Alam...').",
+          "meaning_anchor": "Think of a tight space suddenly becoming vast and full of light.",
+          "daily_connection": "Recite when feeling stressed or overwhelmed to seek 'Sharh as-Sadr' (expansion of the chest).",
+          "my": "စိတ်သောကရောက်သည့်အခါ ဤအာယသ်တော်ကို ရွတ်ဖတ်ပြီး ရင်ထဲ၌ ကျယ်ပြန့်မှုကို ရှာဖွေပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we learned Majaz Mursal, specifically how the Quran uses parts of the body or locations to refer to a person's entire being or internal state. This creates powerful, focused imagery that resonates deeply with the human experience.",
+      "my": "ဤသင်ခန်းစာတွင် 'မဂျားဇ် မူရ်စလ်' ခေါ် အစိတ်အပိုင်းဖြင့် တစ်ခုလုံးကို ရည်ညွှန်းခြင်းကို လေ့လာခဲ့သည်။ ကုရ်အာန်ကျမ်းတော်မြတ်သည် လူသားတို့၏ ကိုယ်အင်္ဂါအစိတ်အပိုင်းများ သို့မဟုတ် နေရာများကို သုံး၍ အတွင်းစိတ်ခံစားမှုနှင့် ဘဝတစ်ခုလုံးကို မည်သို့ထိထိရောက်ရောက် ပုံဖော်ထားကြောင်း သိရှိခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-263",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 263,
+    "title": {
+      "ar": "التَّقْدِيمُ وَالتَّأْخِيرُ (١) — الِاهْتِمَامُ",
+      "en": "Rhetoric XIII — Taqdim wa Ta'khir I: Fronting",
+      "my": "အလင်္ကာပညာ (၁၃) — ရှေ့နောက်ပြောင်းလဲခြင်း (၁) အလေးပေးခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 85,
+      "vocab_time": 15,
+      "grammar_time": 25,
+      "deep_study_time": 45,
+      "vocab_count": 10,
+      "grammar_focus": "Moving Khabar before Mubtada or Maf'ūl before verb for focus",
+      "grammar_formula": "Object (Forward) + Verb (Backward) = Exclusive Focus"
+    },
+    "section_1_vocab": [
+      {
+        "word": "إِيَّاكَ",
+        "translit": "iyyāka",
+        "en": "You alone",
+        "my": "ကိုယ်တော့်ကိုသာလျှင်",
+        "quran_freq": 24,
+        "word_type": "Pronoun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ا و ي",
+          "concept_en": "separation for exclusive address",
+          "concept_my": "သီးသန့် ရည်ညွှန်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "E-Ya (He's the one)",
+          "image": "Pointing a finger exclusively at one person",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "This detached pronoun allows the object to come first, creating exclusivity.",
+        "example": {
+          "ar": "إِيَّاكَ نَعْبُدُ",
+          "en": "You alone we worship",
+          "my": "ကျွန်ုပ်တို့သည် ကိုယ်တော်တစ်ပါးတည်းကိုသာ ခဝပ်ကိုးကွယ်ကြပါသည်",
+          "ref": "1:5"
+        }
+      },
+      {
+        "word": "تَقْدِيم",
+        "translit": "taqdīm",
+        "en": "bringing forward",
+        "my": "ရှေ့သို့ပို့ခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "ق د م",
+          "concept_en": "precedence and front",
+          "concept_my": "ရှေ့ဦးဖြစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tak-deem (sounds like 'Take them' forward)",
+          "image": "A leader moving to the front of a line",
+          "cross_language": "Qadeem (Ancient) in Urdu/Myanmar context"
+        },
+        "word_family": [
+          {
+            "ar": "قَدِيم",
+            "translit": "qadīm",
+            "en": "old/ancient",
+            "my": "ရှေးကျသော",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Form II Masdar often relates to an intentional action of a person.",
+        "example": {
+          "ar": "تَقْدِيمُ الْمَفْعُولِ",
+          "en": "Fronting the object",
+          "my": "ကံပုဒ်ကို ရှေ့သို့ပို့ခြင်း",
+          "ref": "Grammar"
+        }
+      },
+      {
+        "word": "تَأْخِير",
+        "translit": "ta’khīr",
+        "en": "delaying/putting back",
+        "my": "နောက်သို့ပို့ခြင်း / ကြန့်ကြာစေခြင်း",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "أ خ ر",
+          "concept_en": "lateness and end",
+          "concept_my": "နောက်ကျခြင်း နှင့် အဆုံး"
+        },
+        "memory_hook": {
+          "sound": "Take-here (putting it back here)",
+          "image": "Someone stepping back to let others pass",
+          "cross_language": "Akhirah (Hereafter) in Myanmar Muslim vocabulary"
+        },
+        "word_family": [
+          {
+            "ar": "آخِر",
+            "translit": "ākhir",
+            "en": "last",
+            "my": "နောက်ဆုံး",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "Opposite of Taqdim; used for rhetorical delay.",
+        "example": {
+          "ar": "تَقْدِيمٌ وَتَأْخِيرٌ",
+          "en": "Fronting and delaying",
+          "my": "ရှေ့နောက်ပြောင်းလဲခြင်း",
+          "ref": "Rhetoric term"
+        }
+      },
+      {
+        "word": "نَعْبُدُ",
+        "translit": "na‘budu",
+        "en": "we worship",
+        "my": "ကျွန်ုပ်တို့ခဝပ်ကိုးကွယ်ကြသည်",
+        "quran_freq": 10,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "نَفْعُلُ",
+        "root": {
+          "letters": "ع ب د",
+          "concept_en": "servitude and devotion",
+          "concept_my": "ကျွန်ခံခြင်း နှင့် ကိုးကွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Na-Bud (Not-Bud - sticking to God only)",
+          "image": "A community prostrating in unison",
+          "cross_language": "Ibadah (Worship) is commonly used"
+        },
+        "word_family": [
+          {
+            "ar": "عِبَاد",
+            "translit": "‘ibād",
+            "en": "servants",
+            "my": "ကျွန်များ",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "The 'Na-' prefix indicates 'We' in the present tense.",
+        "example": {
+          "ar": "إِيَّاكَ نَعْبُدُ",
+          "en": "You alone we worship",
+          "my": "ကိုယ်တော်တစ်ပါးတည်းကိုသာ ကျွန်ုပ်တို့ခဝပ်ကိုးကွယ်ကြသည်",
+          "ref": "1:5"
+        }
+      },
+      {
+        "word": "حَصْر",
+        "translit": "ḥaṣr",
+        "en": "restriction/exclusivity",
+        "my": "ကန့်သတ်ချက် / သီးသန့်ဖြစ်မှု",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ح ص ر",
+          "concept_en": "encircling or confining",
+          "concept_my": "ဝန်းရံခြင်း သို့မဟုတ် ကန့်သတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Has-r (Has her - restricted focus)",
+          "image": "A fence around a single treasure",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Taqdim is the primary tool for 'Hasr' in Arabic.",
+        "example": {
+          "ar": "لِلْحَصْرِ",
+          "en": "For exclusivity",
+          "my": "သီးသန့်ဖြစ်စေရန်အတွက်",
+          "ref": "Balagha Term"
+        }
+      },
+      {
+        "word": "مُبْتَدَأ",
+        "translit": "mubtada’",
+        "en": "subject/beginning",
+        "my": "ကတ္တား / အစ",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْتَعَل",
+        "root": {
+          "letters": "ب د أ",
+          "concept_en": "starting or initiating",
+          "concept_my": "စတင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mub-tada (Ta-da! The start)",
+          "image": "A runner at the starting line",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "يَبْدَأُ",
+            "translit": "yabda’u",
+            "en": "he begins",
+            "my": "သူစတင်သည်",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "The passive participle form here acts as a technical term for the 'starting' part of a sentence.",
+        "example": {
+          "ar": "الْمُبْتَدَأُ أَوَّلًا",
+          "en": "The subject comes first",
+          "my": "ကတ္တားသည် ပထမဦးစွာလာသည်",
+          "ref": "Grammar"
+        }
+      },
+      {
+        "word": "خَبَر",
+        "translit": "khabar",
+        "en": "news/predicate",
+        "my": "သတင်း / ဝိသေသန (ကမ္မပုဒ်ဘက်မှ)",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "خ ب ر",
+          "concept_en": "information or testing",
+          "concept_my": "သတင်းအချက်အလက်"
+        },
+        "memory_hook": {
+          "sound": "Khabar (Urdu/Hindi for news)",
+          "image": "A newspaper headline",
+          "cross_language": "Khabar is well-known in Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "خَبِير",
+            "translit": "khabīr",
+            "en": "All-Aware",
+            "my": "အရာခပ်သိမ်းကို သိရှိတော်မူသောအရှင်",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "In grammar, Khabar is what you 'inform' about the Mubtada.",
+        "example": {
+          "ar": "أَتَانِي خَبَرٌ",
+          "en": "News came to me",
+          "my": "ကျွန်ုပ်ထံ သတင်းရောက်လာသည်",
+          "ref": "Common usage"
+        }
+      },
+      {
+        "word": "نَسْتَعِينُ",
+        "translit": "nasta‘īn",
+        "en": "we seek help",
+        "my": "ကျွန်ုပ်တို့ အကူအညီတောင်းခံကြသည်",
+        "quran_freq": 2,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "نَسْتَفْعِلُ",
+        "root": {
+          "letters": "ع و ن",
+          "concept_en": "assistance and aid",
+          "concept_my": "အကူအညီ နှင့် အထောက်အပံ့"
+        },
+        "memory_hook": {
+          "sound": "Nasta-Een (I-een - eyes looking for help)",
+          "image": "Lifting a heavy object with someone's help",
+          "cross_language": "Insh-Allah (God willing - though different root, same context of aid)"
+        },
+        "word_family": [
+          {
+            "ar": "مُعِين",
+            "translit": "mu‘īn",
+            "en": "helper",
+            "my": "ကူညီသူ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Form X (Istaf'ala) usually means 'seeking' the root action.",
+        "example": {
+          "ar": "وَإِيَّاكَ نَسْتَعِينُ",
+          "en": "and You alone we ask for help",
+          "my": "ကိုယ်တော်တစ်ပါးတည်းထံ၌သာ ကျွန်ုပ်တို့အကူအညီတောင်းခံကြသည်",
+          "ref": "1:5"
+        }
+      },
+      {
+        "word": "اهْتِمَام",
+        "translit": "ihtimām",
+        "en": "importance/concern",
+        "my": "အရေးကြီးမှု / အလေးပေးမှု",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "افْتِعَال",
+        "root": {
+          "letters": "ه م م",
+          "concept_en": "concern or intention",
+          "concept_my": "ဂရုစိုက်မှု သို့မဟုတ် ရည်ရွယ်ချက်"
+        },
+        "memory_hook": {
+          "sound": "I-He-Maam (The Imam is important)",
+          "image": "Focusing a spotlight on a stage",
+          "cross_language": "Himmat (Courage/Concern) in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "هَمَّ",
+            "translit": "hamma",
+            "en": "he intended/worried",
+            "my": "သူရည်ရွယ်သည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Fronting (Taqdim) is done primarily for Ihtimām (emphasizing what is important).",
+        "example": {
+          "ar": "بَابُ الِاهْتِمَامِ",
+          "en": "Chapter of Importance",
+          "my": "အလေးပေးခြင်းကဏ္ဍ",
+          "ref": "Balagha"
+        }
+      },
+      {
+        "word": "مَفْعُول",
+        "translit": "maf‘ūl",
+        "en": "object/the one affected",
+        "my": "ကံပုဒ် / အပြုခံရသူ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ف ع ل",
+          "concept_en": "doing an action",
+          "concept_my": "လုပ်ဆောင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Maf-ool (Sounds like a tool - object of work)",
+          "image": "A ball being kicked (the object)",
+          "cross_language": "Fe'l (Action) in Myanmar Muslim circles"
+        },
+        "word_family": [
+          {
+            "ar": "فِعْل",
+            "translit": "fi‘l",
+            "en": "verb/action",
+            "my": "ကြိယာ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Every Arabic root can be put into the Maf'ul pattern to find its object.",
+        "example": {
+          "ar": "مَفْعُولٌ بِهِ",
+          "en": "Object of the verb",
+          "my": "ကြိယာ၏ ကံပုဒ်",
+          "ref": "Grammar"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "التَّقْدِيمُ وَالتَّأْخِيرُ",
+        "en": "Taqdim wa Ta'khir (Fronting and Delaying)",
+        "my": "ရှေ့နောက်ပြောင်းလဲခြင်း (တက္ကဒီမ် ဝါ တအ်ခီးရ်)"
+      },
+      "formula": {
+        "display": "Standard: Verb + Subject + Object -> Rhetorical: Object + Verb",
+        "example": "نَعْبُدُكَ (We worship You) -> إِيَّاكَ نَعْبُدُ (You alone we worship)",
+        "myanmar_read": "ပုံမှန်အစီအစဉ်ကို ပြောင်းလဲပြီး အရေးကြီးသည့်အရာကို ရှေ့သို့ထုတ်ခြင်း",
+        "key_insight": "In Arabic, what comes first is what is most important to the speaker or what is being limited to the listener."
+      },
+      "explanation": {
+        "en": "Taqdim wa Ta'khir is a cornerstone of Quranic eloquence. By moving a word from its natural position (like the object or Khabar) to the front of the sentence, the Quran creates a sense of exclusivity (Hasr) or emphasis (Ihtimām). This tells the reader: 'Only this' or 'Focus on this first.' It transforms a simple statement of fact into a profound declaration of faith.",
+        "my": "Taqdim wa Ta'khir ဆိုသည်မှာ စာကြောင်းတစ်ခု၏ ပုံမှန်တည်ဆောက်ပုံ (ဥပမာ- ကြိယာ + ကတ္တား + ကံ) ကို ပြောင်းလဲ၍ ကံပုဒ်ကို ရှေ့သို့ ပို့ခြင်းဖြစ်သည်။ ဤသို့ပြုလုပ်ခြင်းဖြင့် 'ဤအရာကိုသာလျှင်' ဟူသော သီးသန့်ဖြစ်မှု (Exclusivity) ကို ဖော်ဆောင်သည်။ ကုရ်အာန်တွင် အလ္လာဟ်အရှင်မြတ်အား ကိုးကွယ်ခြင်းကဲ့သို့သော အရေးကြီးသည့် ကိစ္စရပ်များတွင် ဤပုံစံကို သုံးသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese is an SOV (Subject-Object-Verb) language. To emphasize, we often add particles like 'tha-lyin' (သာလျှင်) at the end. Arabic does this purely through word order change.",
+        "my": "မြန်မာစကားတွင် 'ကိုယ်တော့်ကိုသာလျှင်' ဟု 'သာလျှင်' ကို ထည့်၍ အလေးပေးသကဲ့သို့ အာရဗီတွင် စကားလုံးအစီအစဉ်ကို ရှေ့သို့ပို့ခြင်းဖြင့် ထိုအဓိပ္ပာယ်ကို ရရှိစေသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Fronting the Object: When the object (Maf'ūl) is placed before the verb, it creates 'Hasr' (Exclusivity).",
+          "rule_my": "ကံပုဒ်ကို ရှေ့သို့ပို့ခြင်း- ၎င်းသည် သီးသန့်ဖြစ်မှုကို ဖြစ်စေသည်။",
+          "example": {
+            "ar": "إِيَّاكَ نَعْبُدُ",
+            "en": "You ALONE we worship",
+            "my": "ကိုယ်တော့်ကိုသာလျှင် ကျွန်ုပ်တို့ကိုးကွယ်ပါသည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Fronting the Zarf (Adverb) or Jarr wa Majrur: Often emphasizes the context or location over the action.",
+          "rule_my": "နေရာ သို့မဟုတ် အခြေအနေပြပုဒ်ကို ရှေ့သို့ပို့ခြင်း- အခြေအနေကို ပို၍အလေးပေးသည်။",
+          "example": {
+            "ar": "فِي اللَّهِ شَكٌّ",
+            "en": "About Allah (is there) any doubt?",
+            "my": "အလ္လာဟ်အရှင်မြတ်နှင့် ပတ်သက်၍ သံသယရှိပါသလား"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+          "en": "It is You we worship and You we ask for help",
+          "my": "ကျွန်ုပ်တို့သည် အရှင်မြတ်ကိုသာလျှင် ကိုးကွယ်ကြပါသည် ။ ထို့ပြင် ကျွန်ုပ်တို့သည် အရှင်မြတ်ထံမှသာလျှင် အကူအညီတောင်းခံကြပါသည် ။",
+          "ref": "1:5",
+          "breakdown": {
+            "subject": {
+              "word": "نَعْبُدُ",
+              "en": "We worship",
+              "note": "Verb includes 'We'"
+            },
+            "predicate": {
+              "word": "إِيَّاكَ",
+              "en": "You alone",
+              "note": "Fronted Object for exclusivity"
+            }
+          },
+          "myanmar_insight": "အကယ်၍ 'Na'buduka' ဟု ဆိုပါက 'ကျွန်ုပ်တို့ ကိုယ်တော့်ကို ကိုးကွယ်ပါသည်' ဟုသာ အဓိပ္ပာယ်ရပြီး အခြားသူများကိုလည်း ကိုးကွယ်နိုင်သည့် အခွင့်အရေးရှိနေသည်။ သို့သော် 'Iyyaka' ကို ရှေ့ထုတ်လိုက်သောအခါ 'ကိုယ်တော်မှတစ်ပါး အခြားမည်သူ့ကိုမျှ မကိုးကွယ်' ဟု အဓိပ္ပာယ် ပေါ်လွင်သွားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Translating fronted objects as simple statements",
+          "wrong": {
+            "ar": "إِيَّاكَ نَعْبُدُ",
+            "note": "Translating as 'We worship You' without the 'Alone/Only'"
+          },
+          "correct": {
+            "ar": "إِيَّاكَ نَعْبُدُ",
+            "en": "You alone we worship",
+            "my": "ကိုယ်တော့်ကိုသာလျှင် ကျွန်ုပ်တို့ကိုးကွယ်ပါသည်"
+          },
+          "myanmar_tip": "ရှေ့မှာလာတဲ့ စကားလုံးက 'သာလျှင်' ဆိုတဲ့ အဓိပ္ပာယ်ကို သယ်ဆောင်လာတာကို မမေ့ပါနဲ့။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Which word has been fronted (Taqdim)?",
+          "instruction_my": "မည်သည့်စကားလုံးကို ရှေ့သို့ ပို့ထားသနည်း။",
+          "questions": [
+            {
+              "q": "إِيَّاكَ نَسْتَعِينُ",
+              "answer_en": "Iyyaka",
+              "answer_my": "အီယာက",
+              "ref": "1:5"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate with the 'Exclusivity' nuance",
+          "instruction_my": "သီးသန့်ဖြစ်မှု အဓိပ္ပာယ်ပါဝင်အောင် ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
+              "answer_en": "And of the Hereafter [alone] they are certain",
+              "answer_my": "နောင်တမလွန်နှင့် ပတ်သက်၍လည်း ၎င်းတို့သည် (သီးသန့်) ယုံကြည်ကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change 'Na'buduka' to a fronted construction using Iyyaka",
+          "instruction_my": "'Na'buduka' ကို 'Iyyaka' သုံး၍ ရှေ့နောက်ပြောင်းလဲပါ",
+          "questions": [
+            {
+              "q": "نَعْبُدُكَ",
+              "answer_en": "Iyyaka Na'budu",
+              "answer_my": "အီယာက နအ်ဗုဒု",
+              "ar": "إِيَّاكَ نَعْبُدُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Taqdim is the linguistic realization of Tawhid. By putting 'You' (Allah) first in our sentences, we learn to put Allah first in our lives, our intentions, and our hearts.",
+        "my": "Taqdim သည် သောင်ဟီးဒ် (အရှင်မြတ်တစ်ပါးတည်းဖြစ်မှု) ၏ ဘာသာစကားဆိုင်ရာ သရုပ်ဖော်မှုဖြစ်သည်။ စာကြောင်းများတွင် 'ကိုယ်တော်' ကို အရင်ထားခြင်းဖြင့် ကျွန်ုပ်တို့၏ ဘဝ၊ ရည်ရွယ်ချက်နှင့် နှလုံးသားများတွင်လည်း အလ္လာဟ်အရှင်မြတ်ကို ပထမဦးစားပေးရန် သင်ယူကြရသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Fatiha 1:5",
+        "study_number": 1,
+        "arabic_full": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "en_sahih": "It is You we worship and You we ask for help.",
+        "my_mmsy": "ကျွန်ုပ်တို့သည် အရှင်မြတ်ကိုသာလျှင် ကိုးကွယ်ကြပါသည် ။ ထို့ပြင် ကျွန်ုပ်တို့သည် အရှင်မြတ်ထံမှသာလျှင် အကူအညီတောင်းခံကြပါသည် ။",
+        "audio_ref": {
+          "surah": 1,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/001005.mp3"
+        },
+        "qurancom_url": "https://quran.com/1/5",
+        "context": {
+          "en": "The central ayah of Al-Fatiha, serving as a covenant between the servant and the Creator.",
+          "my": "စူရာဟ် ဖွာသိဟဟ်၏ အလယ်ဗဟိုချက်ဖြစ်ပြီး ဖန်ဆင်းခံကျွန်နှင့် ဖန်ဆင်းရှင်အကြား ထားရှိသော ကတိကဝတ်ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "إِيَّاكَ",
+            "translit": "iyyāka",
+            "en": "You alone",
+            "my": "ကိုယ်တော့်ကိုသာလျှင်",
+            "role_en": "Object (Fronted)",
+            "role_my": "ကံပုဒ် (ရှေ့ရောက်)",
+            "root": "ا و ي",
+            "freq": 24
+          },
+          {
+            "ar": "نَعْبُدُ",
+            "translit": "na‘budu",
+            "en": "we worship",
+            "my": "ကျွန်ုပ်တို့ခဝပ်ကိုးကွယ်ကြသည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ع ب د",
+            "freq": 10
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The object 'Iyyaka' is brought to the beginning. This 'Taqdim' creates 'Hasr' (restriction), meaning worship is restricted to Allah alone.",
+          "structure_my": "ကံပုဒ် 'Iyyaka' ကို ရှေ့သို့ ပို့ထားခြင်း (Taqdim) သည် ခဝပ်ကိုးကွယ်မှုကို အလ္လာဟ်အရှင်မြတ် တစ်ပါးတည်းထံ၌သာ ကန့်သတ်ထားကြောင်း (Hasr) ကို ဖော်ပြသည်။",
+          "insight_en": "Grammatically, it shifts the focus from our action (worship) to the One being worshipped (Allah).",
+          "insight_my": "သဒ္ဒါအရ ၎င်းသည် ကျွန်ုပ်တို့၏ လုပ်ဆောင်ချက် (ကိုးကွယ်ခြင်း) ထက် ကိုးကွယ်ခြင်းခံရသူ (အလ္လာဟ်) ကို ပို၍ အလေးပေးထားခြင်း ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ب د",
+            "concept_en": "Ultimate submission out of love and awe.",
+            "concept_my": "ချစ်ခြင်းနှင့် ကြောက်ရွံ့ခြင်းဖြင့် အကြွင်းမဲ့ အညံ့ခံခြင်း",
+            "members": [
+              {
+                "ar": "عَبْد",
+                "en": "slave/servant",
+                "my": "ကျွန်",
+                "freq": 200
+              }
+            ],
+            "professors_note": "True 'Ibadah' requires fronting Allah in every decision of life, mirrored by this grammar."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် နေ့စဉ် ဆွလာသ်ဝတ်ပြုတိုင်း 'အီယာက နအ်ဗုဒု' ဟု အကြိမ်ကြိမ် ရွတ်ဆိုနေကြသည်။ ဤအလင်္ကာပညာကို သိရှိခြင်းဖြင့် ကျွန်ုပ်တို့၏ ကိုးကွယ်မှုသည် အလ္လာဟ်အရှင်မြတ် တစ်ပါးတည်းအတွက်သာ ဖြစ်ရမည်ဆိုသည့် အဓိပ္ပာယ်မှာ ပို၍ လေးနက်လာသည်။ လောကီအကျိုးစီးပွား သို့မဟုတ် အခြားသူများ၏ အသိအမှတ်ပြုမှုကို မငဲ့ဘဲ အရှင်မြတ်ကိုသာ ရှေ့တန်းတင်ရန် ဤအာယသ်က သတိပေးနေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Perfect symmetry: Iyyaka na'budu / wa / Iyyaka nasta'in.",
+          "meaning_anchor": "The word 'Iyyaka' acts like a spotlight shining only on Allah.",
+          "daily_connection": "The most recited verse in a Muslim's life, defining their entire worldview.",
+          "my": "အီယာက (Iyyaka) ကို ဆိုတိုင်း 'ကိုယ်တော်တစ်ပါးတည်းသာ' ဆိုတာကို စိတ်ထဲမှာ စွဲမြဲထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "This lesson introduced Taqdim wa Ta'khir, focusing on how fronting the object creates exclusivity. We analyzed 'Iyyaka na'budu' to see how word order defines the core of Islamic belief—Tawhid.",
+      "my": "ဤသင်ခန်းစာတွင် ကံပုဒ်ကို ရှေ့သို့ပို့ခြင်းက မည်သို့သီးသန့်ဖြစ်မှုကို ဖြစ်စေကြောင်း 'Taqdim wa Ta'khir' မှတစ်ဆင့် လေ့လာခဲ့သည်။ 'အီယာက နအ်ဗုဒု' ကို လေ့လာခြင်းဖြင့် စကားလုံးအစီအစဉ်သည် အစ္စလာမ့်အခြေခံယုံကြည်ချက် (သောင်ဟီးဒ်) ကို မည်သို့ပုံဖော်ပေးကြောင်း တွေ့ရှိခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-264",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 264,
+    "title": {
+      "ar": "التَّقْدِيمُ وَالتَّأْخِيرُ (٢) — الِاخْتِصَاصُ",
+      "en": "Rhetoric XIV — Taqdim wa Ta'khir II: Exclusivity",
+      "my": "အလင်္ကာပညာ (၁၄) — ရှေ့နောက်ပြောင်းလဲခြင်း (၂) သီးသန့်ဖြစ်မှု"
+    },
+    "meta": {
+      "study_time_minutes": 85,
+      "vocab_time": 15,
+      "grammar_time": 25,
+      "deep_study_time": 45,
+      "vocab_count": 8,
+      "grammar_focus": "Fronting creates Ikhtisās (only/exclusively); Iyyāka analysis",
+      "grammar_formula": "Taqdim (Fronting) = Hasr + Ikhtisas"
+    },
+    "section_1_vocab": [
+      {
+        "word": "اخْتِصَاص",
+        "translit": "ikhtiṣāṣ",
+        "en": "exclusivity/specialization",
+        "my": "သီးသန့်ဖြစ်မှု / အထူးပြုမှု",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "افْتِعَال",
+        "root": {
+          "letters": "خ ص ص",
+          "concept_en": "distinguishing or singling out",
+          "concept_my": "ခွဲခြားခြင်း သို့မဟုတ် သီးသန့်ထုတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ik-Tisas (It-Special)",
+          "image": "A VIP pass that allows only one person",
+          "cross_language": "Khas (Special) in Urdu/Myanmar context"
+        },
+        "word_family": [
+          {
+            "ar": "خَاصّ",
+            "translit": "khāṣṣ",
+            "en": "special",
+            "my": "အထူး",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Ikhtisas is a more specific form of Hasr, often focusing on the 'special' nature of the target.",
+        "example": {
+          "ar": "لِلِاخْتِصَاصِ",
+          "en": "For exclusivity",
+          "my": "သီးသန့်ဖြစ်စေရန်",
+          "ref": "Balagha"
+        }
+      },
+      {
+        "word": "مَصِير",
+        "translit": "maṣīr",
+        "en": "destination/return",
+        "my": "ပြန်လည်ရာအရပ် / လားရာ",
+        "quran_freq": 28,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعِيل",
+        "root": {
+          "letters": "ص ي ر",
+          "concept_en": "becoming or returning to a state",
+          "concept_my": "ဖြစ်လာခြင်း သို့မဟုတ် ပြန်လည်ရောက်ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ma-Seer (My seer - seeing the end)",
+          "image": "A path leading back to a single gate",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "يَصِيرُ",
+            "translit": "yaṣīru",
+            "en": "it becomes",
+            "my": "၎င်းဖြစ်လာသည်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "When 'To Him is the destination' is used, 'To Him' is fronted for Ikhtisas.",
+        "example": {
+          "ar": "وَإِلَيْهِ الْمَصِيرُ",
+          "en": "and to Him is the destination",
+          "my": "ကိုယ်တော်ထံသို့သာလျှင် ပြန်လည်ရာအရပ်ဖြစ်သည်",
+          "ref": "5:18"
+        }
+      },
+      {
+        "word": "تَوَكَّلْتُ",
+        "translit": "tawakkaltu",
+        "en": "I relied/put trust",
+        "my": "ကျွန်ုပ်ယုံကြည်ကိုးစားခဲ့သည်",
+        "quran_freq": 8,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "تَفَعَّلْتُ",
+        "root": {
+          "letters": "و ك ل",
+          "concept_en": "entrusting or relying",
+          "concept_my": "ယုံကြည်အပ်နှံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tawakkal (Commonly used)",
+          "image": "Leaning fully against a strong wall",
+          "cross_language": "Tawakkul is a central Islamic term in Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "تَوَكُّل",
+            "translit": "tawakkul",
+            "en": "trust",
+            "my": "ယုံကြည်ကိုးစားမှု",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Form V (Tafa''ala) often denotes a personal commitment or state.",
+        "example": {
+          "ar": "عَلَيْهِ تَوَكَّلْتُ",
+          "en": "In Him [alone] I have put my trust",
+          "my": "ကိုယ်တော့်အပေါ်၌သာ ကျွန်ုပ်ယုံကြည်ကိုးစားခဲ့သည်",
+          "ref": "11:88"
+        }
+      },
+      {
+        "word": "أَنِيبُ",
+        "translit": "anību",
+        "en": "I turn (in repentance)",
+        "my": "ကျွန်ုပ် (သောင်ဗဟ်ပြုလျက်) ပြန်လှည့်သည်",
+        "quran_freq": 2,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أُفِيلُ",
+        "root": {
+          "letters": "ن و ب",
+          "concept_en": "returning again and again",
+          "concept_my": "အကြိမ်ကြိမ် ပြန်လှည့်လာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "A-Neeb (A knee - bowing/turning)",
+          "image": "A traveler turning back toward the light",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مُنِيب",
+            "translit": "munīb",
+            "en": "one who turns",
+            "my": "ပြန်လှည့်သူ",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "Often paired with 'Ilayhi' (To Him) fronted for exclusivity.",
+        "example": {
+          "ar": "وَإِلَيْهِ أُنِيبُ",
+          "en": "and to Him I turn",
+          "my": "ကိုယ်တော်ထံသို့သာ ကျွန်ုပ်ပြန်လှည့်ပါသည်",
+          "ref": "11:88"
+        }
+      },
+      {
+        "word": "قَدِير",
+        "translit": "qadīr",
+        "en": "All-Powerful/Capable",
+        "my": "အရာခပ်သိမ်းကို တတ်စွမ်းတော်မူသောအရှင်",
+        "quran_freq": 45,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ق د ر",
+          "concept_en": "power and measurement",
+          "concept_my": "စွမ်းအား နှင့် တိုင်းတာမှု"
+        },
+        "memory_hook": {
+          "sound": "Qadir (Common name)",
+          "image": "A hand holding the entire universe",
+          "cross_language": "Qadir is used in Myanmar names"
+        },
+        "word_family": [
+          {
+            "ar": "قُدْرَة",
+            "translit": "qudrah",
+            "en": "power",
+            "my": "စွမ်းအား",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "When paired with 'Ala kulli shay' (Over all things), it emphasizes the scope of power.",
+        "example": {
+          "ar": "عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+          "en": "[He is] over all things Powerful",
+          "my": "အရာခပ်သိမ်းအပေါ်၌ တတ်စွမ်းတော်မူသောအရှင် ဖြစ်သည်",
+          "ref": "2:20"
+        }
+      },
+      {
+        "word": "تُرْجَعُونَ",
+        "translit": "turja‘ūn",
+        "en": "you all are returned",
+        "my": "သင်တို့အားလုံး ပြန်ပို့ခြင်းခံရမည်",
+        "quran_freq": 45,
+        "word_type": "Verb (Passive)",
+        "gender": "Masculine",
+        "wazn": "تُفْعَلُونَ",
+        "root": {
+          "letters": "ر ج ع",
+          "concept_en": "returning or going back",
+          "concept_my": "ပြန်လည်ရောက်ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tur-ja-oon (Return-to-Him)",
+          "image": "All paths meeting at one point",
+          "cross_language": "Ruju (return) in Malay/Myanmar context"
+        },
+        "word_family": [
+          {
+            "ar": "رُجُوع",
+            "translit": "rujū‘",
+            "en": "return",
+            "my": "ပြန်လည်ခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The passive form 'you are returned' emphasizes that we have no choice but to return to Him.",
+        "example": {
+          "ar": "إِلَيْهِ تُرْجَعُونَ",
+          "en": "to Him you will be returned",
+          "my": "ကိုယ်တော်ထံသို့သာ သင်တို့ပြန်ပို့ခြင်းခံရမည်",
+          "ref": "2:245"
+        }
+      },
+      {
+        "word": "يُوقِنُونَ",
+        "translit": "yūqinūn",
+        "en": "they are certain",
+        "my": "၎င်းတို့ အကြွင်းမဲ့ယုံကြည်ကြသည်",
+        "quran_freq": 15,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفْعِلُونَ",
+        "root": {
+          "letters": "ي ق ن",
+          "concept_en": "certainty without doubt",
+          "concept_my": "သံသယမရှိ ယုံကြည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Yaqin (Commonly used)",
+          "image": "A rock that cannot be moved",
+          "cross_language": "Yaqin (Certainty) is a very common term"
+        },
+        "word_family": [
+          {
+            "ar": "يَقِين",
+            "translit": "yaqīn",
+            "en": "certainty",
+            "my": "အကြွင်းမဲ့ယုံကြည်မှု",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Form IV (Af'ala) often means entering into a state of the root.",
+        "example": {
+          "ar": "وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
+          "en": "And of the Hereafter they are certain",
+          "my": "နောင်တမလွန်နှင့် ပတ်သက်၍လည်း ၎င်းတို့သည် အကြွင်းမဲ့ယုံကြည်ကြသည်",
+          "ref": "2:4"
+        }
+      },
+      {
+        "word": "مُسْتَقِيم",
+        "translit": "mustaqīm",
+        "en": "straight/upright",
+        "my": "ဖြောင့်မတ်သော",
+        "quran_freq": 37,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "مُسْتَفْعِل",
+        "root": {
+          "letters": "ق و م",
+          "concept_en": "standing or rising",
+          "concept_my": "ရပ်တည်ခြင်း သို့မဟုတ် ထကြွခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Musta-Keem (Must keep straight)",
+          "image": "A straight arrow",
+          "cross_language": "Mustaqim is used in Myanmar Muslim names"
+        },
+        "word_family": [
+          {
+            "ar": "قَائِم",
+            "translit": "qā’im",
+            "en": "standing",
+            "my": "ရပ်နေသူ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "The 'Musta-' prefix often denotes seeking to be in the state of the root.",
+        "example": {
+          "ar": "صِرَاطٍ مُّسْتَقِيمٍ",
+          "en": "a straight path",
+          "my": "ဖြောင့်မတ်သောလမ်း",
+          "ref": "1:6"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الِاخْتِصَاص",
+        "en": "Ikhtisas (Exclusivity)",
+        "my": "သီးသန့်ဖြစ်မှု (အစ်ခ်သီဆွာစ်)"
+      },
+      "formula": {
+        "display": "Particle of Direction/Jarr + Noun (Fronted) + Action",
+        "example": "عَلَيْهِ تَوَكَّلْتُ (Upon Him [alone] I rely)",
+        "myanmar_read": "ဦးတည်ရာကို ရှေ့သို့ပို့ခြင်းဖြင့် '၎င်းထံ၌သာ' ဟု အဓိပ္ပာယ်ဖွင့်ခြင်း",
+        "key_insight": "In the Quran, whenever a phrase like 'To Him' or 'Upon Him' comes first, it's a signal to exclude everyone else."
+      },
+      "explanation": {
+        "en": "Ikhtisas is a rhetorical effect of Taqdim. While Taqdim is the act of fronting, Ikhtisas is the meaning produced: Exclusivity. When Allah says 'Upon Him I rely,' rather than 'I rely upon Him,' the word order physically prevents anyone else from being the object of trust. This is a vital tool for expressing the exclusivity of Allah's attributes and our devotion to Him.",
+        "my": "Ikhtisas ဆိုသည်မှာ Taqdim (ရှေ့သို့ပို့ခြင်း) ကြောင့် ဖြစ်ပေါ်လာသော 'သီးသန့်ဖြစ်မှု' အဓိပ္ပာယ်ဖြစ်သည်။ 'ကျွန်ုပ်သည် အလ္လာဟ်ကို ကိုးစားသည်' ဟု မပြောဘဲ 'အလ္လာဟ်အပေါ်၌သာ ကျွန်ုပ်ကိုးစားသည်' ဟု စကားလုံးအစီအစဉ်ကို ပြောင်းလဲခြင်းဖြင့် အခြားသူများကို ဖယ်ထုတ်လိုက်ခြင်း ဖြစ်သည်။ ၎င်းသည် သောင်ဟီးဒ်ကို ဖော်ပြရန် အကောင်းဆုံးနည်းလမ်းဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese speakers use emphasis by adding 'သာ' (tha) or 'သာလျှင်' (tha-lyin). Arabic achieves this same emotional and theological weight just by shifting the word 'Ilayhi' or 'Alayhi' to the start.",
+        "my": "မြန်မာစကားတွင် 'ကိုယ်တော့်အပေါ်မှာသာလျှင်' ဟု 'သာလျှင်' ထည့်ပြောသကဲ့သို့ အာရဗီတွင် 'Alayhi' ကို စာကြောင်းအစသို့ ပို့လိုက်ရုံဖြင့် ထိုအလေးအနက် အဓိပ္ပာယ်ကို ရရှိစေသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Fronting Jarr wa Majrur (Prepositional Phrase): When 'Ilayhi' (to Him) or 'Lahu' (for Him) comes first, it implies exclusivity.",
+          "rule_my": "ရှေ့ပြေးပုဒ် (Preposition) ပါသော စာသားကို ရှေ့ပို့ခြင်း- 'ကိုယ်တော့်အတွက်သာ' ဟု အဓိပ္ပာယ်ရစေသည်။",
+          "example": {
+            "ar": "لَهُ الْمُلْكُ",
+            "en": "For Him [alone] is the kingdom",
+            "my": "နိုင်ငံတော်သည် ကိုယ်တော့်အတွက်သာလျှင် ဖြစ်သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Ikhtisas in the Hereafter: Many ayahs about the return to Allah use this to show that there is no other destination.",
+          "rule_my": "လားရာကို ရှေ့ပို့ခြင်း- အလ္လာဟ်အရှင်မြတ်ထံမှတစ်ပါး အခြားပြန်လည်ရာမရှိကြောင်း ပြသသည်။",
+          "example": {
+            "ar": "إِلَيْهِ الْمَصِيرُ",
+            "en": "To Him [alone] is the destination",
+            "my": "ကိုယ်တော်ထံသို့သာလျှင် ပြန်လည်ရာအရပ်ဖြစ်သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+          "en": "Upon Him I have relied, and to Him I turn",
+          "my": "MYANMAR_PLACE_HOLDER_S11_A88",
+          "ref": "11:88",
+          "breakdown": {
+            "subject": {
+              "word": "تَوَكَّلْتُ",
+              "en": "I relied",
+              "note": "Verb 1st person"
+            },
+            "predicate": {
+              "word": "عَلَيْهِ",
+              "en": "Upon Him",
+              "note": "Fronted for Ikhtisas (Exclusivity)"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'Alayhi' နှင့် 'Ilayhi' နှစ်ခုစလုံးကို ရှေ့သို့ ပို့ထားခြင်းမှာ ယုံကြည်ကိုးစားမှုနှင့် ပြန်လည်တောင်းပန်မှုတို့သည် အရှင်မြတ်ထံ၌သာ ရှိကြောင်းကို အလေးပေးလိုသောကြောင့် ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Missing the 'only' or 'alone' in translation",
+          "wrong": {
+            "ar": "لَهُ الْمُلْكُ",
+            "note": "Translating as 'He has the kingdom'"
+          },
+          "correct": {
+            "ar": "لَهُ الْمُلْكُ",
+            "en": "The kingdom belongs ONLY to Him",
+            "my": "နိုင်ငံတော်သည် ကိုယ်တော်တစ်ပါးတည်းအတွက်သာ ဖြစ်သည်"
+          },
+          "myanmar_tip": "ရှေ့နောက်ပြောင်းထားရင် 'သာလျှင်' ဆိုတဲ့ အဓိပ္ပာယ်ကို မြန်မာလိုပြန်တဲ့အခါ ထည့်ပေးပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the fronted phrase creating exclusivity",
+          "instruction_my": "သီးသန့်ဖြစ်မှုကို ဖြစ်စေသော ရှေ့ရောက်စာသားကို ရှာပါ",
+          "questions": [
+            {
+              "q": "إِلَيْهِ الْمَصِيرُ",
+              "answer_en": "Ilayhi (To Him)",
+              "answer_my": "အိလိုင်းဟိ (ကိုယ်တော်ထံသို့သာ)",
+              "ref": "5:18"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate with emphasis on Ikhtisas",
+          "instruction_my": "အစ်ခ်သီဆွာစ် (သီးသန့်ဖြစ်မှု) ကို အသားပေး၍ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+              "answer_en": "Over all things [He is] Powerful",
+              "answer_my": "အရာခပ်သိမ်းအပေါ်၌ (ကိုယ်တော်သည်သာ) တတ်စွမ်းတော်မူသောအရှင်ဖြစ်သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Rewrite 'Tawakkaltu alayhi' to show exclusivity",
+          "instruction_my": "'Tawakkaltu alayhi' ကို သီးသန့်ဖြစ်မှု ပေါ်လွင်အောင် ပြန်ရေးပါ",
+          "questions": [
+            {
+              "q": "تَوَكَّلْتُ عَلَيْهِ",
+              "answer_en": "Alayhi Tawakkaltu",
+              "answer_my": "အလိုင်းဟိ သဝက္ကလ်သု",
+              "ar": "عَلَيْهِ تَوَكَّلْتُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Ikhtisas reminds the believer that there is no 'Plan B'. By fronting Allah in our grammar, we internalize that help, trust, and our final return are exclusively tied to Him.",
+        "my": "Ikhtisas သည် ယုံကြည်သူများအတွက် 'အခြားရွေးချယ်စရာမရှိ' ကြောင်း သတိပေးသည်။ ကျွန်ုပ်တို့၏ ဘာသာစကားတွင် အလ္လာဟ်အရှင်မြတ်ကို ရှေ့တန်းတင်ခြင်းဖြင့် အကူအညီ၊ ယုံကြည်မှုနှင့် နောက်ဆုံးပြန်လည်ရာသည် ကိုယ်တော်တစ်ပါးတည်းသာဖြစ်ကြောင်း စိတ်နှလုံးထဲတွင် စွဲမြဲစေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Hud 11:88",
+        "study_number": 1,
+        "arabic_full": "عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+        "en_sahih": "Upon Him I have relied, and to Him I turn.",
+        "my_mmsy": "၎င်း(တမန်တော်)က ပြောဆိုခဲ့သည်- အို- ငါ၏အမျိုးသားတို့၊ အကယ်၍ ငါသည် ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်ထံတော်မှ သက်သေအထောက်အထားပေါ်၌ တည်ရှိခဲ့ပြီး ငါအရှင်မြတ်သည် ငါ့အား အရှင်မြတ်ထံတော်မှ ကောင်းမွန်သော စားနပ်ရိက္ခာကို  ပေးသနားတော်မူခဲ့လျှင် အသင်တို့သည် မည်သို့ယူဆကြမည်နည်း။ ၎င်းနောက် ငါသည် ငါကိုယ်တိုင် အသင်တို့အား တားမြစ်သောကိစ္စကို အသင်တို့နှင့်ဆန့်ကျင်ပြီး ကိုယ်တိုင်ပြုလုပ်ရန် မရည်ရွယ်ပေ။  ငါသည် ငါတတ်စွမ်းနိုင်သမျှ ပြုပြင်ရန်သာ ရည်ရွယ်သည်။  ထို့ပြင် ငါ၏စွမ်းဆောင်နိုင်မှုသည် အလ္လာဟ်အရှင်မြတ်၏ကူညီမှုအပေါ်၌သာ မူတည်သည့်အတွက် ထိုအရှင်မြတ်အပေါ်၌သာ ယုံပုံအပ်နှင်းထားသည်။ ၎င်းနောက် ငါသည် ထိုအရှင်မြတ်ဘက်သို့ပင် ပြန်လှည့်မည်ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 11,
+          "ayah": 88,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/011088.mp3"
+        },
+        "qurancom_url": "https://quran.com/11/88",
+        "context": {
+          "en": "The words of Prophet Shu'ayb (peace be upon him) addressing his people, showing his total reliance on Allah despite their opposition.",
+          "my": "တမန်တော် ရှုအိုင်းဗ် (အလိုင်ဟိစ်စလာမ်) က မိမိ၏လူမျိုးများအား ပြောကြားခဲ့သော စကားဖြစ်ပြီး၊ ၎င်းတို့၏ ဆန့်ကျင်မှုများကြားမှ အလ္လာဟ်အရှင်မြတ်အပေါ် အကြွင်းမဲ့ ယုံကြည်ကိုးစားမှုကို ပြသနေသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "عَلَيْهِ",
+            "translit": "‘alayhi",
+            "en": "Upon Him",
+            "my": "ကိုယ်တော့်အပေါ်၌",
+            "role_en": "Prepositional Phrase (Fronted)",
+            "role_my": "ရှေ့ပြေးပုဒ်တွဲ (ရှေ့ရောက်)",
+            "root": "ع ل ي",
+            "freq": 100
+          },
+          {
+            "ar": "تَوَكَّلْتُ",
+            "translit": "tawakkaltu",
+            "en": "I relied",
+            "my": "ကျွန်ုပ်ယုံကြည်ကိုးစားခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "و ك ل",
+            "freq": 8
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The dual Taqdim (Fronting) of 'Alayhi' and 'Ilayhi' creates a perfect rhetorical balance, sealing the exclusivity of reliance and repentance.",
+          "structure_my": "'Alayhi' နှင့် 'Ilayhi' နှစ်ခုစလုံးကို ရှေ့သို့ ပို့ထားခြင်းသည် ယုံကြည်ကိုးစားမှုနှင့် နောင်တတရားတို့သည် အလ္လာဟ်အရှင်မြတ် တစ်ပါးတည်းအတွက်သာဖြစ်ကြောင်း အလင်္ကာမြောက်စွာ ပုံဖော်ထားသည်။",
+          "insight_en": "If the word order were reversed (Tawakkaltu alayhi), it would not emphasize that the trust is ONLY for Allah.",
+          "insight_my": "အကယ်၍ 'Tawakkaltu alayhi' ဟုသာ ဆိုပါက 'ကျွန်ုပ်သည် ကိုယ်တော့်ကို ကိုးစားသည်' ဟုသာ အဓိပ္ပာယ်ရပြီး အခြားသူများကိုပါ ကိုးစားနိုင်သည့်သဘော သက်ရောက်သွားနိုင်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "و ك ل",
+            "concept_en": "To leave one's affairs in the hands of a capable trustee.",
+            "concept_my": "မိမိ၏ ကိစ္စရပ်များကို တတ်စွမ်းနိုင်သူ၏ လက်ထဲသို့ အပ်နှံခြင်း",
+            "members": [
+              {
+                "ar": "وَكِيل",
+                "en": "trustee/guardian",
+                "my": "တာဝန်ယူစောင့်ရှောက်သူ",
+                "freq": 24
+              }
+            ],
+            "professors_note": "Tawakkul is the action; Ikhtisas in the sentence ensures the Target of that action is purely Divine."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ ဘဝခရီးလမ်းတွင် အခက်အခဲများစွာ ရှိသည်။ ထိုအခါမျိုးတွင် 'အလိုင်းဟိ သဝက္ကလ်သု' ဟု ဆိုလိုက်ခြင်းဖြင့် 'ကျွန်ုပ်သည် ကိုယ်တော့်ကိုသာလျှင် အားကိုးပါသည်' ဟူသော စိတ်ဓာတ်ခွန်အားကို ရရှိစေသည်။ ဤအလင်္ကာပညာက ကျွန်ုပ်တို့အား အခြားသော ဖန်ဆင်းခံများထံတွင် မျှော်လင့်ချက်မထားဘဲ ဖန်ဆင်းရှင်ထံတွင်သာ အစပြု၍ အဆုံးသတ်ရန် သင်ကြားပေးပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The rhythm is balanced: Two beats of fronted phrases followed by two beats of verbs.",
+          "meaning_anchor": "Think of two arrows both pointing back to the same source (Allah).",
+          "daily_connection": "A perfect dhikr to recite when starting any task or when seeking forgiveness.",
+          "my": "အလုပ်တစ်ခုစတိုင်း သို့မဟုတ် စိတ်ညစ်သည့်အခါ ဤစာသားကို ရွတ်ဖတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we explored Ikhtisas, the theological weight of fronting. We saw how the Quran uses word order to define our relationship with Allah—showing that trust, return, and power belong exclusively to Him.",
+      "my": "ဤသင်ခန်းစာတွင် 'အစ်ခ်သီဆွာစ်' ခေါ် ရှေ့နောက်ပြောင်းလဲခြင်း၏ ဘာသာရေးဆိုင်ရာ အလေးပေးမှုကို လေ့လာခဲ့သည်။ ကုရ်အာန်ကျမ်းတော်မြတ်သည် စကားလုံးအစီအစဉ်ကို သုံး၍ ကျွန်ုပ်တို့၏ ယုံကြည်ကိုးစားမှု၊ ပြန်လည်ရာအရပ်နှင့် စွမ်းအားတော်တို့သည် အလ္လာဟ်အရှင်မြတ် တစ်ပါးတည်းထံ၌သာ ရှိကြောင်းကို မည်သို့ဖော်ပြထားသည်ကို တွေ့ရှိခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-265",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 265,
+    "title": {
+      "ar": "التَّقْدِيمُ وَالتَّأْخِيرُ (٣) — أَسْرَارُ التَّرْتِيبِ",
+      "en": "Rhetoric XV — Quranic Word Order Choices",
+      "my": "အလင်္ကာပညာ (၁၅) — ကုရ်အာန်ရှိ စကားလုံးအစီအစဉ်၏ လျှို့ဝှက်ချက်များ"
+    },
+    "meta": {
+      "study_time_minutes": 90,
+      "vocab_time": 15,
+      "grammar_time": 25,
+      "deep_study_time": 50,
+      "vocab_count": 8,
+      "grammar_focus": "Why does Quran put Jarr before verb? Why Zarf before Fa'il?",
+      "grammar_formula": "Context/Location (First) + Action (Second) = Environmental Focus"
+    },
+    "section_1_vocab": [
+      {
+        "word": "بِسْمِ",
+        "translit": "bismi",
+        "en": "In the name of",
+        "my": "နာမတော်ဖြင့်",
+        "quran_freq": 3,
+        "word_type": "Particle + Noun",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "س م و",
+          "concept_en": "naming or highness",
+          "concept_my": "အမည်ပေးခြင်း သို့မဟုတ် မြင့်မြတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Bis (Twice/Start)",
+          "image": "Beginning every action with a blessed label",
+          "cross_language": "Bismillah is universal"
+        },
+        "word_family": [
+          {
+            "ar": "اسْم",
+            "translit": "ism",
+            "en": "name",
+            "my": "အမည်",
+            "freq": 19
+          }
+        ],
+        "pattern_unlock": "The 'Bi-' (with/in) is fronted in Bismillah to show that the action only begins through His name.",
+        "example": {
+          "ar": "بِسْمِ اللَّهِ",
+          "en": "In the name of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ နာမတော်ဖြင့်",
+          "ref": "1:1"
+        }
+      },
+      {
+        "word": "سَبِيل",
+        "translit": "sabīl",
+        "en": "path/way",
+        "my": "လမ်း / လမ်းစဉ်",
+        "quran_freq": 176,
+        "word_type": "Noun",
+        "gender": "Masculine/Feminine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "س ب ل",
+          "concept_en": "pathway or flowing",
+          "concept_my": "လမ်းကြောင်း သို့မဟုတ် စီးဆင်းမှု"
+        },
+        "memory_hook": {
+          "sound": "Sabel (Sword/Path)",
+          "image": "A long road stretching into the distance",
+          "cross_language": "Sabil-illah is a common Myanmar Muslim term"
+        },
+        "word_family": [
+          {
+            "ar": "سُبُل",
+            "translit": "subul",
+            "en": "paths",
+            "my": "လမ်းများ",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "Often used in 'Fi Sabilillah' (In the path of Allah).",
+        "example": {
+          "ar": "فِي سَبِيلِ اللَّهِ",
+          "en": "In the way of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ လမ်းစဉ်၌",
+          "ref": "2:190"
+        }
+      },
+      {
+        "word": "عِنْدَ",
+        "translit": "‘inda",
+        "en": "with/near/at",
+        "my": "ထံ၌ / အနီး၌",
+        "quran_freq": 197,
+        "word_type": "Adverb (Zarf)",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ع ن د",
+          "concept_en": "presence or location",
+          "concept_my": "ရှိနေခြင်း သို့မဟုတ် တည်နေရာ"
+        },
+        "memory_hook": {
+          "sound": "In-the (at that place)",
+          "image": "Standing right next to someone",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "When 'Inda' is fronted, it emphasizes the source or location of a blessing.",
+        "example": {
+          "ar": "عِندَ اللَّهِ",
+          "en": "with Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ထံတော်၌",
+          "ref": "3:19"
+        }
+      },
+      {
+        "word": "رِزْق",
+        "translit": "rizq",
+        "en": "provision/sustenance",
+        "my": "ရိက္ခာ / အထောက်အပံ့",
+        "quran_freq": 123,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ر ز ق",
+          "concept_en": "bestowal of livelihood",
+          "concept_my": "စားဝတ်နေရေးအတွက် ပေးသနားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ris-q (Risk - but God provides)",
+          "image": "A plate of food appearing when needed",
+          "cross_language": "Rizqi in Malay/Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "يَرْزُقُ",
+            "translit": "yarzuqu",
+            "en": "He provides",
+            "my": "ကိုယ်တော်သည် ရိက္ခာပေးသနားသည်",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "Used with 'Mimma' (from what) fronted to show the source of giving.",
+        "example": {
+          "ar": "وَمِمَّا رَزَقْنَاهُمْ",
+          "en": "and from what We have provided them",
+          "my": "ငါအရှင်မြတ် ပေးသနားထားသော ရိက္ခာများထဲမှ",
+          "ref": "2:3"
+        }
+      },
+      {
+        "word": "لَعَلَّ",
+        "translit": "la‘alla",
+        "en": "perhaps/so that",
+        "my": "ဖြစ်ကောင်းဖြစ်နိုင်သည် / သို့မှသာ",
+        "quran_freq": 129,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ل ع ل",
+          "concept_en": "hope or expectation",
+          "concept_my": "မျှော်လင့်ချက်"
+        },
+        "memory_hook": {
+          "sound": "La-Alla (For Allah - doing it so that...)",
+          "image": "A bridge leading to a goal",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Always followed by a noun or pronoun in the Mansub state.",
+        "example": {
+          "ar": "لَعَلَّكُمْ تَتَّقُونَ",
+          "en": "so that you may become righteous",
+          "my": "သင်တို့ သတိတရားရရှိစိမ့်သောငှာ (သို့မဟုတ်) သက္ကဝါတရား ပိုမိုရှိလာစိမ့်သောငှာ",
+          "ref": "2:21"
+        }
+      },
+      {
+        "word": "خَلَقَ",
+        "translit": "khalaqa",
+        "en": "He created",
+        "my": "ကိုယ်တော်ဖန်ဆင်းတော်မူသည်",
+        "quran_freq": 261,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "خ ل ق",
+          "concept_en": "creating from nothing or shaping",
+          "concept_my": "မရှိရာမှ ဖန်ဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khalaq (Common term)",
+          "image": "A potter shaping clay",
+          "cross_language": "Khaliq (Creator) is a common Myanmar name"
+        },
+        "word_family": [
+          {
+            "ar": "خَلْق",
+            "translit": "khalq",
+            "en": "creation",
+            "my": "ဖန်ဆင်းခံ",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "Most common verb for Divine action in the Quran.",
+        "example": {
+          "ar": "خَلَقَ الْإِنسَانَ",
+          "en": "He created man",
+          "my": "ကိုယ်တော်သည် လူသားကို ဖန်ဆင်းတော်မူသည်",
+          "ref": "96:2"
+        }
+      },
+      {
+        "word": "نُور",
+        "translit": "nūr",
+        "en": "light",
+        "my": "အလင်းရောင်",
+        "quran_freq": 194,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ن و ر",
+          "concept_en": "illumination and guidance",
+          "concept_my": "တောက်ပခြင်း နှင့် လမ်းပြခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Noor (Common name)",
+          "image": "A lantern in the dark",
+          "cross_language": "Noor is used in Myanmar names"
+        },
+        "word_family": [
+          {
+            "ar": "مُنِير",
+            "translit": "munīr",
+            "en": "illuminating",
+            "my": "လင်းလက်စေသော",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "Often contrasted with 'Zulumat' (darkness).",
+        "example": {
+          "ar": "نُورٌ عَلَىٰ نُورٍ",
+          "en": "Light upon light",
+          "my": "အလင်းပေါ်ဝယ် အလင်းဆင့်လျက်",
+          "ref": "24:35"
+        }
+      },
+      {
+        "word": "يُضِلُّ",
+        "translit": "yuḍillu",
+        "en": "He leads astray",
+        "my": "ကိုယ်တော်သည် လမ်းမှားစေသည်",
+        "quran_freq": 50,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفْعِلُ",
+        "root": {
+          "letters": "ض ل ل",
+          "concept_en": "losing the way",
+          "concept_my": "လမ်းပျောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Yu-Dill (You're dull/lost)",
+          "image": "A person wandering in a maze",
+          "cross_language": "Dhallin (those astray) in Fatiha"
+        },
+        "word_family": [
+          {
+            "ar": "ضَلَال",
+            "translit": "ḍalāl",
+            "en": "error",
+            "my": "လမ်းမှားခြင်း",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Form IV (If'al) here means causing someone to be in the state of the root.",
+        "example": {
+          "ar": "يُضِلُّ مَن يَشَاءُ",
+          "en": "He leads astray whom He wills",
+          "my": "ကိုယ်တော်သည် အလိုရှိသူအား လမ်းမှားစေတော်မူသည်",
+          "ref": "16:93"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أَسْرَارُ التَّرْتِيبِ فِي الْقُرْآن",
+        "en": "Secrets of Quranic Word Order",
+        "my": "ကုရ်အာန်ရှိ စကားလုံးအစီအစဉ်၏ လျှို့ဝှက်ချက်များ"
+      },
+      "formula": {
+        "display": "Prepositional Phrase (Fi/Bi/Min) + Action (Verb)",
+        "example": "بِسْمِ اللَّهِ نَبْدَأُ (In Allah's name we start)",
+        "myanmar_read": "လုပ်ဆောင်ချက်ထက် အကြောင်းခံ သို့မဟုတ် နေရာကို အရင်ပြခြင်း",
+        "key_insight": "In the Quran, word order is not random; it reflects the hierarchy of importance and the spiritual sequence of events."
+      },
+      "explanation": {
+        "en": "The Quran often places the 'Jarr wa Majrur' (prepositional phrase) before the verb. For example, in 'Bismillah,' the verb (I read/I start) is hidden and delayed. This places the focus entirely on Allah's Name as the necessary precursor to any action. Similarly, placing 'Fi Sabilillah' before an action emphasizes that the motive (for Allah) is more important than the physical act itself.",
+        "my": "ကုရ်အာန်တွင် ကြိယာထက် ရှေ့ပြေးပုဒ်တွဲ (ဥပမာ- အလ္လာဟ်၏လမ်း၌) ကို အရင်ထားလေ့ရှိသည်။ ဥပမာ- 'ဗစ်စ်မိလ္လာဟ်' တွင် 'စတင်ပါသည်' ဟူသော ကြိယာကို ဖျောက်ပစ်ပြီး 'အလ္လာဟ်၏ နာမတော်ဖြင့်' ကို အရင်ထားခြင်းမှာ အရှင်မြတ်၏ အမည်တော်သည် မည်သည့်လုပ်ဆောင်ချက်ထက်မဆို ပို၍အရေးကြီးကြောင်း ပြသရန်ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese often puts the adverbial phrase at the beginning (ဥပမာ- 'ဘုရားသခင်၏ နာမတော်ဖြင့်...'). This matches the Quranic rhetorical style of setting the 'frame' before the 'picture'.",
+        "my": "မြန်မာစကားတွင်လည်း 'ဘုရားသခင်၏ နာမတော်ဖြင့် ကျွန်ုပ်စတင်ပါသည်' ဟု နာမတော်ကို ရှေ့ဆုံးမှ ထားလေ့ရှိသည်မှာ ကုရ်အာန်၏ အလင်္ကာမြောက် အစီအစဉ်နှင့် ဆင်တူပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Priority of Motive: Placing 'Fi Sabilillah' (In Allah's way) first shows the intention is the primary concern.",
+          "rule_my": "ရည်ရွယ်ချက်ကို အလေးထားခြင်း- 'အလ္လာဟ်၏လမ်း၌' ကို ရှေ့တင်ခြင်းသည် စိတ်ရင်းစေတနာကို အလေးပေးခြင်းဖြစ်သည်။",
+          "example": {
+            "ar": "فِي سَبِيلِ اللَّهِ يُنْفِقُونَ",
+            "en": "In the way of Allah they spend",
+            "my": "အလ္လာဟ်အရှင်မြတ်၏ လမ်းစဉ်၌ ၎င်းတို့သည် သုံးစွဲကြသည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "The Delayed Verb: When the verb is at the end, it makes the listener wait in anticipation, focusing on the context first.",
+          "rule_my": "ကြိယာကို နောက်ဆုတ်ခြင်း- နားထောင်သူအား အခြေအနေကို အရင်အာရုံစိုက်စေပြီးမှ လုပ်ဆောင်ချက်ကို ဖော်ပြသည်။",
+          "example": {
+            "ar": "وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
+            "en": "And of the Hereafter they are certain",
+            "my": "နောင်တမလွန်နှင့် ပတ်သက်၍ ၎င်းတို့သည် အကြွင်းမဲ့ယုံကြည်ကြသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+          "en": "In the name of Allah, the Entirely Merciful, the Especially Merciful.",
+          "my": "အနန္တကရုဏာတော်ရှင် ဖြစ်တော်မူသော အလွန်သနားကြင်နာတော်မူသော အလ္လာဟ် အရှင်မြတ်၏နာမတော်ဖြင့်(ကျွန်ုပ်အစပြုပါသည်)။",
+          "ref": "1:1",
+          "breakdown": {
+            "subject": {
+              "word": "بِسْمِ",
+              "en": "In the name",
+              "note": "Prepositional phrase fronted"
+            },
+            "predicate": {
+              "word": "[أَبْدَأُ]",
+              "en": "[I begin]",
+              "note": "Hidden/Delayed verb for maximum focus on Allah"
+            }
+          },
+          "myanmar_insight": "ဗစ်စ်မိလ္လာဟ်တွင် 'ကျွန်ုပ်ဖတ်ပါသည်' သို့မဟုတ် 'ကျွန်ုပ်စတင်ပါသည်' ဟူသော စကားလုံး မပါဝင်သော်လည်း အလိုအလျောက် သက်ရောက်နေသည်။ အရှင်မြတ်၏ နာမတော်ကို ရှေ့ဆုံး၌ ထားခြင်းမှာ မင်္ဂလာအပေါင်းနှင့် ပြည့်စုံစေရန် ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Ignoring the sequence as 'just grammar'",
+          "wrong": {
+            "ar": "بِسْمِ اللَّهِ",
+            "note": "Thinking it's just a label"
+          },
+          "correct": {
+            "ar": "بِسْمِ اللَّهِ",
+            "en": "The starting point of all energy",
+            "my": "လုပ်ဆောင်ချက်တိုင်း၏ အစပြုရာ အရင်းအမြစ်"
+          },
+          "myanmar_tip": "ကုရ်အာန်မှာ ဘာလို့ ဒီစကားလုံးကို အရင်လာစေတာလဲဆိုတာကို အမြဲစဉ်းစားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "What part of the sentence is fronted in 'Fi Sabilillah' phrases?",
+          "instruction_my": "'Fi Sabilillah' ပါသော စာကြောင်းများတွင် မည်သည့်အပိုင်းကို ရှေ့သို့ ပို့ထားသနည်း။",
+          "questions": [
+            {
+              "q": "فِي سَبِيلِ اللَّهِ يُقَاتِلُونَ",
+              "answer_en": "Jarr wa Majrur (The Path/Motive)",
+              "answer_my": "ဂျရ် ဝါ မဂျ်ရူးရ် (လမ်းစဉ် သို့မဟုတ် ရည်ရွယ်ချက်)",
+              "ref": "4:76"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate and explain why the location is first",
+          "instruction_my": "ဘာသာပြန်ပြီး တည်နေရာကို အဘယ်ကြောင့် ရှေ့ဆုံး၌ ထားရသနည်းဟု ရှင်းပြပါ",
+          "questions": [
+            {
+              "q": "عِنْدَ رَبِّهِمْ يُرْزَقُونَ",
+              "answer_en": "With their Lord they are provided for",
+              "answer_my": "၎င်းတို့၏ အရှင်မြတ်ထံတော်၌ ၎င်းတို့သည် ရိက္ခာပေးသနားခြင်း ခံရကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Move the Jarr phrase 'Bil-Haqqi' to the front of 'Anzalnahu'",
+          "instruction_my": "'Bil-Haqqi' ကို 'Anzalnahu' ၏ ရှေ့သို့ ပို့၍ ကုရ်အာန်ပုံစံအတိုင်း ရေးပါ",
+          "questions": [
+            {
+              "q": "أَنْزَلْنَاهُ بِالْحَقِّ",
+              "answer_en": "Bil-Haqqi Anzalnahu",
+              "answer_my": "ဗိလ်ဟက္ကီ အန်ဇလ်နာဟု",
+              "ar": "بِالْحَقِّ أَنزَلْنَاهُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Quranic word order is a map for the soul. It teaches us that the 'Who' (Allah) and the 'Why' (His Way) must always precede the 'What' (our actions).",
+        "my": "ကုရ်အာန်၏ စကားလုံးအစီအစဉ်သည် ဝိညာဉ်အတွက် မြေပုံတစ်ခုဖြစ်သည်။ ၎င်းသည် ကျွန်ုပ်တို့အား 'ဘယ်သူ့အတွက်လဲ' (အလ္လာဟ်) နှင့် 'ဘာကြောင့်လဲ' (ကိုယ်တော့်လမ်းစဉ်) သည် 'ဘာလုပ်သလဲ' (ကျွန်ုပ်တို့၏ လုပ်ရပ်) ထက် အမြဲဦးpriority ရှိရမည်ဖြစ်ကြောင်း သင်ကြားပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:3",
+        "study_number": 1,
+        "arabic_full": "وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+        "en_sahih": "...and from what We have provided them, they spend.",
+        "my_mmsy": "ထိုမုသ်သကီန်များသည် (ကုရ်အာန်က ပြဆိုထားသည့်) အကွယ်မှအရာများ  ကို(အမှန်ဖြစ်သည်၊ တည်ရှိသည်ဟု) ယုံကြည်  ကြပြီး ၎င်းတို့သည် စွလာသ်  ဝတ်ပြုဆောက်တည်ကြသည့်အပြင် ၎င်းတို့သည် ငါအရှင် ၎င်းတို့အား ပေးသနားထားတော်မူသော ပစ္စည်းဥစ္စာများထဲမှ (အချို့ကိုလည်း) လှူဒါန်းကြသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 3,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002003.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/3",
+        "context": {
+          "en": "Part of the description of the Muttaqin (the God-conscious) at the beginning of Surah Al-Baqarah.",
+          "my": "စူရာဟ် ဗကရဟ်၏ အစပိုင်းတွင် ပါရှိသော မွတ်သကီးန် (သက္ကဝါတရားရှိသူများ) ၏ အရည်အချင်းများအနက် တစ်ခုဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "وَمِمَّا",
+            "translit": "wamimmā",
+            "en": "and from what",
+            "my": "ပေးသနားထားသောအရာများထဲမှလည်း",
+            "role_en": "Preposition + Relative Pronoun",
+            "role_my": "ရှေ့ပြေးပုဒ် + ဆက်စပ်နာမ်စား",
+            "root": "م ن",
+            "freq": 1000
+          },
+          {
+            "ar": "يُنفِقُونَ",
+            "translit": "yunfiqūn",
+            "en": "they spend",
+            "my": "၎င်းတို့သုံးစွဲကြသည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ن ف ق",
+            "freq": 30
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The phrase 'Mimma razaqnahum' (From what We provided them) is fronted before the verb 'yunfiqun' (they spend).",
+          "structure_my": "'Mimma razaqnahum' (ငါအရှင်မြတ် ပေးသနားထားသောအရာများမှ) ကို 'yunfiqun' (၎င်းတို့သုံးစွဲကြသည်) ဟူသော ကြိယာ၏ ရှေ့သို့ ပို့ထားသည်။",
+          "insight_en": "Rhetorically, this reminds the believer that the wealth being spent actually belongs to Allah. It emphasizes the source (Divine gift) before the action (charity).",
+          "insight_my": "ဤသို့ ရှေ့နောက်ပြောင်းထားခြင်းမှာ သင်လှူဒါန်းနေသောအရာသည် အမှန်တကယ်တွင် အလ္လာဟ်အရှင်မြတ် ပေးသနားထားသောအရာသာ ဖြစ်ကြောင်း သတိပေးရန်ဖြစ်သည်။ လှူဒါန်းခြင်းထက် ထိုပစ္စည်း၏ မူလပိုင်ရှင်ကို အရင်အာရုံစိုက်စေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ن ف ق",
+            "concept_en": "The act of giving or spending until a resource is used up, like an animal leaving its burrow.",
+            "concept_my": "အရင်းအမြစ်တစ်ခု ကုန်သွားသည်အထိ ပေးကမ်းခြင်း သို့မဟုတ် သုံးစွဲခြင်း",
+            "members": [
+              {
+                "ar": "إِنْفَاق",
+                "en": "spending",
+                "my": "လှူဒါန်းခြင်း",
+                "freq": 10
+              }
+            ],
+            "professors_note": "Spending (Infaq) in the Quran is only praised when it follows the realization of the Source (Rizq)."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် လှူဒါန်းမှုပြုလုပ်သောအခါ 'ငါလှူလိုက်ပြီ' ဟု မာန်တက်တတ်ကြသည်။ သို့သော် ဤအာယသ်တော်၏ စကားလုံးအစီအစဉ်အရ 'အလ္လာဟ်ပေးထားတာကို လှူတာပါ' ဟူသော နှိမ့်ချမှုကို ရရှိစေသည်။ အလ္လာဟ်အရှင်မြတ်က ရှေးဦးစွာ ပေးသနားထားခြင်း မရှိလျှင် ကျွန်ုပ်တို့တွင် လှူစရာရှိမည်မဟုတ်ပါ။ ထို့ကြောင့် အလှူဒါနပြုတိုင်း အရှင်မြတ်၏ ကျေးဇူးတော်ကို အရင်မြင်တတ်ရန် ဤသင်ခန်းစာက လမ်းပြနေသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The nasal 'm' sound in 'Mimma' flows smoothly into the 'n' in 'yunfiqun'.",
+          "meaning_anchor": "Visualize water being poured out of a container that Allah filled first.",
+          "daily_connection": "Recite when giving Zakat or Sadaqah to keep the intention pure and the ego low.",
+          "my": "လှူဒါန်းမှုပြုသည့်အခါတိုင်း ဤအာယသ်တော်ကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this final lesson on Taqdim, we looked at the divine wisdom behind specific word order choices in the Quran. We learned that placing the Source, the Path, or the Name before the action aligns the believer's mindset with spiritual reality.",
+      "my": "Taqdim ဆိုင်ရာ နောက်ဆုံးသင်ခန်းစာတွင် ကုရ်အာန်၏ စကားလုံးအစီအစဉ်နောက်ကွယ်မှ ထူးခြားသော ဉာဏ်ပညာများကို လေ့လာခဲ့သည်။ အရင်းအမြစ်၊ လမ်းစဉ် သို့မဟုတ် နာမတော်ကို လုပ်ဆောင်ချက်ထက် အရင်ထားခြင်းသည် ယုံကြည်သူ၏ စိတ်နေစိတ်ထားကို ဝိညာဉ်ရေးရာ အမှန်တရားနှင့် ကိုက်ညီစေကြောင်း သိရှိခဲ့ရသည်။"
+    }
+  }
+]

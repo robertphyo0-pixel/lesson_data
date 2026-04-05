@@ -1,0 +1,2272 @@
+[
+  {
+    "lesson_id": "L6-281",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 281,
+    "title": {
+      "ar": "تَصْرِيفُ الْجُذُورِ النَّادِرَةِ",
+      "en": "Rhetoric XXXI — Sarf of Rare Roots: Morphology of Unique Words",
+      "my": "ရှားပါးသော ရစ်သမ်နှင့် ရုဒ်ဗျည်းများအား လေ့လာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 90,
+      "vocab_time": 20,
+      "grammar_time": 25,
+      "deep_study_time": 45,
+      "vocab_count": 10,
+      "grammar_focus": "Applying morphological analysis to rare Quranic words",
+      "grammar_formula": "Rare Root + Standard Wazn = Specialized Meaning"
+    },
+    "section_1_vocab": [
+      {
+        "word": "كَبْكَبَ",
+        "translit": "kabkaba",
+        "en": "to be overturned / hurled",
+        "my": "ဇောက်ထိုးပစ်ချခြင်းခံရသည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعْلَلَ",
+        "root": {
+          "letters": "ك ب ك ب",
+          "concept_en": "to throw headlong",
+          "concept_my": "ဇောက်ထိုးပစ်ချခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kab-Kab sounds like a heavy object tumbling down",
+          "image": "An object falling end-over-end repeatedly",
+          "cross_language": "Similar to Urdu 'Kabab' (turning over on a grill)"
+        },
+        "word_family": [
+          {
+            "ar": "مُكِبّ",
+            "translit": "mukibb",
+            "en": "one falling headlong",
+            "my": "မျက်နှာဖြင့်မှောက်လျက်လဲသူ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The repetition of the root (K-B-K-B) indicates a repeated or forceful action.",
+        "example": {
+          "ar": "فَكُبْكِبُوا فِيهَا",
+          "en": "So they will be overturned into it",
+          "my": "ထိုငရဲထဲသို့ သူတို့သည် ဇောက်ထိုးပစ်ချခြင်းခံရမည်",
+          "ref": "26:94"
+        }
+      },
+      {
+        "word": "فَتَرَدَّىٰ",
+        "translit": "fataraddā",
+        "en": "he falls / perishes",
+        "my": "သူသည် ကျဆင်းပျက်စီးသည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "تَفَعَّلَ",
+        "root": {
+          "letters": "ر د ي",
+          "concept_en": "to fall from a height",
+          "concept_my": "အမြင့်မှပြုတ်ကျခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Radda sounds like 'rudder' failing and falling",
+          "image": "Falling off a high cliff into a pit",
+          "cross_language": "Urdu 'Radd' (rejected/fallen)"
+        },
+        "word_family": [
+          {
+            "ar": "الْمُتَرَدِّيَة",
+            "translit": "al-mutaraddiyah",
+            "en": "animal killed by a fall",
+            "my": "အမြင့်မှပြုတ်ကျသေသောတိရစ္ဆာန်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Form V (Taf'ala) often implies the result of an action or a state being achieved.",
+        "example": {
+          "ar": "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ",
+          "en": "And what will his wealth avail him when he falls?",
+          "my": "သူပျက်စီးသွားသောအခါ (သို့) ပြုတ်ကျသွားသောအခါ သူ၏ဥစ္စာပစ္စည်းသည် သူ့အတွက် အကျိုးမပြုနိုင်ပါ",
+          "ref": "92:11"
+        }
+      },
+      {
+        "word": "ضِيزَىٰ",
+        "translit": "ḍīzā",
+        "en": "unfair / unjust",
+        "my": "မတရားသော / မမျှတသော",
+        "quran_freq": 1,
+        "word_type": "Adjective",
+        "gender": "Feminine",
+        "wazn": "فِعْلَى",
+        "root": {
+          "letters": "ض ي ز",
+          "concept_en": "to deviate or be unjust",
+          "concept_my": "မတရားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Deeza sounds like 'dizzy' from lack of balance",
+          "image": "A scale that is tilted heavily to one side",
+          "cross_language": "None"
+        },
+        "word_family": [
+          {
+            "ar": "ضازَ",
+            "translit": "ḍāza",
+            "en": "to be unjust",
+            "my": "မတရားပြုသည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This rare structure is used specifically to emphasize the absurdity of a claim.",
+        "example": {
+          "ar": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰ",
+          "en": "That, then, is an unjust division",
+          "my": "သို့ဖြစ်လျှင် ယင်းသို့ခွဲဝေခြင်းမှာ အလွန်မတရားသော ခွဲဝေမှုဖြစ်သည်",
+          "ref": "53:22"
+        }
+      },
+      {
+        "word": "عَسْعَسَ",
+        "translit": "‘as‘asa",
+        "en": "to depart / to approach (at night)",
+        "my": "ညအချိန်ဝင်ရောက်လာသည် (သို့) ထွက်ခွာသွားသည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعْلَلَ",
+        "root": {
+          "letters": "ع س ع س",
+          "concept_en": "the faint beginning or end of darkness",
+          "concept_my": "အမှောင်ထု၏အစ သို့မဟုတ် အဆုံး"
+        },
+        "memory_hook": {
+          "sound": "As-As sounds like a whispering wind at night",
+          "image": "Mist rolling in or out during the night",
+          "cross_language": "None"
+        },
+        "word_family": [
+          {
+            "ar": "عَسَس",
+            "translit": "asas",
+            "en": "night watchman",
+            "my": "ညစောင့်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Quadrilateral verbs (4 letters) with repeated roots often describe natural movements.",
+        "example": {
+          "ar": "وَاللَّيْلِ إِذَا عَسْعَسَ",
+          "en": "And by the night when it departs",
+          "my": "ထွက်ခွာသွားသောညကို အလ္လာဟ်အရှင်မြတ် ကျိန်ဆိုတော်မူ၏",
+          "ref": "81:17"
+        }
+      },
+      {
+        "word": "دَحَاهَا",
+        "translit": "daḥāhā",
+        "en": "He spread it out",
+        "my": "အရှင်မြတ်သည် ၎င်း(ကမ္ဘာမြေ)ကို ပြန့်ကားစေတော်မူ၏",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "د ح و",
+          "concept_en": "to spread, expand, or level",
+          "concept_my": "ပြန့်ကားစေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Daha sounds like 'Dah' (broad/wide in some dialects)",
+          "image": "An ostrich smoothing the sand for its egg",
+          "cross_language": "None"
+        },
+        "word_family": [
+          {
+            "ar": "مَدْحًى",
+            "translit": "madḥā",
+            "en": "place of spreading",
+            "my": "ပြန့်ကျယ်ရာနေရာ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The root implies an expansion that follows a circular or smooth path.",
+        "example": {
+          "ar": "وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا",
+          "en": "And after that He spread the earth",
+          "my": "ယင်းနောက် ကမ္ဘာမြေကို အရှင်မြတ် ပြန့်ကားစေတော်မူ၏",
+          "ref": "79:30"
+        }
+      },
+      {
+        "word": "يَتَسَنَّهْ",
+        "translit": "yatasannah",
+        "en": "to change with time",
+        "my": "အချိန်ကာလကြောင့် ပြောင်းလဲသွားခြင်း",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "تَفَعَّلَ",
+        "root": {
+          "letters": "س ن ه",
+          "concept_en": "passing of years / aging",
+          "concept_my": "နှစ်ကာလများကုန်လွန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sannah sounds like 'Sanah' (Year)",
+          "image": "Food decaying over many years",
+          "cross_language": "Sannah (Arabic for Year)"
+        },
+        "word_family": [
+          {
+            "ar": "سَنَة",
+            "translit": "sanah",
+            "en": "year",
+            "my": "နှစ်",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "The 'h' at the end is 'Ha of silence' (Ha-us-Sakt) added in the Quranic script.",
+        "example": {
+          "ar": "لَمْ يَتَسَنَّهْ",
+          "en": "It has not changed with time",
+          "my": "(သင်၏အစားအစာများမှာ) အချိန်ကာလကြောင့် ပြောင်းလဲပျက်စီးခြင်းမရှိသေးပေ",
+          "ref": "2:259"
+        }
+      },
+      {
+        "word": "قَسْوَرَة",
+        "translit": "qaswarah",
+        "en": "lion",
+        "my": "ခြင်္သေ့",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلَلَة",
+        "root": {
+          "letters": "ق س ر",
+          "concept_en": "force and overcoming",
+          "concept_my": "အင်အားနှင့် လွှမ်းမိုးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qas-wara sounds like 'Crush' + 'War'",
+          "image": "A powerful lion chasing its prey",
+          "cross_language": "Urdu 'Qasr' (palace/power)"
+        },
+        "word_family": [
+          {
+            "ar": "قَسْر",
+            "translit": "qasr",
+            "en": "compulsion",
+            "my": "အတင်းအဓမ္မပြုခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Rare nouns of this pattern often describe majestic or intense creatures.",
+        "example": {
+          "ar": "فَرَّتْ مِن قَسْوَرَةٍ",
+          "en": "Fleeing from a lion",
+          "my": "ခြင်္သေ့ထံမှ ထွက်ပြေးနေကြသော (မြည်းများကဲ့သို့)",
+          "ref": "74:51"
+        }
+      },
+      {
+        "word": "زَحْزَحَ",
+        "translit": "zaḥzaḥa",
+        "en": "to move away / remove",
+        "my": "ဖယ်ရှားပေးသည်",
+        "quran_freq": 2,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعْلَلَ",
+        "root": {
+          "letters": "ز ح ز ح",
+          "concept_en": "to nudge or move slightly but surely",
+          "concept_my": "တဖြည်းဖြည်းဖယ်ရှားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Zah-Zah sounds like dragging something heavy",
+          "image": "Pushing someone away from a fire",
+          "cross_language": "None"
+        },
+        "word_family": [
+          {
+            "ar": "مُزَحْزِح",
+            "translit": "muzaḥziḥ",
+            "en": "one who removes",
+            "my": "ဖယ်ရှားပေးသူ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Reduplicated quadrilaterals (R1-R2-R1-R2) show continuity in action.",
+        "example": {
+          "ar": "فَمَن زُحْزِحَ عَنِ النَّارِ",
+          "en": "So he who is drawn away from the Fire",
+          "my": "ငရဲမီးမှ ဖယ်ရှားခြင်းခံရသောသူသည် (အောင်မြင်သူဖြစ်သည်)",
+          "ref": "3:185"
+        }
+      },
+      {
+        "word": "نَقِيرًا",
+        "translit": "naqīran",
+        "en": "a speck / tiny groove",
+        "my": "အလွန်သေးငယ်သော အစက်အပြောက် / အမှုန်",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ن ق ر",
+          "concept_en": "to peck or pierce",
+          "concept_my": "ထိုးဖောက်ခြင်း သို့မဟုတ် အပေါက်ငယ်"
+        },
+        "memory_hook": {
+          "sound": "Na-qir sounds like a tiny 'knick'",
+          "image": "The tiny dent on the back of a date seed",
+          "cross_language": "None"
+        },
+        "word_family": [
+          {
+            "ar": "نَاقُور",
+            "translit": "nāqūr",
+            "en": "trumpet",
+            "my": "တံပိုးခရာ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Fa'eel pattern for nouns can denote a small portion of something.",
+        "example": {
+          "ar": "وَلَا يُظْلَمُونَ نَقِيرًا",
+          "en": "And they will not be wronged even as much as a speck",
+          "my": "သူတို့သည် အနည်းငယ်မျှပင် မတရားပြုခြင်းခံရမည်မဟုတ်ပေ",
+          "ref": "4:124"
+        }
+      },
+      {
+        "word": "حَصْحَصَ",
+        "translit": "ḥaṣḥaṣa",
+        "en": "to become manifest / clear",
+        "my": "အမှန်တရားပေါ်လွင်လာသည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعْلَلَ",
+        "root": {
+          "letters": "ح ص ح ص",
+          "concept_en": "to become distinct like pebbles in sand",
+          "concept_my": "သဲထဲမှကျောက်ခဲများကဲ့သို့ ထင်ရှားလာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Has-Has sounds like something settling down",
+          "image": "Dust settling to reveal the floor",
+          "cross_language": "None"
+        },
+        "word_family": [
+          {
+            "ar": "حَصْبَاء",
+            "translit": "ḥasbā'",
+            "en": "pebbles",
+            "my": "ကျောက်ခဲငယ်များ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Another R1-R2-R1-R2 pattern, showing the definitive nature of the truth emerging.",
+        "example": {
+          "ar": "الْآنَ حَصْحَصَ الْحَقُّ",
+          "en": "Now the truth has become manifest",
+          "my": "ယခုမူကား အမှန်တရားသည် ထင်ရှားပေါ်လွင်လာပြီဖြစ်သည်",
+          "ref": "12:51"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الصَّرْفُ لِلْكَلِمَاتِ النَّادِرَةِ",
+        "en": "Morphology of Rare Roots",
+        "my": "ရှားပါးသောစကားလုံးများ၏ ရုဒ်ဗျည်းဖွဲ့စည်းပုံ"
+      },
+      "formula": {
+        "display": "Root (R1-R2-R1-R2) + Harakat = Semantic Emphasis",
+        "example": "ح + ص + ح + ص = حَصْحَصَ",
+        "myanmar_read": "ရှားပါးသော ရုဒ်ဗျည်းများကို ပုံမှန် ဝါ့ဇ် (Wazn) များတွင် ထည့်သွင်းစဉ်းစားခြင်း",
+        "key_insight": "Rare words in the Quran follow standard Sarf rules; their rarity lies in the root usage, not the grammar rules."
+      },
+      "explanation": {
+        "en": "While the Quran uses many common roots, it also contains specialized 'rare' roots (Gharib al-Quran). These words often utilize the Rubai' (4-letter) system or specialized patterns to convey intense, unique, or visual meanings that common roots cannot express. Understanding the morphology of these words allows us to unlock deeper rhetorical secrets of the text.",
+        "my": "ကုရ်အာန်ကျမ်းစာတွင် အသုံးများသော ရုဒ်ဗျည်းများအပြင် 'ဂရီးဗ်' ခေါ် ရှားပါးသော ရုဒ်ဗျည်းများကိုလည်း အသုံးပြုထားသည်။ ဤစကားလုံးများသည် အများအားဖြင့် လေးလုံးတွဲ (Rubai) စနစ် သို့မဟုတ် အထူးပုံစံများကို အသုံးပြု၍ သာမန်စကားလုံးများက မဖော်ပြနိုင်သော လေးနက်သည့် အနက်အဓိပ္ပာယ်များကို ဖော်ဆောင်သည်။ ဤစကားလုံးများ၏ တည်ဆောက်ပုံကို နားလည်ခြင်းဖြင့် ကုရ်အာန်၏ အံ့ဖွယ်အနက်များကို ပိုမိုသိရှိနိုင်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to how Burmese uses specialized Pali-derived terms for high literature that are not used in daily speech.",
+        "my": "မြန်မာစာပေတွင် နေ့စဉ်သုံးစကား၌ မသုံးသော်လည်း ခန့်ညားထည်ဝါသောစာပေ၌သုံးသည့် ပါဠိသက်ဝေါဟာရများကဲ့သို့ ဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Reduplicated roots (R1-R2-R1-R2) usually indicate frequency or intensity of action.",
+          "rule_my": "ရုဒ်ဗျည်းနှစ်လုံးကို နှစ်ကြိမ်စီပြန်ကျော့သုံးခြင်းသည် လုပ်ဆောင်ချက်၏ ပြင်းထန်မှု သို့မဟုတ် အကြိမ်ကြိမ်ဖြစ်ပွားမှုကို ပြဆိုသည်။",
+          "example": {
+            "ar": "زَلْزَلَ",
+            "en": "shook violently",
+            "my": "ပြင်းထန်စွာတုန်ခါစေသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+          "en": "When the earth is shaken with its [final] earthquake",
+          "my": "(၁) မြေပထဝီသည် ၎င်းကို သွက်သွက်ခါ တုန်လှုပ်စေခြင်းနှင့် တုန်လှုပ်စေခြင်းခံရသောအခါ၊  ၁",
+          "ref": "99:1",
+          "breakdown": {
+            "subject": {
+              "word": "الْأَرْضُ",
+              "en": "the earth",
+              "note": "Definite noun"
+            },
+            "predicate": {
+              "word": "زُلْزِلَتِ",
+              "en": "is shaken",
+              "note": "Passive voice of rare root Z-L-Z-L"
+            }
+          },
+          "myanmar_insight": "မြန်မာဘာသာတွင် 'တုန်လှုပ်သည်' ထက်ပိုသော 'ဇလ်ဇလာ' ဟူသော ပြင်းထန်သည့်တုန်ခါမှုကို မြင်အောင်ကြည့်ပါ။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking rare words don't follow Sarf patterns.",
+          "wrong": {
+            "ar": "عَسْعَسَ",
+            "note": "Thinking it is a static word with no root."
+          },
+          "correct": {
+            "ar": "ع + س",
+            "en": "It follows the Fa'lala pattern.",
+            "my": "၎င်းသည် ဖာ့လာ့လာ့ (Fa'lala) ပုံစံကို လိုက်နာသည်။"
+          },
+          "myanmar_tip": "စကားလုံးအသစ်တွေ့တိုင်း ရုဒ်ဗျည်းကို အရင်ရှာပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the rare root in each word",
+          "instruction_my": "အောက်ပါစကားလုံးများ၏ ရုဒ်ဗျည်းများကို ဖော်ပြပါ",
+          "questions": [
+            {
+              "q": "كَبْكَبَ",
+              "answer_en": "K-B-K-B",
+              "answer_my": "က-ဗ-က-ဗ",
+              "ref": "26:94"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the phrase",
+          "instruction_my": "အောက်ပါစာသားကို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "حَصْحَصَ الْحَقُّ",
+              "answer_en": "The truth has become manifest",
+              "answer_my": "အမှန်တရားသည် ထင်ရှားပေါ်လွင်လာပြီ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Apply the pattern Fa'lala to the root W-S-W-S",
+          "instruction_my": "ဝါ့စ်-ဝါ့စ် ရုဒ်ဗျည်းကို ဖာ့လာ့လာ့ ပုံစံဖြင့် ရေးပါ",
+          "questions": [
+            {
+              "q": "W-S-W-S",
+              "answer_en": "Waswasa",
+              "answer_my": "ဝါ့စ်ဝါ့စာ့",
+              "ar": "وَسْوَسَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The use of rare words shows the precision of the Divine Word; God chooses the most specific sound and structure to convey a truth that common language cannot hold.",
+        "my": "ရှားပါးသောစကားလုံးများကို အသုံးပြုခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ နှုတ်ကပတ်တော်၏ တိကျမှုကို ပြသသည်။ သာမန်ဘာသာစကားဖြင့် မဖော်ပြနိုင်သော အမှန်တရားများကို အတိကျဆုံး အသံနှင့် တည်ဆောက်ပုံဖြင့် ဖော်ပြထားခြင်းဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Ash-Shu'ara 26:94",
+        "study_number": 1,
+        "arabic_full": "فَكُبْكِبُوا فِيهَا هُمْ وَالْغَاوُونَ",
+        "en_sahih": "So they will be overturned into it, they and the deviators",
+        "my_mmsy": "ထို့ပြင် သူတို့နှင့် လမ်းလွဲသည့်သူများကို ဂျဟန္နမ်ငရဲထဲတွင် စောက်ထိုးပစ်ချခြင်းခံကြရမည်။",
+        "audio_ref": {
+          "surah": 26,
+          "ayah": 94,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/026094.mp3"
+        },
+        "qurancom_url": "https://quran.com/26/94",
+        "context": {
+          "en": "This ayah describes the scene on Judgment Day where the idols and their worshippers are thrown into Hell.",
+          "my": "ဤအာယသ်တော်သည် တရားစီရင်ရာနေ့တွင် ရုပ်တုဆင်းတုများနှင့် ၎င်းတို့ကို ကိုးကွယ်သူများ ငရဲထဲသို့ ပစ်ချခံရမည့် အခြေအနေကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "فَكُبْكِبُوا",
+            "translit": "fakubkibū",
+            "en": "So they were overturned",
+            "my": "ထို့ကြောင့် သူတို့သည် ဇောက်ထိုးပစ်ချခြင်းခံခဲ့ရသည်",
+            "role_en": "Verb (Passive)",
+            "role_my": "ကြိယာ (ခံပြစနစ်)",
+            "root": "ك ب ك ب",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of 'Kubkibu' instead of 'Kubu' suggests a chaotic, repeated tumbling motion.",
+          "structure_my": "'ကူးဗူး' အစား 'ကုဗ်ကိဗူး' ကိုသုံးခြင်းသည် လိမ့်ဆင်းကာ ဇောက်ထိုးမိုးမျှော် ပစ်ချခံရခြင်းကို သရုပ်ဖော်သည်။",
+          "insight_en": "The phonetics of the word mimic the sound of heavy bodies falling into a pit.",
+          "insight_my": "စကားလုံး၏ အသံထွက်ကိုယ်တိုင်က ငရဲတွင်းထဲသို့ အရှိန်ဖြင့် ပြုတ်ကျသွားသည့် အသံကို ပေါ်လွင်စေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ك ب ك ب",
+            "concept_en": "Total loss of control while falling",
+            "concept_my": "ပြုတ်ကျနေစဉ် မိမိကိုယ်ကို လုံးဝမထိန်းချုပ်နိုင်ခြင်း",
+            "members": [
+              {
+                "ar": "مُكِبّ",
+                "translit": "mukibb",
+                "en": "falling headlong",
+                "my": "မျက်နှာဖြင့်မှောက်လျက်လဲခြင်း",
+                "freq": 2
+              }
+            ],
+            "professors_note": "This root is only used once in this form in the entire Quran to capture the unique horror of that moment."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ကျွန်ုပ်တို့အား မိမိတို့၏ လုပ်ရပ်များကို သတိပြုရန် သတိပေးနေသည်။ အမှားများနောက်သို့ မျက်စိမှိတ်လိုက်ပါသူများသည် နောင်တရချိန်မရှိဘဲ ငရဲတွင်းသို့ ဇောက်ထိုးကျသွားမည့်အရေးကို ကြောက်ရွံ့ရပါမည်။ အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့အား မှန်ကန်သောလမ်းစဉ်ကိုသာ လျှောက်လှမ်းနိုင်သူများအဖြစ် ချီးမြှင့်တော်မူပါစေ။"
+        },
+        "memorization_helper": {
+          "rhythm": "The repetitive 'Kub-Kib' sound creates a staccato rhythm.",
+          "meaning_anchor": "Imagine a stone tumbling down a deep well.",
+          "daily_connection": "Reminder to maintain balance in life to avoid a spiritual fall.",
+          "my": "ကုဗ်-ကိဗ် ဆိုသော အသံကို မှတ်သားထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we explored how rare Quranic roots, though infrequent, carry immense rhetorical weight. By applying morphological analysis to roots like K-B-K-B and H-S-H-S, we see how the Quran creates vivid imagery through sound and structure.",
+      "my": "ဤသင်ခန်းစာတွင် ရှားပါးသော ကုရ်အာန်ရုဒ်ဗျည်းများ၏ ထူးခြားသော အနက်အဓိပ္ပာယ်ဖော်ဆောင်မှုကို လေ့လာခဲ့သည်။ စကားလုံးများ၏ တည်ဆောက်ပုံနှင့် အသံထွက်မှတစ်ဆင့် ကုရ်အာန်သည် ပုံရိပ်များကို မည်သို့ထင်ဟပ်စေသည်ကို တွေ့မြင်ခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-282",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 282,
+    "title": {
+      "ar": "أَسَالِيبُ الْقُرْآنِ: الْقَصَصُ، التَّشْرِيعُ، الْجَدَلُ، وَالدُّعَاءُ",
+      "en": "Rhetoric XXXII — Asalib al-Quran: The Quranic Styles",
+      "my": "ကုရ်အာန်၏ ဟောပြောမှုပုံစံများ (အာစာလီးဗ်)"
+    },
+    "meta": {
+      "study_time_minutes": 80,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 45,
+      "vocab_count": 10,
+      "grammar_focus": "Narrative (Qasas), Legislative (Tashrī'), Argumentative (Jadal), Devotional (Dua')",
+      "grammar_formula": "Context + Style = Specific Linguistic Choice"
+    },
+    "section_1_vocab": [
+      {
+        "word": "نَبَّأَ",
+        "translit": "nabba'a",
+        "en": "to inform / tell news",
+        "my": "သတင်းပေးသည် / ပြောကြားသည်",
+        "quran_freq": 45,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ن ب أ",
+          "concept_en": "important news",
+          "concept_my": "အရေးကြီးသောသတင်း"
+        },
+        "memory_hook": {
+          "sound": "Nabba sounds like 'News'",
+          "image": "A messenger delivering a scroll",
+          "cross_language": "Nabi (Prophet - one who brings news)"
+        },
+        "word_family": [
+          {
+            "ar": "نَبَأ",
+            "translit": "naba'",
+            "en": "news",
+            "my": "သတင်း",
+            "freq": 25
+          }
+        ],
+        "pattern_unlock": "Form II verbs emphasize the clarity and importance of the information.",
+        "example": {
+          "ar": "نَبِّئْ عِبَادِي",
+          "en": "Inform My servants",
+          "my": "ငါအရှင်မြတ်၏ ကျွန်များကို ပြောကြားပါ",
+          "ref": "15:49"
+        }
+      },
+      {
+        "word": "كَانَ",
+        "translit": "kāna",
+        "en": "he was / it used to be",
+        "my": "ဖြစ်ခဲ့သည်",
+        "quran_freq": 1358,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ك و ن",
+          "concept_en": "existence or occurrence",
+          "concept_my": "ဖြစ်တည်မှု"
+        },
+        "memory_hook": {
+          "sound": "Kana sounds like 'Canon' (history/standard)",
+          "image": "A timeline pointing to the past",
+          "cross_language": "None"
+        },
+        "word_family": [
+          {
+            "ar": "كَوْن",
+            "translit": "kawn",
+            "en": "existence",
+            "my": "ဖြစ်တည်မှု",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "In Qasas (Narratives), Kana is used to set the stage for historical accounts.",
+        "example": {
+          "ar": "كَانَ النَّاسُ أُمَّةً وَاحِدَةً",
+          "en": "Mankind was once one community",
+          "my": "လူသားတို့သည် (ယခင်က) တစ်ပေါင်းတည်းသော အဖွဲ့အစည်းဖြစ်ခဲ့ကြသည်",
+          "ref": "2:213"
+        }
+      },
+      {
+        "word": "كُتِبَ",
+        "translit": "kutiba",
+        "en": "it is prescribed / written",
+        "my": "သတ်မှတ်ထားသည် / ရေးမှတ်ထားသည်",
+        "quran_freq": 319,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فُعِلَ",
+        "root": {
+          "letters": "ك ت ب",
+          "concept_en": "to write or ordain",
+          "concept_my": "ရေးခြင်း သို့မဟုတ် ပြဌာန်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kutiba - like Kitab (Book)",
+          "image": "A decree written in a royal book",
+          "cross_language": "Kitab (Book in Burmese/Malay/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "كِتَاب",
+            "translit": "kitāb",
+            "en": "book",
+            "my": "စာအုပ်",
+            "freq": 260
+          }
+        ],
+        "pattern_unlock": "In Tashri' (Legal), the passive 'Kutiba' signifies a divine obligation.",
+        "example": {
+          "ar": "كُتِبَ عَلَيْكُمُ الصِّيَامُ",
+          "en": "Fasting has been prescribed for you",
+          "my": "အသင်တို့အပေါ်၌ ဥပုသ်သီလဆောက်တည်ခြင်းကို ပြဌာန်းထားတော်မူပြီ",
+          "ref": "2:183"
+        }
+      },
+      {
+        "word": "أَرَأَيْتَ",
+        "translit": "ara'ayta",
+        "en": "have you seen? / consider",
+        "my": "အသင် မြင်ဖူးသလော / စဉ်းစားဖူးသလော",
+        "quran_freq": 13,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أ + فَعَلْتَ",
+        "root": {
+          "letters": "ر أ ي",
+          "concept_en": "to see or think",
+          "concept_my": "မြင်ခြင်း သို့မဟုတ် စဉ်းစားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ara-ayta - like 'A-ray' (What in Burmese - asking a question)",
+          "image": "A person pointing to an obvious fact",
+          "cross_language": "None"
+        }
+      },
+      {
+        "word": "هَاتُوا",
+        "translit": "hātū",
+        "en": "bring (plural command)",
+        "my": "ယူဆောင်ခဲ့ကြလော့",
+        "quran_freq": 4,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ه ت ي",
+          "concept_en": "to bring or provide proof",
+          "concept_my": "သက်သေယူဆောင်လာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hatu sounds like 'Hark!'",
+          "image": "Demanding a document from someone",
+          "cross_language": "None"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used frequently in Jadal (Arguments) to challenge opponents.",
+        "example": {
+          "ar": "هَاتُوا بُرْهَانَكُمْ",
+          "en": "Bring your proof",
+          "my": "အသင်တို့၏ သက်သေသာဓကကို ယူဆောင်ခဲ့ကြလော့",
+          "ref": "2:111"
+        }
+      },
+      {
+        "word": "لَّعَلَّ",
+        "translit": "la'alla",
+        "en": "perhaps / so that",
+        "my": "ဖြစ်နိုင်စရာရှိသည် / ဖြစ်စေရန်",
+        "quran_freq": 129,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "hope or purpose",
+          "concept_my": "မျှော်လင့်ချက် သို့မဟုတ် ရည်ရွယ်ချက်"
+        },
+        "memory_hook": {
+          "sound": "La-alla - sounds like 'Lalla' (soothing hope)",
+          "image": "A seedling growing towards light",
+          "cross_language": "None"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used in Tashri' to show the wisdom (Hikmah) behind a rule.",
+        "example": {
+          "ar": "لَعَلَّكُمْ تَتَّقُونَ",
+          "en": "so that you may become righteous",
+          "my": "အသင်တို့ သက္ကဝါတရား (စောင့်ထိန်းခြင်း) ရှိစေရန်အတွက်ဖြစ်သည်",
+          "ref": "2:183"
+        }
+      },
+      {
+        "word": "بُرْهَان",
+        "translit": "burhān",
+        "en": "proof / evidence",
+        "my": "သက်သေသာဓက",
+        "quran_freq": 8,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْلَان",
+        "root": {
+          "letters": "ب ر هـ",
+          "concept_en": "clear manifestation",
+          "concept_my": "ရှင်းလင်းထင်ရှားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Burhan - sounds like 'Born' (a truth is born)",
+          "image": "A bright light illuminating the dark",
+          "cross_language": "Burhan (Common name)"
+        },
+        "word_family": [],
+        "pattern_unlock": "A key term in argumentative Quranic style.",
+        "example": {
+          "ar": "قَدْ جَاءَكُم بُرْهَانٌ",
+          "en": "A proof has come to you",
+          "my": "အသင်တို့ထံသို့ သက်သေသာဓက ရောက်ရှိလာခဲ့ပြီ",
+          "ref": "4:174"
+        }
+      },
+      {
+        "word": "رَبَّنَا",
+        "translit": "rabbanā",
+        "en": "Our Lord",
+        "my": "ကျွန်ုပ်တို့၏အရှင်",
+        "quran_freq": 100,
+        "word_type": "Noun + Pronoun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ر ب ب",
+          "concept_en": "Lord and Sustainer",
+          "concept_my": "မွေးမြူဖန်ဆင်းတော်မူသောအရှင်"
+        },
+        "memory_hook": {
+          "sound": "Rabbana - known from every prayer",
+          "image": "Hands raised in prayer",
+          "cross_language": "Rab (Lord)"
+        },
+        "word_family": [],
+        "pattern_unlock": "The hallmark of Dua (Devotional) style.",
+        "example": {
+          "ar": "رَبَّنَا تَقَبَّلْ مِنَّا",
+          "en": "Our Lord, accept from us",
+          "my": "ကျွန်ုပ်တို့၏အရှင်၊ ကျွန်ုပ်တို့ထံမှ (ဤကောင်းမှုကို) လက်ခံတော်မူပါ",
+          "ref": "2:127"
+        }
+      },
+      {
+        "word": "آتِنَا",
+        "translit": "ātinā",
+        "en": "give us",
+        "my": "ကျွန်ုပ်တို့အား ပေးသနားတော်မူပါ",
+        "quran_freq": 15,
+        "word_type": "Verb + Pronoun",
+        "gender": "N/A",
+        "wazn": "أَفْعِلْ",
+        "root": {
+          "letters": "أ ت ي",
+          "concept_en": "to give or bring",
+          "concept_my": "ပေးကမ်းခြင်း သို့မဟုတ် ယူဆောင်လာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Atina - like 'Add in-a'",
+          "image": "Receiving a gift with two hands",
+          "cross_language": "None"
+        },
+        "word_family": [],
+        "pattern_unlock": "Form IV command used in humble requests to Allah.",
+        "example": {
+          "ar": "آتِنَا فِي الدُّنْيَا حَسَنَةً",
+          "en": "Give us good in this world",
+          "my": "ကျွန်ုပ်တို့အား ဤလောက၌ ကောင်းမြတ်မှုကို ပေးသနားတော်မူပါ",
+          "ref": "2:201"
+        }
+      },
+      {
+        "word": "قُلْ",
+        "translit": "qul",
+        "en": "Say",
+        "my": "ပြောကြားပါ",
+        "quran_freq": 332,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فُلْ",
+        "root": {
+          "letters": "ق و ل",
+          "concept_en": "to speak",
+          "concept_my": "ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qul - sounds like 'Call'",
+          "image": "A teacher telling a student to repeat",
+          "cross_language": "None"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used in Jadal and Tashri' to emphasize communication from Allah.",
+        "example": {
+          "ar": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+          "en": "Say, He is Allah, One",
+          "my": "(အို-နဗီ) ပြောကြားပါ၊ အရှင်သည် အလ္လာဟ်အရှင်မြတ် တစ်ဆူတည်းဖြစ်တော်မူ၏",
+          "ref": "112:1"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أَسَالِيبُ الْقُرْآنِ",
+        "en": "Quranic Styles (Asalib)",
+        "my": "ကုရ်အာန်၏ ဟောပြောမှုပုံစံများ"
+      },
+      "formula": {
+        "display": "Style Context -> Specific Vocab + Sentence Structure",
+        "example": "Tashri' -> 'Kutiba' (Prescribed) | Dua' -> 'Rabbana' (Our Lord)",
+        "myanmar_read": "အကြောင်းအရာအလိုက် စကားလုံးသုံးနှုန်းပုံ ကွဲပြားခြင်း",
+        "key_insight": "The Quran changes its tone and vocabulary based on whether it is telling a story, giving a law, debating a point, or teaching a prayer."
+      },
+      "explanation": {
+        "en": "The Quran is not written in a single monotonous tone. It employs four primary styles: 1) Qasas (Narratives) uses past tense verbs and detailed descriptions. 2) Tashri' (Legislative) uses commands and clear legal terms. 3) Jadal (Argumentative) uses rhetorical questions and challenges. 4) Dua' (Devotional) uses intimate vocatives and humble imperatives. Recognizing these styles helps in understanding the intended impact of each verse.",
+        "my": "ကုရ်အာန်ကျမ်းစာသည် လေသံတစ်မျိုးတည်းဖြင့် ရေးသားထားခြင်းမဟုတ်ပါ။ အဓိကပုံစံ (၄) မျိုးရှိသည် - ၁။ ကာဆတ်စ် (သမိုင်းပုံပြင်) သည် အတိတ်ကာလကြိယာများကို သုံးသည်။ ၂။ သရှ်ရီးအ် (ဥပဒေပြဌာန်းချက်) သည် အမိန့်တော်နှင့် ဥပဒေစကားလုံးများကို သုံးသည်။ ၃။ ဂျဒလ် (စောဒကတက်ခြင်း) သည် မေးခွန်းများနှင့် စိန်ခေါ်မှုများကို သုံးသည်။ ၄။ ဒိုအာ (ဆုတောင်းခြင်း) သည် တောင်းခံသည့်ပုံစံကို သုံးသည်။ ဤပုံစံများကို သိရှိခြင်းဖြင့် အာယသ်တော်တစ်ခုချင်းစီ၏ ရည်ရွယ်ချက်ကို ပိုမိုနားလည်နိုင်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar language, the tone changes between a formal legal document, a bedtime story, a political debate, and a religious prayer.",
+        "my": "မြန်မာစကားတွင်လည်း တရားရုံးဥပဒေ၊ ပုံပြင်ပြောခြင်း၊ အငြင်းအခုန်ပြုခြင်းနှင့် ဘုရားရှိခိုးခြင်းတို့၌ သုံးနှုန်းသော စကားလုံးနှင့် လေသံကွဲပြားမှုနှင့် ဆင်တူသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Narratives often begin with 'Idh' (When) or 'Kana' (Was).",
+          "rule_my": "သမိုင်းကြောင်းများပြောရာတွင် 'အိဇ်' (သောအခါ) သို့မဟုတ် 'ကာ့န' (ဖြစ်ခဲ့သည်) ဖြင့် အစပြုလေ့ရှိသည်။",
+          "example": {
+            "ar": "وَإِذْ قَالَ رَبُّكَ",
+            "en": "And when your Lord said",
+            "my": "အသင်၏အရှင်မြတ်က ... ဟု မိန့်ကြားတော်မူသောအခါ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Argumentative Style (Jadal)",
+          "ar": "أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ",
+          "en": "Were they created by nothing, or were they the creators [of themselves]?",
+          "my": "(၃၅) သို့မဟုတ် သူတို့သည် (ဖန်ဆင်းသည့်သူ)တစ်ဦးမှမရှိဘဲ မိမိအလိုလျောက်ဖြစ်ပေါ်လာခဲ့ကြပါသလော။ သို့မဟုတ် သူတို့ကိုယ်တိုင် ဖန်ဆင်း သူများဖြစ်ကြသလော။",
+          "ref": "52:35",
+          "breakdown": {
+            "subject": {
+              "word": "هُمُ",
+              "en": "they",
+              "note": "Pronoun"
+            },
+            "predicate": {
+              "word": "الْخَالِقُونَ",
+              "en": "the creators",
+              "note": "Plural noun"
+            }
+          },
+          "myanmar_insight": "'အမ်' (သို့မဟုတ်) ဟူသော စကားလုံးဖြင့် ဆင်ခြင်တုံတရားကို စိန်ခေါ်သည့်ပုံစံဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using 'Kutiba' for a simple letter.",
+          "wrong": {
+            "ar": "كُتِبَ الرِّسَالَةُ",
+            "note": "Kutiba in Quran is almost always for divine decrees."
+          },
+          "correct": {
+            "ar": "كَتَبَ",
+            "en": "He wrote (general).",
+            "my": "သူစာရေးခဲ့သည်။"
+          },
+          "myanmar_tip": "'ကုတိဗ' ကိုတွေ့လျှင် အလ္လာဟ်အရှင်မြတ်၏ ပြဌာန်းချက်ဟု မှတ်ယူပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the style of the following ayah: 'Rabbana atina...'",
+          "instruction_my": "အောက်ပါစာသား၏ ပုံစံကို ဖော်ပြပါ - 'Rabbana atina...'",
+          "questions": [
+            {
+              "q": "رَبَّنَا آتِنَا",
+              "answer_en": "Dua (Devotional)",
+              "answer_my": "ဒိုအာ (ဆုတောင်းခြင်းပုံစံ)",
+              "ref": "2:201"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: 'Hatu burhanakum'",
+          "instruction_my": "ဘာသာပြန်ပါ - 'Hatu burhanakum'",
+          "questions": [
+            {
+              "q": "هَاتُوا بُرْهَانَكُمْ",
+              "answer_en": "Bring your proof",
+              "answer_my": "အသင်တို့၏ သက်သေသာဓကကို ယူဆောင်ခဲ့ကြလော့"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Start a narrative sentence using 'And when...'",
+          "instruction_my": "'ထိုအခါ' ဟု အဓိပ္ပာယ်ရသော စကားလုံးဖြင့် ဝါကျစပါ",
+          "questions": [
+            {
+              "q": "And when",
+              "answer_en": "Wa idh",
+              "answer_my": "ဝအိဇ်",
+              "ar": "وَإِذْ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The diversity of styles in the Quran addresses every part of the human soul: the mind through logic, the heart through stories, and the spirit through prayers.",
+        "my": "ကုရ်အာန်၏ ကွဲပြားသောပုံစံများသည် လူသားတို့၏ ဝိညာဉ်အစိတ်အပိုင်းတိုင်းကို စကားပြောသည် - ကျိုးကြောင်းဆင်ခြင်မှုဖြင့် ဦးနှောက်ကို၊ ပုံပြင်များဖြင့် နှလုံးသားကို၊ ဆုတောင်းမှုများဖြင့် ဝိညာဉ်ကို လမ်းညွှန်ပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:183",
+        "study_number": 1,
+        "arabic_full": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+        "en_sahih": "O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous",
+        "my_mmsy": "အို- အီမာန်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် ကြောက်ရွံ့အပြစ်ရှောင် ကောင်းကျိုးဆောင်သူများဖြစ်ကြရန်အတွက် အသင်တို့ မတိုင်မီသူများအပေါ်တွင် စွောင်မ် ဥပုသ်စောင့်ထိန်းမှု (အမိန့်တော်)ပြဋ္ဌာန်းခံခဲ့ရသကဲ့သို့ အသင်တို့အပေါ်တွင်လည်း စွောင်မ် ဥပုသ်စောင့်ထိန်းရန် (အမိန့်တော်)ပြဋ္ဌာန်းခံလိုက်ရပြီ ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 183,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002183.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/183",
+        "context": {
+          "en": "This is a key legislative (Tashri') verse where Allah commands the believers to fast during Ramadan.",
+          "my": "ဤသည်မှာ အလ္လာဟ်အရှင်မြတ်က သက်ဝင်ယုံကြည်သူများအား ရမ်ဇာန်လတွင် ဥပုသ်သီလဆောက်တည်ရန် အမိန့်ပေးထားသော ဥပဒေပြု (သရှ်ရီးအ်) အာယသ်တော်ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "كُتِبَ",
+            "translit": "kutiba",
+            "en": "prescribed",
+            "my": "ပြဌာန်းထားသည်",
+            "role_en": "Passive Verb",
+            "role_my": "ကြိယာ",
+            "root": "ك ت ب",
+            "freq": 20
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of 'Kutiba' (Passive) shows the seriousness of the obligation, while 'La'allakum' shows the mercy behind the law.",
+          "structure_my": "'ကုတိဗ' (ပြဌာန်းပြီး) ကိုသုံးခြင်းဖြင့် တာဝန်၏လေးနက်မှုကို ပြပြီး၊ 'လာအလ်လာကွန်' ဖြင့် ထိုဥပဒေ၏ ရည်ရွယ်ချက်မှာ ကရုဏာတော်ဖြစ်ကြောင်း ပြသည်။",
+          "insight_en": "The shift from decree to purpose is a hallmark of Quranic legislative style.",
+          "insight_my": "ဥပဒေတစ်ခုကို ပြဌာန်းရုံသာမက ၎င်း၏ရည်ရွယ်ချက်ကိုပါ ရှင်းပြခြင်းသည် ကုရ်အာန်၏ ထူးခြားချက်ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ت ق ي",
+            "concept_en": "To protect oneself from harm (Taqwa)",
+            "concept_my": "မိမိကိုယ်ကို ဘေးအန္တရာယ်မှ ကာကွယ်ခြင်း",
+            "members": [
+              {
+                "ar": "تَقْوَىٰ",
+                "translit": "taqwā",
+                "en": "God-consciousness",
+                "my": "သက္ကဝါတရား",
+                "freq": 17
+              }
+            ],
+            "professors_note": "Taqwa is the ultimate 'shield' developed through fasting."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဥပုသ်သီလဆောက်တည်ခြင်းသည် အခက်အခဲတစ်ခုမဟုတ်ဘဲ ကျွန်ုပ်တို့၏ ဝိညာဉ်ကို သန့်စင်စေရန် အလ္လာဟ်အရှင်မြတ်က မေတ္တာဖြင့် ပြဌာန်းထားခြင်းဖြစ်သည်။ ယခင်လူမျိုးများကဲ့သို့ပင် ကျွန်ုပ်တို့လည်း ဤတာဝန်ကို ကျေပွန်ခြင်းဖြင့် အရှင်မြတ်ကို အမြဲသတိရသောသူများ ဖြစ်နိုင်ကြပါစေ။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah flows from a call (Ya ayyuha) to a law (Kutiba) to a reason (La'alla).",
+          "meaning_anchor": "Imagine a golden law written in the heavens for our benefit.",
+          "daily_connection": "Recited often before and during the month of Ramadan.",
+          "my": "လာအလ်လာကွန် သသ်သကူးန် - ဖြင့် အဆုံးသတ်ခြင်းကို မှတ်ထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we categorized the different styles of Quranic expression. Understanding these 'Asalib' helps us discern the legal, emotional, and logical layers of the Quranic message.",
+      "my": "ဤသင်ခန်းစာတွင် ကုရ်အာန်၏ မတူညီသော ဟောပြောမှုပုံစံများကို လေ့လာခဲ့သည်။ ဤပုံစံများကို နားလည်ခြင်းဖြင့် ကုရ်အာန်၏ ဥပဒေ၊ စိတ်ခံစားမှုနှင့် ကျိုးကြောင်းဆင်ခြင်မှုဆိုင်ရာ အလွှာများကို ခွဲခြားသိမြင်နိုင်မည်ဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-283",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 283,
+    "title": {
+      "ar": "إِعْجَازُ الْقُرْآنِ: التَّحَدِّي",
+      "en": "Rhetoric XXXIII — I'jaz al-Quran: The Miracle of the Quran",
+      "my": "ကုရ်အာန်၏ အံ့ဖွယ်စွမ်းရည် (အေ့အ်ဂျာဇ်)"
+    },
+    "meta": {
+      "study_time_minutes": 85,
+      "vocab_time": 20,
+      "grammar_time": 20,
+      "deep_study_time": 45,
+      "vocab_count": 10,
+      "grammar_focus": "Linguistic inimitability; Tahaddi (challenge) in Quran; why Arabic cannot replicate it",
+      "grammar_formula": "Human Effort < Divine Word = I'jaz"
+    },
+    "section_1_vocab": [
+      {
+        "word": "إِعْجَاز",
+        "translit": "i‘jāz",
+        "en": "inimitability / miracle",
+        "my": "တုပ၍မရနိုင်သော အံ့ဖွယ်စွမ်းရည်",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "إِفْعَال",
+        "root": {
+          "letters": "ع ج ز",
+          "concept_en": "to be unable / to make someone unable",
+          "concept_my": "မတတ်စွမ်းနိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "I-jaz sounds like 'Jazz' (complex/unique music)",
+          "image": "A wall so high that no one can climb it",
+          "cross_language": "Mu'jiza (Miracle)"
+        },
+        "word_family": [
+          {
+            "ar": "مُعْجِزَة",
+            "translit": "mu‘jizah",
+            "en": "miracle",
+            "my": "မုအ်ဂျိဇာတ်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The root means 'weakness'; I'jaz makes the challenger recognize their weakness.",
+        "example": {
+          "ar": "وَمَا أَنتُم بِمُعْجِزِينَ",
+          "en": "And you cannot escape (make Him unable)",
+          "my": "အသင်တို့သည် (အလ္လာဟ်အရှင်မြတ်အား) မတတ်စွမ်းနိုင်အောင် မပြုနိုင်ကြပေ",
+          "ref": "42:31"
+        }
+      },
+      {
+        "word": "تَحَدٍّ",
+        "translit": "tahaddin",
+        "en": "challenge",
+        "my": "စိန်ခေါ်မှု",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفَعُّل",
+        "root": {
+          "letters": "ح د ي",
+          "concept_en": "to compete or challenge",
+          "concept_my": "ယှဉ်ပြိုင်စိန်ခေါ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tahaddi - sounds like 'To hand it' (over to a winner)",
+          "image": "A champion throwing down a glove",
+          "cross_language": "Tahaddi (Arabic/Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Form V noun representing the act of challenging.",
+        "example": {
+          "ar": "فَأْتُوا بِسُورَةٍ",
+          "en": "Then produce a surah",
+          "my": "သို့ဖြစ်လျှင် (ဤကဲ့သို့သော) ကဏ္ဍတစ်ရပ်ကို ယူဆောင်လာခဲ့ကြလော့",
+          "ref": "2:23"
+        }
+      },
+      {
+        "word": "مِثْل",
+        "translit": "mithl",
+        "en": "like / similar to",
+        "my": "တူညီသော / ကဲ့သို့သော",
+        "quran_freq": 150,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "م ث ل",
+          "concept_en": "likeness or example",
+          "concept_my": "ဥပမာ သို့မဟုတ် တူညီမှု"
+        },
+        "memory_hook": {
+          "sound": "Mithl - sounds like 'Mistletoe' (pairs together)",
+          "image": "Two identical objects side by side",
+          "cross_language": "Mithl (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "أَمْثَال",
+            "translit": "amthāl",
+            "en": "examples",
+            "my": "ဥပမာများ",
+            "freq": 80
+          }
+        ],
+        "pattern_unlock": "Key word in the 'Tahaddi' verses, challenging anyone to bring 'the like of it'.",
+        "example": {
+          "ar": "أَن يَأْتُوا بِمِثْلِ هَٰذَا الْقُرْآنِ",
+          "en": "that they could produce the like of this Quran",
+          "my": "ဤကုရ်အာန်ကျမ်းစာနှင့် တူညီသောအရာကို ယူဆောင်လာရန်",
+          "ref": "17:88"
+        }
+      },
+      {
+        "word": "اجْتَمَعَتْ",
+        "translit": "ijtama'at",
+        "en": "they gathered / combined",
+        "my": "သူတို့ စုပေါင်းခဲ့ကြသည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "افْتَعَلَتْ",
+        "root": {
+          "letters": "ج م ع",
+          "concept_en": "to gather or collect",
+          "concept_my": "စုဆောင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ijtama'at - sounds like 'Adjustment' (bringing together)",
+          "image": "A large crowd coming together for a purpose",
+          "cross_language": "Jama'at (Group)"
+        }
+      },
+      {
+        "word": "ظَهِيرًا",
+        "translit": "ẓahīran",
+        "en": "helper / assistant",
+        "my": "ကူညီသူ / ထောက်ပံ့သူ",
+        "quran_freq": 9,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ظ هـ ر",
+          "concept_en": "back / visible / support",
+          "concept_my": "ကျောထောက်နောက်ခံပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Zahir - sounds like 'Zahir' (visible)",
+          "image": "A person supporting another from behind",
+          "cross_language": "Zahir (Common name)"
+        }
+      },
+      {
+        "word": "سُورَة",
+        "translit": "sūrah",
+        "en": "chapter of Quran",
+        "my": "ကဏ္ဍ (စူရာဟ်)",
+        "quran_freq": 9,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فُعْلَة",
+        "root": {
+          "letters": "س و ر",
+          "concept_en": "wall or fence / elevation",
+          "concept_my": "တံတိုင်း သို့မဟုတ် မြင့်မြတ်သောနေရာ"
+        },
+        "memory_hook": {
+          "sound": "Surah - known term",
+          "image": "A section of a city wall",
+          "cross_language": "Surah (Global term)"
+        }
+      },
+      {
+        "word": "مُفْتَرَيَات",
+        "translit": "muftarayāt",
+        "en": "fabricated / invented",
+        "my": "လုပ်ကြံဖန်တီးထားသောအရာများ",
+        "quran_freq": 1,
+        "word_type": "Adjective (Plural)",
+        "gender": "Feminine",
+        "wazn": "مُفْتَعَلَات",
+        "root": {
+          "letters": "ف ر ي",
+          "concept_en": "to forge or fabricate",
+          "concept_my": "မုသားဖန်တီးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Muftara - sounds like 'Mystery' (fake mystery)",
+          "image": "A forged document with a fake seal",
+          "cross_language": "None"
+        }
+      },
+      {
+        "word": "اسْتَطَعْتُم",
+        "translit": "istaṭa‘tum",
+        "en": "you all are able to",
+        "my": "အသင်တို့ တတ်စွမ်းနိုင်ကြသည်",
+        "quran_freq": 15,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "اسْتَفْعَلْتُم",
+        "root": {
+          "letters": "ط و ع",
+          "concept_en": "to be able or obedient",
+          "concept_my": "စွမ်းဆောင်နိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ista-tatum - sounds like 'Status' (ability/power)",
+          "image": "A person successfully lifting a weight",
+          "cross_language": "None"
+        }
+      },
+      {
+        "word": "صَادِقِين",
+        "translit": "ṣādiqīn",
+        "en": "truthful ones",
+        "my": "မှန်ကန်သူများ",
+        "quran_freq": 51,
+        "word_type": "Noun (Plural)",
+        "gender": "Masculine",
+        "wazn": "فَاعِلِين",
+        "root": {
+          "letters": "ص د ق",
+          "concept_en": "truth and sincerity",
+          "concept_my": "သစ္စာရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sadiq - like the name Sadiq",
+          "image": "A straight line",
+          "cross_language": "Sadiq (Urdu/Myanmar Muslims use this name)"
+        }
+      },
+      {
+        "word": "ادْعُوا",
+        "translit": "ud‘ū",
+        "en": "call upon / invite",
+        "my": "ခေါ်ယူကြလော့ / တောင်းဆိုကြလော့",
+        "quran_freq": 50,
+        "word_type": "Verb (Command)",
+        "gender": "Masculine",
+        "wazn": "افْعُلُوا",
+        "root": {
+          "letters": "د ع و",
+          "concept_en": "to call or supplicate",
+          "concept_my": "ဖိတ်ခေါ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ud-oo - sounds like 'Adieu' (calling out)",
+          "image": "A person calling out to a crowd",
+          "cross_language": "Dua (Prayer)"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "إِعْجَازُ الْقُرْآنِ وَالتَّحَدِّي",
+        "en": "Inimitability and the Challenge",
+        "my": "ကုရ်အာန်၏ အံ့ဖွယ်စွမ်းရည်နှင့် စိန်ခေါ်မှု"
+      },
+      "formula": {
+        "display": "Tahaddi (Challenge) -> 10 Surahs -> 1 Surah -> 1 Ayah",
+        "example": "فَأْتُوا بِسُورَةٍ مِّن مِّثْلِهِ",
+        "myanmar_read": "ကုရ်အာန်နှင့်တူသော အရာကို ယူဆောင်လာရန် စိန်ခေါ်ခြင်း",
+        "key_insight": "The 'I'jaz' of the Quran lies in its perfect balance of sound, meaning, and guidance that no human can replicate."
+      },
+      "explanation": {
+        "en": "The Miracle of the Quran (I'jaz) is that it challenged the masters of Arabic poetry to produce even a single chapter like it. This challenge (Tahaddi) was issued in stages: first the whole Quran, then ten chapters, then one. After 1400 years, the challenge remains unmet, proving its divine origin through linguistic perfection.",
+        "my": "ကုရ်အာန်၏ အံ့ဖွယ်စွမ်းရည် (အေ့အ်ဂျာဇ်) ဆိုသည်မှာ အာရပ်ကဗျာဆရာကြီးများကို ဤကဲ့သို့သော ကဏ္ဍတစ်ခုကိုပင် ဖန်တီးနိုင်ခြင်းမရှိအောင် စိန်ခေါ်ထားခြင်းဖြစ်သည်။ ဤစိန်ခေါ်မှု (သဟဒ်ဒီ) ကို အဆင့်ဆင့်ပြုလုပ်ခဲ့သည် - ကုရ်အာန်တစ်ခုလုံး၊ ထို့နောက် ကဏ္ဍ ၁၀ ခု၊ နောက်ဆုံးတွင် ကဏ္ဍတစ်ခု။ နှစ်ပေါင်း ၁၄၀၀ ကြာသည်အထိ မည်သူမျှ မတုပနိုင်ခြင်းက ၎င်းသည် အလ္လာဟ်အရှင်မြတ်ထံမှဖြစ်ကြောင်း သက်သေပြနေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to a challenge in high literature where a style is so unique that experts cannot replicate it without failing.",
+        "my": "မြန်မာစာပေရှိ အလွန်ခက်ခဲနက်နဲသော ကဗျာ သို့မဟုတ် စာပေပုံစံတစ်ခုကို မည်သည့်ပညာရှင်မျှ လိုက်မတုနိုင်ခြင်းနှင့် သဘောတရားချင်း ဆင်တူသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The word 'Mithlihi' (the like of it) is central to the miracle verses.",
+          "rule_my": "'မိစ်လီဟီး' (၎င်းနှင့်တူသောအရာ) ဟူသော စကားလုံးသည် ဤအံ့ဖွယ်အာယသ်တော်များ၏ အဓိကဖြစ်သည်။",
+          "example": {
+            "ar": "بِمِثْلِهِ",
+            "en": "with the like of it",
+            "my": "၎င်းနှင့်တူသောအရာဖြင့်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "The Universal Challenge",
+          "ar": "قُل لَّئِنِ اجْتَمَعَتِ الْإِنسُ وَالْجِنُّ عَلَىٰ أَن يَأْتُوا بِمِثْلِ هَٰذَا الْقُرْآنِ لَا يَأْتُونَ بِمِثْلِهِ",
+          "en": "Say, If mankind and the jinn gathered in order to produce the like of this Quran, they could not produce the like of it",
+          "my": "MYANMAR_PLACE_HOLDER_S17_A88",
+          "ref": "17:88",
+          "breakdown": {
+            "subject": {
+              "word": "الْإِنسُ وَالْجِنُّ",
+              "en": "mankind and jinn",
+              "note": "All intelligent beings"
+            },
+            "predicate": {
+              "word": "لَا يَأْتُونَ",
+              "en": "they will not bring",
+              "note": "Negative future result"
+            }
+          },
+          "myanmar_insight": "လူသားနှင့် ဂျင်န်ဝိညာဉ်များ အားလုံး စုပေါင်းသော်လည်း မတုပနိုင်ကြောင်း ဆိုထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking 'I'jaz' only refers to scientific miracles.",
+          "wrong": {
+            "ar": "إِعْجَاز",
+            "note": "Limiting it to science only."
+          },
+          "correct": {
+            "ar": "بَلَاغَة",
+            "en": "Linguistic miracle is the primary form.",
+            "my": "ဘာသာစကားပိုင်းဆိုင်ရာ အံ့ဖွယ်စွမ်းရည်သည် အဓိကဖြစ်သည်။"
+          },
+          "myanmar_tip": "ကုရ်အာန်၏ အဓိက အံ့ဖွယ်စွမ်းရည်မှာ ဘာသာစကားပိုင်းဆိုင်ရာ ဖြစ်သည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the root of 'Mu'jiza'",
+          "instruction_my": "'မုအ်ဂျိဇာ' ၏ ရုဒ်ဗျည်းကို ရှာပါ",
+          "questions": [
+            {
+              "q": "مُعْجِزَة",
+              "answer_en": "Aa-J-Z",
+              "answer_my": "အိုင်-ဂျင်-ဇိုင်း",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: 'Lā ya'tūna bi-mithlihī'",
+          "instruction_my": "ဘာသာပြန်ပါ - 'Lā ya'tūna bi-mithlihī'",
+          "questions": [
+            {
+              "q": "لَا يَأْتُونَ بِمِثْلِهِ",
+              "answer_en": "They will not produce the like of it",
+              "answer_my": "၎င်းတို့သည် ယင်းနှင့်တူသောအရာကို ယူဆောင်လာနိုင်ကြမည်မဟုတ်ပေ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Write 'Produce a surah' in Arabic",
+          "instruction_my": "'ကဏ္ဍတစ်ခု ယူဆောင်လာပါ' ကို အာရဗီလိုရေးပါ",
+          "questions": [
+            {
+              "q": "Produce a surah",
+              "answer_en": "Fa'tu bi-surahin",
+              "answer_my": "ဖာ့သူး ဘိစူရသိန်",
+              "ar": "فَأْتُوا بِسُورَةٍ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The inability of creation to match the Creator's speech is a sign for the humble to submit to the Truth.",
+        "my": "ဖန်ဆင်းခံများက ဖန်ဆင်းရှင်၏ စကားတော်ကို မတုပနိုင်ခြင်းသည် နှိမ့်ချသောနှလုံးသားရှိသူများအတွက် အမှန်တရားကို လက်ခံရန် လက္ခဏာတစ်ရပ်ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:23",
+        "study_number": 1,
+        "arabic_full": "وَإِن كُنتُمْ فِي رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا بِسُورَةٍ مِّن مِّثْلِهِ وَادْعُوا شُهَدَاءَكُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ",
+        "en_sahih": "And if you are in doubt about what We have sent down upon Our Servant, then produce a surah the like thereof and call upon your witnesses other than Allah, if you should be truthful",
+        "my_mmsy": "ထို့ပြင် အကယ်၍ အသင်တို့သည် ငါအရှင်မြတ်က ငါအရှင်မြတ်၏ကျွန်(ဖြစ်သူ တမန်တော်မုဟမ္မဒ်(ဆွ) အပေါ်ချပေးတော်မူခဲ့သည့်အရာ (ကုရ်အာန်ကျမ်းတော်မြတ်)ကို (ငါအရှင်၏ထံမှမဟုတ်၊ မုဟမ္မဒ်(ဆွ)သည် မိမိသဘောနှင့်ပြောခဲ့သည်ဟု အသင်တို့) သံသယဖြစ်ခဲ့ကြသည်ဆိုလျှင် အသင်တို့အနေဖြင့် (စကားကြွယ်ဝသည့် အာရဗ်များပီသစွာ) ငါအရှင်ချပေးတော်မူခဲ့သော ထို(ကုရ်အာန်)နှင့်တူသည့် စူရဟ်ဏ္ဍတစ်ပုဒ် (မျှရေးသားပြုစုပြီး) ယူဆောင်လာခဲ့ကြပါ။ ထို့နောက် (တမန်တော်မုဟမ္မဒ်(ဆွ)၏စကားဟု အသင်တို့ပြောသည်မှာ မှန်မည်ဆိုလျှင်) အသင်တို့သည် စကားမှန်ပြောသူများဖြစ်ကြမည်ဆိုလျှင် အလ္လာဟ် အရှင်မြတ်မှလွဲ၍ အသင်တို့ကို သက်သေခံပေးမည့်သူ(ကူညီမည့်)သူများကိုလည်း ခေါ်ဆောင်လာခဲ့ကြပါ။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 23,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002023.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/23",
+        "context": {
+          "en": "Allah addresses the skeptics of the Prophet's time, challenging them to prove their doubt through action.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် နဗီတမန်တော်၏ခေတ်က သံသယရှိသူများကို ၎င်းတို့၏သံသယအား လက်တွေ့သက်သေပြရန် စိန်ခေါ်ထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "رَيْبٍ",
+            "translit": "raybin",
+            "en": "doubt",
+            "my": "သံသယ",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "ر ي ب",
+            "freq": 36
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The conditional 'In kuntum' (If you are) sets up a logical challenge.",
+          "structure_my": "'အင်န် ကုလ်သွန်' (အကယ်၍ အသင်တို့ဖြစ်ခဲ့လျှင်) ဟူသော အသုံးသည် ကျိုးကြောင်းဆင်ခြင်မှုကို ဖြစ်စေသည်။",
+          "insight_en": "The word 'Min mithlihi' refers to either the surah or the Prophet (an unlettered man producing such a miracle).",
+          "insight_my": "'မင်န် မိစ်လီဟီး' သည် စူရာဟ်နှင့်တူသောအရာ သို့မဟုတ် နဗီတမန်တော်ကဲ့သို့ စာမတတ်သူတစ်ဦးမှ ဤကဲ့သို့ယူဆောင်လာနိုင်ခြင်းကို ရည်ညွှန်းသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ش هـ د",
+            "concept_en": "Witnessing or attesting",
+            "concept_my": "သက်သေခံခြင်း",
+            "members": [
+              {
+                "ar": "شُهَدَاء",
+                "translit": "shuhadā'",
+                "en": "witnesses",
+                "my": "သက်သေများ",
+                "freq": 35
+              }
+            ],
+            "professors_note": "A challenge to bring experts (witnesses) to verify their work."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကုရ်အာန်အပေါ် သံသယရှိသူများကို အရှင်မြတ်က လက်တွေ့ကျကျ စိန်ခေါ်ထားသည်။ ကျွန်ုပ်တို့သည် ကုရ်အာန်ကို ဖတ်ရှုခြင်းဖြင့် ၎င်း၏ အံ့ဖွယ်စွမ်းရည်ကို ကိုယ်တိုင်ခံစားသိရှိနိုင်ပြီး ယုံကြည်ခြင်း ပိုမိုခိုင်မာစေနိုင်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Balanced clauses starting with 'In' and 'Fa'.",
+          "meaning_anchor": "The word 'Rayb' (Doubt) often appears at the start of Quranic challenges.",
+          "daily_connection": "Used to explain the divine origin of the Quran to others.",
+          "my": "'ဖာ့သူး ဘိစူရသိန်' (စူရာဟ်တစ်ခု ယူလာပါ) ဟူသော စိန်ခေါ်မှုကို မှတ်ထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we analyzed the concept of I'jaz (inimitability) and how the Quran challenged humanity to replicate its linguistic brilliance. This challenge remains a fundamental proof of Islam's divine message.",
+      "my": "ဤသင်ခန်းစာတွင် ကုရ်အာန်၏ အံ့ဖွယ်စွမ်းရည် (အေ့အ်ဂျာဇ်) နှင့် ဘာသာစကားပိုင်းဆိုင်ရာ တုပမရနိုင်မှုအကြောင်း လေ့လာခဲ့သည်။ ဤစိန်ခေါ်မှုသည် အစ္စလာမ်၏ သတင်းစကားမှာ အလ္လာဟ်အရှင်မြတ်ထံမှဖြစ်ကြောင်း အဓိကသက်သေဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-284",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 284,
+    "title": {
+      "ar": "الْفَاصِلَةُ الْقُرْآنِيَّةُ",
+      "en": "Rhetoric XXXIV — Fasila: The Quranic Verse Ending",
+      "my": "ကုရ်အာန်၏ အာယသ်တော်အဆုံးသတ် ရစ်သမ်များ (ဖွာဆီလာ)"
+    },
+    "meta": {
+      "study_time_minutes": 80,
+      "vocab_time": 15,
+      "grammar_time": 25,
+      "deep_study_time": 40,
+      "vocab_count": 10,
+      "grammar_focus": "Fāsila as prosodic verse ending; different from rhyme; sound patterns",
+      "grammar_formula": "End of Ayah -> Consistent Sound Pattern -> Psychological Impact"
+    },
+    "section_1_vocab": [
+      {
+        "word": "فَاصِلَة",
+        "translit": "fāṣilah",
+        "en": "verse ending / divider",
+        "my": "အာယသ်တော်အဆုံးသတ်ပုံစံ / ပိုင်းခြားမှု",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَاعِلَة",
+        "root": {
+          "letters": "ف ص ل",
+          "concept_en": "to separate or distinguish",
+          "concept_my": "ခွဲခြားခြင်း သို့မဟုတ် ပိုင်းခြားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fasila - sounds like 'Facilitate' (the end of a thought)",
+          "image": "A full stop in a beautiful calligraphy",
+          "cross_language": "Faisal (Decisive)"
+        },
+        "word_family": [
+          {
+            "ar": "فَصْل",
+            "translit": "faṣl",
+            "en": "judgment / criterion",
+            "my": "ဆုံးဖြတ်ချက်",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Fasila is the 'break' that marks the end of an ayah.",
+        "example": {
+          "ar": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+          "en": "Indeed, it is a decisive word",
+          "my": "အမှန်စင်စစ် ဤ (ကုရ်အာန်) သည် ပြတ်သားသော စကားတော်ဖြစ်သည်",
+          "ref": "86:13"
+        }
+      },
+      {
+        "word": "تَعْلَمُونَ",
+        "translit": "ta‘lamūn",
+        "en": "you all know",
+        "my": "အသင်တို့ သိရှိကြသည်",
+        "quran_freq": 56,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "تَفْعَلُونَ",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "knowledge",
+          "concept_my": "အသိပညာ"
+        },
+        "memory_hook": {
+          "sound": "Ta-lamun - sounds like 'Tell em'",
+          "image": "A classroom of students raising hands",
+          "cross_language": "Ilm (Knowledge)"
+        }
+      },
+      {
+        "word": "يَعْقِلُونَ",
+        "translit": "ya‘qilūn",
+        "en": "they understand / use reason",
+        "my": "၎င်းတို့ ဆင်ခြင်တုံတရားရှိကြသည်",
+        "quran_freq": 22,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعِلُونَ",
+        "root": {
+          "letters": "ع ق ل",
+          "concept_en": "intellect / restraint",
+          "concept_my": "ဉာဏ်ပညာ / ဆင်ခြင်တုံတရား"
+        },
+        "memory_hook": {
+          "sound": "Ya-qilun - sounds like 'Calculate'",
+          "image": "A person thinking deeply",
+          "cross_language": "Aqal (Mind)"
+        }
+      },
+      {
+        "word": "حَكِيم",
+        "translit": "ḥakīm",
+        "en": "Wise",
+        "my": "ဉာဏ်အမြော်အမြင်ရှိတော်မူသောအရှင်",
+        "quran_freq": 97,
+        "word_type": "Noun / Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ح ك م",
+          "concept_en": "wisdom and judgment",
+          "concept_my": "ပညာနှင့် ဆုံးဖြတ်ချက်"
+        },
+        "memory_hook": {
+          "sound": "Hakim - like Hakeem",
+          "image": "An old wise judge",
+          "cross_language": "Hikmat (Wisdom)"
+        }
+      },
+      {
+        "word": "عَلِيم",
+        "translit": "‘alīm",
+        "en": "All-Knowing",
+        "my": "အရာခပ်သိမ်းကို သိရှိတော်မူသောအရှင်",
+        "quran_freq": 157,
+        "word_type": "Noun / Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "to know",
+          "concept_my": "သိရှိခြင်း"
+        }
+      },
+      {
+        "word": "قَدِير",
+        "translit": "qadīr",
+        "en": "All-Powerful",
+        "my": "စွမ်းဆောင်နိုင်တော်မူသောအရှင်",
+        "quran_freq": 45,
+        "word_type": "Noun / Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ق د ر",
+          "concept_en": "power and measurement",
+          "concept_my": "စွမ်းအား"
+        }
+      },
+      {
+        "word": "غَفُور",
+        "translit": "ghafūr",
+        "en": "All-Forgiving",
+        "my": "အလွန်အကြူး ခွင့်လွှတ်တော်မူသောအရှင်",
+        "quran_freq": 91,
+        "word_type": "Noun / Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعُول",
+        "root": {
+          "letters": "غ ف ر",
+          "concept_en": "to cover or forgive",
+          "concept_my": "ဖုံးအုပ်ခြင်း သို့မဟုတ် ခွင့်လွှတ်ခြင်း"
+        }
+      },
+      {
+        "word": "رَّحِيم",
+        "translit": "raḥīm",
+        "en": "Most Merciful",
+        "my": "အလွန် သနားကြင်နာတော်မူသောအရှင်",
+        "quran_freq": 115,
+        "word_type": "Noun / Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ر ح م",
+          "concept_en": "mercy and womb",
+          "concept_my": "ကရုဏာ"
+        }
+      },
+      {
+        "word": "مُسْتَقِيم",
+        "translit": "mustaqīm",
+        "en": "straight",
+        "my": "ဖြောင့်မတ်သော",
+        "quran_freq": 37,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "مُسْتَفْعِل",
+        "root": {
+          "letters": "ق و م",
+          "concept_en": "to stand or be upright",
+          "concept_my": "မတ်တပ်ရပ်ခြင်း သို့မဟုတ် ဖြောင့်မတ်ခြင်း"
+        }
+      },
+      {
+        "word": "أَلِيم",
+        "translit": "alīm",
+        "en": "painful",
+        "my": "နာကျင်ဖွယ်ကောင်းသော",
+        "quran_freq": 72,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "أ ل م",
+          "concept_en": "pain",
+          "concept_my": "နာကျင်မှု"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْفَاصِلَةُ الْقُرْآنِيَّةُ",
+        "en": "The Quranic Fasila",
+        "my": "ကုရ်အာန်၏ ဖွာဆီလာ (အဆုံးသတ်ရစ်သမ်)"
+      },
+      "formula": {
+        "display": "Endings: -ūn, -īn, -ān, -im",
+        "example": "تَعْلَمُونَ ... يَعْقِلُونَ",
+        "myanmar_read": "အာယသ်တော်များ၏ အဆုံးသတ်တွင် တူညီသော အသံများကို သုံးခြင်း",
+        "key_insight": "Fasila is not mere rhyme (saj'); it is a purposeful sound pattern that fits the thematic flow of the surah."
+      },
+      "explanation": {
+        "en": "Fasila refers to the final words of Quranic verses that share similar rhythmic endings. Unlike poetry where rhyme can sometimes force the meaning, the Quran's Fasila flows naturally from the message. Common patterns include endings in -ūn/-īn (e.g., Al-Fatiha) or short sharp endings (e.g., Al-Qari'ah). This creates a psychological resonance and aids in memorization.",
+        "my": "ဖွာဆီလာ ဆိုသည်မှာ ကုရ်အာန်အာယသ်တော်များ၏ အဆုံးသတ်တွင် တူညီသော ရစ်သမ်အသံများကို သုံးခြင်းဖြစ်သည်။ ကဗျာများတွင် ကာရန်ညီစေရန် အဓိပ္ပာယ်ကို ညှိယူရသော်လည်း ကုရ်အာန်တွင်မူ အနက်အဓိပ္ပာယ်သည် အလိုအလျောက် ရစ်သမ်နှင့် ကိုက်ညီနေသည်။ ဥပမာ - စူရာဟ် ဖွာသိဟဟ်တွင် အဆုံးသတ်များမှာ 'န' သို့မဟုတ် 'မ' အသံများဖြင့် ဆုံးသည်။ ဤအရာသည် စိတ်လှုပ်ရှားမှုကို ဖြစ်စေပြီး ကျက်မှတ်ရာတွင် လွယ်ကူစေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to 'Linkya' in Myanmar poetry where the end of lines have harmonious sounds, but in Quran, it also serves a theological purpose.",
+        "my": "မြန်မာကဗျာများရှိ 'လင်္ကာ' ကာရန်များနှင့် ဆင်တူသော်လည်း ကုရ်အာန်၌မူ ၎င်းသည် ဘာသာရေးဆိုင်ရာ ရည်ရွယ်ချက်ကိုပါ ဖော်ဆောင်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The sound of the Fasila often matches the mood of the surah (e.g., soft for mercy, harsh for punishment).",
+          "rule_my": "ဖွာဆီလာ၏ အသံသည် စူရာဟ်၏ အခြေအနေနှင့် ကိုက်ညီလေ့ရှိသည် (ဥပမာ - ကရုဏာအတွက် ငြိမ်သက်သောအသံ၊ ပြစ်ဒဏ်အတွက် ပြင်းထန်သောအသံ)။",
+          "example": {
+            "ar": "عَلِيمٌ حَكِيمٌ",
+            "en": "All-Knowing, Wise",
+            "my": "အရာခပ်သိမ်းကို သိတော်မူသော၊ ဉာဏ်အမြော်အမြင်ရှိတော်မူသောအရှင်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Consistent -īn Ending",
+          "ar": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ... الرَّحْمَٰنِ الرَّحِيمِ",
+          "en": "Praise be to Allah, Lord of the worlds... The Entirely Merciful, the Especially Merciful",
+          "my": "ချီးမွမ်းခြင်းဟူသမျှသည် စကြဝဠာအပေါင်းကို ဖန်ဆင်းမွေးမြူတော်မူသော အလ္လာဟ်အရှင်မြတ်အတွက်သာဖြစ်ပါသည်။",
+          "ref": "1:2-3",
+          "breakdown": {
+            "subject": {
+              "word": "الْعَالَمِينَ",
+              "en": "the worlds",
+              "note": "-īn ending"
+            },
+            "predicate": {
+              "word": "الرَّحِيمِ",
+              "en": "the Merciful",
+              "note": "-īm ending (similar resonance)"
+            }
+          },
+          "myanmar_insight": "စူရာဟ် ဖွာသိဟဟ်တွင် မက်ဒ် (Mad) ဆွဲ၍ အဆုံးသတ်ရသော အသံများသည် တည်ငြိမ်မှုကို ပေးသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Calling Quranic endings 'Rhyme' (Saj') without distinction.",
+          "wrong": {
+            "ar": "سَجْع",
+            "note": "Implying it's like human rhymed prose."
+          },
+          "correct": {
+            "ar": "فَاصِلَة",
+            "en": "Fasila is the respectful term for Quranic endings.",
+            "my": "ကုရ်အာန်အတွက်မူ 'ဖွာဆီလာ' ဟု သုံးနှုန်းခြင်းက ပို၍ သင့်လျော်သည်။"
+          },
+          "myanmar_tip": "ကဗျာကာရန်နှင့် ကုရ်အာန်အဆုံးသတ်ပုံစံကို မရောထွေးပါနှင့်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the common ending sound in Surah Al-Fatiha",
+          "instruction_my": "စူရာဟ် ဖွာသိဟဟ်၏ အဆုံးသတ် အသံများကို ဖော်ပြပါ",
+          "questions": [
+            {
+              "q": "Surah Al-Fatiha",
+              "answer_en": "In/Im",
+              "answer_my": "အီးန် / အီးမ်",
+              "ref": "1:1-7"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'Innahu la-qawlun fasl'",
+          "instruction_my": "'Innahu la-qawlun fasl' ကို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+              "answer_en": "Indeed, it is a decisive word",
+              "answer_my": "အမှန်စင်စစ် ဤသည်မှာ ပြတ်သားသော စကားတော်ဖြစ်သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Provide two words ending in '-oon' common in Fasila",
+          "instruction_my": "'-oon' ဖြင့် ဆုံးသော စကားလုံးနှစ်လုံးကို ရေးပါ",
+          "questions": [
+            {
+              "q": "-oon",
+              "answer_en": "Ta'lamoon, Ya'qiloon",
+              "answer_my": "သအ်လာမွန်၊ ယအ်ကီလွန်",
+              "ar": "تَعْلَمُونَ، يَعْقِلُونَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The Fasila acts like a heartbeat in the Quran, creating a divine rhythm that settles the soul and echoes the majesty of the Creator.",
+        "my": "ဖွာဆီလာသည် ကုရ်အာန်၏ နှလုံးခုန်သံကဲ့သို့ ဖြစ်သည်။ ၎င်းသည် ဝိညာဉ်ကို တည်ငြိမ်စေသော နတ်ဘုရားဆန်သည့် ရစ်သမ်ကို ဖန်တီးပေးပြီး ဖန်ဆင်းရှင်၏ ခန့်ညားထည်ဝါမှုကို ပဲ့တင်ထပ်စေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Infitar 82:1-2",
+        "study_number": 1,
+        "arabic_full": "إِذَا السَّمَاءُ انفَطَرَتْ . وَإِذَا الْكَوَاكِبُ انتَثَرَتْ",
+        "en_sahih": "When the sky breaks apart. And when the stars are scattered",
+        "my_mmsy": "(၁) မိုးကောင်းကင်သည် အက်ကွဲစုတ်ပြဲသည့်အခါ၊",
+        "audio_ref": {
+          "surah": 82,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/082001.mp3"
+        },
+        "qurancom_url": "https://quran.com/82/1",
+        "context": {
+          "en": "These opening verses describe the terrifying events of the Day of Judgment.",
+          "my": "ဤအာယသ်တော်များသည် တရားစီရင်ရာနေ့၏ ထိတ်လန့်ဖွယ်ရာ ဖြစ်ရပ်များကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "انفَطَرَتْ",
+            "translit": "infatarat",
+            "en": "it breaks apart",
+            "my": "ကွဲအက်သွားသည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ف ط ر",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The '-at' ending (Ta-us-Sakinah) creates a sharp, clipping sound that reflects the suddenness of the events.",
+          "structure_my": "'-အတ်' (သကီးနဟ်ပါသော တာ့) အသံဖြင့် ဆုံးခြင်းသည် ဖြစ်ရပ်များ၏ ရုတ်တရက်ဖြစ်ပွားမှုကို ပေါ်လွင်စေသည်။",
+          "insight_en": "Fasila here is structural; the repetition of the 'at' sound builds tension.",
+          "insight_my": "'အတ်' အသံကို ထပ်ခါတလဲလဲ သုံးခြင်းဖြင့် စိတ်လှုပ်ရှားမှုကို မြင့်တက်စေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ف ط ر",
+            "concept_en": "To cleave or split open for the first time",
+            "concept_my": "ပထမဆုံးအကြိမ်အဖြစ် ကွဲအက်ခြင်း",
+            "members": [
+              {
+                "ar": "فِطْرَة",
+                "translit": "fiṭrah",
+                "en": "natural disposition",
+                "my": "ပင်ကိုယ်သဘာဝ",
+                "freq": 1
+              }
+            ],
+            "professors_note": "Fitrah and Infatar share the idea of 'origin' and 'breaking open'."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကောင်းကင်ကြီး ကွဲအက်သွားမည့် ထိုနေ့ကို ကျွန်ုပ်တို့ သတိရသင့်သည်။ ဤအာယသ်တော်များ၏ ရစ်သမ်သည် ကျွန်ုပ်တို့အား နိုးကြားစေပြီး ထိုနေ့အတွက် ပြင်ဆင်ရန် နှိုးဆော်နေသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Infatarat... Intatharat... rhythmic and quick.",
+          "meaning_anchor": "The sound of something cracking open.",
+          "daily_connection": "Recited in Juz Amma, reminds us of the end of time.",
+          "my": "အဆုံးသတ်ရှိ 'သ်' (Ta) အသံကို ဂရုပြုပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we studied the Fasila, the rhythmic verse ending of the Quran. We learned how consistent sound patterns contribute to the emotional and structural beauty of the divine text.",
+      "my": "ဤသင်ခန်းစာတွင် ကုရ်အာန်၏ အဆုံးသတ်ရစ်သမ်ဖြစ်သော ဖွာဆီလာအကြောင်း လေ့လာခဲ့သည်။ အသံပုံစံများက ကုရ်အာန်၏ လှပမှုနှင့် တည်ဆောက်ပုံကို မည်သို့အကျိုးပြုသည်ကို သိရှိခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-285",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 285,
+    "title": {
+      "ar": "السَّجْعُ فِي الْقُرْآنِ: جُزْءُ عَمَّ",
+      "en": "Rhetoric XXXV — Saj': Rhymed Prose in the Quran",
+      "my": "ကုရ်အာန်ရှိ ကာရန်ညီစကားပြေ (စဂျ်အ်)"
+    },
+    "meta": {
+      "study_time_minutes": 85,
+      "vocab_time": 15,
+      "grammar_time": 25,
+      "deep_study_time": 45,
+      "vocab_count": 10,
+      "grammar_focus": "Saj' (rhymed prose) analysis in Juz Amma; how sound supports meaning",
+      "grammar_formula": "Rhymed Prose (Saj') + Divine Guidance = Rhetorical Impact"
+    },
+    "section_1_vocab": [
+      {
+        "word": "سَجْع",
+        "translit": "saj‘",
+        "en": "rhymed prose",
+        "my": "ကာရန်ညီစကားပြေ",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "س ج ع",
+          "concept_en": "cooing of a dove / rhythmic speech",
+          "concept_my": "ချိုးငှက်တွန်သံကဲ့သို့ သာယာသော အသံ"
+        },
+        "memory_hook": {
+          "sound": "Saj' - sounds like 'Sage' (wise words)",
+          "image": "A bird singing in a regular pattern",
+          "cross_language": "None"
+        },
+        "word_family": [],
+        "pattern_unlock": "In rhetoric, Saj' makes the prose more memorable and impactful.",
+        "example": {
+          "ar": "وَالطُّورِ . وَكِتَابٍ مَّسْطُورٍ",
+          "en": "By the Mount. And [by] a Book inscribed",
+          "my": "သွူရ်တောင်ကို အရှင်မြတ် ကျိန်ဆိုတော်မူ၏။ ရေးသားထားသော ကျမ်းစာကိုလည်း (ကျိန်ဆိုတော်မူ၏)။",
+          "ref": "52:1-2"
+        }
+      },
+      {
+        "word": "مَّسْطُور",
+        "translit": "masṭūr",
+        "en": "written / inscribed",
+        "my": "ရေးသားထားသော",
+        "quran_freq": 6,
+        "word_type": "Adjective / Passive Participle",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "س ط ر",
+          "concept_en": "to write in lines",
+          "concept_my": "စာကြောင်းများဖြင့် ရေးသားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mastur - sounds like 'Master' (a master copy)",
+          "image": "A scroll with perfect lines of text",
+          "cross_language": "Satar (Line in Urdu/Persian)"
+        }
+      },
+      {
+        "word": "مَّنشُور",
+        "translit": "manshūr",
+        "en": "spread out / unfolded",
+        "my": "ဖြန့်ခင်းထားသော",
+        "quran_freq": 2,
+        "word_type": "Adjective / Passive Participle",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ن ش ر",
+          "concept_en": "to spread or resurrect",
+          "concept_my": "ဖြန့်ကျက်ခြင်း"
+        }
+      },
+      {
+        "word": "وَالضُّحَىٰ",
+        "translit": "waḍ-ḍuḥā",
+        "en": "by the morning brightness",
+        "my": "နံနက်ခင်း၏ အလင်းရောင်ကို အရှင်မြတ် ကျိန်ဆိုတော်မူ၏",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعَل",
+        "root": {
+          "letters": "ض ح و",
+          "concept_en": "forenoon / sunlight",
+          "concept_my": "နံနက်ခင်းနေရောင်ခြည်"
+        }
+      },
+      {
+        "word": "سَجَىٰ",
+        "translit": "sajā",
+        "en": "it covers with darkness / stills",
+        "my": "ငြိမ်သက်သွားသည် / မှောင်အတိကျသွားသည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "س ج و",
+          "concept_en": "to be still or dark",
+          "concept_my": "ငြိမ်သက်ခြင်း"
+        }
+      },
+      {
+        "word": "قَلَىٰ",
+        "translit": "qalā",
+        "en": "he detests / is weary of",
+        "my": "မုန်းတီးသည် / စွန့်ခွာသည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ق ل ي",
+          "concept_en": "to dislike or hate",
+          "concept_my": "မုန်းတီးခြင်း"
+        }
+      },
+      {
+        "word": "وَدَّعَكَ",
+        "translit": "wadda‘aka",
+        "en": "He has forsaken you",
+        "my": "အရှင်မြတ်သည် သင့်အား စွန့်ခွာတော်မူခဲ့သည်",
+        "quran_freq": 1,
+        "word_type": "Verb + Pronoun",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "و د ع",
+          "concept_en": "to leave or bid farewell",
+          "concept_my": "နှုတ်ဆက်ခြင်း သို့မဟုတ် စွန့်ခွာခြင်း"
+        }
+      },
+      {
+        "word": "عَاقِبَة",
+        "translit": "‘āqibah",
+        "en": "outcome / end",
+        "my": "အကျိုးဆက် / အဆုံးသတ်",
+        "quran_freq": 32,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَاعِلَة",
+        "root": {
+          "letters": "ع ق ب",
+          "concept_en": "heel / that which follows",
+          "concept_my": "နောက်မှလိုက်လာသောအရာ"
+        }
+      },
+      {
+        "word": "الْأُولَىٰ",
+        "translit": "al-ūlā",
+        "en": "the first / former life",
+        "my": "ပထမ (သို့) ယခင်ဘဝ",
+        "quran_freq": 30,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فُعْلَى",
+        "root": {
+          "letters": "أ و ل",
+          "concept_en": "beginning / first",
+          "concept_my": "ပထမ"
+        }
+      },
+      {
+        "word": "أَلَمْ يَجِدْكَ",
+        "translit": "alam yajidka",
+        "en": "Did He not find you?",
+        "my": "အရှင်မြတ်သည် သင့်အား မတွေ့ရှိခဲ့ပါသလော",
+        "quran_freq": 1,
+        "word_type": "Verb + Pronoun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "و ج د",
+          "concept_en": "to find",
+          "concept_my": "တွေ့ရှိခြင်း"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "السَّجْعُ الْمُتَوَازِنُ",
+        "en": "Balanced Saj'",
+        "my": "မျှတသော ကာရန်ညီစကားပြေ"
+      },
+      "formula": {
+        "display": "Phrase A (End sound X) + Phrase B (End sound X)",
+        "example": "وَالضُّحَىٰ . وَاللَّيْلِ إِذَا سَجَىٰ",
+        "myanmar_read": "စာကြောင်းများ၏ အဆုံးသတ်တွင် တူညီသော အသံများဖြင့် အလှဆင်ခြင်း",
+        "key_insight": "In Juz Amma, Saj' is used to capture attention and emphasize the gravity of the message through short, rhythmic bursts."
+      },
+      "explanation": {
+        "en": "Saj' is rhymed prose where consecutive phrases end with the same letter or sound. While common in pre-Islamic oratory, the Quran elevated Saj' to a divine level where the rhyme never sacrifices the truth of the meaning. It is most prominent in the early Meccan surahs (Juz Amma), providing a powerful, percussive quality to the warnings and descriptions of the afterlife.",
+        "my": "စဂျ်အ် ဆိုသည်မှာ စာကြောင်းများ၏ အဆုံးသတ်တွင် တူညီသော အသံများ သို့မဟုတ် ဗျည်းများဖြင့် အဆုံးသတ်သည့် ကာရန်ညီစကားပြေဖြစ်သည်။ အစ္စလာမ်မတိုင်မီကပင် ဤပုံစံရှိခဲ့သော်လည်း ကုရ်အာန်သည် ၎င်းကို ပိုမိုမြင့်မားသောအဆင့်သို့ ပို့ဆောင်ခဲ့သည်။ အဓိပ္ပာယ်ကို မထိခိုက်စေဘဲ ကာရန်ကို လှပစွာ သုံးနှုန်းထားခြင်းဖြစ်သည်။ ဤပုံစံကို မက္ကဟ်မြို့တွင် ကျရောက်သော စူရာဟ်များ (ဥပမာ - ဂျုဇ်အမ္မ) တွင် အများဆုံးတွေ့ရသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Like 'Naryi' or rhythmic prose in Myanmar classical literature used for speeches or royal decrees.",
+        "my": "မြန်မာစာပေရှိ 'နေရီ' သို့မဟုတ် စည်းချက်ဝါးချက်ညီသော စကားပြေအရေးအသားနှင့် ဆင်တူသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Saj' in the Quran often changes its rhyme as the topic shifts within a surah.",
+          "rule_my": "ကုရ်အာန်ရှိ စဂျ်အ်သည် အကြောင်းအရာပြောင်းသွားသည်နှင့်အမျှ ကာရန်အသံကိုလည်း ပြောင်းလဲလေ့ရှိသည်။",
+          "example": {
+            "ar": "سَجَىٰ ... قَلَىٰ",
+            "en": "stilled ... detests",
+            "my": "ငြိမ်သက်သွားသည် ... မုန်းတီးသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Rhythmic Symmetry in Surah Ad-Duha",
+          "ar": "وَالضُّحَىٰ . وَاللَّيْلِ إِذَا سَجَىٰ . مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+          "en": "By the morning brightness. And [by] the night when it covers with darkness. Your Lord has not taken leave of you, nor has He detested [you]",
+          "my": "(၁) (ငါအရှင်မြတ်သည်) နေတက်ချိန်(နေရောင်)ကို သက်သေထူတော်မူသည်။",
+          "ref": "93:1-3",
+          "breakdown": {
+            "subject": {
+              "word": "رَبُّكَ",
+              "en": "your Lord",
+              "note": "The active agent"
+            },
+            "predicate": {
+              "word": "مَا وَدَّعَكَ",
+              "en": "did not leave you",
+              "note": "Matches rhyme with 'Saja' and 'Duha'"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'အာ' (Alif Maqsurah) အသံဖြင့် ဆုံးခြင်းသည် သာယာငြိမ့်ညောင်းမှုကို ပေးသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking Saj' is the same as poetry (Shi'r).",
+          "wrong": {
+            "ar": "شِعْر",
+            "note": "Quran is not poetry; it doesn't follow strict poetic meters (Bihar)."
+          },
+          "correct": {
+            "ar": "نَثْر مُسَجَّع",
+            "en": "It is rhymed prose, not poetry.",
+            "my": "၎င်းသည် ကာရန်ညီစကားပြေသာဖြစ်ပြီး ကဗျာမဟုတ်ပါ။"
+          },
+          "myanmar_tip": "ကုရ်အာန်ကို ကဗျာဟု မခေါ်ဆိုသင့်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the rhyming sound in the first three ayahs of Surah Ad-Duha",
+          "instruction_my": "စူရာဟ် အဒ်-ဒိုဟာ ၏ ပထမ အာယသ်တော်သုံးခုမှ ကာရန်အသံကို ရှာပါ",
+          "questions": [
+            {
+              "q": "Surah Ad-Duha 1-3",
+              "answer_en": "Long 'A' sound (-ā)",
+              "answer_my": "အသံရှည် 'အာ' (-ā)",
+              "ref": "93:1-3"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: 'Wa-layli idha saja'",
+          "instruction_my": "ဘာသာပြန်ပါ - 'Wa-layli idha saja'",
+          "questions": [
+            {
+              "q": "وَاللَّيْلِ إِذَا سَجَىٰ",
+              "answer_en": "And by the night when it covers with darkness",
+              "answer_my": "ငြိမ်သက်သွားသောညကို အရှင်မြတ် ကျိန်ဆိုတော်မူ၏"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Find a word from the vocab that rhymes with 'Manshur'",
+          "instruction_my": "'မန်ရှူးရ်' နှင့် ကာရန်တူသော စကားလုံးကို ဝေါဟာရထဲမှရှာပါ",
+          "questions": [
+            {
+              "q": "Rhyme with Manshur",
+              "answer_en": "Mastur",
+              "answer_my": "မတ်စ်သူးရ်",
+              "ar": "مَّسْطُور"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The music of the Quranic Saj' is a mercy; it makes the words beautiful to the ear, easy for the tongue, and deep for the heart.",
+        "my": "ကုရ်အာန်၏ ကာရန်ညီသောအသံများသည် ကရုဏာတော်တစ်ရပ်ဖြစ်သည်။ ၎င်းသည် နားထဲ၌ သာယာစေသည်၊ ရွတ်ဆိုရာ၌ လွယ်ကူစေသည်၊ နှလုံးသားထဲသို့ နက်ရှိုင်းစွာ ရောက်ရှိစေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "At-Tur 52:1-3",
+        "study_number": 1,
+        "arabic_full": "وَالطُّورِ . وَكِتَابٍ مَّسْطُورٍ . فِي رَقٍّ مَّنشُورٍ",
+        "en_sahih": "By the Mount. And [by] a Book inscribed. In parchment unrolled",
+        "my_mmsy": "(၁) (ငါအရှင်မြတ်သည်) သွူရ် တောင်  ၁ ကို သက်သေထူတော်မူသည်။",
+        "audio_ref": {
+          "surah": 52,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/052001.mp3"
+        },
+        "qurancom_url": "https://quran.com/52/1",
+        "context": {
+          "en": "Allah swears by several mighty things to confirm that His punishment is certain to happen.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ၎င်း၏ပြစ်ဒဏ်မှာ ဧကန်မလွဲ ဖြစ်ပွားမည်ဖြစ်ကြောင်း အတည်ပြုရန် ကြီးကျယ်သောအရာများကို ကျိန်ဆိုထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "مَّسْطُورٍ",
+            "translit": "masṭūrin",
+            "en": "inscribed",
+            "my": "ရေးသားထားသော",
+            "role_en": "Adjective",
+            "role_my": "နာမ်စား",
+            "root": "س ط ر",
+            "freq": 6
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The -ūr ending creates a heavy, resonant sound that demands attention.",
+          "structure_my": "'-ူးရ်' အဆုံးသတ်သည် လေးနက်သော အသံကိုဖြစ်စေပြီး ဂရုပြုရန် လိုအပ်ကြောင်း ပြသသည်။",
+          "insight_en": "Saj' here links the solid physical reality (The Mount) with the divine decree (The Book).",
+          "insight_my": "ဤနေရာရှိ စဂျ်အ်သည် ခိုင်မာသော ရုပ်ဝတ္ထု (သွူရ်တောင်) နှင့် နတ်ဘုရား၏ ပြဌာန်းချက် (ကျမ်းစာ) ကို ဆက်စပ်ပေးသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "س ط ر",
+            "concept_en": "To arrange words or things in a row",
+            "concept_my": "စကားလုံးများ သို့မဟုတ် အရာများကို အစီအစဉ်တကျ စီတန်းခြင်း",
+            "members": [
+              {
+                "ar": "أَسَاطِير",
+                "translit": "asāṭīr",
+                "en": "myths/tales",
+                "my": "ဒဏ္ဍာရီများ",
+                "freq": 9
+              }
+            ],
+            "professors_note": "The contrast between a 'written book' (Mastur) and 'myths' (Asatir) is a key theme."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ကျိန်ဆိုချက်များသည် ကျွန်ုပ်တို့၏ နှလုံးသားကို တုန်လှုပ်စေသည်။ ဤရစ်သမ်များနှင့် ကာရန်များသည် ကျွန်ုပ်တို့အား ထိုနေ့၏ လေးနက်မှုကို သတိပေးနေသည်။ အရှင်မြတ်၏ ပြဌာန်းချက်များသည် အမှန်တကယ် ဖြစ်လာမည့်အရာများ ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Short phrases with repeating '-ūr' sounds.",
+          "meaning_anchor": "Think of lines of writing on a scroll.",
+          "daily_connection": "Reminds us that our deeds are also being 'inscribed'.",
+          "my": "သူးရ်၊ မတ်စ်သူးရ်၊ မန်ရှူးရ် - ဟူသော ကာရန်ကို မှတ်ထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this final rhetoric lesson of the batch, we analyzed Saj' (rhymed prose). We saw how the Quran uses balanced sound patterns to emphasize its message, especially in the impactful surahs of Juz Amma.",
+      "my": "ဤသင်ခန်းစာတွင် ကုရ်အာန်ရှိ ကာရန်ညီစကားပြေ (စဂျ်အ်) အကြောင်းကို လေ့လာခဲ့သည်။ အထူးသဖြင့် ဂျုဇ်အမ္မရှိ စူရာဟ်များတွင် အသံပုံစံများကို အသုံးပြု၍ သတင်းစကားကို မည်သို့လေးနက်စေသည်ကို တွေ့မြင်ခဲ့ရသည်။"
+    }
+  }
+]

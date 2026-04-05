@@ -1,0 +1,2039 @@
+[
+  {
+    "lesson_id": "L6-266",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 266,
+    "title": {
+      "ar": "بَلَاغَةُ المُرَادِفَاتِ (١) — الخَوْفُ وَالخَشْيَةُ",
+      "en": "Rhetoric XVI — Quranic Synonyms I: Fear",
+      "my": "ကုရ်အာန်ကျမ်းလာ အနက်တူစကားလုံးများ (၁) - ကြောက်ရွံ့ခြင်း (ခေါင်ဖ်၊ ခရှ်ယဟ်၊ ရဟ်ဗဟ်၊ ဝဂျလ်)"
+    },
+    "meta": {
+      "study_time_minutes": 90,
+      "vocab_time": 20,
+      "grammar_time": 20,
+      "deep_study_time": 50,
+      "vocab_count": 10,
+      "grammar_focus": "Four Quranic words for fear — different intensities and objects",
+      "grammar_formula": "Context + Intensity = Precise Word Choice"
+    },
+    "section_1_vocab": [
+      {
+        "word": "خَوْف",
+        "translit": "khawf",
+        "en": "fear (general)",
+        "my": "ကြောက်ရွံ့ခြင်း (အထွေထွေ)",
+        "quran_freq": 124,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "خ و ف",
+          "concept_en": "expectation of harm",
+          "concept_my": "ဘေးဥပဒ်ကျရောက်မည်ကို စိုးရိမ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cough",
+          "image": "Someone coughing and fearing they are getting sick",
+          "cross_language": "Khauf is used in Urdu/Persian"
+        },
+        "word_family": [
+          {
+            "ar": "خَافَ",
+            "translit": "khāfa",
+            "en": "he feared",
+            "my": "သူကြောက်ရွံ့ခဲ့သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Words from this root often describe the physical or psychological sensation of fear.",
+        "example": {
+          "ar": "فَلَا خَوْفٌ عَلَيْهِمْ",
+          "en": "then no fear shall be upon them",
+          "my": "၎င်းတို့အပေါ်၌ အဘယ်ကြောက်ရွံ့ခြင်းမှမရှိ",
+          "ref": "2:38"
+        }
+      },
+      {
+        "word": "خَشْيَة",
+        "translit": "khashyah",
+        "en": "fear based on knowledge/reverence",
+        "my": "သိနားလည်မှုနှင့် ရိုသေမှုအပေါ်အခြေခံသော ကြောက်ရွံ့ခြင်း",
+        "quran_freq": 48,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "خ ش ي",
+          "concept_en": "fear with awe",
+          "concept_my": "ကြီးကျယ်မှုကို သိရှိ၍ ကြောက်ရွံ့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hush",
+          "image": "Hushing yourself in a grand library out of respect",
+          "cross_language": "Khashyatullah is a common term"
+        },
+        "word_family": [
+          {
+            "ar": "يَخْشَى",
+            "translit": "yakhshā",
+            "en": "he fears/stands in awe",
+            "my": "သူရိုသေစွာကြောက်ရွံ့သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Khashyah is higher than Khawf because it requires 'ilm (knowledge) of the object feared.",
+        "example": {
+          "ar": "مِنْ خَشْيَةِ اللَّهِ",
+          "en": "from the fear of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်အား ရိုသေစွာကြောက်ရွံ့ခြင်းကြောင့်",
+          "ref": "59:21"
+        }
+      },
+      {
+        "word": "رَهْبَة",
+        "translit": "rahbah",
+        "en": "dread/anxiety",
+        "my": "စိုးရိမ်တုန်လှုပ်ခြင်း",
+        "quran_freq": 12,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "ر ه ب",
+          "concept_en": "continuous fear/monasticism",
+          "concept_my": "အမြဲတစေစိုးရိမ်နေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Robber",
+          "image": "The feeling of dread when you see a robber",
+          "cross_language": "Rahib (Monk) comes from the same root"
+        },
+        "word_family": [
+          {
+            "ar": "تَرْهِيب",
+            "translit": "tarhīb",
+            "en": "intimidation",
+            "my": "ခြောက်လှန့်ခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This root implies a fear that lasts and affects one's actions or lifestyle.",
+        "example": {
+          "ar": "وَيَدْعُونَنَا رَغَبًا وَرَهَبًا",
+          "en": "and they used to call on Us with hope and fear",
+          "my": "၎င်းတို့သည် ငါအရှင်အား မျှော်လင့်ချက်ဖြင့်လည်းကောင်း၊ စိုးရိမ်ခြင်းဖြင့်လည်းကောင်း ဆုတောင်းကြသည်",
+          "ref": "21:90"
+        }
+      },
+      {
+        "word": "وَجَل",
+        "translit": "wajal",
+        "en": "trembling of the heart",
+        "my": "နှလုံးသားတုန်လှုပ်ချောက်ချားခြင်း",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "و ج ل",
+          "concept_en": "heart shaking with fear",
+          "concept_my": "နှလုံးသားတုန်ခါခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Waggle",
+          "image": "A heart waggling/shaking due to intense emotion",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "وَجِلَتْ",
+            "translit": "wajilat",
+            "en": "shuddered/trembled",
+            "my": "တုန်လှုပ်သွားခဲ့သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Wajal refers specifically to the internal physical reaction of the heart when hearing the mention of Allah.",
+        "example": {
+          "ar": "وَجِلَتْ قُلُوبُهُمْ",
+          "en": "their hearts tremble",
+          "my": "၎င်းတို့၏ နှလုံးသားများ တုန်လှုပ်ကြသည်",
+          "ref": "8:2"
+        }
+      },
+      {
+        "word": "تَقْوَى",
+        "translit": "taqwā",
+        "en": "god-consciousness/protection",
+        "my": "ဘုရားသခင်ကို ကြောက်ရွံ့ရိုသေခြင်း (တက္ကဝါ)",
+        "quran_freq": 258,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَى",
+        "root": {
+          "letters": "و ق ي",
+          "concept_en": "protection/shielding",
+          "concept_my": "ကာကွယ်ခြင်း/ရှောင်ကြဉ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Take-way",
+          "image": "Taking a shield away from danger",
+          "cross_language": "Taqwa is used in all Muslim languages"
+        },
+        "word_family": [
+          {
+            "ar": "اتَّقَى",
+            "translit": "ittaqā",
+            "en": "he guarded himself",
+            "my": "သူမိမိကိုယ်ကို ကာကွယ်ခဲ့သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Taqwa is fear translated into action; it is building a shield between you and Allah's anger.",
+        "example": {
+          "ar": "لَعَلَّكُمْ تَتَّقُونَ",
+          "en": "that you may become righteous",
+          "my": "သင်တို့ တက္ကဝါတရားပွားများစေရန်",
+          "ref": "2:183"
+        }
+      },
+      {
+        "word": "فَرَق",
+        "translit": "faraq",
+        "en": "splitting/paralyzing fear",
+        "my": "ပြင်းထန်စွာကြောက်ရွံ့ခြင်း (ကွဲအက်စေသော)",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "ف ر ق",
+          "concept_en": "separating/bursting",
+          "concept_my": "ခွဲခြားခြင်း/ကွဲထွက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fracture",
+          "image": "Someone so scared their heart fractures into pieces",
+          "cross_language": "Farq (difference) comes from the same root"
+        },
+        "word_family": [
+          {
+            "ar": "يَفْرَقُونَ",
+            "translit": "yafraqūn",
+            "en": "they are terrified",
+            "my": "၎င်းတို့သည် အလွန်အမင်း ကြောက်လန့်နေကြသည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This implies a fear that 'splits' the soul or makes one lose composure.",
+        "example": {
+          "ar": "وَلَٰكِنَّهُمْ قَوْمٌ يَفْرَقُونَ",
+          "en": "but they are a people who are terrified",
+          "my": "သို့သော် ၎င်းတို့သည် အလွန်အမင်းကြောက်လန့်တတ်သော လူမျိုးဖြစ်သည်",
+          "ref": "9:56"
+        }
+      },
+      {
+        "word": "إِشْفَاق",
+        "translit": "ishfāq",
+        "en": "protective fear/pity",
+        "my": "ဂရုဏာသက်၍ စိုးရိမ်ခြင်း",
+        "quran_freq": 12,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "إِفْعَال",
+        "root": {
+          "letters": "ش ف ق",
+          "concept_en": "twilight/thinness",
+          "concept_my": "မိုးချုပ်စ/ပါးလွှာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shafaq (Twilight)",
+          "image": "The soft light at sunset when a mother worries if her kids are home",
+          "cross_language": "Shafaqat in Urdu means kindness"
+        },
+        "word_family": [
+          {
+            "ar": "مُشْفِقُون",
+            "translit": "mushfiqūn",
+            "en": "those who are fearful",
+            "my": "စိုးရိမ်ပူပန်သူများ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Ishfaq is fear mixed with love and concern, like a parent for a child.",
+        "example": {
+          "ar": "وَهُم مِّنَ السَّاعَةِ مُشْفِقُونَ",
+          "en": "and they are apprehensive of the Hour",
+          "my": "၎င်းတို့သည် ကိယာမသ်နေ့နှင့်ပတ်သက်၍ စိုးရိမ်ပူပန်နေကြသည်",
+          "ref": "21:49"
+        }
+      },
+      {
+        "word": "هَيْبَة",
+        "translit": "haybah",
+        "en": "awe/grandeur",
+        "my": "ခန့်ညားထည်ဝါမှုကြောင့် ကြောက်ရွံ့ခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "ه ي ب",
+          "concept_en": "dread/veneration",
+          "concept_my": "ကြည်ညိုလေးစားမှု"
+        },
+        "memory_hook": {
+          "sound": "High-be",
+          "image": "A high, noble being",
+          "cross_language": "Myanmar: 'ဟိုင်ဗာ' (Aura/Awe)"
+        },
+        "word_family": [
+          {
+            "ar": "مَهِيب",
+            "translit": "mahīb",
+            "en": "formidable",
+            "my": "ခန့်ညားသော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This describes the reaction to someone's majesty (Jalal).",
+        "example": {
+          "ar": "N/A",
+          "en": "N/A (Root used in Hadith/Classical Arabic)",
+          "my": "N/A",
+          "ref": "N/A"
+        }
+      },
+      {
+        "word": "رُعْب",
+        "translit": "ru'b",
+        "en": "terror/panic",
+        "my": "ထိတ်လန့်တုန်လှုပ်ခြင်း",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ر ع ب",
+          "concept_en": "filling with fear",
+          "concept_my": "ကြောက်စိတ်ဖြင့်ပြည့်နှက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rob",
+          "image": "Being robbed and feeling pure panic",
+          "cross_language": "Myanmar: 'ရိုအဗ်' (Terror)"
+        },
+        "word_family": [
+          {
+            "ar": "أُرْعِبَ",
+            "translit": "ur'iba",
+            "en": "he was terrified",
+            "my": "သူထိတ်လန့်သွားခဲ့သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Ru'b is a fear that fills the heart so much that it paralyzes movement.",
+        "example": {
+          "ar": "سَنُلْقِي فِي قُلُوبِ الَّذِينَ كَفَرُوا الرُّعْبَ",
+          "en": "We will cast terror into the hearts of those who disbelieve",
+          "my": "ငါအရှင်သည် ကာဖိရ်များ၏ နှလုံးသားထဲသို့ ထိတ်လန့်ခြင်းကို ထည့်သွင်းပေးမည်",
+          "ref": "3:151"
+        }
+      },
+      {
+        "word": "حَذَر",
+        "translit": "hadhar",
+        "en": "caution/vigilance",
+        "my": "သတိထားစိုးရိမ်ခြင်း",
+        "quran_freq": 21,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "ح ذ ر",
+          "concept_en": "being on guard",
+          "concept_my": "သတိထားစောင့်ကြည့်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hazard",
+          "image": "Being cautious of a hazard sign",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "حِذْر",
+            "translit": "hidhr",
+            "en": "precaution",
+            "my": "ကြိုတင်ကာကွယ်မှု",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Hadhar is the intellectual form of fear that leads to taking physical precautions.",
+        "example": {
+          "ar": "خُذُوا حِذْرَكُمْ",
+          "en": "take your precautions",
+          "my": "သင်တို့၏ ကြိုတင်ကာကွယ်မှုများကို ယူထားကြလော့",
+          "ref": "4:71"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "بَلَاغَةُ المُرَادِفَاتِ",
+        "en": "The Rhetoric of Synonyms",
+        "my": "အနက်တူစကားလုံးများ၏ အာဝဇ္ဇန်း (ဗလာဂသ်)"
+      },
+      "formula": {
+        "display": "Different Context + Nuance = Precise Word",
+        "example": "خَشْيَة (Knowledge-based) vs خَوْف (Physical/General)",
+        "myanmar_read": "ကုရ်အာန်တွင် 'ကြောက်ခြင်း' ဟူသောစကားလုံး တစ်မျိုးတည်းမကဘဲ အခြေအနေအလိုက် ပြောင်းလဲသုံးနှုန်းပုံ",
+        "key_insight": "Arabic has no 'true' synonyms; if a different word is used, it adds a new layer of meaning."
+      },
+      "explanation": {
+        "en": "While English might use 'fear' for many situations, the Quran uses specific roots to convey depth. Khawf is the base fear of harm. Khashya is fear mixed with the greatness of the one feared. Rahbah is a long-term dread that drives devotion. Wajal is the physical trembling of the heart upon remembering the Divine.",
+        "my": "အင်္ဂလိပ်ဘာသာတွင် 'fear' ဟု ယေဘုယျသုံးသော်လည်း ကုရ်အာန်တွင် အဓိပ္ပာယ်အမျိုးမျိုးခွဲခြားထားသည်။ 'ခေါင်ဖ်' သည် ဘေးဥပဒ်ကို ကြောက်ခြင်းဖြစ်သည်။ 'ခရှ်ယဟ်' သည် ဘုရားသခင်၏ ကြီးကျယ်မှုကို သိရှိပြီး ရိုသေကြောက်ရွံ့ခြင်းဖြစ်သည်။ 'ရဟ်ဗဟ်' သည် အမြဲမပြတ် စိုးရိမ်နေခြင်းဖြစ်ပြီး 'ဝဂျလ်' မှာမူ ဘုရားသခင်ကို အောက်မေ့ချိန်တွင် နှလုံးသားတုန်လှုပ်ခြင်း ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese often differentiates fear by adding adjectives (ဥပမာ- ရိုသေကြောက်ရွံ့ခြင်း vs ထိတ်လန့်ခြင်း), but Arabic uses entirely different roots to convey these levels implicitly.",
+        "my": "မြန်မာဘာသာတွင် 'ကြောက်ခြင်း' ရှေ့တွင် ဝိသေသနများ ထည့်သွင်းဖော်ပြလေ့ရှိသော်လည်း အာရဗီတွင် စကားလုံး၏ မူလအမြစ် (Root) ကိုပြောင်းလဲခြင်းဖြင့် အဓိပ္ပာယ်အနက်ကို လေးနက်စေသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Khashya requires knowledge ('Ilm) of the object.",
+          "rule_my": "ခရှ်ယဟ် စကားလုံးကို သုံးရန်အတွက် ကြောက်ရွံ့ရမည့်အရာအပေါ် 'အသိပညာ' ရှိရန်လိုအပ်သည်။",
+          "example": {
+            "ar": "إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ",
+            "en": "Only those fear Allah, from among His servants, who have knowledge.",
+            "my": "အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်၏ အစေခံတော်များအနက် အသိပညာရှိသူများသာ အရှင်မြတ်အား (ခရှ်ယဟ်) ရိုသေကြောက်ရွံ့ကြသည်။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ",
+          "en": "The believers are only those who, when Allah is mentioned, their hearts fear.",
+          "my": "ဤသူများပင် (အမှန်)ယုံကြည်သူများဖြစ်ကြသည်။ (ထိုသူများရှေ့၌)အလ္လာဟ်အရှင်မြတ်အား သတိရခဲ့လျှင်၊ သူတို့၏စိတ်နှလုံးများသည် ထိတ်လန့်တုန်လှုပ်သွားကြသည်။ ၎င်းပြင် အကယ်၍ သူတို့ရှေ့၌ အရှင်မြတ်၏အာယသ်တော်များကို ဖတ်ကြားခဲ့လျှင် သူတို့၏အီမာန်ယုံကြည်မှုကို တိုးပွားခိုင်မြဲစေကြသည်။ ထို့ပြင် သူတို့သည် (ကိစ္စရပ်တိုင်းကို) သူတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်အပေါ်၌သာ ယုံပုံအပ်နှင်းကြသည်။",
+          "ref": "8:2",
+          "breakdown": {
+            "subject": {
+              "word": "الْمُؤْمِنُونَ",
+              "en": "the believers",
+              "note": "The true faithful"
+            },
+            "predicate": {
+              "word": "وَجِلَتْ قُلُوبُهُمْ",
+              "en": "their hearts tremble",
+              "note": "Refers to the immediate physical reaction"
+            }
+          },
+          "myanmar_insight": "နှလုံးသားတုန်လှုပ်ခြင်း (Wajal) သည် အီမာန်ရှင်များ၏ လက္ခဏာဖြစ်ကြောင်း ဖော်ပြနေသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using Khawf for Scholars instead of Khashya",
+          "wrong": {
+            "ar": "الخوف لله",
+            "note": "implies physical fear only"
+          },
+          "correct": {
+            "ar": "الخشية لله",
+            "en": "Reverent awe of Allah",
+            "my": "အလ္လာဟ်အရှင်မြတ်အား သိမြင်ရိုသေစွာ ကြောက်ရွံ့ခြင်း"
+          },
+          "myanmar_tip": "ဘုရားသခင်နှင့်ပတ်သက်လျှင် 'ရိုသေကြောက်ရွံ့ခြင်း' (ခရှ်ယဟ်) ကို ပိုမိုအသုံးပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the type of fear in the following verses",
+          "instruction_my": "အောက်ပါအာယတ်တော်များတွင် မည်သည့် ကြောက်ရွံ့ခြင်းအမျိုးအစားကို သုံးထားသနည်း ခွဲခြားပြပါ",
+          "questions": [
+            {
+              "q": "يَخَافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ الْقُلُوبُ",
+              "answer_en": "Khawf (Physical/Intense fear)",
+              "answer_my": "ခေါင်ဖ် (ရုပ်ပိုင်းဆိုင်ရာ ပြင်းထန်သော ကြောက်ရွံ့မှု)",
+              "ref": "24:37"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the nuanced meaning",
+          "instruction_my": "အနက်အဓိပ္ပာယ်ကို မြန်မာလိုပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "وَجِلَتْ قُلُوبُهُمْ",
+              "answer_en": "Their hearts trembled/shuddered",
+              "answer_my": "၎င်းတို့၏ နှလုံးသားများ တုန်လှုပ်သွားခဲ့ကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change the root to express knowledge-based fear",
+          "instruction_my": "အသိပညာအခြေခံသော ကြောက်ရွံ့ခြင်း (Khashya) အဖြစ် ပြောင်းလဲရေးသားပါ",
+          "questions": [
+            {
+              "q": "خَوْف",
+              "answer_en": "Khashyah",
+              "answer_my": "ခရှ်ယဟ်",
+              "ar": "خَشْيَة"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Understanding these words helps a believer diagnose their spiritual state. Is the heart hard (lacking Wajal) or is one's fear lacking knowledge (lacking Khashya)? The Quran guides us from raw terror to loving, reverent awe.",
+        "my": "ဤစကားလုံးများကို နားလည်ခြင်းဖြင့် မိမိ၏ ဝိညာဉ်ရေးရာ အခြေအနေကို စစ်ဆေးနိုင်သည်။ နှလုံးသားသည် မာကျောနေသလား (ဝဂျလ် ကင်းမဲ့နေသလား) သို့မဟုတ် မိမိ၏ ကြောက်ရွံ့မှုသည် အသိပညာကင်းမဲ့နေသလား (ခရှ်ယဟ် ကင်းမဲ့နေသလား) ဆိုသည်ကို သိရှိစေပြီး၊ အရှင်မြတ်အား ချစ်မြတ်နိုးစွာ ရိုသေကြောက်ရွံ့တတ်ရန် လမ်းညွှန်ပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Fatir 35:28",
+        "study_number": 1,
+        "arabic_full": "إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ",
+        "en_sahih": "Only those fear Allah, from among His servants, who have knowledge.",
+        "my_mmsy": "ထို့ပြင် လူများ၊ သက်ရှိသတ္တဝါများနှင့် ကုလားအုတ်၊ ကျွဲ၊ နွား၊ တိရစ္ဆာန်များတို့တွင် ထိုကဲ့သို့ အရောင်အဆင်း အမျိုးမျိုးရှိကြသည်။ အလ္လာဟ်အရှင်မြတ်အား အရှင်မြတ်၏ကျွန်များထဲမှ ပညာရှင်များသာ ကြောက်ရွံ့ကြသည်။  အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးတော်နှင့် အလွန်လွှမ်းမိုးတော်မူသောအရှင်၊ လွတ်ငြိမ်းချမ်းသာခွင့် အလွန်ပေးတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 35,
+          "ayah": 28,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/035028.mp3"
+        },
+        "qurancom_url": "https://quran.com/35/28",
+        "context": {
+          "en": "Allah is describing the diversity in creation (mountains, fruits, people) and points to those who truly perceive these signs.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ဖန်ဆင်းထားသော အရာဝတ္ထုများ၏ ထူးခြားကွဲပြားမှုများကို ဖော်ပြပြီးနောက် ၎င်းတို့ကို အမှန်တကယ် ဆင်ခြင်မိသူများအကြောင်းကို မိန့်ကြားထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "يَخْشَى",
+            "translit": "yakhshā",
+            "en": "fears/stands in awe",
+            "my": "ရိုသေစွာကြောက်ရွံ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "خ ش ي",
+            "freq": 48
+          },
+          {
+            "ar": "الْعُلَمَاءُ",
+            "translit": "al-ʿulamāʾu",
+            "en": "the scholars/knowledgeable",
+            "my": "ပညာရှိသူများ",
+            "role_en": "Subject",
+            "role_my": "ကတ္တား",
+            "root": "ع ل م",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The usage of Khashya (knowledge-based awe) directly connects to the subject 'Al-Ulama' (those who know).",
+          "structure_my": "'ခရှ်ယဟ်' (သိနားလည်၍ ကြောက်ခြင်း) စကားလုံးကို သုံးခြင်းသည် 'အုလမာ' (ပညာရှိသူများ) ဆိုသည့် ကတ္တားနှင့် တိုက်ရိုက်ဆက်စပ်နေသည်။",
+          "insight_en": "Grammatically, 'Allah' is in the accusative case (fatha), meaning He is the object of the fear, while the scholars are the ones doing the fearing.",
+          "insight_my": "သဒ္ဒါအရ 'အလ္လာဟ်' သည် ကံပုဒ်ဖြစ်ပြီး 'အုလမာ' (ပညာရှိများ) သည် ကတ္တားဖြစ်သည်။ ဆိုလိုသည်မှာ ပညာရှိများက အလ္လာဟ်အား ကြောက်ရွံ့ခြင်းဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "خ ش ي",
+            "concept_en": "A fear that results in protecting what you value from being lost.",
+            "concept_my": "မိမိတန်ဖိုးထားသောအရာကို ဆုံးရှုံးရမည်စိုး၍ ထိန်းသိမ်းစောင့်ရှောက်သော ကြောက်ရွံ့မှု။",
+            "members": [
+              {
+                "ar": "خَشْيَة",
+                "en": "awe",
+                "my": "ရိုသေမှု",
+                "freq": 48
+              }
+            ],
+            "professors_note": "In Balagha, Khashya is an 'active' fear; it moves the heart toward action, unlike simple terror which paralyzes."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ မြန်မာမွတ်စလင်မ်များအနေဖြင့် ဘာသာရေးပညာကို သင်ယူရာတွင် စာအုပ်ထဲရှိ အချက်အလက်များကို သိရုံသာမဟုတ်ဘဲ၊ ထိုအသိပညာကြောင့် အလ္လာဟ်အရှင်မြတ်၏ ကြီးကျယ်မှုကို နှလုံးသားထဲတွင် ခံစားလာရကာ 'ခရှ်ယဟ်' ခေါ် ရိုသေကြောက်ရွံ့မှု တိုးပွားလာရန် လိုအပ်ပါသည်။ ပညာတတ်ခြင်း၏ အစစ်အမှန် အသီးအပွင့်မှာ အရှင်မြတ်အား ပိုမိုကြည်ညိုခြင်းပင် ဖြစ်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah flows from the verb to the object then to the subject: Yakhsha-Allah-al-Ulama.",
+          "meaning_anchor": "Imagine a scholar looking at a galaxy and being speechless with awe.",
+          "daily_connection": "Recite this when seeking motivation for religious study.",
+          "my": "ပညာရှိသူနှင့် ကြောက်ရွံ့ရိုသေမှုတို့၏ ဆက်စပ်ပုံကို မြင်ယောင်ရင်း ကျက်မှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we explored the nuanced synonyms for 'fear' in the Quran. We learned that every word choice in Arabic is intentional, reflecting the intensity of the emotion and the level of knowledge of the believer. This clarity allows us to experience the Quran's emotional landscape more deeply.",
+      "my": "ဤသင်ခန်းစာတွင် ကုရ်အာန်ပါ 'ကြောက်ရွံ့ခြင်း' နှင့်ပတ်သက်သော အနက်တူစကားလုံးများကို လေ့လာခဲ့သည်။ အာရဗီဘာသာတွင် စကားလုံးရွေးချယ်မှုတိုင်းသည် ရည်ရွယ်ချက်ရှိပြီး၊ ခံစားချက်၏ ပြင်းထန်မှုနှင့် အသိပညာအဆင့်အတန်းကို ဖော်ပြကြောင်း သိရှိရသည်။ ဤသည်မှာ ကုရ်အာန်၏ ဆိုလိုရင်းကို ပိုမိုလေးနက်စွာ ခံစားနိုင်ရန် အထောက်အကူပြုသည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-267",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 267,
+    "title": {
+      "ar": "بَلَاغَةُ المُرَادِفَاتِ (٢) — المَحَبَّةُ وَالمَوَدَّةُ",
+      "en": "Rhetoric XVII — Quranic Synonyms II: Love",
+      "my": "ကုရ်အာန်ကျမ်းလာ အနက်တူစကားလုံးများ (၂) - ချစ်ခြင်းမေတ္တာ (ဟွဗ်၊ မဝဒ်ဒဟ်၊ ရဟ်မဟ်၊ ဝဒ်ဒ်)"
+    },
+    "meta": {
+      "study_time_minutes": 90,
+      "vocab_time": 20,
+      "grammar_time": 20,
+      "deep_study_time": 50,
+      "vocab_count": 10,
+      "grammar_focus": "Nuanced love words: romantic, compassionate, divine, covenantal",
+      "grammar_formula": "Internal Feeling (Hubb) vs External Expression (Mawadda)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "حُبّ",
+        "translit": "hubb",
+        "en": "love (internal preference)",
+        "my": "ချစ်ခင်မြတ်နိုးခြင်း (အတွင်းစိတ်)",
+        "quran_freq": 95,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ح ب ب",
+          "concept_en": "seeds/core preference",
+          "concept_my": "မျိုးစေ့/အနှစ်သာရကို ကြိုက်နှစ်သက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hub (center)",
+          "image": "Love being the hub or center of all emotions",
+          "cross_language": "Mohabbat is widely used in South Asia"
+        },
+        "word_family": [
+          {
+            "ar": "يُحِبُّ",
+            "translit": "yuhibbu",
+            "en": "he loves",
+            "my": "သူချစ်သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Hubb is the root of preference; it starts in the heart like a seed (habb).",
+        "example": {
+          "ar": "يُحِبُّهُمْ وَيُحِبُّونَهُ",
+          "en": "He loves them and they love Him",
+          "my": "အရှင်မြတ်သည် ၎င်းတို့ကိုချစ်တော်မူသည်၊ ၎င်းတို့သည်လည်း အရှင်မြတ်ကို ချစ်ကြသည်",
+          "ref": "5:54"
+        }
+      },
+      {
+        "word": "مَوَدَّة",
+        "translit": "mawaddah",
+        "en": "manifested love/affection",
+        "my": "ဖော်ပြသောအချစ်/သံယောဇဉ်",
+        "quran_freq": 8,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "مَفْعَلَة",
+        "root": {
+          "letters": "و د د",
+          "concept_en": "friendship/constant love",
+          "concept_my": "အမြဲတစေချစ်ခင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mawaddah (sounds like Mood)",
+          "image": "Putting someone in a good mood through kind acts",
+          "cross_language": "Used in Myanmar Muslim wedding cards (Mawaddah wa Rahmah)"
+        },
+        "word_family": [
+          {
+            "ar": "وَدُود",
+            "translit": "wadūd",
+            "en": "The Most Loving",
+            "my": "အလွန်ချစ်ခင်သောသခင်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Mawadda is 'active' love that involves behavior and kindness toward others.",
+        "example": {
+          "ar": "جَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً",
+          "en": "He placed between you affection and mercy",
+          "my": "အရှင်မြတ်သည် သင်တို့အကြား၌ သံယောဇဉ်နှင့် ဂရုဏာကို ထားရှိပေးတော်မူသည်",
+          "ref": "30:21"
+        }
+      },
+      {
+        "word": "رَحْمَة",
+        "translit": "rahmah",
+        "en": "mercy/compassionate love",
+        "my": "ကရုဏာတရား/ကြင်နာမှု",
+        "quran_freq": 79,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "ر ح م",
+          "concept_en": "womb/protection",
+          "concept_my": "သားအိမ်/နွေးထွေးသောကာကွယ်မှု"
+        },
+        "memory_hook": {
+          "sound": "Rahmah",
+          "image": "A mother holding a baby in her womb",
+          "cross_language": "Myanmar: 'ရာဟ်မသ်' (Blessing/Mercy)"
+        },
+        "word_family": [
+          {
+            "ar": "رَحِيم",
+            "translit": "rahīm",
+            "en": "Merciful",
+            "my": "သနားကြင်နာသော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Rahmah is love that specifically addresses the needs and weaknesses of the beloved.",
+        "example": {
+          "ar": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
+          "en": "and My mercy encompasses all things",
+          "my": "ငါအရှင်၏ ကရုဏာတရားသည် အရာခပ်သိမ်းကို လွှမ်းခြုံထားသည်",
+          "ref": "7:156"
+        }
+      },
+      {
+        "word": "وُدّ",
+        "translit": "wudd",
+        "en": "constant longing/fondness",
+        "my": "မြတ်နိုးတွယ်တာမှု",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "و د د",
+          "concept_en": "stable and steady affection",
+          "concept_my": "ခိုင်မြဲသော ချစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Wood",
+          "image": "Strong and steady like wood",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "يَوَدُّ",
+            "translit": "yawaddu",
+            "en": "he wishes/loves",
+            "my": "သူနှစ်သက်သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This root is used for the deepest, most consistent kind of friendship/love.",
+        "example": {
+          "ar": "سَيَجْعَلُ لَهُمُ الرَّحْمَنُ وُدًّا",
+          "en": "The Most Merciful will appoint for them affection",
+          "my": "ရာဟ်မန်အရှင်မြတ်သည် ၎င်းတို့အတွက် မြတ်နိုးတွယ်တာမှုကို ထားရှိပေးမည်",
+          "ref": "19:96"
+        }
+      },
+      {
+        "word": "خُلَّة",
+        "translit": "khullah",
+        "en": "exclusive friendship",
+        "my": "အထူးခင်မင်ရင်းနှီးမှု",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فُعْلَة",
+        "root": {
+          "letters": "خ ل ل",
+          "concept_en": "penetrating/intertwining",
+          "concept_my": "ထိုးဖောက်ခြင်း/ရောယှက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khalil",
+          "image": "Two vines intertwined so tightly you can't separate them",
+          "cross_language": "Khalil (Friend) is a common name"
+        },
+        "word_family": [
+          {
+            "ar": "خَلِيل",
+            "translit": "khalīl",
+            "en": "intimate friend",
+            "my": "ရင်းနှီးသောမိတ်ဆွေ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Khullah is when love 'penetrates' the soul and occupies the gaps in the heart.",
+        "example": {
+          "ar": "وَاتَّخَذَ اللَّهُ إِبْرَاهِيمَ خَلِيلًا",
+          "en": "and Allah took Abraham as an intimate friend",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အီဗရာဟင်မ်(အစ)အား ရင်းနှီးသောမိတ်ဆွေအဖြစ် သတ်မှတ်ခဲ့သည်",
+          "ref": "4:125"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "بَلَاغَةُ الحُبِّ",
+        "en": "The Rhetoric of Love",
+        "my": "ချစ်ခြင်းမေတ္တာ၏ ဗလာဂသ်"
+      },
+      "formula": {
+        "display": "Hubb (Heart) + Action = Mawadda",
+        "example": "Internal vs External Love",
+        "myanmar_read": "စိတ်ထဲကချစ်တာ (ဟွဗ်) နှင့် အပြုအမူဖြင့်ပြသော ချစ်ခြင်း (မဝဒ်ဒဟ်) တို့၏ ကွဲပြားမှု",
+        "key_insight": "In marriage, the Quran mentions Mawadda, because love must be shown through actions, not just felt."
+      },
+      "explanation": {
+        "en": "The Quran distinguishes between the feeling of love (Hubb) and the practice of love (Mawadda). While Hubb is the inclination of the heart, Mawadda is the manifestation of that love in kind treatment. Furthermore, Rahmah (mercy) is used alongside love to describe a bond that survives even when the feeling of Hubb might fluctuate.",
+        "my": "ကုရ်အာန်သည် ချစ်ခြင်း၏ ခံစားချက် (ဟွဗ်) နှင့် လက်တွေ့ကျင့်သုံးမှု (မဝဒ်ဒဟ်) ကို ခွဲခြားထားသည်။ 'ဟွဗ်' သည် စိတ်၏ တိမ်းညွှတ်မှုဖြစ်သော်လည်း 'မဝဒ်ဒဟ်' မှာမူ ထိုအချစ်ကို ကြင်နာစွာ ပြုမူဆက်ဆံခြင်းဖြင့် ဖော်ပြခြင်းဖြစ်သည်။ အလားတူပင် 'ရာဟ်မသ်' (ကရုဏာ) သည် ခံစားချက်များ အတက်အကျရှိချိန်တွင်ပင် ခိုင်မြဲစေသော သံယောဇဉ်ကို ဆိုလိုသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese uses 'Chit-chin' for love generally, but 'Thanyaw-zin' captures some of 'Mawadda' (affection/bond).",
+        "my": "မြန်မာဘာသာတွင် 'ချစ်ခြင်း' ဟု ယေဘုယျသုံးသော်လည်း 'သံယောဇဉ်' ဟူသော စကားလုံးသည် 'မဝဒ်ဒဟ်' ၏ သဘောတရားနှင့် အနည်းငယ် နီးစပ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Mawadda is often used for social/relational bonds.",
+          "rule_my": "'မဝဒ်ဒဟ်' ကို လူမှုရေးနှင့် ဆက်ဆံရေး နယ်ပယ်များတွင် အသုံးများသည်။",
+          "example": {
+            "ar": "مَوَدَّةً فِي الْقُرْبَىٰ",
+            "en": "affection among kindred",
+            "my": "ဆွေမျိုးသားချင်းများအကြား သံယောဇဉ်ထားရှိခြင်း"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Marital Love",
+          "ar": "وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً",
+          "en": "and He placed between you affection and mercy",
+          "my": "ထို့ပြင် အရှင်မြတ်၏သက်သေလက္ခဏာများထဲတွင် (ဤသည်လည်း ပါဝင်သည်)- အရှင်မြတ်သည် အသင်တို့အတွက် အသင်တို့၏အမျိုးအစားထဲမှပင် ဇနီးကြင်ရာများအား သူတို့ထံတွင် အသင်တို့ စိတ်ချမ်းသာမှုနှင့် အနားယူကြရန်အတွက် ဖန်ဆင်းတော်မူခဲ့သည်။ ထို့ပြင် အရှင်မြတ်သည် အသင်တို့ကြားတွင် ချစ်ခင်မှုနှင့် ကြင်နာမှုကို ပြုလုပ်ပေးတော်မူခဲ့သည်။ အမှန်စင်စစ် ထိုအထဲတွင် စဉ်းစားဆင်ခြင်သူများအတွက် အမှန်ပင် သက်သေလက္ခဏာများ ရှိသည်။",
+          "ref": "30:21",
+          "breakdown": {
+            "subject": {
+              "word": "هُوَ (implied)",
+              "en": "He (Allah)",
+              "note": "Source of love"
+            },
+            "predicate": {
+              "word": "မဝဒ်ဒဟ် ဝရဟ်မဟ်",
+              "en": "Affection and Mercy",
+              "note": "The two pillars of marriage"
+            }
+          },
+          "myanmar_insight": "အိမ်ထောင်ရေးတွင် စိတ်ကူးယဉ်အချစ်ထက် လက်တွေ့ကျသော 'မဝဒ်ဒဟ်' နှင့် 'ရာဟ်မသ်' က ပိုအရေးကြီးကြောင်း ဖော်ပြထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking Hubb is only emotional",
+          "wrong": {
+            "ar": "الحب شعور فقط",
+            "note": "Love is just a feeling"
+          },
+          "correct": {
+            "ar": "يُحِبُّ الْمُحْسِنِينَ",
+            "en": "He loves the doers of good",
+            "my": "အရှင်မြတ်သည် ကောင်းမှုပြုသူများကို ချစ်မြတ်နိုးတော်မူသည်"
+          },
+          "myanmar_tip": "အလ္လာဟ်အရှင်မြတ်၏ အချစ်ကို ရလိုလျှင် အကျင့်စာရိတ္တဖြင့် သက်သေပြရမည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Differentiate between Hubb and Mawadda in context",
+          "instruction_my": "ဟွဗ် နှင့် မဝဒ်ဒဟ် တို့၏ ကွဲပြားပုံကို ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "Which word describes the 'seed' of love in the heart?",
+              "answer_en": "Hubb",
+              "answer_my": "ဟွဗ်",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the following phrase",
+          "instruction_my": "အောက်ပါ စာသားကို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "الْوَدُود",
+              "answer_en": "The Most Loving",
+              "answer_my": "အလွန်အမင်း ချစ်ခင်မြတ်နိုးတော်မူသော အရှင်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Use the root W-D-D to form the adjective meaning 'Most Loving'",
+          "instruction_my": "W-D-D အမြစ်မှ 'အချစ်ဆုံး' ဟူသော အဓိပ္ပာယ်ရသည့် နာမဝိသေသနကို တည်ဆောက်ပါ",
+          "questions": [
+            {
+              "q": "W-D-D + Fa'ul pattern",
+              "answer_en": "Wadud",
+              "answer_my": "ဝဒူးဒ်",
+              "ar": "وَدُود"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Love in the Quran is not passive. When Allah says He loves a group, it follows an action (like patience or trust). By naming Himself 'Al-Wadud', He invites us into a relationship of active, constant affection.",
+        "my": "ကုရ်အာန်တွင် အချစ်သည် သက်မဲ့မဟုတ်ပါ။ အလ္လာဟ်အရှင်မြတ်သည် လူစုတစ်စုကို ချစ်သည်ဟု မိန့်ကြားတိုင်း ၎င်းတို့၏ လုပ်ဆောင်ချက် (ဥပမာ- သည်းခံခြင်း၊ ယုံကြည်ကိုးစားခြင်း) နှင့် ဆက်စပ်နေသည်။ 'အလ်-ဝဒူးဒ်' ဟူသောအမည်ဖြင့် အရှင်မြတ်သည် ကျွန်ုပ်တို့အား အမြဲမပြတ်သော ချစ်ခြင်းမေတ္တာနှင့် ဆက်ဆံရေးထဲသို့ ဖိတ်ခေါ်နေပါသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Maryam 19:96",
+        "study_number": 1,
+        "arabic_full": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَنُ وُدًّا",
+        "en_sahih": "Indeed, those who have believed and done righteous deeds - the Most Merciful will appoint for them affection.",
+        "my_mmsy": "အမှန်စင်စစ် အကြင်သူများသည် အီမာန်ယုံကြည်ပြီး ကောင်းမြတ်သည့်လုပ်ရပ်များကို ပြုလုပ်ခဲ့ကြသည်။ ရဟ်မာန်အနန္တကရုဏာတော်ရှင်သည် ထိုသူများအတွက် မကြာမီ (အဖန်ဆင်းခံများ၏ စိတ်နှလုံးများထဲတွင်)ချစ်ခင်မှုကို ပေါက်ဖွားစေတော်မူမည်ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 19,
+          "ayah": 96,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/019096.mp3"
+        },
+        "qurancom_url": "https://quran.com/19/96",
+        "context": {
+          "en": "The surah ends by emphasizing that faith and deeds result in a special kind of love established by the Creator.",
+          "my": "အီမာန်နှင့် ကောင်းမှုများသည် ဖန်ဆင်းရှင်က ချီးမြှင့်မည့် အထူးမေတ္တာကို ရရှိစေမည်ဖြစ်ကြောင်း ဤစူရာဟ်၏ အဆုံးပိုင်းတွင် အလေးပေးဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "سَيَجْعَلُ",
+            "translit": "sayaj'alu",
+            "en": "He will soon make/appoint",
+            "my": "အရှင်မြတ်သည် မကြာမီ ပြုလုပ်ပေးတော်မူမည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ج ع ل",
+            "freq": 0
+          },
+          {
+            "ar": "وُدًّا",
+            "translit": "wuddan",
+            "en": "affection/love",
+            "my": "သံယောဇဉ်/ချစ်ခြင်း",
+            "role_en": "Object",
+            "role_my": "ကံပုဒ်",
+            "root": "و د د",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of 'Wudd' implies a deep, lasting affection that Allah places in the hearts of other creatures for the believer.",
+          "structure_my": "'ဝဒ်ဒ်' စကားလုံးသည် အလ္လာဟ်အရှင်မြတ်က အခြားဖန်ဆင်းခံများ၏ နှလုံးသားထဲတွင် အီမာန်ရှင်အတွက် ထားရှိပေးမည့် ခိုင်မြဲသော ချစ်ခြင်းကို ဆိုလိုသည်။",
+          "insight_en": "It is not just that Allah loves them, but He makes them beloved to others.",
+          "insight_my": "အလ္လာဟ်အရှင်မြတ်ကိုယ်တိုင် ချစ်တော်မူရုံသာမက အခြားသူများကလည်း ၎င်းတို့ကို ချစ်ခင်လာအောင် ပြုလုပ်ပေးတော်မူခြင်း ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "و د د",
+            "concept_en": "Affection that is like a 'peg' (Watad) — firmly fixed and stable.",
+            "concept_my": "တံစို့ရိုက်ထားသကဲ့သို့ ခိုင်မာမြဲမြံသော ချစ်ခြင်းမေတ္တာ။",
+            "members": [
+              {
+                "ar": "وَدُود",
+                "en": "Affectionate",
+                "my": "ချစ်ခင်တတ်သော",
+                "freq": 2
+              }
+            ],
+            "professors_note": "Early linguists noted that Wudd is the type of love that never changes even under pressure."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် တစ်ခါတစ်ရံ လူအများ၏ အချစ်ကိုရရန် ကြိုးစားတတ်ကြသည်။ သို့သော် ဤအာယတ်တော်က အလ္လာဟ်အရှင်မြတ်အား ယုံကြည်ပြီး ကောင်းမှုများပြုလုပ်ပါက၊ အရှင်မြတ်ကိုယ်တိုင်က ကျွန်ုပ်တို့အတွက် 'ဝဒ်ဒ်' (ခိုင်မြဲသောမေတ္တာ) ကို ဖန်တီးပေးမည်ဟု ကတိပြုထားသည်။ စစ်မှန်သော မေတ္တာသည် ကောင်းကင်ဘုံမှ ဆင်းသက်လာခြင်းဖြစ်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah ends with a soft double 'd' sound in 'Wudda', giving a sense of peace.",
+          "meaning_anchor": "Imagine a seedling growing into a tree that everyone loves to shade under.",
+          "daily_connection": "Use this to remind yourself that people's hearts are in Allah's hands.",
+          "my": "အဆုံးသတ်ရှိ 'ဝဒ်ဒါ' အသံကို ဂရုပြု၍ ကျက်မှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We have explored how the Quran expresses love through various terms like Hubb, Mawadda, and Wudd. Each term provides a unique lens: one for the heart, one for action, and one for permanence. Understanding these helps us refine our relationships with both Allah and His creation.",
+      "my": "ကုရ်အာန်သည် ချစ်ခြင်းမေတ္တာကို ဟွဗ်၊ မဝဒ်ဒဟ် နှင့် ဝဒ်ဒ် အစရှိသော ဝေါဟာရအမျိုးမျိုးဖြင့် မည်သို့ဖော်ပြထားသည်ကို လေ့လာခဲ့သည်။ စကားလုံးတိုင်းသည် နှလုံးသား၊ အပြုအမူနှင့် တည်မြဲမှုတို့အတွက် ထူးခြားသော ရှုထောင့်များကို ပေးစွမ်းသည်။ ဤအရာများကို သိရှိခြင်းက အလ္လာဟ်အရှင်မြတ်နှင့်လည်းကောင်း၊ ဖန်ဆင်းခံများနှင့်လည်းကောင်း ရှိသော ဆက်ဆံရေးကို ပိုမိုကောင်းမွန်စေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-268",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 268,
+    "title": {
+      "ar": "بَلَاغَةُ المُرَادِفَاتِ (٣) — الرَّحْمَةُ وَالرَّأْفَةُ",
+      "en": "Rhetoric XVIII — Quranic Synonyms III: Mercy",
+      "my": "ကုရ်အာန်ကျမ်းလာ အနက်တူစကားလုံးများ (၃) - ကရုဏာတရား (ရဟ်မဟ်၊ ရာအ်ဖဟ်၊ လုသ်ဖ်)"
+    },
+    "meta": {
+      "study_time_minutes": 85,
+      "vocab_time": 20,
+      "grammar_time": 25,
+      "deep_study_time": 40,
+      "vocab_count": 10,
+      "grammar_focus": "Divine mercy spectrum: general vs specific, Rahman vs Rahim distinction",
+      "grammar_formula": "Rahmah (Broad) + Ra'fa (Gentle/Preventative) = Divine Care"
+    },
+    "section_1_vocab": [
+      {
+        "word": "رَحْمَة",
+        "translit": "rahmah",
+        "en": "mercy (general)",
+        "my": "ကရုဏာတရား (အထွေထွေ)",
+        "quran_freq": 79,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "ر ح م",
+          "concept_en": "womb-like protection",
+          "concept_my": "မိခင်၏နွေးထွေးမှုကဲ့သို့သော ကာကွယ်မှု"
+        },
+        "memory_hook": {
+          "sound": "Rahmah",
+          "image": "A cooling rain on a dry field",
+          "cross_language": "Rahmet (Turkish), Rahmah (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "رَحْمَان",
+            "translit": "rahmān",
+            "en": "The All-Merciful (Vast)",
+            "my": "အလွန်ကရုဏာတော်ရှင်",
+            "freq": 57
+          }
+        ],
+        "pattern_unlock": "The R-H-M root covers all types of kindness and forgiveness in the Quran.",
+        "example": {
+          "ar": "وَسِعَتْ كُلَّ شَيْءٍ رَّحْمَةً",
+          "en": "Encompassing everything in mercy",
+          "my": "အရာခပ်သိမ်းကို ကရုဏာတော်ဖြင့် လွှမ်းခြုံထားသည်",
+          "ref": "40:7"
+        }
+      },
+      {
+        "word": "رَأْفَة",
+        "translit": "ra'fah",
+        "en": "pity/tender compassion",
+        "my": "အလွန်အမင်း သနားကြင်နာခြင်း",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "ر أ ف",
+          "concept_en": "intense tenderness",
+          "concept_my": "နူးညံ့သိမ်မွေ့သော သနားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Raft",
+          "image": "A life raft sent specifically to someone drowning",
+          "cross_language": "Ra'uf (Name)"
+        },
+        "word_family": [
+          {
+            "ar": "رَؤُوف",
+            "translit": "ra'ūf",
+            "en": "Most Kind/Pitying",
+            "my": "အလွန်ကြင်နာသနားတော်မူသော",
+            "freq": 11
+          }
+        ],
+        "pattern_unlock": "Ra'fa is more intense than Rahmah; it is a mercy that specifically prevents pain before it happens.",
+        "example": {
+          "ar": "إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَّحِيمٌ",
+          "en": "Indeed Allah is to the people Kind and Merciful",
+          "my": "အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့အပေါ်၌ အလွန်ကြင်နာသနားတော်မူသော၊ ကရုဏာတော်ရှင် ဖြစ်တော်မူသည်",
+          "ref": "2:143"
+        }
+      },
+      {
+        "word": "لُطْف",
+        "translit": "lutf",
+        "en": "subtle kindness",
+        "my": "သိမ်မွေ့နက်နဲသော ကျေးဇူးတော်",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ل ط ف",
+          "concept_en": "gentle and hidden",
+          "concept_my": "နူးညံ့၍ ဖုံးကွယ်ထားသော"
+        },
+        "memory_hook": {
+          "sound": "Loft",
+          "image": "A light, airy feeling in a loft",
+          "cross_language": "Latif (Name)"
+        },
+        "word_family": [
+          {
+            "ar": "لَطِيف",
+            "translit": "latīf",
+            "en": "Subtle/Most Gentle",
+            "my": "အလွန်သိမ်မွေ့တော်မူသော",
+            "freq": 7
+          }
+        ],
+        "pattern_unlock": "Lutf is kindness that reaches you in ways you don't even notice at first.",
+        "example": {
+          "ar": "اللَّهُ لَطِيفٌ بِعِبَادِهِ",
+          "en": "Allah is Subtle/Kind to His servants",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ အစေခံများအပေါ်၌ အလွန်သိမ်မွေ့တော်မူသည်",
+          "ref": "42:19"
+        }
+      },
+      {
+        "word": "بِرّ",
+        "translit": "birr",
+        "en": "righteousness/expansive goodness",
+        "my": "ကောင်းမှုကုသိုလ်/ဖြောင့်မတ်ခြင်း",
+        "quran_freq": 8,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ب ر ر",
+          "concept_en": "land/vastness",
+          "concept_my": "ကုန်းမြေ/ကျယ်ပြောခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Beer (without the drink) - rhymes with Near",
+          "image": "A vast green land of goodness",
+          "cross_language": "Birr-ul-Walidayn (Goodness to parents)"
+        },
+        "word_family": [
+          {
+            "ar": "بَرّ",
+            "translit": "barr",
+            "en": "The Beneficent",
+            "my": "ကောင်းမှုကို ပေးသနားတော်မူသောအရှင်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Birr is mercy that has been translated into an expansive amount of good deeds and gifts.",
+        "example": {
+          "ar": "إِنَّهُ هُوَ الْبَرُّ الرَّحِيمُ",
+          "en": "Indeed, He is the Beneficent, the Merciful",
+          "my": "အမှန်စင်စစ် အရှင်မြတ်သည် ကောင်းမှုပေးသနားတော်မူသောအရှင်၊ ကရုဏာတော်ရှင် ဖြစ်တော်မူသည်",
+          "ref": "52:28"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "بَلَاغَةُ الرَّحْمَةِ",
+        "en": "The Rhetoric of Mercy",
+        "my": "ကရုဏာတရား၏ ဗလာဂသ်"
+      },
+      "formula": {
+        "display": "Rahmān (Immediate/Vast) vs Rahīm (Constant/Specific)",
+        "example": "الرَّحْمَنُ vs الرَّحِيمُ",
+        "myanmar_read": "ရာဟ်မန် (ယခုလက်ရှိ အရာအားလုံးအပေါ် လွှမ်းခြုံမှု) နှင့် ရာဟီမ် (အမြဲတစေ သီးသန့်ပေးသနားမှု) တို့၏ ခြားနားချက်",
+        "key_insight": "Rahmān describes the essence (who Allah is), while Rahīm describes the action (what He does for us)."
+      },
+      "explanation": {
+        "en": "The Quran uses 'Rahmah' as an umbrella term, but differentiates based on patterns. The pattern 'Fa'lān' (Rahmān) indicates intensity and fullness (like 'Atshān' for thirsty). The pattern 'Fa'īl' (Rahīm) indicates a permanent, constant quality. Ra'fa is a more specialized mercy that involves taking away hardship with extreme tenderness.",
+        "my": "ကုရ်အာန်တွင် 'ရာဟ်မသ်' ကို ယေဘုယျအားဖြင့် သုံးသော်လည်း ပုံစံအလိုက် ကွဲပြားသည်။ 'ရာဟ်မန်' (Fa'lān pattern) သည် အလွန်အမင်း ပြည့်လျှံနေသော ကရုဏာကို ဆိုလိုပြီး 'ရာဟ်ီမ်' (Fa'īl pattern) သည် အစဉ်အမြဲ တည်ရှိနေသော ကရုဏာကို ဆိုလိုသည်။ 'ရာအ်ဖဟ်' မှာမူ ဒုက္ခများကို အလွန်နူးညံ့စွာ ဖယ်ရှားပေးသော ကရုဏာအမျိုးအစား ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar language, 'Karuna' and 'Metta' are used, but they don't capture the subtle grammatical distinctions of intensity vs permanence found in Arabic.",
+        "my": "မြန်မာဘာသာတွင် 'ကရုဏာ' နှင့် 'မေတ္တာ' ကို သုံးလေ့ရှိသော်လည်း အာရဗီတွင်ကဲ့သို့ ပြင်းထန်မှုနှင့် အမြဲတမ်းဖြစ်မှု ဆိုသည့် သဒ္ဒါဆိုင်ရာ ကွဲပြားချက်များကို မတွေ့ရပေ။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Rahmān is exclusive to Allah; Rahīm can be used for humans (like the Prophet).",
+          "rule_my": "'ရာဟ်မန်' သည် အလ္လာဟ်အရှင်မြတ်အတွက်သာ သီးသန့်ဖြစ်ပြီး 'ရာဟီမ်' ကို လူသားများ (ဥပမာ- တမန်တော်မြတ်) အတွက်လည်း သုံးနိုင်သည်။",
+          "example": {
+            "ar": "بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ",
+            "en": "to the believers kind and merciful",
+            "my": "အီမာန်ရှင်များအပေါ် ကြင်နာသနားတော်မူသော (တမန်တော်မြတ်ကို ရည်ညွှန်းသည်)"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Double Mercy",
+          "ar": "إِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ",
+          "en": "Indeed your Lord is Kind and Merciful",
+          "my": "ထို့ပြင် ခြေလေးချောင်းတိရစ္ဆာန်များသည် အသင်တို့၏ဝန်စည်များကိုလည်း အသင်တို့ အလွန်ခဲယဉ်းစွာဖြင့် ရောက်ရှိနိုင်ကြသောမြိ့ုရွာများထံသို့ သယ်ပိုးပေးမှုကိုလည်း ပြုလုပ်ကြသည်။ အမှန်စင်စစ် အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် အလွန်နူးည့ံသိမ်မွေ့တော်မူသောအရှင်၊ အလွန်သနားကြင်နာတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+          "ref": "16:7",
+          "breakdown": {
+            "subject": {
+              "word": "رَبَّكُمْ",
+              "en": "your Lord",
+              "note": "The Caretaker"
+            },
+            "predicate": {
+              "word": "ရအူးဖ် ရဟီမ်",
+              "en": "Kind and Merciful",
+              "note": "Combining preventative kindness and active mercy"
+            }
+          },
+          "myanmar_insight": "အရှင်မြတ်သည် ကျွန်ုပ်တို့အား မလိုအပ်ဘဲ ဒုက္ခမရောက်စေရန် (Ra'uf) စောင့်ရှောက်ပြီး လိုအပ်သော ကောင်းကျိုးများကိုလည်း (Rahim) ပေးသနားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking Rahmān and Rahīm mean the exact same thing",
+          "wrong": {
+            "ar": "هما نفس المعنى",
+            "note": "They are the same meaning"
+          },
+          "correct": {
+            "ar": "الرحمن صفة ذات والرحيم صفة فعل",
+            "en": "Rahman is the quality of Essence; Rahim is the quality of Action",
+            "my": "ရာဟ်မန်သည် အရှင်မြတ်၏ မူလဂုဏ်အင်္ဂါဖြစ်ပြီး ရာဟီမ်မှာမူ လက်တွေ့လုပ်ဆောင်မှု ဂုဏ်အင်္ဂါဖြစ်သည်။"
+          },
+          "myanmar_tip": "Bismillah ကို ဖတ်သည့်အခါ ဤကွဲပြားချက်ကို သတိရပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify which word indicates 'subtle/hidden' mercy",
+          "instruction_my": "'သိမ်မွေ့နက်နဲသော' ကရုဏာကို ဖော်ပြသည့် စကားလုံးကို ရှာပါ",
+          "questions": [
+            {
+              "q": "Lutf vs Rahmah",
+              "answer_en": "Lutf",
+              "answer_my": "လုသ်ဖ်",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'Inna Allaha bi al-nas la-Ra'ufun Rahim'",
+          "instruction_my": "အာယတ်တော်၏ အနက်ကို ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَّحِيمٌ",
+              "answer_en": "Indeed Allah is to the people Kind and Merciful",
+              "answer_my": "အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့အပေါ်၌ အလွန်ကြင်နာသနားတော်မူသော၊ ကရုဏာတော်ရှင် ဖြစ်တော်မူသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Form the adjective for 'The Vastly Merciful' using pattern Fa'lān",
+          "instruction_my": "Fa'lān pattern ကိုသုံး၍ 'အလွန်ကျယ်ပြန့်သော ကရုဏာရှင်' ဟူသော နာမဝိသေသနကို တည်ဆောက်ပါ",
+          "questions": [
+            {
+              "q": "R-H-M + Fa'lān",
+              "answer_en": "Rahmān",
+              "answer_my": "ရာဟ်မန်",
+              "ar": "رَحْمَان"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "By studying the shades of mercy, we realize that even when we feel alone, Allah's Lutf (subtle kindness) is working, and His Ra'fa (tenderness) is protecting us from unseen harms.",
+        "my": "ကရုဏာတရား၏ အနက်အမျိုးမျိုးကို လေ့လာခြင်းဖြင့် ကျွန်ုပ်တို့သည် တစ်ဦးတည်းဟု ခံစားရချိန်တွင်ပင် အလ္လာဟ်အရှင်မြတ်၏ 'လုသ်ဖ်' (သိမ်မွေ့သော ကျေးဇူး) က အလုပ်လုပ်နေပြီး 'ရာအ်ဖဟ်' (နူးညံ့သော ကြင်နာမှု) က ကျွန်ုပ်တို့ကို မမြင်နိုင်သော ဘေးရန်များမှ ကာကွယ်ပေးနေကြောင်း သတိပြုမိစေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Hadid 57:9",
+        "study_number": 1,
+        "arabic_full": "وَإِنَّ اللَّهَ بِكُمْ لَرَءُوفٌ رَّحِيمٌ",
+        "en_sahih": "And indeed, Allah is to you Kind and Merciful.",
+        "my_mmsy": "(၉) ထိုအရှင်မြတ်ပင် အသင်တို့အား အမှောင်ထုများမှ အလင်းကို ထွက်စေရန်အတွက် အရှင်မြတ်၏ကျွန်၏အပေါ်တွင် ထင်ရှားသောအာယသ်တော်များကို ချပေးတော်မူ သောအရှင်ဖြစ်တော်မူသည်။ ထို့ပြင် အမှန်စင်စစ်အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အပေါ်တွင် အလွန်နူးညံ့သိမ်မွေ့တော်မူသောအရှင်၊ အလွန်သနားကြင်နာတော်မူသောအရှင်ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 57,
+          "ayah": 9,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/057009.mp3"
+        },
+        "qurancom_url": "https://quran.com/57/9",
+        "context": {
+          "en": "Allah is encouraging the believers to give and have faith, reminding them that He sends signs to bring them out of darkness into light.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အီမာန်ရှင်များအား အမှောင်ထုထဲမှ အလင်းသို့ ခေါ်ဆောင်ရန် အမှတ်လက္ခဏာများကို စေလွှတ်ပေးပြီး အရှင်မြတ်၏ ကြင်နာမှုကို သတိပေးနေခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "لَرَءُوفٌ",
+            "translit": "la-ra'ūfun",
+            "en": "surely Kind",
+            "my": "အမှန်ပင် ကြင်နာသနားတော်မူသော",
+            "role_en": "Adjective (with Lam of emphasis)",
+            "role_my": "နာမဝိသေသန (အလေးပေးစကားလုံးပါဝင်သည်)",
+            "root": "ر أ ف",
+            "freq": 11
+          },
+          {
+            "ar": "رَّحِيمٌ",
+            "translit": "rahīmun",
+            "en": "Merciful",
+            "my": "ကရုဏာတော်ရှင်",
+            "role_en": "Adjective",
+            "role_my": "နာမဝိသေသန",
+            "root": "ر ح م",
+            "freq": 227
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The combination of Ra'uf (tender/preventative) and Rahim (constant/giving) shows the completeness of Divine care.",
+          "structure_my": "'ရအူးဖ်' (ဒုက္ခမှ ကာကွယ်ပေးသော ကြင်နာမှု) နှင့် 'ရာဟီမ်' (ကောင်းကျိုးပေးသော ကရုဏာ) တို့ ပေါင်းစပ်နေခြင်းသည် ဘုရားသခင်၏ စောင့်ရှောက်မှု ပြည့်စုံခြင်းကို ပြသသည်။",
+          "insight_en": "The 'Lam' in 'la-ra'ūfun' acts as an oath, assuring the reader that this kindness is a reality.",
+          "insight_my": "'လ-ရအူးဖ်' ရှိ 'လ' (Lam) အက္ခရာသည် ဤကြင်နာမှုသည် အမှန်တကယ်ဖြစ်ကြောင်း အလေးအနက် အာမခံနေခြင်း ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ر أ ف",
+            "concept_en": "An extreme mercy that leaves no trace of pain or hardship.",
+            "concept_my": "နာကျင်မှု သို့မဟုတ် အခက်အခဲ လုံးဝမကျန်အောင် ဖယ်ရှားပေးသော အလွန်အမင်း သနားခြင်း။",
+            "members": [
+              {
+                "ar": "رَؤُوف",
+                "en": "Full of pity",
+                "my": "အလွန်သနားတတ်သော",
+                "freq": 11
+              }
+            ],
+            "professors_note": "Ra'fa is considered more specific than Rahmah; every Ra'fa is Rahmah, but not every Rahmah reaches the level of Ra'fa."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဘဝတွင် အခက်အခဲများ ကြုံရသောအခါ အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့အား 'ရအူးဖ်' ဖြစ်တော်မူကြောင်း သတိရပါ။ အရှင်မြတ်သည် ကျွန်ုပ်တို့ မခံစားနိုင်သော ဝန်ထုပ်ဝန်ပိုးများမှ ကာကွယ်ပေးထားပြီး ကျွန်ုပ်တို့၏ နှလုံးသားကို နူးညံ့စွာ ကုသပေးတော်မူသောအရှင် ဖြစ်သည်။ အရှင်မြတ်၏ ကြင်နာမှုသည် ကျွန်ုပ်တို့ မျှော်လင့်ထားသည်ထက် ပိုမိုနက်နဲပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah ends with the heavy 'm' sound of Rahim, grounding the meaning.",
+          "meaning_anchor": "Think of the relief felt when a heavy burden is lifted off your shoulders.",
+          "daily_connection": "Recite this when feeling overwhelmed by life's trials.",
+          "my": "အဆုံးသတ်ရှိ 'ရအူးဖ် ရဟီမ်' ၏ စည်းချက်ကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We have categorized the words for mercy, distinguishing between the vastness of Rahmān, the constancy of Rahīm, the tenderness of Ra'uf, and the subtlety of Latīf. This vocabulary allows us to call upon Allah with greater precision and heart-presence.",
+      "my": "ကရုဏာတော်နှင့် ပတ်သက်သော စကားလုံးများကို ခွဲခြားလေ့လာခဲ့ပြီး ရာဟ်မန်၏ ကျယ်ပြောမှု၊ ရာဟီမ်၏ အမြဲတမ်းဖြစ်မှု၊ ရအူးဖ်၏ နူးညံ့မှုနှင့် လသီးဖ်၏ သိမ်မွေ့မှုတို့ကို သိရှိခဲ့ရသည်။ ဤဝေါဟာရများသည် အလ္လာဟ်အရှင်မြတ်အား ပိုမိုတိကျစွာနှင့် စိတ်ပါလက်ပါ ခေါ်ဆိုတောင်းခံရန် အထောက်အကူပြုသည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-269",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 269,
+    "title": {
+      "ar": "بَلَاغَةُ المُرَادِفَاتِ (٤) — الرُّؤْيَةُ وَالنَّظَرُ",
+      "en": "Rhetoric XIX — Quranic Synonyms IV: Seeing",
+      "my": "ကုရ်အာန်ကျမ်းလာ အနက်တူစကားလုံးများ (၄) - မြင်ခြင်း (ရအာ၊ နဇရ၊ အဗ်ဆရ၊ ရှာဟဒ)"
+    },
+    "meta": {
+      "study_time_minutes": 85,
+      "vocab_time": 20,
+      "grammar_time": 20,
+      "deep_study_time": 45,
+      "vocab_count": 10,
+      "grammar_focus": "Four vision words: intellectual, physical, witnessing, divine sight",
+      "grammar_formula": "Sight (Nazar) + Perception (Absara) = True Vision"
+    },
+    "section_1_vocab": [
+      {
+        "word": "رَأَى",
+        "translit": "ra'ā",
+        "en": "to see (physical or mental)",
+        "my": "မြင်သည် (မျက်စိဖြင့် သို့မဟုတ် စိတ်ဖြင့်)",
+        "quran_freq": 328,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ر أ ي",
+          "concept_en": "vision/opinion",
+          "concept_my": "အမြင်/ထင်မြင်ချက်"
+        },
+        "memory_hook": {
+          "sound": "Ray (of light)",
+          "image": "A ray of light helping you see something",
+          "cross_language": "Ru'yah (Vision/Dream)"
+        },
+        "word_family": [
+          {
+            "ar": "رُؤْيَة",
+            "translit": "ru'yah",
+            "en": "vision",
+            "my": "အိပ်မက်/အမြင်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Ra'ā is the most common word for seeing and can mean 'to hold an opinion'.",
+        "example": {
+          "ar": "أَلَمْ تَرَ كَيْفَ",
+          "en": "Have you not seen how",
+          "my": "သင်မမြင်ဖူးသလော၊ မည်သို့ဖြစ်ခဲ့သည်ကို",
+          "ref": "105:1"
+        }
+      },
+      {
+        "word": "نَظَرَ",
+        "translit": "nazara",
+        "en": "to look at/observe",
+        "my": "ကြည့်ရှုသည်/ဆင်ခြင်သည်",
+        "quran_freq": 129,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ن ظ ر",
+          "concept_en": "turning eyes/waiting",
+          "concept_my": "မျက်စိလှည့်ကြည့်ခြင်း/စောင့်ဆိုင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Nazar",
+          "image": "Someone staring intently through binoculars",
+          "cross_language": "Myanmar: 'နဇရ်' (Evil eye/intent gaze)"
+        },
+        "word_family": [
+          {
+            "ar": "تَنظُرُ",
+            "translit": "tanzuru",
+            "en": "you look",
+            "my": "သင်ကြည့်သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Nazar is the 'act' of looking toward something, whether you understand it or not.",
+        "example": {
+          "ar": "فَلْيَنظُرِ الْإِنسَانُ",
+          "en": "Then let man look",
+          "my": "သို့ဖြစ်လျှင် လူသားသည် ကြည့်ရှုပါစေလော့",
+          "ref": "80:24"
+        }
+      },
+      {
+        "word": "أَبْصَرَ",
+        "translit": "absara",
+        "en": "to perceive/see clearly",
+        "my": "ထိုးထွင်းသိမြင်သည်",
+        "quran_freq": 148,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "ب ص ر",
+          "concept_en": "insight/clarity",
+          "concept_my": "အသိအမြင်/ကြည်လင်ပြတ်သားမှု"
+        },
+        "memory_hook": {
+          "sound": "Absara",
+          "image": "A lighthouse in the dark (Basirah)",
+          "cross_language": "Basirah (Insight) is a common spiritual term"
+        },
+        "word_family": [
+          {
+            "ar": "بَصِير",
+            "translit": "basīr",
+            "en": "All-Seeing",
+            "my": "အရာခပ်သိမ်းကို မြင်တော်မူသောအရှင်",
+            "freq": 42
+          }
+        ],
+        "pattern_unlock": "This root implies deep understanding and seeing the reality behind the surface.",
+        "example": {
+          "ar": "لَعَلَّكُمْ تُبْصِرُونَ",
+          "en": "that you may see",
+          "my": "သင်တို့ အမြင်မှန်ရရှိစေရန်",
+          "ref": "7:201"
+        }
+      },
+      {
+        "word": "شَهِدَ",
+        "translit": "shahida",
+        "en": "to witness/be present",
+        "my": "သက်သေခံသည်/မျက်မြင်တွေ့သည်",
+        "quran_freq": 160,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعِلَ",
+        "root": {
+          "letters": "ش ه د",
+          "concept_en": "presence/testimony",
+          "concept_my": "ရှိနေခြင်း/သက်သေခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shahadah",
+          "image": "Standing in a court and witnessing something",
+          "cross_language": "Shahadah (Declaration of faith)"
+        },
+        "word_family": [
+          {
+            "ar": "شَهِيد",
+            "translit": "shahīd",
+            "en": "Witness/Martyr",
+            "my": "သက်သေ/ရှဟီးဒ်",
+            "freq": 35
+          }
+        ],
+        "pattern_unlock": "Shahada is seeing something as a witness, being physically present at the event.",
+        "example": {
+          "ar": "شَهِدَ اللَّهُ",
+          "en": "Allah witnesses",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် သက်သေခံတော်မူသည်",
+          "ref": "3:18"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "بَلَاغَةُ الإِبْصَارِ",
+        "en": "The Rhetoric of Vision",
+        "my": "မြင်ခြင်း၏ ဗလာဂသ်"
+      },
+      "formula": {
+        "display": "Nazar (Gaze) -> Ra'ā (Sight) -> Absara (Insight)",
+        "example": "Turning eyes vs Understanding",
+        "myanmar_read": "ကြည့်ခြင်း (နဇရ) မှ မြင်ခြင်း (ရအာ) သို့၊ ထိုမှတစ်ဆင့် သဘောပေါက်နားလည်ခြင်း (အဗ်ဆရ) သို့ အဆင့်ဆင့်ပြောင်းလဲခြင်း",
+        "key_insight": "One can 'look' (Nazar) at the Quran without 'seeing' (Absara) its truth."
+      },
+      "explanation": {
+        "en": "The Quran uses four primary roots for vision. 'Ra'ā' is the most general. 'Nazar' describes the physical turning of the eyes toward an object, often used when encouraging reflection. 'Absara' is the highest level, meaning to perceive the internal reality (insight). 'Shahida' involves witnessing something through presence.",
+        "my": "ကုရ်အာန်သည် မြင်ခြင်းနှင့်ပတ်သက်၍ အမြစ် (Root) လေးခုကို အဓိကသုံးသည်။ 'ရအာ' သည် ယေဘုယျအမြင်ဖြစ်သည်။ 'နဇရ' မှာ မျက်စိဖြင့် လှည့်ကြည့်ခြင်းဖြစ်ပြီး ဆင်ခြင်သုံးသပ်ရန် တိုက်တွန်းရာတွင် သုံးသည်။ 'အဗ်ဆရ' မှာမူ အနှစ်သာရကို ထိုးထွင်းသိမြင်ခြင်း (ဉာဏ်အမြင်) ဖြစ်သည်။ 'ရှာဟဒ' မှာ ကိုယ်တိုင်ရှိနေပြီး သက်သေအဖြစ် မြင်တွေ့ခြင်းဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese distinguishes between 'Kyi-thal' (look) and 'Myin-thal' (see), similar to Nazar vs Ra'ā, but lacks a single word for 'Absara' (insightful seeing).",
+        "my": "မြန်မာဘာသာတွင် 'ကြည့်သည်' နှင့် 'မြင်သည်' ဟူ၍ ခွဲခြားထားခြင်းသည် နဇရ နှင့် ရအာ တို့နှင့် ဆင်တူသော်လည်း 'အဗ်ဆရ' (ထိုးထွင်းသိမြင်ခြင်း) အတွက် သီးသန့်စကားလုံး တစ်လုံးတည်း မရှိပေ။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Nazar is the effort of looking; Absara is the success of understanding.",
+          "rule_my": "'နဇရ' သည် ကြည့်ရန် ကြိုးစားမှုဖြစ်ပြီး 'အဗ်ဆရ' သည် နားလည်သဘောပေါက်မှု အောင်မြင်ခြင်းဖြစ်သည်။",
+          "example": {
+            "ar": "وَتَرَاهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ",
+            "en": "And you see them looking at you while they do not see (perceive).",
+            "my": "သင်သည် ၎င်းတို့အား သင့်ဘက်သို့ ကြည့်နေသည်ကို တွေ့ရသော်လည်း ၎င်းတို့သည် (သင့်၏အဖြစ်မှန်ကို) မြင်ကြသည်မဟုတ်။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Gaze and Reflection",
+          "ar": "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ",
+          "en": "Then do they not look at the camels - how they are created?",
+          "my": "(၁၇) ကုလားအုတ်များသည် မည်သို့ ဖန်ဆင်းခြင်းခံခဲ့ကြရသည်ကို သူတို့သည် ကြည့်ရှု စဉ်းစားခြင်း မပြုကြသလော။",
+          "ref": "88:17",
+          "breakdown": {
+            "subject": {
+              "word": "هُمْ (implied)",
+              "en": "they",
+              "note": "the deniers"
+            },
+            "predicate": {
+              "word": "ယန်ဇုရူးန်",
+              "en": "they look",
+              "note": "directing their gaze to study"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'နဇရ' ကိုသုံးထားခြင်းမှာ ကုလားအုတ်ကို ရိုးရိုးကြည့်ရုံမကဘဲ ဖန်ဆင်းမှုလက်ရာကို ဆင်ခြင်ရန် ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using Nazar for Allah's Knowledge",
+          "wrong": {
+            "ar": "الله ينظر الغيب",
+            "note": "implying He 'turns His eyes' to see the unseen"
+          },
+          "correct": {
+            "ar": "إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ",
+            "en": "Indeed Allah is All-Seeing of the servants",
+            "my": "အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အစေခံများကို အရာခပ်သိမ်း ထိုးထွင်းမြင်တော်မူသောအရှင် ဖြစ်သည်။"
+          },
+          "myanmar_tip": "အလ္လာဟ်အရှင်မြတ်အတွက် 'ဗဆီးရ်' (အရာခပ်သိမ်းကို အနုစိတ်မြင်သူ) ကို အမြဲသုံးပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Match the word to the type of seeing",
+          "instruction_my": "မြင်ခြင်းအမျိုးအစားနှင့် စကားလုံးကို တွဲပေးပါ",
+          "questions": [
+            {
+              "q": "Looking at the stars to study them",
+              "answer_en": "Nazar",
+              "answer_my": "နဇရ",
+              "ref": "37:88"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'wa hum la yubsirun'",
+          "instruction_my": "'ဝဟွမ်း လာ ယွဗ်ဆိရူးန်' ကို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "وَهُمْ لَا يُبْصِرُونَ",
+              "answer_en": "and they do not see (perceive)",
+              "answer_my": "၎င်းတို့သည် (အမှန်တရားကို) မြင်ကြသည်မဟုတ်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Form the 'All-Seeing' name from B-S-R",
+          "instruction_my": "B-S-R အမြစ်မှ 'အရာခပ်သိမ်းကို မြင်တော်မူသောအရှင်' ဟူသော အမည်နာမကို တည်ဆောက်ပါ",
+          "questions": [
+            {
+              "q": "B-S-R + Fa'īl pattern",
+              "answer_en": "Basīr",
+              "answer_my": "ဗဆီးရ်",
+              "ar": "بَصِير"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "True vision is not of the eyes, but of the heart. The Quran warns that a physical 'Nazar' without a spiritual 'Basirah' leaves a person in darkness, even if their eyes are open.",
+        "my": "စစ်မှန်သော အမြင်သည် မျက်စိအမြင်မဟုတ်ဘဲ နှလုံးသားအမြင် ဖြစ်သည်။ ဝိညာဉ်ရေးရာ 'ဗဆီရသ်' (ဉာဏ်အမြင်) မရှိဘဲ ရုပ်ပိုင်းဆိုင်ရာ 'နဇရ' (ကြည့်ခြင်း) သာရှိလျှင် မျက်စိဖွင့်ထားသော်လည်း အမှောင်ထဲတွင်သာ ရှိနေမည်ဖြစ်ကြောင်း ကုရ်အာန်က သတိပေးထားသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-A'raf 7:198",
+        "study_number": 1,
+        "arabic_full": "وَتَرَاهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ",
+        "en_sahih": "And you see them looking at you while they do not see.",
+        "my_mmsy": "ထို့ပြင် အကယ်၍ အသင်တို့သည် သူတို့ကို လမ်းမှန်ဘက်သို့ ဖိတ်ခေါ်ကြလျှင်လည်း သူတို့သည် ကြားနိုင်ကြသည် မဟုတ်ပေ။ ထို့ပြင် အသင်(တမန်တော်)သည် ထို(မမှန်သော ကိုးကွယ်ရာရုပ်တု)များအား သူတို့သည် ကြည့်မြင်နိုင်ကြသည် မဟုတ်ဘဲလျက် အသင့်ဘက်သို့ ကြည့်နေသကဲ့သို့ တွေ့မြင်ရမည်။",
+        "audio_ref": {
+          "surah": 7,
+          "ayah": 198,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/007198.mp3"
+        },
+        "qurancom_url": "https://quran.com/7/198",
+        "context": {
+          "en": "Allah is describing the idols and those who worship them, noting their complete lack of true perception.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ရုပ်တုဆင်းတုများနှင့် ၎င်းတို့ကို ကိုးကွယ်သူများအကြောင်းကို ဖော်ပြရာတွင် ၎င်းတို့၌ စစ်မှန်သော သိမြင်မှု ကင်းမဲ့ပုံကို မိန့်ကြားထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "تَرَاهُمْ",
+            "translit": "tarāhum",
+            "en": "you see them",
+            "my": "သင်သည် ၎င်းတို့ကို တွေ့ရသည်",
+            "role_en": "Verb + Object",
+            "role_my": "ကြိယာ + ကံပုဒ်",
+            "root": "ر أ ي",
+            "freq": 0
+          },
+          {
+            "ar": "يَنظُرُونَ",
+            "translit": "yanzurūna",
+            "en": "they look",
+            "my": "၎င်းတို့ ကြည့်နေကြသည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ن ظ ر",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The contrast between 'Yanzurun' (looking) and 'La Yubsirun' (not perceiving) highlights that physical gaze does not guarantee understanding.",
+          "structure_my": "'ယန်ဇုရူးန်' (ကြည့်နေခြင်း) နှင့် 'လာ ယွဗ်ဆိရူးန်' (မမြင်ခြင်း) တို့ကို နှိုင်းယှဉ်ပြခြင်းဖြင့် ရုပ်ပိုင်းဆိုင်ရာကြည့်ရုံဖြင့် အမှန်တရားကို မသိနိုင်ကြောင်း ပေါ်လွင်စေသည်။",
+          "insight_en": "The object is 'you' (the Prophet), showing that people saw his body but not his prophethood.",
+          "insight_my": "ကံပုဒ်မှာ 'သင်' (တမန်တော်မြတ်) ဖြစ်သည်။ လူအများက ကိုယ်တော်၏ ရုပ်ကလာပ်ကို မြင်သော်လည်း ကိုယ်တော်၏ နဗီဖြစ်မှုကိုမူ မမြင်နိုင်ကြပေ။"
+        },
+        "root_depth": [
+          {
+            "root": "ب ص ر",
+            "concept_en": "To see something so clearly that it affects your behavior or belief.",
+            "concept_my": "မိမိ၏ အပြုအမူ သို့မဟုတ် ယုံကြည်မှုကို ပြောင်းလဲစေသည်အထိ ရှင်းလင်းစွာ မြင်ခြင်း။",
+            "members": [
+              {
+                "ar": "بَصِيرَة",
+                "en": "insight",
+                "my": "ဉာဏ်အမြင်",
+                "freq": 2
+              }
+            ],
+            "professors_note": "In Quranic terminology, those who are 'blind' (A'ma) are often those who have B-S-R in their eyes but lack it in their hearts."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် နေ့စဉ် ကုရ်အာန်ကို 'ကြည့်' (နဇရ) နေကြသော်လည်း ၎င်း၏ လမ်းညွှန်ချက်များကို 'သိမြင်' (အဗ်ဆရ) ပါသလား။ အလ္လာဟ်အရှင်မြတ်ထံမှ အမြင်မှန်ကို တောင်းခံရမည်။ မျက်စိကန်းခြင်းထက် နှလုံးသားကန်းခြင်းက ပို၍ ကြောက်စရာကောင်းပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah balance: 'Tarāhum' (You see) vs 'Lā yubsirūn' (They don't see).",
+          "meaning_anchor": "Imagine someone staring at a map but not knowing how to read it.",
+          "daily_connection": "Recite this to remind yourself to look deeper into life's events.",
+          "my": "မြင်ခြင်းနှင့် မမြင်ခြင်း၏ ဆန့်ကျင်ဘက်ကို သတိပြု၍ ကျက်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We learned to distinguish between physical looking (Nazar), general seeing (Ra'ā), and internal perception (Absara). This Balagha insight teaches us that the Quran invites us not just to look at its words, but to develop the Basirah (insight) to live by them.",
+      "my": "ရုပ်ပိုင်းဆိုင်ရာကြည့်ခြင်း (နဇရ)၊ ယေဘုယျမြင်ခြင်း (ရအာ) နှင့် အတွင်းဉာဏ်ဖြင့်မြင်ခြင်း (အဗ်ဆရ) တို့၏ ကွဲပြားမှုကို လေ့လာခဲ့သည်။ ဤသင်ခန်းစာက ကုရ်အာန်သည် စာသားများကို ကြည့်ရုံသာမက ၎င်းတို့အတိုင်း လိုက်နာနေထိုင်ရန် 'ဗဆီရသ်' (ဉာဏ်အမြင်) ရှိရန် ဖိတ်ခေါ်နေကြောင်း သင်ကြားပေးပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L6-270",
+    "phase": 6,
+    "phase_name": "Balagha",
+    "lesson_number": 270,
+    "title": {
+      "ar": "بَلَاغَةُ المُرَادِفَاتِ (٥) — القَوْلُ وَالقِرَاءَةُ",
+      "en": "Rhetoric XX — Quranic Synonyms V: Saying",
+      "my": "ကုရ်အာန်ကျမ်းလာ အနက်တူစကားလုံးများ (၅) - ပြောဆိုခြင်း (ကာလ၊ နာဒါ၊ ကရအ၊ သလာ)"
+    },
+    "meta": {
+      "study_time_minutes": 85,
+      "vocab_time": 20,
+      "grammar_time": 20,
+      "deep_study_time": 45,
+      "vocab_count": 10,
+      "grammar_focus": "Speech verbs: simple saying, calling out, reciting, reading — different contexts",
+      "grammar_formula": "Speech (Qawl) vs Following/Recitation (Tilawa)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "قَالَ",
+        "translit": "qāla",
+        "en": "to say/speak",
+        "my": "ပြောသည်",
+        "quran_freq": 1722,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ق و ل",
+          "concept_en": "articulation of words",
+          "concept_my": "စကားလုံးများကို ထွက်ဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Call",
+          "image": "Someone calling out a message",
+          "cross_language": "Qawl is used in Qawwali (Islamic music genre)"
+        },
+        "word_family": [
+          {
+            "ar": "قَوْل",
+            "translit": "qawl",
+            "en": "speech/word",
+            "my": "စကား/ဆိုရိုး",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Qāla is the most general verb for speech in Arabic.",
+        "example": {
+          "ar": "قَالَ إِنِّي عَبْدُ اللَّهِ",
+          "en": "He said, 'Indeed, I am the servant of Allah'",
+          "my": "၎င်းကပြောခဲ့သည် - 'အမှန်စင်စစ် ကျွန်ုပ်သည် အလ္လာဟ်အရှင်မြတ်၏ အစေခံဖြစ်သည်'",
+          "ref": "19:30"
+        }
+      },
+      {
+        "word": "نَادَى",
+        "translit": "nādā",
+        "en": "to call out/summon",
+        "my": "အော်ဟစ်ခေါ်ဆိုသည်",
+        "quran_freq": 44,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَاعَلَ",
+        "root": {
+          "letters": "ن د و",
+          "concept_en": "calling from a distance",
+          "concept_my": "အဝေးမှ လှမ်းခေါ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Nada (Node)",
+          "image": "A broadcast tower calling out to people",
+          "cross_language": "Nadi (Club/Assembly) is where people are called together"
+        },
+        "word_family": [
+          {
+            "ar": "نِدَاء",
+            "translit": "nidā'",
+            "en": "a call",
+            "my": "ခေါ်သံ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Nādā implies a distance between the caller and the one called, whether physical or spiritual.",
+        "example": {
+          "ar": "وَنَادَىٰ نُوحٌ ابْنَهُ",
+          "en": "And Noah called to his son",
+          "my": "နူးဟ်(အစ)သည် မိမိ၏ သားအား လှမ်းခေါ်ခဲ့သည်",
+          "ref": "11:42"
+        }
+      },
+      {
+        "word": "قَرَأَ",
+        "translit": "qara'a",
+        "en": "to read/compile",
+        "my": "ဖတ်ကြားသည်/စုစည်းသည်",
+        "quran_freq": 17,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ق ر أ",
+          "concept_en": "collecting/reading out",
+          "concept_my": "စုစည်းခြင်း/ဖတ်ကြားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qara",
+          "image": "A student reading a scroll out loud",
+          "cross_language": "Quran (The Reading)"
+        },
+        "word_family": [
+          {
+            "ar": "قُرْآن",
+            "translit": "qur'ān",
+            "en": "Recitation",
+            "my": "ကုရ်အာန်",
+            "freq": 70
+          }
+        ],
+        "pattern_unlock": "Qara'a literally means to bring words together into a meaningful sequence.",
+        "example": {
+          "ar": "اقْرَأْ بِاسْمِ رَبِّكَ",
+          "en": "Read in the name of your Lord",
+          "my": "သင်၏ ဖန်ဆင်းရှင်၏ နာမတော်ဖြင့် ဖတ်ကြားပါ",
+          "ref": "96:1"
+        }
+      },
+      {
+        "word": "تَلَا",
+        "translit": "talā",
+        "en": "to recite/follow",
+        "my": "ရွတ်ဖတ်သရဇ္ဈာယ်သည်/နောက်သို့လိုက်သည်",
+        "quran_freq": 63,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ت ل و",
+          "concept_en": "following in sequence",
+          "concept_my": "တစ်ခုပြီးတစ်ခု လိုက်ပါခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tala (Tune)",
+          "image": "A moon following the sun (Tala-ha)",
+          "cross_language": "Tilawat (Recitation)"
+        },
+        "word_family": [
+          {
+            "ar": "تِلَاوَة",
+            "translit": "tilāwah",
+            "en": "recitation",
+            "my": "ရွတ်ဖတ်ခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Tilawa is distinct because it implies reciting while also following the commands found in the text.",
+        "example": {
+          "ar": "يَتْلُونَ آيَاتِ اللَّهِ",
+          "en": "they recite the verses of Allah",
+          "my": "၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ အာယတ်တော်များကို ရွတ်ဖတ်ကြသည်",
+          "ref": "3:113"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "بَلَاغَةُ القَوْلِ وَالتِّلَاوَةِ",
+        "en": "The Rhetoric of Speech and Recitation",
+        "my": "စကားပြောခြင်းနှင့် ရွတ်ဖတ်ခြင်း၏ ဗလာဂသ်"
+      },
+      "formula": {
+        "display": "Qara'a (Reading for Info) vs Tilāwa (Reciting for Practice)",
+        "example": "Technical vs Devotional Reading",
+        "myanmar_read": "ဗဟုသုတအတွက်ဖတ်ခြင်း (ကရအ) နှင့် လိုက်နာကျင့်သုံးရန် ရွတ်ဖတ်ခြင်း (သလာ) တို့၏ ခြားနားချက်",
+        "key_insight": "Tilāwa comes from the root 'to follow'. Thus, true recitation of the Quran means following its rules."
+      },
+      "explanation": {
+        "en": "While 'Qāla' is the general term for speech, 'Nādā' is used for high-stakes calls, often between the Creator and His prophets. 'Qara'a' refers to the intellectual act of reading. However, 'Tilāwa' is a sacred term used for the Quran, implying that the reader is following the words one after another, both in speech and in action.",
+        "my": "'ကာလ' သည် စကားပြောခြင်းအတွက် ယေဘုယျသုံးသော်လည်း 'နာဒါ' ကို အလွန်အရေးကြီးသော ခေါ်ဆိုမှုများ (ဥပမာ- ဘုရားသခင်နှင့် နဗီတမန်တော်များအကြား) တွင် သုံးသည်။ 'ကရအ' သည် စာဖတ်ခြင်းကို ဆိုလိုသော်လည်း 'သလာ' မှာမူ ကုရ်အာန်အတွက်သုံးသော အထူးဝေါဟာရဖြစ်ပြီး ရွတ်ဖတ်ရုံသာမက ထိုစကားလုံးများနောက်သို့ လိုက်နာကျင့်သုံးခြင်းကိုပါ ဆိုလိုသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese uses 'Pyaw-thal' (say) and 'Phat-thal' (read). 'Tilāwa' is best translated as 'Yut-phat-thal' but with the added layer of 'Laik-nar-thal' (follow).",
+        "my": "မြန်မာဘာသာတွင် 'ပြောသည်' နှင့် 'ဖတ်သည်' ဟုသာ ရှိသော်လည်း 'သလာ' ၏ အဓိပ္ပာယ်မှာ 'ရွတ်ဖတ်ခြင်း' နှင့်အတူ 'လိုက်နာခြင်း' ပါ ပေါင်းစပ်နေသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Tilāwa is only used for divine books or sequences.",
+          "rule_my": "'သလာ' (Tilāwa) ကို ဘုရားသခင်၏ ကျမ်းစာများ သို့မဟုတ် စနစ်တကျ အစဉ်လိုက်ရှိသောအရာများအတွက်သာ သုံးသည်။",
+          "example": {
+            "ar": "وَالْقَمَرِ إِذَا تَلَاهَا",
+            "en": "and the moon when it follows it (the sun)",
+            "my": "လမင်းသည် နေမင်း၏နောက်သို့ လိုက်သောအခါ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "True Recitation",
+          "ar": "يَتْلُونَهُ حَقَّ تِلَاوَتِهِ",
+          "en": "they recite it with its true recitation",
+          "my": "အကြင်သူများအား ငါအရှင်မြတ်သည် ကျမ်းတော်ကိုပေးသနားတော်မူခဲ့သည်၊ ထိုသူများသည် ကျမ်းတော်ကိုရွတ်ဖတ်လိုက်နာထိုက်သည့်နည်းဖြင့် ဖတ်ရွတ်လိုက်နာကြသည်။  ထိုသူများပင် ကျမ်းတော်ကို အမှန်စင်စစ် ယုံကြည်သည့်သူများဖြစ်ကြသည်။ ၎င်းပြင် မည်သူမဆို ထိုကျမ်းတော်ကို ငြင်းပယ်လျှင် ထိုသူများသည်သာ ပျက်စီးဆုံးရှုံးမည့်သူများဖြစ်ကြသည်။",
+          "ref": "2:121",
+          "breakdown": {
+            "subject": {
+              "word": "هُمْ (implied)",
+              "en": "they",
+              "note": "those given the Book"
+            },
+            "predicate": {
+              "word": "ယသ်လူးနဟူး",
+              "en": "they recite it",
+              "note": "with commitment to follow"
+            }
+          },
+          "myanmar_insight": "'ဟတ်က သီလာဝသ်' ဆိုသည်မှာ မှန်ကန်စွာဖတ်ရုံသာမက မှန်ကန်စွာ လိုက်နာခြင်းကိုပါ ဆိုလိုသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using 'Qara'a' when 'Tilawa' is intended spiritually",
+          "wrong": {
+            "ar": "أنا أقرأ القرآن فقط",
+            "note": "implies reading like a textbook"
+          },
+          "correct": {
+            "ar": "أنا أتلو القرآن",
+            "en": "I recite the Quran (and follow it)",
+            "my": "ကျွန်ုပ်သည် ကုရ်အာန်ကို (လိုက်နာကျင့်သုံးရန်) ရွတ်ဖတ်ပါသည်"
+          },
+          "myanmar_tip": "ကုရ်အာန်ကို ဝတ်ပြုမှုအဖြစ် ဖတ်လျှင် 'သီလာဝသ်' ဟု သုံးနှုန်းခြင်းက ပို၍ လေးနက်သည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the word that means 'to follow'",
+          "instruction_my": "'နောက်သို့လိုက်သည်' ဟူသော အဓိပ္ပာယ်ရသည့် စကားလုံးကို ရှာပါ",
+          "questions": [
+            {
+              "q": "Tala vs Qala",
+              "answer_en": "Tala",
+              "answer_my": "သလာ",
+              "ref": "91:2"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'wa nada Nuhun ibnahu'",
+          "instruction_my": "'ဝနာဒါ နူးဟွန်း အစ်ဗ်နဟူ' ကို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "وَنَادَىٰ نُوحٌ ابْنَهُ",
+              "answer_en": "And Noah called to his son",
+              "answer_my": "နူးဟ်(အစ)သည် မိမိ၏ သားကို လှမ်းခေါ်ခဲ့သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "What is the command form (Amr) of 'Qara'a'?",
+          "instruction_my": "'ကရအ' ၏ အမိန့်ပေးကြိယာမှာ အဘယ်နည်း",
+          "questions": [
+            {
+              "q": "Read! (singular)",
+              "answer_en": "Iqra'",
+              "answer_my": "အစ်ကရအ်",
+              "ar": "اقْرَأْ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "In the Quran, speech is not just sound; it is a spiritual act. To 'recite' (Tala) is to join the chain of those who follow the light. To 'call' (Nada) is to bridge the distance between the servant and the Divine.",
+        "my": "ကုရ်အာန်တွင် စကားပြောခြင်းသည် အသံသက်သက်မဟုတ်ဘဲ ဝိညာဉ်ရေးရာ လုပ်ဆောင်ချက်ဖြစ်သည်။ 'ရွတ်ဖတ်ခြင်း' (သလာ) ဆိုသည်မှာ အလင်းရောင်နောက်သို့ လိုက်သူများ၏ ကွင်းဆက်ထဲတွင် ပါဝင်ခြင်းဖြစ်သည်။ 'ခေါ်ဆိုခြင်း' (နာဒါ) မှာမူ အစေခံနှင့် အရှင်မြတ်ကြားရှိ အကွာအဝေးကို ပေါင်းကူးပေးခြင်းဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:121",
+        "study_number": 1,
+        "arabic_full": "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ أُولَٰئِكَ يُؤْمِنُونَ بِهِ",
+        "en_sahih": "Those to whom We have given the Book recite it with its true recitation. They [are the ones who] believe in it.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S2_A121",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 121,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002121.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/121",
+        "context": {
+          "en": "Allah is praising the sincere people of the Book who stayed true to their scriptures and recognized the truth of the Quran.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မိမိတို့၏ ကျမ်းစာများအပေါ် သစ္စာရှိပြီး ကုရ်အာန်၏ အမှန်တရားကို လက်ခံခဲ့သော ကျမ်းရှင်များကို ချီးမွမ်းထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "يَتْلُونَهُ",
+            "translit": "yatlūnahu",
+            "en": "they recite it",
+            "my": "၎င်းတို့သည် ထိုကျမ်းကို ရွတ်ဖတ်ကြသည်",
+            "role_en": "Verb + Object",
+            "role_my": "ကြိယာ + ကံပုဒ်",
+            "root": "ت ل و",
+            "freq": 63
+          },
+          {
+            "ar": "حَقَّ",
+            "translit": "haqqa",
+            "en": "true/right",
+            "my": "မှန်ကန်သော",
+            "role_en": "Noun (Masdar as emphasis)",
+            "role_my": "နာမ် (အလေးပေးပုဒ်)",
+            "root": "ح ق ق",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of 'Tilawa' instead of 'Qira'a' emphasizes that they weren't just reading for data, but following the guidance.",
+          "structure_my": "'ကိရာအသ်' အစား 'သီလာဝသ်' ကို သုံးထားခြင်းမှာ ၎င်းတို့သည် အချက်အလက်အတွက်သာ ဖတ်နေခြင်းမဟုတ်ဘဲ လမ်းညွှန်ချက်အတိုင်း လိုက်နာနေခြင်းကို အလေးပေးလိုခြင်းဖြစ်သည်။",
+          "insight_en": "The phrase 'Haqqa Tilawatihi' encompasses Tajwid (proper sound), understanding (tadabbur), and implementation (amal).",
+          "insight_my": "'ဟတ်က သီလာဝသ်' တွင် မှန်ကန်သော အသံထွက် (သဂျဝီးဒ်)၊ ဆင်ခြင်ခြင်း (သဒဗ်ဗူရ်) နှင့် လက်တွေ့ကျင့်သုံးခြင်း (အမလ်) တို့ အားလုံး ပါဝင်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ت ل و",
+            "concept_en": "To come after or follow. Used for the moon following the sun, and a reader following the text.",
+            "concept_my": "တစ်ခုပြီးတစ်ခု လိုက်ပါခြင်း။ နေမင်းနောက်သို့ လမင်းလိုက်ခြင်း သို့မဟုတ် စာသားနောက်သို့ စာဖတ်သူက လိုက်နာခြင်း။",
+            "members": [
+              {
+                "ar": "تِلَاوَة",
+                "en": "Recitation",
+                "my": "ရွတ်ဖတ်ခြင်း",
+                "freq": 63
+              }
+            ],
+            "professors_note": "A true Tāli (reciter) is one who lets the Quran lead them, rather than trying to lead the Quran to their own desires."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကုရ်အာန်ကို ဖတ်ရုံသက်သက်ဖြင့် မကျေနပ်ပါနှင့်။ ကျွန်ုပ်တို့၏ ရည်မှန်းချက်မှာ 'ဟတ်က သီလာဝသ်' ဖြစ်ရမည်။ ဆိုလိုသည်မှာ အာယတ်တော်တစ်ခုကို ဖတ်ပြီးတိုင်း ငါ့ဘဝတွင် ဤအချက်ကို မည်သို့လိုက်နာရမည်နည်းဟု ဆင်ခြင်ခြင်းဖြစ်သည်။ ကုရ်အာန်သည် ဖတ်ရန်သာမဟုတ်ဘဲ လိုက်နာရန်ဖြစ်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah has a firm rhythm: 'Yatlūnahu haqqa tilāwatihi'.",
+          "meaning_anchor": "Imagine footprints in the sand that you are carefully stepping into.",
+          "daily_connection": "Recite this before starting your daily Quran portion.",
+          "my": "စည်းချက်မှန်မှန်ဖြင့် 'ယသ်လူးနဟူး ဟတ်က သီလာဝသ်' ကို ကျက်မှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We concluded Phase 6's study of synonyms by looking at verbs of speech. We learned that 'Tilāwa' is the ultimate goal of a student of the Quran — a recitation that leads to following the Divine Light. This marks the end of our Balagha journey in synonyms.",
+      "my": "အနက်တူစကားလုံးများ လေ့လာမှု၏ နောက်ဆုံးအနေဖြင့် ပြောဆိုခြင်း ကြိယာများကို လေ့လာခဲ့သည်။ 'သီလာဝသ်' သည် ကုရ်အာန်သင်ယူသူတစ်ဦး၏ အမြင့်ဆုံးပန်းတိုင်ဖြစ်ပြီး၊ ၎င်းမှာ အလင်းရောင်နောက်သို့ လိုက်နာစေသော ရွတ်ဖတ်ခြင်းပင် ဖြစ်သည်။ ဤသည်မှာ ကျွန်ုပ်တို့၏ ဗလာဂသ်ခရီးစဉ်၏ အနက်တူစကားလုံးများ ကဏ္ဍ အဆုံးသတ်ပင် ဖြစ်သည်။"
+    }
+  }
+]

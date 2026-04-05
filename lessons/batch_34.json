@@ -1,0 +1,2489 @@
+[
+  {
+    "lesson_id": "L4-166",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 166,
+    "title": {
+      "ar": "سُورَةُ الْمَاعُونِ (١) — الْيَتِيمُ وَالصَّلَاةُ",
+      "en": "Surah Al-Ma'un: The Orphan and Prayer",
+      "my": "စူရဟ်အလ်မာအွန် (အပိုင်း ၁) - မိဘမဲ့နှင့် ဆွလာသ်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Present tense of neglect; Ism al-Fa'il as description of character",
+      "grammar_formula": "Present Tense (Mudari) + Character Description (Ism Fa'il)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "يَتِيم",
+        "translit": "yatīm",
+        "en": "orphan",
+        "my": "မိဘမဲ့",
+        "quran_freq": 23,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ي ت م",
+          "concept_en": "to be alone/isolated",
+          "concept_my": "တစ်ဦးတည်းဖြစ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Yetim (Turkish/Urdu)",
+          "image": "A lonely child standing by a tree",
+          "cross_language": "Urdu: Yateem"
+        },
+        "word_family": [
+          {
+            "ar": "أَيْتَام",
+            "translit": "aytām",
+            "en": "orphans",
+            "my": "မိဘမဲ့များ",
+            "freq": 14
+          }
+        ],
+        "pattern_unlock": "Words on the pattern Fa'eel often describe a lasting quality or state.",
+        "example": {
+          "ar": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+          "en": "For that is the one who drives away the orphan",
+          "my": "ထိုသူသည် မိဘမဲ့ကို နှင်ထုတ်သောသူဖြစ်၏",
+          "ref": "107:2"
+        }
+      },
+      {
+        "word": "يَدُعُّ",
+        "translit": "yadu'u",
+        "en": "he repulses/pushes away",
+        "my": "တွန်းထုတ်သည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعُلُ",
+        "root": {
+          "letters": "د ع ع",
+          "concept_en": "to push with violence",
+          "concept_my": "အကြမ်းဖက်တွန်းထုတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dua (opposite) - pushing away instead of calling in",
+          "image": "A hand pushing away a heavy door",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "دَعًّا",
+            "translit": "da'an",
+            "en": "shoving",
+            "my": "တွန်းထုတ်ခြင်း",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The shaddah on the last root letter emphasizes the intensity of the action.",
+        "example": {
+          "ar": "يَدُعُّ الْيَتِيمَ",
+          "en": "he drives away the orphan",
+          "my": "သူသည် မိဘမဲ့ကို နှင်ထုတ်သည်",
+          "ref": "107:2"
+        }
+      },
+      {
+        "word": "مِسْكِين",
+        "translit": "miskīn",
+        "en": "poor/needy person",
+        "my": "ဆင်းရဲနွမ်းပါးသူ",
+        "quran_freq": 23,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مِفْعِيل",
+        "root": {
+          "letters": "س ك ن",
+          "concept_en": "to be still/quiet due to lack of means",
+          "concept_my": "မလှုပ်မယှက်ငြိမ်သက်ခြင်း (ချို့တဲ့မှုကြောင့်)"
+        },
+        "memory_hook": {
+          "sound": "Miskeen (Malay/Urdu)",
+          "image": "Someone sitting quietly because they have nothing",
+          "cross_language": "Malay: Miskin"
+        },
+        "word_family": [
+          {
+            "ar": "مَسَاكِين",
+            "translit": "masākīn",
+            "en": "the needy (plural)",
+            "my": "ဆင်းရဲသူများ",
+            "freq": 23
+          }
+        ],
+        "pattern_unlock": "Words starting with 'Mi-' can sometimes denote the person in a specific state.",
+        "example": {
+          "ar": "طَعَامِ الْمِسْكِينِ",
+          "en": "feeding of the needy",
+          "my": "ဆင်းရဲသူအား ကျွေးမွေးခြင်း",
+          "ref": "107:3"
+        }
+      },
+      {
+        "word": "طَعَام",
+        "translit": "ta'ām",
+        "en": "food/feeding",
+        "my": "အစားအစာ/ကျွေးမွေးခြင်း",
+        "quran_freq": 48,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَال",
+        "root": {
+          "letters": "ط ع م",
+          "concept_en": "to taste/eat",
+          "concept_my": "မြည်းစမ်းခြင်း/စားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "T'am (tasty)",
+          "image": "A plate of hot rice",
+          "cross_language": "Urdu: Ta'am"
+        },
+        "word_family": [
+          {
+            "ar": "يُطْعِمُ",
+            "translit": "yut'imu",
+            "en": "he feeds",
+            "my": "သူကျွေးမွေးသည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "The T-A-M root always relates to nourishment.",
+        "example": {
+          "ar": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ",
+          "en": "And does not encourage the feeding",
+          "my": "ကျွေးမွေးရန်လည်း တိုက်တွန်းခြင်းမရှိ",
+          "ref": "107:3"
+        }
+      },
+      {
+        "word": "يَحُضُّ",
+        "translit": "yahuddu",
+        "en": "he urges/encourages",
+        "my": "တိုက်တွန်းသည်",
+        "quran_freq": 3,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعُلُ",
+        "root": {
+          "letters": "ح ض ض",
+          "concept_en": "to incite/instigate",
+          "concept_my": "လှုံ့ဆော်တိုက်တွန်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hudd (limit) - pushing someone to the limit of action",
+          "image": "Cheering someone on to do good",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "تَحَاضُّون",
+            "translit": "tahāddūna",
+            "en": "you urge one another",
+            "my": "သင်တို့အချင်းချင်းတိုက်တွန်းကြသည်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Double root verbs (H-D-D) often imply repetitive or strong action.",
+        "example": {
+          "ar": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+          "en": "And does not encourage the feeding of the needy",
+          "my": "ဆင်းရဲသားအား ကျွေးမွေးရန် တိုက်တွန်းခြင်းလည်းမပြု",
+          "ref": "107:3"
+        }
+      },
+      {
+        "word": "أَرَأَيْتَ",
+        "translit": "ara'ayta",
+        "en": "Have you seen?",
+        "my": "သင်မြင်ဖူးသလော",
+        "quran_freq": 13,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفَعَلْتَ",
+        "root": {
+          "letters": "ر أ ي",
+          "concept_en": "to see/perceive",
+          "concept_my": "မြင်ခြင်း/သိမြင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rai (opinion) - what you see as right",
+          "image": "An eye looking through a lens",
+          "cross_language": "Urdu: Ra'y"
+        },
+        "word_family": [
+          {
+            "ar": "يَرَى",
+            "translit": "yarā",
+            "en": "he sees",
+            "my": "သူမြင်သည်",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "The prefix 'A-' at the start often signals a question.",
+        "example": {
+          "ar": "أَرَأَيْتَ الَّذِي يُكَذِّبُ",
+          "en": "Have you seen the one who denies?",
+          "my": "ငြင်းပယ်သောသူကို သင်မြင်ဖူးသလော",
+          "ref": "107:1"
+        }
+      },
+      {
+        "word": "يُكَذِّبُ",
+        "translit": "yukadhdhibu",
+        "en": "he denies/belies",
+        "my": "မုသားဟုဆိုသည်/ငြင်းပယ်သည်",
+        "quran_freq": 180,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفَعِّلُ",
+        "root": {
+          "letters": "က ဇ ဘ",
+          "concept_en": "to lie/deny truth",
+          "concept_my": "လိမ်ညာခြင်း/အမှန်တရားကိုငြင်းပယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kizb (lie)",
+          "image": "Someone shaking their head 'No' to a clear sign",
+          "cross_language": "Urdu: Kazib"
+        },
+        "word_family": [
+          {
+            "ar": "كَذَّاب",
+            "translit": "kadhdhāb",
+            "en": "liar",
+            "my": "လိမ်ညာသူ",
+            "freq": 8
+          }
+        ],
+        "pattern_unlock": "Form II verbs (with shaddah) often mean considering someone a liar or repeatedly denying.",
+        "example": {
+          "ar": "يُكَذِّبُ بِالدِّينِ",
+          "en": "denies the Recompense",
+          "my": "အကျိုးပေးတော်မူခြင်းကို ငြင်းပယ်သည်",
+          "ref": "107:1"
+        }
+      },
+      {
+        "word": "الدِّين",
+        "translit": "ad-dīn",
+        "en": "the judgment/religion",
+        "my": "တရားတော်/အကျိုးပေးခြင်း",
+        "quran_freq": 92,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ဒ ယ န",
+          "concept_en": "repayment/submission/way of life",
+          "concept_my": "ပြန်ဆပ်ခြင်း/လက်အောက်ခံခြင်း/နေထိုင်မှုစနစ်"
+        },
+        "memory_hook": {
+          "sound": "Dean (English name) or Deen",
+          "image": "A scale weighing deeds",
+          "cross_language": "Malay/Urdu: Din/Deen"
+        },
+        "word_family": [
+          {
+            "ar": "مَدِين",
+            "translit": "madīn",
+            "en": "indebted",
+            "my": "အကြွေးတင်နေသူ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "In the Quran, Ad-Din often specifically refers to the Day of Judgment (repayment).",
+        "example": {
+          "ar": "مَالِكِ يَوْمِ الدِّينِ",
+          "en": "Sovereign of the Day of Recompense",
+          "my": "အကျိုးပေးတော်မူရာနေ့ကို အစိုးရတော်မူသော အရှင်",
+          "ref": "1:4"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْفِعْلُ الْمُضَارِعُ لِلْوَصْفِ",
+        "en": "The Present Tense for Description",
+        "my": "ဖော်ပြချက်အတွက် ပစ္စုပ္ပန်ကာလကြိယာ"
+      },
+      "formula": {
+        "display": "الَّذِي + يـ [فعل]",
+        "example": "الَّذِي يَدُعُّ الْيَتِيمَ",
+        "myanmar_read": "ထိုသူသည် (အမြဲတမ်း) မိဘမဲ့ကို တွန်းထုတ်နေသည်",
+        "key_insight": "Present tense verbs in these verses describe habitual behavior—it defines who the person is."
+      },
+      "explanation": {
+        "en": "In Surah Al-Ma'un, the present tense (Mudari) verbs like 'Yadu'u' (pushes away) and 'Yahuddu' (urges) describe a continuous and habitual state. This isn't a one-time mistake; it defines the character of the person who denies the Judgment. Using the present tense makes the action vivid, as if it is happening right before our eyes.",
+        "my": "စူရဟ်အလ်မာအွန်တွင် 'ယဒုအ်အု' (တွန်းထုတ်သည်) နှင့် 'ယဟွဒ်ဒု' (တိုက်တွန်းသည်) ကဲ့သို့သော ပစ္စုပ္ပန်ကာလ (Mudari) ကြိယာများသည် အလေ့အထဖြစ်နေသော အပြုအမူကို ဖော်ပြသည်။ ၎င်းသည် တစ်ကြိမ်တစ်ခါပြုလုပ်သော အမှားမဟုတ်ဘဲ ထိုသူ၏ စရိုက်လက္ခဏာကို ဖော်ပြခြင်းဖြစ်သည်။ ပစ္စုပ္ပန်ကာလကို အသုံးပြုခြင်းသည် လုပ်ဆောင်ချက်ကို မျက်ဝါးထင်ထင် မြင်တွေ့နေရသကဲ့သို့ ပေါ်လွင်စေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we use the suffix '-နေသည်' to show continuous action. Arabic uses the prefix 'Ya-' to show a state of being that is current and ongoing.",
+        "my": "မြန်မာဘာသာတွင် အဆက်မပြတ်ပြုလုပ်နေခြင်းကို '-နေသည်' ဟု သုံးသကဲ့သို့ အာရဗီတွင် 'Ya-' ရှေ့ဆက်ကိုသုံး၍ လက်ရှိဖြစ်ပေါ်နေသော အခြေအနေကို ဖော်ပြသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The prefix 'Ya-' indicates a 3rd person masculine singular present tense action.",
+          "rule_my": "'Ya-' ရှေ့ဆက်သည် တတိယပုဂ္ဂိုလ်၊ အနည်းကိန်း၊ ကျား၊ ပစ္စုပ္ပန်ကာလကို ပြသည်။",
+          "example": {
+            "ar": "يُكَذِّبُ",
+            "en": "He denies",
+            "my": "သူငြင်းပယ်သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Character Description",
+          "ar": "الَّذِي يُكَذِّبُ بِالدِّينِ",
+          "en": "the one who denies the Recompense",
+          "my": "(၁) အသင်(တမန်တော်)သည် အစားပေးခြင်း(၏နေ့)ကို မဟုတ်မမှန်ဟု ငြင်းပယ်သည့်သူကို မမြင်ခဲ့သလော။",
+          "ref": "107:1",
+          "breakdown": {
+            "subject": {
+              "word": "الَّذِي",
+              "en": "the one who",
+              "note": "relative pronoun"
+            },
+            "predicate": {
+              "word": "يُكَذِّبُ",
+              "en": "denies",
+              "note": "habitual action"
+            }
+          },
+          "myanmar_insight": "Alladhi သည် ရှေ့မှလူကို ညွှန်းပြီး ယုကပ်ဇိဗု က ထိုသူ၏ အမြဲတမ်းလုပ်ရပ်ကို ပြသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking it only refers to the past",
+          "wrong": {
+            "ar": "يَدُعُّ",
+            "note": "Thinking it means 'he pushed once'"
+          },
+          "correct": {
+            "ar": "يَدُعُّ",
+            "en": "He pushes (habitually)",
+            "my": "သူအမြဲတွန်းထုတ်နေသည်"
+          },
+          "myanmar_tip": "ယခုလက်ရှိဖြစ်ပျက်နေသော သို့မဟုတ် အမြဲတမ်းဖြစ်ပျက်နေသော အပြုအမူဟု မှတ်သားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the present tense verb (Mudari) in the verse",
+          "instruction_my": "အာယတ်တော်ရှိ ပစ္စုပ္ပန်ကာလကြိယာကို ရှာပါ",
+          "questions": [
+            {
+              "q": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+              "answer_en": "يحضّ",
+              "answer_my": "ယဟွဒ်ဒု",
+              "ref": "107:3"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the phrase into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "يَدُعُّ الْيَتِيمَ",
+              "answer_en": "He drives away the orphan",
+              "answer_my": "သူသည် မိဘမဲ့ကို နှင်ထုတ်သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Convert the root K-DH-B to 'He denies' (Present Tense)",
+          "instruction_my": "K-DH-B ရင်းမြစ်ကို 'သူငြင်းပယ်သည်' (ပစ္စုပ္ပန်ကာလ) သို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "ك ذ ب",
+              "answer_en": "yukadhdhibu",
+              "answer_my": "ယုကပ်ဇိဗု",
+              "ar": "يُكَذِّبُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Islam links belief in the Afterlife directly to how we treat the most vulnerable. To deny the Judgment is to lose the empathy required to care for orphans and the poor.",
+        "my": "အစ္စလာမ်သည် နောင်တမလွန်ကို ယုံကြည်ခြင်းနှင့် အားနည်းသူများအပေါ် ဆက်ဆံပုံကို တိုက်ရိုက်ချိတ်ဆက်ထားသည်။ အကျိုးပေးမှုကို ငြင်းပယ်ခြင်းသည် မိဘမဲ့နှင့် ဆင်းရဲသားများကို ကြင်နာရမည့် စိတ်ဓာတ်ကို ပျောက်ဆုံးစေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Ma'un 107:2",
+        "study_number": 1,
+        "arabic_full": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+        "en_sahih": "For that is the one who drives away the orphan",
+        "my_mmsy": "(၂) ထိုသူပင် အဘမဲ့ကလေးသူငယ်ကို တွန်းထုတ်သောသူဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 107,
+          "ayah": 2,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/107002.mp3"
+        },
+        "qurancom_url": "https://quran.com/107/2",
+        "context": {
+          "en": "Allah is describing the practical signs of someone who does not truly believe in the Day of Recompense. The first sign is the harsh treatment of those who have no protector.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အကျိုးပေးတော်မူရာနေ့ကို အမှန်တကယ်မယုံကြည်သူ၏ လက်တွေ့လက္ခဏာများကို ဖော်ပြနေသည်။ ပထမလက္ခဏာမှာ အကာအကွယ်မဲ့သူများအပေါ် ကြမ်းတမ်းစွာဆက်ဆံခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "فَذَٰلِكَ",
+            "translit": "fadhālika",
+            "en": "then that (is)",
+            "my": "ထိုသူသည်",
+            "role_en": "Conjunction + Demonstrative Pronoun",
+            "role_my": "ဆက်သွယ်ပုဒ် + ညွှန်းပုဒ်",
+            "root": "ذ ل ك",
+            "freq": 0
+          },
+          {
+            "ar": "الَّذِي",
+            "translit": "alladhī",
+            "en": "the one who",
+            "my": "ထိုသူ",
+            "role_en": "Relative Pronoun",
+            "role_my": "နာမ်စား",
+            "root": "N/A",
+            "freq": 0
+          },
+          {
+            "ar": "يَدُعُّ",
+            "translit": "yadu'u",
+            "en": "repulses",
+            "my": "နှင်ထုတ်သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "د ع ع",
+            "freq": 1
+          },
+          {
+            "ar": "الْيَتِيمَ",
+            "translit": "al-yatīma",
+            "en": "the orphan",
+            "my": "မိဘမဲ့ကို",
+            "role_en": "Object (Noun)",
+            "role_my": "ကံပုဒ်",
+            "root": "ي ت م",
+            "freq": 23
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of 'Fa-' (then/for) connects the denial of faith in verse 1 to the action in verse 2.",
+          "structure_my": "'Fa-' ကိုသုံးခြင်းဖြင့် အာယတ် ၁ ပါ အီမာန်မရှိခြင်းနှင့် အာယတ် ၂ ပါ လုပ်ရပ်ကို ချိတ်ဆက်ပေးသည်။",
+          "insight_en": "The verb 'Yadu'u' implies a violent or harsh pushing, showing the total lack of mercy in the heart.",
+          "insight_my": "'ယဒုအ်အု' ကြိယာသည် ကြမ်းတမ်းစွာ တွန်းထုတ်ခြင်းကို ဆိုလိုပြီး နှလုံးသားထဲတွင် ကရုဏာတရား လုံးဝမရှိခြင်းကို ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ي ت م",
+            "concept_en": "To be alone or to lose one's father before reaching maturity.",
+            "concept_my": "တစ်ဦးတည်းဖြစ်ခြင်း သို့မဟုတ် အရွယ်မရောက်မီ ဖခင်ဆုံးရှုံးခြင်း။",
+            "members": [
+              {
+                "ar": "يَتِيم",
+                "en": "orphan",
+                "my": "မိဘမဲ့",
+                "freq": 23
+              }
+            ],
+            "professors_note": "In Quranic culture, the orphan was the ultimate test of a society's sincerity because they had no social power to defend themselves."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ မြန်မာမူစလင်လူ့အဖွဲ့အစည်းတွင် မိဘမဲ့ကလေးများကို စောင့်ရှောက်ခြင်းသည် အလွန်အရေးကြီးသော တာဝန်ဖြစ်သည်။ ဤအာယတ်တော်အရ မိဘမဲ့တစ်ဦးကို လျစ်လျူရှုခြင်း သို့မဟုတ် ကြမ်းတမ်းစွာဆက်ဆံခြင်းသည် ကျွန်ုပ်တို့၏ အီမာန်ယုံကြည်ချက်ကို ထိခိုက်စေနိုင်ကြောင်း သတိပေးနေသည်။ ဆင်းရဲသားနှင့် မိဘမဲ့များကို ကူညီခြင်းသည် ဝတ်ပြုမှု (အိဗာဒသ်) ၏ အစိတ်အပိုင်းတစ်ခုပင်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah ends with the heavy 'm' sound in 'Al-Yateem', creating a serious tone.",
+          "meaning_anchor": "Imagine a hand pushing away a helpless child.",
+          "daily_connection": "Remember this ayah whenever you see an orphan or someone in need of help.",
+          "my": "အလ်ယသီးမ် ၏ အဆုံးသံ 'မ်' ကို လေးလေးနက်နက် ရွတ်ဆိုပါ။ မိဘမဲ့ကလေးကို တွန်းထုတ်နေသည့် ပုံရိပ်ကို မြင်ယောင်ကြည့်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "This lesson introduced the harsh reality of denying the Judgment as seen in the treatment of orphans. We learned how present tense verbs describe lasting character traits.",
+      "my": "ဤသင်ခန်းစာသည် မိဘမဲ့များအပေါ် ဆက်ဆံပုံကို ကြည့်ခြင်းအားဖြင့် နောင်တမလွန်ကို ငြင်းပယ်သူတို့၏ အခြေအနေကို ဖော်ပြခဲ့သည်။ ပစ္စုပ္ပန်ကာလကြိယာများသည် စရိုက်လက္ခဏာကို မည်သို့ဖော်ပြကြောင်း လေ့လာခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L4-167",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 167,
+    "title": {
+      "ar": "سُورَةُ الْمَاعُونِ (٢) — الْمُصَلُّونَ السَّاهُونَ",
+      "en": "Surah Al-Ma'un: The Negligent Prayers",
+      "my": "စူရဟ်အလ်မာအွန် (အပိုင်း ၂) - လျစ်လျူရှုသော ဆွလာသ်ဝတ်ပြုသူများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Alladhīna relative clause; Sāhūn (heedless) as Ism Fā'il plural",
+      "grammar_formula": "الَّذِينَ + Plural Description"
+    },
+    "section_1_vocab": [
+      {
+        "word": "سَاهُون",
+        "translit": "sāhūn",
+        "en": "heedless/negligent",
+        "my": "လျစ်လျူရှုသောသူများ",
+        "quran_freq": 1,
+        "word_type": "Noun/Adjective",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُون",
+        "root": {
+          "letters": "س هـ و",
+          "concept_en": "to overlook/be distracted",
+          "concept_my": "သတိမမူမိခြင်း/အာရုံလွဲခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sajdah-sahw (prostration of forgetfulness)",
+          "image": "A person looking at their watch during prayer",
+          "cross_language": "Urdu/Malay: Sahw"
+        },
+        "word_family": [
+          {
+            "ar": "سَهْو",
+            "translit": "sahw",
+            "en": "forgetfulness",
+            "my": "မေ့လျော့ခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The 'ūn' ending indicates a plural group of people performing an action or state.",
+        "example": {
+          "ar": "عَن صَلَاتِهِمْ سَاهُونَ",
+          "en": "heedless of their prayer",
+          "my": "၎င်းတို့သည် မိမိတို့၏ ဆွလာသ်ဝတ်ပြုမှုအပေါ် လျစ်လျူရှုသူများဖြစ်ကြသည်",
+          "ref": "107:5"
+        }
+      },
+      {
+        "word": "يُرَاءُونَ",
+        "translit": "yurā'ūn",
+        "en": "they show off",
+        "my": "၎င်းတို့သည် ဟန်ပြလုပ်ဆောင်ကြသည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفَاعِلُون",
+        "root": {
+          "letters": "ر أ ي",
+          "concept_en": "to see / to make seen",
+          "concept_my": "မြင်ခြင်း / မြင်အောင်လုပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Riya (showing off)",
+          "image": "A performer looking for applause",
+          "cross_language": "Malay/Urdu: Riya"
+        },
+        "word_family": [
+          {
+            "ar": "رِئَاء",
+            "translit": "ri'ā'",
+            "en": "showing off",
+            "my": "ဟန်ပြလုပ်ခြင်း",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "The Form III pattern (Yufa'ilun) here implies an action directed towards others (making them see).",
+        "example": {
+          "ar": "الَّذِينَ هُمْ يُرَاءُونَ",
+          "en": "Those who make show [of their deeds]",
+          "my": "၎င်းတို့သည် ဟန်ပြလုပ်ဆောင်ကြသည်",
+          "ref": "107:6"
+        }
+      },
+      {
+        "word": "الْمَاعُون",
+        "translit": "al-mā'ūn",
+        "en": "small kindnesses/household items",
+        "my": "အသေးအဖွဲအသုံးအဆောင်ပစ္စည်းများ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعُول",
+        "root": {
+          "letters": "မ အ န",
+          "concept_en": "assistance/small utensils",
+          "concept_my": "အကူအညီ/အသေးစားကိရိယာများ"
+        },
+        "memory_hook": {
+          "sound": "Mā'ūn (like Moon - small light reflected)",
+          "image": "Lending a neighbor a pot or salt",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مَعُونَة",
+            "translit": "ma'ūnah",
+            "en": "aid/help",
+            "my": "အကူအညီ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This word uniquely refers to the essential neighborly help that keeps a community together.",
+        "example": {
+          "ar": "وَيَمْنَعُونَ الْمَاعُونَ",
+          "en": "And withhold [simple] assistance",
+          "my": "အသုံးအဆောင်ပစ္စည်းများကိုလည်း တားမြစ်ကြသည်",
+          "ref": "107:7"
+        }
+      },
+      {
+        "word": "يَمْنَعُونَ",
+        "translit": "yamna'ūna",
+        "en": "they withhold/prevent",
+        "my": "၎င်းတို့သည် တားမြစ်ကြသည်/မပေးဘဲနေကြသည်",
+        "quran_freq": 16,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلُونَ",
+        "root": {
+          "letters": "မ န အ",
+          "concept_en": "to stop/hinder/refuse",
+          "concept_my": "တားဆီးခြင်း/ငြင်းပယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mana (to forbid in some contexts)",
+          "image": "A closed hand refusing to share",
+          "cross_language": "Urdu: Mana"
+        },
+        "word_family": [
+          {
+            "ar": "مَانِع",
+            "translit": "māni'",
+            "en": "preventer",
+            "my": "တားဆီးသူ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The '-ūna' ending shows it's a collective action of a group.",
+        "example": {
+          "ar": "وَيَمْنَعُونَ الْمَاعُونَ",
+          "en": "And withhold assistance",
+          "my": "အကူအညီများကို မပေးဘဲနေကြသည်",
+          "ref": "107:7"
+        }
+      },
+      {
+        "word": "وَيْل",
+        "translit": "wayl",
+        "en": "woe/destruction",
+        "my": "ပျက်စီးခြင်း/ဝမ်းနည်းဖွယ်ဘေးဒုက္ခ",
+        "quran_freq": 40,
+        "word_type": "Noun/Interjection",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ဝ ယ လ",
+          "concept_en": "sorrow/calamity",
+          "concept_my": "ဝမ်းနည်းပူဆွေးမှု/ဘေးဒုက္ခ"
+        },
+        "memory_hook": {
+          "sound": "Wail (English) - to cry out in grief",
+          "image": "A person crying out after losing everything",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Wayl is often used as a warning for those who neglect their duties.",
+        "example": {
+          "ar": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+          "en": "So woe to those who pray",
+          "my": "ဆွလာသ်ဝတ်ပြုသူများအတွက် ပျက်စီးခြင်းရှိပါစေသော်",
+          "ref": "107:4"
+        }
+      },
+      {
+        "word": "الْمُصَلِّين",
+        "translit": "al-musallīn",
+        "en": "those who pray",
+        "my": "ဆွလာသ်ဝတ်ပြုသူများ",
+        "quran_freq": 7,
+        "word_type": "Noun (Ism Fa'il)",
+        "gender": "Masculine Plural",
+        "wazn": "مُفَعِّلِين",
+        "root": {
+          "letters": "ص ل ဝ",
+          "concept_en": "to pray/connect",
+          "concept_my": "ဝတ်ပြုခြင်း/ချိတ်ဆက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Musalla (prayer rug)",
+          "image": "A line of people in Ruku",
+          "cross_language": "Malay/Urdu: Musalli"
+        },
+        "word_family": [
+          {
+            "ar": "صَلَاة",
+            "translit": "salāh",
+            "en": "prayer",
+            "my": "ဆွလာသ်",
+            "freq": 67
+          }
+        ],
+        "pattern_unlock": "The 'Mu-' prefix often denotes the doer of an action (Form II).",
+        "example": {
+          "ar": "لِّلْمُصَلِّينَ",
+          "en": "to those who pray",
+          "my": "ဆွလာသ်ဝတ်ပြုသူများအတွက်",
+          "ref": "107:4"
+        }
+      },
+      {
+        "word": "صَلَاتِهِمْ",
+        "translit": "salātihim",
+        "en": "their prayer",
+        "my": "၎င်းတို့၏ ဆွလာသ်",
+        "quran_freq": 10,
+        "word_type": "Noun + Pronoun",
+        "gender": "Feminine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ص ل ဝ",
+          "concept_en": "prayer",
+          "concept_my": "ဝတ်ပြုမှု"
+        },
+        "memory_hook": {
+          "sound": "Salat",
+          "image": "The act of bowing to Allah",
+          "cross_language": "Malay: Solat"
+        },
+        "word_family": [],
+        "pattern_unlock": "The suffix '-him' means 'their' (plural).",
+        "example": {
+          "ar": "عَن صَلَاتِهِمْ",
+          "en": "of their prayer",
+          "my": "၎င်းတို့၏ ဆွလာသ်အပေါ်",
+          "ref": "107:5"
+        }
+      },
+      {
+        "word": "هُمْ",
+        "translit": "hum",
+        "en": "they",
+        "my": "၎င်းတို့",
+        "quran_freq": 1300,
+        "word_type": "Pronoun",
+        "gender": "Masculine Plural",
+        "wazn": "N/A",
+        "root": {
+          "letters": "هـ မ",
+          "concept_en": "they",
+          "concept_my": "၎င်းတို့"
+        },
+        "memory_hook": {
+          "sound": "Hum (English) - a group humming together",
+          "image": "A group of people standing apart",
+          "cross_language": "Urdu: Hum (means 'we', careful!)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Hum is one of the most frequent pronouns in the Quran.",
+        "example": {
+          "ar": "الَّذِينَ هُمْ يُرَاءُونَ",
+          "en": "Those who [they] make show",
+          "my": "ဟန်ပြလုပ်သော ထိုသူများ",
+          "ref": "107:6"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الصِّلَةُ وَالْمَوْصُولُ لِلْجَمْعِ",
+        "en": "The Plural Relative Clause",
+        "my": "အများကိန်း ဆက်စပ်နာမ်စားဝါကျ"
+      },
+      "formula": {
+        "display": "الَّذِينَ + [Sentence describing the group]",
+        "example": "الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+        "myanmar_read": "မိမိတို့၏ ဆွလာသ်အပေါ် လျစ်လျူရှုသော ထိုသူများ",
+        "key_insight": "Alladhīna is the plural form of Alladhī. It groups people together by their actions."
+      },
+      "explanation": {
+        "en": "In this surah, 'Alladhīna' (Those who) is used to define three characteristics of the negligent ones: they are heedless in prayer, they show off, and they withhold help. The grammar connects the external act of prayer with the internal state of the heart and social behavior.",
+        "my": "ဤစူရဟ်တွင် 'အလ်လာဇီးန' (ထိုသူများ) ကို လျစ်လျူရှုသူတို့၏ လက္ခဏာသုံးရပ်ကို ဖော်ပြရန် သုံးထားသည်။ ၎င်းတို့မှာ - ဆွလာသ်တွင် သတိမမူခြင်း၊ ဟန်ပြလုပ်ခြင်းနှင့် အကူအညီမပေးခြင်းတို့ဖြစ်သည်။ ဤသဒ္ဒါသည် အပြင်ပန်း ဆွလာသ်ဝတ်ပြုမှုနှင့် အတွင်းစိတ်၊ လူမှုရေးအပြုအမူတို့ကို ချိတ်ဆက်ပေးသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we say '...သောသူများ'. 'Alladhīna' acts exactly like this, turning the following sentence into a description of 'those people'.",
+        "my": "မြန်မာဘာသာတွင် '...သောသူများ' ဟု သုံးသကဲ့သို့ 'အလ်လာဇီးန' သည် နောက်မှလာသော ဝါကျကို 'ထိုသူများ' ၏ ဖော်ပြချက်ဖြစ်စေသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "'Alladhīna' is always plural and refers to people.",
+          "rule_my": "'အလ်လာဇီးန' သည် အမြဲတမ်း အများကိန်းဖြစ်ပြီး လူပုဂ္ဂိုလ်များကို ရည်ညွှန်းသည်။",
+          "example": {
+            "ar": "الَّذِينَ يُرَاءُونَ",
+            "en": "Those who show off",
+            "my": "ဟန်ပြလုပ်သောသူများ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Heedlessness",
+          "ar": "الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+          "en": "Those who are heedless of their prayer",
+          "my": "(၅) ထိုသူများသည် သူတို့၏ စွလာသ်ဝတ်ပြုမှု(တာဝန်)ကိုပင်မေ့လျော့ထားကြသည်။",
+          "ref": "107:5",
+          "breakdown": {
+            "subject": {
+              "word": "الَّذِينَ",
+              "en": "Those who",
+              "note": "relative pronoun"
+            },
+            "predicate": {
+              "word": "سَاهُونَ",
+              "en": "heedless",
+              "note": "plural description"
+            }
+          },
+          "myanmar_insight": "Alladhina က လူစုကိုပြပြီး Sahun က သူတို့ရဲ့ လက္ခဏာကို ပြသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing up Singular and Plural",
+          "wrong": {
+            "ar": "الَّذِي هُمْ سَاهُونَ",
+            "note": "Using singular 'Alladhi' with plural 'Hum'"
+          },
+          "correct": {
+            "ar": "الَّذِينَ هُمْ سَاهُونَ",
+            "en": "Those who are heedless",
+            "my": "လျစ်လျူရှုသော ထိုသူများ"
+          },
+          "myanmar_tip": "အများကိန်းဖြစ်လျှင် Alladhina ကို သုံးရမည်ဟု မှတ်သားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Circle the word that means 'Those who'",
+          "instruction_my": "'ထိုသူများ' ဟု အဓိပ္ပာယ်ရသော စကားလုံးကို ရှာပါ",
+          "questions": [
+            {
+              "q": "الَّذِينَ هُمْ يُرَاءُونَ",
+              "answer_en": "الَّذِينَ",
+              "answer_my": "အလ်လာဇီးန",
+              "ref": "107:6"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'Ma'un' based on the lesson",
+          "instruction_my": "'မာအွန်' ကို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "الْمَاعُونَ",
+              "answer_en": "small kindnesses / assistance",
+              "answer_my": "အသေးအဖွဲ အကူအညီများ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Add 'Alladhina' to 'Yura'un'",
+          "instruction_my": "'ယုရာအွန်' ရှေ့တွင် 'အလ်လာဇီးန' ထည့်ပါ",
+          "questions": [
+            {
+              "q": "يُرَاءُونَ",
+              "answer_en": "الَّذِينَ يُرَاءُونَ",
+              "answer_my": "အလ်လာဇီးန ယုရာအွန်",
+              "ar": "الَّذِينَ يُرَاءُونَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Prayer is not just physical movements; it is heart presence. If our prayer does not make us more kind and helpful (Ma'un), there is a disconnect in our faith.",
+        "my": "ဆွလာသ်သည် ကိုယ်လက်လှုပ်ရှားမှုသက်သက်မဟုတ်ဘဲ နှလုံးသားပါဝင်မှုဖြစ်သည်။ ကျွန်ုပ်တို့၏ ဆွလာသ်သည် ကျွန်ုပ်တို့ကို ပို၍ကြင်နာတတ်သူ၊ ကူညီတတ်သူ (မာအွန်) ဖြစ်အောင် မပြောင်းလဲနိုင်လျှင် ကျွန်ုပ်တို့၏ အီမာန်တွင် လိုအပ်ချက်ရှိနေပြီဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Ma'un 107:4-5",
+        "study_number": 1,
+        "arabic_full": "فَوَيْلٌ لِّلْمُصَلِّينَ الَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+        "en_sahih": "So woe to those who pray [but] who are heedless of their prayer",
+        "my_mmsy": "(၄) သို့ဖြစ်ရာ အကြင်စွလာသ်ဝတ်ပြုသူများတွင် အကြီးအကျယ်ပျက်စီးခြင်းရှိသည်။",
+        "audio_ref": {
+          "surah": 107,
+          "ayah": 4,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/107004.mp3"
+        },
+        "qurancom_url": "https://quran.com/107/4",
+        "context": {
+          "en": "After mentioning the treatment of orphans, Allah now warns those who perform the outward act of prayer but lack the inward sincerity and punctuality.",
+          "my": "မိဘမဲ့များအပေါ် ဆက်ဆံပုံကို ဖော်ပြပြီးနောက် အပြင်ပန်း ဆွလာသ်ဝတ်ပြုသော်လည်း အတွင်းစိတ်ဖြူစင်မှုနှင့် အချိန်မှန်ကန်မှုမရှိသူများကို အလ္လာဟ်အရှင်မြတ်က သတိပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "فَوَيْلٌ",
+            "translit": "fawaylun",
+            "en": "So woe",
+            "my": "ထို့ကြောင့် ပျက်စီးခြင်းရှိပါစေ",
+            "role_en": "Conjunction + Noun",
+            "role_my": "ဆက်သွယ်ပုဒ် + နာမ်",
+            "root": "و ي ل",
+            "freq": 0
+          },
+          {
+            "ar": "لِّلْمُصَلِّينَ",
+            "translit": "lil-musallīn",
+            "en": "to the prayer-performers",
+            "my": "ဆွလာသ်ဝတ်ပြုသူများအတွက်",
+            "role_en": "Preposition + Noun",
+            "role_my": "ဝိဘတ် + နာမ်",
+            "root": "ص ل و",
+            "freq": 7
+          },
+          {
+            "ar": "سَاهُونَ",
+            "translit": "sāhūn",
+            "en": "heedless",
+            "my": "လျစ်လျူရှုသူများ",
+            "role_en": "Adjective/Predicate",
+            "role_my": "နာမဝိသေသန",
+            "root": "س هـ و",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The preposition 'an' (from/of) in 'an salatihim' implies they are distant from the true meaning and timing of their prayer.",
+          "structure_my": "'အန် ဆလာသီဟင်မ်' ရှိ 'အန်' သည် ၎င်းတို့၏ ဆွလာသ်၏ စစ်မှန်သော အဓိပ္ပာယ်နှင့် အချိန်မှ ဝေးကွာနေခြင်းကို ပြသည်။",
+          "insight_en": "Notice Allah says 'woe to the musallin' (those who pray), not those who abandon prayer. This shows that a bad prayer can be a source of ruin if done with hypocrisy.",
+          "insight_my": "'ဆွလာသ်မဝတ်သူများ' ဟု မဆိုဘဲ 'ဆွလာသ်ဝတ်ပြုသူများ' ဟု ဆိုခြင်းမှာ ဟန်ဆောင်မှုဖြင့် ဝတ်ပြုခြင်းသည် ပျက်စီးခြင်း၏ အကြောင်းရင်းဖြစ်နိုင်ကြောင်း ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "س هـ و",
+            "concept_en": "To forget something out of negligence or distraction.",
+            "concept_my": "လျစ်လျူရှုမှု သို့မဟုတ် အာရုံပျံ့လွင့်မှုကြောင့် တစ်စုံတစ်ခုကို မေ့လျော့ခြင်း။",
+            "members": [
+              {
+                "ar": "سَاهُونَ",
+                "en": "negligent ones",
+                "my": "လျစ်လျူရှုသူများ",
+                "freq": 1
+              }
+            ],
+            "professors_note": "Unlike 'Nisyan' (natural forgetting), 'Sahw' implies a lack of care or importance given to the matter."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ ဆွလာသ်ဝတ်ပြုသည့်အခါ အလ္လာဟ်အရှင်မြတ် ရှေ့မှောက်တွင် ရှိနေသည်ဟူသော အသိစိတ်ရှိရန် လိုအပ်သည်။ ဟန်ပြဝတ်ပြုခြင်း (Riya) သည် ကျွန်ုပ်တို့၏ ကောင်းမှုကုသိုလ်များကို ဖျက်ဆီးပစ်နိုင်သည်။ ဤအာယတ်တော်သည် ကျွန်ုပ်တို့၏ ဝတ်ပြုမှုကို အလေးအနက်ထားရန်နှင့် လူမြင်ကောင်းရုံမလုပ်ရန် အမြဲသတိပေးနေသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah 4 flows directly into ayah 5, keep the breath consistent.",
+          "meaning_anchor": "The word 'Sahun' sounds like staying in a 'slow' or 'foggy' state of mind.",
+          "daily_connection": "Check your heart before every Takbir: 'Am I doing this for Allah or for people?'",
+          "my": "အာယတ် ၄ နှင့် ၅ ကို ဆက်တိုက်ရွတ်ဆိုပါ။ ဆွလာသ်မတိုင်မီ 'အလ္လာဟ်အရှင်မြတ်အတွက်လား၊ လူတွေမြင်ဖို့လား' ဆိုတာကို ကိုယ့်ကိုယ်ကိုယ် ပြန်မေးပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We completed Surah Al-Ma'un by studying the dangers of negligent prayer and hypocrisy. We learned that true faith manifests in both sincere worship and helping others with small items.",
+      "my": "ကျွန်ုပ်တို့သည် စူရဟ်အလ်မာအွန်ကို လေ့လာပြီးဆုံးခဲ့ပြီဖြစ်ပြီး လျစ်လျူရှုသော ဆွလာသ်နှင့် ဟန်ဆောင်မှု၏ အန္တရာယ်များကို သိရှိခဲ့ရသည်။ စစ်မှန်သော အီမာန်သည် စစ်မှန်သော ဝတ်ပြုမှုနှင့် အခြားသူများကို ကူညီခြင်း နှစ်ခုလုံးတွင် ရှိရမည်ကို သင်ယူခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L4-168",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 168,
+    "title": {
+      "ar": "سُورَةُ قُرَيْشٍ — لِإِيلَافِ قُرَيْشٍ",
+      "en": "Surah Al-Quraysh: For the Covenants",
+      "my": "စူရဟ်ကုရိုင်းရှ် - ကုရိုင်းရှ်တို့၏ ပဋိညာဉ်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Li of purpose (li-īlāfi); Masdar Īlāf as Mudāf",
+      "grammar_formula": "لِـ + Masdar + Noun"
+    },
+    "section_1_vocab": [
+      {
+        "word": "إِيلَاف",
+        "translit": "īlāf",
+        "en": "covenant/familiarity/habit",
+        "my": "ရင်းနှီးကျွမ်းဝင်မှု/ပဋိညာဉ်",
+        "quran_freq": 2,
+        "word_type": "Noun (Masdar)",
+        "gender": "Masculine",
+        "wazn": "إِفْعَال",
+        "root": {
+          "letters": "အ လ ဖ",
+          "concept_en": "to bring together/unite",
+          "concept_my": "ပေါင်းစည်းခြင်း/ညီညွတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Alif (first letter) - joining letters together",
+          "image": "Two hands shaking in a deal",
+          "cross_language": "Urdu: Ulfat (love/attachment)"
+        },
+        "word_family": [
+          {
+            "ar": "أَلَّفَ",
+            "translit": "allafa",
+            "en": "he joined",
+            "my": "သူပေါင်းစည်းခဲ့သည်",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "The 'Ī-' start often indicates a Form IV verbal noun (Masdar).",
+        "example": {
+          "ar": "لِإِيلَافِ قُرَيْشٍ",
+          "en": "For the familiarity of the Quraysh",
+          "my": "ကုရိုင်းရှ်တို့၏ ရင်းနှီးကျွမ်းဝင်မှုအတွက်",
+          "ref": "106:1"
+        }
+      },
+      {
+        "word": "رِحْلَة",
+        "translit": "rihlah",
+        "en": "journey/caravan",
+        "my": "ခရီးစဉ်",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعْلَة",
+        "root": {
+          "letters": "ရ ဟ လ",
+          "concept_en": "to saddle a camel/travel",
+          "concept_my": "ခရီးသွားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rihla (famed travelogue of Ibn Battuta)",
+          "image": "A camel carrying luggage",
+          "cross_language": "Urdu: Rihlat"
+        },
+        "word_family": [
+          {
+            "ar": "ارْتَحَلَ",
+            "translit": "irtahala",
+            "en": "he departed",
+            "my": "သူထွက်ခွာသွားသည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The pattern Fihlah often describes a single instance or mode of an action.",
+        "example": {
+          "ar": "رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+          "en": "the journey of winter and summer",
+          "my": "ဆောင်းရာသီနှင့် နွေရာသီ ခရီးစဉ်",
+          "ref": "106:2"
+        }
+      },
+      {
+        "word": "الشِّتَاء",
+        "translit": "ash-shitā'",
+        "en": "winter",
+        "my": "ဆောင်းရာသီ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "သ တ ဝ",
+          "concept_en": "winter",
+          "concept_my": "ဆောင်းရာသီ"
+        },
+        "memory_hook": {
+          "sound": "Sheet (cold like a white sheet of snow)",
+          "image": "A person shivering in the cold",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "This is a unique Quranic word for the cold season.",
+        "example": {
+          "ar": "رِحْلَةَ الشِّتَاءِ",
+          "en": "the journey of winter",
+          "my": "ဆောင်းရာသီ ခရီးစဉ်",
+          "ref": "106:2"
+        }
+      },
+      {
+        "word": "الصَّيْف",
+        "translit": "as-sayf",
+        "en": "summer",
+        "my": "နွေရာသီ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ဆ ယ ဖ",
+          "concept_en": "summer",
+          "concept_my": "နွေရာသီ"
+        },
+        "memory_hook": {
+          "sound": "S-y-f (sounds like 'sun')",
+          "image": "A bright hot sun over the desert",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Used together with winter to show a complete cycle of time.",
+        "example": {
+          "ar": "وَالصَّيْفِ",
+          "en": "and the summer",
+          "my": "နှင့် နွေရာသီ",
+          "ref": "106:2"
+        }
+      },
+      {
+        "word": "الْبَيْت",
+        "translit": "al-bayt",
+        "en": "the House (Kaaba)",
+        "my": "အိမ်တော် (ကအ်ဗဟ်)",
+        "quran_freq": 15,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ဘ ယ တ",
+          "concept_en": "to stay overnight/house",
+          "concept_my": "အိမ်/ညအိပ်တည်းခိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Bait (Urdu/Malay)",
+          "image": "The black cube of the Kaaba",
+          "cross_language": "Malay: Baitullah"
+        },
+        "word_family": [
+          {
+            "ar": "بُيُوت",
+            "translit": "buyūt",
+            "en": "houses",
+            "my": "အိမ်များ",
+            "freq": 65
+          }
+        ],
+        "pattern_unlock": "In this context, 'The House' refers specifically to the Kaaba in Makkah.",
+        "example": {
+          "ar": "رَبَّ هَٰذَا الْبَيْتِ",
+          "en": "the Lord of this House",
+          "my": "ဤအိမ်တော်၏ အရှင်မြတ်",
+          "ref": "106:3"
+        }
+      },
+      {
+        "word": "أَطْعَمَهُم",
+        "translit": "at'amahum",
+        "en": "He fed them",
+        "my": "သူသည် ၎င်းတို့အား ကျွေးမွေးခဲ့သည်",
+        "quran_freq": 1,
+        "word_type": "Verb + Pronoun",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "တ အ မ",
+          "concept_en": "to feed",
+          "concept_my": "ကျွေးမွေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "At-ama (sounds like eating)",
+          "image": "Providing a feast",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "طَعَام",
+            "translit": "ta'ām",
+            "en": "food",
+            "my": "အစားအစာ",
+            "freq": 48
+          }
+        ],
+        "pattern_unlock": "Form IV verbs (starting with A-) often mean 'to make someone do' something (to make them eat = to feed).",
+        "example": {
+          "ar": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ",
+          "en": "Who has fed them, [saving them] from hunger",
+          "my": "၎င်းတို့အား ငတ်မွတ်မှုမှ [ကယ်တင်၍] ကျွေးမွေးတော်မူသော အရှင်",
+          "ref": "106:4"
+        }
+      },
+      {
+        "word": "جُوع",
+        "translit": "jū'",
+        "en": "hunger",
+        "my": "ငတ်မွတ်မှု",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ဂျ ဝ အ",
+          "concept_en": "to be hungry",
+          "concept_my": "ဆာလောင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Jū' (sounds like 'juice' needed when hungry/thirsty)",
+          "image": "An empty stomach",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "The 'ū' sound in the middle adds emphasis to the hollow feeling of hunger.",
+        "example": {
+          "ar": "مِّن جُوعٍ",
+          "en": "from hunger",
+          "my": "ငတ်မွတ်မှုမှ",
+          "ref": "106:4"
+        }
+      },
+      {
+        "word": "خَوْف",
+        "translit": "khawf",
+        "en": "fear",
+        "my": "ကြောက်ရွံ့မှု",
+        "quran_freq": 124,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ခ ဝ ဖ",
+          "concept_en": "to be afraid",
+          "concept_my": "ကြောက်ရွံ့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khawf (Urdu)",
+          "image": "A person looking around in a dark alley",
+          "cross_language": "Urdu: Khauf"
+        },
+        "word_family": [
+          {
+            "ar": "خَافَ",
+            "translit": "khāfa",
+            "en": "he feared",
+            "my": "သူကြောက်ခဲ့သည်",
+            "freq": 124
+          }
+        ],
+        "pattern_unlock": "Khawf is the state of fear, whereas Kha'if is a fearful person.",
+        "example": {
+          "ar": "وَآمَنَهُم مِّنْ خَوْفٍ",
+          "en": "and made them safe from fear",
+          "my": "၎င်းတို့အား ကြောက်ရွံ့မှုမှလည်း ဘေးကင်းလုံခြုံစေတော်မူ၏",
+          "ref": "106:4"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "لَامُ التَّعْلِيلِ مَعَ الْمَصْدَرِ",
+        "en": "Li of Purpose with Verbal Noun",
+        "my": "ရည်ရွယ်ချက်ပြ Li နှင့် ကြိယာနာမ်"
+      },
+      "formula": {
+        "display": "لِـ + إِيلَافِ + [Noun]",
+        "example": "لِإِيلَافِ قُرَيْشٍ",
+        "myanmar_read": "ကုရိုင်းရှ်တို့၏ ရင်းနှီးကျွမ်းဝင်မှုအတွက်",
+        "key_insight": "The 'Li' at the start indicates the reason why the following action (worshipping Allah) should happen."
+      },
+      "explanation": {
+        "en": "In Surah Al-Quraysh, the letter 'Li' (for) connects this surah to the previous one (Al-Fil) or sets the reason for the command in verse 3: 'Let them worship'. It shows that the safety and trade habits given to Quraysh were reasons for them to be grateful and worship the Lord of the Kaaba.",
+        "my": "စူရဟ်ကုရိုင်းရှ်တွင် 'Li' (အတွက်) သည် ဤစူရဟ်ကို ရှေ့စူရဟ် (အလ်ဖီးလ်) နှင့် ချိတ်ဆက်ပေးသည် သို့မဟုတ် အာယတ် ၃ ပါ 'ဝတ်ပြုကြစေ' ဟူသော အမိန့်အတွက် အကြောင်းပြချက်ကို ပေးသည်။ ကုရိုင်းရှ်တို့ ရရှိထားသော လုံခြုံမှုနှင့် ကုန်သွယ်မှု အလေ့အထများသည် ကအ်ဗဟ်အိမ်တော်၏ အရှင်မြတ်ကို ကျေးဇူးတင်ရန်နှင့် ဝတ်ပြုရန် အကြောင်းရင်းများဖြစ်ကြောင်း ပြသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we use '...အတွက်' at the end of the phrase. Arabic puts the 'Li-' right at the beginning.",
+        "my": "မြန်မာဘာသာတွင် '...အတွက်' ကို စကားစု၏ အဆုံးတွင် ထားသော်လည်း အာရဗီတွင် 'Li-' ကို အစတွင် ထားရှိသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "'Li' when followed by a noun acts as a preposition meaning 'for'.",
+          "rule_my": "'Li' နောက်တွင် နာမ်လိုက်ပါက 'အတွက်' ဟု အဓိပ္ပာယ်ရသော ဝိဘတ်အဖြစ် ဆောင်ရွက်သည်။",
+          "example": {
+            "ar": "لِإِيلَافِ",
+            "en": "for the familiarity",
+            "my": "ရင်းနှီးကျွမ်းဝင်မှုအတွက်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation of Gratitude",
+          "ar": "لِإِيلَافِ قُرَيْشٍ",
+          "en": "For the familiarity of the Quraysh",
+          "my": "(၁) ကုရိုင်းရှ်အမျုုိးသားများ၏ အလေ့အထရှိကြသည့်အတွက်၊",
+          "ref": "106:1",
+          "breakdown": {
+            "subject": {
+              "word": "لِـ",
+              "en": "For",
+              "note": "Preposition of purpose"
+            },
+            "predicate": {
+              "word": "إِيلَافِ",
+              "en": "familiarity/covenant",
+              "note": "Masdar (Mudaf)"
+            }
+          },
+          "myanmar_insight": "ကုရိုင်းရှ်တို့ရဲ့ ကုန်သွယ်မှုခရီးစဉ်တွေ ချောမွေ့အောင် အလ္လာဟ်အရှင်မြတ်က စီမံပေးထားတာကို ပြပါတယ်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing 'Li' (for) with 'La' (truly)",
+          "wrong": {
+            "ar": "لَإِيلَافِ",
+            "note": "Using Fatha instead of Kasra changes meaning to emphasis"
+          },
+          "correct": {
+            "ar": "لِإِيلَافِ",
+            "en": "For the covenant",
+            "my": "ပဋိညာဉ်အတွက်"
+          },
+          "myanmar_tip": "Li (အောက်ကဆွဲ) သည် 'အတွက်' ဟု အဓိပ္ပာယ်ရကြောင်း သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the two seasons mentioned in the surah",
+          "instruction_my": "စူရဟ်တွင်ပါသော ရာသီဥတုနှစ်ခုကို ရှာပါ",
+          "questions": [
+            {
+              "q": "الشِّتَاءِ وَالصَّيْفِ",
+              "answer_en": "Winter and Summer",
+              "answer_my": "ဆောင်းနှင့်နွေ",
+              "ref": "106:2"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'Rabb hadhal Bayt'",
+          "instruction_my": "'ရဗ်ဗ ဟာဇလ် ဘိုင်းသ်' ကို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "رَبَّ هَٰذَا الْبَيْتِ",
+              "answer_en": "The Lord of this House",
+              "answer_my": "ဤအိမ်တော်၏ အရှင်မြတ်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Connect 'Li' to 'Ilaf' (with correct harakat)",
+          "instruction_my": "'Li' နှင့် 'Ilaf' ကို ပေါင်းစပ်ပါ",
+          "questions": [
+            {
+              "q": "لـ + إِيلَاف",
+              "answer_en": "li-īlāfi",
+              "answer_my": "လီအီလာဖီ",
+              "ar": "لِإِيلَافِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Gratitude is the heart of worship. Allah mentions physical blessings—food and security—as the primary reasons why humans should turn to Him in worship.",
+        "my": "ကျေးဇူးသိတတ်ခြင်းသည် ဝတ်ပြုကိုးကွယ်မှု၏ အနှစ်သာရဖြစ်သည်။ အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့ ကိုယ်တော်အား ဝတ်ပြုကိုးကွယ်ရန် အဓိကအကြောင်းရင်းများအဖြစ် အစားအစာနှင့် လုံခြုံမှုတည်းဟူသော ကောင်းချီးမင်္ဂလာများကို ဖော်ပြထားသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Quraysh 106:3-4",
+        "study_number": 1,
+        "arabic_full": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
+        "en_sahih": "Let them worship the Lord of this House, Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear",
+        "my_mmsy": "(၃) သို့ဖြစ်ရာ သူတို့သည် ဤအိမ်တော်(ကအ်ဗဟ်ကျောင်းတော်)၏ အရှင်ကိုကိုးကွယ်ကြရမည်ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 106,
+          "ayah": 3,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/106003.mp3"
+        },
+        "qurancom_url": "https://quran.com/106/3",
+        "context": {
+          "en": "The Quraysh were a tribe of merchants. Their survival depended on journeys that were dangerous due to bandits. Allah reminds them that He is the one providing food and safety.",
+          "my": "ကုရိုင်းရှ်တို့သည် ကုန်သည်မျိုးနွယ်စုဖြစ်သည်။ ၎င်းတို့၏ ရှင်သန်မှုသည် ဓားပြများကြောင့် အန္တရာယ်များသော ခရီးစဉ်များပေါ်တွင် မူတည်နေသည်။ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား အစားအစာနှင့် လုံခြုံမှုပေးသော အရှင်ဖြစ်ကြောင်း သတိပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "فَلْيَعْبُدُوا",
+            "translit": "fal-ya'budū",
+            "en": "So let them worship",
+            "my": "ထို့ကြောင့် ၎င်းတို့သည် ဝတ်ပြုကြစေ",
+            "role_en": "Verb (Command)",
+            "role_my": "ကြိယာ (အမိန့်)",
+            "root": "ع ب د",
+            "freq": 0
+          },
+          {
+            "ar": "رَبَّ",
+            "translit": "rabba",
+            "en": "the Lord",
+            "my": "အရှင်မြတ်",
+            "role_en": "Noun (Object)",
+            "role_my": "နာမ် (ကံပုဒ်)",
+            "root": "ر ب ب",
+            "freq": 900
+          },
+          {
+            "ar": "جُوع",
+            "translit": "jū'",
+            "en": "hunger",
+            "my": "ငတ်မွတ်မှု",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "ج و ع",
+            "freq": 5
+          },
+          {
+            "ar": "خَوْف",
+            "translit": "khawf",
+            "en": "fear",
+            "my": "ကြောက်ရွံ့မှု",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "خ و ف",
+            "freq": 28
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The 'Fa' at the start of 'Falyabudu' is a 'Resultative Fa'—it means: 'Since Allah did all this for you, THEN let them worship Him.'",
+          "structure_my": "'Falyabudu' ၏အစရှိ 'Fa' သည် 'ထို့ကြောင့်' ဟု အဓိပ္ပာယ်ရသည်။ 'အလ္လာဟ်က ဒါတွေအားလုံး လုပ်ပေးထားတဲ့အတွက် ကိုယ်တော့်ကို ဝတ်ပြုကြပါ' ဟု ဆိုလိုသည်။",
+          "insight_en": "Food and Security are the two foundations of a stable life. By granting these, Allah removes all excuses for not worshipping Him.",
+          "insight_my": "အစားအစာနှင့် လုံခြုံမှုသည် တည်ငြိမ်သောဘဝ၏ အခြေခံနှစ်ခုဖြစ်သည်။ ၎င်းတို့ကို ပေးသနားခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်သည် ဝတ်ပြုကိုးကွယ်မှုမပြုခြင်းအတွက် အကြောင်းပြချက်အားလုံးကို ဖယ်ရှားလိုက်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "အ လ ဖ",
+            "concept_en": "To bring hearts together in harmony. The Ilaf was the safety pact that allowed Quraysh to travel without being attacked.",
+            "concept_my": "နှလုံးသားများကို ညီညွတ်စွာ ပေါင်းစည်းခြင်း။ အီလာဖ်သည် ကုရိုင်းရှ်တို့ တိုက်ခိုက်မခံရဘဲ ခရီးသွားနိုင်ရန် ပြုလုပ်ထားသော လုံခြုံရေးပဋိညာဉ်ဖြစ်သည်။",
+            "members": [
+              {
+                "ar": "أَلَّفَ",
+                "en": "He united",
+                "my": "သူပေါင်းစည်းခဲ့သည်",
+                "freq": 3
+              }
+            ],
+            "professors_note": "True security comes not from military strength alone, but from the 'Ilaf' (harmony and divine protection) that Allah places in the hearts of others."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ မြန်မာပြည်တွင် နေထိုင်ရသည်မှာလည်း အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်ကြောင့် အစားအစာနှင့် ဘေးကင်းလုံခြုံမှုကို ရရှိထားခြင်းဖြစ်သည်။ ဤကောင်းချီးများကို ခံစားနေရစဉ်အတွင်း ကျွန်ုပ်တို့သည် အရှင်မြတ်ကို ပို၍ဝတ်ပြုကိုးကွယ်ရန် တာဝန်ရှိသည်။ ငတ်မွတ်မှုနှင့် ကြောက်ရွံ့မှုတို့မှ ကင်းဝေးစေခြင်းသည် အလွန်ကြီးမားသော နိအ်မသ် (ကျေးဇူးတော်) ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The surah has a rhythmic balance between the 'winter and summer' and 'hunger and fear'.",
+          "meaning_anchor": "Think of the Kaaba as the center of safety and the provider of all needs.",
+          "daily_connection": "Recite this when eating or when arriving home safely to thank Allah for your 'Ilaf'.",
+          "my": "ဆောင်းနှင့်နွေ၊ ငတ်မွတ်မှုနှင့် ကြောက်ရွံ့မှု တို့၏ ကာရန်ညီညွတ်မှုကို သတိပြုပါ။ ထမင်းစားသည့်အခါ သို့မဟုတ် အိမ်သို့ ဘေးကင်းစွာပြန်ရောက်သည့်အခါ ဤစူရဟ်ကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored Surah Al-Quraysh, focusing on how Allah provides for our needs. We learned the 'Li' of purpose and how physical blessings should lead to spiritual devotion.",
+      "my": "ကျွန်ုပ်တို့သည် စူရဟ်ကုရိုင်းရှ်ကို လေ့လာခဲ့ပြီး အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့၏ လိုအပ်ချက်များကို မည်သို့ဖြည့်ဆည်းပေးကြောင်း သိရှိခဲ့ရသည်။ ရည်ရွယ်ချက်ပြ 'Li' နှင့် လောကီကောင်းချီးများက ဝိညာဉ်ရေးရာ ဝတ်ပြုမှုကို မည်သို့ဦးတည်စေကြောင်း သင်ယူခဲ့သည်။"
+    }
+  },
+  {
+    "lesson_id": "L4-169",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 169,
+    "title": {
+      "ar": "سُورَةُ الْفِيلِ (١) — أَصْحَابُ الْفِيلِ",
+      "en": "Surah Al-Fil: The Companions of the Elephant",
+      "my": "စူရဟ်အလ်ဖီးလ် (အပိုင်း ၁) - ဆင်တပ်သားများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Alam tara (rhetorical question); Ashāb as Idafah; past tense narrative",
+      "grammar_formula": "أَلَمْ تَرَ + كَيْفَ + Verb"
+    },
+    "section_1_vocab": [
+      {
+        "word": "الْفِيل",
+        "translit": "al-fīl",
+        "en": "the elephant",
+        "my": "ဆင်",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ဖ ယ လ",
+          "concept_en": "to be thick/heavy (elephant)",
+          "concept_my": "ထူထဲလေးလံသော (ဆင်)"
+        },
+        "memory_hook": {
+          "sound": "Fill (English) - an elephant is large and fills a room",
+          "image": "A massive elephant with tusks",
+          "cross_language": "Malay: Gajah (different, but Fil is known in religious context)"
+        },
+        "word_family": [],
+        "pattern_unlock": "This word refers to the great elephant Mahmud that Abraha brought to destroy the Kaaba.",
+        "example": {
+          "ar": "بِأَصْحَابِ الْفِيلِ",
+          "en": "with the companions of the elephant",
+          "my": "ဆင်တပ်သားတို့နှင့်",
+          "ref": "105:1"
+        }
+      },
+      {
+        "word": "أَصْحَاب",
+        "translit": "ashāb",
+        "en": "companions/dwellers/owners",
+        "my": "အပေါင်းအဖော်များ/ပိုင်ရှင်များ",
+        "quran_freq": 78,
+        "word_type": "Noun (Plural)",
+        "gender": "Masculine",
+        "wazn": "أَفْعَال",
+        "root": {
+          "letters": "ဆ ဟ ဗ",
+          "concept_en": "to accompany",
+          "concept_my": "အတူလိုက်ပါခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sahaba (the companions of the Prophet)",
+          "image": "A group of people standing together",
+          "cross_language": "Urdu: Sahab"
+        },
+        "word_family": [
+          {
+            "ar": "صَاحِب",
+            "translit": "sāhib",
+            "en": "companion",
+            "my": "အဖော်",
+            "freq": 17
+          }
+        ],
+        "pattern_unlock": "The pattern Af'aal is a common 'broken plural' for 3-letter nouns.",
+        "example": {
+          "ar": "أَصْحَابِ الْفِيلِ",
+          "en": "the companions of the elephant",
+          "my": "ဆင်တပ်သားများ",
+          "ref": "105:1"
+        }
+      },
+      {
+        "word": "كَيْد",
+        "translit": "kayd",
+        "en": "scheme/plot",
+        "my": "ပရိယာယ်/အကြံအစည်",
+        "quran_freq": 35,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "က ယ ဒ",
+          "concept_en": "to plot/contrive",
+          "concept_my": "အကွက်ချစီစဉ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kayd (sounds like 'caged' - a plot cages someone)",
+          "image": "A spider web as a trap",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "يَكِيدُونَ",
+            "translit": "yakīdūna",
+            "en": "they plot",
+            "my": "၎င်းတို့အကြံစည်ကြသည်",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "In the Quran, Kayd often refers to human plots that Allah effortlessly nullifies.",
+        "example": {
+          "ar": "أَلَمْ يَجْعَلْ كَيْدَهُمْ",
+          "en": "Did He not make their plan",
+          "my": "ကိုယ်တော်သည် ၎င်းတို့၏ အကြံအစည်ကို မပြုခဲ့သလော",
+          "ref": "105:2"
+        }
+      },
+      {
+        "word": "تَضْلِيل",
+        "translit": "tadlil",
+        "en": "astray/error/waste",
+        "my": "လမ်းလွဲခြင်း/အလဟဿဖြစ်ခြင်း",
+        "quran_freq": 1,
+        "word_type": "Noun (Masdar)",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "ဒ လ လ",
+          "concept_en": "to go astray",
+          "concept_my": "လမ်းမှားရောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dalal (misguidance)",
+          "image": "A road leading into a deep fog",
+          "cross_language": "Urdu: Dalalat"
+        },
+        "word_family": [
+          {
+            "ar": "ضَلَّ",
+            "translit": "dalla",
+            "en": "he went astray",
+            "my": "သူလမ်းလွဲခဲ့သည်",
+            "freq": 44
+          }
+        ],
+        "pattern_unlock": "The Taf'eel pattern here indicates the result of an action—the plot was made to fail completely.",
+        "example": {
+          "ar": "فِي تَضْلِيلٍ",
+          "en": "in error (misleading)",
+          "my": "အလဟဿဖြစ်မှုတွင်",
+          "ref": "105:2"
+        }
+      },
+      {
+        "word": "أَلَمْ تَرَ",
+        "translit": "alam tara",
+        "en": "Have you not seen?",
+        "my": "သင်မမြင်ဖူးသလော (မသိသလော)",
+        "quran_freq": 31,
+        "word_type": "Question Particle + Verb",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ရ အ ယ",
+          "concept_en": "to see",
+          "concept_my": "မြင်တွေ့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Alam (world) - see the world/history",
+          "image": "Pointing at something clear in history",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "This phrase is a 'rhetorical question', used to draw attention to a famous event.",
+        "example": {
+          "ar": "أَلَمْ تَرَ كَيْفَ",
+          "en": "Have you not seen how",
+          "my": "မည်သို့ပြုမူခဲ့သည်ကို သင်မမြင်သလော",
+          "ref": "105:1"
+        }
+      },
+      {
+        "word": "فَعَلَ",
+        "translit": "fa'ala",
+        "en": "he did/dealt",
+        "my": "သူပြုလုပ်ခဲ့သည်",
+        "quran_freq": 108,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ဖ အ လ",
+          "concept_en": "to do",
+          "concept_my": "ပြုလုပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fa'ala (the standard grammar root)",
+          "image": "An action being completed",
+          "cross_language": "Urdu: Fa'il"
+        },
+        "word_family": [
+          {
+            "ar": "فِعْل",
+            "translit": "fi'l",
+            "en": "action",
+            "my": "အပြုအမူ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This is the most basic verb form in Arabic.",
+        "example": {
+          "ar": "فَعَلَ رَبُّكَ",
+          "en": "your Lord dealt",
+          "my": "သင့်အရှင်သည် ပြုမူခဲ့သည်",
+          "ref": "105:1"
+        }
+      },
+      {
+        "word": "رَبُّكَ",
+        "translit": "rabbuka",
+        "en": "your Lord",
+        "my": "သင့်အရှင်",
+        "quran_freq": 200,
+        "word_type": "Noun + Pronoun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ရ ဗ ဗ",
+          "concept_en": "Lord/Sustainer",
+          "concept_my": "အရှင်မြတ်"
+        },
+        "memory_hook": {
+          "sound": "Rabb",
+          "image": "A king on a throne caring for his people",
+          "cross_language": "Malay: Rabb"
+        },
+        "word_family": [],
+        "pattern_unlock": "The suffix '-ka' refers to 'you' (singular).",
+        "example": {
+          "ar": "فَعَلَ رَبُّكَ",
+          "en": "your Lord did",
+          "my": "သင့်အရှင်သည် ပြုခဲ့သည်",
+          "ref": "105:1"
+        }
+      },
+      {
+        "word": "يَجْعَلْ",
+        "translit": "yaj'al",
+        "en": "He make/place",
+        "my": "သူပြုလုပ်သည်/ထားရှိသည်",
+        "quran_freq": 346,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلْ",
+        "root": {
+          "letters": "ဂျ အ လ",
+          "concept_en": "to make/set",
+          "concept_my": "ပြုလုပ်ခြင်း/သတ်မှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ja'al (like 'jail' - to place something in a spot)",
+          "image": "A hand placing a piece on a board",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "جَعَلَ",
+            "translit": "ja'ala",
+            "en": "he made",
+            "my": "သူပြုလုပ်ခဲ့သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "When preceded by 'Alam', the present tense 'Yaj'alu' loses its final vowel and refers to the past.",
+        "example": {
+          "ar": "أَلَمْ يَجْعَلْ كَيْدَهُمْ",
+          "en": "Did He not make their plot",
+          "my": "၎င်းတို့၏အကြံကို အလဟဿမဖြစ်စေခဲ့သလော",
+          "ref": "105:2"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الِاسْتِفْهَامُ التَّقْرِيرِيُّ",
+        "en": "The Rhetorical Question",
+        "my": "အသိအမှတ်ပြုစေသော အမေးစကား"
+      },
+      "formula": {
+        "display": "أَلَمْ + Present Verb",
+        "example": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ",
+        "myanmar_read": "သင့်အရှင် ဘယ်လိုပြုမူခဲ့သလဲဆိုတာ သင်မသိဘူးလား (သေချာပေါက် သိပါတယ်)",
+        "key_insight": "A question starting with 'Alam' (Did not...?) expects the answer 'Yes, certainly!' It is used to confirm a well-known fact."
+      },
+      "explanation": {
+        "en": "Surah Al-Fil starts with a rhetorical question 'Alam tara' (Have you not seen?). Even though the Prophet ﷺ was born in the Year of the Elephant and didn't see the event with his own eyes, it was so famous in Arab history that knowing it was like seeing it. The grammar uses 'Alam' with a present tense verb (tara) to mean the past.",
+        "my": "စူရဟ်အလ်ဖီးလ်သည် 'အလမ် သရ' (သင်မမြင်ဖူးသလော) ဟူသော အမေးဖြင့် စတင်သည်။ တမန်တော်မြတ် ﷺ သည် ထိုနှစ်တွင် မွေးဖွားခဲ့သဖြင့် ကိုယ်တိုင်မမြင်ခဲ့ရသော်လည်း၊ ၎င်းသည် အာရပ်သမိုင်းတွင် အလွန်ကျော်ကြားသဖြင့် သိရှိခြင်းသည် မြင်တွေ့ရသည်နှင့် အလားတူသည်။ သဒ္ဒါအရ 'အလမ်' နှင့် ပစ္စုပ္ပန်ကာလကြိယာ (သရ) ကို တွဲသုံးခြင်းဖြင့် အတိတ်ကာလကို ဆိုလိုသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we say '...မဟုတ်ဘူးလား' to emphasize that something is true. Arabic uses 'A-' (question) + 'lam' (not) at the beginning.",
+        "my": "မြန်မာဘာသာတွင် တစ်ခုခုမှန်ကန်ကြောင်း အလေးပေးလိုလျှင် '...မဟုတ်ဘူးလား' ဟု သုံးသကဲ့သို့ အာရဗီတွင် 'A-' (အမေး) နှင့် 'lam' (မဟုတ်) ကို အစတွင် သုံးသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "'Alam' turns the following present tense verb into a past tense meaning.",
+          "rule_my": "'အလမ်' သည် နောက်မှလိုက်သော ပစ္စုပ္ပန်ကြိယာကို အတိတ်ကာလ အဓိပ္ပာယ်သို့ ပြောင်းလဲပေးသည်။",
+          "example": {
+            "ar": "أَلَمْ يَجْعَلْ",
+            "en": "Did He not make?",
+            "my": "သူမပြုလုပ်ခဲ့သလော"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Divine Intervention",
+          "ar": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+          "en": "Have you not seen how your Lord dealt with the companions of the elephant?",
+          "my": "MYANMAR_PLACE_HOLDER_S105_A1",
+          "ref": "105:1",
+          "breakdown": {
+            "subject": {
+              "word": "رَبُّكَ",
+              "en": "your Lord",
+              "note": "the actor"
+            },
+            "predicate": {
+              "word": "فَعَلَ",
+              "en": "dealt/did",
+              "note": "past tense verb"
+            }
+          },
+          "myanmar_insight": "အလ္လာဟ်အရှင်မြတ်ရဲ့ တန်ခိုးတော်ကို သတိရစေဖို့ မေးခွန်းပုံစံနဲ့ စတင်ထားတာပါ။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Translating 'Alam tara' as a simple future",
+          "wrong": {
+            "ar": "أَلَمْ تَرَ",
+            "note": "Thinking it means 'Will you not see?'"
+          },
+          "correct": {
+            "ar": "أَلَمْ تَرَ",
+            "en": "Have you not seen/considered?",
+            "my": "သင်မမြင်ခဲ့သလော"
+          },
+          "myanmar_tip": "ဤနေရာတွင် အတိတ်က ဖြစ်ရပ်ကို ရည်ညွှန်းခြင်းဖြစ်ကြောင်း သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the word for 'Elephant'",
+          "instruction_my": "'ဆင်' ဟု အဓိပ္ပာယ်ရသော စကားလုံးကို ရှာပါ",
+          "questions": [
+            {
+              "q": "بِأَصْحَابِ الْفِيلِ",
+              "answer_en": "الفيل",
+              "answer_my": "အလ်ဖီးလ်",
+              "ref": "105:1"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'fi tadlil'",
+          "instruction_my": "'ဖီ သတ်ဒ်လီးလ်' ကို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "فِي تَضْلِيلٍ",
+              "answer_en": "in error / to go astray",
+              "answer_my": "အလဟဿဖြစ်မှုတွင်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Add 'Alam' to 'Yaj'alu' (Resulting in 'Yaj'al')",
+          "instruction_my": "'ယဂျ်အလု' ရှေ့တွင် 'အလမ်' ထည့်ပါ",
+          "questions": [
+            {
+              "q": "أَلَمْ + يَجْعَلُ",
+              "answer_en": "alam yaj'al",
+              "answer_my": "အလမ် ယဂျ်အလ်",
+              "ar": "أَلَمْ يَجْعَلْ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "No human power, no matter how physically large like an elephant, can overcome the protection of Allah. He protects His sanctuary with ease.",
+        "my": "မည်သည့် လူသားအာဏာမျှ (ဆင်ကဲ့သို့ ကြီးမားသော်လည်း) အလ္လာဟ်အရှင်မြတ်၏ ကာကွယ်မှုကို မကျော်လွှားနိုင်ပါ။ အရှင်မြတ်သည် မိမိ၏ အိမ်တော်ကို အလွယ်တကူ ကာကွယ်တော်မူသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Fil 105:1-2",
+        "study_number": 1,
+        "arabic_full": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+        "en_sahih": "Have you not seen how your Lord dealt with the companions of the elephant? Did He not make their plan into misguidance?",
+        "my_mmsy": "(၁) အသင်(တမန်တော်)အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် ဆင်ပိုင်ရှင်များအား မည်သို့ ပြုလုပ်တော်မူခဲ့သည်ကို အသင်သည် မသိမြင်ခဲ့လေသလော။  ၄",
+        "audio_ref": {
+          "surah": 105,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/105001.mp3"
+        },
+        "qurancom_url": "https://quran.com/105/1",
+        "context": {
+          "en": "Abraha, the governor of Yemen, built a massive church and wanted to divert the Arabs from the Kaaba. When they refused, he marched with an army of elephants to destroy the Kaaba.",
+          "my": "ယီမင်ဘုရင်ခံ အဗ်ရဟာသည် ခရစ်ယာန်ဘုရားကျောင်းကြီးတစ်ခု တည်ဆောက်ပြီး အာရပ်တို့ကို ကအ်ဗဟ်မှ လွှဲဖယ်လိုခဲ့သည်။ ၎င်းတို့က ငြင်းပယ်သောအခါ သူသည် ဆင်တပ်ကြီးနှင့်အတူ ကအ်ဗဟ်ကို ဖျက်ဆီးရန် ချီတက်လာခဲ့သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "كَيْفَ",
+            "translit": "kayfa",
+            "en": "how",
+            "my": "မည်သို့",
+            "role_en": "Interrogative Noun",
+            "role_my": "အမေးနာမ်",
+            "root": "N/A",
+            "freq": 83
+          },
+          {
+            "ar": "كَيْدَهُمْ",
+            "translit": "kaydahum",
+            "en": "their plot",
+            "my": "၎င်းတို့၏ အကြံအစည်",
+            "role_en": "Noun + Pronoun",
+            "role_my": "နာမ် + နာမ်စား",
+            "root": "က ယ ဒ",
+            "freq": 35
+          },
+          {
+            "ar": "تَضْلِيلٍ",
+            "translit": "tadlil",
+            "en": "confusion/astray",
+            "my": "အလဟဿဖြစ်ခြင်း",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "ဒ လ လ",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The structure 'Alam... fi tadlil' shows that the end result of any plan against Allah is total failure and loss.",
+          "structure_my": "'အလမ်... ဖီ သတ်ဒ်လီးလ်' ပုံစံသည် အလ္လာဟ်အရှင်မြတ်အား ဆန့်ကျင်သော မည်သည့်အကြံအစည်မဆို နောက်ဆုံးတွင် ကျရှုံးခြင်းနှင့်သာ အဆုံးသတ်ရမည်ကို ပြသည်။",
+          "insight_en": "Allah calls them 'Companions of the Elephant', identifying them only by the thing they relied upon for power, which eventually failed them.",
+          "insight_my": "၎င်းတို့အား 'ဆင်တပ်သားများ' ဟု ခေါ်ဝေါ်ခြင်းမှာ ၎င်းတို့ အားကိုးအားထားပြုခဲ့သော အရာ (ဆင်) ဖြင့်သာ အမည်နာမပေးထားခြင်းဖြစ်ပြီး၊ ထိုအရာသည်ပင် နောက်ဆုံးတွင် ၎င်းတို့အား မကူညီနိုင်ခဲ့ပေ။"
+        },
+        "root_depth": [
+          {
+            "root": "က ယ ဒ",
+            "concept_en": "A secret plan to cause harm. Humans plot (kayd), but Allah is the best of planners.",
+            "concept_my": "ထိခိုက်နစ်နာစေရန် တိတ်တဆိတ် ကြံစည်မှု။ လူသားတို့က အကြံစည်ကြသော်လည်း အလ္လာဟ်အရှင်မြတ်သည် အကောင်းဆုံး စီမံသူဖြစ်သည်။",
+            "members": [
+              {
+                "ar": "يَكِيدُونَ",
+                "en": "they plot",
+                "my": "၎င်းတို့အကြံစည်သည်",
+                "freq": 4
+              }
+            ],
+            "professors_note": "In the Quran, whenever Kayd is used for the disbelievers, it is almost always paired with its failure or Allah's counter-plan."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယတ်တော်သည် ကျွန်ုပ်တို့အား ယုံကြည်ချက် ခိုင်မာစေသည်။ လောကတွင် မည်မျှပင် အင်အားကြီးမားသော ရန်သူဖြစ်ပါစေ၊ အလ္လာဟ်အရှင်မြတ်၏ အကာအကွယ်ရှိလျှင် ကြောက်ရွံ့စရာမလိုပါ။ အဗ်ရဟာ၏ ဆင်တပ်ကြီးသည် ငှက်ကလေးများ၏ ကျောက်ခဲဒဏ်ကိုပင် မခံနိုင်ခဲ့သည်ကို သတိရပါ။ အရှင်မြတ်အပေါ် အမြဲယုံကြည်အားကိုးပါ။"
+        },
+        "memorization_helper": {
+          "rhythm": "The repetition of 'Alam' creates a powerful, questioning rhythm.",
+          "meaning_anchor": "The word 'Kayda-hum' (their plot) sounds like a closed fist, which Allah then opens and empties into 'Tadlil'.",
+          "daily_connection": "Recite this when facing an overwhelming challenge to remind yourself of Allah's Power.",
+          "my": "'အလမ်' ကို အလေးပေးရွတ်ဆိုပါ။ မိမိထက် အဆပေါင်းများစွာ အင်အားကြီးသူနှင့် ရင်ဆိုင်ရချိန်တွင် ဤစူရဟ်ကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We started Surah Al-Fil and learned how Allah nullifies the plots of the arrogant. We studied the rhetorical question 'Alam tara' and its grammatical impact.",
+      "my": "ကျွန်ုပ်တို့သည် စူရဟ်အလ်ဖီးလ်ကို စတင်ခဲ့ပြီး မောက်မာသူတို့၏ အကြံအစည်များကို အလ္လာဟ်အရှင်မြတ်က မည်သို့ဖျက်ဆီးကြောင်း လေ့လာခဲ့သည်။ 'အလမ် သရ' အမေးစကားနှင့် ၎င်း၏ သဒ္ဒါသက်ရောက်မှုကိုလည်း သင်ယူခဲ့သည်။"
+    }
+  },
+  {
+    "lesson_id": "L4-170",
+    "phase": 4,
+    "phase_name": "Juz Amma",
+    "lesson_number": 170,
+    "title": {
+      "ar": "سُورَةُ الْفِيلِ (٢) — طَيْرًا أَبَابِيلَ",
+      "en": "Surah Al-Fil: Birds Throwing Stones",
+      "my": "စူရဟ်အလ်ဖီးလ် (အပိုင်း ၂) - ငှက်များနှင့် ကျောက်ခဲများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 8,
+      "grammar_focus": "Tanween for indefinite dramatic effect; Form II arsala (sent)",
+      "grammar_formula": "Verb + Noun-un/an/in (Indefinite)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "أَرْسَلَ",
+        "translit": "arsala",
+        "en": "He sent",
+        "my": "သူစေလွှတ်ခဲ့သည်",
+        "quran_freq": 160,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "ရ ဆ လ",
+          "concept_en": "to send a message or a group",
+          "concept_my": "သတင်းစကား သို့မဟုတ် အုပ်စုကို စေလွှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rasul (messenger) - the one who is sent",
+          "image": "A bird carrying a message or stone",
+          "cross_language": "Malay/Urdu: Rasool"
+        },
+        "word_family": [
+          {
+            "ar": "رَسُول",
+            "translit": "rasūl",
+            "en": "messenger",
+            "my": "တမန်တော်",
+            "freq": 332
+          }
+        ],
+        "pattern_unlock": "Form IV 'Arsala' is the most common verb for divine sending in the Quran.",
+        "example": {
+          "ar": "وَأَرْسَلَ عَلَيْهِمْ",
+          "en": "And He sent against them",
+          "my": "၎င်းတို့အပေါ်သို့ စေလွှတ်တော်မူခဲ့သည်",
+          "ref": "105:3"
+        }
+      },
+      {
+        "word": "طَيْر",
+        "translit": "tayr",
+        "en": "birds",
+        "my": "ငှက်များ",
+        "quran_freq": 18,
+        "word_type": "Noun (Collective)",
+        "gender": "Masculine/Feminine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "တ ယ ရ",
+          "concept_en": "to fly",
+          "concept_my": "ပျံသန်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tayr (sounds like 'tear' - birds tearing through the sky)",
+          "image": "A flock of birds covering the sun",
+          "cross_language": "Urdu: Tayyar (ready/flying)"
+        },
+        "word_family": [
+          {
+            "ar": "طَائِر",
+            "translit": "tā'ir",
+            "en": "bird",
+            "my": "ငှက်",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Tayr is used for birds as a group.",
+        "example": {
+          "ar": "طَيْرًا أَبَابِيلَ",
+          "en": "birds in flocks",
+          "my": "အုပ်စုလိုက် ငှက်များ",
+          "ref": "105:3"
+        }
+      },
+      {
+        "word": "أَبَابِيل",
+        "translit": "abābīl",
+        "en": "flocks/ranks",
+        "my": "အုပ်စုလိုက်/အတန်းလိုက်",
+        "quran_freq": 1,
+        "word_type": "Noun/Adjective",
+        "gender": "Plural",
+        "wazn": "أَفَاعِيل",
+        "root": {
+          "letters": "အ ဗ ဗ",
+          "concept_en": "groups/divisions",
+          "concept_my": "အုပ်စုများ/အပိုင်းများ"
+        },
+        "memory_hook": {
+          "sound": "Ababil (famous in history)",
+          "image": "Wave after wave of birds",
+          "cross_language": "Indonesian: Burung Ababil"
+        },
+        "word_family": [],
+        "pattern_unlock": "This word specifically describes the formation of the birds sent by Allah.",
+        "example": {
+          "ar": "طَيْرًا أَبَابِيلَ",
+          "en": "birds in flocks",
+          "my": "အုပ်စုလိုက် ငှက်များ",
+          "ref": "105:3"
+        }
+      },
+      {
+        "word": "تَرْمِيهِم",
+        "translit": "tarmīhim",
+        "en": "striking them",
+        "my": "၎င်းတို့အား ပစ်ခတ်သည်",
+        "quran_freq": 1,
+        "word_type": "Verb + Pronoun",
+        "gender": "Feminine (referring to birds)",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "ရ မ ယ",
+          "concept_en": "to throw/strike",
+          "concept_my": "ပစ်ပေါက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ramaya (he threw)",
+          "image": "Someone throwing a stone at a target",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "رَمَى",
+            "translit": "ramā",
+            "en": "he threw",
+            "my": "သူပစ်ခဲ့သည်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The 'Tar-' prefix here is feminine because plural non-humans (birds) are treated as feminine singular in grammar.",
+        "example": {
+          "ar": "تَرْمِيهِم بِحِجَارَةٍ",
+          "en": "striking them with stones",
+          "my": "ကျောက်ခဲများဖြင့် ၎င်းတို့အား ပစ်ခတ်ကြသည်",
+          "ref": "105:4"
+        }
+      },
+      {
+        "word": "حِجَارَة",
+        "translit": "hijārah",
+        "en": "stones",
+        "my": "ကျောက်ခဲများ",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعَالَة",
+        "root": {
+          "letters": "ဟ ဂျ ရ",
+          "concept_en": "stone/rock",
+          "concept_my": "ကျောက်တုံး"
+        },
+        "memory_hook": {
+          "sound": "Hajar (Arabic for stone)",
+          "image": "A small hard rock",
+          "cross_language": "Urdu: Hajar"
+        },
+        "word_family": [
+          {
+            "ar": "حَجَر",
+            "translit": "hajar",
+            "en": "stone",
+            "my": "ကျောက်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Hajar refers to a single stone, Hijarah to stones in general.",
+        "example": {
+          "ar": "بِحِجَارَةٍ مِّن سِجِّيلٍ",
+          "en": "with stones of baked clay",
+          "my": "မီးဖုတ်ထားသော ရွှံ့ကျောက်ခဲများဖြင့်",
+          "ref": "105:4"
+        }
+      },
+      {
+        "word": "سِجِّيل",
+        "translit": "sijjīl",
+        "en": "baked clay/hardened mud",
+        "my": "မီးဖုတ်ထားသော ရွှံ့စေး/မာသောကျောက်",
+        "quran_freq": 3,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعِّيل",
+        "root": {
+          "letters": "ဆ ဂျ လ",
+          "concept_en": "hard/inscribed",
+          "concept_my": "မာကျောသော/မှတ်တမ်းတင်ထားသော"
+        },
+        "memory_hook": {
+          "sound": "Sijjin (a place for the wicked)",
+          "image": "A stone that is glowing hot",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Sijjil often refers to stones used for divine punishment.",
+        "example": {
+          "ar": "مِّن سِجِّيلٍ",
+          "en": "of baked clay",
+          "my": "မီးဖုတ်ထားသော ရွှံ့စေးမှ",
+          "ref": "105:4"
+        }
+      },
+      {
+        "word": "عَصْف",
+        "translit": "asf",
+        "en": "straw/husk/leaves",
+        "my": "ကောက်ရိုး/ဖွဲ/အရွက်",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "အ ဆ ဖ",
+          "concept_en": "dry leaves/stalk",
+          "concept_my": "ခြောက်သွေ့သောအရွက်များ"
+        },
+        "memory_hook": {
+          "sound": "Asf (sounds like 'asphalt' - ground up)",
+          "image": "Dried leaves blown by the wind",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "عَاصِف",
+            "translit": "āsif",
+            "en": "stormy/windy",
+            "my": "လေပြင်းထန်သော",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The word describes something once alive but now empty and dried.",
+        "example": {
+          "ar": "فَجَعَلَهُمْ كَعَصْفٍ",
+          "en": "And He made them like straw",
+          "my": "ကိုယ်တော်သည် ၎င်းတို့အား ကောက်ရိုးကဲ့သို့ ဖြစ်စေခဲ့သည်",
+          "ref": "105:5"
+        }
+      },
+      {
+        "word": "مَّأْكُول",
+        "translit": "ma'kūl",
+        "en": "eaten/consumed",
+        "my": "စားသုံးပြီးသား",
+        "quran_freq": 1,
+        "word_type": "Noun (Ism Maf'ul)",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "အ က လ",
+          "concept_en": "to eat",
+          "concept_my": "စားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Akala (he ate)",
+          "image": "A leaf with holes in it from bugs",
+          "cross_language": "Malay: Makan (eat)"
+        },
+        "word_family": [
+          {
+            "ar": "أَكَلَ",
+            "translit": "akala",
+            "en": "he ate",
+            "my": "သူစားခဲ့သည်",
+            "freq": 93
+          }
+        ],
+        "pattern_unlock": "The Maf'ul pattern means 'the thing that has been acted upon' (the eaten thing).",
+        "example": {
+          "ar": "كَعَصْفٍ مَّأْكُولٍ",
+          "en": "like eaten straw",
+          "my": "စားသုံးပြီးသား ကောက်ရိုးများကဲ့သို့",
+          "ref": "105:5"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "التَّنْوِينُ لِلتَّهْوِيلِ",
+        "en": "Tanween for Grandeur/Effect",
+        "my": "ကြီးကျယ်မှု သို့မဟုတ် အကျိုးသက်ရောက်မှုပြ သန်ဝီးန်"
+      },
+      "formula": {
+        "display": "Noun + [ً ٍ ٌ]",
+        "example": "طَيْرًا — حِجَارَةٍ — عَصْفٍ",
+        "myanmar_read": "ငှက်အုပ်ကြီးများ၊ ကျောက်ခဲအမြောက်အမြား (သန်ဝီးန်ကြောင့် ထူးခြားမှုရှိသည်)",
+        "key_insight": "In these verses, the Tanween (indefinite ending) makes the nouns sound more dramatic and powerful—it's not just 'any' birds, but specialized flocks for a mission."
+      },
+      "explanation": {
+        "en": "In Surah Al-Fil, several nouns like 'Tayran', 'Hijaratin', and 'Asfin' end with Tanween. While this usually means 'a' or 'some', here it emphasizes the magnitude of the miracle. It implies these were unknown, terrifying birds and unique stones that reduced a massive army to shredded straw.",
+        "my": "စူရဟ်အလ်ဖီးလ်တွင် 'သိုင်ရွန်'၊ 'ဟီဂျာရသိန်' နှင့် 'အဆ်ဖွိန်' ကဲ့သို့သော နာမ်များသည် သန်ဝီးန် (Tanween) ဖြင့် အဆုံးသတ်ထားသည်။ ၎င်းသည် ပုံမှန်အားဖြင့် 'တစ်ခု' သို့မဟုတ် 'အချို့' ဟု အဓိပ္ပာယ်ရသော်လည်း၊ ဤနေရာတွင် တန်ခိုးတော်၏ ကြီးကျယ်မှုကို အလေးပေးထားသည်။ ၎င်းသည် မသိနားမလည်နိုင်သော၊ ကြောက်မက်ဖွယ်ကောင်းသော ငှက်များနှင့် ထူးခြားသော ကျောက်ခဲများကို ဆိုလိုပြီး ကြီးမားသော စစ်တပ်ကြီးကို အမှုန့်ဖြစ်စေခဲ့သည်ကို ဖော်ပြသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese doesn't have an equivalent to Tanween. We use adjectives like 'အမြောက်အမြား' (many) or 'ကြောက်မက်ဖွယ်' (terrifying) to get the same effect.",
+        "my": "မြန်မာဘာသာတွင် သန်ဝီးန်နှင့် တူညီသော သဒ္ဒါမရှိပါ။ ထိုအကျိုးသက်ရောက်မှုကို ရရန် 'အမြောက်အမြား' သို့မဟုတ် 'ကြောက်မက်ဖွယ်' ဟူသော နာမဝိသေသနများကို သုံးရသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Tanween at the end of an indefinite noun can indicate 'magnification' (Tahwil).",
+          "rule_my": "သတ်မှတ်မဲ့နာမ်၏ အဆုံးရှိ သန်ဝီးန်သည် 'ကြီးကျယ်မှု' (သဟ်ဝီးလ်) ကို ပြနိုင်သည်။",
+          "example": {
+            "ar": "طَيْرًا",
+            "en": "Birds (unusually large/many)",
+            "my": "ထူးခြားသော ငှက်အုပ်များ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Divine Weaponry",
+          "ar": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+          "en": "Striking them with stones of baked clay",
+          "my": "(၄) ထိုငှက်များသည် သူတို့အား ရွှံ့စေးဖြင့် ပြုလုပ်ထားသော ကျောက်ခဲများနှင့် ပစ်ခတ်လျက်ရှိခဲ့ကြသည်။",
+          "ref": "105:4",
+          "breakdown": {
+            "subject": {
+              "word": "تَرْمِيهِم",
+              "en": "it strikes them",
+              "note": "referring to the birds"
+            },
+            "predicate": {
+              "word": "بِحِجَارَةٍ",
+              "en": "with stones",
+              "note": "Tanween for emphasis"
+            }
+          },
+          "myanmar_insight": "သာမန်ကျောက်ခဲမဟုတ်ဘဲ အလ္လာဟ်အရှင်မြတ် စေလွှတ်လိုက်တဲ့ အထူးကျောက်ခဲတွေဖြစ်တာကို သန်ဝီးန်က ပြနေပါတယ်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Ignoring the Tanween in meaning",
+          "wrong": {
+            "ar": "طَيْرًا",
+            "note": "Translating as 'one bird'"
+          },
+          "correct": {
+            "ar": "طَيْرًا",
+            "en": "flocks of birds",
+            "my": "ငှက်အုပ်ကြီးများ"
+          },
+          "myanmar_tip": "ဤနေရာတွင် သန်ဝီးန်သည် အများအပြား သို့မဟုတ် ကြီးကျယ်မှုကို ဆိုလိုကြောင်း မှတ်ထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Ism Maf'ul (Object Pattern) word",
+          "instruction_my": "Ism Maf'ul ပုံစံရှိသော စကားလုံးကို ရှာပါ",
+          "questions": [
+            {
+              "q": "كَعَصْفٍ مَّأْكُولٍ",
+              "answer_en": "مأكول",
+              "answer_my": "မအ်ကူးလ်",
+              "ref": "105:5"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'arsala alaihim'",
+          "instruction_my": "'အရ်ဆလ အလိုင်းဟင်မ်' ကို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "أَرْسَلَ عَلَيْهِمْ",
+              "answer_en": "He sent against them",
+              "answer_my": "၎င်းတို့အပေါ်သို့ စေလွှတ်ခဲ့သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the word 'Hijarah' indefinite with Kasratayn",
+          "instruction_my": "'ဟီဂျာရဟ်' ကို သန်ဝီးန်ကဆရ်ဖြင့် ရေးပါ",
+          "questions": [
+            {
+              "q": "حِجَارَة",
+              "answer_en": "hijāratin",
+              "answer_my": "ဟီဂျာရသိန်",
+              "ar": "حِجَارَةٍ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Allah can turn the smallest of His creation (birds) into a force that destroys the largest (elephants). Arrogance has no weight against Divine Decree.",
+        "my": "အလ္လာဟ်အရှင်မြတ်သည် မိမိဖန်ဆင်းထားသော အသေးငယ်ဆုံးအရာ (ငှက်များ) ကို အကြီးမားဆုံးအရာ (ဆင်များ) ကို ဖျက်ဆီးနိုင်သော အင်အားအဖြစ် ပြောင်းလဲနိုင်သည်။ မောက်မာမှုသည် အရှင်မြတ်၏ အမိန့်တော်ရှေ့တွင် မည်သို့မျှ အရာမထင်ပါ။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Fil 105:3-5",
+        "study_number": 1,
+        "arabic_full": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+        "en_sahih": "And He sent against them birds in flocks, striking them with stones of hard clay, and He made them like eaten straw.",
+        "my_mmsy": "(၃) ထို့ပြင် အရှင်မြတ်သည် သူတို့၏အပေါ်တွင် (အဗာဗီးလ်  အနက်ရောင်ရှိ ပျံလွှားငှက်များနှင့်တူသည့်)ငှက်များကို အုပ်စုလိုက် စေလွှတ်တော်မူခဲ့သည် မဟုတ်လော။",
+        "audio_ref": {
+          "surah": 105,
+          "ayah": 3,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/105003.mp3"
+        },
+        "qurancom_url": "https://quran.com/105/3",
+        "context": {
+          "en": "As the elephants reached Makkah, they refused to move towards the Kaaba. Suddenly, flocks of birds appeared and dropped small stones that pierced through the armor of the soldiers.",
+          "my": "ဆင်တပ်ကြီး မက္ကာဟ်သို့ ရောက်သောအခါ ဆင်များသည် ကအ်ဗဟ်ဘက်သို့ ချီတက်ရန် ငြင်းဆန်ခဲ့ကြသည်။ ရုတ်တရက် ငှက်အုပ်ကြီးများ ပေါ်လာပြီး ကျောက်ခဲကလေးများကို ချပစ်ခဲ့ရာ ထိုကျောက်ခဲများသည် စစ်သားများ၏ သံချပ်ကာများကို ဖောက်ထွက်သွားခဲ့သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "طَيْرًا",
+            "translit": "tayran",
+            "en": "birds",
+            "my": "ငှက်များ",
+            "role_en": "Noun (Object)",
+            "role_my": "နာမ် (ကံပုဒ်)",
+            "root": "တ ယ ရ",
+            "freq": 18
+          },
+          {
+            "ar": "بِحِجَارَةٍ",
+            "translit": "bihijāratin",
+            "en": "with stones",
+            "my": "ကျောက်ခဲများဖြင့်",
+            "role_en": "Preposition + Noun",
+            "role_my": "ဝိဘတ် + နာမ်",
+            "root": "ဟ ဂျ ရ",
+            "freq": 10
+          },
+          {
+            "ar": "كَعَصْفٍ",
+            "translit": "ka'asfin",
+            "en": "like straw",
+            "my": "ကောက်ရိုးကဲ့သို့",
+            "role_en": "Particle (like) + Noun",
+            "role_my": "နှိုင်းယှဉ်ပုဒ် + နာမ်",
+            "root": "အ ဆ ဖ",
+            "freq": 2
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The particle 'Ka-' (like) in 'Ka-asfin' is used to make a vivid simile, comparing the crushed army to dry, chewed-up leaves.",
+          "structure_my": "'Ka-asfin' ရှိ 'Ka-' (ကဲ့သို့) ကို နှိုင်းယှဉ်ချက်တစ်ခုအဖြစ် သုံးထားပြီး၊ ပျက်စီးသွားသော စစ်တပ်ကို ခြောက်သွေ့၍ စားသုံးပြီးသား ကောက်ရိုးများနှင့် နှိုင်းယှဉ်ထားသည်။",
+          "insight_en": "The transformation from massive elephants to 'eaten straw' shows the absolute power of Allah over material size.",
+          "insight_my": "ကြီးမားသော ဆင်တပ်ကြီးမှ 'စားသုံးပြီးသား ကောက်ရိုး' အဖြစ်သို့ ပြောင်းလဲသွားခြင်းသည် ရုပ်ဝတ္ထုအင်အားအပေါ် အလ္လာဟ်အရှင်မြတ်၏ အကြွင်းမဲ့ တန်ခိုးတော်ကို ပြသနေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ဆ ဂျ လ",
+            "concept_en": "Something inscribed or recorded. 'Sijjil' stones were said to be marked with the names of those they would hit.",
+            "concept_my": "မှတ်တမ်းတင်ထားသော အရာ။ 'စစ်ဂျီးလ်' ကျောက်ခဲများသည် ၎င်းတို့ ထိမှန်မည့်သူများ၏ အမည်များကို မှတ်သားထားသည်ဟု ဆိုကြသည်။",
+            "members": [
+              {
+                "ar": "سِجِّيل",
+                "en": "baked clay",
+                "my": "မီးဖုတ်ထားသော ရွှံ့",
+                "freq": 3
+              }
+            ],
+            "professors_note": "Sijjil combines the meaning of hardness (petrified) and divine records—showing that this was a targeted, judicial punishment."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် လောကတွင် အင်အားကြီးသူများ၏ ခြိမ်းခြောက်မှုကို ခံရသောအခါ ဤအာယတ်တော်ကို သတိရပါ။ အလ္လာဟ်အရှင်မြတ်သည် ကောင်းကင်မှ ငှက်ကလေးများဖြင့်ပင် အင်အားကြီး စစ်တပ်များကို အောင်နိုင်စေနိုင်သည်။ ကျွန်ုပ်တို့၏ တာဝန်မှာ အရှင်မြတ်အပေါ် ယုံကြည်စိတ်ချရန်နှင့် မှန်ကန်သောလမ်းစဉ်တွင် ရှိနေရန်သာ ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The end rhymes 'Ababeel', 'Sijjeel', 'Ma'kool' create a haunting and powerful ending.",
+          "meaning_anchor": "The word 'Ma'kool' sounds like something hollow, representing the end of the arrogant army.",
+          "daily_connection": "Recite this surah to seek Allah's protection against those who plot harm against the innocent.",
+          "my": "'အဗာဗီးလ်'၊ 'စစ်ဂျီးလ်'၊ 'မအ်ကူးလ်' ဟူသော အဆုံးသတ် ကာရန်များကို သတိပြုပါ။ မတရားမှုကို ခံရချိန်တွင် အကာအကွယ်ရရန် ဤစူရဟ်ကို ရွတ်ဆိုပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We concluded Surah Al-Fil, seeing the dramatic end of Abraha's army. We learned how Tanween adds descriptive power and how Allah uses the small to overcome the large.",
+      "my": "ကျွန်ုပ်တို့သည် စူရဟ်အလ်ဖီးလ်ကို အဆုံးသတ်ခဲ့ပြီး အဗ်ရဟာ၏ စစ်တပ်၏ နိဂုံးကို တွေ့ရှိခဲ့ရသည်။ သန်ဝီးန်က မည်သို့ အလေးပေးဖော်ပြကြောင်းနှင့် အလ္လာဟ်အရှင်မြတ်သည် အသေးငယ်ဆုံးအရာများကို သုံး၍ အကြီးမားဆုံးအရာများကို မည်သို့အောင်နိုင်ကြောင်း သင်ယူခဲ့သည်။"
+    }
+  }
+]
