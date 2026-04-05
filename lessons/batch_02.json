@@ -1,0 +1,2284 @@
+[
+  {
+    "lesson_id": "L1-006",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 6,
+    "title": {
+      "ar": "التَّعْرِيفُ (١) — أَدَاةُ التَّعْرِيفِ",
+      "en": "Definiteness I — The Article Al-",
+      "my": "သတ်မှတ်နာမ် (၁) — အာလ် (Al-) ရှေ့ဆက်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Al- prefix; Shamsiyya vs Qamariyya letters",
+      "grammar_formula": "الْـ + noun = THE noun"
+    },
+    "section_1_vocab": [
+      {
+        "word": "الصِّرَاطُ",
+        "translit": "al-sirat",
+        "en": "The Path",
+        "my": "လမ်းခရီး",
+        "quran_freq": 45,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ص ر ط",
+          "concept_en": "path or way",
+          "concept_my": "လမ်းကြောင်း"
+        },
+        "memory_hook": {
+          "sound": "See-Rat",
+          "image": "Seeing a straight path to follow",
+          "cross_language": "Sirat-ul-Mustaqeem (Commonly used in Myanmar prayers)"
+        },
+        "word_family": [
+          {
+            "ar": "صِرَاطٌ",
+            "translit": "siratun",
+            "en": "a path",
+            "my": "လမ်းတစ်သွယ်",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "When Al- is followed by 'Saad' (ص), the 'Lam' is silent and the letter doubles (Shamsiyya).",
+        "example": {
+          "ar": "الصِّرَاطَ الْمُسْتَقِيمَ",
+          "en": "the straight path",
+          "my": "ဖြောင့်မတ်သော လမ်းခရီး",
+          "ref": "1:6"
+        }
+      },
+      {
+        "word": "النُّورُ",
+        "translit": "al-nur",
+        "en": "The Light",
+        "my": "အလင်းရောင်",
+        "quran_freq": 194,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ن و ر",
+          "concept_en": "light, fire",
+          "concept_my": "အလင်း၊ မီး"
+        },
+        "memory_hook": {
+          "sound": "New-r",
+          "image": "A new bright light",
+          "cross_language": "Noor (Common Muslim name in Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "نَارٌ",
+            "translit": "narun",
+            "en": "fire",
+            "my": "မီး",
+            "freq": 145
+          }
+        ],
+        "pattern_unlock": "The 'Al-' before 'Noon' (ن) makes it Al-Nur (Noon is a Sun letter).",
+        "example": {
+          "ar": "اللَّهُ نُورُ السَّمَاوَاتِ",
+          "en": "Allah is the Light of the heavens",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်တို့၏ အလင်းရောင်ဖြစ်တော်မူ၏",
+          "ref": "24:35"
+        }
+      },
+      {
+        "word": "الْبَيْتُ",
+        "translit": "al-bayt",
+        "en": "The House",
+        "my": "အိမ်တော်",
+        "quran_freq": 73,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ب ي ت",
+          "concept_en": "shelter, house",
+          "concept_my": "အိမ်၊ ခိုလှုံရာ"
+        },
+        "memory_hook": {
+          "sound": "Bait",
+          "image": "A house acts as safety bait for comfort",
+          "cross_language": "Baytullah (House of Allah)"
+        },
+        "word_family": [
+          {
+            "ar": "بُيُوتٌ",
+            "translit": "buyutun",
+            "en": "houses",
+            "my": "အိမ်များ",
+            "freq": 65
+          }
+        ],
+        "pattern_unlock": "Ba (ب) is a Moon letter, so 'Lam' in 'Al-' is clearly pronounced.",
+        "example": {
+          "ar": "رَبَّ هَذَا الْبَيْتِ",
+          "en": "the Lord of this House",
+          "my": "ဤအိမ်တော်၏ အရှင်သခင်",
+          "ref": "106:3"
+        }
+      },
+      {
+        "word": "الْكِتَابُ",
+        "translit": "al-kitab",
+        "en": "The Book",
+        "my": "စာအုပ် (သို့) ကျမ်းမြတ်",
+        "quran_freq": 230,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ك ت ب",
+          "concept_en": "writing",
+          "concept_my": "ရေးသားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Key-Tab",
+          "image": "A book is a key to knowledge",
+          "cross_language": "Kitab (Used in Myanmar for religious books)"
+        },
+        "word_family": [
+          {
+            "ar": "يَكْتُبُ",
+            "translit": "yaktubu",
+            "en": "he writes",
+            "my": "သူရေးသည်",
+            "freq": 56
+          }
+        ],
+        "pattern_unlock": "Kaf (ك) is a Moon letter; the 'Al-' is pronounced clearly.",
+        "example": {
+          "ar": "ذَلِكَ الْكِتَابُ",
+          "en": "This is the Book",
+          "my": "ထိုကျမ်းမြတ်သည်",
+          "ref": "2:2"
+        }
+      },
+      {
+        "word": "الْبَابُ",
+        "translit": "al-bab",
+        "en": "The Door",
+        "my": "တံခါး",
+        "quran_freq": 27,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ب و ب",
+          "concept_en": "entry point",
+          "concept_my": "ဝင်ပေါက်"
+        },
+        "memory_hook": {
+          "sound": "Bob",
+          "image": "Bob standing at the door",
+          "cross_language": "Babul Jannah (Gate of Paradise)"
+        },
+        "word_family": [
+          {
+            "ar": "أَبْوَابٌ",
+            "translit": "abwabun",
+            "en": "doors",
+            "my": "တံခါးများ",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "The word 'Bab' starts with a Moon letter, making the 'Al-' distinct.",
+        "example": {
+          "ar": "وَادْخُلُوا الْبَابَ",
+          "en": "and enter the gate",
+          "my": "တံခါးမှ ဝင်ကြလော့",
+          "ref": "2:58"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أَدَاةُ التَّعْرِيفِ",
+        "en": "The Definite Article (Al-)",
+        "my": "သတ်မှတ်ပုဒ် (အာလ်)"
+      },
+      "formula": {
+        "display": "الْـ + noun = THE noun",
+        "example": "الْـ + كِتَاب = الْكِتَابُ",
+        "myanmar_read": "နာမ်တစ်ခု၏ ရှေ့တွင် 'အာလ်' ထည့်လိုက်ခြင်းဖြင့် 'ထိုအရာ' ဟု သတ်မှတ်လိုက်ခြင်းဖြစ်သည်။",
+        "key_insight": "Arabic uses 'Al-' to mean 'The', but watch out—the 'L' sound disappears before Sun Letters!"
+      },
+      "explanation": {
+        "en": "In Arabic, adding 'Al-' makes a word definite, like 'The' in English. There are two types of letters: Moon Letters (Qamariyya), where you pronounce the 'L' in 'Al-', and Sun Letters (Shamsiyya), where the 'L' merges into the next letter using a Shaddah.",
+        "my": "အာရဗီဘာသာစကားတွင် နာမ်တစ်ခု၏ရှေ့၌ 'အာလ်' (Al-) ကို ထည့်ခြင်းဖြင့် အင်္ဂလိပ်စာမှ 'The' ကဲ့သို့ 'သတ်မှတ်နာမ်' ဖြစ်သွားစေသည်။ အက္ခရာနှစ်မျိုးရှိသည်။ လမင်းအက္ခရာများတွင် 'လ်' အသံကို ပီသစွာထွက်ရပြီး၊ နေမင်းအက္ခရာများတွင် 'လ်' အသံကို ဖျောက်၍ နောက်အက္ခရာနှင့် ပေါင်းဖတ်ရသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese doesn't have a direct article like 'The'. Instead, we often use 'ထို' (htoe) or context. In Arabic, it is part of the word itself.",
+        "my": "မြန်မာစကားတွင် 'The' ကဲ့သို့ သီးသန့်စကားလုံးမရှိဘဲ 'ထို' သို့မဟုတ် '၎င်း' ဟု သုံးလေ့ရှိသည်။ အာရဗီတွင် စကားလုံး၏ ရှေ့ဆက်အဖြစ် ကပ်ပါလာသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Pronounce the 'L' for Moon Letters (Qamariyya).",
+          "rule_my": "လမင်းအက္ခရာများ (Qamariyya) တွင် 'လ်' အသံကို ထွက်ပါ။",
+          "example": {
+            "ar": "الْقَمَرُ",
+            "en": "The Moon",
+            "my": "လမင်း"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Skip the 'L' sound for Sun Letters (Shamsiyya) and double the next letter.",
+          "rule_my": "နေမင်းအက္ခရာများ (Shamsiyya) တွင် 'လ်' အသံကို ကျော်ပြီး နောက်အက္ခရာကို ဆင့်ဖတ်ပါ။",
+          "example": {
+            "ar": "الشَّمْسُ",
+            "en": "The Sun",
+            "my": "နေမင်း"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "الْحَمْدُ لِلَّهِ",
+          "en": "[All] praise is [due] to Allah",
+          "my": "ချီးမွမ်းခြင်းဟူသမျှသည် စကြဝဠာအပေါင်းကို ဖန်ဆင်းမွေးမြူတော်မူသော အလ္လာဟ်အရှင်မြတ်အတွက်သာဖြစ်ပါသည်။",
+          "ref": "1:2",
+          "breakdown": {
+            "subject": {
+              "word": "الْحَمْدُ",
+              "en": "The Praise",
+              "note": "Definite noun with Al- (Moon letter Ha)"
+            },
+            "predicate": {
+              "word": "لِلَّهِ",
+              "en": "for Allah",
+              "note": "To God"
+            }
+          },
+          "myanmar_insight": "Al-Hamdu တွင် Al ကို ပီသစွာထွက်ရခြင်းမှာ Ha သည် လမင်းအက္ခရာဖြစ်သောကြောင့်ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing Tanween with Al-",
+          "wrong": {
+            "ar": "الْكِتَابٌ",
+            "note": "You cannot have 'Al-' and double vowel (Tanween) together."
+          },
+          "correct": {
+            "ar": "الْكِتَابُ",
+            "en": "The Book",
+            "my": "ကျမ်းမြတ်"
+          },
+          "myanmar_tip": "Al- ပါလာလျှင် စကားလုံးအဆုံးမှာ တန်ဝင်း (နှစ်ကြောင်းဆွဲ) မထည့်ရပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify if the word is Sun or Moon letter based on 'Al-' pronunciation",
+          "instruction_my": "Al- အသံထွက်ကို ကြည့်၍ နေမင်း သို့မဟုတ် လမင်းအက္ခရာဖြစ်ကြောင်း ခွဲခြားပါ။",
+          "questions": [
+            {
+              "q": "الْبَيْتُ",
+              "answer_en": "Moon Letter",
+              "answer_my": "လမင်းအက္ခရာ",
+              "ref": "106:3"
+            },
+            {
+              "q": "الصِّرَاطُ",
+              "answer_en": "Sun Letter",
+              "answer_my": "နေမင်းအက္ခရာ",
+              "ref": "1:6"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ။",
+          "questions": [
+            {
+              "q": "الْكِتَابُ",
+              "answer_en": "The Book",
+              "answer_my": "ကျမ်းမြတ်"
+            },
+            {
+              "q": "النُّورُ",
+              "answer_en": "The Light",
+              "answer_my": "အလင်းရောင်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "Al- ထည့်၍ သတ်မှတ်နာမ် ပြုလုပ်ပါ။",
+          "questions": [
+            {
+              "q": "بَيْتٌ",
+              "answer_en": "The House",
+              "answer_my": "အိမ်တော်",
+              "ar": "الْبَيْتُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The 'Al-' represents exclusivity and focus. In 'Al-Hamd', it means all possible forms of praise belong only to Allah.",
+        "my": "အာရဗီတွင် 'အာလ်' သည် အထူးပြုခြင်းကို ဖော်ဆောင်သည်။ 'အာလ်-ဟမ်ဒု' ဟု ဆိုရာတွင် ချီးမွမ်းခြင်းအပေါင်းသည် အလ္လာဟ်အရှင်မြတ် တစ်ပါးတည်းသာ ထိုက်တန်ကြောင်း ဖော်ပြသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Fatiha 1:6",
+        "study_number": 1,
+        "arabic_full": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+        "en_sahih": "Guide us to the straight path",
+        "my_mmsy": "(အို - အရှင်မြတ်) ကျွန်ုပ်တို့အား ဖြောင့်မတ်မှန်ကန်သောလမ်းကို ညွှန်ကြားပြသတော်မူပါ။",
+        "audio_ref": {
+          "surah": 1,
+          "ayah": 6,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/001006.mp3"
+        },
+        "qurancom_url": "https://quran.com/1/6",
+        "context": {
+          "en": "This is the central request of a Muslim in every prayer, asking for direction toward the path of success.",
+          "my": "၎င်းသည် မွတ်စလင်တိုင်း နမားဇ်ဝတ်ပြုမှုတိုင်းတွင် တောင်းဆိုသော အဓိက တောင်းဆုဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الصِّرَاطَ",
+            "translit": "al-sirata",
+            "en": "the path",
+            "my": "လမ်းခရီးကို",
+            "role_en": "Object",
+            "role_my": "ကံပုဒ်",
+            "root": "ص ر ط",
+            "freq": 45
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The word 'Al-Sirat' uses the Sun letter 'Saad', causing the 'L' to be silent.",
+          "structure_my": "Al-Sirat တွင် 'ဆွာဒ်' သည် နေမင်းအက္ခရာဖြစ်သဖြင့် 'အာလ်' မှ 'လ်' သံ ပျောက်သွားသည်။",
+          "insight_en": "The 'Al-' specifies *The* specific path, not just any path.",
+          "insight_my": "'အာလ်' ပါရှိခြင်းကြောင့် အခြားလမ်းများမဟုတ်ဘဲ သတ်မှတ်ထားသော 'မှန်ကန်သောလမ်း' ကိုသာ ဆိုလိုသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ص ر ط",
+            "concept_en": "a wide, clear, and straight path that is easy to follow",
+            "concept_my": "ကျယ်ဝန်း၍ ဖြောင့်မတ်သော လမ်းခရီး",
+            "members": [
+              {
+                "ar": "صِرَاطٌ",
+                "en": "path",
+                "my": "လမ်း",
+                "freq": 45
+              }
+            ],
+            "professors_note": "In classical Arabic, it refers to a path so wide that travelers do not get lost."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့နေ့စဉ်ဝတ်ပြုမှုတွင် ဤအာယတ်တော်ကို ရွတ်ဆိုတိုင်း မိမိတို့ဘဝအတွက် မှန်ကန်သောလမ်းကို ညွှန်ပြရန် အလ္လာဟ်အရှင်မြတ်ထံ အားကိုးတကြီး တောင်းခံနေခြင်းဖြစ်သည်။ လောက၏ လမ်းမှားများစွာထဲမှ အရှင်မြတ် သတ်မှတ်ပေးသော 'အာလ်-စီရားသ်' (ထိုလမ်း) ကို ရရှိရန် အလွန်အရေးကြီးပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Heavy 'S' sound in Al-Sirat followed by the flow of Al-Mustaqeem.",
+          "meaning_anchor": "A bright straight line leading to a beautiful gate.",
+          "daily_connection": "Recited 17 times minimum daily in Fard prayers.",
+          "my": "နေ့စဉ် နမားဇ်များတွင် အနည်းဆုံး (၁၇) ကြိမ် ရွတ်ဆိုရသော အာယတ်တော်ဖြစ်သည်။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Baqarah 2:2",
+        "study_number": 2,
+        "arabic_full": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+        "en_sahih": "This is the Book about which there is no doubt, a guidance for those conscious of Allah.",
+        "my_mmsy": "ဤကျမ်းသည် (ယခင်ထုတ်ပြန်ခဲ့သောကျမ်းများထဲ၌ ကြိုတင်အမိန့်ရှိထားသည့် ကျမ်းဂန်ဖြစ်လေရာ (ဝါ) အသင်တို့က ငါအရှင်မြတ်ထံတွင် ”ကျွန်ုပ်တို့အား ဖြောင့်မတ်မှန်ကန်သောလမ်းကို ညွှန်ကြားပြသတော်မူပါ” ဟု တောင်းခံခြင်းကို ငါအရှင်လက်ခံတော်မူ၍ ချပေးတော်မူလိုက်သည့် လမ်းမှန်ညွှန်ကြားပြသချက်ကျမ်းဂန်ဖြစ်လေရာ) ၎င်းကျမ်းဂန်နှင့်ပတ်သက်၍ သံသယဖြစ်စရာမရှိပေ။ ဤကျမ်းဂန်သည် မုသ်သကီန် ကြောက်ရွံ့ အပြစ်ရှောင် ကောင်းကျိုးဆောင်သူများအတွက် လမ်းမှန်ညွှန်ကြားပြသချက်ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 2,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002002.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/2",
+        "context": {
+          "en": "Opening of Surah Al-Baqarah, establishing the Quran as the ultimate source of truth.",
+          "my": "စူရာဗကရာ၏ အစပျိုးချက်ဖြစ်ပြီး ကုရ်အာန်ကျမ်းသည် အမှန်ကန်ဆုံးလမ်းညွှန်ဖြစ်ကြောင်း ကြေညာခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْكِتَابُ",
+            "translit": "al-kitabu",
+            "en": "the Book",
+            "my": "ထိုကျမ်းမြတ်သည်",
+            "role_en": "Subject",
+            "role_my": "ကတ္တား",
+            "root": "ك ت ب",
+            "freq": 261
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The 'Al-' here distinguishes the Quran from every other book ever written.",
+          "structure_my": "'အာလ်' သည် ဤကုရ်အာန်ကျမ်းကို အခြားသောစာအုပ်များနှင့် ကွဲပြားစေသော အထူးပြုချက်ဖြစ်သည်။",
+          "insight_en": "Kaf is a Moon letter, so the 'L' is fully pronounced: Al-Kitab.",
+          "insight_my": "Kaf သည် လမင်းအက္ခရာဖြစ်၍ 'အာလ်-ကီသဗ်' ဟု ပီသစွာဖတ်ရသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ك ت ب",
+            "concept_en": "to collect or join things together (like letters in writing)",
+            "concept_my": "စုစည်းခြင်း သို့မဟုတ် ရေးသားခြင်း",
+            "members": [
+              {
+                "ar": "كَتَبَ",
+                "en": "he wrote",
+                "my": "သူရေးခဲ့သည်",
+                "freq": 56
+              }
+            ],
+            "professors_note": "A 'Kitab' is called so because it collects meanings and letters into one place."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကုရ်အာန်ကျမ်းမြတ်ကို 'အာလ်-ကီသဗ်' (ထိုကျမ်းမြတ်) ဟု ခေါ်ဆိုခြင်းသည် ၎င်း၏ အဆင့်အတန်းမြင့်မားမှုကို ဖော်ပြသည်။ ကျွန်ုပ်တို့၏ဘဝတွင် မသေချာမရေရာမှုများ ကြုံလာရသည့်အခါ သံသယကင်းစင်သော ဤကျမ်းမြတ်ထံသို့သာ ပြန်လှည့်လာရမည်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Dhaalika l-Kitabu... with a slight pause at the dots.",
+          "meaning_anchor": "A majestic book shining with light.",
+          "daily_connection": "Used when describing the Quran's authority.",
+          "my": "ကုရ်အာန်ကျမ်း၏ အရှိန်အဝါကို သတိရစေရန် ရွတ်ဆိုပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You learned that 'Al-' makes a noun definite. You also learned to distinguish between Sun letters (silent L) and Moon letters (voiced L).",
+      "my": "နာမ်တစ်ခုကို သတ်မှတ်ရန် 'အာလ်' ကို သုံးရကြောင်းနှင့် နေမင်းအက္ခရာ၊ လမင်းအက္ခရာများအလိုက် အသံထွက်ကွဲပြားပုံကို လေ့လာခဲ့ပြီးဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-007",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 7,
+    "title": {
+      "ar": "التَّنْوِينُ — النَّكِرَةُ",
+      "en": "Definiteness II — Tanween: The Indefinite Noun",
+      "my": "သတ်မှတ်နာမ် (၂) — တန်ဝင်း နှင့် မသတ်မှတ်နာမ်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Three types of Tanween (Damm, Fath, Kasr) on indefinite nouns",
+      "grammar_formula": "noun + ً ٍ ٌ = A noun"
+    },
+    "section_1_vocab": [
+      {
+        "word": "صِرَاطٌ",
+        "translit": "siratun",
+        "en": "A path",
+        "my": "လမ်းခရီးတစ်ခု",
+        "quran_freq": 45,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ص ر ط",
+          "concept_en": "path",
+          "concept_my": "လမ်း"
+        },
+        "memory_hook": {
+          "sound": "Sirat",
+          "image": "A general road among many",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "الصِّرَاطُ",
+            "translit": "al-sirat",
+            "en": "the path",
+            "my": "ထိုလမ်း",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "The ending 'un' sound indicates it is 'a path' (indefinite), not 'the path'.",
+        "example": {
+          "ar": "إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+          "en": "to a straight path",
+          "my": "ဖြောင့်မတ်သော လမ်းခရီးတစ်သွယ်သို့",
+          "ref": "2:142"
+        }
+      },
+      {
+        "word": "نُورٌ",
+        "translit": "nurun",
+        "en": "A light",
+        "my": "အလင်းရောင်တစ်ခု",
+        "quran_freq": 194,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ن و ر",
+          "concept_en": "light",
+          "concept_my": "အလင်း"
+        },
+        "memory_hook": {
+          "sound": "Noor",
+          "image": "A small candle light",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مُنِيرٌ",
+            "translit": "munirun",
+            "en": "illuminating",
+            "my": "လင်းလက်သော",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "Tanween Damm ( ٌ ) creates the 'un' sound at the end of nouns.",
+        "example": {
+          "ar": "جَعَلَ الشَّمْسَ ضِيَاءً وَالْقَمَرَ نُورًا",
+          "en": "made the sun a burning light and the moon a derived light",
+          "my": "နေမင်းကို တောက်ပသောအလင်းနှင့် လမင်းကို (ရောင်ပြန်) အလင်းရောင် ဖြစ်စေတော်မူ၏",
+          "ref": "10:5"
+        }
+      },
+      {
+        "word": "آيَةٌ",
+        "translit": "ayatun",
+        "en": "A sign",
+        "my": "အမှတ်အသားတစ်ခု",
+        "quran_freq": 382,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "أ ي ي",
+          "concept_en": "sign, evidence",
+          "concept_my": "သက်သေ၊ အမှတ်အသား"
+        },
+        "memory_hook": {
+          "sound": "Ayah",
+          "image": "A signpost on a road",
+          "cross_language": "Ayat (Used for Quranic verses in Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "آيَاتٌ",
+            "translit": "ayatun",
+            "en": "signs",
+            "my": "အမှတ်အသားများ",
+            "freq": 290
+          }
+        ],
+        "pattern_unlock": "Feminine nouns often end in Ta-Marbuta ( ة ) with Tanween.",
+        "example": {
+          "ar": "هَذِهِ نَاقَةُ اللَّهِ لَكُمْ آيَةً",
+          "en": "This is the she-camel of Allah as a sign for you",
+          "my": "ဤသည်မှာ သင်တို့အတွက် အမှတ်အသားအဖြစ် အလ္လာဟ်အရှင်မြတ်၏ ကုလားအုတ်မ ဖြစ်သည်",
+          "ref": "7:73"
+        }
+      },
+      {
+        "word": "كَلِمَةٌ",
+        "translit": "kalimatun",
+        "en": "A word",
+        "my": "စကားလုံးတစ်လုံး",
+        "quran_freq": 75,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ك ل م",
+          "concept_en": "speech, word",
+          "concept_my": "စကား"
+        },
+        "memory_hook": {
+          "sound": "Call-e-mah",
+          "image": "Calling out a single word",
+          "cross_language": "Kalimah (The testimony of faith)"
+        },
+        "word_family": [
+          {
+            "ar": "كَلَامٌ",
+            "translit": "kalamun",
+            "en": "speech",
+            "my": "စကားပြောဆိုခြင်း",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "The 'atun' ending is common for singular feminine indefinite nouns.",
+        "example": {
+          "ar": "كَلِمَةً طَيِّبَةً",
+          "en": "a good word",
+          "my": "ကောင်းမွန်သော စကားတစ်ခွန်း",
+          "ref": "14:24"
+        }
+      },
+      {
+        "word": "يَوْمٌ",
+        "translit": "yawmun",
+        "en": "A day",
+        "my": "နေ့တစ်နေ့",
+        "quran_freq": 475,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ي و م",
+          "concept_en": "day, period of time",
+          "concept_my": "နေ့၊ ကာလ"
+        },
+        "memory_hook": {
+          "sound": "Yawn",
+          "image": "Yawning after a long day",
+          "cross_language": "Yawm al-Qiyamah"
+        },
+        "word_family": [
+          {
+            "ar": "أَيَّامٌ",
+            "translit": "ayyamun",
+            "en": "days",
+            "my": "နေ့ရက်များ",
+            "freq": 27
+          }
+        ],
+        "pattern_unlock": "Yawm + Tanween Damm = Yawmun (a day).",
+        "example": {
+          "ar": "فِي يَوْمٍ كَانَ مِقْدَارُهُ",
+          "en": "in a day whose extent is...",
+          "my": "၎င်း၏ အတိုင်းအတာမှာ... ရှိသော နေ့တစ်နေ့တွင်",
+          "ref": "70:4"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "التَّنْوِينُ",
+        "en": "Tanween (The 'N' Sound)",
+        "my": "တန်ဝင်း (နှစ်ကြောင်းဆွဲ အသံ)"
+      },
+      "formula": {
+        "display": "noun + ً ٍ ٌ = Indefinite",
+        "example": "كِتَابٌ = A book",
+        "myanmar_read": "စကားလုံးတစ်ခု၏ အဆုံးတွင် နှစ်ကြောင်းဆွဲ (တန်ဝင်း) ပါလာလျှင် 'တစ်ခု/တစ်စုံတစ်ယောက်' ဟု အဓိပ္ပာယ်ရသည်။",
+        "key_insight": "Tanween is the 'hidden N' at the end of a word that tells you it's general (indefinite)."
+      },
+      "explanation": {
+        "en": "Tanween refers to doubling the vowel marks at the end of a noun. It sounds like a letter 'N' added to the vowel. It indicates that the noun is indefinite (a/an). There are three types: Damm (un), Fath (an), and Kasr (in).",
+        "my": "တန်ဝင်းဆိုသည်မှာ နာမ်တစ်ခု၏ အဆုံးအက္ခရာတွင် သရအမှတ်အသားကို နှစ်ထပ်တင်ခြင်းဖြစ်သည်။ ၎င်းသည် 'န' သံကို ထွက်စေပြီး 'မသတ်မှတ်နာမ်' (တစ်ခု၊ တစ်ဦး) ကို ကိုယ်စားပြုသည်။ တန်ဝင်းအမျိုးအစား (၃) မျိုးရှိသည် - ဒမ်မသိုင်း (un)၊ ဖသ်ဟသိုင်း (an) နှင့် ကတ်စ်ရသိုင်း (in) တို့ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese uses 'တစ်ခု' (ta-ku) or 'တစ်ယောက်' (ta-yauk) after the noun. Arabic uses a simple sound change at the end of the word.",
+        "my": "မြန်မာစာတွင် နာမ်၏နောက်၌ 'တစ်ခု' စသည်ဖြင့် ထည့်ရသော်လည်း အာရဗီတွင် စကားလုံးအဆုံး၌ အသံပြောင်းရုံသာဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Tanween Damm ( ٌ ) makes an 'un' sound.",
+          "rule_my": "ဒမ်မသိုင်း ( ٌ ) သည် 'အွန်' (un) သံထွက်သည်။",
+          "example": {
+            "ar": "كِتَابٌ",
+            "en": "A book",
+            "my": "စာအုပ်တစ်အုပ်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Tanween Fath ( ً ) makes an 'an' sound, usually requires an extra Alif.",
+          "rule_my": "ဖသ်ဟသိုင်း ( ً ) သည် 'အန်' (an) သံထွက်ပြီး များသောအားဖြင့် 'အလစ်ဖ်' တစ်လုံး အပိုထည့်ရသည်။",
+          "example": {
+            "ar": "كِتَابًا",
+            "en": "A book (as object)",
+            "my": "စာအုပ်တစ်အုပ်အား"
+          }
+        },
+        {
+          "number": 3,
+          "rule_en": "Tanween Kasr ( ٍ ) makes an 'in' sound.",
+          "rule_my": "ကတ်စ်ရသိုင်း ( ٍ ) သည် 'အင်' (in) သံထွက်သည်။",
+          "example": {
+            "ar": "كِتَابٍ",
+            "en": "A book (after preposition)",
+            "my": "စာအုပ်တစ်အုပ်၌"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "هَٰذَا بَصَائِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ",
+          "en": "This [Quran] is enlightenment for mankind and guidance and mercy",
+          "my": "(၂၀) ဤ(ကုရ်အာန်ကျမ်းတော်မြတ်)သည် လူများအတွက် ထင်ရှားသော သက်သေသာဓကများလည်းဖြစ်သည်။ ယုံကြည်သူများအတွက် လမ်းမှန်ညွှန်ကြားပြသချက်နှင့်ကရုဏာလည်းဖြစ်သည်။",
+          "ref": "45:20",
+          "breakdown": {
+            "subject": {
+              "word": "رَحْمَةٌ",
+              "en": "a mercy",
+              "note": "Indefinite noun with Tanween Damm"
+            }
+          },
+          "myanmar_insight": "Rahma (ကရုဏာတော်) ၏ အဆုံးတွင် တန်ဝင်းပါခြင်းမှာ ၎င်းသည် အကန့်အသတ်မရှိသော ကရုဏာတော်တစ်ရပ်ဖြစ်ကြောင်း ပြဆိုသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting the 'N' sound",
+          "wrong": {
+            "ar": "كِتَابု",
+            "note": "Pronouncing only 'u' instead of 'un'"
+          },
+          "correct": {
+            "ar": "كِتَابٌ",
+            "en": "Kitab-un",
+            "my": "ကီသဗ်-အွန်"
+          },
+          "myanmar_tip": "တန်ဝင်းတွေ့လျှင် 'န' သတ်သံကို မမေ့ပါနှင့်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the type of Tanween",
+          "instruction_my": "တန်ဝင်း အမျိုးအစားကို ခွဲခြားပြပါ။",
+          "questions": [
+            {
+              "q": "يَوْمٌ",
+              "answer_en": "Tanween Damm",
+              "answer_my": "ဒမ်မသိုင်း",
+              "ref": "70:4"
+            },
+            {
+              "q": "آيَةً",
+              "answer_en": "Tanween Fath",
+              "answer_my": "ဖသ်ဟသိုင်း",
+              "ref": "7:73"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English (Include 'A/An')",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ။ (A/An ထည့်ပါ)",
+          "questions": [
+            {
+              "q": "كَلِمَةٌ",
+              "answer_en": "A word",
+              "answer_my": "စကားလုံးတစ်လုံး"
+            },
+            {
+              "q": "نُورٌ",
+              "answer_en": "A light",
+              "answer_my": "အလင်းရောင်တစ်ခု"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Remove 'Al-' and add Tanween Damm",
+          "instruction_my": "Al- ကိုဖြုတ်ပြီး ဒမ်မသိုင်း ထည့်ပါ။",
+          "questions": [
+            {
+              "q": "الْبَيْتُ",
+              "answer_en": "A house",
+              "answer_my": "အိမ်တစ်လုံး",
+              "ar": "بَيْتٌ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Tanween implies abundance and variety. When Allah says 'Rahmah' with Tanween, it means a vast, unimaginable kind of mercy.",
+        "my": "တန်ဝင်းသည် တစ်ခါတစ်ရံတွင် များပြားကျယ်ဝန်းမှုကို ဖော်ဆောင်သည်။ 'ရဟ်မသ်' ကို တန်ဝင်းနှင့် သုံးနှုန်းခြင်းသည် စိတ်ကူးမယဉ်နိုင်လောက်သော ကရုဏာတော်ကို ဆိုလိုသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Ibrahim 14:24",
+        "study_number": 1,
+        "arabic_full": "أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ",
+        "en_sahih": "Have you not considered how Allah presents an example, [making] a good word like a good tree",
+        "my_mmsy": "အလ္လာဟ်အရှင်မြတ်သည် စင်ကြယ်သန့်ရှင်းသောစကား ကို မည်သို့ ပမာခိုင်းတော်မူသည်ကို အသင်မသိသလော။ (ထိုစကားသည်) အကြင်သန့်စင်သော သစ်ပင်နှင့်တူသည်။ ထိုသစ်ပင်၏အမြစ်သည် မြဲမြံခိုင်ခံ့ပြီး သူ၏အကိုင်းအလက်သည် ကောင်းကင်၌ရှိနေသည်။",
+        "audio_ref": {
+          "surah": 14,
+          "ayah": 24,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/014024.mp3"
+        },
+        "qurancom_url": "https://quran.com/14/24",
+        "context": {
+          "en": "Allah compares a pure statement of faith (the Kalimah) to a firm and fruitful tree.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် စင်ကြယ်သော ယုံကြည်ချက်စကား (ကလိမဟ်) ကို ခိုင်ခံ့သော သစ်ပင်တစ်ပင်နှင့် ဥပမာပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "كَلِمَةً",
+            "translit": "kalimatan",
+            "en": "a word",
+            "my": "စကားတစ်ခွန်းကို",
+            "role_en": "Object",
+            "role_my": "ကံပုဒ်",
+            "root": "ك ل م",
+            "freq": 75
+          },
+          {
+            "ar": "طَيِّبَةً",
+            "translit": "tayyibatan",
+            "en": "good",
+            "my": "ကောင်းမြတ်သော",
+            "role_en": "Adjective",
+            "role_my": "နာမဝိသေသန",
+            "root": "ط ي ب",
+            "freq": 42
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of Tanween Fath in 'Kalimatan Tayyibatan' highlights that *any* good word of faith has this immense value.",
+          "structure_my": "'Kalimatan Tayyibatan' တွင် ဖသ်ဟသိုင်း သုံးထားခြင်းသည် ကောင်းမြတ်သော စကားလုံးဟူသမျှသည် ဤကဲ့သို့ တန်ဖိုးရှိကြောင်း ပြဆိုသည်။",
+          "insight_en": "Note how the adjective follows the noun in Tanween.",
+          "insight_my": "နာမဝိသေသနသည်လည်း နာမ်ကဲ့သို့ပင် တန်ဝင်းအမျိုးအစား တူညီရမည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ك ل م",
+            "concept_en": "to speak, to wound (a word leaves an impact like a mark)",
+            "concept_my": "ပြောဆိုခြင်း (သို့) အမှတ်အသားပြုခြင်း",
+            "members": [
+              {
+                "ar": "كَلَامُ اللَّهِ",
+                "en": "Speech of Allah",
+                "my": "အလ္လာဟ်အရှင်မြတ်၏ စကားတော်",
+                "freq": 10
+              }
+            ],
+            "professors_note": "A word is called 'Kalima' because it leaves a trace in the listener's mind."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ပြောဆိုသော စကားတစ်ခွန်းသည် 'မသတ်မှတ်နာမ်' ဖြစ်သော်လည်း အကျိုးသက်ရောက်မှုမှာမူ သစ်ပင်တစ်ပင်ကဲ့သို့ ကြီးမားနိုင်ပါသည်။ ကောင်းမွန်သော စကားလုံးတစ်ခွန်းသည် ဘဝကို ပြောင်းလဲစေနိုင်ကြောင်း ဤအာယတ်က သတိပေးနေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Kalimatan tayyibatan ka-shajaratin tayyibatin.",
+          "meaning_anchor": "A single word turning into a tree with deep roots.",
+          "daily_connection": "Used to remind oneself of the power of speech.",
+          "my": "စကားပြောဆိုရာတွင် သတိရှိစေရန် ဤအာယတ်ကို အမှတ်ရပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Infitar 82:19",
+        "study_number": 2,
+        "arabic_full": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْئًا",
+        "en_sahih": "It is the Day when a soul will not possess for another soul [power to do] a thing",
+        "my_mmsy": "(၁၉) ထိုနေ့တွင်အသက်ဝိညာဉ်တစ်ခု(လူတစ်ဦး)သည် အခြားအသက်ဝိညာဉ်(လူတစ်ဦး)အတွက် မည်သည့်အရာတစ်ခုမျှ အကျိုးပြုပိုင်ခွင့်မရှိပေ။၎င်းပြင်ထိုနေ့တွင် အမိန့်အာဏာအားလုံးသည် အလ္လာဟ်အရှင်မြတ်ပင် စိုးပိုင်တော်မူမည်ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 82,
+          "ayah": 19,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/082019.mp3"
+        },
+        "qurancom_url": "https://quran.com/82/19",
+        "context": {
+          "en": "A description of the Day of Judgment where personal accountability is absolute.",
+          "my": "မိမိ၏ လုပ်ရပ်အတွက် မိမိသာလျှင် တာဝန်ယူရမည့် တရားစီရင်ရာနေ့အကြောင်း ဖော်ပြချက်ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "يَوْمَ",
+            "translit": "yawma",
+            "en": "The Day",
+            "my": "နေ့တွင်",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "ي و م",
+            "freq": 405
+          },
+          {
+            "ar": "نَفْسٌ",
+            "translit": "nafsun",
+            "en": "a soul",
+            "my": "ဝိညာဉ်တစ်ခုသည်",
+            "role_en": "Subject",
+            "role_my": "ကတ္တား",
+            "root": "ن ف س",
+            "freq": 298
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The Tanween on 'Nafsun' and 'Nafsin' emphasizes *any* soul and *any other* soul—no exceptions.",
+          "structure_my": "'Nafsun' နှင့် 'Nafsin' တွင် တန်ဝင်း သုံးထားခြင်းမှာ မည်သည့်ဝိညာဉ်မဆို (ခြွင်းချက်မရှိ) အပြန်အလှန် မကူညီနိုင်ကြောင်း အလေးပေးလိုခြင်းဖြစ်သည်။",
+          "insight_en": "The shift from 'un' to 'in' is due to the preposition 'li' (for).",
+          "insight_my": "'li' (အတွက်) ကြောင့် ဒမ်မသိုင်းမှ ကတ်စ်ရသိုင်းသို့ ပြောင်းသွားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ي و م",
+            "concept_en": "a period from sunrise to sunset, or an era",
+            "concept_my": "နေ့တစ်နေ့ သို့မဟုတ် ကာလတစ်ခု",
+            "members": [
+              {
+                "ar": "أَيَّامٌ",
+                "en": "days",
+                "my": "နေ့ရက်များ",
+                "freq": 27
+              }
+            ],
+            "professors_note": "Yawm in the Quran can mean a 24-hour day or a very long stage of time."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ထိုနေ့တွင် မည်သူတစ်ဦးတစ်ယောက်ကမျှ အခြားသူတစ်ဦးကို ကူညီနိုင်မည်မဟုတ်ပေ။ မိမိ၏ ဝိညာဉ် (နဖ်စ်) အတွက် မိမိကိုယ်တိုင်သာ ရုန်းကန်ရမည်ဖြစ်ကြောင်း ဤအာယတ်က သတိပေးလျက်ရှိသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Nafsun li-nafsin shay-an.",
+          "meaning_anchor": "People standing alone in a vast field.",
+          "daily_connection": "Reminds us of our personal responsibility to Allah.",
+          "my": "မိမိကိုယ်မိမိ ပြုပြင်ရန် သတိပေးချက်အဖြစ် အမှတ်ရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You learned that Tanween (un, an, in) marks a noun as indefinite. It acts as the Arabic equivalent of 'a' or 'an'.",
+      "my": "တန်ဝင်း (un, an, in) သည် နာမ်တစ်ခုကို 'မသတ်မှတ်နာမ်' အဖြစ် ပြောင်းလဲပေးကြောင်းနှင့် ၎င်းသည် အင်္ဂလိပ်စာမှ 'a' သို့မဟုတ် 'an' နှင့် တူညီကြောင်း လေ့လာခဲ့ပြီးဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-008",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 8,
+    "title": {
+      "ar": "الْمَعْرِفَةُ (٣) — أَسْمَاءُ الْأَعْلَامِ",
+      "en": "Definiteness III — Proper Nouns",
+      "my": "သတ်မှတ်နာမ် (၃) — အမည်နာမများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Divine names & prophetic names as inherently definite",
+      "grammar_formula": "Prophetic Name = Already Definite (No Al- needed)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مُحَمَّدٌ",
+        "translit": "muhammadun",
+        "en": "Muhammad",
+        "my": "မုဟမ္မဒ်",
+        "quran_freq": 4,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفَعَّل",
+        "root": {
+          "letters": "ح م د",
+          "concept_en": "praise",
+          "concept_my": "ချီးမွမ်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Muhammad",
+          "image": "The final Messenger of Allah",
+          "cross_language": "Commonly known in Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "أَحْمَدُ",
+            "translit": "ahmadu",
+            "en": "Ahmad",
+            "my": "အဟ်မဒ်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Names like Muhammad carry Tanween but are still definite because they are proper names.",
+        "example": {
+          "ar": "مُحَمَّدٌ رَسُولُ اللَّهِ",
+          "en": "Muhammad is the messenger of Allah",
+          "my": "မုဟမ္မဒ်သည် အလ္လာဟ်အရှင်မြတ်၏ စေတမန်တော်ဖြစ်သည်",
+          "ref": "48:29"
+        }
+      },
+      {
+        "word": "إِبْرَاهِيمُ",
+        "translit": "ibrahimu",
+        "en": "Abraham",
+        "my": "အီဘရာဟင်မ်",
+        "quran_freq": 69,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "Prophetic Name",
+          "concept_my": "နဗီတမန်တော်အမည်"
+        },
+        "memory_hook": {
+          "sound": "E-bra-heem",
+          "image": "The father of prophets",
+          "cross_language": "Ibrahim"
+        },
+        "word_family": [],
+        "pattern_unlock": "Non-Arabic names like Ibrahim often do not take Tanween (Diptotes).",
+        "example": {
+          "ar": "مِلَّةَ إِبْرَاهِيمَ",
+          "en": "the religion of Abraham",
+          "my": "အီဘရာဟင်မ်၏ သာသနာတော်",
+          "ref": "2:135"
+        }
+      },
+      {
+        "word": "مُوسَىٰ",
+        "translit": "musa",
+        "en": "Moses",
+        "my": "မူဆာ",
+        "quran_freq": 136,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "Prophetic Name",
+          "concept_my": "နဗီတမန်တော်အမည်"
+        },
+        "memory_hook": {
+          "sound": "Musa",
+          "image": "Splitting the sea with a staff",
+          "cross_language": "Musa"
+        },
+        "word_family": [],
+        "pattern_unlock": "Names ending in Alif Maqsura ( ى ) do not change their endings.",
+        "example": {
+          "ar": "وَإِذْ آتَيْنَا مُوسَى الْكِتَابَ",
+          "en": "And when We gave Moses the Scripture",
+          "my": "ငါအရှင်သည် မူဆာအား ကျမ်းမြတ်ကို ချပေးသနားတော်မူသောအခါ",
+          "ref": "2:53"
+        }
+      },
+      {
+        "word": "عِيسَى",
+        "translit": "isa",
+        "en": "Jesus",
+        "my": "အီဆာ",
+        "quran_freq": 25,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "Prophetic Name",
+          "concept_my": "နဗီတမန်တော်အမည်"
+        },
+        "memory_hook": {
+          "sound": "Ee-sa",
+          "image": "The prophet born of Maryam",
+          "cross_language": "Isa"
+        },
+        "word_family": [],
+        "pattern_unlock": "Like Musa, Isa ends in a long 'A' sound that stays fixed.",
+        "example": {
+          "ar": "قَالَ عِيسَى ابْنُ مَرْيَمَ",
+          "en": "Jesus, the son of Mary, said",
+          "my": "မရ်ယမ်၏သား အီဆာက ပြောခဲ့သည်",
+          "ref": "61:6"
+        }
+      },
+      {
+        "word": "مَرْيَمُ",
+        "translit": "maryamu",
+        "en": "Mary",
+        "my": "မရ်ယမ်",
+        "quran_freq": 34,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "Prophetic Family Name",
+          "concept_my": "နဗီတမန်တော်၏ မိခင်အမည်"
+        },
+        "memory_hook": {
+          "sound": "Mar-yam",
+          "image": "The mother of Isa",
+          "cross_language": "Maryam"
+        },
+        "word_family": [],
+        "pattern_unlock": "Most feminine names in Arabic do not take Tanween.",
+        "example": {
+          "ar": "يَا مَرْيَمُ اقْنُتِي لِرَبِّكِ",
+          "en": "O Mary, be devoutly obedient to your Lord",
+          "my": "အို-မရ်ယမ်၊ သင်သည် မိမိအရှင်အား ရိုသေစွာ နာခံလော့",
+          "ref": "3:43"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "اسْمُ الْعَلَمِ",
+        "en": "Proper Nouns",
+        "my": "အမည်နာမများ (ပုဂ္ဂလနာမ်)"
+      },
+      "formula": {
+        "display": "Name = Definite",
+        "example": "مُحَمَّدٌ (Muhammad) is already definite.",
+        "myanmar_read": "လူအမည်၊ မြို့အမည်များတွင် 'အာလ်' ထည့်စရာမလိုဘဲ ၎င်းတို့ကိုယ်တိုင်က သတ်မှတ်နာမ်များဖြစ်သည်။",
+        "key_insight": "Proper names are already specific by nature. They don't need 'Al-' to be 'the'."
+      },
+      "explanation": {
+        "en": "Proper nouns (Ism al-Alam) refer to specific individuals or places. In Arabic grammar, these are inherently definite. Even if some names like 'Muhammadun' end with Tanween, they are still considered definite and never take 'Al-'.",
+        "my": "ပုဂ္ဂလနာမ်များ (Ism al-Alam) ဆိုသည်မှာ သီးခြားပုဂ္ဂိုလ် သို့မဟုတ် နေရာများကို ဆိုလိုသည်။ အာရဗီသဒ္ဒါတွင် ၎င်းတို့သည် သဘာဝအတိုင်း သတ်မှတ်နာမ်များဖြစ်သည်။ 'မုဟမ္မဒ်-ဒွန်' ကဲ့သို့ တန်ဝင်းနှင့် ဆုံးသော်လည်း ၎င်းသည် သတ်မှတ်နာမ်ပင်ဖြစ်ပြီး 'အာလ်' ထည့်ရန် မလိုပါ။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, names are also specific. We don't say 'The Aung San'. Similarly, Arabic names are definite without articles.",
+        "my": "မြန်မာစကားတွင်လည်း လူအမည်များကို 'ထို' စသည်ဖြင့် အထူးပြုစရာမလိုဘဲ အမည်ခေါ်လိုက်ရုံဖြင့် သိပြီးသားဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Do not add 'Al-' to people's names.",
+          "rule_my": "လူအမည်များ၏ ရှေ့တွင် 'အာလ်' မထည့်ရပါ။",
+          "example": {
+            "ar": "مُحَمَّدٌ",
+            "en": "Muhammad",
+            "my": "မုဟမ္မဒ်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Some Arabic names take Tanween, but they remain definite.",
+          "rule_my": "အချို့အာရဗီအမည်များသည် တန်ဝင်းလက်ခံသော်လည်း သတ်မှတ်နာမ်အဖြစ်သာ ရှိနေသည်။",
+          "example": {
+            "ar": "زَيْدٌ",
+            "en": "Zayd",
+            "my": "ဇိုက်ဒ်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "مُحَمَّدٌ رَسُولُ اللَّهِ",
+          "en": "Muhammad is the Messenger of Allah",
+          "my": "MYANMAR_PLACE_HOLDER_S48_A29",
+          "ref": "48:29",
+          "breakdown": {
+            "subject": {
+              "word": "مُحَمَّدٌ",
+              "en": "Muhammad",
+              "note": "Proper noun, inherently definite."
+            }
+          },
+          "myanmar_insight": "Muhammad တွင် 'အာလ်' မပါသော်လည်း ၎င်းသည် သတ်မှတ်နာမ် (ကတ္တား) ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Adding Al- to a name",
+          "wrong": {
+            "ar": "الْمُحَمَّدُ",
+            "note": "Names do not take the article Al-"
+          },
+          "correct": {
+            "ar": "مُحَمَّدٌ",
+            "en": "Muhammad",
+            "my": "မုဟမ္မဒ်"
+          },
+          "myanmar_tip": "လူအမည်များရှေ့မှာ 'အာလ်' လုံးဝမထည့်ပါနှင့်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the proper noun in the sentence",
+          "instruction_my": "ဝါကျအတွင်းရှိ အမည်နာမ (Proper Noun) ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "قَالَ مُوسَىٰ",
+              "answer_en": "Musa",
+              "answer_my": "မူဆာ",
+              "ref": "2:67"
+            },
+            {
+              "q": "إِبْرَاهِيمُ خَلِيلُ اللَّهِ",
+              "answer_en": "Ibrahim",
+              "answer_my": "အီဘရာဟင်မ်",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the names",
+          "instruction_my": "အမည်များကို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "مَرْيَمُ",
+              "answer_en": "Mary / Maryam",
+              "answer_my": "မရ်ယမ်"
+            },
+            {
+              "q": "عِيسَى",
+              "answer_en": "Jesus / Isa",
+              "answer_my": "အီဆာ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Write the Arabic for the name",
+          "instruction_my": "အမည်ကို အာရဗီလို ရေးပါ။",
+          "questions": [
+            {
+              "q": "Muhammad",
+              "answer_en": "Muhammad",
+              "answer_my": "မုဟမ္မဒ်",
+              "ar": "مُحَمَّدٌ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Names in the Quran carry the legacy of those who carried the message. Mentioning them is a connection to our spiritual ancestry.",
+        "my": "ကုရ်အာန်ရှိ အမည်များသည် သတင်းစကားကို သယ်ဆောင်ခဲ့သူများ၏ အမွေအနှစ်ဖြစ်သည်။ ၎င်းတို့ကို ရွတ်ဆိုခြင်းဖြင့် ကျွန်ုပ်တို့၏ ဝိညာဉ်ရေးရာ ဘိုးဘေးများနှင့် ဆက်သွယ်မှုရရှိစေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Fath 48:29",
+        "study_number": 1,
+        "arabic_full": "مُحَمَّدٌ رَسُولُ اللَّهِ ۚ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ",
+        "en_sahih": "Muhammad is the Messenger of Allah; and those with him are forceful against the disbelievers, merciful among themselves.",
+        "my_mmsy": "(၂၉)(တမန်တော်)မုဟမ်္မဒ် (ဆွ)  ၁၈ သည် အလ္လာဟ်အရှင်မြတ်၏ တမန်တော်ဖြစ်သည်။ ထို့ပြင် ၎င်းနှင့်အတူရှိကြသည့်သူများသည် ကာဖိရ်များနှင့် ပတ်သက်လျှင် ပြင်းထန်သူများဖြစ်ပြီး သူတို့အချင်းချင်း(ဆက်ဆံရာတွင်) သနားကြင်နာသူများပင်ဖြစ်ကြသည်။  ၁၉ အသင်(တမန်တော်)သည် သူတို့အား ရုကူအ်ဦးညွှတ်ကြလျက်၊ စဂျ်ဒဟ်ဦးချကြလျက်၊ အလ္လာဟ်အရှင်မြတ်၏ကျေးဇူးတော်နှင့် (အရှင်မြတ်၏) ကျေနပ်နှစ်သက်မှုကို ရှာဖွေဆည်းပူးလျက်ရှိကြသည်ကိုတွေ့မြင်ရမည်။ သူတို့၏ အမှတ်သင်္ကေတသည် စဂျ်ဒဟ်ဦးချခြင်းကြောင့် သူတို့၏ မျက်နှာများတွင် ထင်ပေါ်နေသည်။ ထိုအရာသည် သောင်ရာသ်ကျမ်းတွင်လာသော သူတို့၏သာဓကပင်ဖြစ်သည်။ ထို့ပြင် အင်ဂျီလ်ကျမ်းတွင်လာသည့်သာဓကကမူ- လယ်ယာတစ်ခုပမာဖြစ်သည်။ ထိုလယ်ယာသည် သူ(ထဲတွင်ရှိသည့်မျိုးစေ့များ)၏ အစို့အညှောက်ကို ထွက်စေခဲ့သည်။ ထို့နောက် သူ၏အညွန့်အညှောက်ကို သန်စွမ်းစေခဲ့သည်။ ထို့နောက် ထိုအညွန့် အညှောက်သည် တုတ်ခိုင်လာ၍ သူ၏ပင်စည်ပေါ်တွင် တည့်မတ်စွာ ထောင်တက်လာခဲ့သည့်အတွက် လယ်သမားများကို အားရကျေနပ်စေခဲ့သည်။ (ထိုသို့ဖြစ်စေတော်မူခြင်းမှာ) ထို(တမန်တော်မုဟမ္မဒ်(ဆွ)၏ အပေါင်းအဖော်)များ၏ အကြောင်းခံနှင့် ကာဖိရ်များကို အမျက်ဒေါသထွက်စေဖို့အတွက်ဖြစ်သည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်ကမူ သူတို့ထဲမှ အီမာန်ယုံကြည်ပြီး ကောင်းမြတ်သောလုပ်ရပ်များကို ပြုလုပ်ခဲ့ကြသူများအား လွတ်ငြိမ်းချမ်းသာခွင့်နှင့် ကြီးမားသည့်အကျိုးကို ချီးမြှင့်တော်မူမည်ဟု ကတိပြုတော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 48,
+          "ayah": 29,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/048029.mp3"
+        },
+        "qurancom_url": "https://quran.com/48/29",
+        "context": {
+          "en": "This verse establishes the role of the Prophet and the character of the early Muslim community.",
+          "my": "ဤအာယတ်သည် တမန်တော်မြတ်၏ အခန်းကဏ္ဍနှင့် အစောပိုင်း မွတ်စလင်လူထု၏ စရိုက်လက္ခဏာကို ဖော်ညွှန်းသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "مُحَمَّဒٌ",
+            "translit": "muhammadun",
+            "en": "Muhammad",
+            "my": "မုဟမ္မဒ်သည်",
+            "role_en": "Subject",
+            "role_my": "ကတ္တား",
+            "root": "ح م د",
+            "freq": 4
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The name 'Muhammad' is used here without 'Al-', proving that it is already definite.",
+          "structure_my": "'မုဟမ္မဒ်' အမည်ကို 'အာလ်' မပါဘဲ သုံးထားခြင်းမှာ ၎င်းသည် သတ်မှတ်နာမ်ဖြစ်နေပြီးသားကြောင့်ဖြစ်သည်။",
+          "insight_en": "Despite having Tanween Damm, it is not 'a Muhammad', but the specific Prophet.",
+          "insight_my": "တန်ဝင်းပါသော်လည်း 'မုဟမ္မဒ် တစ်ယောက်' ဟု မဆိုလိုဘဲ တမန်တော်မြတ်ကိုသာ တိုက်ရိုက်ဆိုလိုသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ح م د",
+            "concept_en": "praise given to someone for their inherent qualities and actions",
+            "concept_my": "ဂုဏ်ရည်နှင့် လုပ်ရပ်များအတွက် ချီးမွမ်းခြင်း",
+            "members": [
+              {
+                "ar": "الْحَمْدُ",
+                "en": "the praise",
+                "my": "ချီးမွမ်းခြင်း",
+                "freq": 43
+              }
+            ],
+            "professors_note": "Muhammad means 'the one who is praised continuously'."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ ချစ်မြတ်နိုးလှသော တမန်တော်မြတ် (ဆွ) ၏ အမည်တော်ကို ကုရ်အာန်တွင် ဤသို့ တိုက်ရိုက်ဖော်ပြထားခြင်းမှာ ဂုဏ်ယူစရာဖြစ်သည်။ ကိုယ်တော်၏ နောက်လိုက်များဖြစ်သော ကျွန်ုပ်တို့သည်လည်း အချင်းချင်းအပေါ် ကြင်နာသနားမှု ရှိကြရမည်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Muhammadur-Rasulullah... (smooth transition).",
+          "meaning_anchor": "A light among the people of faith.",
+          "daily_connection": "Found in the Kalimah and every Shahada.",
+          "my": "ကလိမဟ်တွင် ပါရှိသောကြောင့် အလွယ်တကူ မှတ်မိနိုင်သည်။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Baqarah 2:135",
+        "study_number": 2,
+        "arabic_full": "قُلْ بَلْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا",
+        "en_sahih": "Say, 'Rather, [we follow] the religion of Abraham, inclining toward truth'",
+        "my_mmsy": "ထို့ပြင် သူတို့ကပြောခဲ့ကြသည်၊ အသင်တို့သည် ယဟူဒီဘာသာဝင် သို့မဟုတ် နတ်စ်ွရာနီဘာသာဝင်တွေဖြစ်ကြပါ။ သို့မှသာ အသင်တို့သည် တရားလမ်းမှန်ကို ရကြမည်။ (အို-တမန်တော်)အသင်ပြောလိုက်ပါ၊ (အသင်တို့ပြောသကဲ့သို့ မည်သည့်အခါမှ ဖြစ်ကြမည်)မဟုတ်ပေ၊ အမှန်စင်စစ် (ငါတို့သည် ကွေ့ကောက်ခြင်းမရှိသော) ဖြောင့်မတ်မှန်ကန်သည့် (တမန်တော်)အိဗ်ရာဟီမ်၏သာသနာ(အစ္စလာမ်)ကို (ယုံကြည်လိုက်နာကြသောသူများဖြစ်ကြမည်။) ထို့ပြင် ၎င်း(တမန်တော်အိဗ်ရာဟီမ်)သည် အလ္လာဟ်အရှင်မြတ်နှင့် တွဲဖက်ကိုးကွယ်သူများထဲတွင် မပါဝင်ခဲ့ပေ။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 135,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002135.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/135",
+        "context": {
+          "en": "Addressing the invitation of Jews and Christians by calling them back to the pure faith of Abraham.",
+          "my": "အီဘရာဟင်မ်၏ စင်ကြယ်သော ယုံကြည်ချက်သို့ ပြန်လည်ဖိတ်ခေါ်ခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "إِبْرَاهِيمَ",
+            "translit": "ibrahima",
+            "en": "Abraham",
+            "my": "အီဘရာဟင်မ်၏",
+            "role_en": "Proper Noun",
+            "role_my": "ပုဂ္ဂလနာမ်",
+            "root": "N/A",
+            "freq": 69
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Ibrahim is a non-Arabic proper noun, so it does not follow standard Arabic declension.",
+          "structure_my": "Ibrahim သည် အာရဗီမဟုတ်သော အမည်ဖြစ်သဖြင့် ပုံမှန်အာရဗီသဒ္ဒါအတိုင်း အဆုံးသတ်များ မပြောင်းလဲပါ။",
+          "insight_en": "Names are definite even when they function as part of a possessive phrase.",
+          "insight_my": "အခြားစကားလုံးနှင့် တွဲသုံးလျှင်လည်း ၎င်းသည် သတ်မှတ်နာမ်အဖြစ်သာ တည်ရှိသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "N/A",
+            "concept_en": "A Hebrew name meaning 'Father of nations'",
+            "concept_my": "လူမျိုးအပေါင်းတို့၏ ဖခင်ဟု အဓိပ္ပာယ်ရသော ဟေဗြူအမည်",
+            "members": [],
+            "professors_note": "Ibrahim is a 'Diptote' (Mamnu' min al-Sarf), meaning it doesn't take Tanween or Kasra."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့အားလုံးသည် အီဘရာဟင်မ် (အစ) ၏ သာသနာတော်ကို လိုက်နာသူများဖြစ်ကြသည်။ ကိုယ်တော်၏ ခိုင်မာသော ယုံကြည်ချက် (ဟနီးဖ်) ကို အတုယူသင့်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Millata Ibrahima Hanifa.",
+          "meaning_anchor": "A strong foundation of faith.",
+          "daily_connection": "Mentioned in the 'Durood' in every prayer.",
+          "my": "နမားဇ်ရှိ အသ်သဟိယာသ်တွင် ဖတ်ရသော ဒုရူးဒ်တွင် ပါရှိသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You learned that Proper Nouns like names of Prophets are already definite and do not require 'Al-'.",
+      "my": "နဗီတမန်တော်များ၏ အမည်များကဲ့သို့သော ပုဂ္ဂလနာမ်များသည် 'အာလ်' မပါဘဲနှင့် သတ်မှတ်နာမ်များဖြစ်ကြောင်း လေ့လာခဲ့ပြီးဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-009",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 9,
+    "title": {
+      "ar": "التَّعْرِيفُ وَالتَّنْكِيرُ — النُّورُ وَنُورٌ",
+      "en": "Definiteness IV — 'The Light vs A Light'",
+      "my": "သတ်မှတ်နာမ် (၄) — 'ထိုအလင်း နှင့် အလင်းတစ်ခု'"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Definiteness contrast in Quranic sentences (Al-Noor vs Noorun)",
+      "grammar_formula": "Al- + Word = Specific | Word + Tanween = General"
+    },
+    "section_1_vocab": [
+      {
+        "word": "نُورٌ",
+        "translit": "nurun",
+        "en": "Light (General)",
+        "my": "အလင်းရောင်",
+        "quran_freq": 194,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ن و ر",
+          "concept_en": "light",
+          "concept_my": "အလင်း"
+        },
+        "memory_hook": {
+          "sound": "Noor",
+          "image": "A glow in the dark",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Without Al-, light is a general concept.",
+        "example": {
+          "ar": "نُورٌ عَلَىٰ نُورٍ",
+          "en": "Light upon light",
+          "my": "အလင်းရောင်အထပ်ထပ်",
+          "ref": "24:35"
+        }
+      },
+      {
+        "word": "الظُّلُمَاتُ",
+        "translit": "al-zulumat",
+        "en": "The Darknesses",
+        "my": "မှောင်မိုက်မှုများ",
+        "quran_freq": 23,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ظ ل م",
+          "concept_en": "darkness, injustice",
+          "concept_my": "အမှောင်၊ မတရားမှု"
+        },
+        "memory_hook": {
+          "sound": "Zu-lu-mat",
+          "image": "A deep dark room",
+          "cross_language": "Zulum (Injustice/Darkness)"
+        },
+        "word_family": [
+          {
+            "ar": "ظُلْمٌ",
+            "translit": "zulmun",
+            "en": "wrongdoing",
+            "my": "မတရားမှု",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Always used with 'Al-' in the Quran to signify total darkness of error.",
+        "example": {
+          "ar": "مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
+          "en": "from darknesses into light",
+          "my": "မှောင်မိုက်မှုများမှ အလင်းရောင်သို့",
+          "ref": "2:257"
+        }
+      },
+      {
+        "word": "هُدًى",
+        "translit": "hudan",
+        "en": "Guidance",
+        "my": "တရားလမ်းညွှန်",
+        "quran_freq": 316,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ه د ي",
+          "concept_en": "to guide",
+          "concept_my": "လမ်းညွှန်ရန်"
+        },
+        "memory_hook": {
+          "sound": "Who-done-it?",
+          "image": "A map showing where to go",
+          "cross_language": "Hidayat"
+        },
+        "word_family": [
+          {
+            "ar": "الْهُدَى",
+            "translit": "al-huda",
+            "en": "The Guidance",
+            "my": "ထိုလမ်းညွှန်မှု",
+            "freq": 80
+          }
+        ],
+        "pattern_unlock": "Hudan is indefinite; Al-Huda is definite.",
+        "example": {
+          "ar": "هُدًى لِّلْمُتَّقِينَ",
+          "en": "a guidance for those conscious of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ရိုသေသူများအတွက် လမ်းညွှန်ချက်",
+          "ref": "2:2"
+        }
+      },
+      {
+        "word": "ضَلَالٌ",
+        "translit": "dalalun",
+        "en": "Error / Straying",
+        "my": "လမ်းမှားခြင်း",
+        "quran_freq": 40,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ض ل ل",
+          "concept_en": "to lose the way",
+          "concept_my": "လမ်းပျောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dull-all",
+          "image": "Wandering aimlessly",
+          "cross_language": "Dalal (Used in religious contexts)"
+        },
+        "word_family": [
+          {
+            "ar": "ضَالِّينَ",
+            "translit": "dallin",
+            "en": "those who stray",
+            "my": "လမ်းမှားသူများ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Ending in 'un' shows it as a general state of being lost.",
+        "example": {
+          "ar": "فِي ضَلَالٍ مُبِينٍ",
+          "en": "in manifest error",
+          "my": "ထင်ရှားသော လမ်းမှားမှုတွင်",
+          "ref": "3:164"
+        }
+      },
+      {
+        "word": "النَّارُ",
+        "translit": "al-naru",
+        "en": "The Fire (Hell)",
+        "my": "ငရဲမီး",
+        "quran_freq": 145,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ن و ر",
+          "concept_en": "fire, light",
+          "concept_my": "မီး၊ အလင်း"
+        },
+        "memory_hook": {
+          "sound": "Na-r",
+          "image": "The heat of the sun",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "نَارًا",
+            "translit": "naran",
+            "en": "a fire",
+            "my": "မီးတစ်ပုံ",
+            "freq": 145
+          }
+        ],
+        "pattern_unlock": "Usually occurs with 'Al-' to refer specifically to the Fire of Hell.",
+        "example": {
+          "ar": "فَاتَّقُوا النَّارَ",
+          "en": "then fear the Fire",
+          "my": "သို့ဖြစ်လျှင် ငရဲမီးကို ကြောက်ကြလော့",
+          "ref": "2:24"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمَعْرِفَةُ وَالنَّكِرَةُ",
+        "en": "The Definite vs Indefinite Contrast",
+        "my": "သတ်မှတ်နာမ် နှင့် မသတ်မှတ်နာမ် နှိုင်းယှဉ်ချက်"
+      },
+      "formula": {
+        "display": "الْـ + اسم vs اسم + ٌ ",
+        "example": "الْقَمَرُ (The Moon) vs قَمَرٌ (A Moon)",
+        "myanmar_read": "'အာလ်' ပါလျှင် 'ထိုအရာ'၊ 'တန်ဝင်း' ပါလျှင် 'တစ်ခု' ဟု မှတ်သားပါ။",
+        "key_insight": "In the Quran, 'Al-' often points to something absolute or known, while Tanween points to something general or great in quality."
+      },
+      "explanation": {
+        "en": "This lesson compares the definite and indefinite forms. In Arabic, you cannot have both 'Al-' and Tanween on the same word. The presence of 'Al-' limits the meaning to one specific thing, while Tanween keeps it open or describes its essence.",
+        "my": "ဤသင်ခန်းစာသည် သတ်မှတ်နာမ်နှင့် မသတ်မှတ်နာမ်တို့ကို နှိုင်းယှဉ်ဖော်ပြသည်။ အာရဗီတွင် စကားလုံးတစ်လုံးတည်း၌ 'အာလ်' နှင့် 'တန်ဝင်း' နှစ်ခုလုံး တစ်ပြိုင်နက် မရှိနိုင်ပါ။ 'အာလ်' ပါလျှင် သီးခြားအရာတစ်ခုကို ဆိုလိုပြီး၊ 'တန်ဝင်း' ပါလျှင် ယေဘုယျအရာ (သို့) အရည်အသွေးကို ဖော်ပြသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese: 'အလင်း' (Light) vs 'ထိုအလင်း' (The Light). Arabic does this with simple prefixes and suffixes.",
+        "my": "မြန်မာစကားတွင် 'အလင်း' နှင့် 'ထိုအလင်း' ကွဲပြားသကဲ့သို့ အာရဗီတွင်လည်း အတူတူပင်ဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Al- and Tanween are enemies; they never meet in one word.",
+          "rule_my": "'အာလ်' နှင့် 'တန်ဝင်း' သည် ရန်သူများဖြစ်ကြသည်။ ၎င်းတို့ နှစ်ခုလုံး တစ်လုံးတည်းတွင် မရှိနိုင်ပါ။",
+          "example": {
+            "ar": "النُّورُ (Correct), نُورٌ (Correct), النُّورٌ (Wrong)",
+            "en": "The Light / A Light",
+            "my": "အလင်း / အလင်းတစ်ခု"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Al- usually denotes the specific known version of a noun.",
+          "rule_my": "'အာလ်' သည် သိရှိပြီးသား သီးခြားနာမ်ကို ညွှန်ပြသည်။",
+          "example": {
+            "ar": "الْكِتَابُ",
+            "en": "The Book (The Quran)",
+            "my": "ထိုကျမ်းမြတ်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ",
+          "en": "Allah is the ally of those who believe. He brings them out from darknesses into the light.",
+          "my": "MYANMAR_PLACE_HOLDER_S2_A257",
+          "ref": "2:257",
+          "breakdown": {
+            "subject": {
+              "word": "الظُّلُمَاتِ",
+              "en": "The Darknesses",
+              "note": "Definite with Al-"
+            },
+            "predicate": {
+              "word": "النُّورِ",
+              "en": "The Light",
+              "note": "Definite with Al-"
+            }
+          },
+          "myanmar_insight": "အမှောင်နှင့် အလင်းကို 'အာလ်' ဖြင့် သုံးထားခြင်းမှာ အမှားတရား၏ အမှောင်နှင့် အမှန်တရား၏ အလင်းကို အတိအကျ ဆိုလိုခြင်းဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using Tanween with Al-",
+          "wrong": {
+            "ar": "الضَّلَالٌ",
+            "note": "Incorrect because of both Al- and Tanween"
+          },
+          "correct": {
+            "ar": "الضَّلَالُ",
+            "en": "The Error",
+            "my": "ထိုလမ်းမှားမှု"
+          },
+          "myanmar_tip": "ရှေ့မှာ Al- ပါရင် နောက်မှာ နှစ်ကြောင်းဆွဲ (တန်ဝင်း) မထည့်နဲ့။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify which word is definite and which is indefinite",
+          "instruction_my": "ဘယ်စကားလုံးက သတ်မှတ်နာမ်၊ ဘယ်စကားလုံးက မသတ်မှတ်နာမ်လဲ ခွဲခြားပါ။",
+          "questions": [
+            {
+              "q": "هُدًى",
+              "answer_en": "Indefinite",
+              "answer_my": "မသတ်မှတ်နာမ်",
+              "ref": "2:2"
+            },
+            {
+              "q": "الْهُدَى",
+              "answer_en": "Definite",
+              "answer_my": "သတ်မှတ်နာမ်",
+              "ref": "2:120"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate to English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ။",
+          "questions": [
+            {
+              "q": "الظُّلُمَاتُ",
+              "answer_en": "The Darknesses",
+              "answer_my": "မှောင်မိုက်မှုများ"
+            },
+            {
+              "q": "ضَلَالٌ",
+              "answer_en": "An error / straying",
+              "answer_my": "လမ်းမှားမှုတစ်ခု"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change from Indefinite to Definite",
+          "instruction_my": "မသတ်မှတ်နာမ်မှ သတ်မှတ်နာမ်သို့ ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "نُورٌ",
+              "answer_en": "The Light",
+              "answer_my": "အလင်းရောင်",
+              "ar": "النُّورُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "In the Quran, 'The Light' (Al-Nur) is singular and definite because truth is one. 'Darknesses' (Al-Zulumat) is plural because falsehood has many paths.",
+        "my": "ကုရ်အာန်တွင် 'အလင်း' ကို အနည်းကိန်းသုံးပြီး 'အမှောင်' ကို အများကိန်းသုံးထားသည်။ အမှန်တရားသည် တစ်ခုတည်းသာရှိပြီး အမှားလမ်းများမှာ များပြားလှသောကြောင့်ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:257",
+        "study_number": 1,
+        "arabic_full": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ",
+        "en_sahih": "Allah is the ally of those who believe. He brings them out from darknesses into the light.",
+        "my_mmsy": "အလ္လာဟ်အရှင်မြတ်သည် အီမာန်ယုံကြည်သူများကို ကာကွယ်စောင့်ရှောက် စောင်မတော်မူသည့် အဆွေတော်ဖြစ်တော်မူသည်။ အရှင်မြတ်သည် ထိုအီမာန်ယုံကြည်သူများကို အမိုက်အမှောင်များ(ကုဖ်ရ်)မှ အလင်းရောင်(အစ္စလာမ်)ထံသို့ ထုတ်ယူပို့ဆောင်တော်မူသည်။ ထို့ပြင် ကာဖိရ်ငြင်းပယ်သူများ၏ အဆွေခင်ပွန်းများသည် ရှိုင်သွာန်များပင်ဖြစ်ကြသည်။ ထိုရှိုင်သွာန်များသည် သူတို့အား (အစ္စလာမ်)အလင်းရောင်မှ အမိုက်အမှောင်(ကုဖ်ရ်)များထဲသို့ ပို့ဆောင်ကြသည်။ သူတို့သည်ငရဲသားများဖြစ်ကြသည်။ သူတို့သည် ထိုငရဲထဲ၌ပင် အမြဲနေထိုင်ကြရမည့်သူများဖြစ်ကြသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 257,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002257.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/257",
+        "context": {
+          "en": "Highlighting Allah's role in guiding believers from the confusion of disbelief to the clarity of faith.",
+          "my": "ယုံကြည်သူများကို အမှားလမ်းမှ အမှန်လမ်းသို့ အလ္လာဟ်အရှင်မြတ်က ပို့ဆောင်ပေးပုံကို ဖော်ပြခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الظُّلُمَاتِ",
+            "translit": "al-zulumati",
+            "en": "the darknesses",
+            "my": "မှောင်မိုက်မှုများမှ",
+            "role_en": "Noun (Object of preposition)",
+            "role_my": "နာမ်",
+            "root": "ظ ل م",
+            "freq": 23
+          },
+          {
+            "ar": "النُّورِ",
+            "translit": "al-nuri",
+            "en": "the light",
+            "my": "အလင်းရောင်သို့",
+            "role_en": "Noun (Object of preposition)",
+            "role_my": "နာမ်",
+            "root": "ن و ر",
+            "freq": 194
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Both 'Al-Zulumat' and 'Al-Nur' use 'Al-' to represent totalities: absolute darkness and absolute light.",
+          "structure_my": "'Al-' ကို သုံးခြင်းဖြင့် လုံးဝဥဿုံမှောင်မိုက်မှုနှင့် လုံးဝဥဿုံလင်းလက်မှုကို ဖော်ညွှန်းသည်။",
+          "insight_en": "Zulumat starts with 'Za' (Sun Letter), Nur starts with 'Noon' (Sun Letter). Both hide the 'L' sound.",
+          "insight_my": "နှစ်ခုလုံးသည် နေမင်းအက္ခရာများဖြင့် စသဖြင့် 'လ်' အသံကို ဖျောက်ဖတ်ရသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ظ ل م",
+            "concept_en": "to put something in the wrong place, hence darkness or injustice",
+            "concept_my": "နေရာမှားထားခြင်း၊ ထို့ကြောင့် အမှောင် သို့မဟုတ် မတရားမှု",
+            "members": [
+              {
+                "ar": "ظُلْمٌ",
+                "en": "oppression",
+                "my": "နှိပ်စက်မှု",
+                "freq": 20
+              }
+            ],
+            "professors_note": "Injustice is called 'Zulm' because it is a form of darkness for the soul."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ဘဝတွင် အခက်အခဲနှင့် လမ်းမှားများစွာ (အမှောင်ထု) ရှိနိုင်ပါသည်။ သို့သော် အလ္လာဟ်အရှင်မြတ်အား အားကိုးပါက အရှင်မြတ်သည် ကျွန်ုပ်တို့အား တစ်ခုတည်းသော မှန်ကန်သောလမ်း (အလင်း) သို့ ပို့ဆောင်ပေးမည်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Min al-zulumati ila al-nur.",
+          "meaning_anchor": "Stepping out of a dark cave into bright sunlight.",
+          "daily_connection": "Recited when seeking guidance and clarity.",
+          "my": "လမ်းညွှန်မှု လိုအပ်ချိန်တိုင်း ဤအာယတ်ကို သတိရပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Nur 24:35",
+        "study_number": 2,
+        "arabic_full": "نُورٌ عَلَىٰ نُورٍ ۗ يَهْدِي اللَّهُ لِنُورِهِ مَن يَشَاءُ",
+        "en_sahih": "Light upon light. Allah guides to His light whom He wills.",
+        "my_mmsy": "အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်များနှင့် မြေပထဝီ၏ ရောင်ခြည်တော်ဖြစ်တော်မူသည်။ (အားလုံးကို လမ်းမှန်ရောင်ခြည် ညွှန်ကြားပြသတော်မူသောအရှင်  ဖြစ်တော်မူသည်)။ အရှင်မြတ်၏ရောင်ခြည်၏သာဓကသည် နံရံထဲမှ အကြင်လိုဏ်ဂူနှင့်တူသည်။ ထိုလိုဏ်ဂူထဲတွင် ဆီမီးတစ်ခုရှိသည်။ ထိုဆီမီးသည် မှန်အိမ်တစ်ခုအတွင်းတွင်ရှိသည်။ ထိုမှန်အိမ်သည် လင်းဝင်းတောက်ပသော ကြယ်တစ်လုံးကဲ့သို့ဖြစ်၍ ထိုဆီမီးကို မင်္ဂလာရှိသောသစ်ပင်က သံလွင်ဆီနှင့် ထွန်းထားသည်။ ထိုသစ်ပင်သည် အရှေ့ဘက်လည်းမကျ၊ အနောက်ဘက်လည်းမကျဘဲ (နေရောင်ခြည် အမြဲရသည့်နေရာဖြစ်၍) ထိုသစ်ပင်၏အဆီသည် မီးနှင့်လုံးဝမထိသေးဘဲနှင့်ပင် ထတောက်လုမတတ် (ကြည်လင်တောက်ပမှု)ဖြစ်နေသည်။ ရောင်ခြည်ပေါ်တွင် ရောင်ခြည်ရှိနေသည်။ အလ္လာဟ်အရှင်မြတ်သည် အရှင်မြတ်အလိုရှိတော်မူသောသူကို အရှင်မြတ်၏ရောင်ခြည်တော် (အမှန်တရား)ထံသို့ လမ်းညွှန်တော်မူသည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် အရာရာတိုင်းကို အကြွင်းမဲ့သိတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 24,
+          "ayah": 35,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/024035.mp3"
+        },
+        "qurancom_url": "https://quran.com/24/35",
+        "context": {
+          "en": "Part of the famous 'Verse of Light', describing the nature of Allah's guidance in the heart of a believer.",
+          "my": "ယုံကြည်သူ၏ နှလုံးသားတွင်ရှိသော အလ္လာဟ်အရှင်မြတ်၏ လမ်းညွှန်မှုအလင်းအကြောင်း ဖော်ပြချက်ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "نُورٌ",
+            "translit": "nurun",
+            "en": "light",
+            "my": "အလင်းရောင်တစ်ခု",
+            "role_en": "Subject",
+            "role_my": "ကတ္တား",
+            "root": "ن و ر",
+            "freq": 194
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The Tanween on 'Nurun' here indicates greatness and magnificence—a light beyond description.",
+          "structure_my": "'Nurun' ရှိ တန်ဝင်းသည် ထိုအလင်း၏ ကြီးကျယ်ခမ်းနားမှုကို ဖော်ပြခြင်းဖြစ်သည်။",
+          "insight_en": "The second 'nurin' has Tanween Kasra because of the preposition 'ala'.",
+          "insight_my": "'ala' (အပေါ်) ကြောင့် ဒုတိယစကားလုံးတွင် ကတ်စ်ရသိုင်း ဖြစ်သွားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ن و ر",
+            "concept_en": "that which makes things visible",
+            "concept_my": "အရာရာကို မြင်သာစေသောအရာ",
+            "members": [
+              {
+                "ar": "مُنِيرٌ",
+                "en": "radiant",
+                "my": "တောက်ပသော",
+                "freq": 6
+              }
+            ],
+            "professors_note": "Guidance is called Nur because it allows the heart to see reality as it is."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ လမ်းညွှန်မှုသည် အလင်းတစ်ခုအပေါ် နောက်ထပ်အလင်းတစ်ခု ဆင့်ထားသကဲ့သို့ အလွန်တောက်ပပါသည်။ ထိုအလင်းကို ရရှိသူသည် ဘဝတွင် မည်သည့်အခါမျှ လမ်းပျောက်မည်မဟုတ်ပါ။"
+        },
+        "memorization_helper": {
+          "rhythm": "Nurun 'ala Nurin...",
+          "meaning_anchor": "Double suns or mirrors reflecting light.",
+          "daily_connection": "A beautiful phrase to remember during Dhikr.",
+          "my": "ဇစ်ကရ်လုပ်ချိန်တွင် တမ်းတရွတ်ဆိုဖွယ် အာယတ်တစ်ခုဖြစ်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You compared 'The Light' (specific) and 'A Light' (general/magnificent) and learned that Al- and Tanween never coexist.",
+      "my": "သတ်မှတ်နာမ်နှင့် မသတ်မှတ်နာမ်တို့၏ ခြားနားချက်ကို လေ့လာခဲ့ပြီး 'အာလ်' နှင့် 'တန်ဝင်း' တို့သည် တစ်လုံးတည်းတွင် အတူမရှိနိုင်ကြောင်း သိရှိခဲ့ပြီဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-010",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 10,
+    "title": {
+      "ar": "مُرَاجَعَةُ التَّعْرِيفِ وَالتَّنْكِيرِ",
+      "en": "Definiteness V — Review: Building Sentences",
+      "my": "သတ်မှတ်နာမ် (၅) — ပြန်လည်သုံးသပ်ခြင်းနှင့် ဝါကျတည်ဆောက်ခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Full review of nominal sentence with definite/indefinite contrast",
+      "grammar_formula": "Proper Noun / Al-Noun + Noun-Tanween = A basic sentence"
+    },
+    "section_1_vocab": [
+      {
+        "word": "السَّمَاءُ",
+        "translit": "al-sama'u",
+        "en": "The Sky",
+        "my": "မိုးကောင်းကင်",
+        "quran_freq": 310,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "س م و",
+          "concept_en": "height, status",
+          "concept_my": "မြင့်မားခြင်း၊ အဆင့်အတန်း"
+        },
+        "memory_hook": {
+          "sound": "Sa-ma",
+          "image": "Looking up at the vast sky",
+          "cross_language": "Sama (Used in Urdu/Persian)"
+        },
+        "word_family": [
+          {
+            "ar": "اسْمٌ",
+            "translit": "ismun",
+            "en": "name",
+            "my": "အမည်",
+            "freq": 39
+          }
+        ],
+        "pattern_unlock": "Seen (س) is a Sun letter; the 'L' is silent.",
+        "example": {
+          "ar": "السَّمَاءُ بِنَاءً",
+          "en": "the sky a canopy",
+          "my": "မိုးကောင်းကင်ကို အမိုးအဖြစ်",
+          "ref": "2:22"
+        }
+      },
+      {
+        "word": "مَاءٌ",
+        "translit": "ma'un",
+        "en": "Water",
+        "my": "ရေ",
+        "quran_freq": 63,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "م و ه",
+          "concept_en": "liquid, water",
+          "concept_my": "အရည်၊ ရေ"
+        },
+        "memory_hook": {
+          "sound": "Ma-a",
+          "image": "Rain falling down",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Often used in Tanween to show it as a source of life.",
+        "example": {
+          "ar": "وَأَنزَلَ مِنَ السَّمَاءِ مَاءً",
+          "en": "and sent down from the sky, water",
+          "my": "မိုးကောင်းကင်မှ ရေကို ချပေးသနားတော်မူ၏",
+          "ref": "2:22"
+        }
+      },
+      {
+        "word": "الْمَطَرُ",
+        "translit": "al-mataru",
+        "en": "The Rain",
+        "my": "မိုးရွာခြင်း",
+        "quran_freq": 9,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "م ط ر",
+          "concept_en": "rain (often used for punishment in Quran)",
+          "concept_my": "မိုး (ကုရ်အာန်တွင် ပြစ်ဒဏ်အဖြစ် သုံးလေ့ရှိ)"
+        },
+        "memory_hook": {
+          "sound": "Ma-tar",
+          "image": "Rain hitting the tar road",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Meem is a Moon letter; pronounce the 'L' clearly.",
+        "example": {
+          "ar": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا",
+          "en": "And We rained upon them a rain [of stones]",
+          "my": "ငါအရှင်သည် သူတို့အပေါ်သို့ မိုး (ကျောက်မိုး) ရွာသွန်းစေတော်မူ၏",
+          "ref": "7:84"
+        }
+      },
+      {
+        "word": "سَحَابٌ",
+        "translit": "sahabun",
+        "en": "Clouds",
+        "my": "မိုးတိမ်များ",
+        "quran_freq": 7,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "س ح ب",
+          "concept_en": "to drag, clouds",
+          "concept_my": "ဆွဲငင်ခြင်း၊ တိမ်တိုက်များ"
+        },
+        "memory_hook": {
+          "sound": "Sa-hab",
+          "image": "Clouds being dragged across the sky",
+          "cross_language": "Sahab (Used in Urdu)"
+        },
+        "word_family": [],
+        "pattern_unlock": "The 'un' ending shows it is a collective noun in this form.",
+        "example": {
+          "ar": "وَالسَّحَابِ الْمُسَخَّرِ",
+          "en": "and the clouds controlled",
+          "my": "ထိန်းချုပ်ထားသော မိုးတိမ်များ",
+          "ref": "2:164"
+        }
+      },
+      {
+        "word": "طَرِيقٌ",
+        "translit": "tariqun",
+        "en": "A road / way",
+        "my": "လမ်းတစ်ခု",
+        "quran_freq": 11,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ط ر ق",
+          "concept_en": "to knock, a path",
+          "concept_my": "ခေါက်ခြင်း၊ လမ်း"
+        },
+        "memory_hook": {
+          "sound": "Ta-reek",
+          "image": "A long road stretching out",
+          "cross_language": "Tareeqat (Spiritual path)"
+        },
+        "word_family": [
+          {
+            "ar": "الطَّارِقُ",
+            "translit": "al-tariq",
+            "en": "The Nightcomer",
+            "my": "ညအချိန်တွင် ပေါ်လာသောအရာ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Tariqun is general; Al-Tariq is the specific night star mentioned in Surah 86.",
+        "example": {
+          "ar": "يَهْدِي إِلَى الْحَقِّ وَإِلَىٰ طَرِيقٍ مُّسْتَقِيمٍ",
+          "en": "guiding to the truth and to a straight path",
+          "my": "အမှန်တရားနှင့် ဖြောင့်မတ်သော လမ်းခရီးသို့ လမ်းညွှန်လျက်ရှိသည်",
+          "ref": "46:30"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْجُمْلَةُ الِاسْمِيَّةُ",
+        "en": "The Nominal Sentence (Basic)",
+        "my": "နာမ်ဝါကျ (အခြေခံ)"
+      },
+      "formula": {
+        "display": "Definite Noun + Indefinite Noun = Sentence",
+        "example": "اللَّهُ غَفُورٌ (Allah is Forgiving)",
+        "myanmar_read": "သတ်မှတ်နာမ်တစ်ခုနှင့် မသတ်မှတ်နာမ်တစ်ခု တွဲလိုက်လျှင် 'ဖြစ်သည်' ဟု အဓိပ္ပာယ်ရသော ဝါကျတစ်ခု ဖြစ်လာသည်။",
+        "key_insight": "In Arabic, you don't need a word for 'is'. The jump from 'The Noun' to 'A Noun' creates the 'is' automatically!"
+      },
+      "explanation": {
+        "en": "A simple Arabic sentence can be made by starting with a definite noun (Subject) and following it with an indefinite noun (Predicate). For example, 'Al-Waladu Salihun' means 'The boy [is] righteous'. The contrast between 'Al-' and Tanween creates the link.",
+        "my": "အာရဗီတွင် ဝါကျရိုးရိုးတစ်ခု တည်ဆောက်ရန် သတ်မှတ်နာမ် (ကတ္တား) ကို အရင်ထားပြီး မသတ်မှတ်နာမ် (အနက်ဖွင့်ပုဒ်) ကို နောက်ကထားရသည်။ ဥပမာ - 'အာလ်-ဝါလာဒု ဆွာလီဟွန်' (ထိုကလေးသည် သူတော်ကောင်း [ဖြစ်သည်])။ 'အာလ်' နှင့် 'တန်ဝင်း' တို့၏ ကွဲပြားမှုက 'ဖြစ်သည်' ဟူသော အဓိပ္ပာယ်ကို ထွက်ပေါ်စေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese: 'အလ္လာဟ်အရှင်မြတ်သည် ဂဖူရ်ဖြစ်တော်မူ၏' (Allah is Ghafur). Arabic skips the 'is/ဖြစ်သည်' word.",
+        "my": "မြန်မာစာတွင် 'ဖြစ်သည်' ဟု ထည့်ရသော်လည်း အာရဗီတွင် 'ဖြစ်သည်' ဟူသော စကားလုံး သီးသန့်မလိုပါ။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Start with a definite noun (with Al- or a Proper Name).",
+          "rule_my": "သတ်မှတ်နာမ် (သို့) အမည်နာမတစ်ခုဖြင့် စတင်ပါ။",
+          "example": {
+            "ar": "مُحَمَّدٌ رَسُولٌ",
+            "en": "Muhammad is a messenger",
+            "my": "မုဟမ္မဒ်သည် စေတမန်တော်တစ်ဦးဖြစ်သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "The second word should be indefinite (with Tanween) to complete the meaning.",
+          "rule_my": "ဒုတိယစကားလုံးကို မသတ်မှတ်နာမ် (တန်ဝင်းနှင့်) ထားရှိပါ။",
+          "example": {
+            "ar": "الْمَاءُ بَارِدٌ",
+            "en": "The water is cold",
+            "my": "ရေသည် အေးသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "اللَّهُ غَفُورٌ",
+          "en": "Allah is Forgiving",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့အပေါ်တွင် အသေကောင်၊ (ယိုစီးပြီးသည့်)သွေး၊ ဝက်သား နှင့် အလ္လာဟ်အရှင်မြတ်မှလွဲ၍ အခြားအရာများအတွက် ရည်စူး(သတ်ဖြတ်ထား)သည့် သားကောင်များ ကိုသာ အမှန်စင်စစ် တားမြစ်ထားတော်မူသည်။ သို့ရာတွင် (အစားအစာမရရှိ၍ အသက်စိုးရိမ်ရသည်အထိ) အကျပ်အတည်းနှင့် ရင်ဆိုင်ခဲ့ရသူသည် (အရသာခံချင်သည့်)မက်မောခုံမင်သူလည်းမဟုတ်ဘဲ၊ (လိုသည်ထက် ပိုစားသည့်)အစားကျူးသည်လည်းမဟုတ်ဘဲ (မသေရုံစားခဲ့လျှင်)  ထိုသူ၏အပေါ်တွင် မည်သည့်အပြစ်မျှ မရှိပေ။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အလွန်လွတ်ငြိမ်းချမ်းသာခွင့်ပေးတော်မူသောအရှင်၊ အလွန်သနားကြင်နာတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+          "ref": "2:173",
+          "breakdown": {
+            "subject": {
+              "word": "اللَّهُ",
+              "en": "Allah",
+              "note": "Definite Proper Name"
+            },
+            "predicate": {
+              "word": "غَفُورٌ",
+              "en": "Forgiving",
+              "note": "Indefinite Predicate"
+            }
+          },
+          "myanmar_insight": "Allah (သတ်မှတ်နာမ်) နှင့် Ghafurun (မသတ်မှတ်နာမ်) တွဲထားခြင်းဖြင့် ဝါကျတစ်ခု ဖြစ်သွားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Making both words definite",
+          "wrong": {
+            "ar": "اللَّهُ الْغَفُورُ",
+            "note": "This means 'Allah, the Forgiving' (Phrase), not 'Allah is Forgiving' (Sentence)."
+          },
+          "correct": {
+            "ar": "اللَّهُ غَفُورٌ",
+            "en": "Allah is Forgiving",
+            "my": "အလ္လာဟ်အရှင်မြတ်သည် ခွင့်လွှတ်တော်မူသောအရှင် ဖြစ်တော်မူ၏"
+          },
+          "myanmar_tip": "ဝါကျအဆုံးသတ်မှာ 'ဖြစ်သည်' လို့ အဓိပ္ပာယ်ရချင်ရင် ဒုတိယစကားလုံးမှာ 'အာလ်' ဖြုတ်ပြီး 'တန်ဝင်း' ထည့်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Is it a phrase (The X) or a sentence (The X is Y)?",
+          "instruction_my": "၎င်းသည် စကားစုလား သို့မဟုတ် ဝါကျလား ခွဲခြားပါ။",
+          "questions": [
+            {
+              "q": "الْكِتَابُ هُدًى",
+              "answer_en": "Sentence (The Book is a guidance)",
+              "answer_my": "ဝါကျ",
+              "ref": "2:2"
+            },
+            {
+              "q": "الْكِتَابُ الْمُبِينُ",
+              "answer_en": "Phrase (The clear Book)",
+              "answer_my": "စကားစု",
+              "ref": "43:2"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate to English using 'is'",
+          "instruction_my": "'ဖြစ်သည်' ကို သုံး၍ အင်္ဂလိပ်လို ပြန်ဆိုပါ။",
+          "questions": [
+            {
+              "q": "اللَّهُ عَلِيمٌ",
+              "answer_en": "Allah is All-Knowing",
+              "answer_my": "အလ္လာဟ်အရှင်မြတ်သည် အလုံးစုံသိတော်မူသောအရှင် ဖြစ်သည်"
+            },
+            {
+              "q": "السَّمَاءُ بِنَاءٌ",
+              "answer_en": "The sky is a canopy",
+              "answer_my": "မိုးကောင်းကင်သည် အမိုးတစ်ခုဖြစ်သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Create a sentence: 'The Light is Guidance'",
+          "instruction_my": "'အလင်းသည် လမ်းညွှန်ချက်ဖြစ်သည်' ဟု ဝါကျတည်ဆောက်ပါ။",
+          "questions": [
+            {
+              "q": "The Light + Guidance",
+              "answer_en": "Al-Nuru Hudan",
+              "answer_my": "အာလ်-နူးရု ဟူဒန်",
+              "ar": "النُّورُ هُدًى"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Every nominal sentence in the Quran about Allah is an eternal truth. When we say 'Allah is Merciful', it's a constant state that never changes.",
+        "my": "အလ္လာဟ်အရှင်မြတ်နှင့် ပတ်သက်၍ ကုရ်အာန်တွင်ပါသော နာမ်ဝါကျတိုင်းသည် ထာဝရအမှန်တရားများဖြစ်သည်။ 'အလ္လာဟ်အရှင်မြတ်သည် ကရုဏာတော်ရှင်ဖြစ်သည်' ဟုဆိုလျှင် ၎င်းသည် မည်သည့်အခါမျှ မပြောင်းလဲသော အခြေအနေပင်ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:22",
+        "study_number": 1,
+        "arabic_full": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً",
+        "en_sahih": "[He] who made for you the earth a bed and the sky a ceiling",
+        "my_mmsy": "ထိုအရှင်မြတ်သည် အသင်တို့အတွက် ကမ္ဘာမြေကြီးကိုအခင်းအဖြစ်နှင့် ကောင်းကင်ကိုအမိုးအဖြစ် ပြုလုပ်ပေးတော်မူခဲ့သည်။ ထို့ပြင် အရှင်မြတ်သည် ကောင်းကင်မှ မိုးရေကို ရွာသွန်းစေတော်မူခဲ့ပြီး အသင်တို့အတွက် ထိုမိုးရေဖြင့် စားနပ်ရိက္ခာအဖြစ် အသီးအနှံများကို ထွက်ပေါ်စေတော်မူခဲ့သည်။ သို့ဖြစ်ရာ အသင်တို့သည် သိနေကြလျက် အလ္လာဟ် အရှင်မြတ်နှင့် ယှဉ်တွဲကိုးကွယ်မှုများ မပြုလုပ်ကြနှင့်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 22,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002022.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/22",
+        "context": {
+          "en": "Allah listing His blessings to humanity, showing how the universe is designed for our survival.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့အတွက် ဖန်ဆင်းပေးထားသော ကောင်းချီးမင်္ဂလာများကို ရေတွက်ပြနေခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "السَّمَاءَ",
+            "translit": "al-sama'a",
+            "en": "the sky",
+            "my": "မိုးကောင်းကင်ကို",
+            "role_en": "Noun (Object)",
+            "role_my": "ကံပုဒ်",
+            "root": "س م ဝ",
+            "freq": 310
+          },
+          {
+            "ar": "بِنَاءً",
+            "translit": "bina'an",
+            "en": "a canopy / ceiling",
+            "my": "အမိုးအဖြစ်",
+            "role_en": "Noun (Second Object)",
+            "role_my": "ကံပုဒ်",
+            "root": "ب ن ي",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Here, 'Al-Sama' (Definite) and 'Bina'an' (Indefinite) are paired to describe what the sky *is* to us.",
+          "structure_my": "'Al-Sama' (သတ်မှတ်နာမ်) နှင့် 'Bina'an' (မသတ်မှတ်နာမ်) တို့ကို တွဲသုံးခြင်းဖြင့် မိုးကောင်းကင်သည် ကျွန်ုပ်တို့အတွက် အမိုးဖြစ်ကြောင်း ဖော်ပြသည်။",
+          "insight_en": "Both end in Fatha/Tanween Fatha because they are objects of the verb 'made'.",
+          "insight_my": "'ပြုလုပ်သည်' ဟူသော ကြိယာ၏ ကံပုဒ်များဖြစ်သောကြောင့် နှစ်ခုလုံး ဖသ်ဟသိုင်း သရများ ဖြစ်နေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "س م و",
+            "concept_en": "loftiness, something that is high and exalted",
+            "concept_my": "မြင့်မားခြင်း၊ ချီးမြှောက်ခြင်းခံရသောအရာ",
+            "members": [
+              {
+                "ar": "اسْمٌ",
+                "en": "name",
+                "my": "အမည်",
+                "freq": 39
+              }
+            ],
+            "professors_note": "The sky is called 'Sama' because it is physically above us, and a 'Name' is called 'Ism' because it raises the status of the thing mentioned."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ အထက်ရှိ မိုးကောင်းကင်ကို ကြည့်တိုင်း ၎င်းသည် အလ္လာဟ်အရှင်မြတ်က ကျွန်ုပ်တို့အတွက် လုံခြုံစွာ ဖန်ဆင်းပေးထားသော အမိုးတစ်ခုဖြစ်ကြောင်း သတိရသင့်သည်။ ဤမျှကြီးမားသော ဖန်ဆင်းမှုကို ပြုလုပ်နိုင်သော အရှင်မြတ်သည်သာလျှင် ခိုလှုံရာဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "al-arda firashan wa-sama'a bina'an.",
+          "meaning_anchor": "A cozy room where the floor is a rug and the ceiling is the blue sky.",
+          "daily_connection": "Recited when reflecting on nature and creation.",
+          "my": "သဘာဝတရားကို ကြည့်ရှုဆင်ခြင်ချိန်တွင် ဤအာယတ်ကို ရွတ်ဆိုပါ။"
+        }
+      },
+      {
+        "ayah_ref": "An-Nahl 16:65",
+        "study_number": 2,
+        "arabic_full": "وَاللَّهُ أَنزَلَ مِنَ السَّمَاءِ مَاءً",
+        "en_sahih": "And Allah has sent down from the sky, water",
+        "my_mmsy": "ထို့ပြင် အလ္လာဟ်အရှင်မြတ်ပင် မိုးကောင်းကင်မှ ရေကိုချပေးတော်မူခဲ့သည်။ ၎င်းနောက် အရှင်မြတ်သည် ထိုရေနှင့်သေပြီးဖြစ်သောမြေကို ရှင်စေတော်မူခဲ့သည်။ အမှန်စင်စစ် ထိုအထဲ၌ ကြားနာကြသောသူများအတွက် အမှန်ပင် သက်သေ သာဓကရှိသည်။",
+        "audio_ref": {
+          "surah": 16,
+          "ayah": 65,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/016065.mp3"
+        },
+        "qurancom_url": "https://quran.com/16/65",
+        "context": {
+          "en": "Allah showing how He revives the dead earth through rain.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မိုးရေဖြင့် သေဆုံးနေသော မြေပြင်ကို မည်သို့ ပြန်လည်ရှင်သန်စေပုံကို ပြသခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "မَاءً",
+            "translit": "ma'an",
+            "en": "water",
+            "my": "ရေကို",
+            "role_en": "Noun (Object)",
+            "role_my": "ကံပုဒ်",
+            "root": "م و ه",
+            "freq": 63
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The word 'Ma'an' (Water) is indefinite here, suggesting it is a source of blessing in various forms.",
+          "structure_my": "'Ma'an' ကို မသတ်မှတ်နာမ်အဖြစ် သုံးထားခြင်းမှာ ရေသည် ပုံစံအမျိုးမျိုးဖြင့် ကောင်းချီးဖြစ်စေနိုင်ကြောင်း ဆိုလိုသည်။",
+          "insight_en": "The word 'Al-Sama' is definite as it refers to the specific sky above.",
+          "insight_my": "'Al-Sama' သည် ကျွန်ုပ်တို့ သိရှိပြီးသား မိုးကောင်းကင်ဖြစ်၍ သတ်မှတ်နာမ်ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "မ ဝ ဟ",
+            "concept_en": "liquid, the essence of life",
+            "concept_my": "အရည်၊ သက်ရှိတို့၏ အခြေခံအနှစ်သာရ",
+            "members": [],
+            "professors_note": "In the Quran, 'Ma' is the origin of every living thing."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "မိုးရွာသွန်းခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ ကရုဏာတော်ဖြစ်သည်။ ရေသည် သေနေသောမြေကို ရှင်စေသကဲ့သို့ ကုရ်အာန်တရားတော်သည်လည်း သေနေသော နှလုံးသားများကို ရှင်သန်စေနိုင်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "anzala min al-sama'i ma'an.",
+          "meaning_anchor": "Raindrops falling from a vast height.",
+          "daily_connection": "Used when it rains or when drinking water.",
+          "my": "မိုးရွာချိန် သို့မဟုတ် ရေသောက်ချိန်တွင် အလ္လာဟ်အရှင်မြတ်ကို ကျေးဇူးတင်ရန် သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You reviewed how definite and indefinite nouns work together to build basic Quranic sentences and vocabulary about the sky and rain.",
+      "my": "သတ်မှတ်နာမ်နှင့် မသတ်မှတ်နာမ်တို့ ပေါင်းစပ်၍ ဝါကျတည်ဆောက်ပုံကို ပြန်လည်သုံးသပ်ခဲ့ပြီး မိုးကောင်းကင်နှင့် မိုးရေဆိုင်ရာ ကုရ်အာန်ဝေါဟာရများကို လေ့လာခဲ့ပြီးဖြစ်သည်။"
+    }
+  }
+]
