@@ -1,0 +1,1895 @@
+[
+  {
+    "lesson_id": "L2-056",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 56,
+    "title": {
+      "ar": "الْفِعْلُ الْمَاضِي (٦) — جَمْعُ الْمُذَكَّرِ لِلْغَائِبِ",
+      "en": "Past Tense VI — 'They did' (Fa'alū)",
+      "my": "အတိတ်ကာလ ကြိယာ (၆) — သူတို့ပြုလုပ်ခဲ့ကြသည် (အများကိန်း၊ ကျား)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Waw suffix for masculine plural past tense",
+      "grammar_formula": "Root + ـُوا = They did (Masc. Plural)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "ذَكَرُوا",
+        "translit": "zakarū",
+        "en": "they remembered",
+        "my": "၎င်းတို့ အောက်မေ့ သတိရခဲ့ကြသည်",
+        "quran_freq": 270,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلُوا",
+        "root": {
+          "letters": "ذ ك ر",
+          "concept_en": "to remember, mention",
+          "concept_my": "အောက်မေ့ခြင်း၊ သတိရခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dhikr",
+          "image": "A group of men sitting in a circle making remembrance",
+          "cross_language": "Dhikr (Malay/Urdu/Myanmar Muslims use for Zikir)"
+        },
+        "word_family": [
+          {
+            "ar": "ذِكْرٌ",
+            "translit": "dhikrun",
+            "en": "remembrance",
+            "my": "အောက်မေ့မှု",
+            "freq": 292
+          }
+        ],
+        "pattern_unlock": "The 'Waw' and 'Alif' at the end of a verb indicates 'They' (plural men) in the past.",
+        "example": {
+          "ar": "ذَكَرُوا اللَّهَ",
+          "en": "They remembered Allah",
+          "my": "၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်ကို အောက်မေ့သတိရခဲ့ကြသည်",
+          "ref": "3:135"
+        }
+      },
+      {
+        "word": "سَبَّحُوا",
+        "translit": "sabbahū",
+        "en": "they praised / glorified",
+        "my": "၎င်းတို့ သန့်ရှင်းစင်ကြယ်မှုကို ဖော်ကျူးခဲ့ကြသည်",
+        "quran_freq": 90,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلُوا",
+        "root": {
+          "letters": "س ب ح",
+          "concept_en": "to glorify, swim/glide",
+          "concept_my": "ချီးမွမ်းခြင်း၊ သန့်ရှင်းစင်ကြယ်စေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Subhan",
+          "image": "Stars gliding in their orbits glorifying the Creator",
+          "cross_language": "Subhanallah (Commonly used by Myanmar Muslims)"
+        },
+        "word_family": [
+          {
+            "ar": "يُسَبِّحُ",
+            "translit": "yusabbihu",
+            "en": "he glorifies",
+            "my": "သူသည် ချီးမွမ်းအံ့ဩနေ၏",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "Verbs ending in 'u' sound followed by a silent Alif usually mean 'they did'.",
+        "example": {
+          "ar": "فَسَبَّحُوا",
+          "en": "So they glorified",
+          "my": "သို့ဖြစ်၍ ၎င်းတို့သည် သန့်ရှင်းစင်ကြယ်မှုကို ဖော်ကျူးခဲ့ကြသည်",
+          "ref": "Derived from patterns in Al-A'raf"
+        }
+      },
+      {
+        "word": "آمَنُوا",
+        "translit": "āmanū",
+        "en": "they believed",
+        "my": "၎င်းတို့ သက်ဝင်ယုံကြည်ခဲ့ကြသည်",
+        "quran_freq": 258,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلُوا",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "safety, faith, trust",
+          "concept_my": "ယုံကြည်မှု၊ ဘေးကင်းမှု"
+        },
+        "memory_hook": {
+          "sound": "Amen",
+          "image": "A group of people standing firm in their conviction",
+          "cross_language": "Iman (အီမာန်)"
+        },
+        "word_family": [
+          {
+            "ar": "مُؤْمِن",
+            "translit": "mu'min",
+            "en": "believer",
+            "my": "သက်ဝင်ယုံကြည်သူ",
+            "freq": 230
+          }
+        ],
+        "pattern_unlock": "This is the most common verb form in the Quran, occurring hundreds of times.",
+        "example": {
+          "ar": "الَّذِينَ آمَنُوا",
+          "en": "Those who believed",
+          "my": "သက်ဝင်ယုံကြည်ခဲ့ကြသော သူများသည်",
+          "ref": "2:25"
+        }
+      },
+      {
+        "word": "كَفَرُوا",
+        "translit": "kafarū",
+        "en": "they disbelieved",
+        "my": "၎င်းတို့ ငြင်းပယ်ခဲ့ကြသည်",
+        "quran_freq": 289,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلُوا",
+        "root": {
+          "letters": "ك ف ر",
+          "concept_en": "to cover, disbelieve",
+          "concept_my": "ဖုံးအုပ်ခြင်း၊ ငြင်းပယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cover",
+          "image": "Covering the truth with a veil",
+          "cross_language": "Kafir (ကာဖိရ်)"
+        },
+        "word_family": [
+          {
+            "ar": "كُفْر",
+            "translit": "kufr",
+            "en": "disbelief",
+            "my": "ငြင်းပယ်မှု",
+            "freq": 37
+          }
+        ],
+        "pattern_unlock": "Often paired as the opposite of 'āmanū' in Quranic descriptions of groups.",
+        "example": {
+          "ar": "إِنَّ الَّذِينَ كَفَرُوا",
+          "en": "Indeed, those who disbelieved",
+          "my": "ဧကန်စင်စစ် ငြင်းပယ်ခဲ့ကြသူများသည်",
+          "ref": "2:6"
+        }
+      },
+      {
+        "word": "عَمِلُوا",
+        "translit": "amilū",
+        "en": "they did / worked",
+        "my": "၎င်းတို့ ပြုမူဆောင်ရွက်ခဲ့ကြသည်",
+        "quran_freq": 108,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعِلُوا",
+        "root": {
+          "letters": "ع م ل",
+          "concept_en": "to act, work",
+          "concept_my": "အလုပ်လုပ်ခြင်း၊ ပြုမူခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Amal",
+          "image": "People building a structure together",
+          "cross_language": "Amal (အာမယ်လ်)"
+        },
+        "word_family": [
+          {
+            "ar": "عَمَل",
+            "translit": "amal",
+            "en": "deed",
+            "my": "အပြုအမူ",
+            "freq": 30
+          }
+        ],
+        "pattern_unlock": "Almost always follows 'āmanū' to show that faith must be followed by action.",
+        "example": {
+          "ar": "وَعَمِلُوا الصَّالِحَاتِ",
+          "en": "and did righteous deeds",
+          "my": "၎င်းပြင် ကောင်းမြတ်သော အမှုကိစ္စများကို ပြုလုပ်ခဲ့ကြသည်",
+          "ref": "2:25"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمَاضِي لِلْجَمْعِ الْمُذَكَّرِ",
+        "en": "Past Tense Masculine Plural",
+        "my": "အတိတ်ကာလ အများကိန်း (ကျား)"
+      },
+      "formula": {
+        "display": "فَعَلَ + ـُوا = فَعَلُوا",
+        "example": "ظَلَمُوا (They wronged)",
+        "myanmar_read": "မူလကြိယာ၏ အဆုံးတွင် ဝါ့ဖ် (Waw) နှင့် အလစ်ဖ် (Alif) တွဲပေးခြင်း",
+        "key_insight": "The Alif at the end is silent; it is a visual marker to show the word is a plural verb."
+      },
+      "explanation": {
+        "en": "To indicate that a group of males (or a mixed group) performed an action in the past, we add the suffix 'ū' (Waw with Sukun preceded by Damma, and a silent Alif) to the root. This is the 3rd person masculine plural form.",
+        "my": "အတိတ်ကာလတွင် အမျိုးသားအုပ်စုတစ်ခု (သို့မဟုတ် ကျား၊ မ ရောနှောနေသောအုပ်စု) က ပြုလုပ်ခဲ့သည်ကို ပြလိုပါက ကြိယာ၏နောက်တွင် 'အူး' (Waw နှင့် အသံတိတ် Alif) ကို ပေါင်းထည့်ရပါမည်။ ၎င်းကို ရှေ့မှောက်တွင်မရှိသော '၎င်းတို့' (Third Person) အတွက် အသုံးပြုပါသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we add 'ကြသည်' (kya thi) after the verb to show plurality, regardless of gender. Arabic distinguishes gender even in the plural.",
+        "my": "မြန်မာစကားတွင် 'ကြသည်' ဟု အများကိန်းပြုလုပ်ရာတွင် ကျား၊ မ ခွဲခြားမှုမရှိသော်လည်း အာရဗီတွင် ကျားအများကိန်းအတွက် သီးသန့်ပုံစံ ရှိပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The final root letter takes a Damma to match the Waw.",
+          "rule_my": "ဝါ့ဖ် အက္ခရာနှင့် အသံကိုက်ညီစေရန် နောက်ဆုံး မူလအက္ခရာကို ဒမ္မာ (ရှေ့ပစ်) တင်ရမည်။",
+          "example": {
+            "ar": "كَتَبُوا",
+            "en": "They wrote",
+            "my": "၎င်းတို့ ရေးသားခဲ့ကြသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ",
+          "en": "Those who believe and do righteous deeds",
+          "my": "၎င်းနောက် အသင်(တမန်တော်)သည် အီမာန်ယုံကြည်ကြပြီး ကောင်းမြတ်သောလုပ်ရပ်များပြုလုပ်သည့်သူများကို သတင်းကောင်းပေးလိုက်ပါ။ အမှန်စင်စစ် ၎င်းတို့အတွက် ဂျန္နသ်သုခဘုံများရှိသည်။ ထိုသုခဘုံများ၏အောက်တွင် စမ်းရေချောင်းများစီးဆင်းနေသည်။  သုခဘုံသားများသည် ထိုသုခဘုံထဲမှ သစ်သီးဝလံ ကျွေးမွေးခြင်းခံရသည့်အခါတိုင်းတွင် ”ဤသစ်သီးဝလံသည် ယခင်(လောကမှာရှိစဉ်)က ကျွန်ုပ်တို့ကို ကျွေးမွေးခြင်းခံခဲ့ရပြီးဖြစ်သည်”ဟု ပြောဆိုကြလိမ့်မည်။ ၎င်းနောက် သူတို့သည် (အရသာကွဲပြီး) ပုံသဏ္ဍာန်တူသော သစ်သီးဝလံကိုလည်း ကျွေးမွေးခြင်းခံကြရပေဦးမည်။ ထို့ပြင် သူတို့အတွက် သုခဘုံထဲတွင် စင်ကြယ်သန့်ပြန့်သည့် ဇနီးကြင်ရာများလည်း ရှိကြပေဦးမည်။  ထို့ပြင် သူတို့သည် သုခဘုံထဲတွင် အမြဲထာဝရ စံမြန်းနေထိုင်လျက်ရှိကြမည်။",
+          "ref": "2:25",
+          "breakdown": {
+            "subject": {
+              "word": "الَّذِينَ",
+              "en": "Those who",
+              "note": "Relative pronoun"
+            },
+            "predicate": {
+              "word": "آمَنُوا",
+              "en": "they believed",
+              "note": "Past tense plural"
+            }
+          },
+          "myanmar_insight": "Notice how both 'believed' and 'did' use the -ū suffix."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting the silent Alif at the end",
+          "wrong": {
+            "ar": "فَعَلُو",
+            "note": "Missing the Alif al-Fiariqah"
+          },
+          "correct": {
+            "ar": "فَعَلُوا",
+            "en": "They did",
+            "my": "၎င်းတို့ ပြုလုပ်ခဲ့ကြသည်"
+          },
+          "myanmar_tip": "အဆုံးတွင် Alif ပါရမည်ကို သတိပြုပါ။ ၎င်းသည် အများကိန်းဖြစ်ကြောင်း အမှတ်အသားဖြစ်သည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အောက်ပါတို့မှ အများကိန်းကြိယာများကို ရှာဖွေပါ",
+          "questions": [
+            {
+              "q": "خَلَقُوا",
+              "answer_en": "Plural Verb (They created)",
+              "answer_my": "အများကိန်းကြိယာ (၎င်းတို့ ဖန်ဆင်းခဲ့ကြသည်)",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "ذَكَرُوا اللَّهَ",
+              "answer_en": "They remembered Allah",
+              "answer_my": "၎င်းတို့ အလ္လာဟ်ကို အောက်မေ့ခဲ့ကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "အများကိန်းပုံစံ ပြောင်းလဲပါ",
+          "questions": [
+            {
+              "q": "نَصَرَ",
+              "answer_en": "nasarū",
+              "answer_my": "နဆရူး",
+              "ar": "نَصَرُوا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "In the Quran, 'they' often refers to communities of faith or those who turned away. It emphasizes that we are part of a larger collective journey toward Allah.",
+        "my": "ကုရ်အာန်တွင် '၎င်းတို့' ဟု သုံးနှုန်းခြင်းသည် လူမှုအသိုင်းအဝိုင်းတစ်ခုလုံး၏ တာဝန်ယူမှုနှင့် ရလဒ်ကို ဖော်ညွှန်းလေ့ရှိသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:25",
+        "study_number": 1,
+        "arabic_full": "وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ",
+        "en_sahih": "And give good tidings to those who believe and do righteous deeds that they will have gardens...",
+        "my_mmsy": "၎င်းနောက် အသင်(တမန်တော်)သည် အီမာန်ယုံကြည်ကြပြီး ကောင်းမြတ်သောလုပ်ရပ်များပြုလုပ်သည့်သူများကို သတင်းကောင်းပေးလိုက်ပါ။ အမှန်စင်စစ် ၎င်းတို့အတွက် ဂျန္နသ်သုခဘုံများရှိသည်။ ထိုသုခဘုံများ၏အောက်တွင် စမ်းရေချောင်းများစီးဆင်းနေသည်။  သုခဘုံသားများသည် ထိုသုခဘုံထဲမှ သစ်သီးဝလံ ကျွေးမွေးခြင်းခံရသည့်အခါတိုင်းတွင် ”ဤသစ်သီးဝလံသည် ယခင်(လောကမှာရှိစဉ်)က ကျွန်ုပ်တို့ကို ကျွေးမွေးခြင်းခံခဲ့ရပြီးဖြစ်သည်”ဟု ပြောဆိုကြလိမ့်မည်။ ၎င်းနောက် သူတို့သည် (အရသာကွဲပြီး) ပုံသဏ္ဍာန်တူသော သစ်သီးဝလံကိုလည်း ကျွေးမွေးခြင်းခံကြရပေဦးမည်။ ထို့ပြင် သူတို့အတွက် သုခဘုံထဲတွင် စင်ကြယ်သန့်ပြန့်သည့် ဇနီးကြင်ရာများလည်း ရှိကြပေဦးမည်။  ထို့ပြင် သူတို့သည် သုခဘုံထဲတွင် အမြဲထာဝရ စံမြန်းနေထိုင်လျက်ရှိကြမည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 25,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002025.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/25",
+        "context": {
+          "en": "After warning the disbelievers, Allah gives glad tidings to the believers describing their reward in Paradise.",
+          "my": "ငြင်းပယ်သူများကို သတိပေးပြီးနောက် အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်သူများအတွက် သတင်းကောင်းနှင့် ဂျန္နသ်အကြောင်းကို မိန့်ကြားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "آمَنُوا",
+            "translit": "āmanū",
+            "en": "they believed",
+            "my": "၎င်းတို့ယုံကြည်ခဲ့ကြသည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "أ م ن",
+            "freq": 258
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Two verbs linked by 'and' (wa) both sharing the masculine plural past suffix -ū.",
+          "structure_my": "ကြိယာနှစ်ခုလုံးတွင် အများကိန်းနောက်ဆက်တွဲ -ū ပါရှိနေခြင်း။",
+          "insight_en": "The combination of Iman and Amal is a consistent pair in Quranic grammar.",
+          "insight_my": "အီမာန် (ယုံကြည်ချက်) နှင့် အာမယ်လ် (အပြုအမူ) သည် အမြဲတွဲနေရမည်ဖြစ်ကြောင်း ပြသနေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "أ م ن",
+            "concept_en": "The root conveys safety from fear and trust in truth.",
+            "concept_my": "ကြောက်ရွံ့ခြင်းမှ ကင်းဝေးခြင်းနှင့် သစ္စာတရားကို ယုံကြည်စိတ်ချခြင်း။",
+            "members": [
+              {
+                "ar": "آمِن",
+                "en": "safe",
+                "my": "ဘေးကင်းသော",
+                "freq": 15
+              }
+            ],
+            "professors_note": "True belief (Iman) provides internal security (Amn)."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ကျွန်ုပ်တို့အား မျှော်လင့်ချက်ပေးသည်။ ယုံကြည်ရုံသာမက ကောင်းမြတ်သော အလုပ်များကိုလည်း စုပေါင်းလုပ်ဆောင်ရန် တိုက်တွန်းထားသည်။ မိမိတစ်ဦးတည်းမဟုတ်ဘဲ အများကိန်းပုံစံဖြင့် သုံးနှုန်းထားခြင်းမှာ မွတ်စလင်မ်ထုတစ်ခုလုံး၏ စည်းလုံးမှုကို ဖော်ပြခြင်းဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Long 'ū' sounds create a feeling of group action.",
+          "meaning_anchor": "A lush garden waiting for a group of successful travelers.",
+          "daily_connection": "Recited often in Friday sermons regarding righteous deeds.",
+          "my": "အဆုံးသတ်ရှိ အူး (ū) အသံရှည်ကို အာရုံစိုက်ခြင်းဖြင့် အများကိန်းဖြစ်ကြောင်း မှတ်သားနိုင်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You learned how to identify and form the 'they did' (masculine plural) form in the past tense using the suffix -ū. This is essential for understanding descriptions of groups in the Quran.",
+      "my": "အတိတ်ကာလတွင် '၎င်းတို့ ပြုလုပ်ခဲ့ကြသည်' ဆိုသည့် အများကိန်းပုံစံကို သင်ယူခဲ့ပြီးဖြစ်သည်။ ၎င်းသည် ကုရ်အာန်ပါ လူစုလူဝေးများအကြောင်း ဖော်ပြချက်များကို နားလည်ရန် အလွန်အရေးကြီးပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-057",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 57,
+    "title": {
+      "ar": "الْفِعْلُ الْمَاضِي (٧) — جَمْعُ الْمُؤَنَّثِ لِلْغَائِبِ",
+      "en": "Past Tense VII — 'They did (f)' (Fa'alna)",
+      "my": "အတိတ်ကာလ ကြိယာ (၇) — ၎င်းတို့ (မ) ပြုလုပ်ခဲ့ကြသည်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Nūn suffix for feminine plural past tense",
+      "grammar_formula": "Root (with Sukun) + ـْنَ = They did (Fem. Plural)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "قُلْنَ",
+        "translit": "qulna",
+        "en": "they said (f)",
+        "my": "၎င်းတို့ (အမျိုးသမီးများ) ပြောခဲ့ကြသည်",
+        "quran_freq": 12,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فُلْنَ",
+        "root": {
+          "letters": "ق و ل",
+          "concept_en": "to say, speak",
+          "concept_my": "ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Quill (to write what they said)",
+          "image": "A group of ladies in conversation",
+          "cross_language": "Qaul (ကောင်လ်)"
+        },
+        "word_family": [
+          {
+            "ar": "قَالَ",
+            "translit": "qāla",
+            "en": "he said",
+            "my": "သူပြောခဲ့သည်",
+            "freq": 1700
+          }
+        ],
+        "pattern_unlock": "The short 'na' (without Alif) indicates a group of women in the past tense.",
+        "example": {
+          "ar": "وَقُلْنَ حَاشَ لِلَّهِ",
+          "en": "and they said, 'Perfect is Allah!'",
+          "my": "၎င်းပြင် ၎င်းတို့က 'အလ္လာဟ်အရှင်မြတ်သည် အပြစ်ကင်းစင်တော်မူပါပေသည်' ဟု ပြောခဲ့ကြသည်",
+          "ref": "12:31"
+        }
+      },
+      {
+        "word": "فَعَلْنَ",
+        "translit": "fa'alna",
+        "en": "they did (f)",
+        "my": "၎င်းတို့ (မ) ပြုလုပ်ခဲ့ကြသည်",
+        "quran_freq": 5,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فَعَلْنَ",
+        "root": {
+          "letters": "ف ع ل",
+          "concept_en": "to do, act",
+          "concept_my": "ပြုလုပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "None",
+          "image": "A group of women performing a task",
+          "cross_language": "Fi'l (ဖေလ်)"
+        },
+        "word_family": [
+          {
+            "ar": "فَعَلَ",
+            "translit": "fa'ala",
+            "en": "he did",
+            "my": "သူပြုလုပ်ခဲ့သည်",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "The base root gets a Sukun before the 'na' suffix.",
+        "example": {
+          "ar": "فِيمَا فَعَلْنَ",
+          "en": "in what they did",
+          "my": "၎င်းတို့ ပြုလုပ်ခဲ့ကြသော အရာတွင်",
+          "ref": "2:234"
+        }
+      },
+      {
+        "word": "أَتَيْنَ",
+        "translit": "ataina",
+        "en": "they came (f)",
+        "my": "၎င်းတို့ (မ) လာခဲ့ကြသည်",
+        "quran_freq": 8,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فَعَلْنَ",
+        "root": {
+          "letters": "أ ت ي",
+          "concept_en": "to come, bring",
+          "concept_my": "လာရောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Attain",
+          "image": "Women arriving at a gathering",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "آتَى",
+            "translit": "ātā",
+            "en": "he gave",
+            "my": "သူပေးခဲ့သည်",
+            "freq": 260
+          }
+        ],
+        "pattern_unlock": "Irregular roots like this still follow the 'na' ending for feminine plural.",
+        "example": {
+          "ar": "إِذَا أَتَيْنَ",
+          "en": "When they have come",
+          "my": "၎င်းတို့ လာခဲ့ကြသောအခါ",
+          "ref": "4:15"
+        }
+      },
+      {
+        "word": "قَطَّعْنَ",
+        "translit": "qatta'na",
+        "en": "they cut (f)",
+        "my": "၎င်းတို့ (မ) လှီးဖြတ်ခဲ့ကြသည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فَعَّلْنَ",
+        "root": {
+          "letters": "ق ط ع",
+          "concept_en": "to cut, sever",
+          "concept_my": "ဖြတ်တောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cut",
+          "image": "Knives being used by multiple people",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "قَطَعَ",
+            "translit": "qata'a",
+            "en": "he cut",
+            "my": "သူဖြတ်ခဲ့သည်",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "The Shaddah in the middle emphasizes the intensity of the action.",
+        "example": {
+          "ar": "وَقَطَّعْنَ أَيْدِيَهُنَّ",
+          "en": "and they cut their hands",
+          "my": "၎င်းပြင် ၎င်းတို့သည် မိမိတို့၏လက်များကို လှီးဖြတ်မိခဲ့ကြသည်",
+          "ref": "12:31"
+        }
+      },
+      {
+        "word": "أَطَعْنَ",
+        "translit": "ata'na",
+        "en": "they obeyed (f)",
+        "my": "၎င်းတို့ (မ) နာခံခဲ့ကြသည်",
+        "quran_freq": 2,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "أَفْعَلْنَ",
+        "root": {
+          "letters": "ط و ع",
+          "concept_en": "to obey, follow",
+          "concept_my": "နာခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Attend (to orders)",
+          "image": "Soldiers following orders (but feminine context)",
+          "cross_language": "Ita'at (အေသာအသ်)"
+        },
+        "word_family": [
+          {
+            "ar": "طَاعَة",
+            "translit": "tā'at",
+            "en": "obedience",
+            "my": "နာခံမှု",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The middle weak letter disappears in this conjugation.",
+        "example": {
+          "ar": "فَإِنْ أَطَعْنَكُمْ",
+          "en": "But if they obey you",
+          "my": "သို့ရာတွင် အကယ်၍ ၎င်းတို့သည် သင်တို့ကို နာခံခဲ့ကြလျှင်",
+          "ref": "4:34"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمَاضِي لِلْجَمْعِ الْمُؤَنَّثِ",
+        "en": "Past Tense Feminine Plural",
+        "my": "အတိတ်ကာလ အများကိန်း (မ)"
+      },
+      "formula": {
+        "display": "فَعَلْ + ـْنَ = فَعَلْنَ",
+        "example": "ذَهَبْنَ (They went - female)",
+        "myanmar_read": "မူလကြိယာ၏ နောက်ဆုံးအက္ခရာကို သကုန်းန် (အသတ်) တင်ပြီး 'န' (Na) ပေါင်းထည့်ခြင်း",
+        "key_insight": "The 'Na' is short. If it was long (Nā), it would mean 'We'."
+      },
+      "explanation": {
+        "en": "To refer to a group of females in the past tense, we add a short 'Na' (Nūn with Fatha) to the root, which must have a Sukun on its final letter. This is less common than the masculine plural but vital for certain stories in the Quran.",
+        "my": "အတိတ်ကာလတွင် အမျိုးသမီးအုပ်စုတစ်ခုက ပြုလုပ်ခဲ့သည်ကို ပြလိုပါက ကြိယာ၏နောက်ဆုံးအက္ခရာကို အသတ်တင်၍ 'န' (Na) အတိုကို ပေါင်းရပါမည်။ 'နား' (Nā) ဟု အသံမဆွဲရပါ။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar grammar uses the same plural marker for all genders, but Arabic is very specific about female groups.",
+        "my": "မြန်မာစကားတွင် '၎င်းတို့' ဟုသာ သုံးသော်လည်း အာရဗီတွင် အမျိုးသမီးသီးသန့်အုပ်စုအတွက် 'န' (Na) အဆုံးသတ်ကို သုံးပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The 3rd root letter must carry a Sukun.",
+          "rule_my": "တတိယမြောက် မူလအက္ခရာသည် အသတ် (Sukun) ဖြစ်ရမည်။",
+          "example": {
+            "ar": "خَرَجْنَ",
+            "en": "They (f) went out",
+            "my": "၎င်းတို့ (မ) ထွက်ခွာခဲ့ကြသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ وَقَطَّعْنَ أَيْدِيَهُنَّ",
+          "en": "So when they saw him, they greatly admired him and cut their hands",
+          "my": "MYANMAR_PLACE_HOLDER_S12_A31",
+          "ref": "12:31",
+          "breakdown": {
+            "subject": {
+              "word": "رَأَيْنَ",
+              "en": "they saw (f)",
+              "note": "Root is R-A-Y"
+            },
+            "predicate": {
+              "word": "قَطَّعْنَ",
+              "en": "they cut (f)",
+              "note": "Intensive form"
+            }
+          },
+          "myanmar_insight": "In the story of Prophet Yusuf (as), the women of the city are described using this feminine plural form."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing 'na' (they-f) with 'nā' (we)",
+          "wrong": {
+            "ar": "قُلْنَا",
+            "note": "This means 'We said'"
+          },
+          "correct": {
+            "ar": "قُلْنَ",
+            "en": "They (f) said",
+            "my": "၎င်းတို့ (မ) ပြောခဲ့ကြသည်"
+          },
+          "myanmar_tip": "အသံအရှည်အတိုကို ဂရုစိုက်ပါ။ 'န' အတိုသည် '၎င်းတို့(မ)' ဖြစ်ပြီး 'နား' အရှည်သည် 'ကျွန်ုပ်တို့' ဖြစ်သည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အမျိုးသမီးအများကိန်း ကြိယာများကို ရှာပါ",
+          "questions": [
+            {
+              "q": "دَخَلْنَ",
+              "answer_en": "They (f) entered",
+              "answer_my": "၎င်းတို့ (မ) ဝင်ရောက်ခဲ့ကြသည်",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "أَطَعْنَ اللَّهَ",
+              "answer_en": "They (f) obeyed Allah",
+              "answer_my": "၎င်းတို့ (မ) အလ္လာဟ်ကို နာခံခဲ့ကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "အမျိုးသမီးအများကိန်းပုံစံ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "جَلَسَ",
+              "answer_en": "jalasna",
+              "answer_my": "ဂျလတ်စန",
+              "ar": "جَلَسْنَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "This pattern highlights the roles and stories of women in the Quran, showing that their actions and words are recorded and honored in the Divine text.",
+        "my": "ဤပုံစံသည် ကုရ်အာန်တွင် အမျိုးသမီးများ၏ အခန်းကဏ္ဍနှင့် ၎င်းတို့၏ လုပ်ဆောင်ချက်များကို သီးသန့် အလေးပေး ဖော်ပြထားကြောင်း ပြသနေပါသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Yusuf 12:31",
+        "study_number": 1,
+        "arabic_full": "فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلَّهِ",
+        "en_sahih": "So when they saw him, they greatly admired him and cut their hands and said, 'Perfect is Allah!'",
+        "my_mmsy": "ထို့နောက် ထိုအဇီးဇ်၏ကြင်ရာသည် ထို(မြိ့ုထဲမှ)မိန်းမများ၏ ပရိယာယ်ဉာဏ်ဆင်မှုကို  ကြားသိရသောခါ သူတို့အား (သူမ၏အိမ်၌ ဧည့်ခံကျွေးမွေးရန်)ဖိတ်ခေါ်ခဲ့သည်။ ၎င်းနောက် သူတို့အတွက် (စည်းစိမ်နှင့် ထိုင်နိုင်ရန်)မှီအုံးများကို အဆင်သင့် ပြင်ဆင်ထားခဲ့သည်။ ၎င်းနောက် ထိုမိန်းမတိုင်းကို (သစ်သီးဝလံများအား လှီးပြီးစားရန်)ဓားတစ်ချောင်းစီပေးပြီးနောက် (ယူစွဖ်အား) အသင်သည် ထိုမိန်းမများ၏ရှေ့သို့ထွက်ခဲ့ဟု ပြောဆိုခဲ့သည်။ ထို့နောက် ထိုမိန်းမများသည် ၎င်းကို တွေ့မြင်ကြသောအခါ၊ ၎င်းနှင့်ပတ်သက်၍ အံ့သြသွားခဲ့ကြသည်။ ၎င်းနောက် သူမတို့သည် (သစ်သီးဝလံများကို လှီးမည့်အစား)သူမတို့၏လက်များကို လှီးမိကြကုန်သည်။ ၎င်းနောက် သူမတို့က အလ္လာဟ်အရှင်မြတ်ထံတော်၌ ခိုလှုံပါသည်၊ ဤသည် လူသားတစ်ဦးမဖြစ်နိုင်ပေ၊ ဤသည် မြင့်မြတ်သော ကောင်းကင်တမန်တစ်ပါးသာဖြစ်သည်ဟု ပြောဆိုကြသည်။",
+        "audio_ref": {
+          "surah": 12,
+          "ayah": 31,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/012031.mp3"
+        },
+        "qurancom_url": "https://quran.com/12/31",
+        "context": {
+          "en": "The women of the city were mocking the minister's wife, so she invited them to see Yusuf's beauty.",
+          "my": "မြို့ထဲမှ အမျိုးသမီးများသည် ဝန်ကြီး၏ဇနီးကို ကဲ့ရဲ့နေကြသဖြင့် သူမက ယူစွတ်ဖ် (အလိုင်ဟစ္စလာမ်) ၏ အလှတရားကို မြင်နိုင်ရန် ၎င်းတို့ကို ဖိတ်ကြားခဲ့သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "رَأَيْنَ",
+            "translit": "ra'aina",
+            "en": "they saw (f)",
+            "my": "၎င်းတို့(မ) မြင်ခဲ့ကြသည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ရ အ ယ",
+            "freq": 8
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Multiple verbs ending in -na: ra'aina (saw), akbarna (admired), qatta'na (cut), qulna (said).",
+          "structure_my": "-na ဖြင့် ဆုံးသော ကြိယာအများအပြားကို သုံးစွဲထားသည်။",
+          "insight_en": "The sequence of actions creates a vivid scene of communal shock and awe.",
+          "insight_my": "အမျိုးသမီးများ၏ တုံ့ပြန်မှုကို ကွင်းကွင်းကွက်ကွက် မြင်သာစေရန် ဤပုံစံကို သုံးထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "က ပ ရ",
+            "concept_en": "To be great, to magnify something in one's eyes.",
+            "concept_my": "ကြီးကျယ်ခြင်း၊ တစ်စုံတစ်ခုကို အလွန်အမင်း အထင်ကြီးခြင်း။",
+            "members": [
+              {
+                "ar": "أَكْبَر",
+                "en": "greater",
+                "my": "ပို၍ကြီးသော",
+                "freq": 20
+              }
+            ],
+            "professors_note": "Akbarna (with suffix -hu) means they deemed him 'Kabir' (great)."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ယူစွတ်ဖ် နဗီ၏ အလှတရားကြောင့် အမျိုးသမီးများ မိမိကိုယ်ကို ထိခိုက်မိသည်အထိ ဖြစ်သွားခြင်းကို ဤအာယသ်က ဖော်ပြသည်။ ဘုရားသခင် ဖန်ဆင်းထားသော အလှတရားသည်ပင် ဤမျှ စွဲမက်ဖွယ်ကောင်းပါက ဖန်ဆင်းရှင်၏ ကြီးကျယ်မှုကို ကျွန်ုပ်တို့ ပို၍ ဆင်ခြင်သင့်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The repetitive -na suffix creates a staccato, fast-paced rhythm.",
+          "meaning_anchor": "A group of people collectively losing focus due to beauty.",
+          "daily_connection": "Used when discussing the story of Yusuf in study circles.",
+          "my": "-na အဆုံးသတ်သည် အမျိုးသမီးများကို ရည်ညွှန်းကြောင်း မှတ်ထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored the feminine plural past tense suffix -na. Although less frequent, it is vital for understanding specific narratives and groups in the Quranic text.",
+      "my": "အမျိုးသမီးအများကိန်း အတိတ်ကာလ ကြိယာပုံစံ -na ကို လေ့လာခဲ့ပြီးဖြစ်သည်။ ၎င်းသည် ကုရ်အာန်ပါ သမိုင်းကြောင်းများကို ပိုမိုနားလည်စေရန် အထောက်အကူပြုသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-058",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 58,
+    "title": {
+      "ar": "الْفِعْلُ الْمَاضِي (٨) — جَمْعُ الْمُخَاطَبِ",
+      "en": "Past Tense VIII — 'You all did' (Fa'altum)",
+      "my": "အတိတ်ကာလ ကြိယာ (၈) — သင်တို့ ပြုလုပ်ခဲ့ကြသည်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Tum suffix for 2nd person masculine plural past",
+      "grammar_formula": "Root (with Sukun) + ـْتُمْ = You all did"
+    },
+    "section_1_vocab": [
+      {
+        "word": "عَهِدْتُمْ",
+        "translit": "'ahidtum",
+        "en": "you all promised / covenanted",
+        "my": "သင်တို့ ပဋိညာဉ်ပြုခဲ့ကြသည်",
+        "quran_freq": 10,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعِلْتُمْ",
+        "root": {
+          "letters": "ع هـ د",
+          "concept_en": "covenant, promise, knowledge",
+          "concept_my": "ကတိကဝတ်၊ ပဋိညာဉ်"
+        },
+        "memory_hook": {
+          "sound": "A-head (keeping a promise head-on)",
+          "image": "A group of people shaking hands on a deal",
+          "cross_language": "Ahd (အဟ်ဒ်)"
+        },
+        "word_family": [
+          {
+            "ar": "عَهْد",
+            "translit": "ahd",
+            "en": "covenant",
+            "my": "ပဋိညာဉ်",
+            "freq": 46
+          }
+        ],
+        "pattern_unlock": "The 'tum' suffix is the 'you all' version of the 'ta' (you) we learned earlier.",
+        "example": {
+          "ar": "بِمَا عَهِدْتُمْ",
+          "en": "by what you covenanted",
+          "my": "သင်တို့ ပဋိညာဉ်ပြုခဲ့သော အရာဖြင့်",
+          "ref": "Derived from patterns in Al-Nahl"
+        }
+      },
+      {
+        "word": "آتَيْتُمْ",
+        "translit": "ātaytum",
+        "en": "you all gave / brought",
+        "my": "သင်တို့ ပေးခဲ့ကြသည်",
+        "quran_freq": 15,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلْتُمْ",
+        "root": {
+          "letters": "أ ت ي",
+          "concept_en": "to come, bring, give",
+          "concept_my": "ပေးကမ်းခြင်း၊ လာရောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "At-tum (like adding something to them)",
+          "image": "Hands outstretched giving charity",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "آتَوْا",
+            "translit": "ātaw",
+            "en": "they gave",
+            "my": "၎င်းတို့ပေးခဲ့သည်",
+            "freq": 30
+          }
+        ],
+        "pattern_unlock": "Note the diphthong 'ay' before the 'tum' in this specific root.",
+        "example": {
+          "ar": "مَا آتَيْتُمْ",
+          "en": "what you have given",
+          "my": "သင်တို့ ပေးခဲ့ကြသော အရာ",
+          "ref": "30:39"
+        }
+      },
+      {
+        "word": "ظَلَمْتُمْ",
+        "translit": "zalamtum",
+        "en": "you all wronged",
+        "my": "သင်တို့ မတရားပြုခဲ့ကြသည်",
+        "quran_freq": 8,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلْتُمْ",
+        "root": {
+          "letters": "ظ ل م",
+          "concept_en": "darkness, injustice",
+          "concept_my": "မတရားမှု၊ မှောင်မိုက်မှု"
+        },
+        "memory_hook": {
+          "sound": "Zulum",
+          "image": "People acting unfairly to others",
+          "cross_language": "Zulum (ဇုလွမ်း)"
+        },
+        "word_family": [
+          {
+            "ar": "ظَالِم",
+            "translit": "zālim",
+            "en": "wrongdoer",
+            "my": "မတရားပြုသူ",
+            "freq": 150
+          }
+        ],
+        "pattern_unlock": "Used in the Quran when Allah addresses those who strayed.",
+        "example": {
+          "ar": "إِذْ ظَلَمْتُمْ",
+          "en": "when you wronged",
+          "my": "သင်တို့ မတရားပြုခဲ့ကြစဉ်က",
+          "ref": "43:39"
+        }
+      },
+      {
+        "word": "كُنْتُمْ",
+        "translit": "kuntum",
+        "en": "you all were",
+        "my": "သင်တို့ ဖြစ်ခဲ့ကြသည်",
+        "quran_freq": 280,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فُلْتُمْ",
+        "root": {
+          "letters": "က ဝ န",
+          "concept_en": "to be, exist",
+          "concept_my": "ဖြစ်တည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kun (Be!)",
+          "image": "A crowd in a specific state",
+          "cross_language": "Kyun (used in various contexts)"
+        },
+        "word_family": [
+          {
+            "ar": "كَانَ",
+            "translit": "kāna",
+            "en": "he was",
+            "my": "သူဖြစ်ခဲ့သည်",
+            "freq": 1350
+          }
+        ],
+        "pattern_unlock": "One of the most frequent words in the Quran when addressing an audience.",
+        "example": {
+          "ar": "كُنْتُمْ خَيْرَ أُمَّةٍ",
+          "en": "You were the best nation",
+          "my": "သင်တို့သည် အကောင်းဆုံးသော အဖွဲ့အစည်း ဖြစ်ခဲ့ကြသည်",
+          "ref": "3:110"
+        }
+      },
+      {
+        "word": "تَرَكْتُمْ",
+        "translit": "taraktum",
+        "en": "you all left",
+        "my": "သင်တို့ စွန့်ခွာခဲ့ကြသည်",
+        "quran_freq": 5,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلْتُمْ",
+        "root": {
+          "letters": "တ ရ က",
+          "concept_en": "to leave, abandon",
+          "concept_my": "စွန့်လွှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Track (leaving a track behind)",
+          "image": "A group walking away from their belongings",
+          "cross_language": "Tark (သရက်ခ်)"
+        },
+        "word_family": [
+          {
+            "ar": "تَرَكَ",
+            "translit": "taraka",
+            "en": "he left",
+            "my": "သူစွန့်ခဲ့သည်",
+            "freq": 40
+          }
+        ],
+        "pattern_unlock": "Used in contexts of inheritance or leaving behind the world.",
+        "example": {
+          "ar": "مَا تَرَكْتُمْ",
+          "en": "what you left",
+          "my": "သင်တို့ စွန့်ထားခဲ့ကြသော အရာ",
+          "ref": "4:12"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمَاضِي لِلْمُخَاطَبِ (جَمْعُ الْمُذَكَّرِ)",
+        "en": "Past Tense 2nd Person Plural",
+        "my": "အတိတ်ကာလ ဒုတိယနာမ်စား (သင်တို့)"
+      },
+      "formula": {
+        "display": "فَعَلْ + ـْتُمْ = فَعَلْتُمْ",
+        "example": "آمَنْتُمْ (You all believed)",
+        "myanmar_read": "မူလကြိယာကို အသတ်တင်ပြီး 'တွမ်းမ်' (Tum) ပေါင်းထည့်ခြင်း",
+        "key_insight": "Think of the English word 'Them' but starting with a 'T' and meaning 'You all'."
+      },
+      "explanation": {
+        "en": "To address a group of people and tell them what they did, we use the suffix 'tum'. This is the plural version of 'ta' (you-singular). In the Quran, Allah often uses this to speak directly to the Believers or to humanity.",
+        "my": "ရှေ့မှောက်တွင်ရှိသော လူအုပ်စုကို 'သင်တို့ ပြုလုပ်ခဲ့ကြသည်' ဟု ပြောဆိုလိုပါက ကြိယာ၏နောက်တွင် 'တွမ်းမ်' (Tum) ကို ပေါင်းရပါမည်။ ၎င်းသည် 'သ' (Ta - မင်း) ၏ အများကိန်းပုံစံဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar uses 'သင်တို့' (thin toe) + verb + 'ခဲ့ကြသည်' (khe kya thi). Arabic combines all these into one word.",
+        "my": "မြန်မာစကားတွင် 'သင်တို့...ခဲ့ကြသည်' ဟု ခွဲပြောရသော်လည်း အာရဗီတွင် စကားလုံးတစ်လုံးတည်းဖြင့် ဖော်ပြနိုင်ပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The final root letter must have a Sukun before adding -tum.",
+          "rule_my": "-tum မပေါင်းမီ မူလအက္ခရာ၏ နောက်ဆုံးစာလုံးသည် အသတ် (Sukun) ဖြစ်ရမည်။",
+          "example": {
+            "ar": "دَخَلْتُمْ",
+            "en": "You all entered",
+            "my": "သင်တို့ ဝင်ရောက်ခဲ့ကြသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "كُنْتُمْ خَيْرَ أُمَّةٍ",
+          "en": "You were the best nation",
+          "my": "အသင်တို့သည် လူများအတွက် ထုတ်ဖော်ခြင်းခံရသော အကောင်းဆုံးအုပ်စုဖြစ်သည်။  (အဘယ့်ကြောင့်ဆိုသော်)အသင်တို့သည် ကောင်းရာများကို ညွှန်ကြားပြီး စက်ဆုပ်ဖွယ်ရာများမှ တားမြစ်ကြသည်။ ၎င်းပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကိုလည်း ယုံကြည်ကြသည်။  ထို့ပြင် အကယ်၍ ကျမ်းရသူများသည် အီမာန်ယုံကြည်ခဲ့ကြမည်ဆိုလျှင် အမှန်ပင် သူတို့အတွက် ပိုကောင်းသည်။ သူတို့ထဲတွင် ယုံကြည်သူများလည်းရှိသည်၊  ၎င်းပြင် သူတို့ထဲမှ အများစုသည် အမိန့်မနာခံ ဖီဆန်သူများပင် ဖြစ်ကြသည်။",
+          "ref": "3:110",
+          "breakdown": {
+            "subject": {
+              "word": "كُنْتُمْ",
+              "en": "You all were",
+              "note": "Root K-W-N"
+            },
+            "predicate": {
+              "word": "خَيْرَ أُمَّةٍ",
+              "en": "best nation",
+              "note": "Noun phrase"
+            }
+          },
+          "myanmar_insight": "This address is to the Ummah of Prophet Muhammad (saw)."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing -tum (you all) with -hum (them)",
+          "wrong": {
+            "ar": "فَعَلُوهُمْ",
+            "note": "-hum is a pronoun 'them', not a verb ending for 'you'"
+          },
+          "correct": {
+            "ar": "فَعَلْتُمْ",
+            "en": "You all did",
+            "my": "သင်တို့ ပြုလုပ်ခဲ့ကြသည်"
+          },
+          "myanmar_tip": "'သ' (T) သံပါလျှင် 'သင်တို့' (You) ဖြစ်ပြီး 'ဟ' (H) သံပါလျှင် '၎င်းတို့' (They) ဖြစ်ကြောင်း မှတ်သားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "သင်တို့ (အများကိန်း) ပုံစံများကို ရှာပါ",
+          "questions": [
+            {
+              "q": "أَرَدْتُمْ",
+              "answer_en": "You all intended",
+              "answer_my": "သင်တို့ ရည်ရွယ်ခဲ့ကြသည်",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "ظَلَمْتُمْ أَنْفُسَكُمْ",
+              "answer_en": "You wronged yourselves",
+              "answer_my": "သင်တို့သည် မိမိတို့ကိုယ်ကို မတရားပြုခဲ့ကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "သင်တို့ (အများကိန်း) ပုံစံသို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "شَرِبَ",
+              "answer_en": "sharibtum",
+              "answer_my": "ရှရစ်ဗ်တွမ်းမ်",
+              "ar": "شَرِبْتُمْ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "When Allah says 'Kuntum' or 'Fa'altum', He is looking at our collective actions. It reminds us of our identity as an Ummah.",
+        "my": "အလ္လာဟ်အရှင်မြတ်က 'သင်တို့' ဟု မိန့်ကြားခြင်းသည် ကျွန်ုပ်တို့၏ စုပေါင်းတာဝန်ယူမှုကို သတိပေးနေခြင်းဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Ali 'Imran 3:110",
+        "study_number": 1,
+        "arabic_full": "كُنْتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ",
+        "en_sahih": "You are the best nation produced [as an example] for mankind.",
+        "my_mmsy": "အသင်တို့သည် လူများအတွက် ထုတ်ဖော်ခြင်းခံရသော အကောင်းဆုံးအုပ်စုဖြစ်သည်။  (အဘယ့်ကြောင့်ဆိုသော်)အသင်တို့သည် ကောင်းရာများကို ညွှန်ကြားပြီး စက်ဆုပ်ဖွယ်ရာများမှ တားမြစ်ကြသည်။ ၎င်းပြင် အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်ကိုလည်း ယုံကြည်ကြသည်။  ထို့ပြင် အကယ်၍ ကျမ်းရသူများသည် အီမာန်ယုံကြည်ခဲ့ကြမည်ဆိုလျှင် အမှန်ပင် သူတို့အတွက် ပိုကောင်းသည်။ သူတို့ထဲတွင် ယုံကြည်သူများလည်းရှိသည်၊  ၎င်းပြင် သူတို့ထဲမှ အများစုသည် အမိန့်မနာခံ ဖီဆန်သူများပင် ဖြစ်ကြသည်။",
+        "audio_ref": {
+          "surah": 3,
+          "ayah": 110,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/003110.mp3"
+        },
+        "qurancom_url": "https://quran.com/3/110",
+        "context": {
+          "en": "Allah is describing the honor and the duty of the Muslim Ummah based on their actions.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မွတ်စလင်မ်အဖွဲ့အစည်း၏ ဂုဏ်ဒြပ်နှင့် တာဝန်ဝတ္တရားများကို ဖော်ပြနေခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "كُنْتُمْ",
+            "translit": "kuntum",
+            "en": "you all were/are",
+            "my": "သင်တို့ဖြစ်ခဲ့ကြသည်",
+            "role_en": "Verb (to be)",
+            "role_my": "ကြိယာ",
+            "root": "က ဝ န",
+            "freq": 280
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb 'Kāna' is conjugated with -tum to address the believers.",
+          "structure_my": "Kāna ကြိယာကို -tum နောက်ဆက်တွဲဖြင့် အသုံးပြုထားသည်။",
+          "insight_en": "Although it is past tense (were), in Quranic context it often implies a continuous state (you are).",
+          "insight_my": "အတိတ်ကာလပုံစံဖြစ်သော်လည်း ယနေ့တိုင် အကျုံးဝင်သော ဂုဏ်ပုဒ်တစ်ခုဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "က ဝ န",
+            "concept_en": "Existence, becoming, being in a state.",
+            "concept_my": "ဖြစ်တည်ခြင်း၊ တစ်စုံတစ်ခုသော အခြေအနေသို့ ရောက်ရှိခြင်း။",
+            "members": [
+              {
+                "ar": "مَكَان",
+                "en": "place",
+                "my": "နေရာ",
+                "freq": 50
+              }
+            ],
+            "professors_note": "When Allah says 'Kun' (Be!), things come into 'Kawn' (existence)."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် ကမ္ဘာပေါ်တွင် အကောင်းဆုံးသော လူမျိုးစုဖြစ်သည်ဟု အလ္လာဟ်အရှင်မြတ်က ချီးမွမ်းထားသည်။ သို့သော် ဤချီးမွမ်းချက်သည် အလုပ်နှင့်ဆိုင်သည်။ အကောင်းကို ညွှန်ကြားပြီး အဆိုးကို တားမြစ်နေသရွေ့ ကျွန်ုပ်တို့သည် 'အကောင်းဆုံး' ဖြစ်နေပါလိမ့်မည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Kun-tum Khay-ra Um-mah.",
+          "meaning_anchor": "A crown placed on the head of the whole Ummah.",
+          "daily_connection": "Reminds us to behave well as representatives of Islam.",
+          "my": "Kuntum သည် 'သင်တို့ဖြစ်ခဲ့ကြသည်' ဟု အဓိပ္ပာယ်ရကြောင်း အမြဲမှတ်ထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We mastered the 'you all did' pattern with the -tum suffix. This allows you to understand direct addresses in the Quran from Allah to the people.",
+      "my": "သင်တို့ပြုလုပ်ခဲ့ကြသည် ဆိုသည့် -tum အဆုံးသတ်ပုံစံကို လေ့လာခဲ့ပြီးဖြစ်သည်။ ၎င်းသည် အလ္လာဟ်အရှင်မြတ်က လူသားထုအား တိုက်ရိုက်မိန့်ကြားချက်များကို နားလည်စေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-059",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 59,
+    "title": {
+      "ar": "الْفِعْلُ الْمَاضِي (٩) — مُتَكَلِّمُ الْجَمْعِ",
+      "en": "Past Tense IX — 'We did' (Fa'alnā)",
+      "my": "အတိတ်ကာလ ကြိယာ (၉) — ကျွန်ုပ်တို့ ပြုလုပ်ခဲ့ကြသည်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Nā suffix for 1st person plural; Divine 'We' (Nahnu) in Quran",
+      "grammar_formula": "Root (with Sukun) + ـْنَا = We did"
+    },
+    "section_1_vocab": [
+      {
+        "word": "أَنْزَلْنَا",
+        "translit": "anzalnā",
+        "en": "We revealed / sent down",
+        "my": "ကျွန်ုပ်တို့ ချပေးသနားခဲ့သည်",
+        "quran_freq": 160,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "أَفْعَلْنَا",
+        "root": {
+          "letters": "န ဇ လ",
+          "concept_en": "to descend, go down",
+          "concept_my": "ဆင်းသက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ans-na (Answer from above)",
+          "image": "Light descending from the clouds",
+          "cross_language": "Nazul (နာဇူလ်)"
+        },
+        "word_family": [
+          {
+            "ar": "نَزَلَ",
+            "translit": "nazala",
+            "en": "he descended",
+            "my": "သူဆင်းခဲ့သည်",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "The long 'Nā' indicates 'We'. This is often used by Allah as the 'Royal We'.",
+        "example": {
+          "ar": "أَنْزَلْنَا إِلَيْكَ",
+          "en": "We revealed to you",
+          "my": "ကျွန်ုပ်တို့သည် သင့်ထံသို့ ချပေးသနားခဲ့သည်",
+          "ref": "5:48"
+        }
+      },
+      {
+        "word": "خَلَقْنَا",
+        "translit": "khalaqnā",
+        "en": "We created",
+        "my": "ကျွန်ုပ်တို့ ဖန်ဆင်းခဲ့သည်",
+        "quran_freq": 60,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "فَعَلْنَا",
+        "root": {
+          "letters": "ခ လ က",
+          "concept_en": "to create, smooth out",
+          "concept_my": "ဖန်ဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khalaq (Creative)",
+          "image": "The heavens and earth being shaped",
+          "cross_language": "Khaliq (ဖန်ဆင်းရှင်)"
+        },
+        "word_family": [
+          {
+            "ar": "خَلْق",
+            "translit": "khalq",
+            "en": "creation",
+            "my": "ဖန်ဆင်းခံ",
+            "freq": 52
+          }
+        ],
+        "pattern_unlock": "When you see -nā after a Sukun, it's always 'We'.",
+        "example": {
+          "ar": "خَلَقْنَاكُمْ",
+          "en": "We created you",
+          "my": "ကျွန်ုပ်တို့သည် သင်တို့ကို ဖန်ဆင်းခဲ့သည်",
+          "ref": "7:11"
+        }
+      },
+      {
+        "word": "جَعَلْنَا",
+        "translit": "ja'alnā",
+        "en": "We made / placed",
+        "my": "ကျွန်ုပ်တို့ ပြုလုပ်ခဲ့သည်",
+        "quran_freq": 110,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "فَعَلْنَا",
+        "root": {
+          "letters": "ဂျ အ လ",
+          "concept_en": "to make, set, place",
+          "concept_my": "ပြုလုပ်ခြင်း၊ သတ်မှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Jal-na (to gel/set something)",
+          "image": "Placing things in their proper spots",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "جَعَلَ",
+            "translit": "ja'ala",
+            "en": "he made",
+            "my": "သူပြုလုပ်ခဲ့သည်",
+            "freq": 340
+          }
+        ],
+        "pattern_unlock": "Used when Allah describes the laws of nature or social settings.",
+        "example": {
+          "ar": "جَعَلْنَاكُمْ شُعُوبًا",
+          "en": "We made you into nations",
+          "my": "ကျွန်ုပ်တို့သည် သင်တို့ကို လူမျိုးစုများအဖြစ် သတ်မှတ်ခဲ့သည်",
+          "ref": "43:13"
+        }
+      },
+      {
+        "word": "أَعْطَيْنَا",
+        "translit": "a'taynā",
+        "en": "We gave",
+        "my": "ကျွန်ုပ်တို့ ပေးသနားခဲ့သည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "أَفْعَلْنَا",
+        "root": {
+          "letters": "အ တ ယ",
+          "concept_en": "to give, bestow",
+          "concept_my": "ပေးကမ်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "A-taina (Attain a gift)",
+          "image": "A fountain of abundance",
+          "cross_language": "Atha (အသာ)"
+        },
+        "word_family": [
+          {
+            "ar": "يُعْطِي",
+            "translit": "yu'tī",
+            "en": "he gives",
+            "my": "သူပေးသည်",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "The root ends in a 'y' which changes in conjugation.",
+        "example": {
+          "ar": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+          "en": "Indeed, We have given you Al-Kawthar",
+          "my": "ဧကန်စင်စစ် ကျွန်ုပ်တို့သည် သင့်အား ကောင်စာရ်ရေစင်ကို ပေးသနားခဲ့သည်",
+          "ref": "108:1"
+        }
+      },
+      {
+        "word": "نَصَرْنَا",
+        "translit": "nasarnā",
+        "en": "We helped",
+        "my": "ကျွန်ုပ်တို့ ကူညီခဲ့သည်",
+        "quran_freq": 5,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "فَعَلْنَا",
+        "root": {
+          "letters": "န ဆ ရ",
+          "concept_en": "to help, support",
+          "concept_my": "ကူညီစောင်မခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Nasr",
+          "image": "Divine aid arriving for an army",
+          "cross_language": "Nasrullah (နဆ်ရွလ္လာဟ်)"
+        },
+        "word_family": [
+          {
+            "ar": "نَصْر",
+            "translit": "nasr",
+            "en": "victory/help",
+            "my": "အောင်ပွဲ",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Used in the context of Allah helping the Prophets.",
+        "example": {
+          "ar": "فَنَصَرْنَا الَّذِينَ آمَنُوا",
+          "en": "So We supported those who believed",
+          "my": "သို့ဖြစ်၍ ကျွန်ုပ်တို့သည် ယုံကြည်သူများကို ကူညီခဲ့သည်",
+          "ref": "61:14"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمَاضِي لِلْمُتَكَلِّمِ (الْجَمْعُ)",
+        "en": "Past Tense 1st Person Plural",
+        "my": "အတိတ်ကာလ ပထမနာမ်စား (ကျွန်ုပ်တို့)"
+      },
+      "formula": {
+        "display": "فَعَلْ + ـْنَا = فَعَلْنَا",
+        "example": "قُلْنَا (We said)",
+        "myanmar_read": "မူလကြိယာကို အသတ်တင်ပြီး 'နား' (Nā) အသံရှည်ပေါင်းထည့်ခြင်း",
+        "key_insight": "The long 'A' (Alif) at the end makes all the difference. It stands for 'Nahnu' (We)."
+      },
+      "explanation": {
+        "en": "To say 'We did' in the past, we add the suffix -nā to the root. In the Quran, this form is frequently used by Allah to refer to His own Divine acts of creation, revelation, and power. This is known as the Royal Plural or the Divine 'We'.",
+        "my": "အတိတ်ကာလတွင် 'ကျွန်ုပ်တို့ ပြုလုပ်ခဲ့သည်' ဟု ပြောဆိုလိုပါက ကြိယာနောက်တွင် 'နား' (Nā) ကို ပေါင်းရပါမည်။ ကုရ်အာန်တွင် အလ္လာဟ်အရှင်မြတ်သည် မိမိ၏ ဖန်ဆင်းခြင်း၊ ဝဟီချပေးခြင်းစသည့် လုပ်ရပ်များကို မိန့်ကြားရာတွင် ဤပုံစံကို သုံးလေ့ရှိသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar uses 'ကျွန်ုပ်တို့...ခဲ့သည်'. Arabic uses a single suffix -nā.",
+        "my": "မြန်မာစကားတွင် 'ကျွန်ုပ်တို့...ခဲ့သည်' ဟု သုံးသကဲ့သို့ အာရဗီတွင် -nā ကို သုံးပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Suffix -nā must have the Alif to distinguish it from the female 'they'.",
+          "rule_my": "အမျိုးသမီးအများကိန်း 'န' နှင့် မမှားစေရန် 'နား' (Nā) တွင် Alif အမြဲပါရမည်။",
+          "example": {
+            "ar": "سَمِعْنَا",
+            "en": "We heard",
+            "my": "ကျွန်ုပ်တို့ ကြားခဲ့ရသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ",
+          "en": "Indeed, We revealed it in the Night of Decree.",
+          "my": "(၁) အမှန်စင်စစ် ငါအရှင်မြတ်သည် ထိုကုရ်အာန်ကျမ်းတော်မြတ်ကို မြင့်မြတ်သည့်ည လိုင်လသုလ်ကဒရ်   ၁ မှာ ချပေးတော်မူခဲ့သည်။",
+          "ref": "97:1",
+          "breakdown": {
+            "subject": {
+              "word": "أَنْزَلْنَا",
+              "en": "We revealed",
+              "note": "Divine 'We'"
+            },
+            "predicate": {
+              "word": "لَيْلَةِ الْقَدْرِ",
+              "en": "Night of Decree",
+              "note": "Time indicator"
+            }
+          },
+          "myanmar_insight": "The -nā here refers to Allah's majesty in revealing the Quran."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Shortening the 'nā' to 'na'",
+          "wrong": {
+            "ar": "خَلَقْنَ",
+            "note": "This means 'They (f) created'"
+          },
+          "correct": {
+            "ar": "خَلَقْنَا",
+            "en": "We created",
+            "my": "ကျွန်ုပ်တို့ ဖန်ဆင်းခဲ့သည်"
+          },
+          "myanmar_tip": "အသံကို မဖြစ်မနေ ဆွဲဖတ်ရပါမည်။ မဆွဲပါက အဓိပ္ပာယ် လုံးဝပြောင်းသွားပါမည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "ကျွန်ုပ်တို့ (အများကိန်း) ပုံစံများကို ရှာပါ",
+          "questions": [
+            {
+              "q": "قُلْنَا",
+              "answer_en": "We said",
+              "answer_my": "ကျွန်ုပ်တို့ ပြောခဲ့သည်",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "خَلَقْنَا الْإِنْسَانَ",
+              "answer_en": "We created man",
+              "answer_my": "ကျွန်ုပ်တို့သည် လူသားကို ဖန်ဆင်းခဲ့သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "ကျွန်ုပ်တို့ (အများကိန်း) ပုံစံသို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "كَتَبَ",
+              "answer_en": "katabnā",
+              "answer_my": "ကသဗ်နား",
+              "ar": "كَتَبْنَا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The use of 'We' by Allah signifies His grandeur, power, and the involvement of His forces (like angels) in His commands.",
+        "my": "အလ္လာဟ်အရှင်မြတ်က 'ကျွန်ုပ်တို့' ဟု သုံးနှုန်းခြင်းသည် ကိုယ်တော်၏ ကြီးကျယ်ခမ်းနားမှုနှင့် တန်ခိုးအာနုဘော်တော်ကို ပြသခြင်းဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Qadr 97:1",
+        "study_number": 1,
+        "arabic_full": "إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ",
+        "en_sahih": "Indeed, We revealed it in the Night of Decree.",
+        "my_mmsy": "(၁) အမှန်စင်စစ် ငါအရှင်မြတ်သည် ထိုကုရ်အာန်ကျမ်းတော်မြတ်ကို မြင့်မြတ်သည့်ည လိုင်လသုလ်ကဒရ်   ၁ မှာ ချပေးတော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 97,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/097001.mp3"
+        },
+        "qurancom_url": "https://quran.com/97/1",
+        "context": {
+          "en": "The opening of the Surah describing the start of the Quranic revelation.",
+          "my": "ကုရ်အာန်ကျမ်းမြတ် စတင်ကျရောက်ခြင်းအကြောင်း ဖော်ပြထားသော စူရဟ်၏ အစပိုင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أَنْزَلْنَا",
+            "translit": "anzalnā",
+            "en": "We revealed",
+            "my": "ကျွန်ုပ်တို့ချပေးခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "န ဇ လ",
+            "freq": 160
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Verb 'anzala' + suffix -nā (We) + suffix -hu (it/Quran).",
+          "structure_my": "ကြိယာ 'anzala' + နောက်ဆက်တွဲ -nā (ကျွန်ုပ်တို့) + နောက်ဆက်တွဲ -hu (၎င်း)။",
+          "insight_en": "The combination of 'Innā' (Indeed We) and 'Anzalnā' doubles the emphasis on Allah's authorship.",
+          "insight_my": "'ဧကန်စင်စစ် ကျွန်ုပ်တို့' နှင့် 'ကျွန်ုပ်တို့ ချပေးခဲ့သည်' ဟူသော အသုံးအနှုန်းနှစ်ခုလုံးက အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်ဖြစ်ကြောင်း အလေးပေးထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "န ဇ လ",
+            "concept_en": "To come down from a high place to a lower one.",
+            "concept_my": "မြင့်ရာမှ နိမ့်ရာသို့ ဆင်းသက်ခြင်း။",
+            "members": [
+              {
+                "ar": "تَنْزِيل",
+                "en": "revelation",
+                "my": "ကျရောက်ခြင်း",
+                "freq": 15
+              }
+            ],
+            "professors_note": "Revelation is called 'Tanzil' because it descends from the Heavens to the Earth."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "လိုင်လသုလ်ကဒရ်ညတွင် ကုရ်အာန်ကို စတင်ချပေးခဲ့ကြောင်း အလ္လာဟ်အရှင်မြတ်က မိန့်ကြားရာ၌ 'ကျွန်ုပ်တို့' ဟူသော ကြီးကျယ်သည့် အသုံးအနှုန်းကို သုံးထားသည်။ ဤကျမ်းမြတ်သည် လူသားတို့၏ လက်ရာမဟုတ်ဘဲ စကြာဝဠာအရှင်၏ လက်ရာဖြစ်ကြောင်း ဤစကားလုံးက သက်သေခံနေသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "In-nā an-zal-nā-hu.",
+          "meaning_anchor": "Rain of light falling onto the world.",
+          "daily_connection": "Recited frequently in Taraweeh and during Ramadan.",
+          "my": "In-nā နှင့် anzal-nā နှစ်ခုလုံးတွင် 'နား' ပါသည်ကို သတိပြုပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You have learned the powerful first-person plural suffix -nā. This allows you to recognize when Allah is speaking of His majestic actions in the Quran.",
+      "my": "ကျွန်ုပ်တို့ ပြုလုပ်ခဲ့သည် ဆိုသည့် -nā ပုံစံကို သင်ယူခဲ့ပြီးဖြစ်သည်။ ၎င်းသည် ကုရ်အာန်တွင် အလ္လာဟ်အရှင်မြတ်၏ ကြီးကျယ်သော လုပ်ဆောင်ချက်များကို နားလည်ရန် အဓိကကျသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-060",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 60,
+    "title": {
+      "ar": "تَصْرِيفُ الْفِعْلِ الْمَاضِي — مُرَاجَعَةٌ كَامِلَةٌ",
+      "en": "Past Tense X — Full Conjugation Table Review",
+      "my": "အတိတ်ကာလ ကြိယာ (၁၀) — ဇယားအပြည့်အစုံ ပြန်လည်သုံးသပ်ခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Complete 14-form past tense conjugation table",
+      "grammar_formula": "Root + [Suffixes for all persons]"
+    },
+    "section_1_vocab": [
+      {
+        "word": "ذَكَرَ",
+        "translit": "zakara",
+        "en": "he remembered",
+        "my": "သူအောက်မေ့ခဲ့သည်",
+        "quran_freq": 292,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ذ ك ر",
+          "concept_en": "to mention, remember",
+          "concept_my": "သတိရခြင်း၊ ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dhikr",
+          "image": "One person pointing to his mind",
+          "cross_language": "Zikir (ဇိကိရ်)"
+        },
+        "word_family": [
+          {
+            "ar": "ذَكَرْتُ",
+            "translit": "zakartu",
+            "en": "I remembered",
+            "my": "ကျွန်ုပ်အောက်မေ့ခဲ့သည်",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "This is the base form (3rd person singular masculine).",
+        "example": {
+          "ar": "ذَكَرَ رَبَّهُ",
+          "en": "He remembered his Lord",
+          "my": "သူသည် မိမိအား ဖန်ဆင်းမွေးမြူသော အရှင်ကို အောက်မေ့ခဲ့သည်",
+          "ref": "87:15"
+        }
+      },
+      {
+        "word": "ذَكَرُوا",
+        "translit": "zakarū",
+        "en": "they remembered",
+        "my": "၎င်းတို့ အောက်မေ့ခဲ့ကြသည်",
+        "quran_freq": 15,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلُوا",
+        "root": {
+          "letters": "ذ ك ر",
+          "concept_en": "to remember",
+          "concept_my": "သတိရခြင်း"
+        },
+        "memory_hook": {
+          "sound": "None",
+          "image": "Group of men remembering",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Plural suffix -ū with silent Alif.",
+        "example": {
+          "ar": "ذَكَرُوا اللَّهَ",
+          "en": "they remembered Allah",
+          "my": "၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်ကို အောက်မေ့ခဲ့ကြသည်",
+          "ref": "3:135"
+        }
+      },
+      {
+        "word": "ذَكَرْتَ",
+        "translit": "zakarta",
+        "en": "you remembered",
+        "my": "သင်အောက်မေ့ခဲ့သည်",
+        "quran_freq": 2,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلْتَ",
+        "root": {
+          "letters": "ذ ك ر",
+          "concept_en": "to remember",
+          "concept_my": "သတိရခြင်း"
+        },
+        "memory_hook": {
+          "sound": "None",
+          "image": "Directing speech to one person",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Singular 'you' suffix -ta.",
+        "example": {
+          "ar": "كَمَا ذَكَرْتَ",
+          "en": "as you remembered/mentioned",
+          "my": "သင်အောက်မေ့/ပြောဆိုခဲ့သကဲ့သို့",
+          "ref": "Derived"
+        }
+      },
+      {
+        "word": "ذَكَرْنَا",
+        "translit": "zakarnā",
+        "en": "we remembered",
+        "my": "ကျွန်ုပ်တို့ အောက်မေ့ခဲ့ကြသည်",
+        "quran_freq": 3,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "فَعَلْنَا",
+        "root": {
+          "letters": "ذ ك ر",
+          "concept_en": "to remember",
+          "concept_my": "သတိရခြင်း"
+        },
+        "memory_hook": {
+          "sound": "None",
+          "image": "A group pointing to themselves",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Plural 'we' suffix -nā.",
+        "example": {
+          "ar": "ذَكَرْنَاكَ",
+          "en": "We remembered you",
+          "my": "ကျွန်ုပ်တို့သည် သင့်အား အောက်မေ့သတိရခဲ့သည်",
+          "ref": "Derived"
+        }
+      },
+      {
+        "word": "ذَكَرَتْ",
+        "translit": "zakarat",
+        "en": "she remembered",
+        "my": "သူမ အောက်မေ့ခဲ့သည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فَعَلَتْ",
+        "root": {
+          "letters": "ذ ك ر",
+          "concept_en": "to remember",
+          "concept_my": "သတိရခြင်း"
+        },
+        "memory_hook": {
+          "sound": "None",
+          "image": "One woman remembering",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Feminine singular suffix -at.",
+        "example": {
+          "ar": "ذَكَرَتْ مَرْيَمُ",
+          "en": "Maryam remembered",
+          "my": "မရ်ယမ်သည် အောက်မေ့ခဲ့သည်",
+          "ref": "Derived"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "جَدْوَلُ تَصْرِيفِ الْفِعْلِ الْمَاضِي",
+        "en": "Past Tense Conjugation Chart",
+        "my": "အတိတ်ကာလ ကြိယာ ဇယား"
+      },
+      "formula": {
+        "display": "Root + [at/ta/ti/tu/nā/ū/tum...]",
+        "example": "كَتَبَ -> كَتَبْتُ",
+        "myanmar_read": "ကြိယာတစ်ခုကို နာမ်စားအလိုက် ပြောင်းလဲအသုံးပြုပုံ",
+        "key_insight": "Learning this table allows you to recognize the actor (who did it) for any verb in the Quran."
+      },
+      "explanation": {
+        "en": "This lesson consolidates all previous past tense forms into a single table. There are 14 forms in total (Singular, Dual, Plural for 1st, 2nd, and 3rd person). Mastering this grid is the gateway to understanding the flow of Quranic stories.",
+        "my": "ဤသင်ခန်းစာသည် ယခင်သင်ယူခဲ့သော အတိတ်ကာလပုံစံအားလုံးကို ဇယားတစ်ခုတည်းတွင် စုစည်းပေးထားသည်။ စုစုပေါင်း ပုံစံ ၁၄ မျိုးရှိပြီး ၎င်းကို ကျွမ်းကျင်ခြင်းဖြင့် ကုရ်အာန်ပါ ဇာတ်လမ်းများကို မည်သူက ပြုလုပ်သည်ဆိုသည်ကို ချက်ချင်း သိရှိနိုင်မည်ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar verbs don't change based on the person (I/You/He), but Arabic verbs change their endings completely.",
+        "my": "မြန်မာစကားတွင် 'စားသည်' ဟူသော ကြိယာသည် 'ကျွန်ုပ်စားသည်'၊ 'မင်းစားသည်' ဟု နာမ်စားပြောင်းသော်လည်း ကြိယာမပြောင်းပါ။ အာရဗီတွင်မူ နောက်ဆက်တွဲများ ပြောင်းလဲသွားပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "3rd Person: - (he), -at (she), -ū (they-m), -na (they-f)",
+          "rule_my": "တတိယနာမ်စား - သူ၊ သူမ၊ ၎င်းတို့",
+          "example": {
+            "ar": "فَعَلُوا",
+            "en": "They did",
+            "my": "၎င်းတို့ ပြုလုပ်ခဲ့ကြသည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "2nd Person: -ta (you-m), -ti (you-f), -tum (you-all-m)",
+          "rule_my": "ဒုတိယနာမ်စား - မင်း၊ သင်တို့",
+          "example": {
+            "ar": "فَعَلْتُمْ",
+            "en": "You all did",
+            "my": "သင်တို့ ပြုလုပ်ခဲ့ကြသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "فَذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ",
+          "en": "they remember Allah and implore forgiveness for their sins",
+          "my": "ထို့ပြင် သူတို့သည် ညစ်ညမ်းသောကိစ္စတစ်စုံတစ်ခု ကျူးလွန်မိကြသောအခါ သို့မဟုတ် သူတို့ကိုယ်သူတို့ နှိပ်စက်မိသောအခါ  အလ္လာဟ်အရှင်မြတ်အား သတိရ တသကြသည်။ ၎င်းပြင် သူတို့၏အပြစ်များမှ လွတ်ငြိမ်းချမ်းသာခွင့်ရရှိရန် အသနားခံကြသည်။ ထို့ပြင်  အလ္လာဟ်အရှင်မြတ်မှလွဲ၍ အပြစ်များမှ လွတ်ငြိမ်းချမ်းသာခွင့်ပေးမည့်သူ မည်သူမှ မရှိပေ။ ၎င်းပြင် သူတို့သည် သူတို့ပြုလုပ်မိကြသောအရာ(ပြစ်မှု)များကို သူတို့ကိုယ်တိုင်သိကြပါလျက်နှင့် လက်မလျှော့ဘဲ ဇွတ်တိုးပြီး ပြုလုပ်မနေခဲ့ကြတော့ပေ။",
+          "ref": "3:135",
+          "breakdown": {
+            "subject": {
+              "word": "ذَكَرُوا",
+              "en": "they remembered",
+              "note": "Plural Masculine"
+            },
+            "predicate": {
+              "word": "اسْتَغْفَرُوا",
+              "en": "they sought forgiveness",
+              "note": "Also Plural Masculine"
+            }
+          },
+          "myanmar_insight": "Notice the consistent use of the plural -ū suffix."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing up -tu (I) and -ta (You)",
+          "wrong": {
+            "ar": "ذَكَرْتု",
+            "note": "Wait, -tu is for Me!"
+          },
+          "correct": {
+            "ar": "ذَكَرْتَ",
+            "en": "You remembered",
+            "my": "သင်အောက်မေ့ခဲ့သည်"
+          },
+          "myanmar_tip": "-tu (တု) သည် 'ငါ' ဖြစ်ပြီး -ta (သ) သည် 'မင်း' ဖြစ်သည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "မှန်ကန်သော အဓိပ္ပာယ်ကို ရွေးချယ်ပါ",
+          "questions": [
+            {
+              "q": "ذَكَرْتُ",
+              "answer_en": "I remembered",
+              "answer_my": "ကျွန်ုပ်အောက်မေ့ခဲ့သည်",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "ذَكَرْنَا اللَّهَ",
+              "answer_en": "We remembered Allah",
+              "answer_my": "ကျွန်ုပ်တို့သည် အလ္လာဟ်ကို အောက်မေ့ခဲ့ကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "ဇယားအတိုင်း ပြောင်းလဲပါ",
+          "questions": [
+            {
+              "q": "ذَكَرَ (change to you-m)",
+              "answer_en": "zakarta",
+              "answer_my": "ဇကရ်သ",
+              "ar": "ذَكَرْتَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The ability to recognize 'Who' is acting in the Quran brings the text to life. It makes the conversation between Allah and His creation clear.",
+        "my": "ကုရ်အာန်ကို ဖတ်ရှုရာတွင် မည်သူက မည်သူ့ကို မိန့်ကြားနေသည်ကို သိရှိခြင်းသည် အလ္လာဟ်အရှင်မြတ်နှင့် မိမိတို့ကြား ဆက်သွယ်မှုကို ပိုမိုခိုင်မာစေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Ali 'Imran 3:135",
+        "study_number": 1,
+        "arabic_full": "وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنْفُسَهُمْ ذَكَرُوا اللَّهَ",
+        "en_sahih": "And those who, when they commit an immorality or wrong themselves, remember Allah...",
+        "my_mmsy": "ထို့ပြင် သူတို့သည် ညစ်ညမ်းသောကိစ္စတစ်စုံတစ်ခု ကျူးလွန်မိကြသောအခါ သို့မဟုတ် သူတို့ကိုယ်သူတို့ နှိပ်စက်မိသောအခါ  အလ္လာဟ်အရှင်မြတ်အား သတိရ တသကြသည်။ ၎င်းပြင် သူတို့၏အပြစ်များမှ လွတ်ငြိမ်းချမ်းသာခွင့်ရရှိရန် အသနားခံကြသည်။ ထို့ပြင်  အလ္လာဟ်အရှင်မြတ်မှလွဲ၍ အပြစ်များမှ လွတ်ငြိမ်းချမ်းသာခွင့်ပေးမည့်သူ မည်သူမှ မရှိပေ။ ၎င်းပြင် သူတို့သည် သူတို့ပြုလုပ်မိကြသောအရာ(ပြစ်မှု)များကို သူတို့ကိုယ်တိုင်သိကြပါလျက်နှင့် လက်မလျှော့ဘဲ ဇွတ်တိုးပြီး ပြုလုပ်မနေခဲ့ကြတော့ပေ။",
+        "audio_ref": {
+          "surah": 3,
+          "ayah": 135,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/003135.mp3"
+        },
+        "qurancom_url": "https://quran.com/3/135",
+        "context": {
+          "en": "Allah is describing the qualities of the righteous (Muttaqin).",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် သီလစောင့်ထိန်းသူများ (မွတ်သကီးန်) တို့၏ အရည်အချင်းကို ဖော်ပြနေခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "ذَكَرُوا",
+            "translit": "zakarū",
+            "en": "they remembered",
+            "my": "၎င်းတို့အောက်မေ့ခဲ့ကြသည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ဇ က ရ",
+            "freq": 15
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Sequence of verbs in masculine plural: fa'alū (they did), zalamū (they wronged), zakarū (they remembered).",
+          "structure_my": "အများကိန်းကြိယာသုံးခုကို အစဉ်လိုက် သုံးထားသည်။",
+          "insight_en": "The verse shows a process: even if they slip, they collectively return to remembrance.",
+          "insight_my": "အမှားလုပ်မိလျှင်ပင် ချက်ချင်း အလ္လာဟ်ကို သတိရရမည်ဟု ပြသနေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ဇ က ရ",
+            "concept_en": "To preserve in the heart and to mention with the tongue.",
+            "concept_my": "နှလုံးသားတွင် သိမ်းဆည်းထားခြင်းနှင့် လျှာဖြင့် မြွက်ဟပြောဆိုခြင်း။",
+            "members": [
+              {
+                "ar": "تَذْكِير",
+                "en": "reminder",
+                "my": "သတိပေးချက်",
+                "freq": 10
+              }
+            ],
+            "professors_note": "Zikr is the antidote to Ghaflah (heedlessness)."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် လူသားများဖြစ်သည့်အတွက် အမှားနှင့် မကင်းပါ။ သို့သော် အကောင်းဆုံးသောသူမှာ အမှားလုပ်မိသည်နှင့် အလ္လာဟ်အရှင်မြတ်ကို ချက်ချင်းသတိရကာ သောင်ဗဟ် (နောင်တ) ရသူဖြစ်သည်။ ဤအာယသ်က ကျွန်ုပ်တို့အား အမြဲတမ်း မျှော်လင့်ချက်ပေးထားသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Fa-'a-lū, Za-la-mū, Za-ka-rū.",
+          "meaning_anchor": "A light turning on in the dark after a stumble.",
+          "daily_connection": "Recited when making Istighfar.",
+          "my": "-ū (အူး) အသံများသည် အုပ်စုလိုက် လုပ်ဆောင်ချက်ကို ပြကြောင်း မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We completed the full past tense conjugation review. You now have the tools to decode the actor of any past tense verb in the Quran.",
+      "my": "အတိတ်ကာလ ကြိယာဇယားတစ်ခုလုံးကို ပြန်လည်သုံးသပ်ပြီးဖြစ်သည်။ ယခုအခါ သင်သည် ကုရ်အာန်ရှိ မည်သည့်အတိတ်ကာလ ကြိယာကိုမဆို ခွဲခြားသိမြင်နိုင်ပြီဖြစ်သည်။"
+    }
+  }
+]

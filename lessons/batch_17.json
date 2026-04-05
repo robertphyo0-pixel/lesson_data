@@ -1,0 +1,1967 @@
+[
+  {
+    "lesson_id": "L2-081",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 81,
+    "title": {
+      "ar": "اِسْمُ الْمَفْعُولِ (١) — وَزْنُ مَفْعُول",
+      "en": "Passive Participle I — The Maf'ul Pattern",
+      "my": "ခံရသူပြနာမ် (၁) — မဖ်အူးလ် ပုံစံ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Ism al-Maf'ul from Form I: Maf-'u-lun; the acted-upon",
+      "grammar_formula": "م + root1 + root2 + و + root3 = مَفْعُول"
+    },
+    "section_1_vocab": [
+      {
+        "word": "မَنْصُورٌ",
+        "translit": "manṣūr",
+        "en": "helped/victorious",
+        "my": "အကူအညီပေးခြင်းခံရသော/အောင်နိုင်သော",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "န ဆ ရ",
+          "concept_en": "helping/victory",
+          "concept_my": "ကူညီခြင်း/အောင်နိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Man-Soon",
+          "image": "A man will soon be helped to victory.",
+          "cross_language": "Mansoor (common name in Myanmar Muslims)"
+        },
+        "word_family": [
+          {
+            "ar": "نَصْرٌ",
+            "translit": "naṣr",
+            "en": "help/victory",
+            "my": "အကူအညီ",
+            "freq": 24
+          }
+        ],
+        "pattern_unlock": "Words starting with 'Ma' and having 'oo' before the last letter usually mean the receiver of an action.",
+        "example": {
+          "ar": "إِنَّهُ مَنْصُورٌ",
+          "en": "Indeed he is helped",
+          "my": "အမှန်စင်စစ် သူသည် အကူအညီပေးခြင်းခံရသူဖြစ်၏",
+          "ref": "17:33"
+        }
+      },
+      {
+        "word": "مَفْتُوحٌ",
+        "translit": "maftūḥ",
+        "en": "opened",
+        "my": "ဖွင့်လှစ်ထားသော",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ဖ တ ဟ",
+          "concept_en": "opening/conquest",
+          "concept_my": "ဖွင့်ခြင်း/အောင်ပွဲ"
+        },
+        "memory_hook": {
+          "sound": "Maf-Too",
+          "image": "The door is 'too' wide open.",
+          "cross_language": "Fatihah (The Opening)"
+        },
+        "word_family": [
+          {
+            "ar": "فَتَحَ",
+            "translit": "fataḥa",
+            "en": "he opened",
+            "my": "သူဖွင့်ခဲ့သည်",
+            "freq": 38
+          }
+        ],
+        "pattern_unlock": "The 'Ma-' prefix indicates a noun of place or a participle in this scale.",
+        "example": {
+          "ar": "أَبْوَابٌ مَفْتُوحَةٌ",
+          "en": "gates opened wide",
+          "my": "ကျယ်ပြန့်စွာဖွင့်လှစ်ထားသော တံခါးများ",
+          "ref": "38:50"
+        }
+      },
+      {
+        "word": "مَرْزُوقٌ",
+        "translit": "marzūq",
+        "en": "provided for",
+        "my": "ရိက္ခာပေးသနားခြင်းခံရသော",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ရ ဇ က",
+          "concept_en": "provision",
+          "concept_my": "ရိက္ခာ"
+        },
+        "memory_hook": {
+          "sound": "Mar-Zook",
+          "image": "Market is where you get provisions.",
+          "cross_language": "Rizq (Arabic word used in Myanmar context)"
+        },
+        "word_family": [
+          {
+            "ar": "رِزْقٌ",
+            "translit": "rizq",
+            "en": "provision",
+            "my": "ရိက္ခာ",
+            "freq": 123
+          }
+        ],
+        "pattern_unlock": "Knowing the root R-Z-Q allows you to identify anyone receiving sustenance as Marzuq.",
+        "example": {
+          "ar": "رِزْقاً مَرْزُوقاً",
+          "en": "a provision provided",
+          "my": "ပေးသနားတော်မူသော ရိက္ခာတစ်ရပ်",
+          "ref": "11:88"
+        }
+      },
+      {
+        "word": "مَأْكُولٌ",
+        "translit": "maʾkūl",
+        "en": "eaten/consumed",
+        "my": "စားသုံးခြင်းခံရသော",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "အ က လ",
+          "concept_en": "eating",
+          "concept_my": "စားသောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ma-Kool",
+          "image": "Eating food in the 'cool' shade.",
+          "cross_language": "Akal (Urdu/Hindi for food/grain)"
+        },
+        "word_family": [
+          {
+            "ar": "أَكَلَ",
+            "translit": "akala",
+            "en": "he ate",
+            "my": "သူစားခဲ့သည်",
+            "freq": 93
+          }
+        ],
+        "pattern_unlock": "The hamza in the root stays as a glottal stop in the Maf'ul pattern.",
+        "example": {
+          "ar": "كَعَصْفٍ مَأْكُولٍ",
+          "en": "like eaten straw",
+          "my": "စားသုံးပြီးသော ကောက်ရိုးခြောက်ကဲ့သို့",
+          "ref": "105:5"
+        }
+      },
+      {
+        "word": "مَسْئُولٌ",
+        "translit": "masʾūl",
+        "en": "questioned/responsible",
+        "my": "မေးမြန်းခြင်းခံရသော/တာဝန်ရှိသော",
+        "quran_freq": 8,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "စ အ လ",
+          "concept_en": "asking/questioning",
+          "concept_my": "မေးမြန်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mas-Ool",
+          "image": "The 'Soul' is questioned in the grave.",
+          "cross_language": "Mas'ooliyat (Responsibility)"
+        },
+        "word_family": [
+          {
+            "ar": "سَأَلَ",
+            "translit": "saʾala",
+            "en": "he asked",
+            "my": "သူမေးခဲ့သည်",
+            "freq": 129
+          }
+        ],
+        "pattern_unlock": "When a root letter is an 'asking' root, the Maf'ul is the one 'being asked'.",
+        "example": {
+          "ar": "كَانَ مَسْئُولًا",
+          "en": "is [to be] questioned",
+          "my": "မေးမြန်းခြင်းခံရမည်ဖြစ်၏",
+          "ref": "17:34"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "اِسْمُ الْمَفْعُولِ",
+        "en": "Passive Participle (Ism al-Maf'ul)",
+        "my": "ခံရသူပြနာမ်"
+      },
+      "formula": {
+        "display": "مَ + [1] + [2] + و + [3] = مَفْعُول",
+        "example": "مَ + ن + ص + و + ر = مَنْصُورٌ",
+        "myanmar_read": "ပထမအက္ခရာရှေ့မှာ 'မ' (Ma) ထည့်၊ ဒုတိယနဲ့ တတိယအက္ခရာကြားမှာ 'ဝါးဝ်' (Waw) ထည့်ပါ။",
+        "key_insight": "If Ism al-Fa'il is the 'Doer', Ism al-Maf'ul is the 'Done-to'."
+      },
+      "explanation": {
+        "en": "The Ism al-Maf'ul is a noun derived from a three-letter root that describes the person or object receiving the action. It consistently follows the pattern Maf-'u-lun. For example, from the root K-T-B (writing), we get Maktub (written). It is a powerful tool for expanding your vocabulary instantly.",
+        "my": "Ism al-Maf'ul ဆိုသည်မှာ အပြုခံရသည့် ပုဂ္ဂိုလ် သို့မဟုတ် အရာဝတ္ထုကို ဖော်ပြသော နာမ်ဖြစ်သည်။ ၎င်းသည် အမြဲတမ်း Maf-'u-lun (မဖ်အူးလ်) ပုံစံအတိုင်း ရှိနေတတ်သည်။ ဥပမာအားဖြင့် K-T-B (ရေးသားခြင်း) အမြစ်မှ Maktub (ရေးသားခြင်းခံရသော/စာ) ကို ရရှိသည်။ ဤပုံစံကို သိခြင်းဖြင့် ဝေါဟာရအသစ်များကို လွယ်ကူစွာ မှတ်မိနိုင်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar language, we use suffixes like '-ခြင်းခံရသော' to indicate the passive state. In Arabic, this is built into the word structure itself using the M-F-U-L pattern.",
+        "my": "မြန်မာဘာသာစကားတွင် 'ခံရသော' ဟူသော စကားလုံးကို နောက်ဆက်တွဲအဖြစ် သုံးသော်လည်း အာရဗီတွင်မူ စကားလုံး၏ ပုံသဏ္ဍာန် (Wazn) ကို ပြောင်းလဲခြင်းဖြင့် ဖော်ပြသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Start with 'Ma-' with a fatha.",
+          "rule_my": "အစတွင် ဖသ်ဟဟ် (ဇဘရ်) ပါသော 'မ' (Ma) ဖြင့် စရမည်။",
+          "example": {
+            "ar": "مَنْصُور",
+            "en": "Man-sur",
+            "my": "မန်ဆူးရ်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Place a Sukun on the first root letter.",
+          "rule_my": "ပထမ အမြစ်အက္ခရာပေါ်တွင် စုကူန်း (ဂျဇမ်း) တင်ရမည်။",
+          "example": {
+            "ar": "مَنْـ",
+            "en": "Man-",
+            "my": "မန်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "بِأَبْوَابٍ مُّفَتَّحَةٍ",
+          "en": "with gates opened wide",
+          "my": "သူတို့အတွက် တံခါးများဖွင့်ထားသော အမြဲနေထိုင်ရမည့် ဥယျာဉ်များရှိကြသည်။",
+          "ref": "38:50",
+          "breakdown": {
+            "subject": {
+              "word": "أَبْوَابٍ",
+              "en": "gates",
+              "note": "Plural of Bab"
+            },
+            "predicate": {
+              "word": "مُفَتَّحَةٍ",
+              "en": "opened wide",
+              "note": "Intensive form of Maftuh"
+            }
+          },
+          "myanmar_insight": "Abwab သည် အဖိတ်အစင်မရှိ ပွင့်နေသော တံခါးများကို ဆိုလိုသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing the 'Ma' prefix with 'Min' (from).",
+          "wrong": {
+            "ar": "مِنْصُور",
+            "note": "Incorrect vowel on Meem"
+          },
+          "correct": {
+            "ar": "مَنْصُور",
+            "en": "Mansur",
+            "my": "မန်ဆူးရ်"
+          },
+          "myanmar_tip": "အပြုခံရသူပြနာမ်တွင် Meem သည် အမြဲ 'မ' (Ma) အသံထွက်ရမည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Ism al-Maf'ul in the phrases",
+          "instruction_my": "အောက်ပါစာသားများထဲမှ အပြုခံရသူပြနာမ်ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "كِتَابٌ مَرْقُومٌ",
+              "answer_en": "marqūm (inscribed)",
+              "answer_my": "marqūm (မှတ်တမ်းတင်ပြီးသား)",
+              "ref": "83:9"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "أَبْوَابٌ مَفْتُوحَةٌ",
+              "answer_en": "Opened gates",
+              "answer_my": "ဖွင့်ထားသော တံခါးများ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun passive by adding the pattern",
+          "instruction_my": "မဖ်အူးလ် ပုံစံဖြင့် ပြောင်းလဲရေးသားပါ။",
+          "questions": [
+            {
+              "q": "Root: K-T-B",
+              "answer_en": "Maktub",
+              "answer_my": "မတ်ခ်သူးဗ်",
+              "ar": "مَكْتُوب"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The Ism al-Maf'ul reminds us that everything in creation is 'acted upon' by the Creator. We are 'Marzuq' (provided for) and 'Mansur' (helped) only through Allah's will.",
+        "my": "အပြုခံရသူပြနာမ် (Maf'ul) သည် ဖန်ဆင်းခံအားလုံးမှာ ဖန်ဆင်းရှင်၏ ပြုပြင်စီရင်မှုကို ခံရသူများသာ ဖြစ်ကြောင်း သတိပေးသည်။ ကျွန်ုပ်တို့သည် အလ္လာဟ်အရှင်မြတ်၏ အလိုတော်ကြောင့်သာ 'ရိက္ခာပေးခြင်းခံရသူ' နှင့် 'ကူညီခြင်းခံရသူ' များ ဖြစ်ကြသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Isra 17:33",
+        "study_number": 1,
+        "arabic_full": "وَمَنْ قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا ۖ فَلَا يُسْرِفْ فِي الْقَتْلِ ۖ إِنَّهُ كَانَ مَنْصُورًا",
+        "en_sahih": "And whoever is killed unjustly - We have given his heir authority, but let him not exceed limits in [taking] life. Indeed, he has been supported [by the law].",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S17_A33",
+        "audio_ref": {
+          "surah": 17,
+          "ayah": 33,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/017033.mp3"
+        },
+        "qurancom_url": "https://quran.com/17/33",
+        "context": {
+          "en": "This ayah deals with the sanctity of life and the legal rights of those who are oppressed or killed unjustly.",
+          "my": "ဤအာယသ်တော်သည် အသက်အိုးအိမ်စည်းစိမ်၏ မြင့်မြတ်မှုနှင့် မတရားသဖြင့် အသတ်ခံရသူများ၏ အခွင့်အရေးကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "مَنْصُورًا",
+            "translit": "manṣūran",
+            "en": "supported/helped",
+            "my": "ကူညီခြင်းခံရသူ",
+            "role_en": "Predicate of Kana",
+            "role_my": "ကာန၏ ခဗရ်",
+            "root": "န ဆ ရ",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The word 'Mansur' is the Ism al-Maf'ul from root N-S-R.",
+          "structure_my": "'Mansur' သည် N-S-R အမြစ်မှ ဆင်းသက်လာသော အပြုခံရသူပြနာမ် ဖြစ်သည်။",
+          "insight_en": "It emphasizes that Allah guarantees support for the victim of injustice.",
+          "insight_my": "မတရားမှုကို ခံရသူအတွက် အလ္လာဟ်အရှင်မြတ်က အကူအညီပေးမည်ဖြစ်ကြောင်း အာမခံထားခြင်း ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "န ဆ ရ",
+            "concept_en": "To aid against an enemy or to provide victory.",
+            "concept_my": "ရန်သူကို အောင်နိုင်ရန် ကူညီခြင်း သို့မဟုတ် အောင်ပွဲရရှိစေခြင်း။",
+            "members": [
+              {
+                "ar": "نَاصِر",
+                "en": "Helper",
+                "my": "ကူညီသူ",
+                "freq": 5
+              }
+            ],
+            "professors_note": "In the Quran, 'Nasr' is specifically the help that leads to a definitive conclusion or victory."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "လောကတွင် မတရားနှိပ်စက်ခံရသူများ (Mazlum) အတွက် အလ္လာဟ်အရှင်မြတ်က ကူညီမည့်သူ (Mansur) ဖြစ်စေမည်ဟု ကတိပေးထားသည်။ မိမိတို့ဘဝတွင် အခက်အခဲကြုံရပါက အရှင်မြတ်၏ အကူအညီကိုသာ မျှော်လင့်ရမည်။ အာရဗီသဒ္ဒါအရ 'မဖ်အူးလ်' ပုံစံသည် အပြုခံရသူ၏ အခြေအနေကို အတည်ပြုပေးသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah ends with a strong 'an' sound (Mansura).",
+          "meaning_anchor": "Imagine a scale of justice tipping in favor of the oppressed.",
+          "daily_connection": "When you feel treated unfairly, remember Allah is the one who helps the Mansur.",
+          "my": "အာယသ်တော်၏ အဆုံးသတ် 'မန်ဆူးရား' ဟူသော အသံကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we learned the 'Maf'ul' pattern, which indicates the receiver of an action. We saw how roots like N-S-R and F-T-H transform into words like 'helped' and 'opened'. This pattern is essential for understanding descriptive nouns in the Quran.",
+      "my": "ဤသင်ခန်းစာတွင် အပြုခံရသူကို ဖော်ပြသော 'Maf'ul' ပုံစံကို လေ့လာခဲ့သည်။ N-S-R နှင့် F-T-H ကဲ့သို့သော အမြစ်များမှ 'ကူညီခံရသူ' နှင့် 'ဖွင့်ထားသော' ဟူသော စကားလုံးများ ဖြစ်ပေါ်လာပုံကို တွေ့မြင်ခဲ့ရသည်။ ဤသည်မှာ ကုရ်အာန်ပါ နာမ်များကို နားလည်ရန် အလွန်အရေးကြီးသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-082",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 82,
+    "title": {
+      "ar": "اِسْمُ الْمَفْعُولِ (٢) — أَمْثِلَةٌ قُرْآنِيَّةٌ",
+      "en": "Passive Participle II — Quranic Examples",
+      "my": "ခံရသူပြနာမ် (၂) — ကုရ်အာန်လာ ဥပမာများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Mashhud, Maktub, Mahfuz, Mabrur — Quranic passive participles",
+      "grammar_formula": "Pattern Recognition of Maf'ul in Ayahs"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مَشْهُودٌ",
+        "translit": "mashhūd",
+        "en": "witnessed",
+        "my": "မျက်မြင်သက်သေရှိသော/သက်သေထူခံရသော",
+        "quran_freq": 6,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ရှ ဟ ဒ",
+          "concept_en": "witnessing",
+          "concept_my": "သက်သေခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mash-Hood",
+          "image": "Everyone in the neighborhood (hood) witnessed it.",
+          "cross_language": "Shahid (Witness)"
+        },
+        "word_family": [
+          {
+            "ar": "شَاهِد",
+            "translit": "shāhid",
+            "en": "witness",
+            "my": "သက်သေ",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "The one who witnesses is Shahid, but the day or event being witnessed is Mashhud.",
+        "example": {
+          "ar": "يَوْمٌ مَّشْهُودٌ",
+          "en": "a day witnessed",
+          "my": "သက်သေထူခြင်းခံရမည့် နေ့",
+          "ref": "11:103"
+        }
+      },
+      {
+        "word": "مَحْفُوظٌ",
+        "translit": "maḥfūẓ",
+        "en": "preserved",
+        "my": "ထိန်းသိမ်းစောင့်ရှောက်ခြင်းခံရသော",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ဟ ဖ ဇ",
+          "concept_en": "protecting/memorizing",
+          "concept_my": "ထိန်းသိမ်းခြင်း/အလွတ်ကျက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mah-Fooz",
+          "image": "The treasure is safe in a food (fooz) container.",
+          "cross_language": "Hafiz (one who memorizes Quran)"
+        },
+        "word_family": [
+          {
+            "ar": "حَافِظ",
+            "translit": "ḥāfiẓ",
+            "en": "guardian",
+            "my": "ထိန်းသိမ်းစောင့်ရှောက်သူ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Anything kept safe by Allah is 'Mahfuz'.",
+        "example": {
+          "ar": "فِي لَوْحٍ مَّحْفُوظٍ",
+          "en": "in a Preserved Tablet",
+          "my": "ထိန်းသိမ်းစောင့်ရှောက်ထားသော (လောင်ဟေမဟ်ဖူးဇ်) ဖတ်စာပြင်တွင်",
+          "ref": "85:22"
+        }
+      },
+      {
+        "word": "مَكْتُوبٌ",
+        "translit": "maktūb",
+        "en": "written/decreed",
+        "my": "ရေးသားထားသော/သတ်မှတ်ထားသော",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "က သ ဗ",
+          "concept_en": "writing",
+          "concept_my": "ရေးသားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mak-Toob",
+          "image": "A tube that writes ink.",
+          "cross_language": "Kitab (Book)"
+        },
+        "word_family": [
+          {
+            "ar": "كَاتِب",
+            "translit": "kātib",
+            "en": "writer",
+            "my": "စာရေးသူ",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "The root K-T-B always relates to writing; Maktub is the result.",
+        "example": {
+          "ar": "مَكْتُوبًا عِندَهُمْ",
+          "en": "written with them",
+          "my": "၎င်းတို့ထံတွင် ရေးသားထားသည်ကို",
+          "ref": "7:157"
+        }
+      },
+      {
+        "word": "مَخْزُونٌ",
+        "translit": "makhzūn",
+        "en": "stored",
+        "my": "သိုလှောင်ထားသော",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ခ ဇ န",
+          "concept_en": "treasury/store",
+          "concept_my": "သိုလှောင်ရုံ/ဘဏ္ဍာ"
+        },
+        "memory_hook": {
+          "sound": "Makh-Zoon",
+          "image": "Stored in the 'Zone'.",
+          "cross_language": "Makhzan (Warehouse in Urdu/Persian)"
+        },
+        "word_family": [
+          {
+            "ar": "خَزَائِن",
+            "translit": "khazāʾin",
+            "en": "treasuries",
+            "my": "ဘဏ္ဍာတိုက်များ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "The prefix 'Ma-' transforms the idea of a store into something stored.",
+        "example": {
+          "ar": "بِخَازِنِينَ",
+          "en": "treasurers/storers",
+          "my": "သိုလှောင်ထားသူများ",
+          "ref": "15:22"
+        }
+      },
+      {
+        "word": "مَلْعُونٌ",
+        "translit": "malʿūn",
+        "en": "cursed",
+        "my": "ကျိန်ဆဲခြင်းခံရသော",
+        "quran_freq": 12,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "လ အ န",
+          "concept_en": "cursing",
+          "concept_my": "ကျိန်ဆဲခြင်း/ကရုဏာတော်မှ ဖယ်ထုတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mal-Oon",
+          "image": "A bad person who is cursed 'alone'.",
+          "cross_language": "La'nat (Curse)"
+        },
+        "word_family": [
+          {
+            "ar": "لَعَنَ",
+            "translit": "laʿana",
+            "en": "he cursed",
+            "my": "သူကျိန်ဆဲခဲ့သည်",
+            "freq": 41
+          }
+        ],
+        "pattern_unlock": "La'ana (Verb) -> Mal'un (The one cursed).",
+        "example": {
+          "ar": "مَّلْعُونِينَ أَيْنَمَا ثُقِفُوا",
+          "en": "Accursed wherever they are found",
+          "my": "၎င်းတို့အား တွေ့ရှိရာအရပ်တိုင်းတွင် ကျိန်ဆဲခံရသူများအဖြစ်...",
+          "ref": "33:61"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أَمْثِلَةُ اسْمِ الْمَفْعُولِ",
+        "en": "Examples of Passive Participle",
+        "my": "ခံရသူပြနာမ် ဥပမာများ"
+      },
+      "formula": {
+        "display": "Ism al-Maf'ul = مَفْعُول",
+        "example": "شَهَدَ (witnessed) -> مَشْهُود (witnessed event)",
+        "myanmar_read": "ကုရ်အာန်ထဲမှာ 'မ' (Ma) နဲ့စပြီး 'အူးလ်' (ul) နဲ့ဆုံးတဲ့ စကားလုံးတွေကို သတိထားကြည့်ပါ။",
+        "key_insight": "These nouns often describe Divine decrees or conditions of things in the Afterlife."
+      },
+      "explanation": {
+        "en": "In the Quran, Ism al-Maf'ul is frequently used to describe things that have been definitively established by Allah, such as the 'Written Decree' (Maktub) or the 'Preserved Tablet' (Mahfuz). It provides a sense of completion and permanence to the action described.",
+        "my": "ကုရ်အာန်တွင် Ism al-Maf'ul ကို အလ္လာဟ်အရှင်မြတ်ဘက်မှ အတည်ပြုသတ်မှတ်ထားသော အရာများကို ဖော်ပြရန် အသုံးများသည်။ ဥပမာ - 'ရေးမှတ်ပြီးသား' (Maktub) သို့မဟုတ် 'ထိန်းသိမ်းထားသော' (Mahfuz)။ ၎င်းသည် လုပ်ဆောင်ချက်တစ်ခု ပြီးမြောက်တည်မြဲသွားခြင်းကို ဖော်ပြသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to how we use adjectives in Myanmar that describe a state resulting from an action, like 'မှတ်တမ်းတင်ပြီးသား' (already recorded).",
+        "my": "မြန်မာဘာသာစကားတွင် 'ပြီးသား' သို့မဟုတ် 'ထားသော' ဟု သုံးနှုန်းသကဲ့သို့ အာရဗီတွင် ဤပုံစံက အလားတူအဓိပ္ပာယ်ဆောင်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The pattern remains consistent regardless of the root letters (for standard roots).",
+          "rule_my": "အခြေခံအမြစ်အက္ခရာများအားလုံးအတွက် ဤပုံစံမှာ ပြောင်းလဲမှုမရှိဘဲ တသမတ်တည်းဖြစ်သည်။",
+          "example": {
+            "ar": "مَخْلُوق",
+            "en": "Created",
+            "my": "ဖန်ဆင်းခြင်းခံရသော"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Divine Decree",
+          "ar": "فِي لَوْحٍ مَّحْفُوظٍ",
+          "en": "In a preserved tablet",
+          "my": "(၂၂) လုံခြံုစွာ ထိန်းသိမ်းထားသော သင်ပုန်းတွင် (ရေးမှတ်ထားပြီးဖြစ်သည်)။",
+          "ref": "85:22",
+          "breakdown": {
+            "subject": {
+              "word": "لَوْحٍ",
+              "en": "tablet",
+              "note": "The record of all things"
+            },
+            "predicate": {
+              "word": "مَحْفُوظٍ",
+              "en": "preserved",
+              "note": "Protected from change"
+            }
+          },
+          "myanmar_insight": "လောင်ဟေမဟ်ဖူးဇ် ဆိုသည်မှာ မည်သူမျှ ပြောင်းလဲ၍မရအောင် ထိန်းသိမ်းထားသော ပြင်ကို ဆိုလိုသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking every word starting with 'Ma' is a Maf'ul.",
+          "wrong": {
+            "ar": "مَسْجِد",
+            "note": "This is a place noun (Masjid), not Maf'ul pattern"
+          },
+          "correct": {
+            "ar": "مَسْجُود",
+            "en": "One to whom prostration is done",
+            "my": "စဂျ်ဒါပြုခြင်းခံရသူ"
+          },
+          "myanmar_tip": "အလယ်က 'ဝါးဝ်' (waw) ပါမပါ သေချာစစ်ဆေးပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the Maf'ul in Surah Al-Buruj ayah 22",
+          "instruction_my": "စူရဟ်ဗူရူးဂ် အာယသ် ၂၂ ထဲမှ မဖ်အူးလ်ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "فِي لَوْحٍ مَحْفُوظٍ",
+              "answer_en": "maḥfūẓ",
+              "answer_my": "maḥfūẓ (မဟ်ဖူးဇ်)",
+              "ref": "85:22"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'Maktub' into Myanmar",
+          "instruction_my": "'Maktub' ကို မြန်မာလို ပြန်ဆိုပါ။",
+          "questions": [
+            {
+              "q": "مَكْتُوبٌ",
+              "answer_en": "Written",
+              "answer_my": "ရေးသားထားသော"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Apply Maf'ul pattern to KH-L-Q (To create)",
+          "instruction_my": "KH-L-Q (ဖန်ဆင်းသည်) အမြစ်ကို မဖ်အူးလ် ပုံစံပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "خ ل ق",
+              "answer_en": "makhluq",
+              "answer_my": "မခ်လူက့်",
+              "ar": "مَخْلُوق"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The Quran itself is described as being in a 'Tablet Preserved'. This gives us peace knowing that Allah's word and our destiny are protected in His knowledge.",
+        "my": "ကုရ်အာန်ကျမ်းစာတော်သည် 'ထိန်းသိမ်းထားသော ဖတ်စာပြင်' တွင် ရှိနေသည်ဟု ဖော်ပြထားခြင်းက အရှင်မြတ်၏ နှုတ်ကပတ်တော်နှင့် ကျွန်ုပ်တို့၏ ကံကြမ္မာသည် အရှင်မြတ်၏ အသိပညာတော်အောက်တွင် လုံခြုံစွာရှိနေကြောင်း စိတ်အေးချမ်းသာမှုကို ပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Hud 11:103",
+        "study_number": 1,
+        "arabic_full": "ذَٰلِكَ يَوْمٌ مَّجْمُوعٌ لَّهُ النَّاسُ وَذَٰلِكَ يَوْمٌ مَّشْهُودٌ",
+        "en_sahih": "That is a Day for which the people will be collected, and that is a Day [which will be] witnessed.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S11_A103",
+        "audio_ref": {
+          "surah": 11,
+          "ayah": 103,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/011103.mp3"
+        },
+        "qurancom_url": "https://quran.com/11/103",
+        "context": {
+          "en": "Allah describes the Day of Judgment as a day where everyone is gathered and everything is seen.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ကေယာမသ်နေ့ကို လူသားအားလုံး စုဝေးရမည့်နေ့နှင့် အရာအားလုံးကို မျက်မြင်တွေ့ရှိရမည့်နေ့အဖြစ် ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "مَّجْمُوعٌ",
+            "translit": "majmūʿun",
+            "en": "gathered/collected",
+            "my": "စုစည်းခြင်းခံရသော",
+            "role_en": "Adjective/Participle",
+            "role_my": "နာမဝိသေသန",
+            "root": "ဂ ဂျ မ",
+            "freq": 1
+          },
+          {
+            "ar": "مَّشْهُودٌ",
+            "translit": "mashhūdun",
+            "en": "witnessed",
+            "my": "မျက်မြင်သက်သေရှိသော",
+            "role_en": "Adjective/Participle",
+            "role_my": "နာမဝိသေသန",
+            "root": "ရှ ဟ ဒ",
+            "freq": 6
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Two Maf'ul patterns are used to describe the Day: Majmu' (Gathered) and Mashhud (Witnessed).",
+          "structure_my": "ကေယာမသ်နေ့ကို ဖော်ပြရန် 'မဖ်အူးလ်' ပုံစံနှစ်ခု (မဂျ်မူးအ် နှင့် မရှ်ဟူးဒ်) ကို သုံးထားသည်။",
+          "insight_en": "Using this pattern emphasizes that the Day is an object of Allah's action; it is something that WILL happen to us.",
+          "insight_my": "ဤပုံစံသည် ထိုနေ့သည် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်ဖြင့် မလွဲမသွေ ဖြစ်ပေါ်လာမည့်အရာဖြစ်ကြောင်း အလေးပေးဖော်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ဂ ဂျ မ",
+            "concept_en": "To bring together disparate parts into a whole.",
+            "concept_my": "ကွဲပြားနေသော အစိတ်အပိုင်းများကို တစ်ခုတည်းအဖြစ် စုစည်းခြင်း။",
+            "members": [
+              {
+                "ar": "جَمِيع",
+                "en": "All/Together",
+                "my": "အားလုံး",
+                "freq": 50
+              }
+            ],
+            "professors_note": "Majmu' implies that not a single soul will be left out of the gathering."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကေယာမသ်နေ့တွင် လူသားအားလုံးသည် အလ္လာဟ်အရှင်မြတ်၏ ရှေ့တော်မှောက်တွင် 'မဂျ်မူးအ်' (စုစည်းခြင်းခံရသူများ) ဖြစ်ကြပါမည်။ ထိုနေ့၏ ကြီးကျယ်မှုကို အားလုံးက 'မရှ်ဟူးဒ်' (မျက်မြင်ကိုယ်တွေ့) မြင်ကြရပါမည်။ ဤအမှန်တရားကို သိမြင်ခြင်းဖြင့် ယနေ့ဘဝတွင် မိမိတို့၏ အပြုအမူများကို ဆင်ခြင်သင့်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The repetition of 'Dhalika Yawmun...' creates a powerful warning rhythm.",
+          "meaning_anchor": "Imagine a vast field where everyone is standing together under one gaze.",
+          "daily_connection": "When you see a large gathering, remind yourself of the Yawm al-Majmu'.",
+          "my": "'ဒါလီက ယောင်မွန်...' ဟု ထပ်ခါတလဲလဲ ပါဝင်မှုက သတိပေးချက်တစ်ခုလို ရိုက်ခတ်စေသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored key Ism al-Maf'ul examples from the Quran such as Mashhud, Maktub, and Mahfuz. Understanding this pattern helps us recognize how Allah describes reality, decree, and the events of the Hereafter as fixed and certain results of His action.",
+      "my": "ကုရ်အာန်ကျမ်းစာမှ Mashhud, Maktub နှင့် Mahfuz ကဲ့သို့သော အရေးကြီးသည့် ခံရသူပြနာမ်များကို လေ့လာခဲ့သည်။ ဤပုံစံကို နားလည်ခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်သည် အနာဂတ်နှင့် ကံကြမ္မာတို့ကို မည်သို့ အတည်တကျ သတ်မှတ်ထားကြောင်း ပိုမိုသိရှိနိုင်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-083",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 83,
+    "title": {
+      "ar": "الْفَاعِلُ مُقَابِلَ الْمَفْعُولِ",
+      "en": "Passive Participle III — Fa'il vs Maf'ul Contrast",
+      "my": "ပြုသူနှင့်အပြုခံ — ဖာအိလ် နှင့် မဖ်အူးလ် နှိုင်းယှဉ်ချက်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Side-by-side contrast: Creator vs Created, Guide vs Guided",
+      "grammar_formula": "فَاعِل (Doer) vs مَفْعُول (Done-to)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "خَالِقٌ",
+        "translit": "khāliq",
+        "en": "Creator",
+        "my": "ဖန်ဆင်းရှင်",
+        "quran_freq": 8,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ခ လ က",
+          "concept_en": "creating",
+          "concept_my": "ဖန်ဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kha-Liq",
+          "image": "The King (Khal) who creates.",
+          "cross_language": "Khaliq (Used in Myanmar Muslim daily speech)"
+        },
+        "word_family": [
+          {
+            "ar": "خَلْق",
+            "translit": "khalq",
+            "en": "creation",
+            "my": "ဖန်ဆင်းမှု",
+            "freq": 52
+          }
+        ],
+        "pattern_unlock": "The 'aa' sound after the first letter makes it the doer.",
+        "example": {
+          "ar": "خَالِقُ كُلِّ شَيْءٍ",
+          "en": "Creator of all things",
+          "my": "အရာခပ်သိမ်းကို ဖန်ဆင်းတော်မူသော အရှင်",
+          "ref": "6:102"
+        }
+      },
+      {
+        "word": "مَخْلُوقٌ",
+        "translit": "makhlūq",
+        "en": "created",
+        "my": "ဖန်ဆင်းခံ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ခ လ က",
+          "concept_en": "creating",
+          "concept_my": "ဖန်ဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Makh-Look",
+          "image": "Look at the created world.",
+          "cross_language": "Makhlooq (Creatures)"
+        },
+        "word_family": [
+          {
+            "ar": "خَلَقَ",
+            "translit": "khalaqa",
+            "en": "he created",
+            "my": "သူဖန်ဆင်းခဲ့သည်",
+            "freq": 184
+          }
+        ],
+        "pattern_unlock": "Compare Khaliq (Doer) and Makhluq (Receiver).",
+        "example": {
+          "ar": "غَيْرُ مَخْلُوقٍ",
+          "en": "not created",
+          "my": "ဖန်ဆင်းခံမဟုတ်သော",
+          "ref": "Internal Theology Ref"
+        }
+      },
+      {
+        "word": "نَاصِرٌ",
+        "translit": "nāṣir",
+        "en": "helper",
+        "my": "ကူညီသူ",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "န ဆ ရ",
+          "concept_en": "helping",
+          "concept_my": "ကူညီခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Na-Sir",
+          "image": "A kind Sir who helps.",
+          "cross_language": "Nasir (Common name)"
+        },
+        "word_family": [
+          {
+            "ar": "أَنْصَار",
+            "translit": "anṣār",
+            "en": "helpers",
+            "my": "အန်ဆွာရ်များ",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "The Fa'il pattern shows the one giving the aid.",
+        "example": {
+          "ar": "مَا لَهُ مِن نَّاصِرٍ",
+          "en": "he has no helper",
+          "my": "သူ့အတွက် မည်သည့်ကူညီသူမျှမရှိ",
+          "ref": "86:10"
+        }
+      },
+      {
+        "word": "مَهْدِيٌّ",
+        "translit": "mahdī",
+        "en": "guided one",
+        "my": "တရားလမ်းမှန်ရရှိသူ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ဟ ဒ ယ",
+          "concept_en": "guidance",
+          "concept_my": "တရားလမ်းညွှန်မှု"
+        },
+        "memory_hook": {
+          "sound": "Mah-Dee",
+          "image": "Guided into the 'Deep' truth.",
+          "cross_language": "Mahdi (The awaited guided leader)"
+        },
+        "word_family": [
+          {
+            "ar": "هَادِي",
+            "translit": "hādī",
+            "en": "guide",
+            "my": "လမ်းညွှန်သူ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "For roots ending in 'Ya', the Maf'ul becomes 'Mahdi' instead of 'Mahduy'.",
+        "example": {
+          "ar": "أَنَّهُم مَّهْدِيُّونَ",
+          "en": "that they are guided",
+          "my": "၎င်းတို့သည် တရားရရှိသူများဖြစ်ကြောင်း",
+          "ref": "19:29"
+        }
+      },
+      {
+        "word": "رَازِقٌ",
+        "translit": "rāziq",
+        "en": "provider",
+        "my": "ရိက္ခာပေးသနားသူ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ရ ဇ က",
+          "concept_en": "providing",
+          "concept_my": "ရိက္ခာပေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ra-Ziq",
+          "image": "The Rain (Ra) provides for the earth.",
+          "cross_language": "Ar-Razzaq (The Great Provider)"
+        },
+        "word_family": [
+          {
+            "ar": "يَرْزُقُ",
+            "translit": "yarzuqu",
+            "en": "He provides",
+            "my": "သူရိက္ခာပေးသည်",
+            "freq": 48
+          }
+        ],
+        "pattern_unlock": "Allah is the Raziq (Doer), and we are the Marzuq (Receivers).",
+        "example": {
+          "ar": "خَيْرُ الرَّازِقِينَ",
+          "en": "The best of providers",
+          "my": "အကောင်းဆုံးသော ရိက္ခာပေးသနားတော်မူသော အရှင်",
+          "ref": "5:114"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمُقَابَلَةُ بَيْنَ الْفَاعِلِ وَالْمَفْعُولِ",
+        "en": "Contrast between Fa'il and Maf'ul",
+        "my": "ပြုသူနှင့် အပြုခံ နှိုင်းယှဉ်ချက်"
+      },
+      "formula": {
+        "display": "Root [F-Aa-L] -> فَاعِل (Active) vs مَفْعُول (Passive)",
+        "example": "K-T-B -> Katib (Writer) vs Maktub (Written)",
+        "myanmar_read": "အာရဗီစကားလုံးတွေမှာ 'အာ' (aa) အသံပါရင် 'ပြုလုပ်သူ'၊ 'မ...အူးလ်' (Ma...uul) ပါရင် 'အပြုခံ' လို့ မှတ်ပါ။",
+        "key_insight": "Changing the pattern changes the perspective from the actor to the object."
+      },
+      "explanation": {
+        "en": "This lesson focuses on the side-by-side comparison of the active participle (Fa'il) and the passive participle (Maf'ul). By understanding both, you can see how the same root can represent the one who acts and the one who is acted upon. This is the beauty of Arabic morphology (Sarf).",
+        "my": "ဤသင်ခန်းစာသည် တက်ကြွနာမ် (Fa'il) နှင့် ခံရသူပြနာမ် (Maf'ul) တို့ကို ယှဉ်တွဲလေ့လာခြင်းဖြစ်သည်။ ဤနှစ်ခုကို သိရှိခြင်းဖြင့် အမြစ်တစ်ခုတည်းမှ 'ပြုလုပ်သူ' နှင့် 'အပြုခံရသူ' နှစ်မျိုးလုံးကို ခွဲခြားသိမြင်နိုင်သည်။ ဤသည်မှာ အာရဗီသဒ္ဒါ (Sarf) ၏ ထူးခြားချက်ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use 'ပြုသူ' (Doer) vs 'ခံရသူ' (Victim/Receiver). In Arabic, the sound change alone carries this weight.",
+        "my": "မြန်မာလို 'ပြုလုပ်သူ' နှင့် 'အပြုခံရသူ' ဟု ခွဲခြားသကဲ့သို့ အာရဗီတွင် အသံထွက်ပြောင်းရုံဖြင့် အဓိပ္ပာယ်ပြောင်းသွားသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Fa'il pattern has an 'Alif' after the first letter.",
+          "rule_my": "Fa'il ပုံစံတွင် ပထမအက္ခရာနောက်၌ 'အလိဖ်' (Alif) ပါရှိသည်။",
+          "example": {
+            "ar": "قَاتِل",
+            "en": "Killer",
+            "my": "သတ်ဖြတ်သူ"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Maf'ul pattern starts with 'Meem' and has a 'Waw' before the last letter.",
+          "rule_my": "Maf'ul ပုံစံသည် 'Meem' နှင့်စပြီး နောက်ဆုံးအက္ခရာရှေ့တွင် 'Waw' ပါရှိသည်။",
+          "example": {
+            "ar": "مَقْتُول",
+            "en": "Killed",
+            "my": "အသတ်ခံရသူ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Contrast Drill",
+          "ar": "وَاللَّهُ خَالِقُ كُلِّ شَيْءٍ",
+          "en": "And Allah is the Creator of all things",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည်ပင် အရာအားလုံးကို ဖန်ဆင်းတော်မူသောအရှင်ဖြစ်သည့်အပြင် အရှင်မြတ်သည်ပင် အရာအားလုံးအပေါ်တွင် ထိန်းသိမ်းတော်မူသော အရှင်လည်းဖြစ်တော်မူသည်။",
+          "ref": "39:62",
+          "breakdown": {
+            "subject": {
+              "word": "خَالِقُ",
+              "en": "Creator",
+              "note": "Active Participle"
+            },
+            "predicate": {
+              "word": "كُلِّ شَيْءٍ",
+              "en": "every thing",
+              "note": "The objects created (Makhluqat)"
+            }
+          },
+          "myanmar_insight": "အလ္လာဟ်အရှင်မြတ်သည် 'ခါလိက်' (ပြုသူ) ဖြစ်ပြီး ကျန်အရာအားလုံးမှာ 'မခ်လူက့်' (အပြုခံ) ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing up the patterns due to similar sounds.",
+          "wrong": {
+            "ar": "مَنْصَر",
+            "note": "Nonsense word, missing the long vowel"
+          },
+          "correct": {
+            "ar": "مَنْصُور",
+            "en": "One helped",
+            "my": "ကူညီခံရသူ"
+          },
+          "myanmar_tip": "မဖ်အူးလ် ဆိုတဲ့အတိုင်း 'အူးလ်' အသံကို ရှည်ရှည်ဆွဲဖတ်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Is 'Nasir' Fa'il or Maf'ul?",
+          "instruction_my": "'Nasir' သည် Fa'il လား Maf'ul လား?",
+          "questions": [
+            {
+              "q": "نَاصِر",
+              "answer_en": "Fa'il (Doer)",
+              "answer_my": "Fa'il (ပြုလုပ်သူ)",
+              "ref": "86:10"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: The Creator and the Created",
+          "instruction_my": "'ဖန်ဆင်းရှင်နှင့် ဖန်ဆင်းခံ' ကို အာရဗီပြန်ပါ။",
+          "questions": [
+            {
+              "q": "The Creator and the Created",
+              "answer_en": "Al-Khaliq wal-Makhluq",
+              "answer_my": "အလ်ခါလိက် ဝလ်မခ်လူက့်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Convert 'Sajid' (one prostrating) to its Maf'ul form",
+          "instruction_my": "'Sajid' ကို Maf'ul ပုံစံပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "Sajid (سَاجِد)",
+              "answer_en": "Masjud (مَسْجُود)",
+              "answer_my": "မတ်စဂျူးဒ် (အရှင်မြတ်)",
+              "ar": "مَسْجُود"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The distinction between Fa'il and Maf'ul is the distinction between God and His creation. Only He is the ultimate Fa'il (Actor), while we are constantly the objects of His mercy, guidance, and provision.",
+        "my": "Fa'il နှင့် Maf'ul ခြားနားချက်သည် ဖန်ဆင်းရှင်နှင့် ဖန်ဆင်းခံတို့၏ ခြားနားချက်ပင်ဖြစ်သည်။ အရှင်မြတ်သည်သာ အစစ်အမှန် 'ပြုလုပ်သူ' (Fa'il) ဖြစ်ပြီး ကျွန်ုပ်တို့မှာ အရှင်မြတ်၏ ကရုဏာ၊ လမ်းညွှန်မှုနှင့် ရိက္ခာတို့ကို အစဉ်တစိုက် 'လက်ခံရရှိသူ' (Maf'ul) များသာ ဖြစ်ကြသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Hajj 22:30",
+        "study_number": 1,
+        "arabic_full": "ذَٰلِكَ وَمَنْ يُعَظِّمْ حُرُمَاتِ اللَّهِ فَهُوَ خَيْرٌ لَهُ عِنْدَ رَبِّهِ ۗ وَأُحِلَّتْ لَكُمُ الْأَنْعَامُ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ",
+        "en_sahih": "That [is so]. And whoever honors the sacred ordinances of Allah - it is best for him in the sight of his Lord. And permitted to you are the grazing livestock except what is recited to you.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S22_A30",
+        "audio_ref": {
+          "surah": 22,
+          "ayah": 30,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/022030.mp3"
+        },
+        "qurancom_url": "https://quran.com/22/30",
+        "context": {
+          "en": "Context of Hajj and the respect for Allah's sacred symbols and laws.",
+          "my": "ဟဂျ်နှင့်ပတ်သက်သော အခန်းကဏ္ဍဖြစ်ပြီး အလ္လာဟ်အရှင်မြတ်၏ မြင့်မြတ်သော သင်္ကေတများနှင့် ပညတ်ချက်များကို လေးစားရန် ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "يُتْلَىٰ",
+            "translit": "yutlā",
+            "en": "is recited",
+            "my": "ရွတ်ဖတ်ခြင်းခံရသော",
+            "role_en": "Passive Verb",
+            "role_my": "ခံရသူပြကြိယာ",
+            "root": "သ လ ဝ",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "While 'yutla' is a verb, its concept aligns with the Maf'ul (Matluww - that which is recited).",
+          "structure_my": "'yutla' သည် ကြိယာဖြစ်သော်လည်း ၎င်း၏အဓိပ္ပာယ်မှာ မဖ်အူးလ် (ရွတ်ဖတ်ခြင်းခံရသောအရာ) နှင့် ဆက်စပ်နေသည်။",
+          "insight_en": "Passive forms highlight the action being done upon something without needing to mention the actor every time.",
+          "insight_my": "ခံရသူပြပုံစံများသည် ပြုလုပ်သူကို အမြဲဖော်ပြနေစရာမလိုဘဲ လုပ်ဆောင်ချက်ကိုသာ အလေးပေးဖော်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "သ လ ဝ",
+            "concept_en": "To follow something or to recite/read sequentially.",
+            "concept_my": "တစ်ခုနောက်တစ်ခု လိုက်ခြင်း သို့မဟုတ် အစဉ်လိုက် ရွတ်ဖတ်ခြင်း။",
+            "members": [
+              {
+                "ar": "تِلَاوَة",
+                "en": "Recitation",
+                "my": "ရွတ်ဖတ်ခြင်း",
+                "freq": 1
+              }
+            ],
+            "professors_note": "Reciting Quran is called Tilawah because you 'follow' one word after another."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ပညတ်တော်များကို လေးစားလိုက်နာသူမှာ 'ခိုင်းရ်' (အကောင်းဆုံးသူ) ဖြစ်သည်။ ကျွန်ုပ်တို့ ကုရ်အာန်ကို ရွတ်ဖတ်သည့်အခါတိုင်း အရှင်မြတ်၏ စကားတော်များကို 'လိုက်နာသူ' များ ဖြစ်ရန် ကြိုးစားရပါမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ending 'alaykum' provides a familiar address to the listeners.",
+          "meaning_anchor": "Imagine a scroll being unrolled and read aloud.",
+          "daily_connection": "When you hear the Quran being recited, remember it is 'Matluww' (the recited thing).",
+          "my": "'အလိုင်ကွမ်း' ဟူသော အဆုံးသတ်က နားထောင်သူကို တိုက်ရိုက်ပြောဆိုနေသကဲ့သို့ ခံစားရစေသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "This lesson contrasted the Doer (Fa'il) and the Done-to (Maf'ul). By mastering this distinction, students can identify who is acting and what is being acted upon in complex Quranic sentences.",
+      "my": "ဤသင်ခန်းစာတွင် ပြုသူ (Fa'il) နှင့် အပြုခံ (Maf'ul) တို့ကို နှိုင်းယှဉ်လေ့လာခဲ့သည်။ ဤခြားနားချက်ကို တတ်မြောက်ခြင်းဖြင့် ကုရ်အာန်၏ ရှုပ်ထွေးသော ဝါကျများတွင် မည်သူက ပြုလုပ်သူဖြစ်ပြီး မည်သည့်အရာက အပြုခံရသူဖြစ်ကြောင်း ခွဲခြားသိမြင်နိုင်မည်ဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-084",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 84,
+    "title": {
+      "ar": "النَّائِبُ عَنِ الْفَاعِلِ — الْمَبْنِيُّ لِلْمَجْهُولِ",
+      "en": "Passive Participle IV — Passive Voice in Quranic Sentences",
+      "my": "ခံရသူပြနာမ် (၄) — ကုရ်အာန်ပါ ခံရသူပြဝါကျများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Passive verbal sentence: Na'ib al-Fa'il; unknown agent",
+      "grammar_formula": "Passive Verb + Na'ib Fa'il"
+    },
+    "section_1_vocab": [
+      {
+        "word": "يُرْزَقُونَ",
+        "translit": "yurzaqūn",
+        "en": "they are provided for",
+        "my": "၎င်းတို့သည် ရိက္ခာပေးခြင်းခံရကြသည်",
+        "quran_freq": 15,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "Passive",
+        "root": {
+          "letters": "ရ ဇ က",
+          "concept_en": "provision",
+          "concept_my": "ရိက္ခာ"
+        },
+        "memory_hook": {
+          "sound": "Yur-Zaq",
+          "image": "Your sack (zaq) is filled with food.",
+          "cross_language": "Rizq"
+        },
+        "word_family": [
+          {
+            "ar": "رَزَقَ",
+            "translit": "razaqa",
+            "en": "he provided",
+            "my": "သူရိက္ခာပေးခဲ့သည်",
+            "freq": 60
+          }
+        ],
+        "pattern_unlock": "The 'u' sound at the beginning of the verb (Yu-) signals a passive voice.",
+        "example": {
+          "ar": "يُرْزَقُونَ فِيهَا",
+          "en": "they are provided for therein",
+          "my": "၎င်းတို့သည် ထိုနေရာ၌ ရိက္ခာပေးခြင်းခံရကြမည်",
+          "ref": "40:40"
+        }
+      },
+      {
+        "word": "يُبْعَثُونَ",
+        "translit": "yubʿathūn",
+        "en": "they are resurrected",
+        "my": "၎င်းတို့သည် ပြန်လည်ရှင်သန်စေခြင်းခံရကြမည်",
+        "quran_freq": 10,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "Passive",
+        "root": {
+          "letters": "ဗ အ သ",
+          "concept_en": "sending/raising",
+          "concept_my": "စေလွှတ်ခြင်း/ရှင်သန်ထမြောက်စေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Yub-Ath",
+          "image": "Rising from the Earth (Ath).",
+          "cross_language": "Ba'th (Resurrection day)"
+        },
+        "word_family": [
+          {
+            "ar": "بَعَثَ",
+            "translit": "baʿatha",
+            "en": "he sent/raised",
+            "my": "သူစေလွှတ်ခဲ့သည်",
+            "freq": 35
+          }
+        ],
+        "pattern_unlock": "Yu- followed by an 'a' sound before the end often indicates 'being done to'.",
+        "example": {
+          "ar": "يَوْمَ يُبْعَثُونَ",
+          "en": "the day they are resurrected",
+          "my": "၎င်းတို့ ပြန်လည်ရှင်သန်ထမြောက်ကြမည့်နေ့",
+          "ref": "7:14"
+        }
+      },
+      {
+        "word": "يُنصَرُونَ",
+        "translit": "yunṣarūn",
+        "en": "they are helped",
+        "my": "၎င်းတို့သည် အကူအညီပေးခြင်းခံရကြသည်",
+        "quran_freq": 18,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "Passive",
+        "root": {
+          "letters": "န ဆ ရ",
+          "concept_en": "victory",
+          "concept_my": "အောင်ပွဲ"
+        },
+        "memory_hook": {
+          "sound": "Yun-Sar",
+          "image": "The sun rises to help them.",
+          "cross_language": "Nasir"
+        },
+        "word_family": [
+          {
+            "ar": "نَصَرَ",
+            "translit": "naṣara",
+            "en": "he helped",
+            "my": "သူကူညီခဲ့သည်",
+            "freq": 92
+          }
+        ],
+        "pattern_unlock": "The structure Yu-N-S-A-R shows a passive state in the present tense.",
+        "example": {
+          "ar": "لَا هُمْ يُنصَرُونَ",
+          "en": "nor will they be helped",
+          "my": "၎င်းတို့သည် အကူအညီပေးခြင်းခံရကြမည်မဟုတ်",
+          "ref": "2:48"
+        }
+      },
+      {
+        "word": "يُفْسَدُ",
+        "translit": "yufsadu",
+        "en": "is corrupted/spoiled",
+        "my": "ဖျက်ဆီးခြင်းခံရသည်/ပျက်စီးသည်",
+        "quran_freq": 1,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "Passive",
+        "root": {
+          "letters": "ဖ စ ဒ",
+          "concept_en": "corruption",
+          "concept_my": "ဖျက်ဆီးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Yuf-Sad",
+          "image": "It is sad when things are spoiled.",
+          "cross_language": "Fasad (Chaos/Corruption)"
+        },
+        "word_family": [
+          {
+            "ar": "فَسَاد",
+            "translit": "fasād",
+            "en": "mischief",
+            "my": "ဆူပူသောင်းကျန်းမှု",
+            "freq": 21
+          }
+        ],
+        "pattern_unlock": "The root F-S-D is central to warnings about societal decay.",
+        "example": {
+          "ar": "لَفَسَدَتِ الْأَرْضُ",
+          "en": "the earth would have been corrupted",
+          "my": "ကမ္ဘာမြေသည် ပျက်စီးသွားပေလိမ့်မည်",
+          "ref": "2:251"
+        }
+      },
+      {
+        "word": "يُبَيَّنُ",
+        "translit": "yubayyanu",
+        "en": "is made clear",
+        "my": "ရှင်းလင်းအောင်ပြုလုပ်ခြင်းခံရသည်",
+        "quran_freq": 5,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "Passive",
+        "root": {
+          "letters": "ဗ ယ န",
+          "concept_en": "clarity",
+          "concept_my": "ရှင်းလင်းပြတ်သားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Yu-Bayan",
+          "image": "A clear speech (Bayan) being given.",
+          "cross_language": "Bayan (Religious speech in Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "بَيَان",
+            "translit": "bayān",
+            "en": "explanation",
+            "my": "ရှင်းလင်းချက်",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "When Allah explains something, it 'is made clear' (yubayyanu) to us.",
+        "example": {
+          "ar": "يُبَيِّنُ اللَّهُ لَكُمُ",
+          "en": "Allah makes clear to you",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အား ရှင်းလင်းပြသတော်မူ၏",
+          "ref": "4:176"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "النَّائِبُ عَنِ الْفَاعِلِ",
+        "en": "The Pro-Agent (Na'ib al-Fa'il)",
+        "my": "ပြုသူ၏ကိုယ်စား နာမ်"
+      },
+      "formula": {
+        "display": "Passive Verb + Noun (Marfu')",
+        "example": "خُلِقَ الْإِنسَانُ (Man was created)",
+        "myanmar_read": "ပြုလုပ်သူကို အတိအကျမသိရဘဲ 'အပြုခံရသူ' ကိုသာ ကတ္တားနေရာမှာ ထားပြီး ပြောဆိုတဲ့ဝါကျဖြစ်ပါတယ်။",
+        "key_insight": "The object now takes the 'Dhamma' (U-vowel) because it acts as the substitute subject."
+      },
+      "explanation": {
+        "en": "When a sentence is in the passive voice (Majhul), the person performing the action is either unknown or already understood. The object of the action then moves to the front and acts as the 'subject' of the sentence, taking the Marfu' (nominative) case. This noun is called Na'ib al-Fa'il (Substitute for the Actor).",
+        "my": "ဝါကျတစ်ခုသည် ခံရသူပြ (Majhul) ဖြစ်နေသောအခါ လုပ်ဆောင်သူကို အတိအကျမဖော်ပြဘဲ အပြုခံရသူကိုသာ ဝါကျ၏ အဓိကထားရမည့်နေရာ (ကတ္တား) တွင် ထားရှိသည်။ ထိုအခါ အပြုခံရသူနာမ်သည် ဓမ္မဟ် (Dammah) ကို လက်ခံရရှိပြီး ၎င်းကို Na'ib al-Fa'il (ပြုလုပ်သူ၏ကိုယ်စား နာမ်) ဟု ခေါ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to: 'The food was eaten' instead of 'He ate the food'. In Myanmar, we use '-ခြင်းခံရသည်'.",
+        "my": "မြန်မာလို 'သူသည် ထမင်းကို စားခဲ့သည်' အစား 'ထမင်းသည် စားခြင်းခံရသည်' ဟု ပြောခြင်းနှင့် တူညီသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The verb vowel changes to 'u' at the start for passive.",
+          "rule_my": "ခံရသူပြကြိယာတွင် အစအက္ခရာသည် 'အူ' (u) သံ ပြောင်းသွားသည်။",
+          "example": {
+            "ar": "قُتِلَ",
+            "en": "Was killed",
+            "my": "အသတ်ခံရသည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "The object following the passive verb becomes Marfu' (ends in -u).",
+          "rule_my": "ခံရသူပြကြိယာနောက်မှ နာမ်သည် Marfu' (U သံ) ဖြင့် ဆုံးရမည်။",
+          "example": {
+            "ar": "خُلِقَ الْإِنْسَانُ",
+            "en": "The human was created",
+            "my": "လူသားသည် ဖန်ဆင်းခြင်းခံရသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — Passive Voice",
+          "ar": "خُلِقَ الْإِنسَانُ ضَعِيفًا",
+          "en": "Man was created weak",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့၏(ဝန်ကို) လျော့ပေါ့စေတော်မူရန် (အသင်တို့၏အရေးကိစ္စများ လွယ်ကူမှုဖြစ်စေရန်) ရည်ရွယ်တော်မူသည်။  ထို့ပြင် လူသားသည် ချည့်နဲ့သူအဖြစ် ဖန်ဆင်းခြင်းခံခဲ့ရသည်။",
+          "ref": "4:28",
+          "breakdown": {
+            "subject": {
+              "word": "الْإِنسَانُ",
+              "en": "the human",
+              "note": "Na'ib Fa'il (Subst. Subject)"
+            },
+            "predicate": {
+              "word": "خُلِقَ",
+              "en": "was created",
+              "note": "Passive Verb"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် ဖန်ဆင်းရှင် (အလ္လာဟ်) ကို မဖော်ပြဘဲ လူသား၏ ဖန်ဆင်းခံရမှု အခြေအနေကိုသာ အလေးပေးထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using Fatha on the Na'ib Fa'il like a normal object.",
+          "wrong": {
+            "ar": "خُلِقَ الْإِنْسَانَ",
+            "note": "The noun must be Marfu' (-u), not Mansub (-a)"
+          },
+          "correct": {
+            "ar": "خُلِقَ الْإِنْسَانُ",
+            "en": "Man was created",
+            "my": "လူသားသည် ဖန်ဆင်းခြင်းခံရသည်"
+          },
+          "myanmar_tip": "ဝါကျအစမှာ 'အူ' သံနဲ့ ကြိယာပါလာရင် နောက်က နာမ်ကိုလည်း 'အူ' သံနဲ့ ဆုံးပေးပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the passive verb in Surah An-Nisa 28",
+          "instruction_my": "စူရဟ်နိစာအ် အာယသ် ၂၈ ထဲမှ ခံရသူပြကြိယာကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "خُلِقَ الْإِنسَانُ ضَعِيفًا",
+              "answer_en": "khuliqa (was created)",
+              "answer_my": "khuliqa (ဖန်ဆင်းခြင်းခံရသည်)",
+              "ref": "4:28"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate 'Yurzaqun' into English",
+          "instruction_my": "'Yurzaqun' ကို အင်္ဂလိပ်လို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "يُرْزَقُونَ",
+              "answer_en": "They are provided for",
+              "answer_my": "၎င်းတို့သည် ရိက္ခာပေးခြင်းခံရကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change 'Kataba' (he wrote) to 'Kutiba' (it was written)",
+          "instruction_my": "'Kataba' (ရေးခဲ့သည်) ကို 'Kutiba' (ရေးသားခြင်းခံရသည်) သို့ ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "كَتَبَ",
+              "answer_en": "Kutiba",
+              "answer_my": "ကုသေိဗ",
+              "ar": "كُتِبَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The use of the passive voice in the Quran often focuses on the result and the blessing rather than the agent, especially when the agent is obviously Allah. It humbles us to see ourselves as the recipients of action.",
+        "my": "ကုရ်အာန်တွင် ခံရသူပြဝါကျများကို သုံးခြင်းသည် ပြုလုပ်သူ (အလ္လာဟ်) ထက် ရလဒ်နှင့် ကောင်းချီးမင်္ဂလာကို ပိုမိုအလေးပေးလိုသောကြောင့် ဖြစ်သည်။ ၎င်းသည် ကျွန်ုပ်တို့အား အရှင်မြတ်၏ အပြုစုအစောင့်အရှောက်ကို ခံနေရသူများဖြစ်ကြောင်း သတိပေးနှိမ့်ချစေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:183",
+        "study_number": 1,
+        "arabic_full": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+        "en_sahih": "O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S2_A183",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 183,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002183.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/183",
+        "context": {
+          "en": "This is the primary ayah establishing the obligation of fasting in Ramadan.",
+          "my": "ဤသည်မှာ ရမဿွာန်လတွင် ဥပုသ်သီလဆောက်တည်ရန် တာဝန်ရှိကြောင်း သတ်မှတ်ပေးသည့် အဓိကအာယသ်တော်ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "كُتِبَ",
+            "translit": "kutiba",
+            "en": "is decreed/written",
+            "my": "သတ်မှတ်/ရေးသားထားသည်",
+            "role_en": "Passive Verb",
+            "role_my": "ခံရသူပြကြိယာ",
+            "root": "က သ ဗ",
+            "freq": 1
+          },
+          {
+            "ar": "الصِّيَامُ",
+            "translit": "aṣ-ṣiyāmu",
+            "en": "the fasting",
+            "my": "ဥပုသ်သီလ",
+            "role_en": "Na'ib al-Fa'il",
+            "role_my": "ပြုသူ၏ကိုယ်စားနာမ်",
+            "root": "ဆ ဝ မ",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "'Kutiba' is passive, making 'As-Siyam' the subject of the decree.",
+          "structure_my": "'Kutiba' သည် ခံရသူပြဖြစ်ပြီး 'As-Siyam' သည် ထိုအမိန့်တော်၏ အဓိကနာမ်ဖြစ်သည်။",
+          "insight_en": "The use of 'decreed' (written) suggests that the law is firm and unchangeable.",
+          "insight_my": "'ရေးသားထားသည်' ဟု သုံးနှုန်းခြင်းသည် ဤဥပဒေမှာ ခိုင်မာပြီး ပြောင်းလဲ၍မရကြောင်း ညွှန်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "က သ ဗ",
+            "concept_en": "Gathering and binding; hence writing as it binds meanings to parchment.",
+            "concept_my": "စုစည်းခြင်းနှင့် ချည်နှောင်ခြင်း။ ထို့ကြောင့် အဓိပ္ပာယ်များကို စာမျက်နှာပေါ်တွင် ချည်နှောင်ထားခြင်းကို ရေးသားခြင်းဟု ခေါ်သည်။",
+            "members": [
+              {
+                "ar": "كِتَاب",
+                "en": "Book",
+                "my": "စာအုပ်/ကျမ်း",
+                "freq": 261
+              }
+            ],
+            "professors_note": "In Islamic law, 'Kutiba' is a strong expression for an absolute obligation."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဥပုသ်သီလသည် ကျွန်ုပ်တို့အပေါ်တွင် 'ကုသေိဗ' (သတ်မှတ်ပြီးသား) ဖြစ်သည်။ ၎င်းသည် ရှေးယခင်လူမျိုးများအပေါ်တွင်လည်း သတ်မှတ်ခဲ့ဖူးသည်။ ဤတာဝန်ကို ကျေပွန်ခြင်းဖြင့် ကျွန်ုပ်တို့သည် 'သက္ကဝါ' (အရှင်မြတ်အား ကြောက်ရွံ့ရိုသေမှု) ကို ရရှိနိုင်မည်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The flow from 'Kutiba alaykum' to 'Kama kutiba' creates a sense of historical continuity.",
+          "meaning_anchor": "Imagine a decree being officially stamped and signed.",
+          "daily_connection": "Every Ramadan, remember that this duty is 'Kutiba' (Decreed) for your spiritual growth.",
+          "my": "'ကုသေိဗ အလိုင်းကွမ်း' ဟူသော အစကို မှတ်သားထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored the passive voice in Quranic sentences, where the focus shifts to the object of the action. Terms like 'Kutiba' (decreed) and 'Khuliqa' (created) are fundamental to understanding the theological descriptions of law and nature in the Quran.",
+      "my": "ကုရ်အာန်ပါ ခံရသူပြဝါကျများကို လေ့လာခဲ့ပြီး လုပ်ဆောင်ချက်၏ အပြုခံအပေါ် မည်သို့အာရုံစိုက်ရမည်ကို သိရှိခဲ့သည်။ 'Kutiba' (သတ်မှတ်ချက်) နှင့် 'Khuliqa' (ဖန်ဆင်းမှု) ကဲ့သို့သော စကားလုံးများသည် ကုရ်အာန်၏ ဥပဒေနှင့် သဘာဝတရားဆိုင်ရာ ဖော်ပြချက်များကို နားလည်ရန် အခြေခံဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-085",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 85,
+    "title": {
+      "ar": "مُرَاجَعَةُ اسْمِ الْفَاعِلِ وَاسْمِ الْمَفْعُولِ",
+      "en": "Passive Participle V — Review: Ism al-Fa'il and Ism al-Maf'ul",
+      "my": "ခံရသူပြနာမ် (၅) — ပြန်လည်နွှေးခြင်း - ပြုသူနှင့် အပြုခံနာမ်များ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Comprehensive review of both participle forms",
+      "grammar_formula": "فَاعِل vs مَفْعُول Comparison Matrix"
+    },
+    "section_1_vocab": [
+      {
+        "word": "عَالِمٌ",
+        "translit": "ʿālim",
+        "en": "knower/scholar",
+        "my": "အသိပညာရှိသူ/ပညာရှင်",
+        "quran_freq": 13,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "အ လ မ",
+          "concept_en": "knowledge",
+          "concept_my": "အသိပညာ"
+        },
+        "memory_hook": {
+          "sound": "Alim",
+          "image": "A teacher in a classroom.",
+          "cross_language": "Alim (Scholar)"
+        },
+        "word_family": [
+          {
+            "ar": "عِلْم",
+            "translit": "ʿilm",
+            "en": "knowledge",
+            "my": "ပညာ",
+            "freq": 105
+          }
+        ],
+        "pattern_unlock": "The 'aa' after the first letter denotes the possessor of knowledge.",
+        "example": {
+          "ar": "عَالِمُ الْغَيْبِ",
+          "en": "Knower of the unseen",
+          "my": "မမြင်ကွယ်ရာကို သိတော်မူသောအရှင်",
+          "ref": "6:73"
+        }
+      },
+      {
+        "word": "مَعْلُومٌ",
+        "translit": "maʿlūm",
+        "en": "known/specified",
+        "my": "သိရှိပြီးဖြစ်သော/သတ်မှတ်ထားသော",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "အ လ မ",
+          "concept_en": "knowledge",
+          "concept_my": "အသိပညာ"
+        },
+        "memory_hook": {
+          "sound": "Ma-Loom",
+          "image": "It looms in the known distance.",
+          "cross_language": "Maloom (Urdu/Myanmar usage)"
+        },
+        "word_family": [
+          {
+            "ar": "يَعْلَمُ",
+            "translit": "yaʿlamu",
+            "en": "he knows",
+            "my": "သူသိသည်",
+            "freq": 518
+          }
+        ],
+        "pattern_unlock": "Ma'lum is something that has been discovered or fixed.",
+        "example": {
+          "ar": "إِلَىٰ يَوْمٍ مَّعْلُومٍ",
+          "en": "until a known day",
+          "my": "သတ်မှတ်ထားသော နေ့တစ်နေ့အထိ",
+          "ref": "15:38"
+        }
+      },
+      {
+        "word": "حَامِدٌ",
+        "translit": "ḥāmid",
+        "en": "one who praises",
+        "my": "ချီးမွမ်းသူ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ဟ မ ဒ",
+          "concept_en": "praise",
+          "concept_my": "ချီးမွမ်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hamid",
+          "image": "Hamid is always smiling and praising.",
+          "cross_language": "Alhamdulillah"
+        },
+        "word_family": [
+          {
+            "ar": "مَحْمُود",
+            "translit": "maḥmūd",
+            "en": "praised",
+            "my": "ချီးမွမ်းခံရသူ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The doer of Hamd is Hamid.",
+        "example": {
+          "ar": "التَّائِبُونَ الْعَابِدُونَ الْحَامِدُونَ",
+          "en": "The repentant, the worshippers, the praisers",
+          "my": "သောင်ဗဟ်ပြုသူများ၊ ခေတ်မသ်ပြုသူများ၊ ချီးမွမ်းသူများ",
+          "ref": "9:112"
+        }
+      },
+      {
+        "word": "مَحْمُودٌ",
+        "translit": "maḥmūd",
+        "en": "praised/praiseworthy",
+        "my": "ချီးကျူးဂုဏ်ပြုထိုက်သော",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ဟ မ ဒ",
+          "concept_en": "praise",
+          "concept_my": "ချီးမွမ်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mah-Mood",
+          "image": "In a good mood when praised.",
+          "cross_language": "Muhammad (The highly praised)"
+        },
+        "word_family": [
+          {
+            "ar": "حَمْد",
+            "translit": "ḥamd",
+            "en": "praise",
+            "my": "ချီးမွမ်းမှု",
+            "freq": 43
+          }
+        ],
+        "pattern_unlock": "Mahmud is the state of being praised by others.",
+        "example": {
+          "ar": "مَقَامًا مَّحْمُودًا",
+          "en": "a praiseworthy station",
+          "my": "ချီးမွမ်းခြင်းခံရမည့် အဆင့်အတန်း",
+          "ref": "17:79"
+        }
+      },
+      {
+        "word": "شَاكِرٌ",
+        "translit": "shākir",
+        "en": "grateful/thankful",
+        "my": "ကျေးဇူးသိတတ်သူ",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ရှ က ရ",
+          "concept_en": "thankfulness",
+          "concept_my": "ကျေးဇူးတင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sha-Kir",
+          "image": "Shaking hands to say thank you.",
+          "cross_language": "Shukr"
+        },
+        "word_family": [
+          {
+            "ar": "مَشْكُور",
+            "translit": "mashkūr",
+            "en": "appreciated",
+            "my": "ကျေးဇူးတင်ခြင်းခံရသော",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The Shākir is the human, and the effort is Mashkūr (appreciated) by Allah.",
+        "example": {
+          "ar": "إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+          "en": "whether he be grateful or ungrateful",
+          "my": "ကျေးဇူးသိတတ်သူဖြစ်စေ သို့မဟုတ် ကျေးဇူးကန်းသူဖြစ်စေ",
+          "ref": "76:3"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "مُرَاجَعَةُ الصِّيَغِ",
+        "en": "Review of Forms",
+        "my": "ပုံစံများကို ပြန်လည်သုံးသပ်ခြင်း"
+      },
+      "formula": {
+        "display": "Active: 1-aa-2-i-3 vs Passive: Ma-1-2-oo-3",
+        "example": "Katib vs Maktub",
+        "myanmar_read": "ပြုလုပ်သူပုံစံနဲ့ အပြုခံပုံစံ နှစ်မျိုးလုံးကို နှိုင်းယှဉ်ပြီး အလွတ်ကျက်ပါ။",
+        "key_insight": "Mastering these two patterns unlocks thousands of words from hundreds of roots."
+      },
+      "explanation": {
+        "en": "In this review lesson, we integrate everything we have learned about Ism al-Fa'il and Ism al-Maf'ul. The active participle describes the doer of an action (Shakir - one who thanks), while the passive participle describes the receiver or result of the action (Mashkur - something thanked/appreciated). This duality is central to Arabic morphology.",
+        "my": "ဤပြန်လည်နွှေးသည့် သင်ခန်းစာတွင် Ism al-Fa'il နှင့် Ism al-Maf'ul တို့အကြောင်း လေ့လာခဲ့သမျှကို ပေါင်းစပ်လိုက်သည်။ တက်ကြွနာမ်သည် ပြုလုပ်သူကို ဖော်ပြပြီး (ဥပမာ - ကျေးဇူးတင်သူ)၊ ခံရသူပြနာမ်သည် လုပ်ဆောင်ချက်၏ ရလဒ် သို့မဟုတ် အပြုခံရသောအရာကို ဖော်ပြသည် (ဥပမာ - ကျေးဇူးတင်ခြင်းခံရသောအရာ)။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar grammar uses context and separate words, but Arabic uses internal vowel changes within the same word family.",
+        "my": "မြန်မာသဒ္ဒါတွင် စကားလုံးသီးခြားစီသုံးသော်လည်း အာရဗီတွင် စကားလုံးတစ်ခုတည်း၏ အသံပြောင်းလဲမှုဖြင့် အဓိပ္ပာယ်ကို သတ်မှတ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Identify the 3-letter root first.",
+          "rule_my": "ပထမဦးစွာ အခြေခံ အမြစ်အက္ခရာ ၃ လုံးကို ရှာဖွေပါ။",
+          "example": {
+            "ar": "ع ل م",
+            "en": "Knowledge",
+            "my": "အသိပညာ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Double Contrast",
+          "ar": "فَكَانَ سَعْيُهُم مَّشْكُورًا",
+          "en": "their effort has been appreciated",
+          "my": "MYANMAR_PLACE_HOLDER_S17_A19",
+          "ref": "17:19",
+          "breakdown": {
+            "subject": {
+              "word": "سَعْيُهُم",
+              "en": "their effort",
+              "note": "The object of appreciation"
+            },
+            "predicate": {
+              "word": "مَّشْكُورًا",
+              "en": "appreciated",
+              "note": "Ism al-Maf'ul"
+            }
+          },
+          "myanmar_insight": "ကျွန်ုပ်တို့သည် 'ရှားကိရ်' (ကျေးဇူးတင်သူ) ဖြစ်လျှင် အရှင်မြတ်က ကျွန်ုပ်တို့၏ ကြိုးစားမှုကို 'မရှ်ကူးရ်' (အသိအမှတ်ပြုခြင်း) ပြုလိမ့်မည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Not recognizing irregular roots (like those ending in Ya).",
+          "wrong": {
+            "ar": "مَهْدُوي",
+            "note": "Incorrect for root H-D-Y"
+          },
+          "correct": {
+            "ar": "مَهْدِيّ",
+            "en": "Guided",
+            "my": "တရားလမ်းမှန်ရရှိသူ"
+          },
+          "myanmar_tip": "အဆုံးမှာ 'ယာ' (Ya) ပါတဲ့ စကားလုံးတွေဆိုရင် 'အူးလ်' အစား 'အီ' လို့ အသံထွက်တတ်တာ သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify Fa'il and Maf'ul in: 'Al-Alim wal-Ma'lum'",
+          "instruction_my": "'Al-Alim wal-Ma'lum' ထဲမှ Fa'il နှင့် Maf'ul ကို ခွဲပြပါ။",
+          "questions": [
+            {
+              "q": "الْعَالِمُ وَالْمَعْلُومُ",
+              "answer_en": "Alim (Fa'il), Ma'lum (Maf'ul)",
+              "answer_my": "Alim (ပြုသူ), Ma'lum (အပြုခံ)",
+              "ref": "General"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: A praiseworthy station",
+          "instruction_my": "'ချီးမွမ်းထိုက်သော အဆင့်အတန်း' ကို အာရဗီပြန်ပါ။",
+          "questions": [
+            {
+              "q": "A praiseworthy station",
+              "answer_en": "Maqaman Mahmuda",
+              "answer_my": "မကာမန် မဟ်မူးဒါ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "From root KH-L-Q, write both patterns.",
+          "instruction_my": "KH-L-Q အမြစ်မှ ပုံစံနှစ်မျိုးလုံးကို ရေးပါ။",
+          "questions": [
+            {
+              "q": "Root: KH-L-Q",
+              "answer_en": "Khaliq & Makhluq",
+              "answer_my": "ခါလိက် နှင့် မခ်လူက့်",
+              "ar": "خَالِق وَمَخْلُوق"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Ultimately, Allah is the Shakir (Appreciative) and the Mashkur (One who is thanked). He is the Alim (All-Knowing) and He is the Ma'lum (The One known through His signs). Morphology helps us see the different aspects of the same Divine reality.",
+        "my": "အဆုံးစွန်၌ အလ္လာဟ်အရှင်မြတ်သည် 'ရှားကိရ်' (ကျေးဇူးသိတတ်မှုကို တန်ဖိုးထားသူ) နှင့် 'မရှ်ကူးရ်' (ကျေးဇူးတင်ခြင်းခံရထိုက်သူ) ဖြစ်သည်။ အရှင်သည် 'အာလင်မ်' (အရာခပ်သိမ်းကို သိတော်မူသူ) ဖြစ်သလို မိမိ၏ သက်သေလက္ခဏာများဖြင့် 'မအ်လူးမ်' (သိရှိအပ်သော အရှင်) လည်း ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Isra 17:79",
+        "study_number": 1,
+        "arabic_full": "وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا",
+        "en_sahih": "And from [part of] the night, pray with it as additional [worship] for you; it is expected that your Lord will resurrect you to a praiseworthy station.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S17_A79",
+        "audio_ref": {
+          "surah": 17,
+          "ayah": 79,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/017079.mp3"
+        },
+        "qurancom_url": "https://quran.com/17/79",
+        "context": {
+          "en": "Allah encourages Tahajjud prayer and promises the Prophet (peace be upon him) a high rank in the Hereafter.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် သဟဂျွတ်ဒ် ဝတ်ပြုမှုကို တိုက်တွန်းထားပြီး တမန်တော်မြတ်အား နောင်တမလွန်တွင် မြင့်မြတ်သော အဆင့်အတန်း ပေးသနားမည်ဟု ကတိပြုထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "مَّحْمُودًا",
+            "translit": "maḥmūdan",
+            "en": "praiseworthy",
+            "my": "ချီးမွမ်းခံရသော",
+            "role_en": "Adjective",
+            "role_my": "နာမဝိသေသန",
+            "root": "ဟ မ ဒ",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The word 'Mahmuda' is the Ism al-Maf'ul of root H-M-D.",
+          "structure_my": "'Mahmuda' သည် H-M-D အမြစ်မှ ဆင်းသက်လာသော အပြုခံရသူပြနာမ် ဖြစ်သည်။",
+          "insight_en": "It means the rank itself will be the object of praise from all of creation.",
+          "insight_my": "၎င်းသည် ထိုအဆင့်အတန်းကိုယ်တိုင်မှာ ဖန်ဆင်းခံအားလုံး၏ ချီးမွမ်းခြင်းကို ခံရမည်ဟု ဆိုလိုသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ဟ မ ဒ",
+            "concept_en": "Praise given to someone for their inherent qualities and choices.",
+            "concept_my": "တစ်စုံတစ်ဦး၏ အရည်အချင်းနှင့် ရွေးချယ်မှုများအပေါ် ပေးအပ်သော ချီးမွမ်းခြင်း။",
+            "members": [
+              {
+                "ar": "مُحَمَّد",
+                "en": "Muhammad",
+                "my": "မုဟမ္မဒ်",
+                "freq": 4
+              }
+            ],
+            "professors_note": "Hamd is different from Shukr; Hamd is for who someone IS, Shukr is for what they DID for you."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ညဉ့်နက်ပိုင်းတွင် ဝတ်ပြုခြင်း (Tahajjud) သည် လူသားတစ်ဦးအား 'မကာမန် မဟ်မူးဒါ' (ချီးမွမ်းအပ်သော အဆင့်အတန်း) သို့ ပို့ဆောင်ပေးနိုင်သည်။ ကျွန်ုပ်တို့၏ တမန်တော်မြတ် (ဆွ) ရရှိမည့် ဤအဆင့်အတန်းသည် ကုရ်အာန်၏ အလှပဆုံး ကတိတော်များထဲမှ တစ်ခုဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ending 'Mahmuda' has a soft but grand resonance.",
+          "meaning_anchor": "Imagine a throne of light where someone is being honored by a huge crowd.",
+          "daily_connection": "When you wake up at night, remember the 'Maqaman Mahmuda'.",
+          "my": "'မကာမန် မဟ်မူးဒါ' ဟူသော စကားလုံးအတွဲကို ကျက်မှတ်ထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We concluded Phase 2 Morphology by reviewing the relationship between the Doer and the Done-to. Understanding these patterns allows a student to navigate the Quran's vocabulary with precision and spiritual depth.",
+      "my": "အပြုလုပ်သူနှင့် အပြုခံရသူတို့၏ ဆက်စပ်မှုကို ပြန်လည်သုံးသပ်ခြင်းဖြင့် အဆင့် (၂) ဝေါဟာရဗေဒကို အဆုံးသတ်ခဲ့သည်။ ဤပုံစံများကို နားလည်ခြင်းဖြင့် ကုရ်အာန်ပါ ဝေါဟာရများကို တိကျစွာနှင့် ဝိညာဉ်ရေးရာ အနက်အဓိပ္ပာယ် ပြည့်ဝစွာ နားလည်နိုင်မည်ဖြစ်သည်။"
+    }
+  }
+]

@@ -1,0 +1,2405 @@
+[
+  {
+    "lesson_id": "L1-036",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 36,
+    "title": {
+      "ar": "جَمْعُ الْمُذَكَّرِ السَّالِمُ (١) — وُنَ / يْنَ",
+      "en": "Plurals I — Sound Masculine Plural (-ūna / -īna)",
+      "my": "အမျိုးသားအများကိန်း (၁) — အူနာ နှင့် အီးနာ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Adding ون (nominative) and ين (genitive/accusative)",
+      "grammar_formula": "[Singular Noun] + وُنَ / يْنَ = Sound Masculine Plural"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مُسْلِمُونَ",
+        "translit": "muslimūn",
+        "en": "Muslims",
+        "my": "မွတ်စလင်မ်များ",
+        "quran_freq": 42,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعِلُونَ",
+        "root": {
+          "letters": "س ل م",
+          "concept_en": "submission and peace",
+          "concept_my": "နာခံခြင်းနှင့် ငြိမ်းချမ်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Muslim",
+          "image": "A group of people bowing in prayer together",
+          "cross_language": "Myanmar Muslims use the term Muslim (မွတ်စလင်မ်)"
+        },
+        "word_family": [
+          {
+            "ar": "إِسْلَام",
+            "translit": "Islām",
+            "en": "Submission",
+            "my": "အစ္စလာမ်",
+            "freq": 8
+          }
+        ],
+        "pattern_unlock": "Words starting with 'Mu-' often denote the person performing the action; adding '-una' makes them a group.",
+        "example": {
+          "ar": "إِنَّ الْمُسْلِمِينَ وَالْمُسْلِمَاتِ",
+          "en": "Indeed, the Muslim men and Muslim women",
+          "my": "အမှန်စင်စစ် မွတ်စလင်မ်အမျိုးသားများနှင့် မွတ်စလင်မ်အမျိုးသမီးများသည်",
+          "ref": "33:35"
+        }
+      },
+      {
+        "word": "مُؤْمِنُونَ",
+        "translit": "mu'minūn",
+        "en": "Believers",
+        "my": "ယုံကြည်သူများ",
+        "quran_freq": 230,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعِلُونَ",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "safety and belief",
+          "concept_my": "ဘေးကင်းလုံခြုံခြင်းနှင့် ယုံကြည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Moo-min",
+          "image": "A strong fortress representing safety in faith",
+          "cross_language": "Iman (အီမာန်) is a common term in Myanmar for faith"
+        },
+        "word_family": [
+          {
+            "ar": "آمَنَ",
+            "translit": "āmana",
+            "en": "he believed",
+            "my": "သူယုံကြည်ခဲ့သည်",
+            "freq": 537
+          }
+        ],
+        "pattern_unlock": "The root A-M-N links faith to the feeling of security and peace of mind.",
+        "example": {
+          "ar": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
+          "en": "Certainly will the believers have succeeded",
+          "my": "ဧကန်မလွဲ ယုံကြည်သူများသည် အောင်မြင်ကြပေမည်",
+          "ref": "23:1"
+        }
+      },
+      {
+        "word": "عَامِلُونَ",
+        "translit": "‘āmilūn",
+        "en": "Workers",
+        "my": "လုပ်ဆောင်သူများ",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُونَ",
+        "root": {
+          "letters": "ع م ل",
+          "concept_en": "to work or act",
+          "concept_my": "လုပ်ဆောင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Amil",
+          "image": "A person actively building a wall",
+          "cross_language": "Amal (အာမလ်) refers to religious deeds in Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "عَمَل",
+            "translit": "‘amal",
+            "en": "deed/work",
+            "my": "အလုပ်/အပြုအမူ",
+            "freq": 360
+          }
+        ],
+        "pattern_unlock": "The 'aa-i-' pattern (Fa'il) indicates the 'doer' of an action.",
+        "example": {
+          "ar": "نِعْمَ أَجْرُ الْعَامِلِينَ",
+          "en": "excellent is the reward of the [righteous] workers",
+          "my": "လုပ်ဆောင်သူတို့၏ အကျိုးကျေးဇူးသည် အလွန်ကောင်းမြတ်လှပေသည်",
+          "ref": "3:136"
+        }
+      },
+      {
+        "word": "مُرْسَلُونَ",
+        "translit": "mursalūn",
+        "en": "Messengers",
+        "my": "စေလွှတ်ခြင်းခံရသူများ",
+        "quran_freq": 35,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعَلُونَ",
+        "root": {
+          "letters": "ر س ل",
+          "concept_en": "to send",
+          "concept_my": "စေလွှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mursal",
+          "image": "A letter being delivered by a group of runners",
+          "cross_language": "Rasul (ရစူလ်) is widely understood in Myanmar for Prophet"
+        },
+        "word_family": [
+          {
+            "ar": "رَسُول",
+            "translit": "rasūl",
+            "en": "messenger",
+            "my": "တမန်တော်",
+            "freq": 332
+          }
+        ],
+        "pattern_unlock": "The 'mu-a-' pattern often indicates someone 'to whom' something was done (sent).",
+        "example": {
+          "ar": "إِنَّكَ لَمِنَ الْمُرْسَلِينَ",
+          "en": "Indeed, you are of the messengers",
+          "my": "ဧကန်စင်စစ် သင်သည် စေလွှတ်ခြင်းခံရသော တမန်တော်များထဲမှ ဖြစ်သည်",
+          "ref": "36:3"
+        }
+      },
+      {
+        "word": "شَاكِرُونَ",
+        "translit": "shākirūn",
+        "en": "Grateful ones",
+        "my": "ကျေးဇူးသိတတ်သူများ",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُونَ",
+        "root": {
+          "letters": "ش ك ر",
+          "concept_en": "gratitude",
+          "concept_my": "ကျေးဇူးတင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shakir",
+          "image": "A person looking up with a smile of thanks",
+          "cross_language": "Shukur (ရှုကူရ်) is used in Myanmar for giving thanks"
+        },
+        "word_family": [
+          {
+            "ar": "شُكْر",
+            "translit": "shukr",
+            "en": "thankfulness",
+            "my": "ကျေးဇူးတင်ခြင်း",
+            "freq": 75
+          }
+        ],
+        "pattern_unlock": "Adding '-una' allows the Quran to describe groups of people by their shared quality.",
+        "example": {
+          "ar": "وَسَنَجْزِي الشَّاكِرِينَ",
+          "en": "and We will reward the grateful",
+          "my": "ငါအရှင်သည် ကျေးဇူးသိတတ်သူများကို အကျိုးပေးတော်မူမည်",
+          "ref": "3:145"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "جَمْعُ الْمُذَكَّرِ السَّالِمُ",
+        "en": "Sound Masculine Plural",
+        "my": "အမျိုးသားဆိုင်ရာ ပုံမှန်အများကိန်း"
+      },
+      "formula": {
+        "display": "مُسْلِم + وُنَ = مُسْلِمُونَ / مُسْلِم + يْنَ = مُسْلِمِينَ",
+        "example": "الْمُؤْمِنُونَ خَائِفُونَ",
+        "myanmar_read": "ဧကန်ကိန်း နာမ်နောက်တွင် 'အူနာ' သို့မဟုတ် 'အီးနာ' ပေါင်းထည့်ခြင်းဖြင့် အများကိန်းပြုလုပ်သည်",
+        "key_insight": "The word is called 'Sound' (Salim) because the singular word stays 'healthy' and unbroken inside the plural."
+      },
+      "explanation": {
+        "en": "The Sound Masculine Plural is formed by adding -ūna or -īna to the end of a masculine noun. Unlike 'Broken Plurals' which change the internal structure, these simply add a suffix. Use -ūna when the word is the subject (Marfu) and -īna when it is an object or follows a preposition (Mansub/Majrur).",
+        "my": "အမျိုးသားဆိုင်ရာ ပုံမှန်အများကိန်းကို နာမ်၏အဆုံးတွင် -ūna (သို့မဟုတ်) -īna ပေါင်းခြင်းဖြင့် ပြုလုပ်သည်။ မူလကိန်းမှာ ပုံစံမပျက်ဘဲ အမြီးပိုင်းသာ ပြောင်းလဲခြင်းဖြစ်သည်။ ဝါကျ၏ ကတ္တားနေရာတွင်ရှိလျှင် -ūna ကိုသုံးပြီး၊ ကံ သို့မဟုတ် ရှေ့ဆက်ပုဒ်နောက်တွင်ရှိလျှင် -īna ကိုသုံးသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we simply add 'mya' (များ) to the end. Arabic uses specific suffixes that also change based on the word's role in the sentence.",
+        "my": "မြန်မာဘာသာစကားတွင် နာမ်နောက်၌ 'များ' ထည့်ရုံသာဖြစ်သော်လည်း အာရဗီတွင် ဝါကျအတွင်းရှိ ၎င်း၏အခန်းကဏ္ဍပေါ်မူတည်၍ အဆုံးသတ်ပြောင်းလဲမှုရှိသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Add -ūna for the Nominative case (Subject).",
+          "rule_my": "ကတ္တားအဖြစ်သုံးလျှင် -ūna ကိုပေါင်းပါ။",
+          "example": {
+            "ar": "جَاءَ الْمُرْسَلُونَ",
+            "en": "The messengers came.",
+            "my": "တမန်တော်များ ရောက်ရှိလာကြသည်။"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Add -īna for Accusative and Genitive cases (Object/After preposition).",
+          "rule_my": "ကံ သို့မဟုတ် ရှေ့ဆက်ပုဒ်နောက်တွင်သုံးလျှင် -īna ကိုပေါင်းပါ။",
+          "example": {
+            "ar": "رَأَيْتُ الْمُرْسَلِينَ",
+            "en": "I saw the messengers.",
+            "my": "ကျွန်ုပ်သည် တမန်တော်များကို မြင်ခဲ့သည်။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
+          "en": "Certainly will the believers have succeeded",
+          "my": "အမှန်စင်စစ် မုအ်မင်ယုံကြည်သူများသည် မလွဲမသွေ အောင်မြင်ခဲ့ကြပြီဖြစ်သည်။",
+          "ref": "23:1",
+          "breakdown": {
+            "subject": {
+              "word": "الْمُؤْمِنُونَ",
+              "en": "The believers",
+              "note": "Sound masculine plural in nominative form"
+            },
+            "predicate": {
+              "word": "أَفْلَحَ",
+              "en": "succeeded",
+              "note": "Verb in singular for plural subject coming after"
+            }
+          },
+          "myanmar_insight": "မြန်မာဘာသာတွင် 'ယုံကြည်သူများ' ဟု ဆိုသကဲ့သို့ အာရဗီတွင် 'မုအ်မင်နူနာ' ဟု အများကိန်းသုံးထားသည်ကို သတိပြုပါ။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing -ūna and -īna randomly",
+          "wrong": {
+            "ar": "ذَهَبَ الْمُسْلِمِينَ",
+            "note": "Should be -ūna as it is the subject"
+          },
+          "correct": {
+            "ar": "ذَهَبَ الْمُسْلِمُونَ",
+            "en": "The Muslims went.",
+            "my": "မွတ်စလင်မ်များ သွားကြသည်။"
+          },
+          "myanmar_tip": "ဝါကျအစ၌ ကတ္တားအဖြစ်ရှိနေလျှင် 'အူနာ' ကိုသာ အမြဲသုံးရန် ကြိုးစားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the sound masculine plural words in the following list",
+          "instruction_my": "အောက်ပါတို့မှ အမျိုးသားအများကိန်းများကို ရှာပါ",
+          "questions": [
+            {
+              "q": "مُسْلِمُونَ",
+              "answer_en": "Plural",
+              "answer_my": "အများကိန်း",
+              "ref": "Vocabulary"
+            },
+            {
+              "q": "كِتَاب",
+              "answer_en": "Singular",
+              "answer_my": "ဧကန်ကိန်း",
+              "ref": "Previous Lessons"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "إِنَّ اللَّهَ يُحِبُّ الصَّابِرِينَ",
+              "answer_en": "Indeed, Allah loves the patient.",
+              "answer_my": "ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် သည်းခံသူများကို ချစ်မြတ်နိုးတော်မူ၏။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al- and converting to plural with -una",
+          "instruction_my": "နာမ်ကို Al- ထည့်ပြီး -una ဖြင့် အများကိန်းပြုလုပ်ပါ",
+          "questions": [
+            {
+              "q": "صَادِق",
+              "answer_en": "The truthful ones",
+              "answer_my": "မှန်ကန်သူများ",
+              "ar": "الصَّادِقُونَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The 'Sound' plural implies wholeness and unity. It describes the identity of the believers as a collective unit, standing firm together while maintaining their individual faith.",
+        "my": "ပုံမှန်အများကိန်း (Sound Plural) သည် စည်းလုံးညီညွတ်မှုကို ဖော်ပြသည်။ ယုံကြည်သူများသည် တစ်ဦးချင်းစီ၏ အီမာန်ကို ထိန်းသိမ်းထားသကဲ့သို့ အစုအဖွဲ့လိုက်လည်း ခိုင်မာစွာ ရပ်တည်နေကြောင်း ညွှန်ပြသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Mu'minun 23:1",
+        "study_number": 1,
+        "arabic_full": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
+        "en_sahih": "Certainly will the believers have succeeded",
+        "my_mmsy": "အမှန်စင်စစ် မုအ်မင်ယုံကြည်သူများသည် မလွဲမသွေ အောင်မြင်ခဲ့ကြပြီဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 23,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/023001.mp3"
+        },
+        "qurancom_url": "https://quran.com/23/1",
+        "context": {
+          "en": "This is the opening of Surah Al-Mu'minun, which highlights the essential characteristics of true believers.",
+          "my": "ဤသည်မှာ စူရာဟ် အလ်မုအ်မင်နူန်၏ အစပျိုးချက်ဖြစ်ပြီး ယုံကြည်သူစစ်စစ်တို့၏ အရည်အသွေးများကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "قَدْ",
+            "translit": "qad",
+            "en": "certainly",
+            "my": "ဧကန်မလွဲ",
+            "role_en": "Particle",
+            "role_my": "အလေးအနက်ပြုပုဒ်",
+            "root": "N/A",
+            "freq": 406
+          },
+          {
+            "ar": "أَفْلَحَ",
+            "translit": "aflaḥa",
+            "en": "succeeded",
+            "my": "အောင်မြင်ခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ف ل ح",
+            "freq": 40
+          },
+          {
+            "ar": "الْمُؤْمِنُونَ",
+            "translit": "al-mu'minūn",
+            "en": "the believers",
+            "my": "ယုံကြည်သူများ",
+            "role_en": "Subject",
+            "role_my": "ကတ္တား",
+            "root": "أ م ن",
+            "freq": 230
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The plural suffix -ūna identifies the collective group who attains success.",
+          "structure_my": "အများကိန်းနောက်ဆက် -ūna သည် အောင်မြင်မှုရရှိမည့် အစုအဖွဲ့ကို ညွှန်ပြသည်။",
+          "insight_en": "The use of 'Qad' with the past tense verb 'Aflaha' makes the success of the believers a guaranteed reality.",
+          "insight_my": "အတိတ်ကာလကြိယာနှင့် 'Qad' ကို တွဲသုံးခြင်းဖြင့် ယုံကြည်သူတို့၏ အောင်မြင်မှုသည် သေချာပေါက်ဖြစ်လာမည်ကို ဖော်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ف ل ح",
+            "concept_en": "to plow the soil and achieve prosperity",
+            "concept_my": "မြေဆီလွှာကို ထွန်ယက်ပြီး ဖြစ်ထွန်းအောင်မြင်ခြင်း",
+            "members": [
+              {
+                "ar": "فَلَّاح",
+                "translit": "fallāḥ",
+                "en": "farmer",
+                "my": "လယ်သမား",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Falah (success) in Arabic is like farming; it requires planting seeds of faith and patient effort before the harvest."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ကျွန်ုပ်တို့အား ကြီးမားသော မျှော်လင့်ချက်ကို ပေးသည်။ အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်သူများကို သေချာပေါက် အောင်မြင်သူများအဖြစ် သတ်မှတ်ထားသည်။ မြန်မာပြည်ရှိ မွတ်စလင်မ်လူငယ်များအနေဖြင့် လောကီနှင့် လောကုတ္တရာ နှစ်ဖြာစလုံးတွင် အောင်မြင်မှုရရှိရန်အတွက် အီမာန်ယုံကြည်ချက်ကို ခိုင်မာအောင် တည်ဆောက်ကြရမည်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Short and powerful rhythmic structure ending with the long 'ūn' sound.",
+          "meaning_anchor": "Imagine a harvest where every believer gathers their fruit of success.",
+          "daily_connection": "Recite this when starting a new task to remind yourself that true success comes from faith.",
+          "my": "ဤတိုတောင်းသော အာယသ်ကို အလွယ်တကူ ကျက်မှတ်နိုင်သည်။ အောင်မြင်မှုကို လိုလားသောအခါတိုင်း ဤအာယသ်ကို သတိရပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Baqarah 2:153",
+        "study_number": 2,
+        "arabic_full": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+        "en_sahih": "Indeed, Allah is with the patient",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S2_A153",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 153,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002153.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/153",
+        "context": {
+          "en": "Allah encourages the believers to seek help through patience and prayer.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်သူများအား သည်းခံခြင်းနှင့် ဆွလာသ်ဝတ်ပြုခြင်းဖြင့် အကူအညီတောင်းခံရန် တိုက်တွန်းထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الصَّابِرِينَ",
+            "translit": "al-ṣābirīn",
+            "en": "the patient ones",
+            "my": "သည်းခံသူများ",
+            "role_en": "Object of Preposition",
+            "role_my": "ရှေ့ဆက်ပုဒ်၏နောက်ကံ",
+            "root": "ص ب ر",
+            "freq": 15
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Here, -īna is used because the word follows the particle 'ma'a' (with).",
+          "structure_my": "ဤနေရာတွင် 'ma'a' (နှင့်အတူ) နောက်တွင် လိုက်သောကြောင့် -īna ကို သုံးထားသည်။",
+          "insight_en": "The plural form shows that patience is a quality of a community, not just an individual.",
+          "insight_my": "သည်းခံခြင်းသည် တစ်ဦးတည်းအတွက်သာမက လူ့အဖွဲ့အစည်းတစ်ခုလုံးအတွက် လိုအပ်သော အရည်အသွေးဖြစ်ကြောင်း အများကိန်းဖြင့် ပြဆိုထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ص ب ر",
+            "concept_en": "to restrain or bind oneself",
+            "concept_my": "မိမိကိုယ်ကို ထိန်းချုပ်ခြင်း သို့မဟုတ် ချည်နှောင်ခြင်း",
+            "members": [
+              {
+                "ar": "صَبْر",
+                "translit": "ṣabr",
+                "en": "patience",
+                "my": "သည်းခံခြင်း",
+                "freq": 103
+              }
+            ],
+            "professors_note": "Sabr is not just waiting; it is staying firm on the right path despite difficulties."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အခက်အခဲများနှင့် ရင်ဆိုင်ရချိန်တွင် အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့နှင့်အတူရှိနေကြောင်း သိရခြင်းသည် အကြီးမားဆုံးသော နှစ်သိမ့်မှုဖြစ်သည်။ 'ဆဗရ်' သည်းခံခြင်းသည် ကျွန်ုပ်တို့၏နေ့စဉ်ဘဝတွင် အလွန်အရေးကြီးသော လက်နက်တစ်ခုဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Ends with a calm 'īn' sound, reflecting the peace of patience.",
+          "meaning_anchor": "Visualize a companion standing next to you during a storm.",
+          "daily_connection": "Say this to yourself whenever you feel angry or impatient.",
+          "my": "ဤအာယသ်သည် အလွန်တိုတောင်းသဖြင့် အမြဲနှုတ်တက်ဆောင်ထားသင့်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You learned how to form sound masculine plurals by adding -ūna or -īna. This pattern is essential for identifying groups of people and their characteristics in the Quran.",
+      "my": "ဤသင်ခန်းစာတွင် -ūna သို့မဟုတ် -īna ပေါင်းခြင်းဖြင့် အမျိုးသားအများကိန်း ပြုလုပ်ပုံကို လေ့လာခဲ့သည်။ ဤပုံစံသည် ကုရ်အာန်ရှိ လူပုဂ္ဂိုလ်အစုအဖွဲ့များကို ခွဲခြားသိမြင်ရန် အလွန်အရေးကြီးပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-037",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 37,
+    "title": {
+      "ar": "جَمْعُ الْمُؤَنَّثِ السَّالِمُ — ات",
+      "en": "Plurals II — Sound Feminine Plural (-āt)",
+      "my": "အမျိုးသမီးအများကိန်း — အသ်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Adding ات to form feminine sound plural; case endings",
+      "grammar_formula": "[Singular Noun] - ة + ات = Sound Feminine Plural"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مُؤْمِنَات",
+        "translit": "mu'mināt",
+        "en": "Believers (f)",
+        "my": "ယုံကြည်သူအမျိုးသမီးများ",
+        "quran_freq": 20,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "مُفْعِلَات",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "faith",
+          "concept_my": "ယုံကြည်ချက်"
+        },
+        "memory_hook": {
+          "sound": "Mumin-at",
+          "image": "Group of women in deep prayer",
+          "cross_language": "Feminine form of Mu'min"
+        },
+        "word_family": [
+          {
+            "ar": "مُؤْمِن",
+            "translit": "mu'min",
+            "en": "believer (m)",
+            "my": "ယုံကြည်သူ (ကျား)",
+            "freq": 230
+          }
+        ],
+        "pattern_unlock": "Replacing the round 'ta marbuta' (ة) with an open 'ta' (ات) makes it plural.",
+        "example": {
+          "ar": "وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ",
+          "en": "The believing men and believing women",
+          "my": "ယုံကြည်သူအမျိုးသားများနှင့် ယုံကြည်သူအမျိုးသမီးများသည်",
+          "ref": "9:71"
+        }
+      },
+      {
+        "word": "آيَات",
+        "translit": "āyāt",
+        "en": "Signs / Verses",
+        "my": "သက်သေလက္ခဏာများ / အာယသ်တော်များ",
+        "quran_freq": 288,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعَلَات",
+        "root": {
+          "letters": "أ ي ي",
+          "concept_en": "sign",
+          "concept_my": "အမှတ်အသား"
+        },
+        "memory_hook": {
+          "sound": "Ayat",
+          "image": "Verses of the Quran shining like stars",
+          "cross_language": "Ayah (အာယသ်) is used in Myanmar for Quranic verses"
+        },
+        "word_family": [
+          {
+            "ar": "آيَة",
+            "translit": "āyah",
+            "en": "sign",
+            "my": "အမှတ်အသား",
+            "freq": 84
+          }
+        ],
+        "pattern_unlock": "This word refers to both the verses of the Quran and the signs in nature.",
+        "example": {
+          "ar": "تِلْكَ آيَاتُ اللَّهِ",
+          "en": "These are the verses of Allah",
+          "my": "ဤအရာများသည် အလ္လာဟ်အရှင်မြတ်၏ အာယသ်တော်များဖြစ်ကြသည်",
+          "ref": "2:252"
+        }
+      },
+      {
+        "word": "بَيِّنَات",
+        "translit": "bayyināt",
+        "en": "Clear proofs",
+        "my": "ထင်ရှားလှသော သက်သေများ",
+        "quran_freq": 52,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعِّلَات",
+        "root": {
+          "letters": "ب ي ن",
+          "concept_en": "clear separation",
+          "concept_my": "ရှင်းလင်းကွဲပြားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Bayyin-at",
+          "image": "A bright lamp revealing the truth",
+          "cross_language": "Bayan (ဘာယန်) means explanation in many Muslim cultures"
+        },
+        "word_family": [
+          {
+            "ar": "بَيَان",
+            "translit": "bayān",
+            "en": "clear speech",
+            "my": "ရှင်းလင်းသောစကား",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "B-Y-N involves making something distinct so it is easily understood.",
+        "example": {
+          "ar": "جَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ",
+          "en": "their messengers came to them with clear proofs",
+          "my": "၎င်းတို့ထံသို့ တမန်တော်များသည် ထင်ရှားလှသော သက်သေများနှင့်အတူ ရောက်ရှိလာကြသည်",
+          "ref": "14:9"
+        }
+      },
+      {
+        "word": "نِعْمَات",
+        "translit": "ni‘māt",
+        "en": "Blessings",
+        "my": "ကောင်းချီးမင်္ဂလာများ",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعْلَات",
+        "root": {
+          "letters": "ن ع م",
+          "concept_en": "blessing/comfort",
+          "concept_my": "ကျေးဇူးတော်"
+        },
+        "memory_hook": {
+          "sound": "Nimat",
+          "image": "A table full of food and water",
+          "cross_language": "Neimat (နေအ်မသ်) is used in Myanmar for God's blessings"
+        },
+        "word_family": [
+          {
+            "ar": "نِعْمَة",
+            "translit": "ni‘mah",
+            "en": "blessing",
+            "my": "ကျေးဇူးတော်",
+            "freq": 75
+          }
+        ],
+        "pattern_unlock": "The plural -at can sometimes imply a great abundance of something.",
+        "example": {
+          "ar": "شَاكِرًا لِأَنْعُمِهِ",
+          "en": "grateful for His favors",
+          "my": "အရှင်မြတ်၏ ကျေးဇူးတော်များအပေါ် ကျေးဇူးတင်ရှိသူ",
+          "ref": "16:121"
+        }
+      },
+      {
+        "word": "صَالِحَات",
+        "translit": "ṣāliḥāt",
+        "en": "Good deeds",
+        "my": "ကောင်းမှုကုသိုလ်များ",
+        "quran_freq": 62,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَاعِلَات",
+        "root": {
+          "letters": "ص ل ح",
+          "concept_en": "righteousness",
+          "concept_my": "ဖြောင့်မတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Salih-at",
+          "image": "A hand giving charity",
+          "cross_language": "Salih (ဆွာလေဟ်) means a righteous person in Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "صَالِح",
+            "translit": "ṣāliḥ",
+            "en": "righteous",
+            "my": "ဖြောင့်မတ်သော",
+            "freq": 31
+          }
+        ],
+        "pattern_unlock": "In the Quran, 'Salihat' almost always refers to good deeds that lead to Jannah.",
+        "example": {
+          "ar": "وَعَمِلُوا الصَّالِحَاتِ",
+          "en": "and do righteous deeds",
+          "my": "ထို့ပြင် ကောင်းမှုကုသိုလ်များကို လုပ်ဆောင်ကြကုန်၏",
+          "ref": "2:25"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "جَمْعُ الْمُؤَنَّثِ السَّالِمُ",
+        "en": "Sound Feminine Plural",
+        "my": "အမျိုးသမီးဆိုင်ရာ ပုံမှန်အများကိန်း"
+      },
+      "formula": {
+        "display": "مُؤْمِنَة - ة + ات = مُؤْمِنَات",
+        "example": "الْمُسْلِمَاتُ خَاشِعَاتٌ",
+        "myanmar_read": "မကိန်းနာမ်၏အဆုံးမှ round ta (ة) ကိုဖြုတ်ပြီး 'အာသ်' (ات) ပေါင်းထည့်ပါ",
+        "key_insight": "The Sound Feminine Plural is very regular. It almost always ends in 'aat'."
+      },
+      "explanation": {
+        "en": "The Sound Feminine Plural is formed by removing the 'ta marbuta' (ة) from a singular feminine noun and adding 'alif' and 'ta' (ات). One unique feature is that it never takes a fatha (vowel 'a') as a case ending; instead, it uses kasra (vowel 'i') for both object and genitive cases.",
+        "my": "အမျိုးသမီးဆိုင်ရာ ပုံမှန်အများကိန်းကို မကိန်း၏အဆုံးရှိ round ta (ة) ကို ဖြုတ်ပြီး 'အာသ်' (ات) ပေါင်းခြင်းဖြင့် ပြုလုပ်သည်။ ၎င်း၏ထူးခြားချက်မှာ အနက်ဖွင့်ရာတွင် fatha (a) vowel လုံးဝမယူဘဲ၊ ကံ သို့မဟုတ် ရှေ့ဆက်ပုဒ်နောက်တွင် Kasra (i) ကိုသာ သုံးခြင်းဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to the masculine plural, Myanmar uses the same 'mya' (များ), but Arabic differentiates by gender with this 'aat' ending.",
+        "my": "မြန်မာဘာသာတွင် ကျား/မ ခွဲခြားမှုမရှိဘဲ 'များ' ကိုသာ သုံးသော်လည်း အာရဗီတွင် အမျိုးသမီးများအတွက် 'အာသ်' အဆုံးသတ်ကို သီးသန့်သုံးသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Ends with '-ātu' (damma) when it is the subject.",
+          "rule_my": "ကတ္တားအဖြစ်သုံးလျှင် '-ātu' (damma) ဖြင့် ဆုံးသည်။",
+          "example": {
+            "ar": "جَاءَتِ الْمُؤْمِنَاتُ",
+            "en": "The believing women came.",
+            "my": "ယုံကြည်သူအမျိုးသမီးများ ရောက်ရှိလာကြသည်။"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Ends with '-āti' (kasra) when it is an object or after a preposition.",
+          "rule_my": "ကံ သို့မဟုတ် ရှေ့ဆက်ပုဒ်နောက်တွင်သုံးလျှင် '-āth' (kasra) ဖြင့် ဆုံးသည်။",
+          "example": {
+            "ar": "رَأَيْتُ الْمُؤْمِنَاتِ",
+            "en": "I saw the believing women.",
+            "my": "ကျွန်ုပ်သည် ယုံကြည်သူအမျိုးသမီးများကို မြင်ခဲ့သည်။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "وَالْمُؤْمِنُونَ وَالْمُؤْمِنَاتُ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ",
+          "en": "The believing men and believing women are allies of one another",
+          "my": "ထို့ပြင် အီမာန်ယုံကြည်သော ယောက်ျား၊မိန်းမများသည် အချင်းချင်း တစ်ဦးနှင့်တစ်ဦး အဆွေခင်ပွန်းများဖြစ်ကြသည်။ သူတို့သည် ကောင်းသည်များကို အမိန့်ပေးကြသည်။ ၎င်းပြင် စက်ဆုပ်ဖွယ်ရာများမှ တားမြစ်ကြသည်။ ထို့ပြင် သူတို့သည် စွဲမြဲစွာ စွလာသ်ဝတ်ပြုကြသည်။ ၎င်းပြင် သူတို့သည် ဇကာသ်(ဆင်းရဲသားနှင့် လိုအပ်သူများ၏ဝေစု)ကိုလည်း ပေးဆောင်ကြသည်။ ထို့ပြင် သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏အမိန့်တော်များနှင့် အရှင့်တမန်တော်၏အမိန့်တော်များကို လိုက်နာကြသည်။ ထိုသူများသည် အကြင်သူများပင်၊ အလ္လာဟ်အရှင်မြတ်သည် ထိုသူများကို မကြာမီ သနားကရုဏာပြုတော်မူမည်။  အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးတော်နှင့်အလွန်လွှမ်းမိုးတော်မူသောအရှင်၊ ပညာဉာဏ်အမြော်အမြင်နှင့် အလွန်ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+          "ref": "9:71",
+          "breakdown": {
+            "subject": {
+              "word": "الْمُؤْمِنَاتُ",
+              "en": "the believing women",
+              "note": "Sound feminine plural in nominative"
+            },
+            "predicate": {
+              "word": "أَوْلِيَاءُ",
+              "en": "allies",
+              "note": "Broken plural of Wali"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'မုအ်မင်နူနာ' (ကျား) နှင့် 'မုအ်မင်နသု' (မ) တို့ကို ယှဉ်တွဲသုံးထားသည်ကို သတိပြုပါ။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Putting a fatha on a feminine plural object",
+          "wrong": {
+            "ar": "خَلَقَ اللَّهُ السَّمَاوَاتَ",
+            "note": "Feminine plurals never take fatha"
+          },
+          "correct": {
+            "ar": "خَلَقَ اللَّهُ السَّمَاوَاتِ",
+            "en": "Allah created the heavens.",
+            "my": "အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်များကို ဖန်ဆင်းတော်မူခဲ့သည်။"
+          },
+          "myanmar_tip": "အမျိုးသမီးအများကိန်း 'အာသ်' သည် fatha (a) သံကို လုံးဝ လက်မခံကြောင်း မှတ်သားထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the Sound Feminine Plural in this list",
+          "instruction_my": "အမျိုးသမီးအများကိန်းကို ရှာပါ",
+          "questions": [
+            {
+              "q": "آيَات",
+              "answer_en": "Feminine Plural",
+              "answer_my": "အမျိုးသမီးအများကိန်း",
+              "ref": "Vocabulary"
+            },
+            {
+              "q": "مُسْلِمُونَ",
+              "answer_en": "Masculine Plural",
+              "answer_my": "အမျိုးသားအများကိန်း",
+              "ref": "Lesson 36"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ",
+              "answer_en": "Indeed, good deeds do away with misdeeds.",
+              "answer_my": "ဧကန်စင်စစ် ကောင်းမှုကုသိုလ်များသည် မကောင်းမှုများကို ပယ်ဖျောက်ပေးသည်။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Convert the singular feminine noun to plural",
+          "instruction_my": "အောက်ပါမကိန်းကို အများကိန်းပြောင်းပါ",
+          "questions": [
+            {
+              "q": "مُسْلِمَة",
+              "answer_en": "Muslimat",
+              "answer_my": "မွတ်စလင်မ်အမျိုးသမီးများ",
+              "ar": "مُسْلِمَات"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The feminine plural is used for the Heavens (Samawat) and the Verses of the Quran (Ayat), suggesting a sense of beauty, expansion, and nurturing growth.",
+        "my": "အမျိုးသမီးအများကိန်းကို ကောင်းကင်ဘုံများနှင့် ကုရ်အာန်အာယသ်တော်များအတွက် သုံးထားခြင်းသည် အလှတရား၊ ကျယ်ပြောမှုနှင့် ပြုစုပျိုးထောင်မှုဆိုင်ရာ အဓိပ္ပာယ်များကို ဆောင်ကြဉ်းပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Nahl 16:121",
+        "study_number": 1,
+        "arabic_full": "شَاكِرًا لِّأَنْعُمِهِ ۚ اجْتَبَاهُ وَهَدَاهُ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
+        "en_sahih": "[He was] grateful for His favors. Allah chose him and guided him to a straight path.",
+        "my_mmsy": "(၎င်းသည်) အရှင်မြတ်၏ကျေးဇူးတော်များကို အလွန်သိတတ်ပြီး ကျေးဇူးတင်သူ(ဖြစ်ခဲ့သည်)။ အရှင်မြတ်သည် ၎င်းအား ရွေးချယ်တော်မူပြီး ၎င်းအား ဖြောင့်မတ်မှန်ကန်သောလမ်းကို ပြသတော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 16,
+          "ayah": 121,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/016121.mp3"
+        },
+        "qurancom_url": "https://quran.com/16/121",
+        "context": {
+          "en": "This verse describes Prophet Ibrahim (AS) and his constant state of gratitude despite many trials.",
+          "my": "ဤအာယသ်သည် တမန်တော် အီဗရာဟင်မ် (အလိုင်းဟစ္စလာမ်) ၏ စမ်းသပ်မှုများကြားမှ အမြဲတမ်း ကျေးဇူးသိတတ်မှုကို ဖော်ပြသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "شَاكِرًا",
+            "translit": "shākiran",
+            "en": "grateful",
+            "my": "ကျေးဇူးတင်ရှိသူ",
+            "role_en": "Adjective",
+            "role_my": "နာမဝိသေသန",
+            "root": "ش ك ر",
+            "freq": 75
+          },
+          {
+            "ar": "لِأَنْعُمِهِ",
+            "translit": "li-an‘umihi",
+            "en": "for His favors",
+            "my": "အရှင်မြတ်၏ ကျေးဇူးတော်များအတွက်",
+            "role_en": "Preposition + Noun",
+            "role_my": "ရှေ့ဆက်ပုဒ်နှင့် နာမ်",
+            "root": "ن ع م",
+            "freq": 2
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The word 'An'um' is a plural of Ni'mah, highlighting the multitude of blessings Ibrahim (AS) recognized.",
+          "structure_my": "'An'um' သည် 'Ni'mah' ၏ အများကိန်းဖြစ်ပြီး အီဗရာဟင်မ် (အလိုင်းဟစ္စလာမ်) သိမြင်ခဲ့သော မရေမတွက်နိုင်သော ကျေးဇူးတော်များကို ဖော်ပြသည်။",
+          "insight_en": "Gratitude (Shukr) was the key that led to Allah choosing (Ijtiba) and guiding (Hidayah) him.",
+          "insight_my": "ကျေးဇူးသိတတ်ခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ ရွေးချယ်မှုနှင့် လမ်းပြမှုကို ရရှိရန် သော့ချက်ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ن ع م",
+            "concept_en": "softness, ease, and pleasant life",
+            "concept_my": "နူးညံ့မှု၊ သက်တောင့်သက်သာရှိမှုနှင့် သာယာသောဘဝ",
+            "members": [
+              {
+                "ar": "نَعِيم",
+                "translit": "na‘īm",
+                "en": "delight",
+                "my": "ကြည်နူးမှု",
+                "freq": 33
+              }
+            ],
+            "professors_note": "A Ni'mah is not just a gift, but something that brings ease and comfort to your heart."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ အသက်ရှူခြင်းမှစ၍ နေ့စဉ်စားဝတ်နေရေးအထိ အရာအားလုံးသည် အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်များဖြစ်သည်။ တမန်တော် အီဗရာဟင်မ် (အလိုင်းဟစ္စလာမ်) ကဲ့သို့ပင် အခြေအနေတိုင်း၌ ကျေးဇူးသိတတ်ရန် ကြိုးစားသင့်သည်။"
+        },
+        "memorization_helper": {
+          "meaning_anchor": "Imagine a river of blessings flowing constantly.",
+          "daily_connection": "Say 'Alhamdulillah' for three specific things every night to practice being 'Shakiran'.",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်များကို အမြဲအောက်မေ့ရန် ဤအာယသ်ကို အသုံးပြုပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Baqarah 2:25",
+        "study_number": 2,
+        "arabic_full": "وَعَمِلُوا الصَّالِحَاتِ",
+        "en_sahih": "and do righteous deeds",
+        "my_mmsy": "၎င်းနောက် အသင်(တမန်တော်)သည် အီမာန်ယုံကြည်ကြပြီး ကောင်းမြတ်သောလုပ်ရပ်များပြုလုပ်သည့်သူများကို သတင်းကောင်းပေးလိုက်ပါ။ အမှန်စင်စစ် ၎င်းတို့အတွက် ဂျန္နသ်သုခဘုံများရှိသည်။ ထိုသုခဘုံများ၏အောက်တွင် စမ်းရေချောင်းများစီးဆင်းနေသည်။  သုခဘုံသားများသည် ထိုသုခဘုံထဲမှ သစ်သီးဝလံ ကျွေးမွေးခြင်းခံရသည့်အခါတိုင်းတွင် ”ဤသစ်သီးဝလံသည် ယခင်(လောကမှာရှိစဉ်)က ကျွန်ုပ်တို့ကို ကျွေးမွေးခြင်းခံခဲ့ရပြီးဖြစ်သည်”ဟု ပြောဆိုကြလိမ့်မည်။ ၎င်းနောက် သူတို့သည် (အရသာကွဲပြီး) ပုံသဏ္ဍာန်တူသော သစ်သီးဝလံကိုလည်း ကျွေးမွေးခြင်းခံကြရပေဦးမည်။ ထို့ပြင် သူတို့အတွက် သုခဘုံထဲတွင် စင်ကြယ်သန့်ပြန့်သည့် ဇနီးကြင်ရာများလည်း ရှိကြပေဦးမည်။  ထို့ပြင် သူတို့သည် သုခဘုံထဲတွင် အမြဲထာဝရ စံမြန်းနေထိုင်လျက်ရှိကြမည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 25,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002025.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/25",
+        "context": {
+          "en": "Allah gives glad tidings to those who believe and do good deeds of Jannah.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်ပြီး ကောင်းမှုပြုသူများအား ဂျန္နသ်သုခဘုံနှင့် ပတ်သက်၍ သတင်းကောင်းပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "عَمِلُوا",
+            "translit": "‘amilū",
+            "en": "they did",
+            "my": "၎င်းတို့လုပ်ဆောင်ခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ع م ل",
+            "freq": 360
+          },
+          {
+            "ar": "الصَّالِحَاتِ",
+            "translit": "al-ṣāliḥāt",
+            "en": "the righteous deeds",
+            "my": "ကောင်းမှုကုသိုလ်များ",
+            "role_en": "Object",
+            "role_my": "ကံ",
+            "root": "ص ل ح",
+            "freq": 62
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Notice the kasra on 'Al-Salihati'. It is an object, but it never takes a fatha.",
+          "structure_my": "'Al-Salihati' ရှိ kasra ကို သတိပြုပါ။ ၎င်းသည် ကံ ဖြစ်သော်လည်း fatha မယူပါ။",
+          "insight_en": "Good deeds are referred to in the feminine plural, perhaps highlighting their organic growth and multiplication.",
+          "insight_my": "ကောင်းမှုများကို အမျိုးသမီးအများကိန်းဖြင့် သုံးနှုန်းခြင်းသည် ၎င်းတို့၏ တိုးပွားရှင်သန်မှုကို ရည်ညွှန်းခြင်းဖြစ်နိုင်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ص ل ح",
+            "concept_en": "to be sound, whole, and proper",
+            "concept_my": "ကောင်းမွန်ခြင်း၊ ပြည့်စုံခြင်းနှင့် သင့်လျော်ခြင်း",
+            "members": [
+              {
+                "ar": "إِصْلَاح",
+                "translit": "iṣlāḥ",
+                "en": "reform",
+                "my": "ပြုပြင်ပြောင်းလဲခြင်း",
+                "freq": 0
+              }
+            ],
+            "professors_note": "A 'Salih' deed is one that 'fixes' the world and makes things right."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အီမာန်နှင့် ကောင်းမှုကုသိုလ်သည် ဒင်္ဂါးပြားတစ်ခု၏ တစ်ဖက်စီကဲ့သို့ပင် ဖြစ်သည်။ ကုသိုလ်ကောင်းမှုများသည် ကျွန်ုပ်တို့၏ ဘဝကို လှပစေပြီး နောင်တမလွန်အတွက် ရိက္ခာများဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Balanced and easy to flow: 'Amilu al-Salihat'.",
+          "meaning_anchor": "Think of planting beautiful flowers in a garden.",
+          "daily_connection": "Every time you do a small good deed, remember it is one of the 'Salihat'.",
+          "my": "ဤစကားစုကို ကုရ်အာန်အနှံ့တွင် တွေ့နိုင်သဖြင့် သေချာမှတ်သားထားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You learned how to identify and form Sound Feminine Plurals using the -āt ending. Remember the key grammar rule: these plurals use kasra instead of fatha for objects.",
+      "my": "-āt အဆုံးသတ်ကို အသုံးပြု၍ အမျိုးသမီးအများကိန်းများ ပြုလုပ်ပုံကို လေ့လာခဲ့သည်။ အရေးကြီးသော စည်းမျဉ်းမှာ ၎င်းတို့သည် ကံနေရာတွင် ရှိသော်လည်း fatha အစား kasra ကိုသာ သုံးခြင်းဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-038",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 38,
+    "title": {
+      "ar": "الْمُثَنَّى — ان / يْن",
+      "en": "Plurals III — Dual Form for Two (Muthannā)",
+      "my": "နှစ်ခုကိန်း — အာနိ နှင့် အိုင်းနိ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Muthanna: adding ان/ين for two; used in Quran frequently",
+      "grammar_formula": "[Singular Noun] + انِ / يْنِ = Dual (Two)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "جَنَّتَانِ",
+        "translit": "jannatān",
+        "en": "Two gardens",
+        "my": "ဥယျာဉ်နှစ်ခု",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَتَانِ",
+        "root": {
+          "letters": "ج ن ن",
+          "concept_en": "to hide or cover",
+          "concept_my": "ဖုံးကွယ်ထားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Janna-tan",
+          "image": "Two lush green forests side by side",
+          "cross_language": "Jannah (ဂျန္နသ်) means Paradise in Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "جَنَّة",
+            "translit": "jannah",
+            "en": "garden",
+            "my": "ဥယျာဉ်",
+            "freq": 147
+          }
+        ],
+        "pattern_unlock": "A garden is called 'Jannah' because its thick foliage 'covers' the ground.",
+        "example": {
+          "ar": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ",
+          "en": "But for he who has feared the position of his Lord are two gardens",
+          "my": "မိမိ၏အရှင်မြတ်၏ ရှေ့မှောက်တွင် ရပ်ရမည်ကို ကြောက်ရွံ့သူအတွက် ဥယျာဉ်နှစ်ခုရှိ၏",
+          "ref": "55:46"
+        }
+      },
+      {
+        "word": "بَحْرَيْنِ",
+        "translit": "baḥrayn",
+        "en": "Two oceans / seas",
+        "my": "ပင်လယ်နှစ်ခု",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلَيْنِ",
+        "root": {
+          "letters": "ب ح ر",
+          "concept_en": "large body of water",
+          "concept_my": "ရေထုကြီး"
+        },
+        "memory_hook": {
+          "sound": "Bah-rain",
+          "image": "Two seas meeting but not mixing",
+          "cross_language": "Bahrain is the name of a country meaning 'Two Seas'"
+        },
+        "word_family": [
+          {
+            "ar": "بَحْر",
+            "translit": "baḥr",
+            "en": "sea",
+            "my": "ပင်လယ်",
+            "freq": 38
+          }
+        ],
+        "pattern_unlock": "The 'ayn' ending indicates exactly two of something.",
+        "example": {
+          "ar": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ",
+          "en": "He released the two seas, meeting [side by side]",
+          "my": "အရှင်မြတ်သည် ပင်လယ်နှစ်ခုကို ဆုံစည်းစေရန် လွှတ်ထားတော်မူ၏",
+          "ref": "55:19"
+        }
+      },
+      {
+        "word": "مَلَكَيْنِ",
+        "translit": "malakayn",
+        "en": "Two angels",
+        "my": "ကောင်းကင်တမန်နှစ်ပါး",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَلَيْنِ",
+        "root": {
+          "letters": "မ လ က",
+          "concept_en": "messenger/power",
+          "concept_my": "တမန်တော်/စွမ်းအား"
+        },
+        "memory_hook": {
+          "sound": "Malak-ayn",
+          "image": "Two angels recording deeds on shoulders",
+          "cross_language": "Malaikah (မလာအိကဟ်) is used in Myanmar for angels"
+        },
+        "word_family": [
+          {
+            "ar": "مَلَك",
+            "translit": "malak",
+            "en": "angel",
+            "my": "ကောင်းကင်တမန်",
+            "freq": 13
+          }
+        ],
+        "pattern_unlock": "The word Malak is related to sending a message (Risalah).",
+        "example": {
+          "ar": "عَلَى الْمَلَكَيْنِ بِبَابِلَ",
+          "en": "to the two angels in Babylon",
+          "my": "ဗာဗုလုံရှိ ကောင်းကင်တမန်နှစ်ပါးထံသို့",
+          "ref": "2:102"
+        }
+      },
+      {
+        "word": "شَاهِدَيْنِ",
+        "translit": "shāhidayn",
+        "en": "Two witnesses",
+        "my": "သက်သေနှစ်ဦး",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلَيْنِ",
+        "root": {
+          "letters": "ش ه د",
+          "concept_en": "to witness/testify",
+          "concept_my": "သက်သေခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shahid-ayn",
+          "image": "Two people testifying in court",
+          "cross_language": "Shahadah (ရှဟာဒသ်) is the Muslim declaration of faith"
+        },
+        "word_family": [
+          {
+            "ar": "شَاهِد",
+            "translit": "shāhid",
+            "en": "witness",
+            "my": "သက်သေ",
+            "freq": 35
+          }
+        ],
+        "pattern_unlock": "A witness is someone who 'presents' evidence of what they saw.",
+        "example": {
+          "ar": "وَاسْتَشْهِدُوا شَهِيدَيْنِ",
+          "en": "And bring to witness two witnesses",
+          "my": "သက်သေနှစ်ဦးကို သက်သေအဖြစ် ခေါ်ယူကြပါ",
+          "ref": "2:282"
+        }
+      },
+      {
+        "word": "مَشْرِقَيْنِ",
+        "translit": "mashriqayn",
+        "en": "Two sunrises / points of sunrise",
+        "my": "နေထွက်ရာအရပ်နှစ်ခု",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعِلَيْنِ",
+        "root": {
+          "letters": "ش ر ق",
+          "concept_en": "east/shining",
+          "concept_my": "အရှေ့ဘက်/တောက်ပခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mashriq-ayn",
+          "image": "The sun rising at different points in summer and winter",
+          "cross_language": "Mashriq (မရှ်ရစ်က်) means the East in Myanmar circles"
+        },
+        "word_family": [
+          {
+            "ar": "مَشْرِق",
+            "translit": "mashriq",
+            "en": "East",
+            "my": "အရှေ့အရပ်",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "The Quran uses duals to show the vastness and precision of Allah's creation.",
+        "example": {
+          "ar": "رَبُّ الْمَشْرِقَيْنِ",
+          "en": "Lord of the two sunrises",
+          "my": "နေထွက်ရာအရပ်နှစ်ခုလုံး၏ အရှင်မြတ်",
+          "ref": "55:17"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمُثَنَّى",
+        "en": "Dual (Two)",
+        "my": "နှစ်ခုကိန်း"
+      },
+      "formula": {
+        "display": "بَحْر + انِ = بَحْرَانِ / بَحْر + يْنِ = بَحْرَيْنِ",
+        "example": "هَذَانِ كِتَابَانِ",
+        "myanmar_read": "နာမ်တစ်ခု၏အဆုံးတွင် 'အာနိ' သို့မဟုတ် 'အိုင်းနိ' ပေါင်းထည့်ပါ",
+        "key_insight": "Arabic is unique because it has a specific grammatical form for exactly TWO items, separate from plural (3+)."
+      },
+      "explanation": {
+        "en": "The Dual (Muthanna) is used only for two things. To form it, add -āni to the end of a singular noun for the nominative case, or -ayni for accusative and genitive cases. Note that the 'noon' (ن) at the end has a kasra (-ni).",
+        "my": "နှစ်ခုကိန်း (Muthanna) ကို အရာဝတ္ထုနှစ်ခုအတွက်သာ သုံးသည်။ ဧကန်ကိန်းနာမ်၏အဆုံးတွင် ကတ္တားအဖြစ်သုံးလျှင် -āni ကိုပေါင်းပြီး၊ ကံ သို့မဟုတ် ရှေ့ဆက်ပုဒ်နောက်တွင်သုံးလျှင် -ayni ကိုပေါင်းပါ။ အဆုံးရှိ 'နူန်' (န) တွင် kasra (ိ) ပါရှိသည်ကို သတိပြုပါ။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar doesn't have a special 'dual' form. We just say 'Hna-khu' (နှစ်ခု) or 'Hna-youk' (နှစ်ယောက်). Arabic changes the word itself.",
+        "my": "မြန်မာဘာသာစကားတွင် 'နှစ်ခု' သို့မဟုတ် 'နှစ်ယောက်' ဟု အရေအတွက်ကိုသာ သုံးသော်လည်း အာရဗီတွင် နာမ်၏ပုံစံကိုပါ ပြောင်းလဲရသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Use -āni for the subject (Marfu).",
+          "rule_my": "ကတ္တားနေရာတွင်သုံးလျှင် -āni ကိုသုံးပါ။",
+          "example": {
+            "ar": "قَالَ رَجُلَانِ",
+            "en": "Two men said.",
+            "my": "အမျိုးသားနှစ်ဦးက ပြောခဲ့သည်။"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Use -ayni for the object (Mansub/Majrur).",
+          "rule_my": "ကံ သို့မဟုတ် ရှေ့ဆက်ပုဒ်နောက်တွင်သုံးလျှင် -ayni ကိုသုံးပါ။",
+          "example": {
+            "ar": "فِي الْبَحْرَيْنِ",
+            "en": "In the two seas.",
+            "my": "ပင်လယ်နှစ်ခုအတွင်း၌။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ",
+          "en": "He released the two seas, meeting [side by side]",
+          "my": "(၁၉) အရှင်မြတ်ကပင် အချင်းချင်းဆုံသွားသော ပင်လယ်နှစ်ခုကို လွှတ်တော်မူခဲ့သည်။",
+          "ref": "55:19",
+          "breakdown": {
+            "subject": {
+              "word": "الْبَحْرَيْنِ",
+              "en": "the two seas",
+              "note": "Dual form in accusative case"
+            },
+            "predicate": {
+              "word": "مَرَجَ",
+              "en": "released",
+              "note": "Verb"
+            }
+          },
+          "myanmar_insight": "ပင်လယ် 'နှစ်ခု' အကြောင်းကို 'အိုင်းနိ' (ayn) အဆုံးသတ်ဖြင့် ဖော်ပြထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing dual -ayni with plural -ina",
+          "wrong": {
+            "ar": "الْمُסْلِمِينِ",
+            "note": "Plural has fatha on noon and long 'ee'; dual has kasra on noon and 'ay' sound"
+          },
+          "correct": {
+            "ar": "الْمُسْلِمَيْنِ",
+            "en": "The two Muslims.",
+            "my": "မွတ်စလင်မ်နှစ်ဦး။"
+          },
+          "myanmar_tip": "နှစ်ခုကိန်း 'အိုင်းနိ' နှင့် အများကိန်း 'အီးနာ' တို့၏ အသံထွက်ကွာခြားချက်ကို သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify which words are in the dual form",
+          "instruction_my": "နှစ်ခုကိန်းများကို ရှာပါ",
+          "questions": [
+            {
+              "q": "جَنَّتَانِ",
+              "answer_en": "Dual",
+              "answer_my": "နှစ်ခုကိန်း",
+              "ref": "Vocabulary"
+            },
+            {
+              "q": "جَنَّة",
+              "answer_en": "Singular",
+              "answer_my": "ဧကန်ကိန်း",
+              "ref": "Vocabulary"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ",
+              "answer_en": "Lord of the two sunrises and Lord of the two sunsets.",
+              "answer_my": "နေထွက်ရာအရပ်နှစ်ခုလုံး၏ အရှင်နှင့် နေဝင်ရာအရပ်နှစ်ခုလုံး၏ အရှင်မြတ်။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change the word to dual form using -ani",
+          "instruction_my": "အောက်ပါနာမ်ကို 'အာနိ' သုံး၍ နှစ်ခုကိန်းပြောင်းပါ",
+          "questions": [
+            {
+              "q": "مَلَك",
+              "answer_en": "Malakan",
+              "answer_my": "ကောင်းကင်တမန်နှစ်ပါး",
+              "ar": "مَلَكَانِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The dual form in the Quran often points to harmony and balance in creation, such as the two seas, the sun and moon, and the two gardens of Paradise.",
+        "my": "ကုရ်အာန်ရှိ နှစ်ခုကိန်းများသည် ဖန်ဆင်းရှင်၏ မျှခြေနှင့် ဟန်ချက်ညီမှုကို ညွှန်ပြသည်။ ပင်လယ်နှစ်ခု၊ နေနှင့်လ၊ ဂျန္နသ်ရှိ ဥယျာဉ်နှစ်ခု စသည်တို့သည် ၎င်း၏ သက်သေများဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Ar-Rahman 55:46",
+        "study_number": 1,
+        "arabic_full": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ",
+        "en_sahih": "But for he who has feared the position of his Lord are two gardens",
+        "my_mmsy": "(၄၆) ထို့ပြင် မိမိအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ ရှေ့တော်တွင်မတ်တတ်ရပ်ရန်စိုးရိမ်သည့်သူများအတွက်မူ ဥယျာဉ်နှစ်ခုရှိမည်။ ၁၂",
+        "audio_ref": {
+          "surah": 55,
+          "ayah": 46,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/055046.mp3"
+        },
+        "qurancom_url": "https://quran.com/55/46",
+        "context": {
+          "en": "Surah Ar-Rahman mentions various blessings given to Jinns and Mankind, including the rewards for those who fear Allah.",
+          "my": "စူရာဟ် အရ်ရဟ်မန်တွင် ဂျင်န်နှင့် လူသားတို့အား ပေးသနားထားသော အမျိုးမျိုးသော ကျေးဇူးတော်များနှင့် အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့သူများအတွက် ဆုလာဘ်များကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "خَافَ",
+            "translit": "khāfa",
+            "en": "he feared",
+            "my": "သူကြောက်ရွံ့ခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "خ و ف",
+            "freq": 124
+          },
+          {
+            "ar": "جَنَّتَانِ",
+            "translit": "jannatān",
+            "en": "two gardens",
+            "my": "ဥယျာဉ်နှစ်ခု",
+            "role_en": "Subject",
+            "role_my": "ကတ္တား",
+            "root": "ج ن ن",
+            "freq": 5
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The suffix -ān denotes that there are exactly two gardens as a reward.",
+          "structure_my": "-ān နောက်ဆက်သည် ဆုလာဘ်အဖြစ် ဥယျာဉ်နှစ်ခု ရှိမည်ကို ညွှန်ပြသည်။",
+          "insight_en": "Scholars say the 'two gardens' could refer to one for the Jinn and one for the Human, or one as a reward for faith and one for deeds.",
+          "insight_my": "ပညာရှင်များက 'ဥယျာဉ်နှစ်ခု' သည် ဂျင်န်နှင့် လူသားတို့အတွက် တစ်ခုစီ သို့မဟုတ် အီမာန်နှင့် လုပ်ဆောင်မှုများအတွက် တစ်ခုစီ ဖြစ်နိုင်သည်ဟု ဆိုကြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "خ و ف",
+            "concept_en": "to be afraid or aware of danger",
+            "concept_my": "ကြောက်ရွံ့ခြင်း သို့မဟုတ် အန္တရာယ်ကို သတိပြုမိခြင်း",
+            "members": [
+              {
+                "ar": "خَوْف",
+                "translit": "khawf",
+                "en": "fear",
+                "my": "ကြောက်ရွံ့မှု",
+                "freq": 28
+              }
+            ],
+            "professors_note": "Fear of Allah (Khawf) is not a terror that makes you run away, but a reverence that makes you run towards Him for safety."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်အား ကြောက်ရွံ့ရိုသေခြင်းသည် ကျွန်ုပ်တို့အား မကောင်းမှုများမှ ကာကွယ်ပေးသည်။ ၎င်း၏ ဆုလာဘ်အဖြစ် ဂျန္နသ်ဥယျာဉ်နှစ်ခုကို ကတိပေးထားခြင်းသည် အလွန်ဝမ်းမြောက်ဖွယ်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Ends with a long 'aa' followed by a light 'ni'.",
+          "meaning_anchor": "Visualize two beautiful gardens divided by a stream.",
+          "daily_connection": "Remember these two gardens when you have to choose between a temporary sin and Allah's pleasure.",
+          "my": "ဤအာယသ်သည် 'အရ်ရဟ်မန်' စူရာဟ်တွင် အလွန်ထင်ရှားသည်။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Baqarah 2:282",
+        "study_number": 2,
+        "arabic_full": "وَاسْتَشْهِدُوا شَهِيدَيْنِ مِن رِّجَالِكُمْ",
+        "en_sahih": "And bring to witness two witnesses from among your men",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S2_A282",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 282,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002282.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/282",
+        "context": {
+          "en": "This is part of the longest verse in the Quran, regarding the laws of financial transactions and documentation.",
+          "my": "ဤသည်မှာ ငွေကြေးပေးချေမှုနှင့် မှတ်တမ်းတင်ခြင်းဆိုင်ရာ ဥပဒေများနှင့်ပတ်သက်သော ကုရ်အာန်၏ အရှည်ဆုံးအာယသ်တော်၏ အစိတ်အပိုင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "شَهِيدَيْنِ",
+            "translit": "shahīdayn",
+            "en": "two witnesses",
+            "my": "သက်သေနှစ်ဦး",
+            "role_en": "Object",
+            "role_my": "ကံ",
+            "root": "ش ه د",
+            "freq": 2
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The -ayni ending is used here because 'Shahidayn' is the object of the verb.",
+          "structure_my": "'Shahidayn' သည် ကြိယာ၏ ကံဖြစ်သောကြောင့် -ayni အဆုံးသတ်ကို သုံးထားသည်။",
+          "insight_en": "Islamic law emphasizes accuracy, using the dual to ensure justice.",
+          "insight_my": "အစ္စလာမ့်ဥပဒေသည် တရားမျှတမှုရှိစေရန် တိကျမှုကို အလေးပေးထားပြီး ထို့ကြောင့် သက်သေ 'နှစ်ဦး' ကို သတ်မှတ်ထားခြင်းဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ش ه د",
+            "concept_en": "to see and testify to the truth",
+            "concept_my": "အမှန်တရားကို မြင်တွေ့ပြီး သက်သေခံခြင်း",
+            "members": [
+              {
+                "ar": "شَهَادَة",
+                "translit": "shahādah",
+                "en": "testimony",
+                "my": "သက်သေခံချက်",
+                "freq": 56
+              }
+            ],
+            "professors_note": "A Shahid (witness) is one who is present and sees clearly, making their word reliable."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလွှဲအပြောင်းကိစ္စများတွင် သက်သေထားရှိခြင်းသည် ခိုင်မာသော လူ့အဖွဲ့အစည်းတစ်ခု တည်ဆောက်ရန်ဖြစ်သည်။ အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့အား အသေးစိတ်ကိစ္စများအထိ လမ်းပြပေးထားသည်။"
+        },
+        "memorization_helper": {
+          "meaning_anchor": "Two hands shake on a deal with two witnesses watching.",
+          "daily_connection": "Remember the importance of truthfulness whenever you act as a witness.",
+          "my": "ဤအာယသ်သည် အလွန်ရှည်သော်လည်း ဤစကားစုလေးကို မှတ်သားထားနိုင်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You have mastered the dual form (Muthanna). This unique Arabic pattern allows for precise description of pairs, a recurring theme in the beauty of Quranic creation.",
+      "my": "သင်သည် နှစ်ခုကိန်း (Muthanna) ကို တတ်မြောက်သွားပြီဖြစ်သည်။ ဤထူးခြားသော အာရဗီပုံစံသည် အရာဝတ္ထုအစုံများကို တိကျစွာဖော်ပြရန် အသုံးပြုပြီး ကုရ်အာန်၏ အလှတရားတစ်ခုလည်းဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-039",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 39,
+    "title": {
+      "ar": "الصِّفَاتُ بِالْجَمْعِ — الْفَاعِلُونَ",
+      "en": "Plurals IV — Sound Plurals in Quranic Descriptions",
+      "my": "ကုရ်အာန်ပါ ဖော်ပြချက်များရှိ အများကိန်းများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Parsing sound plurals in full Quranic sentences",
+      "grammar_formula": "[Al- / Inna] + [Noun/Adjective] + ونَ / يْنَ"
+    },
+    "section_1_vocab": [
+      {
+        "word": "شَاهِدِينَ",
+        "translit": "shāhidīn",
+        "en": "Witnesses",
+        "my": "သက်သေခံသူများ",
+        "quran_freq": 16,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلِينَ",
+        "root": {
+          "letters": "ش ه د",
+          "concept_en": "witnessing",
+          "concept_my": "သက်သေထွက်ဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shahidin",
+          "image": "A group of people standing to tell the truth",
+          "cross_language": "Shahid (ရှဟီးဒ်) in Myanmar can mean a martyr or witness"
+        },
+        "word_family": [
+          {
+            "ar": "شَهَادَة",
+            "translit": "shahādah",
+            "en": "testimony",
+            "my": "သက်သေခံချက်",
+            "freq": 56
+          }
+        ],
+        "pattern_unlock": "The '-in' ending here is plural, not dual, because of the short vowel 'i' on the last root letter.",
+        "example": {
+          "ar": "فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+          "en": "so register us among the witnesses",
+          "my": "သို့ဖြစ်ပါ၍ ကျွန်ုပ်တို့အား သက်သေခံသူများနှင့်အတူ မှတ်တမ်းတင်တော်မူပါ",
+          "ref": "3:53"
+        }
+      },
+      {
+        "word": "سَاجِدِينَ",
+        "translit": "sājidīn",
+        "en": "Prostrators",
+        "my": "ဦးချသူများ",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلِينَ",
+        "root": {
+          "letters": "س ج د",
+          "concept_en": "prostration",
+          "concept_my": "စဂျ်ဒဟ်ပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sajidin",
+          "image": "Rows of people in Sujud (prostration)",
+          "cross_language": "Sajdah (စဂျ်ဒဟ်) is a daily act for Myanmar Muslims"
+        },
+        "word_family": [
+          {
+            "ar": "مَسْجِد",
+            "translit": "masjid",
+            "en": "place of prostration",
+            "my": "ဗလီ",
+            "freq": 28
+          }
+        ],
+        "pattern_unlock": "A person who does Sujud is a Sajid; a group are Sajidin.",
+        "example": {
+          "ar": "وَتَقَلُّبَكَ فِي السَّاجِدِينَ",
+          "en": "And your movement among those who prostrate",
+          "my": "ဦးချဝတ်ပြုသူများအကြား သင်၏ လှုပ်ရှားမှုများကိုလည်း (မြင်တော်မူ၏)",
+          "ref": "26:219"
+        }
+      },
+      {
+        "word": "ذَاكِرِينَ",
+        "translit": "dhākirīn",
+        "en": "Rememberers",
+        "my": "အောက်မေ့သတိရသူများ",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلِينَ",
+        "root": {
+          "letters": "ذ ك ر",
+          "concept_en": "remembrance",
+          "concept_my": "သတိရအောက်မေ့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dhakirin",
+          "image": "People making Dhikr with beads or fingers",
+          "cross_language": "Dhikr (ဇစ်ကိရ်) is common in Myanmar devotional practice"
+        },
+        "word_family": [
+          {
+            "ar": "ذِكْر",
+            "translit": "dhikr",
+            "en": "remembrance",
+            "my": "သတိရခြင်း",
+            "freq": 292
+          }
+        ],
+        "pattern_unlock": "The 'Fa'il' pattern describes people defined by a continuous action.",
+        "example": {
+          "ar": "وَالذَّاكِرِينَ اللَّهَ كَثِيرًا",
+          "en": "and the men who remember Allah often",
+          "my": "အလ္လာဟ်အရှင်မြတ်အား များစွာ အောက်မေ့သတိရကြကုန်သော အမျိုးသားများသည်လည်းကောင်း",
+          "ref": "33:35"
+        }
+      },
+      {
+        "word": "شَاكِرِينَ",
+        "translit": "shākirīn",
+        "en": "Thankful",
+        "my": "ကျေးဇူးတင်သူများ",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلِينَ",
+        "root": {
+          "letters": "ش ك ر",
+          "concept_en": "thankfulness",
+          "concept_my": "ကျေးဇူးသိတတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shakirin",
+          "image": "A group saying 'Alhamdulillah' together",
+          "cross_language": "Shukur (ရှုကူရ်) is the expression of thanks"
+        },
+        "word_family": [
+          {
+            "ar": "شَكُور",
+            "translit": "shakūr",
+            "en": "most appreciative",
+            "my": "အလွန်ကျေးဇူးတင်သော",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Being 'Shakirin' is a state of being that Allah loves.",
+        "example": {
+          "ar": "إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+          "en": "whether he be grateful or ungrateful",
+          "my": "ကျေးဇူးတင်သူဖြစ်စေ သို့မဟုတ် ကျေးဇူးကန်းသူဖြစ်စေ",
+          "ref": "76:3"
+        }
+      },
+      {
+        "word": "صَابِرِينَ",
+        "translit": "ṣābirīn",
+        "en": "Patient",
+        "my": "သည်းခံသူများ",
+        "quran_freq": 15,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلِينَ",
+        "root": {
+          "letters": "ص ب ر",
+          "concept_en": "patience",
+          "concept_my": "စိတ်ရှည်သည်းခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sabirin",
+          "image": "People standing strong during a heavy rain",
+          "cross_language": "Sabr (ဆဗရ်) is a central virtue in Myanmar Muslim life"
+        },
+        "word_family": [
+          {
+            "ar": "صَبْر",
+            "translit": "ṣabr",
+            "en": "patience",
+            "my": "သည်းခံခြင်း",
+            "freq": 103
+          }
+        ],
+        "pattern_unlock": "Many Quranic descriptions of believers use this sound plural pattern.",
+        "example": {
+          "ar": "وَاللَّهُ يُحِبُّ الصَّابِرِينَ",
+          "en": "And Allah loves the patient",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် သည်းခံသူများကို ချစ်မြတ်နိုးတော်မူ၏",
+          "ref": "3:146"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الصِّفَاتُ بِالْجَمْعِ",
+        "en": "Plural Descriptions",
+        "my": "အများကိန်း ဖော်ပြချက်များ"
+      },
+      "formula": {
+        "display": "الـ + فَاعِل + ينَ = الصَّابِرِينَ",
+        "example": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+        "myanmar_read": "နာမဝိသေသနများကို အများကိန်းပြုလုပ်ရာတွင်လည်း -una/-ina ကို သုံးသည်",
+        "key_insight": "In Arabic, adjectives must match the noun they describe in number. If the people are plural, the description is plural too."
+      },
+      "explanation": {
+        "en": "This lesson focuses on identifying sound masculine plurals when they act as adjectives or descriptions (Sifah). In the Quran, Allah often describes groups of believers using the 'Fa'ilin' pattern. When you see a word ending in -ina following a preposition or 'Inna', it is often a description of a group.",
+        "my": "ဤသင်ခန်းစာသည် နာမဝိသေသနများ (သို့မဟုတ်) ဖော်ပြချက်များအဖြစ် အသုံးပြုသော အမျိုးသားအများကိန်းများကို ခွဲခြားရန်ဖြစ်သည်။ ကုရ်အာန်တွင် အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်သူအုပ်စုများကို 'Fa'ilin' ပုံစံဖြင့် မကြာခဏ ဖော်ပြလေ့ရှိသည်။ 'Inna' သို့မဟုတ် ရှေ့ဆက်ပုဒ်များနောက်တွင် -ina ဖြင့် ဆုံးသောစကားလုံးများကို တွေ့ရတတ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we say 'The patient people' (သည်းခံသောလူများ). The word 'Patient' doesn't change. In Arabic, 'Patient' becomes plural to match 'People'.",
+        "my": "မြန်မာဘာသာတွင် 'သည်းခံသောလူများ' ဟု ဆိုရာတွင် 'သည်းခံသော' မှာ ပုံစံမပြောင်းသော်လည်း အာရဗီတွင် လူများမှာ အများကိန်းဖြစ်လျှင် 'သည်းခံသော' ဟူသော စကားလုံးမှာလည်း အများကိန်း ဖြစ်ရမည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Adjectives follow the noun in being plural.",
+          "rule_my": "နာမ်သည် အများကိန်းဖြစ်လျှင် ၎င်းကို ထူးပြုသော နာမဝိသေသနသည်လည်း အများကိန်း ဖြစ်ရမည်။",
+          "example": {
+            "ar": "الرِّجَالُ الصَّادِقُونَ",
+            "en": "The truthful men.",
+            "my": "မှန်ကန်သော အမျိုးသားများ။"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Descriptions ending in -ina often follow 'with' (ma'a) or 'among' (fi).",
+          "rule_my": "-ina ဖြင့်ဆုံးသော ဖော်ပြချက်များသည် 'နှင့်အတူ' သို့မဟုတ် 'အထဲ၌' ဟူသော ပုဒ်များနောက်တွင် လိုက်လေ့ရှိသည်။",
+          "example": {
+            "ar": "مَعَ الصَّادِقِينَ",
+            "en": "With the truthful ones.",
+            "my": "မှန်ကန်သူများနှင့်အတူ။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "وَاللَّهُ يُحِبُّ الصَّابِرِينَ",
+          "en": "And Allah loves the patient",
+          "my": "ထို့ပြင် နဗီတမန်တော် အမြောက်အမြားနှင့် အလ္လာဟ်အရှင်မြတ်အား မြတ်နိုးသောသူများသည် အတူတကွ စစ်တိုက်ခဲ့ကြသည်။ ၎င်းပြင် သူတို့သည် အလ္လာဟ်အရှင်မြတ်၏လမ်းတော်တွင် သူတို့အပေါ် ဆိုက်ရောက်လာသော ဘေးဒုက္ခများကြောင့် စိတ်ဓာတ်ကျခြင်း၊ အင်အားလျော့နည်းခြင်း၊ သေးသိမ်နိမ့်ကျခြင်းများ မရှိခဲ့ကြပေ။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် သည်းခံသောသူများကို ချစ်မြတ်နိုးတော်မူသည်။",
+          "ref": "3:146",
+          "breakdown": {
+            "subject": {
+              "word": "اللَّهُ",
+              "en": "Allah",
+              "note": "Proper Name"
+            },
+            "predicate": {
+              "word": "يُحِبُّ الصَّابِرِينَ",
+              "en": "loves the patient",
+              "note": "Verb + Plural Object"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'သည်းခံသူများ' ကို ဖော်ပြရန် 'ဆွာဘိရီးန' ကို သုံးထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting that 'the' (Al-) must also be on the adjective",
+          "wrong": {
+            "ar": "الْمُؤْمِنُونَ صَادِقِينَ",
+            "note": "The ending must match (both -una)"
+          },
+          "correct": {
+            "ar": "الْمُؤْمِنُونَ الصَّادِقُونَ",
+            "en": "The truthful believers.",
+            "my": "မှန်ကန်သော ယုံကြည်သူများ။"
+          },
+          "myanmar_tip": "နာမ်နှင့် ၎င်းကို ထူးပြုချက်သည် အဆုံးသတ်သံ တူညီရပါမည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Pick the plural description (adjective) from the sentence",
+          "instruction_my": "ဝါကျမှ အများကိန်းဖော်ပြချက်ကို ရွေးပါ",
+          "questions": [
+            {
+              "q": "كُونُوا مَعَ الصَّادِقِينَ",
+              "answer_en": "الصَّادِقِينَ",
+              "answer_my": "မှန်ကန်သူများ",
+              "ref": "9:119"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+              "answer_en": "So write us down among the witnesses.",
+              "answer_my": "သို့ဖြစ်၍ ကျွန်ုပ်တို့အား သက်သေခံသူများနှင့်အတူ မှတ်တမ်းတင်တော်မူပါ။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the singular adjective 'Sajid' into plural with -ina",
+          "instruction_my": "'Sajid' ကို 'အီးနာ' သုံး၍ အများကိန်းပြုလုပ်ပါ",
+          "questions": [
+            {
+              "q": "سَاجِد",
+              "answer_en": "Sajidin",
+              "answer_my": "ဦးချသူများ",
+              "ar": "سَاجِدِينَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Allah describes the believers as a collective, encouraging us to find our identity within the righteous community (The Patient, The Truthful).",
+        "my": "အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်သူများကို အစုအဖွဲ့လိုက် ဖော်ပြလေ့ရှိသည်။ ၎င်းသည် ကျွန်ုပ်တို့အား ကောင်းမြတ်သော အစုအဖွဲ့များ (သည်းခံသူများ၊ မှန်ကန်သူများ) ထဲတွင် ပါဝင်ရန် တိုက်တွန်းခြင်းဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Imran 3:53",
+        "study_number": 1,
+        "arabic_full": "رَبَّنَا آمَنَّا بِمَا أَنزَلْتَ وَاتَّبَعْنَا الرَّسُولَ فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+        "en_sahih": "Our Lord, we have believed in what You revealed and have followed the messenger, so register us among the witnesses [to the truth].",
+        "my_mmsy": "သူတို့(ဟဝါရီများ)က ပြောဆိုကြသည်၊ “အို- ကျွန်ုပ်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ ကျွန်ုပ်တို့သည် အရှင်မြတ်ချပေးသောအရာ(အမိန့်တော်)များကို ယုံကြည်ပြီး ရစူလ်တမန်တော်၏ အမိန့်များကိုလည်း လိုက်နာကြပါသည်။ သို့ဖြစ်ရာ အရှင်မြတ်သည် ကျွန်ုပ်တို့အား သက်သေခံသူများထဲတွင် ရေးမှတ်တော်မူပါ။“",
+        "audio_ref": {
+          "surah": 3,
+          "ayah": 53,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/003053.mp3"
+        },
+        "qurancom_url": "https://quran.com/3/53",
+        "context": {
+          "en": "This is the prayer of the disciples of Jesus (AS) affirming their faith and commitment.",
+          "my": "ဤသည်မှာ အီစာ (အလိုင်းဟစ္စလာမ်) ၏ တပည့်သားများ (ဟဝါရီယွန်) တို့၏ ယုံကြည်ချက်နှင့် ကတိကဝတ်ကို အတည်ပြုသော ဆုတောင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "آمَنَّا",
+            "translit": "āmannā",
+            "en": "we believed",
+            "my": "ကျွန်ုပ်တို့ယုံကြည်ခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "أ م ن",
+            "freq": 537
+          },
+          {
+            "ar": "الرَّسُولَ",
+            "translit": "al-rasūla",
+            "en": "the messenger",
+            "my": "တမန်တော်",
+            "role_en": "Object",
+            "role_my": "ကံ",
+            "root": "ر س ل",
+            "freq": 332
+          },
+          {
+            "ar": "الشَّاهِدِينَ",
+            "translit": "al-shāhidīn",
+            "en": "the witnesses",
+            "my": "သက်သေခံသူများ",
+            "role_en": "Object of Preposition",
+            "role_my": "ရှေ့ဆက်ပုဒ်၏နောက်ကံ",
+            "root": "ش ه د",
+            "freq": 16
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The phrase 'ma'a al-shahidin' uses the sound plural to show the desire to join a larger group of righteous people.",
+          "structure_my": "'ma'a al-shahidin' ဟူသော စကားစုသည် ဖြောင့်မတ်သူများ၏ အစုအဖွဲ့ကြီးတွင် ပါဝင်လိုသော ဆန္ဒကို ပြသရန် အများကိန်းကို သုံးထားသည်။",
+          "insight_en": "Belief and following the messenger are the conditions to be counted among the true witnesses.",
+          "insight_my": "ယုံကြည်ခြင်းနှင့် တမန်တော်ကို လိုက်နာခြင်းတို့သည် သက်သေခံသူစစ်စစ်များအဖြစ် သတ်မှတ်ခံရရန် အခြေခံအချက်များဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ش ه د",
+            "concept_en": "to be present and state the truth",
+            "concept_my": "မျက်မှောက်ရှိနေပြီး အမှန်တရားကို ပြောဆိုခြင်း",
+            "members": [
+              {
+                "ar": "مَشْهَد",
+                "translit": "mashhad",
+                "en": "scene",
+                "my": "မြင်ကွင်း",
+                "freq": 0
+              }
+            ],
+            "professors_note": "A witness is someone whose life itself is a proof of their faith."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည်လည်း တမန်တော်မြတ် (ဆွ) ၏ လမ်းစဉ်ကို လိုက်နာခြင်းဖြင့် သက်သေခံသူများထဲတွင် ပါဝင်နိုင်ရန် အမြဲဆုတောင်းသင့်သည်။ အမှန်တရားအတွက် သက်သေခံခြင်းသည် ကြီးမားသော တာဝန်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah builds up to the final 'Shāhidīn' with a plea.",
+          "meaning_anchor": "Imagine writing your name in a book alongside the Prophets' companions.",
+          "daily_connection": "Recite this after your prayers to renew your commitment to the Sunnah.",
+          "my": "ဤဆုတောင်းကို 'ရဗ်ဗနာ' (ကျွန်ုပ်တို့၏အရှင်) ဖြင့် အစပြုထားသဖြင့် ကျက်မှတ်ထားရန် အလွန်သင့်တော်ပါသည်။"
+        }
+      },
+      {
+        "ayah_ref": "At-Tawbah 9:119",
+        "study_number": 2,
+        "arabic_full": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ",
+        "en_sahih": "O you who have believed, fear Allah and be with those who are true.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S9_A119",
+        "audio_ref": {
+          "surah": 9,
+          "ayah": 119,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/009119.mp3"
+        },
+        "qurancom_url": "https://quran.com/9/119",
+        "context": {
+          "en": "Allah commands the believers to remain truthful and keep the company of truthful people.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်သူများအား မှန်ကန်စွာနေထိုင်ရန်နှင့် မှန်ကန်သူများနှင့်သာ ပေါင်းသင်းရန် အမိန့်ပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "كُونُوا",
+            "translit": "kūnū",
+            "en": "be",
+            "my": "ဖြစ်ကြလော့",
+            "role_en": "Command Verb",
+            "role_my": "အမိန့်ပေးကြိယာ",
+            "root": "က ဝ န",
+            "freq": 1390
+          },
+          {
+            "ar": "الصَّادِقِينَ",
+            "translit": "al-ṣādiqīn",
+            "en": "those who are true",
+            "my": "မှန်ကန်သူများ",
+            "role_en": "Object of Preposition",
+            "role_my": "ရှေ့ဆက်ပုဒ်၏နောက်ကံ",
+            "root": "ص ဒ က",
+            "freq": 35
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The command 'kunu' (be) is plural, and its object 'al-sadiqin' is also plural.",
+          "structure_my": "'kunu' (ဖြစ်ကြလော့) ဟူသော အမိန့်သည် အများကိန်းဖြစ်သကဲ့သို့ 'al-sadiqin' သည်လည်း အများကိန်းဖြစ်သည်။",
+          "insight_en": "Being with the truthful protects one's own faith from faltering.",
+          "insight_my": "မှန်ကန်သူများနှင့်အတူ ရှိနေခြင်းသည် မိမိ၏ အီမာန်ယုံကြည်ချက်ကို ခိုင်မာစေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ص ဒ က",
+            "concept_en": "truth and sincerity",
+            "concept_my": "အမှန်တရားနှင့် စစ်မှန်မှု",
+            "members": [
+              {
+                "ar": "صِدْق",
+                "translit": "ṣidq",
+                "en": "truth",
+                "my": "အမှန်တရား",
+                "freq": 155
+              }
+            ],
+            "professors_note": "Sadaqah (charity) comes from this same root because it proves the 'truth' of one's faith."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ ပေါင်းသင်းသူသည် ကျွန်ုပ်တို့၏ စရိုက်ကို ပြောင်းလဲစေနိုင်သည်။ ထို့ကြောင့် အမှန်တရားကို မြတ်နိုးသူများနှင့် ပေါင်းသင်းခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "A very famous and punchy command ending in -īn.",
+          "meaning_anchor": "Standing in a circle of honest people.",
+          "daily_connection": "Check your friends: Are they among the 'Sadiqin'?",
+          "my": "ဤအာယသ်သည် မှန်ကန်စွာနေထိုင်ရန် တိုက်တွန်းသော အလွန်တိုတောင်းသည့် အာယသ်ဖြစ်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You explored how sound plurals function as descriptions in the Quran. Seeing patterns like 'Sajidin' and 'Sadiqin' helps you understand the collective character of the believers described by Allah.",
+      "my": "ကုရ်အာန်တွင် အများကိန်းများက ဖော်ပြချက်များအဖြစ် မည်သို့အလုပ်လုပ်သည်ကို လေ့လာခဲ့သည်။ 'Sajidin' နှင့် 'Sadiqin' ကဲ့သို့သော ပုံစံများကို မြင်ခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ် ဖော်ပြထားသော ယုံကြည်သူတို့၏ စုပေါင်းစရိုက်ကို နားလည်စေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-040",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 40,
+    "title": {
+      "ar": "مُرَاجَعَةُ الْأَعْدَادِ — الْمُفْرَدُ وَالْمُثَنَّى وَالْجَمْعُ",
+      "en": "Plurals V — Review: Singular, Dual, and Sound Plural",
+      "my": "ပြန်လည်သုံးသပ်ခြင်း — ဧကန်၊ နှစ်ခုနှင့် အများကိန်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Full contrast drill: singular → dual → sound plural",
+      "grammar_formula": "Noun → Noun + ani → Noun + una"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مُسْلِم",
+        "translit": "muslim",
+        "en": "Muslim",
+        "my": "မွတ်စလင်မ်",
+        "quran_freq": 75,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعِل",
+        "root": {
+          "letters": "س ل م",
+          "concept_en": "submission",
+          "concept_my": "နာခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Muslim",
+          "image": "A single person bowing",
+          "cross_language": "Muslim (မွတ်စလင်မ်)"
+        },
+        "word_family": [
+          {
+            "ar": "مُسْلِمُونَ",
+            "translit": "muslimūn",
+            "en": "Muslims",
+            "my": "မွတ်စလင်မ်များ",
+            "freq": 42
+          }
+        ],
+        "pattern_unlock": "The singular is the base for all other forms.",
+        "example": {
+          "ar": "مَا كَانَ إِبْرَاهِيمُ يَهُودِيًّا... وَلَكِن كَانَ حَنِيفًا مُّسْلِمًا",
+          "en": "Abraham was not a Jew... but he was a Hanif, a Muslim",
+          "my": "အီဗရာဟင်မ်သည် ယဟူဒီတစ်ဦးမဟုတ်ခဲ့... သို့သော် သူသည် ဖြောင့်မတ်သော မွတ်စလင်မ်တစ်ဦး ဖြစ်ခဲ့သည်",
+          "ref": "3:67"
+        }
+      },
+      {
+        "word": "مُؤْمِن",
+        "translit": "mu'min",
+        "en": "Believer",
+        "my": "ယုံကြည်သူ",
+        "quran_freq": 230,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعِل",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "faith",
+          "concept_my": "ယုံကြည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mumin",
+          "image": "A hand over the heart",
+          "cross_language": "Mumin (မုအ်မင်န်)"
+        },
+        "word_family": [
+          {
+            "ar": "مُؤْمِنَانِ",
+            "translit": "mu'minān",
+            "en": "two believers",
+            "my": "ယုံကြည်သူနှစ်ဦး",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Singular Mu'min refers to the internal state of one person.",
+        "example": {
+          "ar": "لَعَبْدٌ مُّؤْمِنٌ خَيْرٌ مِّن مُّشْرِكٍ",
+          "en": "A believing slave is better than a polytheist",
+          "my": "ယုံကြည်သူကျွန်တစ်ဦးသည် မုရှ်ရစ်က်တစ်ဦးထက် ပိုမိုကောင်းမြတ်သည်",
+          "ref": "2:221"
+        }
+      },
+      {
+        "word": "نَبِيّ",
+        "translit": "nabiyy",
+        "en": "Prophet",
+        "my": "နဗီတမန်တော်",
+        "quran_freq": 75,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "န ဗ အ",
+          "concept_en": "news/high place",
+          "concept_my": "သတင်းစကား/မြင့်မြတ်သောနေရာ"
+        },
+        "memory_hook": {
+          "sound": "Nabi",
+          "image": "A person announcing news from a hilltop",
+          "cross_language": "Nabi (နဗီ) is the term used in Myanmar for Prophets"
+        },
+        "word_family": [
+          {
+            "ar": "نَبِيُّونَ",
+            "translit": "nabiyyūn",
+            "en": "Prophets",
+            "my": "နဗီတမန်တော်များ",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "A Nabiyy 'announces' (Naba') news from Allah.",
+        "example": {
+          "ar": "يَا أَيُّهَا النَّبِيُّ",
+          "en": "O Prophet",
+          "my": "အို-နဗီတမန်တော်",
+          "ref": "33:1"
+        }
+      },
+      {
+        "word": "عَبْد",
+        "translit": "‘abd",
+        "en": "Servant / Slave",
+        "my": "ကျွန် / အစေခံ",
+        "quran_freq": 280,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ع ဘ ဒ",
+          "concept_en": "servitude/worship",
+          "concept_my": "ကျွန်ပြုခြင်း/ဝတ်ပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Abd",
+          "image": "A person kneeling in service",
+          "cross_language": "Abdullah (အဗ်ဒုလ္လာဟ်) means Servant of Allah"
+        },
+        "word_family": [
+          {
+            "ar": "عِبَاد",
+            "translit": "‘ibād",
+            "en": "servants",
+            "my": "ကျွန်များ",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "Abd is the highest title for a human in relation to Allah.",
+        "example": {
+          "ar": "سُبْحَانَ الَّذِي أَسْرَىٰ بِعَبْدِهِ",
+          "en": "Exalted is He who took His Servant by night",
+          "my": "မိမိ၏ကျွန်အား ညအချိန်တွင် ခရီးသွားစေတော်မူသော အရှင်မြတ်သည် သန့်ရှင်းစင်ကြယ်တော်မူ၏",
+          "ref": "17:1"
+        }
+      },
+      {
+        "word": "رَسُول",
+        "translit": "rasūl",
+        "en": "Messenger",
+        "my": "စေလွှတ်ခြင်းခံရသော တမန်တော်",
+        "quran_freq": 332,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعُول",
+        "root": {
+          "letters": "ရ စ လ",
+          "concept_en": "to send",
+          "concept_my": "စေလွှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rasul",
+          "image": "A messenger carrying a scroll",
+          "cross_language": "Rasul (ရစူလ်)"
+        },
+        "word_family": [
+          {
+            "ar": "رُسُل",
+            "translit": "rusul",
+            "en": "messengers",
+            "my": "တမန်တော်များ",
+            "freq": 200
+          }
+        ],
+        "pattern_unlock": "While Nabiyy receives news, Rasul is specifically sent to a people.",
+        "example": {
+          "ar": "مُّحَمَّدٌ رَّسُولُ اللَّهِ",
+          "en": "Muhammad is the Messenger of Allah",
+          "my": "မုဟမ္မဒ်သည် အလ္လာဟ်အရှင်မြတ်၏ တမန်တော်ဖြစ်သည်",
+          "ref": "48:29"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمُفْرَدُ وَالْمُثَنَّى وَالْجَمْعُ",
+        "en": "Singular, Dual, and Plural",
+        "my": "ဧကန်၊ နှစ်ခုနှင့် အများကိန်း"
+      },
+      "formula": {
+        "display": "مُسْلِم (1) → مُسْلِمَانِ (2) → مُسْلِمُونَ (3+)",
+        "example": "مُؤْمِنٌ، مُؤْمِنَانِ، مُؤْمِنُونَ",
+        "myanmar_read": "ဧကန်ကိန်းမှ နှစ်ခုကိန်းသို့၊ ထိုမှ အများကိန်းသို့ ပြောင်းလဲပုံ",
+        "key_insight": "In Arabic, number is precise. You must choose the correct form based on whether you are talking about one, two, or many."
+      },
+      "explanation": {
+        "en": "This lesson summarizes the three number states in Arabic. Singular (Mufrad) has no suffix. Dual (Muthanna) adds -ani or -ayni. Sound Masculine Plural adds -una or -ina. Understanding these transitions is key to reading Quranic sentences accurately.",
+        "my": "ဤသင်ခန်းစာသည် အာရဗီရှိ အရေအတွက်ဆိုင်ရာ အခြေအနေသုံးရပ်ကို အနှစ်ချုပ်ထားသည်။ ဧကန်ကိန်း (Mufrad) တွင် နောက်ဆက်ပုဒ်မရှိပါ။ နှစ်ခုကိန်း (Muthanna) တွင် -ani သို့မဟုတ် -ayni ကို ပေါင်းသည်။ အမျိုးသားအများကိန်းတွင် -una သို့မဟုတ် -ina ကို ပေါင်းသည်။ ဤပြောင်းလဲမှုများကို နားလည်ခြင်းသည် ကုရ်အာန်ဝါကျများကို တိကျစွာဖတ်ရန် သော့ချက်ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar uses count words (Ta-khu, Hna-khu, ...-mya). Arabic encodes the number directly into the noun's ending.",
+        "my": "မြန်မာဘာသာတွင် အရေအတွက်ပြစကားလုံးများ (တစ်ခု၊ နှစ်ခု၊ ...များ) ကို သုံးသော်လည်း အာရဗီတွင် နာမ်၏အဆုံးသတ်ကို တိုက်ရိုက်ပြောင်းလဲရသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Singular is the root word without suffixes.",
+          "rule_my": "ဧကန်ကိန်းသည် နောက်ဆက်ပုဒ်မပါသော မူလစကားလုံးဖြစ်သည်။",
+          "example": {
+            "ar": "عَبْدٌ",
+            "en": "A servant.",
+            "my": "ကျွန်တစ်ဦး။"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Add -āni for exactly two.",
+          "rule_my": "နှစ်ခုအတွက် -āni ကိုပေါင်းပါ။",
+          "example": {
+            "ar": "عَبْدَانِ",
+            "en": "Two servants.",
+            "my": "ကျွန်နှစ်ဦး။"
+          }
+        },
+        {
+          "number": 3,
+          "rule_en": "Add -ūna for three or more (sound masculine).",
+          "rule_my": "သုံးခုနှင့်အထက်အတွက် -ūna ကိုပေါင်းပါ။",
+          "example": {
+            "ar": "عَابِدُونَ",
+            "en": "Worshippers.",
+            "my": "ဝတ်ပြုကိုးကွယ်သူများ။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "قَالَ رَجُلَانِ",
+          "en": "Two men said",
+          "my": "အလ္လာဟ်အရှင်မြတ်အား ကြောက်သောသူ(မုသ်သကီ)များထဲမှ အလ္လာဟ်အရှင်မြတ်က ကျေးဇူးပြုတော်မူထားသည့် လူနှစ်ဦးသည် (ကြံ့ခိုင်စွဲမြဲစွာရပ်တည်လျက် သတ္တိနည်းသူများကို အားပေးရန်အတွက် ဤသို့)ပြောဆိုကြသည်- “အသင်တို့သည် သူတို့အား တိုက်ခိုက်လျက် တံခါးဝသို့ ဝင်ရောက်ကြပါ။ အကယ်၍ အသင်တို့သည် ထိုတံခါးဝသို့ ဝင်ရောက်ခဲ့လျှင် အမှန်စင်စစ် အသင်တို့ပင် အောင်မြင်သူများဖြစ်ကြလိမ့်မည်။ ထို့ပြင် အကယ်၍ အသင်တို့သည် အီမာန်ယုံကြည်သူများဖြစ်ကြလျှင် အလ္လာဟ်အရှင်မြတ်အပေါ်၌သာ ယုံပုံအားကိုးကြပါ။“",
+          "ref": "5:23",
+          "breakdown": {
+            "subject": {
+              "word": "رَجُلَانِ",
+              "en": "two men",
+              "note": "Dual of Rajul"
+            },
+            "predicate": {
+              "word": "قَالَ",
+              "en": "said",
+              "note": "Verb"
+            }
+          },
+          "myanmar_insight": "'Rajul' (အမျိုးသား) ကို 'Rajulan' (အမျိုးသားနှစ်ဦး) အဖြစ် ပြောင်းထားသည်ကို တွေ့နိုင်ပါသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using plural (-una) for only two people",
+          "wrong": {
+            "ar": "جَاءَ الْمُؤْمِنُونَ (when only 2 came)",
+            "note": "Must use dual form"
+          },
+          "correct": {
+            "ar": "جَاءَ الْمُؤْمِنَانِ",
+            "en": "The two believers came.",
+            "my": "ယုံကြည်သူနှစ်ဦး ရောက်ရှိလာကြသည်။"
+          },
+          "myanmar_tip": "လူနှစ်ဦးအကြောင်း ပြောဆိုလျှင် အများကိန်း -una ကို မသုံးဘဲ -ani ကိုသာ သုံးရပါမည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "State if the word is Singular, Dual, or Plural",
+          "instruction_my": "ဧကန်၊ နှစ်ခု သို့မဟုတ် အများကိန်း ဟု ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "مُرْسَلُونَ",
+              "answer_en": "Plural",
+              "answer_my": "အများကိန်း",
+              "ref": "Vocabulary"
+            },
+            {
+              "q": "مَلَكَيْنِ",
+              "answer_en": "Dual",
+              "answer_my": "နှစ်ခုကိန်း",
+              "ref": "Lesson 38"
+            },
+            {
+              "q": "نَبِيّ",
+              "answer_en": "Singular",
+              "answer_my": "ဧကန်ကိန်း",
+              "ref": "Vocabulary"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "إِنَّ اللَّهَ مَعَ الْمُؤْمِنِينَ",
+              "answer_en": "Indeed, Allah is with the believers.",
+              "answer_my": "ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်သူများနှင့်အတူ ရှိနေတော်မူ၏။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Transform 'Abd' (Servant) into Dual and then Plural",
+          "instruction_my": "'Abd' ကို နှစ်ခုကိန်းနှင့် အများကိန်းပြောင်းပါ",
+          "questions": [
+            {
+              "q": "عَبْد",
+              "answer_en": "Dual: 'Abdan, Plural: 'Abidun (broken) or 'Abduna (sound)",
+              "answer_my": "နှစ်ခုကိန်း- အဗ်ဒါနိ၊ အများကိန်း- အဗ်ဒူနာ",
+              "ar": "عَبْدَانِ / عَبْدُونَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Every level of number in the Quran has a purpose. Singular reminds us of our individual responsibility; Dual reminds us of companionship; Plural reminds us of the strength of the Ummah.",
+        "my": "ကုရ်အာန်ရှိ အရေအတွက်တိုင်းတွင် ရည်ရွယ်ချက်ရှိသည်။ ဧကန်ကိန်းသည် မိမိတစ်ဦးချင်းစီ၏ တာဝန်ကို သတိပေးပြီး၊ နှစ်ခုကိန်းသည် အဖော်အဖက်ရှိခြင်းကို ပြသကာ၊ အများကိန်းသည် အုမ္မသ်သာသနာဝင်ထု၏ အင်အားကို ပြသသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Ahzab 33:1",
+        "study_number": 1,
+        "arabic_full": "يَا أَيُّهَا النَّبِيُّ اتَّقِ اللَّهَ",
+        "en_sahih": "O Prophet, fear Allah",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S33_A1",
+        "audio_ref": {
+          "surah": 33,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/033001.mp3"
+        },
+        "qurancom_url": "https://quran.com/33/1",
+        "context": {
+          "en": "Allah addresses the Prophet Muhammad (SAW) directly, commanding Taqwa.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် တမန်တော်မြတ် (ဆွ) အား တိုက်ရိုက်မိန့်ကြားပြီး သက္ကဝါတရားထားရှိရန် အမိန့်ပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "النَّبِيُّ",
+            "translit": "al-nabiyyu",
+            "en": "the Prophet",
+            "my": "နဗီတမန်တော်",
+            "role_en": "Vocative (being called)",
+            "role_my": "ခေါ်ယူခြင်းခံရသောပုဒ်",
+            "root": "န ဗ အ",
+            "freq": 75
+          },
+          {
+            "ar": "اتَّقِ",
+            "translit": "ittaqui",
+            "en": "fear",
+            "my": "ကြောက်ရွံ့ပါ/သတိထားပါ",
+            "role_en": "Command Verb (singular)",
+            "role_my": "အမိန့်ပေးကြိယာ (ဧကန်)",
+            "root": "ဝ က ယ",
+            "freq": 258
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The singular 'al-nabiyyu' is used because Allah is addressing the Prophet (SAW) specifically.",
+          "structure_my": "အလ္လာဟ်အရှင်မြတ်သည် တမန်တော်မြတ် (ဆွ) ကို တိုက်ရိုက်ခေါ်ဆိုနေခြင်းဖြစ်သောကြောင့် 'al-nabiyyu' ဟူသော ဧကန်ကိန်းကို သုံးထားသည်။",
+          "insight_en": "Taqwa is the foundation for the Prophet and all his followers.",
+          "insight_my": "သက္ကဝါတရားသည် တမန်တော်မြတ်နှင့် ၎င်း၏နောက်လိုက်များအားလုံးအတွက် အခြေခံအုတ်မြစ်ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "န ဗ အ",
+            "concept_en": "to bring news from an elevated position",
+            "concept_my": "မြင့်မြတ်သောနေရာမှ သတင်းစကားကို ယူဆောင်လာခြင်း",
+            "members": [
+              {
+                "ar": "نَبَأ",
+                "translit": "naba’",
+                "en": "great news",
+                "my": "ကြီးကျယ်သောသတင်း",
+                "freq": 160
+              }
+            ],
+            "professors_note": "A Nabi is someone who is chosen to convey the 'Naba' (news) from the unseen world."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် တမန်တော်မြတ် (ဆွ) ကိုပင် 'သက္ကဝါ' ထားရှိရန် မိန့်ကြားခဲ့လျှင် ကျွန်ုပ်တို့အတွက် မည်မျှအရေးကြီးမည်ကို စဉ်းစားကြည့်ပါ။ ကျွန်ုပ်တို့သည် တမန်တော်မြတ်ကို ချစ်မြတ်နိုးရုံသာမက ၎င်း၏ လမ်းစဉ်ကိုပါ လိုက်နာကြရမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Simple, direct, and authoritative: 'Ya ayyuha al-Nabiyyu'.",
+          "meaning_anchor": "The Prophet standing alone in prayer, being addressed by Allah.",
+          "daily_connection": "Whenever you hear 'Ya ayyuha al-Nabiyyu', listen carefully as if the message is coming to you too.",
+          "my": "ဤစကားစုသည် ကုရ်အာန်တွင် အကြိမ်ပေါင်းများစွာ ပါဝင်သည်။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Fath 48:29",
+        "study_number": 2,
+        "arabic_full": "مُّحَمَّدٌ رَّسُولُ اللَّهِ",
+        "en_sahih": "Muhammad is the Messenger of Allah",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S48_A29",
+        "audio_ref": {
+          "surah": 48,
+          "ayah": 29,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/048029.mp3"
+        },
+        "qurancom_url": "https://quran.com/48/29",
+        "context": {
+          "en": "This verse establishes the identity of the Prophet and the characteristics of his companions.",
+          "my": "ဤအာယသ်တော်သည် တမန်တော်မြတ်၏ အထောက်အထားနှင့် ၎င်း၏ ဆွဟာဗဟ်အဖော်မွန်တို့၏ အရည်အချင်းများကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "رَسُولُ",
+            "translit": "rasūlu",
+            "en": "Messenger",
+            "my": "တမန်တော်",
+            "role_en": "Predicate",
+            "role_my": "သတင်းအချက်အလက်ပုဒ်",
+            "root": "ရ စ လ",
+            "freq": 332
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The singular 'Rasul' identifies the unique role of Muhammad (SAW).",
+          "structure_my": "ဧကန်ကိန်း 'Rasul' သည် မုဟမ္မဒ် (ဆွ) ၏ ထူးခြားသော ကဏ္ဍကို ဖော်ပြသည်။",
+          "insight_en": "Being a Rasul means carrying a message (Risalah) to the world.",
+          "insight_my": "'ရစူလ်' တစ်ဦးဖြစ်ခြင်းသည် တစ်ကမ္ဘာလုံးသို့ သတင်းစကား (Risalah) ကို သယ်ဆောင်လာခြင်းကို ဆိုလိုသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ရ စ လ",
+            "concept_en": "to release or send forth sequentially",
+            "concept_my": "အစဉ်လိုက် စေလွှတ်ခြင်း",
+            "members": [
+              {
+                "ar": "رِسَالَة",
+                "translit": "risālah",
+                "en": "message",
+                "my": "သတင်းစကား",
+                "freq": 10
+              }
+            ],
+            "professors_note": "A Rasul is sent with a law (Shariah) to a specific community."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ တမန်တော်မြတ်သည် အလ္လာဟ်အရှင်မြတ်၏ စေလွှတ်ခြင်းခံရသော 'ရစူလ်' ဖြစ်ကြောင်း ယုံကြည်ခြင်းသည် ကာလိမဟ်၏ အစိတ်အပိုင်းဖြစ်သည်။ ၎င်းသည် ကျွန်ုပ်တို့၏ ဘဝလမ်းပြကြယ် ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Very easy to recite, often heard in the Shahadah.",
+          "meaning_anchor": "The foundation of our faith.",
+          "daily_connection": "Say this with focus during the Adhan or your prayers.",
+          "my": "ဤသည်မှာ အစ္စလာမ်၏ အခြေခံအကျဆုံး ကြေညာချက်ဖြစ်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "You have completed the foundational review of Arabic numbers. By contrasting singular, dual, and plural forms, you are now equipped to parse many common phrases in the Quran and understand who Allah is referring to.",
+      "my": "သင်သည် အာရဗီအရေအတွက်ဆိုင်ရာ အခြေခံပြန်လည်သုံးသပ်မှုကို အောင်မြင်စွာ ပြီးဆုံးခဲ့သည်။ ဧကန်၊ နှစ်ခုနှင့် အများကိန်းများကို နှိုင်းယှဉ်လေ့လာခြင်းဖြင့် ကုရ်အာန်ရှိ စကားစုများကို ပိုမိုနားလည်သဘောပေါက်လာပြီ ဖြစ်သည်။"
+    }
+  }
+]

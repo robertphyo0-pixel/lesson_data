@@ -1,0 +1,2315 @@
+[
+  {
+    "lesson_id": "L2-051",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 51,
+    "title": {
+      "ar": "الْمَاضِي (١) — فَعَلَ: الصِّيغَةُ الْأَصْلِيَّةُ",
+      "en": "Past Tense I — 'He did' (Fa'ala): The Base Form",
+      "my": "အတိတ်ကာလ (၁) — 'သူပြုလုပ်ခဲ့သည်' (Fa'ala): အခြေခံပုံစံ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Past tense 3rd person masculine singular; the root-verb pattern",
+      "grammar_formula": "Root Letters + Fatha Vowels = HE DID"
+    },
+    "section_1_vocab": [
+      {
+        "word": "كَتَبَ",
+        "translit": "kataba",
+        "en": "he wrote",
+        "my": "သူရေးသားခဲ့သည်",
+        "quran_freq": 319,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ك ت ب",
+          "concept_en": "writing / documenting",
+          "concept_my": "ရေးသားခြင်း / မှတ်တမ်းတင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kitab",
+          "image": "A scribe writing in a holy Kitab",
+          "cross_language": "Kitab (Myanmar/Urdu/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "كِتَاب",
+            "translit": "kitāb",
+            "en": "book",
+            "my": "စာအုပ်",
+            "freq": 261
+          }
+        ],
+        "pattern_unlock": "The 3-fatha pattern (C1aC2aC3a) always implies 'He did' in the past.",
+        "example": {
+          "ar": "كَتَبَ رَبُّكُمْ",
+          "en": "Your Lord has prescribed",
+          "my": "သင်တို့၏အရှင်သည် သတ်မှတ်ရေးသားခဲ့သည်",
+          "ref": "6:54"
+        }
+      },
+      {
+        "word": "قَرَأَ",
+        "translit": "qara'a",
+        "en": "he read / recited",
+        "my": "သူဖတ်ကြားခဲ့သည်",
+        "quran_freq": 17,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ق ر အ",
+          "concept_en": "reading / gathering words",
+          "concept_my": "ဖတ်ကြားခြင်း / စုစည်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Quran",
+          "image": "Reading the Quran aloud",
+          "cross_language": "Quran (Global)"
+        },
+        "word_family": [
+          {
+            "ar": "قُرْآن",
+            "translit": "qur'ān",
+            "en": "recitation",
+            "my": "ဖတ်ကြားမှု",
+            "freq": 70
+          }
+        ],
+        "pattern_unlock": "Verbs ending in Hamza follow the same rhythm as regular verbs in the past.",
+        "example": {
+          "ar": "اقْرَأْ بِاسْمِ رَبِّكَ",
+          "en": "Read in the name of your Lord",
+          "my": "သင့်အရှင်၏နာမံတော်ဖြင့် ဖတ်လော့",
+          "ref": "96:1"
+        }
+      },
+      {
+        "word": "خَلَقَ",
+        "translit": "khalaqa",
+        "en": "he created",
+        "my": "သူဖန်ဆင်းခဲ့သည်",
+        "quran_freq": 261,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ခ လ က",
+          "concept_en": "creation / proportioning",
+          "concept_my": "ဖန်ဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khalq",
+          "image": "The Creator making the world",
+          "cross_language": "Makhluq (Myanmar/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "خَالِق",
+            "translit": "khāliq",
+            "en": "Creator",
+            "my": "ဖန်ဆင်းရှင်",
+            "freq": 8
+          }
+        ],
+        "pattern_unlock": "This is one of the most common verbs in the Quran to describe Allah's actions.",
+        "example": {
+          "ar": "خَلَقَ الْإِنْسَانَ",
+          "en": "He created man",
+          "my": "သူသည် လူသားကို ဖန်ဆင်းခဲ့သည်",
+          "ref": "96:2"
+        }
+      },
+      {
+        "word": "ذَكَرَ",
+        "translit": "dhakara",
+        "en": "he remembered / mentioned",
+        "my": "သူအောက်မေ့သတိရခဲ့သည်",
+        "quran_freq": 292,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ذ ك ر",
+          "concept_en": "remembrance / mention",
+          "concept_my": "သတိရခြင်း / ထုတ်ဖော်ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dhikr",
+          "image": "Someone doing Dhikr with beads",
+          "cross_language": "Dhikr (Myanmar/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "ذِكْر",
+            "translit": "dhikr",
+            "en": "remembrance",
+            "my": "အောက်မေ့သတိရမှု",
+            "freq": 75
+          }
+        ],
+        "pattern_unlock": "The pattern 1-2-3 with fathas is the 'dictionary' form of every verb.",
+        "example": {
+          "ar": "ذَكَرَ اسْمَ رَبِّهِ",
+          "en": "He mentioned the name of his Lord",
+          "my": "သူသည် မိမိအရှင်၏နာမံတော်ကို ထုတ်ဖော်ပြောဆိုခဲ့သည်",
+          "ref": "87:15"
+        }
+      },
+      {
+        "word": "جَعَلَ",
+        "translit": "ja'ala",
+        "en": "he made / placed",
+        "my": "သူပြုလုပ်ခဲ့သည် / ထားရှိခဲ့သည်",
+        "quran_freq": 340,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ج ع ل",
+          "concept_en": "making / setting up",
+          "concept_my": "ပြုလုပ်ခြင်း / သတ်မှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Jala",
+          "image": "Setting a table (making a setting)",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "جَاعِل",
+            "translit": "jā'il",
+            "en": "maker",
+            "my": "ပြုလုပ်သူ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Used in the Quran for both physical making and legal/logical setting.",
+        "example": {
+          "ar": "جَعَلَ لَكُمُ الْأَرْضَ",
+          "en": "He made for you the earth",
+          "my": "သူသည် သင်တို့အတွက် ကမ္ဘာမြေကို ပြုလုပ်ပေးခဲ့သည်",
+          "ref": "2:22"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْفِعْلُ الْمَاضِي (الْمُفْرَدُ الْمُذَكَّرُ)",
+        "en": "Past Tense (3rd Person Masculine Singular)",
+        "my": "အတိတ်ကာလ (တတိယပုဂ္ဂိုလ်၊ အနည်းကိန်း၊ ပုလိင်)"
+      },
+      "formula": {
+        "display": "ف + عَ + لَ = فَعَلَ",
+        "example": "كَتَبَ (He wrote)",
+        "myanmar_read": "ဗျည်းသုံးလုံးကို အပေါ်က ဖသ်ဟ် (A) အသံနဲ့ ဖတ်ရင် 'သူလုပ်ခဲ့တယ်' လို့ အဓိပ္ပာယ်ရပါတယ်။",
+        "key_insight": "The base form of an Arabic verb always refers to 'He' in the past tense."
+      },
+      "explanation": {
+        "en": "In Arabic, the simplest form of a verb is the 3rd person masculine singular (He). It usually consists of three root letters, all carrying the 'a' vowel (fatha). This serves as the 'root' for all other conjugations.",
+        "my": "အာရပ်ဘာသာစကားမှာ ကြိယာတစ်ခုရဲ့ အရှင်းဆုံးပုံစံဟာ (သူ) လို့ အဓိပ္ပာယ်ရတဲ့ အတိတ်ကာလပုံစံဖြစ်ပါတယ်။ များသောအားဖြင့် ဗျည်းသုံးလုံးနဲ့ ဖွဲ့စည်းထားပြီး အားလုံးမှာ (ဖသ်ဟ်) အသံပါရှိပါတယ်။ ဒါဟာ အခြားပုံစံအားလုံးအတွက် အခြေခံအမြစ် ဖြစ်ပါတယ်။"
+      },
+      "comparison_myanmar": {
+        "en": "Unlike Myanmar where we add 'ခဲ့သည်' (khe dhi) to a verb, Arabic changes the internal vowel structure or adds suffixes to the root.",
+        "my": "မြန်မာစကားမှာ 'စားခဲ့သည်'၊ 'သွားခဲ့သည်' လို့ 'ခဲ့သည်' ပေါင်းထည့်သလိုမျိုး မဟုတ်ဘဲ အာရပ်စကားမှာ ဗျည်းတွေရဲ့ အသံအမှတ်အသားကို ပြောင်းလဲခြင်းဖြင့် အတိတ်ကာလကို ဖော်ပြပါတယ်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The past tense base form has three root letters.",
+          "rule_my": "အတိတ်ကာလ အခြေခံပုံစံတွင် အမြစ်ဗျည်း ၃ လုံးရှိရမည်။",
+          "example": {
+            "ar": "خَلَقَ",
+            "en": "He created",
+            "my": "သူဖန်ဆင်းခဲ့သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Standard pattern is Fatha on all letters.",
+          "rule_my": "စံသတ်မှတ်ချက်ပုံစံမှာ ဗျည်းအားလုံးအပေါ် 'ဖသ်ဟ်' တင်ခြင်းဖြစ်သည်။",
+          "example": {
+            "ar": "ذَكَرَ",
+            "en": "He mentioned",
+            "my": "သူထုတ်ဖော်ပြောဆိုခဲ့သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "خَلَقَ الْإِنْسَانَ",
+          "en": "Created man",
+          "my": "(၂) ထိုအရှင်မြတ်သည် လူသားကို သွေးခဲမှ ဖန်ဆင်းတော်မူခဲ့သည်။  ၁",
+          "ref": "96:2",
+          "breakdown": {
+            "subject": {
+              "word": "خَلَقَ",
+              "en": "He created",
+              "note": "Hidden 'He' (Allah)"
+            },
+            "predicate": {
+              "word": "الْإِنْسَانَ",
+              "en": "the human",
+              "note": "Object of creation"
+            }
+          },
+          "myanmar_insight": "ဒီနေရာမှာ 'သူ' (အလ္လာဟ်အရှင်) ဆိုတဲ့ စကားလုံး တိုက်ရိုက်မပါပေမယ့် 'ခလပ်က' ဆိုတဲ့ ပုံစံက 'သူ' ကို ရည်ညွှန်းပြီးသားဖြစ်ပါတယ်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking 'Fa'ala' means 'To do' (Infinitive)",
+          "wrong": {
+            "ar": "فَعَلَ",
+            "note": "Translating as 'To do'"
+          },
+          "correct": {
+            "ar": "فَعَلَ",
+            "en": "He did",
+            "my": "သူပြုလုပ်ခဲ့သည်"
+          },
+          "myanmar_tip": "အာရပ်မှာ အခြေခံပုံစံဟာ 'သူလုပ်ခဲ့တယ်' ဆိုတဲ့ အတိတ်ကာလ အဓိပ္ပာယ် အမြဲဆောင်ပါတယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the past tense verb in the phrase",
+          "instruction_my": "အောက်ပါစာသားများတွင် အတိတ်ကာလကြိယာကို ရှာဖွေပါ",
+          "questions": [
+            {
+              "q": "خَلَقَ اللَّهُ",
+              "answer_en": "khalaqa",
+              "answer_my": "ခလပ်က (ဖန်ဆင်းခဲ့သည်)",
+              "ref": "Quran"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "كَتَبَ",
+              "answer_en": "He wrote",
+              "answer_my": "သူရေးသားခဲ့သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Form a past tense verb from the root K-F-R",
+          "instruction_my": "K-F-R အမြစ်မှ အတိတ်ကာလကြိယာကို တည်ဆောက်ပါ",
+          "questions": [
+            {
+              "q": "ك ف ر",
+              "answer_en": "He disbelieved",
+              "answer_my": "သူငြင်းပယ်ခဲ့သည်",
+              "ar": "كَفَرَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Every action in the past is recorded. The 'Fa'ala' pattern reminds us that what is done is done, and our focus should be on the legacy we leave through our actions.",
+        "my": "အတိတ်က လုပ်ဆောင်ချက်တိုင်းဟာ မှတ်တမ်းတင်ပြီးသားဖြစ်ပါတယ်။ 'Fa'ala' ပုံစံက ကျွန်တော်တို့ ပြုလုပ်ခဲ့တဲ့ အရာတွေဟာ ပြီးဆုံးသွားပြီဖြစ်လို့ နောင်အတွက် ကောင်းမွန်တဲ့ အမွေအနှစ်တွေ ချန်ထားရစ်ဖို့ သတိပေးနေပါတယ်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Alaq 96:1",
+        "study_number": 1,
+        "arabic_full": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+        "en_sahih": "Recite in the name of your Lord who created",
+        "my_mmsy": "(၁) အသင်(တမန်တော်)သည် အသင့်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ နာမတော်ဖြင့်(အစပြု)ဖတ်ပါ။ ထိုအရှင်မြတ်သည် (အရာရာကို) ဖန်ဆင်းတော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 96,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/096001.mp3"
+        },
+        "qurancom_url": "https://quran.com/96/1",
+        "context": {
+          "en": "This is the first revelation to the Prophet Muhammad (PBUH). It commands humanity to learn and acknowledges Allah as the Creator.",
+          "my": "ဒါဟာ တမန်တော်မြတ် (ဆွ) ထံ ပထမဆုံး ကျရောက်လာတဲ့ ဝဟီ ဖြစ်ပါတယ်။ လူသားတွေကို သင်ယူဖို့ အမိန့်ပေးထားပြီး အလ္လာဟ်အရှင်မြတ်ဟာ ဖန်ဆင်းရှင်ဖြစ်ကြောင်း အသိအမှတ်ပြုထားပါတယ်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "خَلَقَ",
+            "translit": "khalaqa",
+            "en": "created",
+            "my": "ဖန်ဆင်းခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ခ လ က",
+            "freq": 250
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb 'khalaqa' appears at the end as the base form (He created).",
+          "structure_my": "စာသားအဆုံးတွင် 'ခလပ်က' ဟူသော အခြေခံအတိတ်ကာလပုံစံ ပါရှိသည်။",
+          "insight_en": "The object is omitted to show that Allah created everything, not just one specific thing.",
+          "insight_my": "အရာဝတ္ထုကို တိုက်ရိုက်မဖော်ပြထားခြင်းမှာ အလ္လာဟ်အရှင်သည် အရာခပ်သိမ်းကို ဖန်ဆင်းတော်မူသောအရှင် ဖြစ်ကြောင်း ဖော်ပြလိုခြင်းဖြစ်ပါသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ခ လ က",
+            "concept_en": "To create out of nothing or to measure out exactly.",
+            "concept_my": "ဘာမှမရှိရာမှ ဖန်ဆင်းခြင်း သို့မဟုတ် အတိအကျ တိုင်းတာသတ်မှတ်ခြင်း။",
+            "members": [
+              {
+                "ar": "خَلْق",
+                "en": "creation",
+                "my": "ဖန်ဆင်းမှု",
+                "freq": 0
+              }
+            ],
+            "professors_note": "In Arabic, 'Khalaqa' also implies making something smooth and proportionate."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ကို ဖန်ဆင်းခဲ့တဲ့ အရှင်မြတ်ရဲ့ နာမံတော်နဲ့ သင်ယူခြင်းဟာ ဘဝရဲ့ အနှစ်သာရဖြစ်ပါတယ်။ အလ္လာဟ်အရှင်ဟာ ကျွန်ုပ်တို့ကို ဖန်ဆင်းရုံသာမကဘဲ အသိဉာဏ်နဲ့ သင်ယူနိုင်စွမ်းကိုလည်း ပေးသနားထားပါတယ်။ ဒါကြောင့် ပထမဆုံးအမိန့်တော်ဟာ 'ဖတ်ပါ' လို့ ဖြစ်လာရတာပါ။"
+        },
+        "memorization_helper": {
+          "rhythm": "Short, powerful beats: Iqra' bismi rabbika-lladhi khalaq.",
+          "meaning_anchor": "Imagine the very beginning of the universe being 'carved' or 'created'.",
+          "daily_connection": "Recite this when starting any new study or task.",
+          "my": "အသံထွက်က တိုတောင်းပြီး လေးနက်ပါတယ်။ 'ခလပ်က' ဆိုတဲ့ စကားလုံးက ဖန်ဆင်းခြင်းကို ဆိုလိုကြောင်း အမြဲသတိရပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Baqarah 2:22",
+        "study_number": 2,
+        "arabic_full": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا",
+        "en_sahih": "[He] who made for you the earth a bed",
+        "my_mmsy": "ထိုအရှင်မြတ်သည် အသင်တို့အတွက် ကမ္ဘာမြေကြီးကိုအခင်းအဖြစ်နှင့် ကောင်းကင်ကိုအမိုးအဖြစ် ပြုလုပ်ပေးတော်မူခဲ့သည်။ ထို့ပြင် အရှင်မြတ်သည် ကောင်းကင်မှ မိုးရေကို ရွာသွန်းစေတော်မူခဲ့ပြီး အသင်တို့အတွက် ထိုမိုးရေဖြင့် စားနပ်ရိက္ခာအဖြစ် အသီးအနှံများကို ထွက်ပေါ်စေတော်မူခဲ့သည်။ သို့ဖြစ်ရာ အသင်တို့သည် သိနေကြလျက် အလ္လာဟ် အရှင်မြတ်နှင့် ယှဉ်တွဲကိုးကွယ်မှုများ မပြုလုပ်ကြနှင့်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 22,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002022.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/22",
+        "context": {
+          "en": "Allah lists His favors upon humanity, starting with the creation and preparing of the earth as a dwelling place.",
+          "my": "အလ္လာဟ်အရှင်မြတ်က လူသားတွေအပေါ် ထားရှိတဲ့ ကျေးဇူးတော်တွေကို စာရင်းပြုစုပြထားတာဖြစ်ပြီး ကမ္ဘာမြေကို နေထိုင်စရာအဖြစ် ပြင်ဆင်ပေးခြင်းကနေ စတင်ထားပါတယ်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "جَعَلَ",
+            "translit": "ja'ala",
+            "en": "He made",
+            "my": "သူပြုလုပ်ခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ဂျ အ လ",
+            "freq": 340
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb 'ja'ala' follows the exact 'fa'ala' pattern.",
+          "structure_my": "'ဂျအလ' သည် 'ဖအလ' ပုံစံအတိုင်း အတိအကျ လိုက်နာထားသည်။",
+          "insight_en": "In the Quran, 'ja'ala' often implies setting up a system or a state of being.",
+          "insight_my": "ကုရ်အာန်တွင် 'ဂျအလ' သည် စနစ်တစ်ခု သို့မဟုတ် အခြေအနေတစ်ခုကို တည်ဆောက်ပေးခြင်းကို ဆိုလိုလေ့ရှိသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ဂျ အ လ",
+            "concept_en": "To make, to place, to transform or to appoint.",
+            "concept_my": "ပြုလုပ်ခြင်း၊ ထားရှိခြင်း၊ အသွင်ပြောင်းခြင်း သို့မဟုတ် ခန့်အပ်ခြင်း။",
+            "members": [
+              {
+                "ar": "جَعْل",
+                "en": "making",
+                "my": "ပြုလုပ်ခြင်း",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Unlike 'khalaqa' (to create), 'ja'ala' is often used for arranging things that already exist."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်က ကျွန်ုပ်တို့ နေထိုင်နိုင်ဖို့ ကမ္ဘာမြေကြီးကို ခင်းကျင်းပေးထားပါတယ်။ ဒါဟာ အလိုအလျောက် ဖြစ်လာတာ မဟုတ်ဘဲ အရှင်မြတ်ရဲ့ စီမံမှု (ဂျအလ) ကြောင့် ဖြစ်ပါတယ်။ ကျွန်ုပ်တို့ရဲ့ နေစဉ်ဘဝမှာ မြေကြီးပေါ် ခြေချတိုင်း ဒီကျေးဇူးတော်ကို သတိရသင့်ပါတယ်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Alladhi ja'ala lakumu-l-arda firasha.",
+          "meaning_anchor": "The Earth as a comfortable mattress (firash) made by Allah.",
+          "daily_connection": "Think of this when you see the horizon or the ground beneath you.",
+          "my": "ကမ္ဘာမြေကို အိပ်ရာတစ်ခုလို သက်သောင့်သက်သာဖြစ်အောင် ပြုလုပ်ပေးထားတဲ့ အရှင်မြတ်ကို အောက်မေ့ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Today we learned the most fundamental verb form in Arabic: the 3rd person masculine singular past tense (Fa'ala). This 'He did' pattern is the gateway to understanding all verbs in the Quran. We saw how 'Khalaqa' and 'Ja'ala' describe Allah's mighty acts of creation and arrangement.",
+      "my": "ယနေ့မှာ ကျွန်ုပ်တို့ဟာ အာရပ်ကြိယာတွေရဲ့ အခြေခံအကျဆုံးပုံစံဖြစ်တဲ့ (သူပြုလုပ်ခဲ့သည် - Fa'ala) ကို သင်ယူခဲ့ပါတယ်။ ဒီပုံစံဟာ ကုရ်အာန်လာ ကြိယာအားလုံးကို နားလည်ဖို့ သော့ချက်ဖြစ်ပါတယ်။ အလ္လာဟ်အရှင်မြတ်ရဲ့ ဖန်ဆင်းမှုနဲ့ စီမံမှုတွေကို ဖော်ပြတဲ့ 'ခလပ်က' နဲ့ 'ဂျအလ' တို့ကိုလည်း ဥပမာအနေနဲ့ တွေ့မြင်ခဲ့ရပါတယ်။"
+    }
+  },
+  {
+    "lesson_id": "L2-052",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 52,
+    "title": {
+      "ar": "الْمَاضِي (٢) — فَعَلَتْ: تَاءُ التَّأْنِيثِ",
+      "en": "Past Tense II — 'She did' (Fa'alat): Feminine Marker Ta'",
+      "my": "အတိတ်ကာလ (၂) — 'သူမပြုလုပ်ခဲ့သည်' (Fa'alat): ဣတ္ထိလိင်အမှတ်အသား တာအ်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Adding ت to past tense for feminine 3rd person singular",
+      "grammar_formula": "Fa'ala + Sākinah Ta (ـَتْ) = SHE DID"
+    },
+    "section_1_vocab": [
+      {
+        "word": "نَزَلَ",
+        "translit": "nazala",
+        "en": "he descended",
+        "my": "သူဆင်းသက်ခဲ့သည်",
+        "quran_freq": 293,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "န ဇ လ",
+          "concept_en": "descending / coming down",
+          "concept_my": "ဆင်းသက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Nozzle",
+          "image": "Water coming down from a nozzle",
+          "cross_language": "Nuzul (Quranic term)"
+        },
+        "word_family": [
+          {
+            "ar": "أَنْزَلَ",
+            "translit": "anzala",
+            "en": "he sent down",
+            "my": "သူပို့ချခဲ့သည်",
+            "freq": 180
+          }
+        ],
+        "pattern_unlock": "The base form 'nazala' changes to 'nazalat' for 'she/it descended'.",
+        "example": {
+          "ar": "نَزَلَ بِهِ الرُّوحُ",
+          "en": "The Trustworthy Spirit has brought it down",
+          "my": "ယုံကြည်စိတ်ချရသော ဝိညာဉ်တော်သည် ၎င်းကို ယူဆောင်ဆင်းသက်ခဲ့သည်",
+          "ref": "26:193"
+        }
+      },
+      {
+        "word": "دَخَلَ",
+        "translit": "dakhala",
+        "en": "he entered",
+        "my": "သူဝင်ရောက်ခဲ့သည်",
+        "quran_freq": 125,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ဒ ခ လ",
+          "concept_en": "entering / coming in",
+          "concept_my": "ဝင်ရောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Door",
+          "image": "Entering through a door (D-akhala)",
+          "cross_language": "Dakhil (Urdu/Myanmar Muslims)"
+        },
+        "word_family": [
+          {
+            "ar": "دَاخِل",
+            "translit": "dākhil",
+            "en": "entering/inside",
+            "my": "အတွင်းပိုင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "To say 'she entered', we say 'dakhalat'.",
+        "example": {
+          "ar": "دَخَلَ الْجَنَّةَ",
+          "en": "He entered Paradise",
+          "my": "သူသည် သုခဘုံသို့ ဝင်ရောက်ခဲ့သည်",
+          "ref": "18:35"
+        }
+      },
+      {
+        "word": "قَالَتْ",
+        "translit": "qālat",
+        "en": "she said",
+        "my": "သူမပြောခဲ့သည်",
+        "quran_freq": 1700,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فَعَلَتْ",
+        "root": {
+          "letters": "က ဝ လ",
+          "concept_en": "saying / speaking",
+          "concept_my": "ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Call",
+          "image": "A woman calling out something",
+          "cross_language": "Qawl (Myanmar/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "قَالَ",
+            "translit": "qāla",
+            "en": "he said",
+            "my": "သူပြောခဲ့သည်",
+            "freq": 529
+          }
+        ],
+        "pattern_unlock": "This is the feminine version of the most common verb in the Quran.",
+        "example": {
+          "ar": "قَالَتْ نَمْلَةٌ",
+          "en": "An ant said",
+          "my": "ပုရွက်ဆိတ်မလေးတစ်ကောင်က ပြောခဲ့သည်",
+          "ref": "27:18"
+        }
+      },
+      {
+        "word": "كَذَّبَتْ",
+        "translit": "kadhabat",
+        "en": "she denied / lied",
+        "my": "သူမငြင်းပယ်ခဲ့သည် / မုသာဆိုခဲ့သည်",
+        "quran_freq": 100,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فَعَّلَتْ",
+        "root": {
+          "letters": "က ဓ ဗ",
+          "concept_en": "lying / denying truth",
+          "concept_my": "လိမ်လည်ခြင်း / ငြင်းပယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kazzab",
+          "image": "Someone denying a clear sign",
+          "cross_language": "Kazib (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "كَذَبَ",
+            "translit": "kadhaba",
+            "en": "he lied",
+            "my": "သူလိမ်ခဲ့သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Often used for nations (which are feminine in Arabic) denying prophets.",
+        "example": {
+          "ar": "كَذَّبَتْ ثَمُودُ",
+          "en": "Thamud denied",
+          "my": "သမူဒ်မျိုးနွယ်စုသည် ငြင်းပယ်ခဲ့ကြသည်",
+          "ref": "91:11"
+        }
+      },
+      {
+        "word": "وَضَعَتْ",
+        "translit": "waḍa'at",
+        "en": "she gave birth / she placed",
+        "my": "သူမမွေးဖွားခဲ့သည် / သူမချထားခဲ့သည်",
+        "quran_freq": 20,
+        "word_type": "Verb",
+        "gender": "Feminine",
+        "wazn": "فَعَلَتْ",
+        "root": {
+          "letters": "ဝ ဿ အ",
+          "concept_en": "placing / delivery",
+          "concept_my": "ချထားခြင်း / ဖွားမြင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Wudu",
+          "image": "Placing water on limbs (Wait, focus on 'placing')",
+          "cross_language": "Mawdu (Urdu/Myanmar - Topic)"
+        },
+        "word_family": [
+          {
+            "ar": "مَوْضُوع",
+            "translit": "mawḍū'",
+            "en": "placed/subject",
+            "my": "ထားရှိသောအရာ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Used specifically for Maryam's mother in the Quran.",
+        "example": {
+          "ar": "فَلَمَّا وَضَعَتْهَا",
+          "en": "And when she delivered her",
+          "my": "သူမသည် သူမ(ကလေး)ကို ဖွားမြင်ပြီးသောအခါ",
+          "ref": "3:36"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "تَاءُ التَّأْنِيثِ السَّاكِنَةُ",
+        "en": "The Silent Feminine Ta'",
+        "my": "အသံတိတ် ဣတ္ထိလိင် တာအ်"
+      },
+      "formula": {
+        "display": "فَعَلَ + ـَتْ = فَعَلَتْ",
+        "example": "خَلَقَتْ (She created/it created)",
+        "myanmar_read": "အတိတ်ကာလ ကြိယာရဲ့ အဆုံးမှာ 'သုကူးန်' တင်ထားတဲ့ 'တာအ်' (တ) ကို ပေါင်းလိုက်ရင် 'သူမလုပ်ခဲ့တယ်' လို့ အဓိပ္ပာယ်ရပါတယ်။",
+        "key_insight": "The 'Open Ta' with a Sukun is the hallmark of a female subject in the past tense."
+      },
+      "explanation": {
+        "en": "To change a past tense verb from masculine (He) to feminine (She), we add a 'Ta' with a Sukun (ـَتْ) to the end. Note that in Arabic, collective nouns like 'tribes' or 'nations' are often treated as feminine, so they also use this pattern.",
+        "my": "အတိတ်ကာလ ကြိယာတစ်ခုကို ပုလိင် (သူ) ကနေ ဣတ္ထိလိင် (သူမ) ကို ပြောင်းချင်ရင် ကြိယာရဲ့အဆုံးမှာ 'သုကူးန်' တင်ထားတဲ့ 'တာအ်' (ـَتْ) ကို ပေါင်းထည့်ရပါတယ်။ အာရပ်ဘာသာမှာ လူမျိုးနွယ်စုတွေနဲ့ အချို့သောအစုအဖွဲ့နာမ်တွေကို ဣတ္ထိလိင်အဖြစ် သတ်မှတ်တဲ့အတွက် ဒီပုံစံကိုပဲ အသုံးပြုပါတယ်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar doesn't change the verb based on gender (သူစားတယ် vs သူမစားတယ်). Arabic requires this agreement.",
+        "my": "မြန်မာစကားမှာ ကျား/မ အလိုက် ကြိယာပြောင်းလဲမှု မရှိပေမယ့် (သူစားတယ်၊ သူမစားတယ်)၊ အာရပ်စကားမှာတော့ ကြိယာဟာ ကတ္တားရဲ့ ကျား/မ အပေါ် မူတည်ပြီး ပြောင်းလဲရပါတယ်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Add 'at' sound to the end of the 3-letter root.",
+          "rule_my": "အမြစ်ဗျည်း ၃ လုံးရဲ့ အဆုံးမှာ 'အသ်' (at) အသံကို ပေါင်းထည့်ပါ။",
+          "example": {
+            "ar": "نَزَلَتْ",
+            "en": "She/It descended",
+            "my": "သူမ/၎င်း ဆင်းသက်ခဲ့သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "The Fatha on the second letter remains unchanged.",
+          "rule_my": "ဒုတိယဗျည်းပေါ်က 'ဖသ်ဟ်' အသံကတော့ ပြောင်းလဲမှုမရှိဘဲ ကျန်ရှိနေမှာပါ။",
+          "example": {
+            "ar": "دَخَلَتْ",
+            "en": "She entered",
+            "my": "သူမဝင်ရောက်ခဲ့သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "قَالَتْ نَمْلَةٌ",
+          "en": "An ant said",
+          "my": "နောက်ဆုံးတွင် အကြင်အခါ ထိုစစ်တပ်ကြီးသည် ပုရွက်ဆိတ်များရှိသော လျှိုမြောင်ချောင်းရိုးကို ရောက်သောအခါ ပုရွက်ဆိတ်တစ်ကောင်က အို- ပုရွက်ဆိတ်အပေါင်းတို့၊ (တမန်တော်)စုလိုင်မာန်နှင့်တကွ ၎င်း၏စစ်တပ်များသည် အသင်တို့ကို မသိမမြင်ကြဘဲလျက် (မတော်တဆ)တက်နင်း ချေမှုန်းမပစ်မိကြရန်အတွက် အသင်တို့သည် တွင်းများထဲသို့ဝင်ရောက်ကြပါဟု ပြောဆိုခဲ့သည်။",
+          "ref": "27:18",
+          "breakdown": {
+            "subject": {
+              "word": "نَمْلَةٌ",
+              "en": "an ant",
+              "note": "Feminine due to Ta Marbuta"
+            },
+            "predicate": {
+              "word": "قَالَتْ",
+              "en": "she said",
+              "note": "Verb matches gender with -at suffix"
+            }
+          },
+          "myanmar_insight": "ဒီမှာ 'နမ်းမလသ်' (ပုရွက်ဆိတ်) ဟာ ဣတ္ထိလိင်ဖြစ်လို့ 'ကာလသ်' ဆိုတဲ့ ဣတ္ထိလိင်ကြိယာကို သုံးထားတာ ဖြစ်ပါတယ်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using Ta Marbuta (ة) instead of Open Ta (ت)",
+          "wrong": {
+            "ar": "فَعَلَة",
+            "note": "ة is for nouns, not verbs"
+          },
+          "correct": {
+            "ar": "فَعَلَتْ",
+            "en": "She did",
+            "my": "သူမပြုလုပ်ခဲ့သည်"
+          },
+          "myanmar_tip": "ကြိယာတွေမှာ ဣတ္ထိလိင်ပြောင်းရင် အမြဲတမ်း 'တာအ်' အပွင့် (Open Ta) ကိုပဲ သုံးရပါတယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Circle the feminine past tense verbs",
+          "instruction_my": "ဣတ္ထိလိင် အတိတ်ကာလကြိယာများကို ဝိုင်းပြပါ",
+          "questions": [
+            {
+              "q": "نَزَلَتْ - خَلَقَ - كَتَبَتْ",
+              "answer_en": "nazalat, katabat",
+              "answer_my": "နဇလသ်၊ ကသဗသ်",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into Myanmar",
+          "instruction_my": "မြန်မာလို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "دَخَلَتْ مَرْيَمُ",
+              "answer_en": "Maryam entered",
+              "answer_my": "မရ်ယမ် ဝင်ရောက်ခဲ့သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Convert 'Dhakara' (He remembered) to feminine",
+          "instruction_my": "'Dhakara' ကို ဣတ္ထိလိင်သို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "ذَكَرَ",
+              "answer_en": "dhakarat",
+              "answer_my": "သကရသ် (သူမအောက်မေ့ခဲ့သည်)",
+              "ar": "ذَكَرَتْ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The Quran highlights the words and actions of righteous women like the mother of Maryam or the Queen of Sheba using this pattern, showing their pivotal role in sacred history.",
+        "my": "ကုရ်အာန်မှာ မရ်ယမ်သခင်မရဲ့ မိခင် ဒါမှမဟုတ် ရှေဘဘုရင်မကြီးတို့လို မြတ်နိုးဖွယ် အမျိုးသမီးတွေရဲ့ ပြောဆိုချက်နဲ့ လုပ်ရပ်တွေကို ဒီပုံစံနဲ့ ဖော်ပြထားပါတယ်။ ဒါဟာ သမိုင်းတစ်လျှောက် အမျိုးသမီးတွေရဲ့ အရေးပါတဲ့ အခန်းကဏ္ဍကို ပြသနေပါတယ်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Imran 3:36",
+        "study_number": 1,
+        "arabic_full": "فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّي وَضَعْتُهَا أُنْثَىٰ",
+        "en_sahih": "But when she delivered her, she said, 'My Lord, I have delivered a female.'",
+        "my_mmsy": "ထို့နောက် သူမသည် သမီးမိန်းကလေး မွေးဖွားလိုက်သည့်အခါ သူမက ပြောဆိုသည်၊ “အို- ကျွန်မအား မွေးမြူဖန်ဆင်းတော်မူသောအရှင်၊ အမှန်စင်စစ် ကျွန်မသည် သမီးမိန်းကလေးကို မွေးဖွားလိုက်ပါသည်။“ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် သူမ ဖွားမြင်ခဲ့သည်ကို ပိုသိတော်မူသည်။ ၎င်းပြင် (သူမ လိုချင်သော)သားယောက်ျားလေးသည် (ဤ)သမီးမိန်းကလေးကဲ့သို့ မဟုတ်ပေ။ ထို့နောက် အမှန်စင်စစ် ကျွန်မသည် ထိုသမီးမိန်ကလေးအား မရ်ယမ်ဟု အမည်ပေးလိုက်ပါသည်။ ၎င်းပြင် သူမနှင့်သူမ၏သားသမီးများအား နှင်ထုတ်ခြင်းခံရသော ရှိုင်သွာန်၏နှောင့်ယှက်မှုမှ လွတ်ကင်းရန် အရှင်မြတ်ထံတွင် ခိုလှုံပါသည်။“",
+        "audio_ref": {
+          "surah": 3,
+          "ayah": 36,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/003036.mp3"
+        },
+        "qurancom_url": "https://quran.com/3/36",
+        "context": {
+          "en": "The mother of Maryam had vowed her child to the service of Allah, expecting a boy, but she gave birth to a girl.",
+          "my": "မရ်ယမ်သခင်မရဲ့ မိခင်ဟာ သူမရဲ့ရင်သွေးကို အလ္လာဟ်အရှင်မြတ်ရဲ့ လမ်းစဉ်မှာ အလုပ်အကျွေးပြုဖို့ သစ္စာဆိုခဲ့ပါတယ်။ သားလေးတစ်ယောက် မျှော်လင့်ခဲ့ပေမယ့် သမီးလေး မွေးဖွားလာခဲ့ပါတယ်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "وَضَعَتْ",
+            "translit": "waḍa'at",
+            "en": "she delivered",
+            "my": "သူမဖွားမြင်ခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ဝ ဿ အ",
+            "freq": 20
+          },
+          {
+            "ar": "قَالَتْ",
+            "translit": "qālat",
+            "en": "she said",
+            "my": "သူမပြောခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "က ဝ လ",
+            "freq": 1700
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Both 'waḍa'at' and 'qālat' use the silent Ta suffix for the female speaker.",
+          "structure_my": "'ဝဿအသ်' နဲ့ 'ကာလသ်' နှစ်ခုလုံးမှာ အမျိုးသမီးဖြစ်ကြောင်းပြတဲ့ 'တာအ်' အသံတိတ် ပါရှိပါတယ်။",
+          "insight_en": "The transition from the act (birth) to the prayer (she said) is marked by consistent feminine grammar.",
+          "insight_my": "မွေးဖွားခြင်းဆိုတဲ့ လုပ်ရပ်ကနေ ဆုတောင်းခြင်းဆိုတဲ့ ပြောဆိုချက်ကို ကူးပြောင်းရာမှာ ဣတ္ထိလိင် သဒ္ဒါကို တစ်သမတ်တည်း သုံးထားပါတယ်။"
+        },
+        "root_depth": [
+          {
+            "root": "ဝ ဿ အ",
+            "concept_en": "To put down a burden; hence used for childbirth.",
+            "concept_my": "ဝန်ထုပ်ဝန်ပိုးကို ချထားခြင်း၊ ဒါကြောင့် ကလေးမွေးဖွားခြင်းအတွက် အသုံးပြုပါတယ်။",
+            "members": [
+              {
+                "ar": "مَوْضِع",
+                "en": "place/position",
+                "my": "နေရာ",
+                "freq": 0
+              }
+            ],
+            "professors_note": "It beautifully describes how birth is the 'putting down' of a heavy carry."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "မရ်ယမ်သခင်မရဲ့ မိခင်ဟာ သမီးလေး မွေးလာတဲ့အခါမှာတောင် အလ္လာဟ်အရှင်မြတ်ထံမှာပဲ အားကိုးတကြီးနဲ့ ရင်ဖွင့်ခဲ့ပါတယ်။ 'သူမပြောခဲ့သည်' (ကာလသ်) ဆိုတဲ့ စကားလုံးနောက်ကွယ်မှာ သူမရဲ့ ခိုင်မာတဲ့ အီမာန်ကို မြင်တွေ့နိုင်ပါတယ်။ ကျွန်မတို့ မိခင်တွေလည်း သားသမီးတွေအတွက် ဒီလိုပဲ ဆုတောင်းပေးသင့်ပါတယ်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Fa-lamma waḍa'at-ha qālat rabbi...",
+          "meaning_anchor": "A mother speaking to her Lord after birth.",
+          "daily_connection": "Used when discussing the stories of great women in Islam.",
+          "my": "မိခင်တစ်ဦးရဲ့ မွေးဖွားခြင်းနဲ့ ဆုတောင်းခြင်းကို ဒီပုံစံနဲ့ မှတ်သားပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Ash-Shams 91:11",
+        "study_number": 2,
+        "arabic_full": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+        "en_sahih": "Thamud denied [their prophet] by reason of their transgression",
+        "my_mmsy": "(၁၁) ဆမူဒ်အမျိုးသားတို့သည် သူတို့၏ဆိုးသွမ်းမှုနှင့် (တမန်တော်စွာလေ့ဟ်ကို)မဟုတ်မမှန်ငြင်းပယ်ခဲ့ကြသည်။",
+        "audio_ref": {
+          "surah": 91,
+          "ayah": 11,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/091011.mp3"
+        },
+        "qurancom_url": "https://quran.com/91/11",
+        "context": {
+          "en": "Allah warns about the fate of the people of Thamud who rejected Prophet Salih.",
+          "my": "အလ္လာဟ်အရှင်မြတ်က တမန်တော်ဆွာလိဟ် (အလိုင်ဟစ္စလာမ်) ကို ငြင်းပယ်ခဲ့တဲ့ သမူဒ်လူမျိုးစုတွေရဲ့ အကျိုးဆက်ကို သတိပေးထားခြင်း ဖြစ်ပါတယ်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "كَذَّبَتْ",
+            "translit": "kadhabat",
+            "en": "denied",
+            "my": "ငြင်းပယ်ခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "က ဓ ဗ",
+            "freq": 100
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb is feminine because the tribe 'Thamud' is treated as a feminine collective noun.",
+          "structure_my": "'သမူဒ်' ဆိုတဲ့ လူမျိုးစုဟာ အာရပ်သဒ္ဒါအရ ဣတ္ထိလိင်အစုအဖွဲ့ဖြစ်လို့ ကြိယာကို 'ကဇ်ဇဗသ်' လို့ သုံးထားပါတယ်။",
+          "insight_en": "Nearly all names of tribes and cities in the Quran take feminine verbs.",
+          "insight_my": "ကုရ်အာန်ထဲက မြို့ရွာတွေနဲ့ လူမျိုးစုအမည်တွေဟာ များသောအားဖြင့် ဣတ္ထိလိင်ကြိယာတွေကိုပဲ ယူလေ့ရှိပါတယ်။"
+        },
+        "root_depth": [
+          {
+            "root": "က ဓ ဗ",
+            "concept_en": "To lie or to deem someone a liar.",
+            "concept_my": "မုသာဆိုခြင်း သို့မဟုတ် တစ်စုံတစ်ဦးကို လူလိမ်ဟု သတ်မှတ်ခြင်း။",
+            "members": [
+              {
+                "ar": "كَذِب",
+                "en": "falsehood",
+                "my": "မမှန်ကန်မှု",
+                "freq": 0
+              }
+            ],
+            "professors_note": "The shadda on the middle letter (Kadh-dhaba) intensifies the meaning to 'strenuously denied'."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "လူမျိုးနွယ်စုတစ်ခုလုံးရဲ့ ငြင်းပယ်မှုဟာ ကြောက်စရာကောင်းတဲ့ အကျိုးဆက်ကို ဖြစ်စေပါတယ်။ 'ကဇ်ဇဗသ်' ဆိုတဲ့ စကားလုံးက သူတို့ဟာ အမှန်တရားကို သိလျက်နဲ့ ငြင်းပယ်ခဲ့တာကို ဖော်ပြနေပါတယ်။ ကျွန်ုပ်တို့အနေနဲ့ အမှန်တရားကို လက်ခံနိုင်တဲ့ နှလုံးသား ပိုင်ဆိုင်နိုင်အောင် ကြိုးစားကြပါစို့။"
+        },
+        "memorization_helper": {
+          "rhythm": "Kadh-dhabat Thamu-du bi-taghwaha.",
+          "meaning_anchor": "A whole nation turning away from a Prophet.",
+          "daily_connection": "Thinking about the history of nations and their choices.",
+          "my": "လူမျိုးနွယ်စုကြီးတစ်ခုလုံး ငြင်းပယ်ခဲ့တဲ့ သမိုင်းကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We expanded our knowledge of the past tense by learning the 'She' form (Fa'alat). By adding a silent Ta to the root, we can talk about women, nations, and collective groups. We saw this in action with the stories of Maryam's mother and the tribe of Thamud.",
+      "my": "ယနေ့မှာ (သူမပြုလုပ်ခဲ့သည် - Fa'alat) ဆိုတဲ့ အတိတ်ကာလပုံစံကို တိုးချဲ့သင်ယူခဲ့ပါတယ်။ အမြစ်ဗျည်းရဲ့အဆုံးမှာ 'တာအ်' အသံတိတ် ပေါင်းထည့်ခြင်းဖြင့် အမျိုးသမီးတွေ၊ လူမျိုးစုတွေအကြောင်းကို ဖော်ပြနိုင်ပါတယ်။ မရ်ယမ်သခင်မရဲ့ မိခင်နဲ့ သမူဒ်လူမျိုးစုတွေရဲ့ သာဓကတွေကနေတစ်ဆင့် ဒါကို လေ့လာခဲ့ကြပါတယ်။"
+    }
+  },
+  {
+    "lesson_id": "L2-053",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 53,
+    "title": {
+      "ar": "الْمَاضِي (٣) — فَعَلْتَ/فَعَلْتِ: خِطَابُ الْمُفْرَدِ",
+      "en": "Past Tense III — 'You did' (Fa'alta/Fa'alti): 2nd Person Singular",
+      "my": "အတိတ်ကာလ (၃) — 'သင်ပြုလုပ်ခဲ့သည်' (Fa'alta/Fa'alti): ဒုတိယပုဂ္ဂိုလ် အနည်းကိန်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Past tense 2nd person M/F singular with suffix ت",
+      "grammar_formula": "Fa'al + ta (تَ) = You (m) did | Fa'al + ti (تِ) = You (f) did"
+    },
+    "section_1_vocab": [
+      {
+        "word": "سَمِعَ",
+        "translit": "sami'a",
+        "en": "he heard",
+        "my": "သူကြားသိခဲ့သည်",
+        "quran_freq": 185,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعِلَ",
+        "root": {
+          "letters": "စ မ အ",
+          "concept_en": "hearing / listening",
+          "concept_my": "ကြားသိခြင်း / နားထောင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sami (Name)",
+          "image": "Someone cupping their ear to hear better",
+          "cross_language": "Sami' (Allah's Attribute)"
+        },
+        "word_family": [
+          {
+            "ar": "سَمِيع",
+            "translit": "samī'",
+            "en": "All-Hearing",
+            "my": "အရာခပ်သိမ်းကို ကြားသိတော်မူသောအရှင်",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "For 'You heard', it becomes 'Sami'ta'.",
+        "example": {
+          "ar": "سَمِعَ اللَّهُ",
+          "en": "Allah has heard",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ကြားသိတော်မူခဲ့ပြီ",
+          "ref": "58:1"
+        }
+      },
+      {
+        "word": "رَأَى",
+        "translit": "ra'ā",
+        "en": "he saw",
+        "my": "သူမြင်တွေ့ခဲ့သည်",
+        "quran_freq": 270,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ရ အ ယ",
+          "concept_en": "seeing / vision",
+          "concept_my": "မြင်တွေ့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ray",
+          "image": "A ray of light entering the eye",
+          "cross_language": "Ru'ya (Dream/Vision in Urdu/Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "رُؤْيَا",
+            "translit": "ru'yā",
+            "en": "vision",
+            "my": "အမြင်/အိပ်မက်",
+            "freq": 7
+          }
+        ],
+        "pattern_unlock": "Irregular root, but 'You saw' still follows the rule: 'Ra'ayta'.",
+        "example": {
+          "ar": "أَلَمْ تَرَ",
+          "en": "Have you not seen",
+          "my": "သင်မမြင်ဖူးသလော",
+          "ref": "105:1"
+        }
+      },
+      {
+        "word": "أَنْعَمْتَ",
+        "translit": "an'amta",
+        "en": "You bestowed favor",
+        "my": "ကိုယ်တော်သည် ကျေးဇူးပြုခဲ့သည်",
+        "quran_freq": 15,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلْتَ",
+        "root": {
+          "letters": "န င မ",
+          "concept_en": "blessing / ease",
+          "concept_my": "ကောင်းချီးမင်္ဂလာ / ကျေးဇူးတော်"
+        },
+        "memory_hook": {
+          "sound": "Inam",
+          "image": "Receiving a huge gift",
+          "cross_language": "In'am (Urdu/Myanmar - Gift)"
+        },
+        "word_family": [
+          {
+            "ar": "نِعْمَة",
+            "translit": "ni'mah",
+            "en": "blessing",
+            "my": "ကျေးဇူးတော်",
+            "freq": 75
+          }
+        ],
+        "pattern_unlock": "Commonly used in Al-Fatiha to address Allah.",
+        "example": {
+          "ar": "أَنْعَمْتَ عَلَيْهِمْ",
+          "en": "You have bestowed favor upon them",
+          "my": "ကိုယ်တော်သည် ၎င်းတို့အပေါ် ကျေးဇူးပြုခဲ့သည်",
+          "ref": "1:7"
+        }
+      },
+      {
+        "word": "عَلِمْتَ",
+        "translit": "alimta",
+        "en": "you knew",
+        "my": "သင်သိရှိခဲ့သည်",
+        "quran_freq": 50,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعِلْتَ",
+        "root": {
+          "letters": "င လ မ",
+          "concept_en": "knowledge / awareness",
+          "concept_my": "သိရှိခြင်း / ပညာ"
+        },
+        "memory_hook": {
+          "sound": "Alim",
+          "image": "A wise teacher with knowledge",
+          "cross_language": "Alim / Ilm (Global)"
+        },
+        "word_family": [
+          {
+            "ar": "عَلِمَ",
+            "translit": "alima",
+            "en": "he knew",
+            "my": "သူသိခဲ့သည်",
+            "freq": 518
+          }
+        ],
+        "pattern_unlock": "The 'i' sound in the middle (Alima) stays in 'Alimta'.",
+        "example": {
+          "ar": "مَا لَمْ تَعْلَمْ",
+          "en": "What you did not know",
+          "my": "သင်မသိခဲ့သောအရာ",
+          "ref": "2:239"
+        }
+      },
+      {
+        "word": "قُلْتَ",
+        "translit": "qulta",
+        "en": "you said",
+        "my": "သင်ပြောခဲ့သည်",
+        "quran_freq": 100,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فُلْتَ",
+        "root": {
+          "letters": "က ဝ လ",
+          "concept_en": "speech / saying",
+          "concept_my": "ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Quote",
+          "image": "Quoting someone directly",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "قَالَ",
+            "translit": "qāla",
+            "en": "he said",
+            "my": "သူပြောခဲ့သည်",
+            "freq": 529
+          }
+        ],
+        "pattern_unlock": "The middle vowel drops when the suffix has a harakat.",
+        "example": {
+          "ar": "أَأَنْتَ قُلْتَ لِلنَّاسِ",
+          "en": "Did you say to the people?",
+          "my": "သင်သည် လူသားတို့ကို ပြောခဲ့သလော",
+          "ref": "5:116"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "ضَمِيرُ الْمُخَاطَبِ فِي الْمَاضِي",
+        "en": "Second Person Suffixes in Past Tense",
+        "my": "အတိတ်ကာလရှိ ဒုတိယပုဂ္ဂိုလ် နောက်ဆက်တွဲများ"
+      },
+      "formula": {
+        "display": "Root + تَ (Male) / Root + تِ (Female)",
+        "example": "كَتَبْتَ (You [m] wrote) | كَتَبْتِ (You [f] wrote)",
+        "myanmar_read": "ကြိယာရဲ့အဆုံးမှာ 'သ' (ta) ကိုတွေ့ရင် 'မင်းလုပ်ခဲ့တယ်'၊ 'သီ' (ti) ကိုတွေ့ရင် 'မင်း(မ) လုပ်ခဲ့တယ်' လို့ မှတ်ပါ။",
+        "key_insight": "The suffix matches the vowel of the pronoun: Anta -> Ta, Anti -> Ti."
+      },
+      "explanation": {
+        "en": "When addressing someone directly (You), the past tense verb ends in 'Ta' (ـتَ) for males and 'Ti' (ـتِ) for females. Crucially, the last letter of the original 3-letter root now takes a Sukun to join with the suffix.",
+        "my": "တစ်စုံတစ်ဦးကို တိုက်ရိုက်ပြောဆိုတဲ့အခါ (သင်)၊ အတိတ်ကာလ ကြိယာရဲ့အဆုံးမှာ အမျိုးသားအတွက် 'သ' (ـتَ) နဲ့ အမျိုးသမီးအတွက် 'သီ' (ـتِ) ကို ပေါင်းထည့်ပါတယ်။ အရေးကြီးတာက အမြစ်ဗျည်းရဲ့ နောက်ဆုံးစာလုံးမှာ 'သုကူးန်' တင်ပေးရမှာ ဖြစ်ပါတယ်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use 'မင်း' (min) or 'ခင်ဗျား' (khanyar) but the verb 'စားခဲ့တယ်' doesn't change. Arabic changes the suffix.",
+        "my": "မြန်မာစကားမှာ 'မင်းစားခဲ့တယ်' လို့ပြောရင် 'စားခဲ့တယ်' က မပြောင်းလဲပေမယ့်၊ အာရပ်မှာတော့ 'သင်' ဆိုတဲ့အဓိပ္ပာယ်အတွက် ကြိယာရဲ့ အဆုံးသတ်ကို ပြောင်းလဲပေးရပါတယ်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Change the 3rd root letter's vowel to Sukun.",
+          "rule_my": "တတိယမြောက် အမြစ်ဗျည်းရဲ့ အသံကို 'သုကူးန်' ပြောင်းပါ။",
+          "example": {
+            "ar": "سَمِعْتَ",
+            "en": "You heard",
+            "my": "သင်ကြားခဲ့သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Add -ta for masculine and -ti for feminine.",
+          "rule_my": "အမျိုးသားအတွက် -ta နှင့် အမျိုးသမီးအတွက် -ti ပေါင်းပါ။",
+          "example": {
+            "ar": "سَمِعْتِ",
+            "en": "You (f) heard",
+            "my": "သင်(မ) ကြားခဲ့သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
+          "en": "The path of those upon whom You have bestowed favor",
+          "my": "အကြင်သူတို့၏လမ်းကို (ညွှန်ကြားပြသတော်မူပါ)၊ ထိုသူတို့အပေါ်တွင် အရှင်မြတ်သည် ကျေးဇူးပြုတော်မူခဲ့ပါသည် ။ (အရှင်မြတ်၏) အမျက်တော်စူးရှခြင်း ခံကြရသူများ(၏လမ်း)လည်း မဟုတ်သည့်အပြင် လမ်းမှားသူများ(၏လမ်း)လည်း မဟုတ်  (သော လမ်းမှန်ကိုသာ ညွှန်ကြားပြသတော်မူပါ)။ (အာမီးန်)။",
+          "ref": "1:7",
+          "breakdown": {
+            "subject": {
+              "word": "أَنْعَمْتَ",
+              "en": "You bestowed favor",
+              "note": "Refers to Allah"
+            },
+            "predicate": {
+              "word": "عَلَيْهِمْ",
+              "en": "upon them",
+              "note": "Object of the favor"
+            }
+          },
+          "myanmar_insight": "ဆူရာဟ် ဖာသေဟ်မှာ ပါတဲ့ ဒီစကားလုံးဟာ အလ္လာဟ်အရှင်မြတ်ကို ကိုယ်တော်လို့ တိုက်ရိုက်ခေါ်ဆိုပြီး ကျေးဇူးပြုခဲ့ကြောင်း ဖော်ပြတာ ဖြစ်ပါတယ်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting the Sukun on the root letter",
+          "wrong": {
+            "ar": "سَمِعَتَ",
+            "note": "Should be Sami'ta"
+          },
+          "correct": {
+            "ar": "سَمِعْتَ",
+            "en": "You heard",
+            "my": "သင်ကြားခဲ့သည်"
+          },
+          "myanmar_tip": "နောက်ဆုံးဗျည်းကို အသံသတ် (သုကူးန်) ဖတ်ဖို့ မမေ့ပါနဲ့။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify if the verb is Masculine (M) or Feminine (F)",
+          "instruction_my": "ကြိယာသည် ကျား(M) သို့မဟုတ် မ(F) ဖြစ်သည်ကို ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "خَلَقْتَ",
+              "answer_en": "Masculine (You created)",
+              "answer_my": "ပုလိင် (သင်ဖန်ဆင်းခဲ့သည်)",
+              "ref": "N/A"
+            },
+            {
+              "q": "خَلَقْتِ",
+              "answer_en": "Feminine (You created)",
+              "answer_my": "ဣတ္ထိလိင် (သင်ဖန်ဆင်းခဲ့သည်)",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate to English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "عَلِمْتَ",
+              "answer_en": "You knew",
+              "answer_my": "သင်သိရှိခဲ့သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change 'Kataba' (He wrote) to 'You (m) wrote'",
+          "instruction_my": "'Kataba' ကို 'သင်(ကျား) ရေးခဲ့သည်' သို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "كَتَبَ",
+              "answer_en": "katabta",
+              "answer_my": "ကသဗ်သ (သင်ရေးသားခဲ့သည်)",
+              "ar": "كَتَبْتَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Using 'You' (Anta) connects the believer directly to Allah in prayer. When we say 'An'amta', we are acknowledging a personal relationship and specific favors bestowed by the Creator.",
+        "my": "ဆုတောင်းတဲ့အခါ 'သင်/ကိုယ်တော်' လို့ သုံးခြင်းဟာ ယုံကြည်သူနဲ့ အလ္လာဟ်အရှင်မြတ်အကြား တိုက်ရိုက်ဆက်သွယ်မှုကို ဖြစ်စေပါတယ်။ 'အန်အမ်သ' လို့ ပြောတဲ့အခါ အရှင်မြတ်ရဲ့ ကျေးဇူးတော်တွေကို ကိုယ်တိုင်ခံစား သိရှိကြောင်း ဝန်ခံခြင်းဖြစ်ပါတယ်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Fatiha 1:7",
+        "study_number": 1,
+        "arabic_full": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
+        "en_sahih": "The path of those upon whom You have bestowed favor",
+        "my_mmsy": "အကြင်သူတို့၏လမ်းကို (ညွှန်ကြားပြသတော်မူပါ)၊ ထိုသူတို့အပေါ်တွင် အရှင်မြတ်သည် ကျေးဇူးပြုတော်မူခဲ့ပါသည် ။ (အရှင်မြတ်၏) အမျက်တော်စူးရှခြင်း ခံကြရသူများ(၏လမ်း)လည်း မဟုတ်သည့်အပြင် လမ်းမှားသူများ(၏လမ်း)လည်း မဟုတ်  (သော လမ်းမှန်ကိုသာ ညွှန်ကြားပြသတော်မူပါ)။ (အာမီးန်)။",
+        "audio_ref": {
+          "surah": 1,
+          "ayah": 7,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/001007.mp3"
+        },
+        "qurancom_url": "https://quran.com/1/7",
+        "context": {
+          "en": "In the final verse of Al-Fatiha, we ask for guidance to the path of those who were successful and blessed.",
+          "my": "ဆူရာဟ် ဖာသေဟ်ရဲ့ နောက်ဆုံးအာယသ်မှာ အောင်မြင်ပြီး ကောင်းချီးမင်္ဂလာ ခံစားခဲ့ရသူတွေရဲ့ လမ်းစဉ်ကို လမ်းညွှန်ပြသဖို့ ကျွန်ုပ်တို့ တောင်းခံကြပါတယ်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أَنْعَمْتَ",
+            "translit": "an'amta",
+            "en": "You bestowed favor",
+            "my": "ကိုယ်တော်သည် ကျေးဇူးပြုခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "န င မ",
+            "freq": 15
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb 'an'amta' contains the 'ta' suffix, addressing Allah directly.",
+          "structure_my": "'အန်အမ်သ' ဆိုတဲ့ ကြိယာမှာ အလ္လာဟ်အရှင်မြတ်ကို တိုက်ရိုက်ရည်ညွှန်းတဲ့ 'သ' နောက်ဆက်တွဲ ပါရှိပါတယ်။",
+          "insight_en": "This establishes a direct dialogue (Mukhathab) between the servant and the Master.",
+          "insight_my": "ဒါဟာ ကျွန်နဲ့ အရှင်သခင်ကြား တိုက်ရိုက်စကားပြောဆိုမှု (မုခါသဗ်) ကို ဖြစ်ပေါ်စေပါတယ်။"
+        },
+        "root_depth": [
+          {
+            "root": "န င မ",
+            "concept_en": "Softness, ease, and luxury. A blessing that makes life pleasant.",
+            "concept_my": "နူးညံ့မှု၊ လွယ်ကူမှုနဲ့ သာယာဝပြောမှု။ ဘဝကို သာယာစေတဲ့ ကောင်းချီးမင်္ဂလာ။",
+            "members": [
+              {
+                "ar": "نَعَم",
+                "en": "yes (softness)",
+                "my": "ဟုတ်ကဲ့",
+                "freq": 0
+              }
+            ],
+            "professors_note": "In Arabic, 'Ni'mah' is like a lush garden—it provides everything one needs for comfort."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဆွလာသ်တိုင်းမှာ ကျွန်ုပ်တို့ဟာ အလ္လာဟ်အရှင်မြတ်ကို 'ကိုယ်တော် ကျေးဇူးပြုခဲ့သူများ' လို့ ခေါ်ဆိုနေကြပါတယ်။ ဒါဟာ အတိတ်က သူတော်စင်တွေ ရရှိခဲ့တဲ့ လမ်းမှန်ကို ကျွန်ုပ်တို့လည်း လိုချင်ပါတယ်လို့ ရိုးရိုးသားသား တောင်းခံနေတာ ဖြစ်ပါတယ်။ အရှင်မြတ်ကို 'ကိုယ်တော်' (အန်သ) လို့ ခေါ်ဆိုနိုင်ခွင့်ဟာ အကြီးမားဆုံး ဂုဏ်ကျေးဇူး ဖြစ်ပါတယ်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Sira-tal-ladhina an'amta 'alayhim.",
+          "meaning_anchor": "A golden path lit by the favors of Allah.",
+          "daily_connection": "Recited at least 17 times a day in Fard prayers.",
+          "my": "နေ့စဉ် ငါးကြိမ် ဆွလာသ်မှာ ရွတ်ဆိုနေတဲ့ ဒီစကားလုံးရဲ့ အဓိပ္ပာယ်ကို လေးလေးနက်နက် မှတ်သားပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Ma'idah 5:116",
+        "study_number": 2,
+        "arabic_full": "أَأَنْتَ قُلْتَ لِلنَّاسِ اتَّخِذُونِي وَأُمِّيَ إِلَٰهَيْنِ",
+        "en_sahih": "Did you say to the people, 'Take me and my mother as two deities'?",
+        "my_mmsy": "တစ်ခါက အလ္လာဟ်အရှင်မြတ်သည် (ဤသို့)မိန့်ကြားတော်မူမည်- “အို- မရ်ယမ်၏သား အီစာ၊ အသင်သည် လူများအား အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်ဆန့်ကျင်၍ ကျွန်ုပ်နှင့်ကျွန်ုပ်၏မိခင်အား ကိုးကွယ်ထိုက်သည့်အရှင်နှစ်ပါးအဖြစ် ပြုုလုပ်ကြပါဟု ပြောကြားခဲ့သလော“။ ၎င်း(တမန်တော် အီစာ)က ပြောဆိုဖြေကြားမည်- “အရှင်မြတ်သည် သန့်ပြန့်စင်ကြယ်တော်မူပါသည်။ ကျွန်ုပ် မပြောထိုက်သောစကားကို ကျွန်ုပ်ပြောဆိုခွင့် လုံးဝ မရှိပါ။ အကယ်၍ ကျွန်ုပ်သည် ထိုစကားကို ပြောဆိုခဲ့လျှင် အရှင်မြတ်သည် ထိုပြောဆိုမှုကို အမှန်ပင် သိတော်မူပြီးဖြစ်ပါသည်။ အရှင်မြတ်သည် ကျွန်ုပ်၏စိတ်ထဲ၌ရှိသမျှကို သိရှိတော်မူပါသည်။ သို့ရာတွင် ကျွန်ုပ်သည် အရှင်မြတ်၏စိတ်ထဲရှိသည်ကို မသိပါ။ အမှန်စင်စစ် အရှင်မြတ်သည်သာ အကွယ်မှအရာအားလုံးကို အလွန်သိတော်မူသောအရှင် ဖြစ်တော်မူပါသည်။",
+        "audio_ref": {
+          "surah": 5,
+          "ayah": 116,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/005116.mp3"
+        },
+        "qurancom_url": "https://quran.com/5/116",
+        "context": {
+          "en": "On the Day of Judgment, Allah will ask Prophet Isa (Jesus) if he told people to worship him instead of Allah.",
+          "my": "ရှင်ပြန်ထမြောက်ရာနေ့မှာ အလ္လာဟ်အရှင်မြတ်က တမန်တော်အီစာ (အလိုင်ဟစ္စလာမ်) ကို လူသားတွေကို သူ့ကို ကိုးကွယ်ဖို့ ပြောခဲ့သလားဆိုတာကို မေးမြန်းမှာ ဖြစ်ပါတယ်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "قُلْتَ",
+            "translit": "qulta",
+            "en": "you said",
+            "my": "သင်ပြောခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "က ဝ လ",
+            "freq": 100
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb 'qulta' is the 2nd person masculine past tense of 'qala'.",
+          "structure_my": "'ကုလ်သ' ဆိုတာ 'ကာလ' ရဲ့ ဒုတိယပုဂ္ဂိုလ် ပုလိင် အတိတ်ကာလပုံစံ ဖြစ်ပါတယ်။",
+          "insight_en": "The 'waw' from the root 'qawala' is dropped for ease of pronunciation when the suffix is added.",
+          "insight_my": "နောက်ဆက်တွဲ ပေါင်းထည့်တဲ့အခါ အသံထွက်ရလွယ်ကူအောင် အလယ်က 'ဝေါင်း' အသံကို ဖျောက်ထားပါတယ်။"
+        },
+        "root_depth": [
+          {
+            "root": "က ဝ လ",
+            "concept_en": "To say, to voice an opinion, or to claim.",
+            "concept_my": "ပြောဆိုခြင်း၊ ထင်မြင်ချက်ပေးခြင်း သို့မဟုတ် အခိုင်အမာဆိုခြင်း။",
+            "members": [
+              {
+                "ar": "قَوْل",
+                "en": "speech",
+                "my": "စကား",
+                "freq": 0
+              }
+            ],
+            "professors_note": "In the Quran, 'Qawl' is often contrasted with 'Amal' (action)."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဒီအာယသ်မှာ အလ္လာဟ်အရှင်မြတ်က တမန်တော်အီစာကို မေးခွန်းထုတ်ပုံဟာ အလွန်လေးနက်ပါတယ်။ 'သင် ပြောခဲ့သလား' (ကုလ်သ) ဆိုတဲ့ စကားလုံးက တာဝန်ယူမှုကို ဖော်ပြနေပါတယ်။ ကျွန်ုပ်တို့ ပြောဆိုသမျှ စကားတိုင်းကိုလည်း တစ်နေ့မှာ ဒီလိုပဲ မေးမြန်းခြင်း ခံရမှာ ဖြစ်ပါတယ်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Aa-anta qulta lin-nasi...",
+          "meaning_anchor": "Prophet Isa standing before Allah, answering for his message.",
+          "daily_connection": "Reminds us to be careful with what we say about religion.",
+          "my": "မိမိပြောခဲ့တဲ့ စကားတွေအတွက် တာဝန်ခံရမယ့်နေ့ကို သတိရစေပါတယ်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We learned how to address someone in the past tense using the suffixes -ta (masculine) and -ti (feminine). We saw how these appear in the most important prayer (Al-Fatiha) and in significant dialogues in the Quran. Remember: Anta -> Ta!",
+      "my": "ယနေ့မှာ အတိတ်ကာလ နောက်ဆက်တွဲတွေဖြစ်တဲ့ -ta (ကျား) နဲ့ -ti (မ) ကို သုံးပြီး တစ်စုံတစ်ဦးကို ဘယ်လိုပြောဆိုရမလဲဆိုတာ သင်ယူခဲ့ပါတယ်။ ဒီပုံစံတွေကို ဆူရာဟ် ဖာသေဟ်နဲ့ ကုရ်အာန်ထဲက အရေးကြီးတဲ့ စကားပြောခန်းတွေမှာ တွေ့မြင်ခဲ့ရပါတယ်။ မှတ်ထားရမှာက Anta ဆိုရင် Ta ပါ!"
+    }
+  },
+  {
+    "lesson_id": "L2-054",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 54,
+    "title": {
+      "ar": "الْمَاضِي (٤) — فَعَلْتُ: تَمَكُّنُ الذَّاتِ",
+      "en": "Past Tense IV — 'I did' (Fa'altu): First Person Singular",
+      "my": "အတိတ်ကာလ (၄) — 'ကျွန်ုပ်ပြုလုပ်ခဲ့သည်' (Fa'altu): ပထမပုဂ္ဂိုလ် အနည်းကိန်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Past tense 1st person singular; Damma on suffix ت",
+      "grammar_formula": "Fa'al + tu (تُ) = I DID"
+    },
+    "section_1_vocab": [
+      {
+        "word": "آمَنَ",
+        "translit": "āmana",
+        "en": "he believed",
+        "my": "သူယုံကြည်ခဲ့သည်",
+        "quran_freq": 530,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "အ မ န",
+          "concept_en": "security / faith / trust",
+          "concept_my": "ယုံကြည်ခြင်း / လုံခြုံမှု"
+        },
+        "memory_hook": {
+          "sound": "Amen",
+          "image": "Saying 'Amen' after a prayer of faith",
+          "cross_language": "Iman (Global)"
+        },
+        "word_family": [
+          {
+            "ar": "مُؤْمِن",
+            "translit": "mu'min",
+            "en": "believer",
+            "my": "ယုံကြည်သူ",
+            "freq": 190
+          }
+        ],
+        "pattern_unlock": "For 'I believed', it becomes 'Amantu'.",
+        "example": {
+          "ar": "آمَنَ الرَّسُولُ",
+          "en": "The Messenger has believed",
+          "my": "တမန်တော်မြတ်သည် ယုံကြည်ခဲ့သည်",
+          "ref": "2:285"
+        }
+      },
+      {
+        "word": "جَاءَ",
+        "translit": "jā'a",
+        "en": "he came",
+        "my": "သူလာရောက်ခဲ့သည်",
+        "quran_freq": 278,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ဂျ အ ယ",
+          "concept_en": "coming / arrival",
+          "concept_my": "လာရောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Joy",
+          "image": "The joy of someone arriving",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مَجِيء",
+            "translit": "majī'",
+            "en": "arrival",
+            "my": "ရောက်ရှိခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Irregular verb, 'I came' is 'Ji'tu'.",
+        "example": {
+          "ar": "إِذَا جَاءَ نَصْرُ اللَّهِ",
+          "en": "When the victory of Allah comes",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ကူညီစောင်မမှု ရောက်ရှိလာသောအခါ",
+          "ref": "110:1"
+        }
+      },
+      {
+        "word": "تَرَكْتُ",
+        "translit": "taraktu",
+        "en": "I left / I abandoned",
+        "my": "ကျွန်ုပ်စွန့်လွှတ်ခဲ့သည် / ချန်ထားခဲ့သည်",
+        "quran_freq": 40,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "فَعَلْتُ",
+        "root": {
+          "letters": "တ ရ က",
+          "concept_en": "leaving / quitting",
+          "concept_my": "စွန့်ခွာခြင်း / ချန်ထားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Track",
+          "image": "Leaving a track behind as you walk away",
+          "cross_language": "Tark (Urdu/Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "تَرَكَ",
+            "translit": "taraka",
+            "en": "he left",
+            "my": "သူချန်ထားခဲ့သည်",
+            "freq": 43
+          }
+        ],
+        "pattern_unlock": "Often used for leaving behind heritage or worldly desires.",
+        "example": {
+          "ar": "تَرَكْتُ مِلَّةَ قَوْمٍ",
+          "en": "I have left the religion of a people",
+          "my": "ကျွန်ုပ်သည် လူမျိုးစုတစ်ခု၏ သာသနာကို စွန့်လွှတ်ခဲ့သည်",
+          "ref": "12:37"
+        }
+      },
+      {
+        "word": "ظَلَمْتُ",
+        "translit": "ẓalamtu",
+        "en": "I wronged / I oppressed",
+        "my": "ကျွန်ုပ်အမှားပြုခဲ့သည် / မတရားပြုခဲ့သည်",
+        "quran_freq": 60,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "فَعَلْتُ",
+        "root": {
+          "letters": "ဿ လ မ",
+          "concept_en": "darkness / injustice",
+          "concept_my": "မတရားမှု / အမှောင်ထု"
+        },
+        "memory_hook": {
+          "sound": "Zulm",
+          "image": "Doing something in the dark (injustice)",
+          "cross_language": "Zulm (Urdu/Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "ظُلْم",
+            "translit": "ẓulm",
+            "en": "injustice",
+            "my": "မတရားမှု",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Used in the famous prayer of Prophet Yunus: 'Inni kuntu minaz-zalimin'.",
+        "example": {
+          "ar": "رَبِّ إِنِّي ظَلَمْتُ نَفْسِي",
+          "en": "My Lord, indeed I have wronged myself",
+          "my": "အကျွန်ုပ်၏အရှင်၊ အကျွန်ုပ်သည် မိမိကိုယ်မိမိ မတရားပြုခဲ့မိပါသည်",
+          "ref": "28:16"
+        }
+      },
+      {
+        "word": "وَجَدْتُ",
+        "translit": "wajadtu",
+        "en": "I found",
+        "my": "ကျွန်ုပ်တွေ့ရှိခဲ့သည်",
+        "quran_freq": 100,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "فَعَلْتُ",
+        "root": {
+          "letters": "ဝ ဂျ ဒ",
+          "concept_en": "finding / discovering",
+          "concept_my": "တွေ့ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Wajad",
+          "image": "Finding a hidden treasure",
+          "cross_language": "Wajud (Existence in Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "وَجَدَ",
+            "translit": "wajada",
+            "en": "he found",
+            "my": "သူတွေ့ရှိခဲ့သည်",
+            "freq": 107
+          }
+        ],
+        "pattern_unlock": "Used frequently in the Quran to describe finding truth or guidance.",
+        "example": {
+          "ar": "وَجَدْتُهَا وَقَوْمَهَا",
+          "en": "I found her and her people",
+          "my": "ကျွန်ုပ်သည် သူမနှင့် သူမ၏လူမျိုးစုကို တွေ့ရှိခဲ့သည်",
+          "ref": "27:24"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "ضَمِيرُ الْمُتَكَلِّمِ فِي الْمَاضِي",
+        "en": "First Person Suffix in Past Tense",
+        "my": "အတိတ်ကာလရှိ ပထမပုဂ္ဂိုလ် နောက်ဆက်တွဲ"
+      },
+      "formula": {
+        "display": "Root (Sukun) + تُ",
+        "example": "آمَنْتُ (I believed)",
+        "myanmar_read": "ကြိယာရဲ့အဆုံးမှာ 'သု' (tu) ကိုတွေ့ရင် 'ကျွန်ုပ်လုပ်ခဲ့တယ်' လို့ မှတ်ပါ။",
+        "key_insight": "The Damma (u) on the 'Ta' indicates 'I' (Ana)."
+      },
+      "explanation": {
+        "en": "To express 'I did' in the past tense, we add the suffix 'Tu' (ـتُ) to the root. Like the 2nd person (You), the final letter of the root must have a Sukun. This form is the same for both men and women.",
+        "my": "အတိတ်ကာလမှာ 'ကျွန်ုပ်လုပ်ခဲ့တယ်' လို့ ပြောချင်ရင် အမြစ်ဗျည်းရဲ့အဆုံးမှာ 'သု' (ـتُ) ကို ပေါင်းထည့်ရပါတယ်။ ဒုတိယပုဂ္ဂိုလ်မှာလိုပဲ နောက်ဆုံးအမြစ်ဗျည်းကို 'သုကူးန်' တင်ပေးရမှာဖြစ်ပြီး ကျား/မ နှစ်မျိုးလုံးအတွက် ပုံစံတူဖြစ်ပါတယ်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use 'ကျွန်တော်/ကျွန်မ' (kyan taw/ma) but the verb 'ယုံကြည်ခဲ့တယ်' stays the same. Arabic signals the 'I' within the verb itself.",
+        "my": "မြန်မာစကားမှာ 'ကျွန်တော် ယုံကြည်ခဲ့တယ်' လို့ သုံးပေမယ့် အာရပ်မှာတော့ ကြိယာထဲမှာတင် 'ကျွန်ုပ်' ဆိုတဲ့အဓိပ္ပာယ် ပါဝင်နေပါတယ်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Apply Sukun to the 3rd root letter.",
+          "rule_my": "တတိယမြောက် အမြစ်ဗျည်းကို 'သုကူးန်' တင်ပါ။",
+          "example": {
+            "ar": "فَعَلْتُ",
+            "en": "I did",
+            "my": "ကျွန်ုပ်ပြုလုပ်ခဲ့သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Add 'Tu' as the suffix.",
+          "rule_my": "'သု' (Tu) ကို နောက်ဆက်တွဲအဖြစ် ပေါင်းပါ။",
+          "example": {
+            "ar": "عَلِمْتُ",
+            "en": "I knew",
+            "my": "ကျွန်ုပ်သိရှိခဲ့သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "آمَنْتُ بِرَبِّكُمْ",
+          "en": "I have believed in your Lord",
+          "my": "အမှန်စင်စစ် ကျွန်ုပ်သည် အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ကို ယုံကြည်ခဲ့ပြီဖြစ်သည့်အတွက် အသင်တို့သည် ကျွန်ုပ်(၏စကား)ကို နားထောင်ကြပါ။",
+          "ref": "36:25",
+          "breakdown": {
+            "subject": {
+              "word": "آمَنْتُ",
+              "en": "I have believed",
+              "note": "1st person singular"
+            },
+            "predicate": {
+              "word": "بِرَبِّكُمْ",
+              "en": "in your Lord",
+              "note": "Object of belief"
+            }
+          },
+          "myanmar_insight": "ဒီမှာ 'အာမန်သု' လို့ သုံးထားတာဟာ 'ကျွန်ုပ် ယုံကြည်ခဲ့ပြီ' လို့ မိမိကိုယ်တိုင်ရဲ့ သစ္စာခံမှုကို ပြတာ ဖြစ်ပါတယ်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing -ta (You) with -tu (I)",
+          "wrong": {
+            "ar": "ظَلَمْتَ نَفْسِي",
+            "note": "Means 'You wronged my soul'"
+          },
+          "correct": {
+            "ar": "ظَلَمْتُ نَفْسِي",
+            "en": "I wronged my soul",
+            "my": "ကျွန်ုပ်သည် မိမိကိုယ်မိမိ မတရားပြုခဲ့သည်"
+          },
+          "myanmar_tip": "ဒမ်မဟ် (u) အသံက 'ကျွန်ုပ်' ကို ရည်ညွှန်းတာပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the person (I or You)",
+          "instruction_my": "ပုဂ္ဂိုလ်ကို ခွဲခြားပါ (ကျွန်ုပ် သို့မဟုတ် သင်)",
+          "questions": [
+            {
+              "q": "كَتَبْتُ",
+              "answer_en": "I wrote",
+              "answer_my": "ကျွန်ုပ်ရေးသားခဲ့သည်",
+              "ref": "N/A"
+            },
+            {
+              "q": "كَتَبْتَ",
+              "answer_en": "You wrote",
+              "answer_my": "သင်ရေးသားခဲ့သည်",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into Myanmar Unicode",
+          "instruction_my": "မြန်မာယူနီကုဒ်ဖြင့် ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "وَجَدْتُ الْحَقَّ",
+              "answer_en": "I found the truth",
+              "answer_my": "ကျွန်ုပ်သည် အမှန်တရားကို တွေ့ရှိခဲ့သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change 'Nazala' (He descended) to 'I descended'",
+          "instruction_my": "'Nazala' ကို 'ကျွန်ုပ်ဆင်းသက်ခဲ့သည်' သို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "نَزَلَ",
+              "answer_en": "nazaltu",
+              "answer_my": "နဇလ်သု",
+              "ar": "نَزَلْتُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Confessing one's actions with 'Fa'altu' is central to Repentance (Tawbah). When we say 'Zalamtu nafsi', we take full responsibility for our mistakes before Allah.",
+        "my": "'Fa'altu' ပုံစံနဲ့ မိမိရဲ့လုပ်ရပ်တွေကို ဝန်ခံခြင်းဟာ သောင်ဗဟ် (နောင်တရခြင်း) ရဲ့ အနှစ်သာရ ဖြစ်ပါတယ်။ 'ဇလမ်သု နဖ်စီ' လို့ ပြောတဲ့အခါ မိမိရဲ့အမှားတွေအတွက် အလ္လာဟ်အရှင်မြတ်ရှေ့မှာ အပြည့်အဝ တာဝန်ယူခြင်း ဖြစ်ပါတယ်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Ya-Sin 36:25",
+        "study_number": 1,
+        "arabic_full": "إِنِّي آمَنْتُ بِرَبِّكُمْ فَاسْمَعُونِ",
+        "en_sahih": "Indeed, I have believed in your Lord, so listen to me.",
+        "my_mmsy": "အမှန်စင်စစ် ကျွန်ုပ်သည် အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ကို ယုံကြည်ခဲ့ပြီဖြစ်သည့်အတွက် အသင်တို့သည် ကျွန်ုပ်(၏စကား)ကို နားထောင်ကြပါ။",
+        "audio_ref": {
+          "surah": 36,
+          "ayah": 25,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/036025.mp3"
+        },
+        "qurancom_url": "https://quran.com/36/25",
+        "context": {
+          "en": "The story of the man who came running from the furthest part of the city to support the messengers, declaring his faith openly.",
+          "my": "မြို့စွန်ကနေ အပြေးအလွှားလာပြီး တမန်တော်တွေကို ထောက်ခံအားပေးကာ မိမိရဲ့ အီမာန်ကို ဗြောင်ကျကျ ကြေညာခဲ့တဲ့ ပုဂ္ဂိုလ်တစ်ဦးရဲ့ ဇာတ်လမ်း ဖြစ်ပါတယ်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "آمَنْتُ",
+            "translit": "āmantu",
+            "en": "I have believed",
+            "my": "ကျွန်ုပ်ယုံကြည်ခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "အ မ န",
+            "freq": 530
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb 'amantu' shows the first-person singular past tense clearly.",
+          "structure_my": "'အာမန်သု' ဆိုတဲ့ ကြိယာဟာ ပထမပုဂ္ဂိုလ် အနည်းကိန်း အတိတ်ကာလပုံစံကို ရှင်းလင်းစွာ ပြသနေပါတယ်။",
+          "insight_en": "Declaring 'Amantu' (I believed) is the most critical sentence a human can utter.",
+          "insight_my": "'အာမန်သု' (ကျွန်ုပ် ယုံကြည်ခဲ့ပြီ) လို့ ကြေညာခြင်းဟာ လူသားတစ်ဦး ပြောဆိုနိုင်တဲ့ အရေးကြီးဆုံး စကားစု ဖြစ်ပါတယ်။"
+        },
+        "root_depth": [
+          {
+            "root": "အ မ န",
+            "concept_en": "To be in peace, safety, and to trust completely.",
+            "concept_my": "ငြိမ်းချမ်းမှု၊ လုံခြုံမှုရှိခြင်းနဲ့ အပြည့်အဝ ယုံကြည်ကိုးစားခြင်း။",
+            "members": [
+              {
+                "ar": "إِيمَان",
+                "en": "faith",
+                "my": "အီမာန်/ယုံကြည်ချက်",
+                "freq": 0
+              }
+            ],
+            "professors_note": "True belief (Iman) grants a person 'Aman' (internal security)."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဒီလူဟာ သူ့ရဲ့ အီမာန်ကို တစ်ဦးတည်းသော အရှင်မြတ်ရှေ့မှာသာမက လူတွေရှေ့မှာပါ ရဲရဲဝံ့ဝံ့ ဝန်ခံခဲ့ပါတယ်။ ကျွန်ုပ်တို့လည်း နေ့စဉ်ဘဝမှာ 'အာမန်သု ဗိလ္လာဟ်' (အလ္လာဟ်အရှင်မြတ်ကို ကျွန်ုပ်ယုံကြည်ခဲ့ပြီ) လို့ ရွတ်ဆိုရင်း စိတ်ဓာတ်ခိုင်မာမှု ယူသင့်ပါတယ်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Inni amantu birabbikum fasma'un.",
+          "meaning_anchor": "Standing tall and announcing faith to a crowd.",
+          "daily_connection": "Saying 'Amantu' when feeling doubtful or pressured.",
+          "my": "မိမိရဲ့ ယုံကြည်ချက်ကို ရဲဝံ့စွာ ထုတ်ဖော်ပြောဆိုတဲ့ပုံစံကို မှတ်သားပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Qasas 28:16",
+        "study_number": 2,
+        "arabic_full": "قَالَ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي",
+        "en_sahih": "He said, 'My Lord, indeed I have wronged myself, so forgive me.'",
+        "my_mmsy": "MYANMAR_PLACEHOLDER_S28_16",
+        "audio_ref": {
+          "surah": 28,
+          "ayah": 16,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/028016.mp3"
+        },
+        "qurancom_url": "https://quran.com/28/16",
+        "context": {
+          "en": "Prophet Musa (Moses) accidentally killed a man and immediately turned to Allah in repentance.",
+          "my": "တမန်တော်မူစာ (အလိုင်ဟစ္စလာမ်) ဟာ လူတစ်ဦးကို မတော်တဆ သတ်မိသွားတဲ့အခါ ချက်ချင်းဆိုသလို အလ္လာဟ်အရှင်မြတ်ထံ နောင်တတရားနဲ့ လှည့်ပြန်ခဲ့ပါတယ်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "ظَلَمْتُ",
+            "translit": "ẓalamtu",
+            "en": "I wronged",
+            "my": "ကျွန်ုပ်အမှားပြုခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ဿ လ မ",
+            "freq": 60
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb 'zalamtu' ends with the -tu suffix for 'I'.",
+          "structure_my": "'ဇလမ်သု' ဆိုတဲ့ ကြိယာဟာ 'ကျွန်ုပ်' အတွက် -tu နောက်ဆက်တွဲနဲ့ ဆုံးထားပါတယ်။",
+          "insight_en": "Repentance starts with the pronoun 'I'—taking personal ownership of the mistake.",
+          "insight_my": "သောင်ဗဟ် (နောင်တ) ဟာ 'ကျွန်ုပ်' ဆိုတဲ့ စကားလုံးနဲ့ စတင်ရပါတယ်။ မိမိအမှားကို မိမိကိုယ်တိုင် တာဝန်ယူခြင်း ဖြစ်ပါတယ်။"
+        },
+        "root_depth": [
+          {
+            "root": "ဿ လ မ",
+            "concept_en": "To put something in the wrong place; darkness.",
+            "concept_my": "အရာဝတ္ထုတစ်ခုကို မလျော်ကန်တဲ့ နေရာမှာ ထားရှိခြင်း သို့မဟုတ် အမှောင်ထု။",
+            "members": [
+              {
+                "ar": "ظُلُمَات",
+                "en": "darknesses",
+                "my": "အမှောင်ထုများ",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Oppression is called 'Zulm' because it is a darkness that hides the truth."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "တမန်တော်တွေဟာ အမှားတစ်ခုပြုမိရင် သူတစ်ပါးကို အပြစ်မပုံဘဲ 'ကျွန်ုပ် အမှားလုပ်ခဲ့မိပါတယ်' (ဇလမ်သု) လို့ နှိမ့်ချစွာ ဝန်ခံလေ့ရှိပါတယ်။ ဒါဟာ ကျွန်ုပ်တို့အတွက် သင်ခန်းစာပါပဲ။ အရှင်မြတ်ရှေ့မှာ ကိုယ့်အမှားကိုယ် ဝန်ခံခြင်းဟာ ခွင့်လွှတ်မှုဆီကို သွားတဲ့ ပထမဆုံးခြေလှမ်း ဖြစ်ပါတယ်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Rabbi inni zalamtu nafsi faghfir li.",
+          "meaning_anchor": "A sincere heart bowing in regret and seeking light.",
+          "daily_connection": "Used in Istighfar (seeking forgiveness) every day.",
+          "my": "ခွင့်လွှတ်မှု တောင်းခံတဲ့အခါ ဒီစကားလုံးကို အမြဲသုံးစွဲပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We mastered the 'I did' form in the past tense by adding the suffix -tu. This form is essential for personal testimony ('Amantu') and for seeking forgiveness ('Zalamtu'). In Arabic, the verb alone tells us exactly who performed the action.",
+      "my": "ယနေ့မှာ နောက်ဆက်တွဲ -tu ကို သုံးပြီး 'ကျွန်ုပ်လုပ်ခဲ့တယ်' ဆိုတဲ့ အတိတ်ကာလပုံစံကို ကျွမ်းကျင်အောင် သင်ယူခဲ့ပါတယ်။ ဒီပုံစံဟာ မိမိရဲ့ သက်သေခံချက် (Amantu) နဲ့ ခွင့်လွှတ်မှု တောင်းခံခြင်း (Zalamtu) တို့အတွက် မရှိမဖြစ် လိုအပ်ပါတယ်။ အာရပ်ဘာသာမှာ ကြိယာတစ်ခုတည်းနဲ့တင် ဘယ်သူက လုပ်ဆောင်ခဲ့တာလဲဆိုတာ ရှင်းရှင်းလင်းလင်း သိနိုင်ပါတယ်။"
+    }
+  },
+  {
+    "lesson_id": "L2-055",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 55,
+    "title": {
+      "ar": "تَصْرِيفُ الْمَاضِي (الْمُفْرَدُ) وَتَدْرِيبَاتٌ قُرْآنِيَّةٌ",
+      "en": "Past Tense V — Singular Conjugation Table + Quranic Drill",
+      "my": "အတိတ်ကာလ (၅) — အနည်းကိန်း ကြိယာပြောင်းလဲမှုဇယားနှင့် ကုရ်အာန်လေ့ကျင့်ခန်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Full singular past tense table; identifying conjugations in ayahs",
+      "grammar_formula": "Fa'ala -> Fa'alat -> Fa'alta -> Fa'alti -> Fa'altu"
+    },
+    "section_1_vocab": [
+      {
+        "word": "خَرَجَ",
+        "translit": "kharaja",
+        "en": "he exited / went out",
+        "my": "သူထွက်ခွာခဲ့သည်",
+        "quran_freq": 100,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ခ ရ ဂျ",
+          "concept_en": "exiting / emerging",
+          "concept_my": "ထွက်ခွာခြင်း / ပေါ်ထွက်လာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Garage",
+          "image": "A car exiting the garage",
+          "cross_language": "Khariji (Urdu/Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "مَخْرَج",
+            "translit": "makhraj",
+            "en": "exit/point of origin",
+            "my": "ထွက်ပေါက်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Practice the full table with this verb: Kharaja, Kharajat, Kharajta...",
+        "example": {
+          "ar": "خَرَجَ عَلَىٰ قَوْمِهِ",
+          "en": "He came out before his people",
+          "my": "သူသည် မိမိလူမျိုးစုရှေ့သို့ ထွက်လာခဲ့သည်",
+          "ref": "28:79"
+        }
+      },
+      {
+        "word": "أَخَذَ",
+        "translit": "akhadha",
+        "en": "he took / seized",
+        "my": "သူယူဆောင်ခဲ့သည် / ဖမ်းဆီးခဲ့သည်",
+        "quran_freq": 270,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "အ ခ ဓ",
+          "concept_en": "taking / grabbing",
+          "concept_my": "ယူခြင်း / ဆုပ်ကိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ax",
+          "image": "Taking an ax to chop wood",
+          "cross_language": "Akhid (Taker in Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "أَخْذ",
+            "translit": "akhdh",
+            "en": "taking",
+            "my": "ယူခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "For 'I took', it becomes 'Akhadhtu'.",
+        "example": {
+          "ar": "أَخَذْنَا مِيثَاقَكُمْ",
+          "en": "We took your covenant",
+          "my": "ကျွန်ုပ်တို့သည် သင်တို့၏ ကတိသစ္စာကို ယူခဲ့ကြသည်",
+          "ref": "2:63"
+        }
+      },
+      {
+        "word": "رَجَعَ",
+        "translit": "raja'a",
+        "en": "he returned",
+        "my": "သူပြန်လည်ရောက်ရှိခဲ့သည်",
+        "quran_freq": 104,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ရ ဂျ အ",
+          "concept_en": "returning / coming back",
+          "concept_my": "ပြန်လာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Regress",
+          "image": "Someone walking back to where they started",
+          "cross_language": "Ruju' (Urdu/Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "مَرْجِع",
+            "translit": "marji'",
+            "en": "place of return",
+            "my": "ပြန်လည်ရာအရပ်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Commonly used for our return to Allah.",
+        "example": {
+          "ar": "فَرَجَعْنَاكَ إِلَىٰ أُمِّكَ",
+          "en": "So We returned you to your mother",
+          "my": "သို့ဖြစ်၍ ကျွန်ုပ်တို့သည် သင့်ကို သင့်မိခင်ထံ ပြန်လည်ပို့ဆောင်ပေးခဲ့သည်",
+          "ref": "20:40"
+        }
+      },
+      {
+        "word": "بَعَثَ",
+        "translit": "ba'atha",
+        "en": "he sent / he resurrected",
+        "my": "သူစေလွှတ်ခဲ့သည် / သူရှင်ပြန်ထမြောက်စေခဲ့သည်",
+        "quran_freq": 60,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ဗ အ သ",
+          "concept_en": "sending / awakening",
+          "concept_my": "စေလွှတ်ခြင်း / နိုးထစေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Birth",
+          "image": "A new life being sent into the world",
+          "cross_language": "Ba'ath (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "مَبْعُوث",
+            "translit": "mab'ūth",
+            "en": "one who is sent",
+            "my": "စေလွှတ်ခြင်းခံရသူ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Used for prophets being sent or people raised from the dead.",
+        "example": {
+          "ar": "بَعَثَ اللَّهُ نَبِيِّينَ",
+          "en": "Allah sent prophets",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် နဗီတမန်တော်များကို စေလွှတ်ခဲ့သည်",
+          "ref": "2:213"
+        }
+      },
+      {
+        "word": "غَلَبَ",
+        "translit": "ghalaba",
+        "en": "he overcame / defeated",
+        "my": "သူအောင်နိုင်ခဲ့သည်",
+        "quran_freq": 30,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ဂ လ ဗ",
+          "concept_en": "victory / overcoming",
+          "concept_my": "အောင်နိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ghalib",
+          "image": "A victor standing on top of a hill",
+          "cross_language": "Ghalib (Name/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "غَالِب",
+            "translit": "ghālib",
+            "en": "victor",
+            "my": "အောင်နိုင်သူ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The word 'Maghlub' (defeated) comes from this root.",
+        "example": {
+          "ar": "غُلِبَتِ الرُّومُ",
+          "en": "The Byzantines have been defeated",
+          "my": "ရောမလူမျိုးတို့သည် အရေးနိမ့်ခဲ့ကြသည်",
+          "ref": "30:2"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "جَدْوَلُ تَصْرِيفِ الْمَاضِي (الْمُفْرَدُ)",
+        "en": "Singular Past Tense Conjugation Table",
+        "my": "အတိတ်ကာလ အနည်းကိန်း ကြိယာပြောင်းလဲမှုဇယား"
+      },
+      "formula": {
+        "display": "See Table Below",
+        "example": "كَتَبَ -> كَتَبَتْ -> كَتَبْتَ -> كَتَبْتِ -> كَتَبْتُ",
+        "myanmar_read": "ဒီဇယားက အတိတ်ကာလမှာ 'ဘယ်သူလုပ်ခဲ့တာလဲ' ဆိုတာကို ခွဲခြားနိုင်တဲ့ သော့ချက်ဖြစ်ပါတယ်။",
+        "key_insight": "Mastering the singular forms allows you to identify almost 50% of the verb occurrences in the Quran."
+      },
+      "explanation": {
+        "en": "This lesson summarizes all the singular conjugations of the past tense we have learned. By mastering these five forms, you can identify who is performing an action in the Quranic narrative. The root remains stable while the suffix changes.",
+        "my": "ဒီသင်ခန်းစာမှာ ကျွန်ုပ်တို့သင်ယူခဲ့တဲ့ အတိတ်ကာလ အနည်းကိန်း ပုံစံအားလုံးကို စုစည်းတင်ပြထားပါတယ်။ ဒီပုံစံ ၅ မျိုးကို ကျွမ်းကျင်ခြင်းဖြင့် ကုရ်အာန်ထဲက လုပ်ဆောင်ချက်တွေကို ဘယ်သူကလုပ်တာလဲဆိုတာ ခွဲခြားနိုင်မှာ ဖြစ်ပါတယ်။ အမြစ်ဗျည်းတွေက မပြောင်းလဲဘဲ နောက်ဆက်တွဲတွေသာ ပြောင်းလဲသွားတာ ဖြစ်ပါတယ်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar uses pronouns (He, She, I, You) with a fixed verb. Arabic integrates these pronouns into the verb's ending.",
+        "my": "မြန်မာစကားမှာ (သူ၊ သူမ၊ ကျွန်တော်၊ မင်း) စတဲ့ နာမ်စားတွေကို သီးခြားသုံးပေမယ့် အာရပ်မှာတော့ အဲဒီနာမ်စားတွေကို ကြိယာရဲ့ အဆုံးသတ်မှာ တစ်ပါတည်း ထည့်သွင်းထားပါတယ်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "3rd Person: He (Base Form), She (-at).",
+          "rule_my": "တတိယပုဂ္ဂိုလ် - သူ (အခြေခံပုံစံ)၊ သူမ (-at)။",
+          "example": {
+            "ar": "فَعَلَ / فَعَلَتْ",
+            "en": "He did / She did",
+            "my": "သူလုပ်ခဲ့သည် / သူမလုပ်ခဲ့သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "2nd Person: You-Male (-ta), You-Female (-ti).",
+          "rule_my": "ဒုတိယပုဂ္ဂိုလ် - သင်-ကျား (-ta)၊ သင်-မ (-ti)။",
+          "example": {
+            "ar": "فَعَلْتَ / فَعَلْتِ",
+            "en": "You (m) did / You (f) did",
+            "my": "သင်လုပ်ခဲ့သည် / သင်(မ) လုပ်ခဲ့သည်"
+          }
+        },
+        {
+          "number": 3,
+          "rule_en": "1st Person: I (-tu).",
+          "rule_my": "ပထမပုဂ္ဂိုလ် - ကျွန်ုပ် (-tu)။",
+          "example": {
+            "ar": "فَعَلْتُ",
+            "en": "I did",
+            "my": "ကျွန်ုပ်ပြုလုပ်ခဲ့သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "قَالَ إِنِّي عَبْدُ اللَّهِ",
+          "en": "He said, 'Indeed, I am a servant of Allah.'",
+          "my": "MYANMAR_PLACE_HOLDER_S19_A30",
+          "ref": "19:30",
+          "breakdown": {
+            "subject": {
+              "word": "قَالَ",
+              "en": "He said",
+              "note": "Base form (Isa)"
+            },
+            "predicate": {
+              "word": "عَبْدُ اللَّهِ",
+              "en": "Servant of Allah",
+              "note": "Identity"
+            }
+          },
+          "myanmar_insight": "'ကာလ' ဆိုတဲ့ အခြေခံပုံစံဟာ 'သူ' (တမန်တော်အီစာ) ကို ရည်ညွှန်းပါတယ်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing the vowels on 'Ta'",
+          "wrong": {
+            "ar": "قَالَتَ",
+            "note": "This is not a valid singular form"
+          },
+          "correct": {
+            "ar": "قَالَتْ / قُلْتَ / قُلْتُ",
+            "en": "She said / You said / I said",
+            "my": "သူမပြောသည် / သင်ပြောသည် / ကျွန်ုပ်ပြောသည်"
+          },
+          "myanmar_tip": "သုကူးန် (at)၊ ဖသ်ဟ် (ta)၊ ဒမ်မဟ် (tu) တို့ကို ဂရုစိုက်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Match the Arabic verb to its English meaning",
+          "instruction_my": "အာရပ်ကြိယာနှင့် အင်္ဂလိပ်အဓိပ္ပာယ်ကို ယှဉ်တွဲပါ",
+          "questions": [
+            {
+              "q": "أَخَذْتُ",
+              "answer_en": "I took",
+              "answer_my": "ကျွန်ုပ်ယူခဲ့သည်",
+              "ref": "N/A"
+            },
+            {
+              "q": "أَخَذَتْ",
+              "answer_en": "She took",
+              "answer_my": "သူမယူခဲ့သည်",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into Myanmar Unicode",
+          "instruction_my": "မြန်မာယူနီကုဒ်ဖြင့် ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "رَجَعْتَ إِلَى اللَّهِ",
+              "answer_en": "You returned to Allah",
+              "answer_my": "သင်သည် အလ္လာဟ်အရှင်မြတ်ထံ ပြန်လည်ရောက်ရှိခဲ့သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Conjugate 'Kharaja' for 'She'",
+          "instruction_my": "'Kharaja' ကို 'သူမ' အတွက် ပြောင်းလဲပါ",
+          "questions": [
+            {
+              "q": "خَرَجَ",
+              "answer_en": "kharajat",
+              "answer_my": "ခရဂျသ်",
+              "ar": "خَرَجَتْ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Language structure reflects divine order. The shift from He (Allah) to You (Believer) to I (Humanity) in the Quranic dialogue builds a bridge of intimacy and responsibility.",
+        "my": "ဘာသာစကားတည်ဆောက်ပုံဟာ အရှင်မြတ်ရဲ့ အစီအမံကို ထင်ဟပ်နေပါတယ်။ ကုရ်အာန်ထဲက 'သူ'၊ 'သင်'၊ 'ကျွန်ုပ်' ဆိုတဲ့ ပြောဆိုမှုတွေဟာ အရှင်မြတ်နဲ့ ကျွန်ကြားက ရင်းနှီးမှုနဲ့ တာဝန်ယူမှုကို တည်ဆောက်ပေးပါတယ်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Maryam 19:30",
+        "study_number": 1,
+        "arabic_full": "قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا",
+        "en_sahih": "[Jesus] said, 'Indeed, I am the servant of Allah. He has given me the Scripture and made me a prophet.'",
+        "my_mmsy": "ထိုကလေးက ပြောဆိုသည်- အမှန်စင်စစ် ကျွန်ုပ်သည် အလ္လာဟ်အရှင်မြတ်၏ကျွန်ဖြစ်သည်။  အရှင်မြတ်သည် ကျွန်ုပ်အား(အင်ဂျီလ်)ကျမ်းဂန်ကို ပေးသနားတော်မူခဲ့သည်။  ထို့ပြင် အရှင်မြတ်သည် ကျွန်ုပ်အား တမန်တော်အဖြစ်လည်း ပြုလုပ်တော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 19,
+          "ayah": 30,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/019030.mp3"
+        },
+        "qurancom_url": "https://quran.com/19/30",
+        "context": {
+          "en": "The infant Prophet Isa (Jesus) speaks from the cradle to defend his mother Maryam and declare his mission.",
+          "my": "ပုခက်ထဲက တမန်တော်အီစာ (အလိုင်ဟစ္စလာမ်) ဟာ သူ့ရဲ့မိခင် မရ်ယမ်ကို ကာကွယ်ဖို့နဲ့ သူ့ရဲ့ တာဝန်ကို ကြေညာဖို့ စကားပြောခဲ့ပါတယ်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "قَالَ",
+            "translit": "qāla",
+            "en": "he said",
+            "my": "သူပြောခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "က ဝ လ",
+            "freq": 529
+          },
+          {
+            "ar": "جَعَلَنِي",
+            "translit": "ja'alanī",
+            "en": "he made me",
+            "my": "သူကျွန်ုပ်ကို ပြုလုပ်ခဲ့သည်",
+            "role_en": "Verb + Object",
+            "role_my": "ကြိယာ + ကံ",
+            "root": "ဂျ အ လ",
+            "freq": 340
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb 'qala' and 'ja'ala' both use the masculine singular base form.",
+          "structure_my": "'ကာလ' နဲ့ 'ဂျအလ' နှစ်ခုလုံးဟာ ပုလိင်အနည်းကိန်း အခြေခံပုံစံကို သုံးထားပါတယ်။",
+          "insight_en": "Even though it refers to a baby, the grammar uses the standard masculine 'He' form.",
+          "insight_my": "ကလေးငယ်တစ်ဦးကို ရည်ညွှန်းပေမယ့် သဒ္ဒါအရ စံသတ်မှတ်ချက် ပုလိင် 'သူ' ပုံစံကိုပဲ သုံးပါတယ်။"
+        },
+        "root_depth": [
+          {
+            "root": "ဂျ အ လ",
+            "concept_en": "To appoint or to transform someone into a role.",
+            "concept_my": "တစ်စုံတစ်ဦးကို တာဝန်တစ်ခုမှာ ခန့်အပ်ခြင်း သို့မဟုတ် အသွင်ပြောင်းလဲပေးခြင်း။",
+            "members": [
+              {
+                "ar": "جَعْل",
+                "en": "making",
+                "my": "ပြုလုပ်ခြင်း",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Here 'Ja'ala' implies a divine appointment of prophethood."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ပုခက်ထဲက ကလေးငယ်တစ်ဦးရဲ့ ပထမဆုံးစကားဟာ 'ကျွန်ုပ်ဟာ အလ္လာဟ်အရှင်မြတ်ရဲ့ ကျွန်ဖြစ်ပါတယ်' လို့ ဖြစ်ပါတယ်။ 'ကာလ' (သူပြောခဲ့သည်) ဆိုတဲ့ စကားလုံးကနေတစ်ဆင့် အံ့သြဖွယ်ကောင်းတဲ့ ဒီတန်ခိုးတော်ကို ကျွန်ုပ်တို့ တွေ့မြင်နိုင်ပါတယ်။ ကျွန်ုပ်တို့လည်း အရှင်မြတ်ရဲ့ ကျွန်အဖြစ် အမြဲဝန်ခံနေထိုင်ကြပါစို့။"
+        },
+        "memorization_helper": {
+          "rhythm": "Qala inni 'abdullahi ataniyal-kitab.",
+          "meaning_anchor": "A small baby speaking wisdom to a confused crowd.",
+          "daily_connection": "Reminds us that Allah can make anyone speak the truth.",
+          "my": "ကလေးငယ်တစ်ဦးရဲ့ အံ့သြဖွယ် စကားပြောဆိုမှုကို ဒီပုံစံနဲ့ မှတ်သားပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Qasas 28:79",
+        "study_number": 2,
+        "arabic_full": "فَخَرَجَ عَلَىٰ قَوْمِهِ فِي زِينَتِهِ",
+        "en_sahih": "So he came out before his people in his adornment.",
+        "my_mmsy": "ထို့နောက် သူသည် သူ၏အမျိုးသားများရှေ့၌ သူ၏အခမ်းအနားနှင့်တကွ ထွက်ခဲ့သည်။ ဤဘဝကို အလိုရှိသူများက (ဤသို့)ပြောဆိုခဲ့ကြသည်- “သြော်- ကာရူန်ရရှိခဲ့သော ပစ္စည်းဥစ္စာများသည် ကျွန်ုပ်တို့တွင်လည်း ရှိခဲ့လျှင် ကောင်းလေစွ၊ အမှန်စင်စစ် သူသည် ကြီးကျယ်သော နဖူးစာဝေစုကို ပိုင်ဆိုင်သူဖြစ်သည်။“",
+        "audio_ref": {
+          "surah": 28,
+          "ayah": 79,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/028079.mp3"
+        },
+        "qurancom_url": "https://quran.com/28/79",
+        "context": {
+          "en": "The wealthy Qarun shows off his riches to his people, pridefully displaying his worldly success.",
+          "my": "ကြွယ်ဝချမ်းသာတဲ့ ကာရူန်ဟာ သူ့ရဲ့စည်းစိမ်ဥစ္စာတွေကို လူတွေရှေ့မှာ မာနတထောင်နဲ့ ထုတ်ဖော်ပြသခဲ့တဲ့ အကြောင်း ဖြစ်ပါတယ်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "خَرَجَ",
+            "translit": "kharaja",
+            "en": "he came out",
+            "my": "သူထွက်လာခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ခ ရ ဂျ",
+            "freq": 180
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb 'kharaja' is in the base past tense form.",
+          "structure_my": "'ခရဂျ' ဆိုတဲ့ ကြိယာဟာ အခြေခံအတိတ်ကာလပုံစံမှာ ရှိပါတယ်။",
+          "insight_en": "The simplicity of the verb 'kharaja' contrasts with the complexity and vanity of Qarun's adornment.",
+          "insight_my": "'ခရဂျ' ဆိုတဲ့ ရိုးရှင်းတဲ့ ကြိယာဟာ ကာရူန်ရဲ့ ခမ်းနားထည်ဝါမှုတွေနဲ့ ဆန့်ကျင်ဘက် ဖြစ်နေပါတယ်။"
+        },
+        "root_depth": [
+          {
+            "root": "ခ ရ ဂျ",
+            "concept_en": "To go out, to emerge, or to deviate from a path.",
+            "concept_my": "အပြင်သို့ထွက်ခြင်း၊ ပေါ်ထွက်လာခြင်း သို့မဟုတ် လမ်းကြောင်းမှ သွေဖည်သွားခြင်း။",
+            "members": [
+              {
+                "ar": "خُرُوج",
+                "en": "exit",
+                "my": "ထွက်ခွာမှု",
+                "freq": 0
+              }
+            ],
+            "professors_note": "A 'Khariji' is one who 'exits' the mainstream community."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကာရူန်ဟာ လူတွေရှေ့ကို ခမ်းနားစွာ ထွက်လာခဲ့ပေမယ့် (ခရဂျ)၊ သူ့ရဲ့အဆုံးသတ်ကတော့ မြေမြှုပ်ခံရခြင်းပဲ ဖြစ်ပါတယ်။ ကျွန်ုပ်တို့လည်း လူတွေရှေ့ကို ထွက်လာတဲ့အခါ ဂုဏ်ပကာသနထက် နှိမ့်ချတဲ့စိတ်ထားနဲ့ ထွက်လာဖို့ ဒီအာယသ်က သတိပေးနေပါတယ်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Fa-kharaja 'ala qawmihi fi zinatihi.",
+          "meaning_anchor": "A man in grand clothes walking out to a crowd.",
+          "daily_connection": "Used when thinking about true vs false success.",
+          "my": "လူတွေရှေ့ကို ဂုဏ်မောက်စွာ ထွက်လာသူရဲ့ အကြောင်းကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this final lesson of the past tense singular series, we reviewed the full conjugation table. We used verbs like 'Kharaja' and 'Qala' to see how history is told through these patterns. You now have the tools to identify the subject of any singular past action in the Quran.",
+      "my": "အတိတ်ကာလ အနည်းကိန်း အစီအစဉ်ရဲ့ နောက်ဆုံးသင်ခန်းစာမှာ ကျွန်ုပ်တို့ဟာ ကြိယာပြောင်းလဲမှုဇယားတစ်ခုလုံးကို ပြန်လည်သုံးသပ်ခဲ့ပါတယ်။ 'ခရဂျ' နဲ့ 'ကာလ' တို့လို ကြိယာတွေကို သုံးပြီး သမိုင်းကြောင်းတွေကို ဒီပုံစံတွေနဲ့ ဘယ်လိုပြောပြသလဲဆိုတာကို လေ့လာခဲ့ပါတယ်။ အခုဆိုရင် သင်ဟာ ကုရ်အာန်ထဲက အနည်းကိန်း အတိတ်လုပ်ဆောင်ချက်တွေရဲ့ ကတ္တားကို ခွဲခြားနိုင်တဲ့ စွမ်းရည် ရရှိသွားပြီ ဖြစ်ပါတယ်။"
+    }
+  }
+]

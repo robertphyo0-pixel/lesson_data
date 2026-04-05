@@ -1,0 +1,2087 @@
+[
+  {
+    "lesson_id": "L2-061",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 61,
+    "title": {
+      "ar": "الْفِعْلُ الْمُضَارِعُ (١) — يَفْعَلُ",
+      "en": "Present Tense I — 'He does' (Yaf'alu)",
+      "my": "ပစ္စုပ္ပန်ကာလကြိယာ (၁) — သူပြုလုပ်သည် (ယဖ်အလ်)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Mudāri' pattern Ya- prefix; 3rd person masculine singular",
+      "grammar_formula": "يَـ + Root = He [is doing]"
+    },
+    "section_1_vocab": [
+      {
+        "word": "يَعْلَمُ",
+        "translit": "ya'lamu",
+        "en": "he knows",
+        "my": "သူသိရှိသည်",
+        "quran_freq": 718,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلُ",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "knowledge and marking",
+          "concept_my": "အသိပညာနှင့် အမှတ်အသား"
+        },
+        "memory_hook": {
+          "sound": "Alarm",
+          "image": "An alarm goes off when he knows the truth",
+          "cross_language": "Alim (Scholar) in Myanmar Muslim usage"
+        },
+        "word_family": [
+          {
+            "ar": "عَالِم",
+            "translit": "alim",
+            "en": "scholar",
+            "my": "ပညာရှင်",
+            "freq": 13
+          }
+        ],
+        "pattern_unlock": "The 'Ya' prefix signals a present or future action performed by 'He'.",
+        "example": {
+          "ar": "وَاللَّهُ يَعْلَمُ",
+          "en": "And Allah knows",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် သိရှိတော်မူ၏",
+          "ref": "2:197"
+        }
+      },
+      {
+        "word": "يَعْمَلُ",
+        "translit": "ya'malu",
+        "en": "he works",
+        "my": "သူအလုပ်လုပ်သည်/ပြုမူသည်",
+        "quran_freq": 318,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلُ",
+        "root": {
+          "letters": "ع م ل",
+          "concept_en": "action and labor",
+          "concept_my": "လုပ်ဆောင်မှုနှင့် လုပ်အား"
+        },
+        "memory_hook": {
+          "sound": "Amal",
+          "image": "He is doing his Amal (deeds)",
+          "cross_language": "Amal (good deeds) in Myanmar contexts"
+        },
+        "word_family": [
+          {
+            "ar": "عَمَل",
+            "translit": "amal",
+            "en": "deed",
+            "my": "အပြုအမူ",
+            "freq": 360
+          }
+        ],
+        "pattern_unlock": "Root letters paired with 'Ya' create the verb of doing.",
+        "example": {
+          "ar": "يَعْمَلْ سُوءًا",
+          "en": "he does an evil",
+          "my": "သူသည် မကောင်းမှုကို ပြုမူ၏",
+          "ref": "4:123"
+        }
+      },
+      {
+        "word": "يَشْعُرُ",
+        "translit": "yash'uru",
+        "en": "he perceives",
+        "my": "သူခံစားသိရှိသည်",
+        "quran_freq": 28,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعُلُ",
+        "root": {
+          "letters": "ش ع ر",
+          "concept_en": "perception and hair-thin awareness",
+          "concept_my": "သိမ်မွေ့စွာခံစားသိရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sure",
+          "image": "He is sure because he perceives it",
+          "cross_language": "Sha'ir (poet) - one who perceives beauty"
+        },
+        "word_family": [
+          {
+            "ar": "شُعُور",
+            "translit": "shu'ur",
+            "en": "consciousness",
+            "my": "အသိစိတ်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The middle vowel can change (a/i/u), but the 'Ya' remains constant for 'He'.",
+        "example": {
+          "ar": "وَمَا يَشْعُرُونَ",
+          "en": "and they do not perceive",
+          "my": "သူတို့သည် မသိနားမလည်ကြကုန်",
+          "ref": "2:9"
+        }
+      },
+      {
+        "word": "يَخْلُقُ",
+        "translit": "yakhluqu",
+        "en": "he creates",
+        "my": "သူဖန်ဆင်းသည်",
+        "quran_freq": 52,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعُلُ",
+        "root": {
+          "letters": "خ ل ق",
+          "concept_en": "creation and measurement",
+          "concept_my": "ဖန်ဆင်းခြင်းနှင့် တိုင်းတာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Clock",
+          "image": "He creates a clock from nothing",
+          "cross_language": "Khaliq (Creator)"
+        },
+        "word_family": [
+          {
+            "ar": "خَلْق",
+            "translit": "khalq",
+            "en": "creation",
+            "my": "ဖန်ဆင်းမှု",
+            "freq": 170
+          }
+        ],
+        "pattern_unlock": "Verbs starting with 'Ya' often describe Allah's ongoing actions in the Quran.",
+        "example": {
+          "ar": "يَخْلُقُ مَا يَشَاءُ",
+          "en": "He creates what He wills",
+          "my": "ကိုယ်တော်သည် အလိုရှိရာကို ဖန်ဆင်းတော်မူ၏",
+          "ref": "5:17"
+        }
+      },
+      {
+        "word": "يَنْصُرُ",
+        "translit": "yansuru",
+        "en": "he helps",
+        "my": "သူကူညီသည်",
+        "quran_freq": 35,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعُلُ",
+        "root": {
+          "letters": "ن ص ر",
+          "concept_en": "victory and assistance",
+          "concept_my": "အောင်မြင်မှုနှင့် အကူအညီ"
+        },
+        "memory_hook": {
+          "sound": "Answer",
+          "image": "He answers the call for help",
+          "cross_language": "Nasr (Help/Victory)"
+        },
+        "word_family": [
+          {
+            "ar": "نَصْر",
+            "translit": "nasr",
+            "en": "help",
+            "my": "အကူအညီ",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Look for the Ya- prefix to identify the 'doer' as a 3rd person male.",
+        "example": {
+          "ar": "يَنْصُرُ مَنْ يَشَاءُ",
+          "en": "He helps whom He wills",
+          "my": "ကိုယ်တော်သည် အလိုရှိသူကို ကူညီတော်မူ၏",
+          "ref": "30:5"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْفِعْلُ الْمُضَارِعُ (لِلْمُذَكَّرِ الْغَائِبِ)",
+        "en": "Present Tense (3rd Person Masculine)",
+        "my": "ပစ္စုပ္ပန်ကာလကြိယာ (တတိယပုဂ္ဂိုလ်၊ အနည်းကိန်း၊ ပုလိင်)"
+      },
+      "formula": {
+        "display": "يَـ + (Root Letters) + ـُ",
+        "example": "يَـ + كـتـب = يَكْتُبُ (He writes)",
+        "myanmar_read": "ကြိယာ၏အစတွင် 'ယ' (Ya) ကို ပေါင်းထည့်ခြင်းဖြင့် 'သူ (ယောက်ျား) သည် ပြုလုပ်နေသည်/ပြုလုပ်လိမ့်မည်' ဟု အဓိပ္ပာယ်ရပါသည်။",
+        "key_insight": "The 'Ya' prefix is the key to identifying the 'He' subject in present actions."
+      },
+      "explanation": {
+        "en": "The Mudari' (Present Tense) describes actions happening now or in the future. To form it for 'He', we add a Ya- prefix and usually a Dhamma at the end. Unlike English, the 'he' is built directly into the verb.",
+        "my": "Mudari (ပစ္စုပ္ပန်ကာလကြိယာ) သည် လက်ရှိဖြစ်ပျက်နေသော သို့မဟုတ် နောင်တွင်ဖြစ်ပျက်မည့် အပြုအမူများကို ဖော်ပြသည်။ 'သူ' ဟုဖော်ပြရန် ကြိယာ၏အရှေ့တွင် 'Ya' ကိုပေါင်းထည့်ပြီး အဆုံးတွင် 'Dhamma' (Zamma) တင်ရသည်။ အင်္ဂလိပ်စာနှင့်မတူဘဲ အာရဗီတွင် 'သူ' ဟူသော နာမ်စားသည် ကြိယာထဲ၌ပင် တစ်ပါတည်းပါဝင်နေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we add suffixes like 'နေသည်' or 'မည်'. In Arabic, we change both the prefix and the suffix of the root.",
+        "my": "မြန်မာစာတွင် 'နေသည်' သို့မဟုတ် 'မည်' စသည့် နောက်ဆက်တွဲများဖြင့် ကာလကိုဖော်ပြသော်လည်း၊ အာရဗီတွင် အရှေ့ဆက် (Prefix) နှင့် အနောက်ဆက် (Suffix) နှစ်ခုလုံးကို အသုံးပြုပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Start with 'Ya' with a Fatha (يَـ).",
+          "rule_my": "အစတွင် Fatha ပါသော 'Ya' (ယ) ဖြင့်စတင်ပါ။",
+          "example": {
+            "ar": "يَعْمَلُ",
+            "en": "He works",
+            "my": "သူအလုပ်လုပ်သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation",
+          "ar": "وَاللَّهُ يَعْلَمُ مَا تُسِرُّونَ",
+          "en": "And Allah knows what you conceal",
+          "my": "ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ လျှို့ဝှက်ထားကြသောအရာများနှင့် အသင်တို့ ထင်ရှားစေကြသောအကြောင်းကိစ္စများကို သိရှိတော်မူသည်။",
+          "ref": "16:19",
+          "breakdown": {
+            "subject": {
+              "word": "الله",
+              "en": "Allah",
+              "note": "The Doer"
+            },
+            "predicate": {
+              "word": "يَعْلَمُ",
+              "en": "He knows",
+              "note": "Present verb"
+            }
+          },
+          "myanmar_insight": "အလ္လာဟ်အရှင်မြတ်၏ အစဉ်ထာဝရသိရှိမှုကို 'ယဖ်အလ်' ပုံစံဖြင့် ဖော်ပြထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing Past and Present",
+          "wrong": {
+            "ar": "يَعَلِمَ",
+            "note": "Incorrect vowels"
+          },
+          "correct": {
+            "ar": "يَعْلَمُ",
+            "en": "He knows",
+            "my": "သူသိရှိသည်"
+          },
+          "myanmar_tip": "ပစ္စုပ္ပန်ကာလတွင် 'ယ' ဖြင့်စပြီး 'အု' (Dhamma) ဖြင့် ဆုံးရမည်ကို မှတ်ထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the 'He' present tense verb",
+          "instruction_my": "တတိယပုဂ္ဂိုလ် ပစ္စုပ္ပန်ကာလကြိယာကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "يَخْلُقُ اللَّهُ",
+              "answer_en": "yakhluqu (He creates)",
+              "answer_my": "yakhluqu (သူဖန်ဆင်းသည်)",
+              "ref": "24:45"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "يَنْصُرُ اللَّهُ",
+              "answer_en": "Allah helps",
+              "answer_my": "အလ္လာဟ်အရှင်မြတ် ကူညီတော်မူသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the verb for 'He' using root ش-ع-ရ",
+          "instruction_my": "အောက်ပါ မူရင်းအက္ခရာများဖြင့် 'သူ' အတွက် ကြိယာတည်ဆောက်ပါ",
+          "questions": [
+            {
+              "q": "ش ع ر",
+              "answer_en": "yash'uru",
+              "answer_my": "yash'uru",
+              "ar": "يَشْعُرُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The present tense reflects Allah's continuous attribute—He is always knowing and always creating, without pause.",
+        "my": "ပစ္စုပ္ပန်ကာလကြိယာသည် အလ္လာဟ်အရှင်မြတ်၏ အစဉ်အမြဲရှိနေသော ဂုဏ်တော်များကို ဖော်ပြသည်။ ကိုယ်တော်သည် အမြဲတစေ သိရှိနေသူ၊ အမြဲတစေ ဖန်ဆင်းနေသူ ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:197",
+        "study_number": 1,
+        "arabic_full": "وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ",
+        "en_sahih": "And whatever good you do - Allah knows it.",
+        "my_mmsy": "ဟဂျ်(၏အချိန်)သည် သတ်မှတ်သိရှိပြီးဖြစ်သည့်လများပင်ဖြစ်သည်။  သို့ဖြစ်ရာ အကြင်သူသည် ထိုလများ၌ ဟဂျ်ပြုလုပ်ရန် သတ်မှတ်ခဲ့လျှင် ထိုသူသည် ဟဂျ်(ပြုလုပ်ရန် အိဟ်ရာမ်ရုံထားစဉ်)အတွင်း၌ ကာမ(ဆက်ဆံမှုမပြုရ သည့်အပြင် ၎င်းနှင့်ဆိုင်သည့်) ညစ်ညမ်းသောစကားကိုပင် မပြောရပေ၊ အပြစ်ကျူးလွန်မှုလည်း မပြုလုပ်ရပေ၊ ခိုက်ရန်ဖြစ်ပွားမှုကိုလည်း မပြုရပေ။ ထို့ပြင် အသင်တို့ပြုလုပ်ကြသည့် မည်သည့်ကောင်းမှုကိုမဆို အလ္လာဟ်အရှင်မြတ်သိရှိတော်မူသည်။ ထို့ပြင် အသင်တို့သည် ခရီးစရိတ် ယူဆောင်သွားကြပါ၊ ထို့ပြင် အမှန်စင်စစ် အကောင်းဆုံးခရီးစရိတ်သည် သက္ကဝါရှောင်ကြဉ်ခြင်းပင်ဖြစ်သည်။  သို့ဖြစ်ရာ အို-ဉာဏ်ရှိသူအပေါင်းတို့၊ အသင်တို့သည် ငါအရှင်မြတ်အား (မနာခံခြင်းကနေ) ကြောက်ရွံ့ကြပါ။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 197,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002197.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/197",
+        "context": {
+          "en": "Context of Hajj; reminding believers that even hidden good deeds are known to Allah.",
+          "my": "ဟဂ်ျကာလ အကြောင်းအရာဖြစ်သည်။ မိမိတို့ပြုသမျှ ကောင်းမှုများကို အလ္လာဟ်အရှင်မြတ် သိရှိကြောင်း သတိပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "يَعْلَمْهُ",
+            "translit": "ya'lam-hu",
+            "en": "He knows it",
+            "my": "ကိုယ်တော်သည် ၎င်းကိုသိရှိသည်",
+            "role_en": "Verb + Object",
+            "role_my": "ကြိယာ + နာမ်စား",
+            "root": "ع ل م",
+            "freq": 718
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Root ع-ل-မ with Ya- prefix shows Allah's immediate knowledge.",
+          "structure_my": "မူရင်းအက္ခရာ ع-လ-မ နှင့် ယ- အရှေ့ဆက်က အလ္လာဟ်အရှင်မြတ်၏ ချက်ချင်းသိရှိမှုကို ပြသည်။",
+          "insight_en": "The word ends in a sukun here because it's a response to a condition, but the 'Ya' remains the key marker for 'He'.",
+          "insight_my": "ဤနေရာတွင် အဆုံးသတ်တွင် Sukun ဖြစ်နေသော်လည်း 'Ya' သည် 'ကိုယ်တော်' (He) ကို ရည်ညွှန်းနေဆဲဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ل م",
+            "concept_en": "To mark something so it is distinct from others; hence, to know a thing with certainty.",
+            "concept_my": "အရာဝတ္ထုတစ်ခုကို အခြားတစ်ခုနှင့် ခွဲခြားသိမြင်စေရန် မှတ်သားခြင်း၊ ထို့ကြောင့် သေချာစွာသိရှိခြင်း။",
+            "members": [
+              {
+                "ar": "عَلِيم",
+                "en": "All-Knowing",
+                "my": "အရာခပ်သိမ်းသိရှိတော်မူသောရှင်",
+                "freq": 150
+              }
+            ],
+            "professors_note": "Knowledge in Quran is always linked to action and responsibility."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ လူသူမသိဘဲ ပြုလုပ်လိုက်သော ကောင်းမှုလေးတစ်ခုကိုပင် အလ္လာဟ်အရှင်မြတ်သည် 'ယအ်လမ်' (သိရှိတော်မူသည်)။ ဤအချက်သည် မွတ်စလင်မ်တစ်ဦးအတွက် အကြီးမားဆုံးသော စိတ်သက်သာရာရမှု ဖြစ်သည်။ မည်သူမျှ မသိသော်လည်း ဖန်ဆင်းရှင်က သိနေသည်ဆိုသောအသိက ကောင်းမှုကို ဆက်လက်ပြုလုပ်ရန် ခွန်အားပေးသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The flow of 'ya'lam-hu' is quick and definitive.",
+          "meaning_anchor": "Imagine an eye that sees through every darkness.",
+          "daily_connection": "Recite this when you feel unappreciated for a good deed.",
+          "my": "ကောင်းမှုတစ်ခုပြုပြီးနောက် မည်သူမှအသိအမှတ်မပြုလျှင် ဤအာယသ်တော်ကို သတိရပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Mulk 67:2",
+        "study_number": 2,
+        "arabic_full": "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا",
+        "en_sahih": "[He] who created death and life to test you [as to] which of you is best in deed.",
+        "my_mmsy": "(၂) ထိုအရှင်မြတ်သည် အသင်တို့ထဲမှ မည်သူသည်လုပ်ရပ်အနေနှင့် အကောင်းဆုံးဖြစ်သည်ကို အသင်တို့အား စမ်းသပ်တော်မူရန်အတွက် သေခြင်းနှင့် ရှင်ခြင်းကို ဖန်ဆင်းတော် မူခဲ့သည်။ ထို့ပြင် အရှင်မြတ်သည် တန်ခိုးတော်နှင့် အလွန်လွှမ်းမိုးတော်မူသောအရှင်၊ အလွန်လွတ်ငြိမ်းချမ်းသာခွင့်ပေးတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 67,
+          "ayah": 2,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/067002.mp3"
+        },
+        "qurancom_url": "https://quran.com/67/2",
+        "context": {
+          "en": "Sovereignty of Allah and the purpose of existence.",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ အချုပ်အခြာအာဏာနှင့် လူသားတို့ဖန်ဆင်းခံရခြင်း၏ ရည်ရွယ်ချက်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "عَمَلًا",
+            "translit": "amalan",
+            "en": "in deed",
+            "my": "အပြုအမူ၌",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "ع م ل",
+            "freq": 360
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Focus on the noun form of 'Amal' which shares the root with 'Ya'malu'.",
+          "structure_my": "'Amal' ဟူသောနာမ်သည် 'Ya'malu' နှင့် မူရင်းအက္ခရာတူကြောင်း လေ့လာပါ။",
+          "insight_en": "Life and death are created systems to measure human actions.",
+          "insight_my": "ဘဝနှင့်သေခြင်းသည် လူသားတို့၏ လုပ်ဆောင်ချက်များကို စမ်းသပ်ရန် စနစ်များဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع م ل",
+            "concept_en": "Intentional action; work with a purpose.",
+            "concept_my": "ရည်ရွယ်ချက်ရှိရှိ လုပ်ဆောင်မှု။",
+            "members": [
+              {
+                "ar": "عَامِل",
+                "en": "worker",
+                "my": "လုပ်ဆောင်သူ",
+                "freq": 5
+              }
+            ],
+            "professors_note": "'Amal' implies more than just moving; it is moving with an intention."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ ဘဝသက်တမ်းသည် 'အမလ်' (အပြုအမူ) ကောင်းများ ပြုလုပ်ရန်အတွက်သာ ဖြစ်သည်။ 'ယအ်မလ်' (သူပြုလုပ်သည်) ဟူသော ကြိယာကို သင်ယူခြင်းဖြင့် ကျွန်ုပ်တို့ကိုယ်တိုင်၏ အပြုအမူများကို အလ္လာဟ်အရှင်မြတ်ထံ ဆက်ကပ်နိုင်ရန် ကြိုးစားသင့်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Strong emphasis on 'Ahsanu Amalan'.",
+          "meaning_anchor": "A scale weighing your daily actions.",
+          "daily_connection": "Relevant every morning when starting a new day of work.",
+          "my": "နံနက်ခင်းတိုင်းတွင် မိမိ၏အလုပ်များကို အကောင်းဆုံးဖြစ်အောင် ပြုလုပ်မည်ဟု ရည်ရွယ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we identified the 3rd person masculine singular present tense verb, characterized by the 'Ya-' prefix. We saw how this pattern is used in the Quran to describe Allah's actions and human deeds. Mastering this prefix is the first step in understanding thousands of Quranic verbs.",
+      "my": "ဤသင်ခန်းစာတွင် 'ယ' (Ya-) အရှေ့ဆက်ဖြင့်စသော တတိယပုဂ္ဂိုလ် ပစ္စုပ္ပန်ကာလကြိယာကို လေ့လာခဲ့သည်။ အလ္လာဟ်အရှင်မြတ်၏ အပြုအမူများနှင့် လူသားတို့၏ လုပ်ဆောင်ချက်များကို ဖော်ပြရာတွင် ဤပုံစံကို မည်သို့အသုံးပြုကြောင်း တွေ့ရှိခဲ့ရသည်။ ဤအရှေ့ဆက်ကို ကျွမ်းကျင်ခြင်းသည် ကုရ်အာန်ပါ ကြိယာထောင်ပေါင်းများစွာကို နားလည်ရန် ပထမခြေလှမ်းဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-062",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 62,
+    "title": {
+      "ar": "الْفِعْلُ الْمُضَارِعُ (٢) — تَفْعَلُ",
+      "en": "Present Tense II — 'She does' / 'You do'",
+      "my": "ပစ္စုပ္ပန်ကာလကြိယာ (၂) — သူမပြုလုပ်သည် / သင်ပြုလုပ်သည် (သဖ်အလ်)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Ta- prefix for 3rd feminine singular and 2nd masculine singular",
+      "grammar_formula": "تَـ + Root = She [is doing] / You (m) [are doing]"
+    },
+    "section_1_vocab": [
+      {
+        "word": "تَقُولُ",
+        "translit": "taqūlu",
+        "en": "she says / you say",
+        "my": "သူမပြောသည် / သင်ပြောသည်",
+        "quran_freq": 1600,
+        "word_type": "Verb",
+        "gender": "Feminine/Masculine",
+        "wazn": "تَفْعُلُ",
+        "root": {
+          "letters": "ق و ل",
+          "concept_en": "speech and saying",
+          "concept_my": "စကားပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Talk",
+          "image": "She talks with the Ta- sound",
+          "cross_language": "Qawl (Word/Saying)"
+        },
+        "word_family": [
+          {
+            "ar": "قَالَ",
+            "translit": "qala",
+            "en": "he said",
+            "my": "သူပြောခဲ့သည်",
+            "freq": 1713
+          }
+        ],
+        "pattern_unlock": "The 'Ta' prefix serves a double role in Quranic Arabic: 'She' and 'You'.",
+        "example": {
+          "ar": "تَقُولُ نَفْسٌ",
+          "en": "a soul will say",
+          "my": "ဝိညာဉ်တစ်ခုက ပြောလိမ့်မည်",
+          "ref": "39:56"
+        }
+      },
+      {
+        "word": "تَعْلَمُ",
+        "translit": "ta'lamu",
+        "en": "you know / she knows",
+        "my": "သင်သိသည် / သူမသိသည်",
+        "quran_freq": 718,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "تَفْعَلُ",
+        "root": {
+          "letters": "ع ل m",
+          "concept_en": "knowledge",
+          "concept_my": "အသိပညာ"
+        },
+        "memory_hook": {
+          "sound": "Talent",
+          "image": "You have the talent to know",
+          "cross_language": "Ta'lim (Education)"
+        },
+        "word_family": [
+          {
+            "ar": "تَعْلِيم",
+            "translit": "ta'lim",
+            "en": "teaching",
+            "my": "သင်ကြားခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "When addressing a male person directly, always use the 'Ta' prefix.",
+        "example": {
+          "ar": "تَعْلَمُ مَا فِي نَفْسِي",
+          "en": "You know what is within myself",
+          "my": "ကျွန်ုပ်၏ စိတ်နှလုံးထဲ၌ရှိသောအရာကို ကိုယ်တော်သိရှိတော်မူ၏",
+          "ref": "5:116"
+        }
+      },
+      {
+        "word": "تَخَافُ",
+        "translit": "takhāfu",
+        "en": "you fear / she fears",
+        "my": "သင်ကြောက်ရွံ့သည်",
+        "quran_freq": 124,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "تَفْعَلُ",
+        "root": {
+          "letters": "خ و ف",
+          "concept_en": "fear and danger",
+          "concept_my": "ကြောက်ရွံ့ခြင်းနှင့် အန္တရာယ်"
+        },
+        "memory_hook": {
+          "sound": "Takeoff",
+          "image": "You fear the takeoff",
+          "cross_language": "Khawf (Fear)"
+        },
+        "word_family": [
+          {
+            "ar": "خَوْف",
+            "translit": "khawf",
+            "en": "fear",
+            "my": "ကြောက်ရွံ့ခြင်း",
+            "freq": 28
+          }
+        ],
+        "pattern_unlock": "Roots with 'Waw' or 'Ya' in the middle change slightly but keep the 'Ta'.",
+        "example": {
+          "ar": "لَا تَخَافُ",
+          "en": "You do not fear",
+          "my": "သင် မကြောက်ရွံ့ပါနှင့်",
+          "ref": "20:68"
+        }
+      },
+      {
+        "word": "تَعْبُدُ",
+        "translit": "ta'budu",
+        "en": "you worship / she worships",
+        "my": "သင်ခစားကိုးကွယ်သည်",
+        "quran_freq": 143,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "تَفْعُلُ",
+        "root": {
+          "letters": "ع ب د",
+          "concept_en": "slavery and worship",
+          "concept_my": "ကျွန်အဖြစ်အမှုထမ်းခြင်းနှင့် ကိုးကွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Abbot",
+          "image": "You worship like an abbot",
+          "cross_language": "Ibadah (Worship)"
+        },
+        "word_family": [
+          {
+            "ar": "عَبْد",
+            "translit": "abd",
+            "en": "slave",
+            "my": "ကျွန်",
+            "freq": 150
+          }
+        ],
+        "pattern_unlock": "The 'Ta' connects the action directly to 'You'.",
+        "example": {
+          "ar": "مَا تَعْبُدُونَ",
+          "en": "what you worship",
+          "my": "သင်တို့ ကိုးကွယ်သောအရာ",
+          "ref": "109:2"
+        }
+      },
+      {
+        "word": "تَشْكُرُ",
+        "translit": "tashkuru",
+        "en": "you give thanks",
+        "my": "သင်ကျေးဇူးတင်သည်",
+        "quran_freq": 75,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "تَفْعُلُ",
+        "root": {
+          "letters": "ش ك ر",
+          "concept_en": "gratitude and growth",
+          "concept_my": "ကျေးဇူးတင်ခြင်းနှင့် တိုးပွားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sugar",
+          "image": "You give thanks for the sugar",
+          "cross_language": "Shukur (Thanks)"
+        },
+        "word_family": [
+          {
+            "ar": "شَاكِر",
+            "translit": "shakir",
+            "en": "grateful one",
+            "my": "ကျေးဇူးသိသူ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Most direct addresses in the Quran use this 'Ta' prefix.",
+        "example": {
+          "ar": "لَعَلَّكُمْ تَشْكُرُونَ",
+          "en": "perhaps you will be grateful",
+          "my": "သင်တို့ ကျေးဇူးသိတတ်ကြစေရန်",
+          "ref": "2:52"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمُضَارِعُ (لِلْمُخَاطَبِ وَالْمُؤَنَّثِ الْغَائِبَةِ)",
+        "en": "The Ta- Prefix (You / She)",
+        "my": "Ta- အရှေ့ဆက် (သင် / သူမ)"
+      },
+      "formula": {
+        "display": "تَـ + Root + ـُ",
+        "example": "تَـ + عـبـد = تَعْبُدُ (You worship)",
+        "myanmar_read": "ကြိယာ၏အစတွင် 'သ' (Ta) ကို ပေါင်းထည့်ခြင်းဖြင့် 'သင်' သို့မဟုတ် 'သူမ' ဟု အဓိပ္ပာယ်ရပါသည်။",
+        "key_insight": "Context determines if 'Ta-' means 'You' (facing someone) or 'She' (talking about a woman/soul)."
+      },
+      "explanation": {
+        "en": "The 'Ta-' prefix is used for two main subjects: 'You' (singular masculine) and 'She' (singular feminine). In the Quran, it often appears when Allah addresses the Prophet (PBUH) or humanity, and also when referring to the Soul (Nafs) which is feminine in Arabic.",
+        "my": "'Ta-' အရှေ့ဆက်ကို အဓိကအားဖြင့် နှစ်မျိုးအသုံးပြုသည်။ 'သင်' (ယောက်ျား) နှင့် 'သူမ' (မိန်းမ) တို့ဖြစ်သည်။ ကုရ်အာန်တွင် အလ္လာဟ်အရှင်မြတ်က တမန်တော်မြတ် သို့မဟုတ် လူသားတို့ကို တိုက်ရိုက်မိန့်ကြားရာတွင် လည်းကောင်း၊ အာရဗီဘာသာ၌ ဣတ္ထိလိင် (Feminine) ဖြစ်သော 'ဝိညာဉ်' (Nafs) အကြောင်း ပြောရာတွင်လည်းကောင်း အသုံးပြုသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar uses 'သင်' (you) or 'သူမ' (she) separately. Arabic uses one prefix 'Ta-' for both, relying on the sentence context.",
+        "my": "မြန်မာစာတွင် 'သင်' နှင့် 'သူမ' ကို သီးခြားစီ သုံးသော်လည်း၊ အာရဗီတွင် 'Ta-' တစ်ခုတည်းကိုသာ နှစ်မျိုးလုံးအတွက် သုံးပြီး ရှေ့နောက်စကားအဆက်အစပ်ဖြင့် ခွဲခြားရသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Use 'Ta' for direct masculine address.",
+          "rule_my": "တစ်ဦးတစ်ယောက်ကို တိုက်ရိုက်ပြောဆိုလျှင် 'Ta' ကိုသုံးပါ။",
+          "example": {
+            "ar": "تَعْلَمُ",
+            "en": "You know",
+            "my": "သင်သိသည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Use 'Ta' for feminine subjects like 'Nafs' (Soul).",
+          "rule_my": "'နဖ်စ်' (ဝိညာဉ်) ကဲ့သို့သော ဣတ္ထိလိင်နာမ်များအတွက် 'Ta' ကိုသုံးပါ။",
+          "example": {
+            "ar": "تَقُولُ نَفْسٌ",
+            "en": "A soul says",
+            "my": "ဝိညာဉ်တစ်ခုက ပြောသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Direct Address",
+          "ar": "قَالَ تَعْلَمُ مَا فِي نَفْسِي",
+          "en": "He said, 'You know what is within myself'",
+          "my": "တစ်ခါက အလ္လာဟ်အရှင်မြတ်သည် (ဤသို့)မိန့်ကြားတော်မူမည်- “အို- မရ်ယမ်၏သား အီစာ၊ အသင်သည် လူများအား အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်ဆန့်ကျင်၍ ကျွန်ုပ်နှင့်ကျွန်ုပ်၏မိခင်အား ကိုးကွယ်ထိုက်သည့်အရှင်နှစ်ပါးအဖြစ် ပြုုလုပ်ကြပါဟု ပြောကြားခဲ့သလော“။ ၎င်း(တမန်တော် အီစာ)က ပြောဆိုဖြေကြားမည်- “အရှင်မြတ်သည် သန့်ပြန့်စင်ကြယ်တော်မူပါသည်။ ကျွန်ုပ် မပြောထိုက်သောစကားကို ကျွန်ုပ်ပြောဆိုခွင့် လုံးဝ မရှိပါ။ အကယ်၍ ကျွန်ုပ်သည် ထိုစကားကို ပြောဆိုခဲ့လျှင် အရှင်မြတ်သည် ထိုပြောဆိုမှုကို အမှန်ပင် သိတော်မူပြီးဖြစ်ပါသည်။ အရှင်မြတ်သည် ကျွန်ုပ်၏စိတ်ထဲ၌ရှိသမျှကို သိရှိတော်မူပါသည်။ သို့ရာတွင် ကျွန်ုပ်သည် အရှင်မြတ်၏စိတ်ထဲရှိသည်ကို မသိပါ။ အမှန်စင်စစ် အရှင်မြတ်သည်သာ အကွယ်မှအရာအားလုံးကို အလွန်သိတော်မူသောအရှင် ဖြစ်တော်မူပါသည်။",
+          "ref": "5:116",
+          "breakdown": {
+            "subject": {
+              "word": "أنت",
+              "en": "You (Hidden)",
+              "note": "Refers to Allah"
+            },
+            "verb": {
+              "word": "تَعْلَمُ",
+              "en": "You know",
+              "note": "Address to God"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'Ta-' သည် အလ္လာဟ်အရှင်မြတ်အား တိုက်ရိုက်ရည်ညွှန်းနေခြင်းဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking 'Ta' is only for females",
+          "wrong": {
+            "ar": "تَعْبُدُ",
+            "note": "Thinking it ONLY means 'She'"
+          },
+          "correct": {
+            "ar": "تَعْبُدُ",
+            "en": "You (male) worship",
+            "my": "သင် (ယောက်ျား) ကိုးကွယ်သည်"
+          },
+          "myanmar_tip": "'Ta' သည် 'သင်' (You) အတွက် ကုရ်အာန်တွင် အလွန်အသုံးများကြောင်း သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify if 'Ta' means 'You' or 'She'",
+          "instruction_my": "'Ta' သည် 'သင်' လား 'သူမ' လား ခွဲခြားပါ။",
+          "questions": [
+            {
+              "q": "تَعْلَمُ مَا فِي نَفْسِي",
+              "answer_en": "You (Addressing Allah)",
+              "answer_my": "သင် (အလ္လာဟ်အား ရည်ညွှန်း)",
+              "ref": "5:116"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: 'You worship Allah'",
+          "instruction_my": "ဘာသာပြန်ပါ - 'သင် အလ္လာဟ်ကို ကိုးကွယ်သည်'",
+          "questions": [
+            {
+              "q": "تَعْبُدُ اللَّهَ",
+              "answer_en": "You worship Allah",
+              "answer_my": "သင် အလ္လာဟ်ကို ကိုးကွယ်သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Prefix 'Ta' to the root ش-က-ရ",
+          "instruction_my": "မူရင်းအက္ခရာ 'Sh-K-R' တွင် 'Ta' အရှေ့ဆက် ပေါင်းပါ။",
+          "questions": [
+            {
+              "q": "ش ك ر",
+              "answer_en": "tashkuru",
+              "answer_my": "tashkuru",
+              "ar": "تَشْكُرُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The 'Ta' of address reminds us that Allah is directly speaking to us. The 'Ta' of the soul reminds us of our inner accounting.",
+        "my": "'Ta' ဖြင့် စတင်သောစကားလုံးများသည် အလ္လာဟ်အရှင်မြတ်က ကျွန်ုပ်တို့ကို တိုက်ရိုက်စကားပြောနေခြင်းကို သတိပေးသည်။ ဝိညာဉ်အကြောင်းပြောရာတွင်လည်း 'Ta' ကိုသုံးခြင်းက မိမိကိုယ်ကိုယ် ပြန်လည်ဆန်းစစ်ရန် သတိပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Maidah 5:116",
+        "study_number": 1,
+        "arabic_full": "تَعْلَمُ مَا فِي نَفْسِي وَلَا أَعْلَمُ مَا فِي نَفْسِكَ",
+        "en_sahih": "You know what is within myself, and I do not know what is within Yourself.",
+        "my_mmsy": "တစ်ခါက အလ္လာဟ်အရှင်မြတ်သည် (ဤသို့)မိန့်ကြားတော်မူမည်- “အို- မရ်ယမ်၏သား အီစာ၊ အသင်သည် လူများအား အသင်တို့သည် အလ္လာဟ်အရှင်မြတ်နှင့်ဆန့်ကျင်၍ ကျွန်ုပ်နှင့်ကျွန်ုပ်၏မိခင်အား ကိုးကွယ်ထိုက်သည့်အရှင်နှစ်ပါးအဖြစ် ပြုုလုပ်ကြပါဟု ပြောကြားခဲ့သလော“။ ၎င်း(တမန်တော် အီစာ)က ပြောဆိုဖြေကြားမည်- “အရှင်မြတ်သည် သန့်ပြန့်စင်ကြယ်တော်မူပါသည်။ ကျွန်ုပ် မပြောထိုက်သောစကားကို ကျွန်ုပ်ပြောဆိုခွင့် လုံးဝ မရှိပါ။ အကယ်၍ ကျွန်ုပ်သည် ထိုစကားကို ပြောဆိုခဲ့လျှင် အရှင်မြတ်သည် ထိုပြောဆိုမှုကို အမှန်ပင် သိတော်မူပြီးဖြစ်ပါသည်။ အရှင်မြတ်သည် ကျွန်ုပ်၏စိတ်ထဲ၌ရှိသမျှကို သိရှိတော်မူပါသည်။ သို့ရာတွင် ကျွန်ုပ်သည် အရှင်မြတ်၏စိတ်ထဲရှိသည်ကို မသိပါ။ အမှန်စင်စစ် အရှင်မြတ်သည်သာ အကွယ်မှအရာအားလုံးကို အလွန်သိတော်မူသောအရှင် ဖြစ်တော်မူပါသည်။",
+        "audio_ref": {
+          "surah": 5,
+          "ayah": 116,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/005116.mp3"
+        },
+        "qurancom_url": "https://quran.com/5/116",
+        "context": {
+          "en": "Prophet Isa (Jesus) clarifying his status before Allah on the Day of Judgment.",
+          "my": "တရားစီရင်ရာနေ့တွင် တမန်တော်အီစာ (အလိုင်းဟစ္စလာမ်) က အလ္လာဟ်အရှင်မြတ်ရှေ့တော်မှောက်တွင် မိမိ၏အခြေအနေကို ရှင်းလင်းတင်ပြခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "تَعْلَمُ",
+            "translit": "ta'lamu",
+            "en": "You know",
+            "my": "ကိုယ်တော်သိသည်",
+            "role_en": "Verb (Present)",
+            "role_my": "ပစ္စုပ္ပန်ကြိယာ",
+            "root": "ع ل م",
+            "freq": 718
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Contrast between 'Ta' (You know) and 'A' (I know).",
+          "structure_my": "'Ta' (ကိုယ်တော်သိသည်) နှင့် 'A' (ကျွန်ုပ်သိသည်) တို့၏ နှိုင်းယှဉ်ချက်ကို ကြည့်ပါ။",
+          "insight_en": "The 'Ta' shows the humility of the Prophet addressing his Creator.",
+          "insight_my": "'Ta' သည် ဖန်ဆင်းရှင်အား ရိုသေစွာ လျှောက်ထားမှုကို ဖော်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ل م",
+            "concept_en": "The bridge between the seen and unseen through knowledge.",
+            "concept_my": "အသိပညာအားဖြင့် အမြင်ရသောအရာနှင့် အမြင်မရသောအရာကြား ချိတ်ဆက်မှု။",
+            "members": [
+              {
+                "ar": "عَلَّمَ",
+                "en": "taught",
+                "my": "သင်ကြားပေးခဲ့သည်",
+                "freq": 40
+              }
+            ],
+            "professors_note": "In Arabic, knowledge (Ilm) is power and light."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ စိတ်နှလုံးထဲမှ မည်သူမျှမသိသော လျှို့ဝှက်ချက်များကို အလ္လာဟ်အရှင်မြတ်သည် 'သအ်လမ်' (သိရှိတော်မူသည်)။ ဤအသိသည် ကျွန်ုပ်တို့အား မကောင်းမှုမှ ရှောင်ကြဉ်စေပြီး စိတ်ထားဖြူစင်ရန် လှုံ့ဆော်ပေးသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Ta'lamu maa fee nafsee...",
+          "meaning_anchor": "A mirror reflecting your innermost thoughts to God.",
+          "daily_connection": "Say this when you feel misunderstood by others.",
+          "my": "သူတစ်ပါးက သင့်ကို အထင်လွဲသောအခါ ဤအာယသ်တော်ကို ရွတ်ဖတ်ပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Kafirun 109:2",
+        "study_number": 2,
+        "arabic_full": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+        "en_sahih": "I do not worship what you worship.",
+        "my_mmsy": "(၂) ငါသည် အသင်တို့ကိုးကွယ်နေကြသောကိုးကွယ်ရာများကို ကိုးကွယ်သည်မဟုတ်ပေ။",
+        "audio_ref": {
+          "surah": 109,
+          "ayah": 2,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/109002.mp3"
+        },
+        "qurancom_url": "https://quran.com/109/2",
+        "context": {
+          "en": "Establishing clear monotheism and distinction from polytheists.",
+          "my": "တစ်ဆူတည်းသော အလ္လာဟ်ကို ကိုးကွယ်ခြင်းနှင့် အခြားတွဲဖက်ကိုးကွယ်သူများကြား ရှင်းလင်းသော ခြားနားချက်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "تَعْبُدُونَ",
+            "translit": "ta'buduuna",
+            "en": "you (all) worship",
+            "my": "သင်တို့ ကိုးကွယ်ကြသည်",
+            "role_en": "Verb (Plural)",
+            "role_my": "ကြိယာ (အများကိန်း)",
+            "root": "ع ب د",
+            "freq": 143
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The 'Ta' prefix combined with 'una' ending makes it plural 'You all'.",
+          "structure_my": "'Ta' အရှေ့ဆက်နှင့် 'una' အနောက်ဆက် ပေါင်းလိုက်လျှင် 'သင်တို့အားလုံး' ဟု ဖြစ်သွားသည်။",
+          "insight_en": "The root 'Abd' forms the core of our relationship with God.",
+          "insight_my": "'Abd' မူရင်းသည် ကျွန်ုပ်တို့နှင့် ဘုရားသခင်ကြား ဆက်ဆံရေး၏ အခြေခံဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ب د",
+            "concept_en": "A path made smooth by walking on it; total submission.",
+            "concept_my": "အကြိမ်ကြိမ် လမ်းလျှောက်ခြင်းဖြင့် ချောမွေ့နေသော လမ်းကြောင်း၊ လုံးဝအညံ့ခံခြင်း။",
+            "members": [
+              {
+                "ar": "عِبَادَة",
+                "en": "worship",
+                "my": "ကိုးကွယ်မှု",
+                "freq": 0
+              }
+            ],
+            "professors_note": "A true Abd is like a smooth road—completely obedient to the Master."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကိုးကွယ်မှု (Ibadah) သည် အလ္လာဟ်တစ်ပါးတည်းအတွက်သာ ဖြစ်ရမည်။ ကျွန်ုပ်တို့ 'သအ်ဗုဒ်' (ကိုးကွယ်သည်) ဟု ဆိုသောအခါ ကျွန်ုပ်တို့၏ ဘဝတစ်ခုလုံးသည် ကိုယ်တော်၏ အလိုတော်အတိုင်းသာ ဖြစ်ရပါမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Laa a'budu maa ta'buduun.",
+          "meaning_anchor": "A shield protecting your faith from outside influences.",
+          "daily_connection": "Recite in the 2nd raka'ah of Fajr or Maghrib Sunnah.",
+          "my": "စွန္နသ် နမာဇ်များတွင် ရွတ်ဖတ်လေ့ရှိသော စူရဟ်ဖြစ်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "This lesson introduced the 'Ta-' prefix for 'You' (masculine) and 'She'. We learned that context is essential for distinguishing between these two. We also saw how this pattern is vital for understanding direct addresses in the Quran.",
+      "my": "ဤသင်ခန်းစာတွင် 'သင်' (ယောက်ျား) နှင့် 'သူမ' အတွက် 'Ta-' အရှေ့ဆက်ကို မိတ်ဆက်ပေးခဲ့သည်။ ဤနှစ်ခုကို ခွဲခြားရန် စကားအဆက်အစပ်သည် အရေးကြီးကြောင်း လေ့လာခဲ့ရသည်။ ကုရ်အာန်ပါ တိုက်ရိုက်မိန့်ကြားချက်များကို နားလည်ရန် ဤပုံစံသည် အလွန်အရေးကြီးပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-063",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 63,
+    "title": {
+      "ar": "الْفِعْلُ الْمُضَارِعُ (٣) — أَفْعَلُ وَنَفْعَلُ",
+      "en": "Present Tense III — 'I do' and 'We do'",
+      "my": "ပစ္စုပ္ပန်ကာလကြိယာ (၃) — ကျွန်ုပ်ပြုလုပ်သည် နှင့် ကျွန်ုပ်တို့ပြုလုပ်သည်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "A- prefix (1st singular) and Na- prefix (1st plural)",
+      "grammar_formula": "أَ / نَـ + Root = I / We [are doing]"
+    },
+    "section_1_vocab": [
+      {
+        "word": "أَعْبُدُ",
+        "translit": "a'budu",
+        "en": "I worship",
+        "my": "ကျွန်ုပ်ကိုးကွယ်သည်",
+        "quran_freq": 143,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "أَفْعُلُ",
+        "root": {
+          "letters": "ع ب د",
+          "concept_en": "worship/service",
+          "concept_my": "ကိုးကွယ်မှု/အစေခံမှု"
+        },
+        "memory_hook": {
+          "sound": "I am an Abd",
+          "image": "I am bowing in worship",
+          "cross_language": "A'budu in Surah Kafirun"
+        },
+        "word_family": [
+          {
+            "ar": "عَابِد",
+            "translit": "abid",
+            "en": "worshipper",
+            "my": "ကိုးကွယ်သူ",
+            "freq": 7
+          }
+        ],
+        "pattern_unlock": "The 'Alif' (A-) prefix is a personal signature for 'I'.",
+        "example": {
+          "ar": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+          "en": "I do not worship what you worship",
+          "my": "သင်တို့ ကိုးကွယ်သောအရာကို ကျွန်ုပ်မကိုးကွယ်ပါ",
+          "ref": "109:2"
+        }
+      },
+      {
+        "word": "نَسْتَعِينُ",
+        "translit": "nasta'īnu",
+        "en": "we seek help",
+        "my": "ကျွန်ုပ်တို့ အကူအညီတောင်းခံသည်",
+        "quran_freq": 2,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "نَسْتَفْعِلُ",
+        "root": {
+          "letters": "ع و ن",
+          "concept_en": "help/assistance",
+          "concept_my": "အကူအညီ"
+        },
+        "memory_hook": {
+          "sound": "Near",
+          "image": "We need help near us",
+          "cross_language": "I'anat (Help) in Islamic jurisprudence"
+        },
+        "word_family": [
+          {
+            "ar": "مُعِين",
+            "translit": "mu'in",
+            "en": "helper",
+            "my": "ကူညီသူ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The 'Noon' (Na-) prefix unites the community: 'We'.",
+        "example": {
+          "ar": "وَإِيَّاكَ نَسْتَعِينُ",
+          "en": "and You we ask for help",
+          "my": "ကိုယ်တော်ထံ၌သာ ကျွန်ုပ်တို့ အကူအညီတောင်းခံပါသည်",
+          "ref": "1:5"
+        }
+      },
+      {
+        "word": "أَعُوذُ",
+        "translit": "a'ūdhu",
+        "en": "I seek refuge",
+        "my": "ကျွန်ုပ်ခိုလှုံမှုတောင်းခံသည်",
+        "quran_freq": 7,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "أَفْعُلُ",
+        "root": {
+          "letters": "ع و ذ",
+          "concept_en": "protection/refuge",
+          "concept_my": "ကာကွယ်မှု/ခိုလှုံမှု"
+        },
+        "memory_hook": {
+          "sound": "A-Ooo-Zhu",
+          "image": "I hide in a fortress",
+          "cross_language": "Audhu Billah (I seek refuge in Allah)"
+        },
+        "word_family": [
+          {
+            "ar": "مَعَاذ",
+            "translit": "ma'adh",
+            "en": "refuge",
+            "my": "ခိုလှုံရာ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "This is one of the most important verbs for daily spiritual protection.",
+        "example": {
+          "ar": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+          "en": "Say: I seek refuge in the Lord of the dawn",
+          "my": "လျှောက်ထားပါ - ကျွန်ုပ်သည် မိုးသောက်ယံ၏ အရှင်ထံ၌ ခိုလှုံပါ၏",
+          "ref": "113:1"
+        }
+      },
+      {
+        "word": "نَخْشَى",
+        "translit": "nakhshā",
+        "en": "we fear",
+        "my": "ကျွန်ုပ်တို့ကြောက်ရွံ့သည်",
+        "quran_freq": 28,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "نَفْعَلُ",
+        "root": {
+          "letters": "خ ش ي",
+          "concept_en": "awe/fear",
+          "concept_my": "ရိုသေစွာကြောက်ရွံ့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Next",
+          "image": "We fear what comes next",
+          "cross_language": "Khashyah (Awe-filled fear)"
+        },
+        "word_family": [
+          {
+            "ar": "خَشْيَة",
+            "translit": "khashyah",
+            "en": "fear",
+            "my": "ကြောက်ရွံ့ခြင်း",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "Na- reflects a collective feeling or state.",
+        "example": {
+          "ar": "نَخْشَى أَنْ تُصِيبَنَا دَائِرَةٌ",
+          "en": "We fear that a misfortune may strike us",
+          "my": "ကျွန်ုပ်တို့အပေါ် ဘေးဒုက္ခတစ်ခု ကျရောက်မည်ကို ကျွန်ုပ်တို့ကြောက်ရွံ့ပါသည်",
+          "ref": "5:52"
+        }
+      },
+      {
+        "word": "أَخَافُ",
+        "translit": "akhāfu",
+        "en": "I fear",
+        "my": "ကျွန်ုပ်ကြောက်သည်",
+        "quran_freq": 124,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "أَفْعَلُ",
+        "root": {
+          "letters": "خ و ف",
+          "concept_en": "fear",
+          "concept_my": "ကြောက်ရွံ့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "A-Khaaf",
+          "image": "I am scared of the cliff",
+          "cross_language": "Khawf"
+        },
+        "word_family": [
+          {
+            "ar": "خِيفَة",
+            "translit": "khifah",
+            "en": "apprehension",
+            "my": "စိုးရိမ်မှု",
+            "freq": 13
+          }
+        ],
+        "pattern_unlock": "Compare 'Akhāfu' (I fear) with 'Nakhshā' (We fear) to see prefix changes.",
+        "example": {
+          "ar": "إِنِّي أَخَافُ اللَّهَ",
+          "en": "Indeed, I fear Allah",
+          "my": "ဧကန်စင်စစ် ကျွန်ုပ်သည် အလ္လာဟ်အရှင်မြတ်ကို ကြောက်ရွံ့ပါသည်",
+          "ref": "8:48"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمُضَارِعُ (لِلْمُتَكَلِّمِ)",
+        "en": "First Person Present (I / We)",
+        "my": "ပထမပုဂ္ဂိုလ် ပစ္စုပ္ပန် (ကျွန်ုပ် / ကျွန်ုပ်တို့)"
+      },
+      "formula": {
+        "display": "أَ / نَـ + Root + ـُ",
+        "example": "أَكْتُبُ (I write) / نَكْتُبُ (We write)",
+        "myanmar_read": "အရှေ့တွင် 'အ' (Alif) ပါလျှင် 'ကျွန်ုပ်'၊ 'န' (Noon) ပါလျှင် 'ကျွန်ုပ်တို့' ဟု မှတ်သားပါ။",
+        "key_insight": "A for Alone (I), N for Numerous (We)."
+      },
+      "explanation": {
+        "en": "In the present tense, the first person 'I' is marked by an Alif (Hamza) prefix. 'We' is marked by a Noon prefix. These are used extensively in prayers and personal statements within the Quran.",
+        "my": "ပစ္စုပ္ပန်ကာလတွင် 'ကျွန်ုပ်' ကိုဖော်ပြရန် အရှေ့တွင် Alif (Hamza) ကို သုံးသည်။ 'ကျွန်ုပ်တို့' ကိုဖော်ပြရန် Noon ကို သုံးသည်။ ကုရ်အာန်ပါ ဒိုအာ (ဆုတောင်း) များနှင့် ပုဂ္ဂိုလ်ရေးဆိုင်ရာ ဝန်ခံချက်များတွင် ဤပုံစံများကို အများဆုံးတွေ့ရသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar uses 'ကျွန်ုပ်' (I) and 'ကျွန်ုပ်တို့' (we) as separate pronouns. Arabic fuses them into the start of the verb.",
+        "my": "မြန်မာစာတွင် 'ကျွန်ုပ်' နှင့် 'ကျွန်ုပ်တို့' ကို သီးခြား နာမ်စားအဖြစ် သုံးသော်လည်း၊ အာရဗီတွင် ကြိယာ၏အရှေ့၌ပင် ထည့်သွင်းဖော်ပြသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "A- prefix = I",
+          "rule_my": "အရှေ့ဆက် 'အ' (A-) = ကျွန်ုပ်",
+          "example": {
+            "ar": "أَعْلَمُ",
+            "en": "I know",
+            "my": "ကျွန်ုပ်သိသည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Na- prefix = We",
+          "rule_my": "အရှေ့ဆက် 'န' (Na-) = ကျွန်ုပ်တို့",
+          "example": {
+            "ar": "نَعْلَمُ",
+            "en": "We know",
+            "my": "ကျွန်ုပ်တို့သိသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Daily Prayer",
+          "ar": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+          "en": "It is You we worship and You we ask for help",
+          "my": "ကျွန်ုပ်တို့သည် အရှင်မြတ်ကိုသာလျှင် ကိုးကွယ်ကြပါသည် ။ ထို့ပြင် ကျွန်ုပ်တို့သည် အရှင်မြတ်ထံမှသာလျှင် အကူအညီတောင်းခံကြပါသည် ။",
+          "ref": "1:5",
+          "breakdown": {
+            "verb1": {
+              "word": "نَعْبُدُ",
+              "en": "We worship",
+              "note": "Na prefix"
+            },
+            "verb2": {
+              "word": "نَسْتَعِينُ",
+              "en": "We seek help",
+              "note": "Collective prayer"
+            }
+          },
+          "myanmar_insight": "ဖာသိဟဟ်စူရဟ်တွင် 'ကျွန်ုပ်တို့' (Na-) ကိုသုံးခြင်းဖြင့် မွတ်စလင်မ်ထုတစ်ခုလုံးအတွက် ဆုတောင်းပေးနေခြင်းဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing 'A' prefix with 'Al-'",
+          "wrong": {
+            "ar": "أَعْبُدُ",
+            "note": "Thinking it's a noun"
+          },
+          "correct": {
+            "ar": "أَعْبُدُ",
+            "en": "I worship (Verb)",
+            "my": "ကျွန်ုပ်ကိုးကွယ်သည် (ကြိယာ)"
+          },
+          "myanmar_tip": "အစတွင် Alif (Hamza) ပါပြီး အဆုံးတွင် Dhamma ပါလျှင် များသောအားဖြင့် 'ကျွန်ုပ်...' ဟူသော ကြိယာဖြစ်သည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the 'I' and 'We' verbs",
+          "instruction_my": "'ကျွန်ုပ်' နှင့် 'ကျွန်ုပ်တို့' ကြိယာများကို ခွဲခြားပါ။",
+          "questions": [
+            {
+              "q": "نَعْلَمُ",
+              "answer_en": "We know",
+              "answer_my": "ကျွန်ုပ်တို့သိသည်",
+              "ref": "2:32"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: 'I seek refuge in Allah'",
+          "instruction_my": "ဘာသာပြန်ပါ - 'ကျွန်ုပ် အလ္လာဟ်ထံတွင် ခိုလှုံပါ၏'",
+          "questions": [
+            {
+              "q": "أَعُوذُ بِاللَّهِ",
+              "answer_en": "I seek refuge in Allah",
+              "answer_my": "ကျွန်ုပ် အလ္လာဟ်ထံတွင် ခိုလှုံပါ၏"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Convert 'ya'lamu' to 'I know'",
+          "instruction_my": "'ya'lamu' ကို 'ကျွန်ုပ်သိသည်' ပုံစံသို့ ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "يَعْلَمُ",
+              "answer_en": "a'lamu",
+              "answer_my": "a'lamu",
+              "ar": "أَعْلَمُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The transition from 'I' to 'We' in prayers like Fatiha teaches us that faith is both a personal journey and a community bond.",
+        "my": "ဖာသိဟဟ်တွင် 'ကျွန်ုပ်တို့' ဟု သုံးနှုန်းခြင်းက အစ္စလာမ်ဘာသာသည် တစ်ဦးချင်းစီအတွက်သာမက လူ့အသိုင်းအဝိုင်းတစ်ခုလုံးအတွက်ပါ ဖြစ်ကြောင်း သင်ပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Fatiha 1:5",
+        "study_number": 1,
+        "arabic_full": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "en_sahih": "It is You we worship and You we ask for help.",
+        "my_mmsy": "ကျွန်ုပ်တို့သည် အရှင်မြတ်ကိုသာလျှင် ကိုးကွယ်ကြပါသည် ။ ထို့ပြင် ကျွန်ုပ်တို့သည် အရှင်မြတ်ထံမှသာလျှင် အကူအညီတောင်းခံကြပါသည် ။",
+        "audio_ref": {
+          "surah": 1,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/001005.mp3"
+        },
+        "qurancom_url": "https://quran.com/1/5",
+        "context": {
+          "en": "The central verse of the Quran, establishing the covenant between the Creator and the created.",
+          "my": "ကုရ်အာန်၏ အဓိကအချက်အချာ အာယသ်တော်ဖြစ်သည်။ ဖန်ဆင်းရှင်နှင့် အဖန်ဆင်းခံကြား ပဋိညာဉ်ကို တည်ဆောက်ထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "نَعْبُدُ",
+            "translit": "na'budu",
+            "en": "we worship",
+            "my": "ကျွန်ုပ်တို့ကိုးကွယ်သည်",
+            "role_en": "Verb (1st Plural)",
+            "role_my": "ကြိယာ (ပထမပုဂ္ဂိုလ်၊ အများကိန်း)",
+            "root": "ع ب د",
+            "freq": 143
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Prefix 'Na-' shows collective submission.",
+          "structure_my": "'Na-' အရှေ့ဆက်သည် စုပေါင်းအညံ့ခံမှုကို ပြသည်။",
+          "insight_en": "Notice that 'You' (Iyyaka) comes before 'We worship' to emphasize that ONLY Allah is worshiped.",
+          "insight_my": "အလ္လာဟ်တစ်ပါးတည်းကိုသာ ကိုးကွယ်ကြောင်း ပိုမိုလေးနက်စေရန် 'ကိုယ်တော့်ကိုသာ' (Iyyaka) ကို အရှေ့တွင် ထားထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع و ن",
+            "concept_en": "To provide strength to someone who is weak.",
+            "concept_my": "အားနည်းနေသူအား ခွန်အားပေးကူညီခြင်း။",
+            "members": [
+              {
+                "ar": "تَعَاوَنُوا",
+                "en": "cooperate",
+                "my": "အပြန်အလှန်ကူညီပါ",
+                "freq": 1
+              }
+            ],
+            "professors_note": "Isti'anah is seeking help only in matters where human effort is insufficient."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "နမားဇ်ဝတ်ပြုတိုင်း 'နအ်ဗုဒု' ဟု ဆိုရာတွင် ကျွန်ုပ်တို့ တစ်ဦးတည်းမဟုတ်ဘဲ တစ်ကမ္ဘာလုံးရှိ မွတ်စလင်မ်များနှင့်အတူ ဝတ်ပြုနေသည်ဟု ခံစားရစေသည်။ အလ္လာဟ်အရှင်မြတ်၏ အကူအညီမပါဘဲ ကျွန်ုပ်တို့ ဘာမျှမတတ်နိုင်ကြောင်း ဝန်ခံခြင်းဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Balanced rhythm between worship and seeking help.",
+          "meaning_anchor": "Holding onto a strong rope for help.",
+          "daily_connection": "Every single Raka'ah of Salah.",
+          "my": "နမားဇ်၏ ရަކအသ်တိုင်းတွင် ရွတ်ဖတ်ရသော အလွန်အရေးကြီးသည့် အစိတ်အပိုင်းဖြစ်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Today we learned how to express personal and collective actions using the 'A-' and 'Na-' prefixes. These patterns are the heart of Quranic prayers and allow us to connect our personal intentions to the words of Allah.",
+      "my": "ယနေ့တွင် 'A-' နှင့် 'Na-' အရှေ့ဆက်များကို အသုံးပြု၍ တစ်ဦးချင်းနှင့် စုပေါင်းလုပ်ဆောင်မှုများကို ဖော်ပြပုံကို လေ့လာခဲ့သည်။ ဤပုံစံများသည် ကုရ်အာန်လာ ဒိုအာများ၏ အနှစ်သာရဖြစ်ပြီး ကျွန်ုပ်တို့၏ ရည်ရွယ်ချက်များကို အလ္လာဟ်အရှင်မြတ်၏ နှုတ်ကပတ်တော်များနှင့် ချိတ်ဆက်ပေးသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-064",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 64,
+    "title": {
+      "ar": "الْمُضَارِعُ فِي الدُّعَاءِ وَالْقُرْآنِ",
+      "en": "Present Tense IV — Quranic Duas and Commands",
+      "my": "ပစ္စုပ္ပန်ကာလကြိယာ (၄) — ကုရ်အာန်လာ ဆုတောင်းများနှင့် အမိန့်တော်များ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Present tense as supplication; recognizing in Al-Fatiha",
+      "grammar_formula": "Prefix + Root (Weak Ending) = Supplication context"
+    },
+    "section_1_vocab": [
+      {
+        "word": "يَهْدِي",
+        "translit": "yahdī",
+        "en": "he guides",
+        "my": "ကိုယ်တော်လမ်းညွှန်သည်",
+        "quran_freq": 160,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعِلُ",
+        "root": {
+          "letters": "ه د ي",
+          "concept_en": "guidance/leading",
+          "concept_my": "လမ်းပြခြင်း/လမ်းညွှန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Heading",
+          "image": "He is heading the right way",
+          "cross_language": "Hidayah (Guidance)"
+        },
+        "word_family": [
+          {
+            "ar": "هُدًى",
+            "translit": "huda",
+            "en": "guidance",
+            "my": "လမ်းညွှန်မှု",
+            "freq": 85
+          }
+        ],
+        "pattern_unlock": "Roots ending in 'Ya' often drop the last vowel in certain contexts.",
+        "example": {
+          "ar": "يَهْدِي مَنْ يَشَاءُ",
+          "en": "He guides whom He wills",
+          "my": "ကိုယ်တော်သည် အလိုရှိသူကို လမ်းညွှန်တော်မူ၏",
+          "ref": "2:142"
+        }
+      },
+      {
+        "word": "يُغْنِي",
+        "translit": "yaghnī",
+        "en": "he suffices / makes rich",
+        "my": "ကိုယ်တော်သည် လုံလောက်စေသည်/ချမ်းသာစေသည်",
+        "quran_freq": 25,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يُفْعِلُ",
+        "root": {
+          "letters": "غ ن ي",
+          "concept_en": "wealth/freedom from need",
+          "concept_my": "ချမ်းသာကြွယ်ဝခြင်း/မလိုအပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Gain",
+          "image": "He gains enough to be rich",
+          "cross_language": "Ghani (Rich)"
+        },
+        "word_family": [
+          {
+            "ar": "غَنِيّ",
+            "translit": "ghani",
+            "en": "rich",
+            "my": "ချမ်းသာသူ",
+            "freq": 18
+          }
+        ],
+        "pattern_unlock": "The 'Yu-' prefix (instead of Ya-) often indicates a more complex verb form.",
+        "example": {
+          "ar": "لَا يُغْنِي عَنْهُمْ",
+          "en": "it will not avail them",
+          "my": "၎င်းတို့အတွက် မည်သို့မျှ အကျိုးပြုလိမ့်မည်မဟုတ်",
+          "ref": "44:41"
+        }
+      },
+      {
+        "word": "يَشَاءُ",
+        "translit": "yashā'u",
+        "en": "he wills",
+        "my": "ကိုယ်တော်အလိုရှိသည်",
+        "quran_freq": 236,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعَلُ",
+        "root": {
+          "letters": "ش ي أ",
+          "concept_en": "will/thing",
+          "concept_my": "အလိုဆန္ဒ/အရာဝတ္ထု"
+        },
+        "memory_hook": {
+          "sound": "Sha-Allah",
+          "image": "Whatever He wills happens",
+          "cross_language": "Insha Allah (If Allah wills)"
+        },
+        "word_family": [
+          {
+            "ar": "شَيْء",
+            "translit": "shay",
+            "en": "thing",
+            "my": "အရာဝတ္ထု",
+            "freq": 519
+          }
+        ],
+        "pattern_unlock": "This verb is almost always used for Allah's absolute will in the Quran.",
+        "example": {
+          "ar": "يَفْعَلُ اللَّهُ مَا يَشَاءُ",
+          "en": "Allah does what He wills",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အလိုရှိရာကို ပြုတော်မူ၏",
+          "ref": "14:27"
+        }
+      },
+      {
+        "word": "يَتُوبُ",
+        "translit": "yatūbu",
+        "en": "he repents / turns in mercy",
+        "my": "သူနောင်တရသည်/ကိုယ်တော်ကရုဏာတော်ဖြင့် လှည့်ကြည့်သည်",
+        "quran_freq": 87,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعُلُ",
+        "root": {
+          "letters": "ت و ب",
+          "concept_en": "return",
+          "concept_my": "ပြန်လှည့်လာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Toba",
+          "image": "Turning back to the path",
+          "cross_language": "Tawbah (Repentance)"
+        },
+        "word_family": [
+          {
+            "ar": "تَوَّاب",
+            "translit": "tawwab",
+            "en": "Acceptor of repentance",
+            "my": "နောင်တကိုလက်ခံသူ",
+            "freq": 11
+          }
+        ],
+        "pattern_unlock": "When used for humans, it means 'repent'; for Allah, it means 'forgive'.",
+        "example": {
+          "ar": "ثُمَّ يَتُوبُ اللَّهُ",
+          "en": "then Allah accepts repentance",
+          "my": "ထို့နောက် အလ္လာဟ်အရှင်မြတ်သည် နောင်တကို လက်ခံတော်မူ၏",
+          "ref": "9:27"
+        }
+      },
+      {
+        "word": "نَرْجُو",
+        "translit": "narjū",
+        "en": "we hope",
+        "my": "ကျွန်ုပ်တို့ မျှော်လင့်သည်",
+        "quran_freq": 24,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "نَفْعُلُ",
+        "root": {
+          "letters": "ر ج و",
+          "concept_en": "hope/expectation",
+          "concept_my": "မျှော်လင့်ချက်"
+        },
+        "memory_hook": {
+          "sound": "Radio",
+          "image": "We hope to hear good news on the radio",
+          "cross_language": "Raja' (Hope)"
+        },
+        "word_family": [
+          {
+            "ar": "رَجَاء",
+            "translit": "raja",
+            "en": "hope",
+            "my": "မျှော်လင့်ခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Roots with 'Waw' at the end keep it visible in 'Na' and 'Ya' forms.",
+        "example": {
+          "ar": "إِنَّا نَرْجُو",
+          "en": "Indeed, we hope",
+          "my": "ဧကန်စင်စစ် ကျွန်ုပ်တို့သည် မျှော်လင့်ကြပါ၏",
+          "ref": "7:126"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمُضَارِعُ فِي سِيَاقِ الدُّعَاءِ",
+        "en": "Present Tense in Supplication",
+        "my": "ဆုတောင်းခြင်းဆိုင်ရာ ပစ္စုပ္ပန်ကာလကြိယာ"
+      },
+      "formula": {
+        "display": "يَـ / نَـ + (Weak Root)",
+        "example": "يَهْدِي (He guides)",
+        "myanmar_read": "ကုရ်အာန်တွင် ပစ္စုပ္ပန်ကာလကို ဆုတောင်းခြင်း သို့မဟုတ် ထာဝရအမှန်တရားများကို ဖော်ပြရာတွင် သုံးသည်။",
+        "key_insight": "Present tense verbs in Quran often imply continuous action—something Allah always does."
+      },
+      "explanation": {
+        "en": "While the present tense usually means 'now', in the Quran it often carries a sense of permanence or a plea. For example, 'Yahdi' means He guides now, has guided, and will continue to guide. Recognizing these in Duas helps us feel the continuity of Allah's mercy.",
+        "my": "ပစ္စုပ္ပန်ကာလသည် ပုံမှန်အားဖြင့် 'ယခု' ကို ဆိုလိုသော်လည်း၊ ကုရ်အာန်တွင် ၎င်းသည် အမြဲတမ်းဖြစ်ပျက်နေသော အရာ သို့မဟုတ် ဆုတောင်းချက်ကို ဖော်ပြသည်။ ဥပမာ- 'Yahdi' သည် အလ္လာဟ်အရှင်မြတ်သည် ယခုလည်း လမ်းပြသည်၊ နောင်လည်း လမ်းပြနေမည်ဟူသော အဓိပ္ပာယ်ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar prayers often use 'ပါစေ' (may it be). Arabic uses the standard present tense to show certainty that Allah is currently acting.",
+        "my": "မြန်မာဆုတောင်းများတွင် 'ပါစေ' ဟု သုံးလေ့ရှိသော်လည်း၊ အာရဗီတွင် ပစ္စုပ္ပန်ကာလကို သုံးခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်သည် အမှန်တကယ် လုပ်ဆောင်နေကြောင်း ဖော်ပြသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Verbs like 'Yahdi' (He guides) show continuous action.",
+          "rule_my": "'Yahdi' (ကိုယ်တော်လမ်းပြသည်) ကဲ့သို့သော ကြိယာများသည် အစဉ်တစိုက် ဖြစ်ပျက်မှုကို ပြသည်။",
+          "example": {
+            "ar": "اللَّهُ يَهْدِي",
+            "en": "Allah guides",
+            "my": "အလ္လာဟ်အရှင်မြတ် လမ်းပြတော်မူသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Universal Rule",
+          "ar": "يَهْدِي اللَّهُ لِنُورِهِ مَنْ يَشَاءُ",
+          "en": "Allah guides to His light whom He wills",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်များနှင့် မြေပထဝီ၏ ရောင်ခြည်တော်ဖြစ်တော်မူသည်။ (အားလုံးကို လမ်းမှန်ရောင်ခြည် ညွှန်ကြားပြသတော်မူသောအရှင်  ဖြစ်တော်မူသည်)။ အရှင်မြတ်၏ရောင်ခြည်၏သာဓကသည် နံရံထဲမှ အကြင်လိုဏ်ဂူနှင့်တူသည်။ ထိုလိုဏ်ဂူထဲတွင် ဆီမီးတစ်ခုရှိသည်။ ထိုဆီမီးသည် မှန်အိမ်တစ်ခုအတွင်းတွင်ရှိသည်။ ထိုမှန်အိမ်သည် လင်းဝင်းတောက်ပသော ကြယ်တစ်လုံးကဲ့သို့ဖြစ်၍ ထိုဆီမီးကို မင်္ဂလာရှိသောသစ်ပင်က သံလွင်ဆီနှင့် ထွန်းထားသည်။ ထိုသစ်ပင်သည် အရှေ့ဘက်လည်းမကျ၊ အနောက်ဘက်လည်းမကျဘဲ (နေရောင်ခြည် အမြဲရသည့်နေရာဖြစ်၍) ထိုသစ်ပင်၏အဆီသည် မီးနှင့်လုံးဝမထိသေးဘဲနှင့်ပင် ထတောက်လုမတတ် (ကြည်လင်တောက်ပမှု)ဖြစ်နေသည်။ ရောင်ခြည်ပေါ်တွင် ရောင်ခြည်ရှိနေသည်။ အလ္လာဟ်အရှင်မြတ်သည် အရှင်မြတ်အလိုရှိတော်မူသောသူကို အရှင်မြတ်၏ရောင်ခြည်တော် (အမှန်တရား)ထံသို့ လမ်းညွှန်တော်မူသည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် အရာရာတိုင်းကို အကြွင်းမဲ့သိတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+          "ref": "24:35",
+          "breakdown": {
+            "verb1": {
+              "word": "يَهْدِي",
+              "en": "He guides",
+              "note": "Continuous"
+            },
+            "verb2": {
+              "word": "يَشَاءُ",
+              "en": "He wills",
+              "note": "Absolute will"
+            }
+          },
+          "myanmar_insight": "အလ္လာဟ်အရှင်မြတ်၏ လမ်းညွှန်မှုသည် အချိန်မရွေး ရရှိနိုင်သော အလင်းရောင်နှင့်တူသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking 'Yahdi' is past tense because it sounds like 'guided'",
+          "wrong": {
+            "ar": "يَهْدِي",
+            "note": "Translating as 'He guided'"
+          },
+          "correct": {
+            "ar": "يَهْدِي",
+            "en": "He guides (presently)",
+            "my": "ကိုယ်တော် လမ်းပြနေသည်"
+          },
+          "myanmar_tip": "အရှေ့တွင် 'Ya' ပါနေသရွေ့ ၎င်းသည် ပစ္စုပ္ပန်ကာလဖြစ်ကြောင်း သတိရပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the verb for 'He wills'",
+          "instruction_my": "'ကိုယ်တော်အလိုရှိသည်' ဟူသော ကြိယာကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "يَخْلُقُ اللَّهُ مَا يَشَاءُ",
+              "answer_en": "yasha'u",
+              "answer_my": "yasha'u",
+              "ref": "24:45"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: 'Allah guides the people'",
+          "instruction_my": "ဘာသာပြန်ပါ - 'အလ္လာဟ်အရှင်မြတ် လူသားတို့ကို လမ်းပြတော်မူသည်'",
+          "questions": [
+            {
+              "q": "يَهْدِي اللَّهُ النَّاسَ",
+              "answer_en": "Allah guides the people",
+              "answer_my": "အလ္လာဟ်အရှင်မြတ် လူသားတို့ကို လမ်းပြတော်မူသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make 'He guides' using ه-ဒ-ယ",
+          "instruction_my": "မူရင်းအက္ခရာ 'H-D-Y' ဖြင့် 'သူလမ်းပြသည်' ကို တည်ဆောက်ပါ။",
+          "questions": [
+            {
+              "q": "ه د ي",
+              "answer_en": "yahdi",
+              "answer_my": "yahdi",
+              "ar": "يَهْدِي"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "When we see these verbs, we realize that guidance and provision are not one-time events, but a constant stream from Allah.",
+        "my": "ဤကြိယာများကို မြင်သောအခါ လမ်းညွှန်မှုနှင့် စားနပ်ရိက္ခာတို့သည် တစ်ကြိမ်တစ်ခါတည်း ပေးအပ်ခြင်းမျိုးမဟုတ်ဘဲ အလ္လာဟ်အရှင်မြတ်ထံမှ အစဉ်အမြဲ စီးဆင်းနေခြင်းဖြစ်ကြောင်း သိရှိရသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Nur 24:35",
+        "study_number": 1,
+        "arabic_full": "يَهْدِي اللَّهُ لِنُورِهِ مَنْ يَشَاءُ",
+        "en_sahih": "Allah guides to His light whom He wills.",
+        "my_mmsy": "အလ္လာဟ်အရှင်မြတ်သည် မိုးကောင်းကင်များနှင့် မြေပထဝီ၏ ရောင်ခြည်တော်ဖြစ်တော်မူသည်။ (အားလုံးကို လမ်းမှန်ရောင်ခြည် ညွှန်ကြားပြသတော်မူသောအရှင်  ဖြစ်တော်မူသည်)။ အရှင်မြတ်၏ရောင်ခြည်၏သာဓကသည် နံရံထဲမှ အကြင်လိုဏ်ဂူနှင့်တူသည်။ ထိုလိုဏ်ဂူထဲတွင် ဆီမီးတစ်ခုရှိသည်။ ထိုဆီမီးသည် မှန်အိမ်တစ်ခုအတွင်းတွင်ရှိသည်။ ထိုမှန်အိမ်သည် လင်းဝင်းတောက်ပသော ကြယ်တစ်လုံးကဲ့သို့ဖြစ်၍ ထိုဆီမီးကို မင်္ဂလာရှိသောသစ်ပင်က သံလွင်ဆီနှင့် ထွန်းထားသည်။ ထိုသစ်ပင်သည် အရှေ့ဘက်လည်းမကျ၊ အနောက်ဘက်လည်းမကျဘဲ (နေရောင်ခြည် အမြဲရသည့်နေရာဖြစ်၍) ထိုသစ်ပင်၏အဆီသည် မီးနှင့်လုံးဝမထိသေးဘဲနှင့်ပင် ထတောက်လုမတတ် (ကြည်လင်တောက်ပမှု)ဖြစ်နေသည်။ ရောင်ခြည်ပေါ်တွင် ရောင်ခြည်ရှိနေသည်။ အလ္လာဟ်အရှင်မြတ်သည် အရှင်မြတ်အလိုရှိတော်မူသောသူကို အရှင်မြတ်၏ရောင်ခြည်တော် (အမှန်တရား)ထံသို့ လမ်းညွှန်တော်မူသည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် အရာရာတိုင်းကို အကြွင်းမဲ့သိတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 24,
+          "ayah": 35,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/024035.mp3"
+        },
+        "qurancom_url": "https://quran.com/24/35",
+        "context": {
+          "en": "Part of the famous 'Ayat al-Nur' (Verse of Light), describing Allah's guidance.",
+          "my": "ကျော်ကြားသော 'အလင်းရောင် အာယသ်တော်' (Ayat al-Nur) ၏ အစိတ်အပိုင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "يَهْدِي",
+            "translit": "yahdi",
+            "en": "He guides",
+            "my": "ကိုယ်တော်လမ်းပြသည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ه د ي",
+            "freq": 160
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The 'Ya' prefix combined with a weak root.",
+          "structure_my": "'Ya' အရှေ့ဆက်နှင့် မူရင်းအက္ခရာ 'ပျော့' (Weak root) တို့ ပေါင်းစပ်ထားသည်။",
+          "insight_en": "Guidance is portrayed as an ongoing process.",
+          "insight_my": "လမ်းညွှန်မှုသည် အစဉ်တစိုက် ဖြစ်ပေါ်နေသော လုပ်ငန်းစဉ်အဖြစ် ဖော်ပြထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ه د ي",
+            "concept_en": "To lead someone with kindness to their destination.",
+            "concept_my": "တစ်စုံတစ်ဦးကို ၎င်းတို့၏ ပန်းတိုင်ရောက်ရန် ကြင်နာစွာ လမ်းပြခြင်း။",
+            "members": [
+              {
+                "ar": "هَدِيَّة",
+                "en": "gift",
+                "my": "လက်ဆောင်",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Hidayah is often compared to a 'gift' because guidance is the greatest gift of all."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုရှိသူကို မိမိ၏ 'နူရ်' (အလင်းရောင်) ထံသို့ 'ယဟ်ဒီ' (လမ်းပြတော်မူသည်)။ ကျွန်ုပ်တို့သည် ထိုလမ်းညွှန်မှုကို အမြဲတမ်း တောင်းခံနေရမည်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Yahdillahu li-noori-hee...",
+          "meaning_anchor": "A lighthouse in a dark sea.",
+          "daily_connection": "Recite when seeking clarity in life decisions.",
+          "my": "ဘဝတွင် ဆုံးဖြတ်ချက်ခက်ခဲနေချိန်တွင် ဤအာယသ်တော်ကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored how the present tense is used in divine contexts to show continuity. Verbs like 'Yahdi' and 'Yasha'u' remind us that Allah is actively involved in our lives at every moment.",
+      "my": "အလ္လာဟ်အရှင်မြတ်၏ အပြုအမူများ အစဉ်တစိုက်ဖြစ်ပျက်နေမှုကို ပြသရန် ပစ္စုပ္ပန်ကာလကို မည်သို့သုံးကြောင်း လေ့လာခဲ့သည်။ 'Yahdi' နှင့် 'Yasha'u' ကဲ့သို့သော ကြိယာများသည် အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့၏ဘဝတွင် အချိန်တိုင်း ပါဝင်ပတ်သက်နေကြောင်း သတိပေးသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-065",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 65,
+    "title": {
+      "ar": "جَدْوَلُ الْفِعْلِ الْمُضَارِعِ (الْمُفْرَدُ)",
+      "en": "Present Tense V — Singular Present Table",
+      "my": "ပစ္စုပ္ပန်ကာလကြိယာ (၅) — အနည်းကိန်း ဇယားနှင့် ကုရ်အာန် လေ့ကျင့်ခန်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Full singular present tense conjugation with parsing",
+      "grammar_formula": "Ya- (He), Ta- (You/She), A- (I), Na- (We)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "يَدْخُلُ",
+        "translit": "yadkhulu",
+        "en": "he enters",
+        "my": "သူဝင်ရောက်သည်",
+        "quran_freq": 88,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعُلُ",
+        "root": {
+          "letters": "د خ ل",
+          "concept_en": "entrance/internal",
+          "concept_my": "ဝင်ရောက်ခြင်း/အတွင်းပိုင်း"
+        },
+        "memory_hook": {
+          "sound": "Door",
+          "image": "He enters through the door",
+          "cross_language": "Dakhil (Internal/Entered)"
+        },
+        "word_family": [
+          {
+            "ar": "دَاخِل",
+            "translit": "dakhil",
+            "en": "inside",
+            "my": "အတွင်း၌",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The 'u' sound in 'yadkhulu' is common for verbs of physical movement.",
+        "example": {
+          "ar": "يَدْخُلُونَ فِي دِينِ اللَّهِ",
+          "en": "they enter the religion of Allah",
+          "my": "၎င်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ သာသနာတော်အတွင်းသို့ ဝင်ရောက်ကြသည်",
+          "ref": "110:2"
+        }
+      },
+      {
+        "word": "يَخْرُجُ",
+        "translit": "yakhruju",
+        "en": "he exits",
+        "my": "သူထွက်ခွာသည်",
+        "quran_freq": 53,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعُلُ",
+        "root": {
+          "letters": "خ ر ج",
+          "concept_en": "exit/external",
+          "concept_my": "ထွက်ခွာခြင်း/အပြင်ဘက်"
+        },
+        "memory_hook": {
+          "sound": "Garage",
+          "image": "The car exits the garage",
+          "cross_language": "Kharij (External/Outside)"
+        },
+        "word_family": [
+          {
+            "ar": "مَخْرَج",
+            "translit": "makhraj",
+            "en": "exit",
+            "my": "ထွက်ပေါက်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "'Exit' and 'Enter' follow the same vowel pattern (u) in Mudari'.",
+        "example": {
+          "ar": "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ",
+          "en": "emerging from between the backbone",
+          "my": "ကျောရိုးနှင့် နံရိုးများကြားမှ ထွက်လာသည်",
+          "ref": "86:7"
+        }
+      },
+      {
+        "word": "يَرْزُقُ",
+        "translit": "yarzuqu",
+        "en": "he provides",
+        "my": "ကိုယ်တော်ရိက္ခာပေးသနားသည်",
+        "quran_freq": 123,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "يَفْعُلُ",
+        "root": {
+          "letters": "ر ز ق",
+          "concept_en": "provision/sustenance",
+          "concept_my": "ရိက္ခာ/အထောက်အပံ့"
+        },
+        "memory_hook": {
+          "sound": "Risky",
+          "image": "It's risky without provision",
+          "cross_language": "Rizq (Sustenance)"
+        },
+        "word_family": [
+          {
+            "ar": "رِزْق",
+            "translit": "rizq",
+            "en": "provision",
+            "my": "ရိက္ခာ",
+            "freq": 123
+          }
+        ],
+        "pattern_unlock": "Allah is the 'Razzaq' (The Provider), and 'Yarzuqu' is the action.",
+        "example": {
+          "ar": "يَرْزُقُ مَنْ يَشَاءُ",
+          "en": "He provides for whom He wills",
+          "my": "ကိုယ်တော်သည် အလိုရှိသူကို ရိက္ခာပေးသနားတော်မူ၏",
+          "ref": "2:212"
+        }
+      },
+      {
+        "word": "تَنْصُرُ",
+        "translit": "tansuru",
+        "en": "you help / she helps",
+        "my": "သင်ကူညီသည် / သူမကူညီသည်",
+        "quran_freq": 35,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "تَفْعُلُ",
+        "root": {
+          "letters": "ن ص ر",
+          "concept_en": "victory/help",
+          "concept_my": "အောင်မြင်မှု/အကူအညီ"
+        },
+        "memory_hook": {
+          "sound": "Ton of support",
+          "image": "You give a ton of support",
+          "cross_language": "Nasrullah (Help of Allah)"
+        },
+        "word_family": [
+          {
+            "ar": "نَاصِر",
+            "translit": "nasir",
+            "en": "helper",
+            "my": "ကူညီသူ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Notice the 'u' vowel in the middle for this root as well.",
+        "example": {
+          "ar": "إِنْ تَنْصُرُوا اللَّهَ",
+          "en": "If you help Allah",
+          "my": "အကယ်၍ သင်တို့သည် အလ္လာဟ်အရှင်မြတ်အား ကူညီကြလျှင်",
+          "ref": "47:7"
+        }
+      },
+      {
+        "word": "نَنْزِلُ",
+        "translit": "nanzilu",
+        "en": "we send down",
+        "my": "ကျွန်ုပ်တို့ ချပေးသနားသည်",
+        "quran_freq": 140,
+        "word_type": "Verb",
+        "gender": "N/A",
+        "wazn": "نَفْعِلُ",
+        "root": {
+          "letters": "ن ز ل",
+          "concept_en": "descent",
+          "concept_my": "ဆင်းသက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Nozzle",
+          "image": "Water comes down from a nozzle",
+          "cross_language": "Nazul (Descent)"
+        },
+        "word_family": [
+          {
+            "ar": "تَنْزِيل",
+            "translit": "tanzil",
+            "en": "revelation",
+            "my": "ကျရောက်ခြင်း",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "The 'Royal We' (Na-) is often used by Allah when speaking of Revelation.",
+        "example": {
+          "ar": "نَحْنُ نُنَزِّلُ",
+          "en": "We send down",
+          "my": "ကျွန်ုပ်တို့သည် ချပေးသနားတော်မူ၏",
+          "ref": "15:9"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "تَصْرِيفُ الْمُضَارِعِ الْمُفْرَدِ",
+        "en": "Singular Present Conjugation Table",
+        "my": "အနည်းကိန်း ပစ္စုပ္ပန်ကာလကြိယာ ပြောင်းလဲပုံဇယား"
+      },
+      "formula": {
+        "display": "Ya / Ta / A / Na + Root",
+        "example": "يَفْعَلُ، تَفْعَلُ، أَفْعَلُ، نَفْعَلُ",
+        "myanmar_read": "ယ- (သူ)၊ သ- (သင်/သူမ)၊ အ- (ကျွန်ုပ်)၊ န- (ကျွန်ုပ်တို့) ဟူသော အရှေ့ဆက်များကို နှိုင်းယှဉ်လေ့လာပါ။",
+        "key_insight": "Memory Aid: A-Ta-Na-Ya (The four signs of Mudari')."
+      },
+      "explanation": {
+        "en": "This summary table covers the main singular forms used in the Quran. By changing just the first letter (the prefix), you change who is doing the action. The middle vowel depends on the specific root, but the prefix rules are constant.",
+        "my": "ဤဇယားသည် ကုရ်အာန်တွင် အသုံးများသော အနည်းကိန်းပုံစံများကို ခြုံငုံဖော်ပြထားသည်။ အစအက္ခရာ (အရှေ့ဆက်) ကို ပြောင်းလဲရုံဖြင့် လုပ်ဆောင်သူ (Subject) ပြောင်းလဲသွားသည်။ အလယ်ဗျည်း၏ သရသည် မူရင်းအက္ခရာအပေါ် မူတည်သော်လည်း အရှေ့ဆက် စည်းမျဉ်းများမှာ အတူတူပင်ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use nouns like 'သူ၊ သင်၊ ကျွန်ုပ်'. In Arabic, the single letter at the start replaces all these words.",
+        "my": "မြန်မာစာတွင် 'သူ၊ သင်၊ ကျွန်ုပ်' ဟု သီးခြားသုံးသော်လည်း၊ အာရဗီတွင် ကြိယာ၏အစရှိ အက္ခရာတစ်ခုတည်းက ထိုစကားလုံးများအားလုံး၏ နေရာတွင် အစားထိုးသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "يَـ = He (3rd person male)",
+          "rule_my": "ယ- (Ya-) = သူ (ယောက်ျား)",
+          "example": {
+            "ar": "يَدْخُلُ",
+            "en": "He enters",
+            "my": "သူဝင်သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "تَـ = You (m) / She",
+          "rule_my": "သ- (Ta-) = သင် / သူမ",
+          "example": {
+            "ar": "تَدْخُلُ",
+            "en": "You enter",
+            "my": "သင်ဝင်သည်"
+          }
+        },
+        {
+          "number": 3,
+          "rule_en": "أَ = I",
+          "rule_my": "အ- (A-) = ကျွန်ုပ်",
+          "example": {
+            "ar": "أَدْخُلُ",
+            "en": "I enter",
+            "my": "ကျွန်ုပ်ဝင်သည်"
+          }
+        },
+        {
+          "number": 4,
+          "rule_en": "نَـ = We",
+          "rule_my": "န- (Na-) = ကျွန်ုပ်တို့",
+          "example": {
+            "ar": "نَدْخُلُ",
+            "en": "We enter",
+            "my": "ကျွန်ုပ်တို့ဝင်သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Creation and Provision",
+          "ar": "اللَّهُ يَرْزُقُ مَنْ يَشَاءُ",
+          "en": "Allah provides for whom He wills",
+          "my": "လောကီဘဝအသက်ရှင်ခြင်းသည် ကာဖိရ်များအတွက် လှပအောင်တန်ဆာဆင်ထားခြင်း ခံရသည်။ ထို့နောက် သူတို့သည် အီမာန်ယုံကြည်သူများကို ပြောင်လှောင်ကြသည်။  ထို့ပြင် အရှင်မြတ်အား ကြောက်ရွံ့ အပြစ်ရှောင် ကောင်းကျိုးဆောင်သူများကမူ ကိယာမသ်နေ့တွင် သူတို့ထက် မြင့်မြတ်ကြလိမ့်မည်။  ထို့ပြင် အရှင်မြတ်သည် အရှင်မြတ်အလိုရှိသူကို အကန့်အသတ်မရှိ စားနပ်ရိက္ခာ ပေးသနားတော်မူသည်။",
+          "ref": "2:212",
+          "breakdown": {
+            "subject": {
+              "word": "الله",
+              "en": "Allah",
+              "note": "Proper Name"
+            },
+            "verb": {
+              "word": "يَرْزُقُ",
+              "en": "He provides",
+              "note": "Ya- prefix"
+            }
+          },
+          "myanmar_insight": "အလ္လာဟ်အရှင်မြတ်၏ အစာရိက္ခာပေးသနားမှုသည် အစဉ်မပြတ်ရှိနေသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting the prefixes",
+          "wrong": {
+            "ar": "دَخَلُ",
+            "note": "Missing the Mudari' prefix"
+          },
+          "correct": {
+            "ar": "يَدْخُلُ",
+            "en": "He enters",
+            "my": "သူဝင်သည်"
+          },
+          "myanmar_tip": "ကြိယာတစ်ခုတွင် 'ယ၊ သ၊ အ၊ န' မပါလျှင် ၎င်းသည် ပစ္စုပ္ပန်ကာလ မဟုတ်နိုင်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Parse the doer of the verb",
+          "instruction_my": "ကြိယာ၏ လုပ်ဆောင်သူကို ခွဲခြားပါ။",
+          "questions": [
+            {
+              "q": "نَخْرُجُ",
+              "answer_en": "We exit",
+              "answer_my": "ကျွန်ုပ်တို့ထွက်သည်",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: 'He provides for us'",
+          "instruction_my": "ဘာသာပြန်ပါ - 'ကိုယ်တော် ကျွန်ုပ်တို့ကို ရိက္ခာပေးသည်'",
+          "questions": [
+            {
+              "q": "يَرْزُقُنَا",
+              "answer_en": "He provides for us",
+              "answer_my": "ကိုယ်တော် ကျွန်ုပ်တို့ကို ရိက္ခာပေးသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Conjugate خ-ရ-ဂျ for 'I'",
+          "instruction_my": "'ကျွန်ုပ်' အတွက် 'Kh-R-J' ကို အသုံးပြုပြီး ကြိယာတည်ဆောက်ပါ။",
+          "questions": [
+            {
+              "q": "خ ر ج",
+              "answer_en": "akhruju",
+              "answer_my": "akhruju",
+              "ar": "أَخْرُجُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "This table shows the interaction of the universe: Allah provides (Ya-), we receive and worship (Na-). It is a dialogue between the Creator and the creation.",
+        "my": "ဤဇယားသည် စကြဝဠာ၏ ဆက်သွယ်မှုကို ပြသနေသည်။ အလ္လာဟ်အရှင်မြတ်က ပေးသနားသည် (ယ-)၊ ကျွန်ုပ်တို့က လက်ခံကိုးကွယ်သည် (န-)။ ဤသည်မှာ ဖန်ဆင်းရှင်နှင့် အဖန်ဆင်းခံကြား စကားပြောဆိုမှုဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:212",
+        "study_number": 1,
+        "arabic_full": "وَاللَّهُ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ",
+        "en_sahih": "But Allah provides for whom He wills without account.",
+        "my_mmsy": "လောကီဘဝအသက်ရှင်ခြင်းသည် ကာဖိရ်များအတွက် လှပအောင်တန်ဆာဆင်ထားခြင်း ခံရသည်။ ထို့နောက် သူတို့သည် အီမာန်ယုံကြည်သူများကို ပြောင်လှောင်ကြသည်။  ထို့ပြင် အရှင်မြတ်အား ကြောက်ရွံ့ အပြစ်ရှောင် ကောင်းကျိုးဆောင်သူများကမူ ကိယာမသ်နေ့တွင် သူတို့ထက် မြင့်မြတ်ကြလိမ့်မည်။  ထို့ပြင် အရှင်မြတ်သည် အရှင်မြတ်အလိုရှိသူကို အကန့်အသတ်မရှိ စားနပ်ရိက္ခာ ပေးသနားတော်မူသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 212,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002212.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/212",
+        "context": {
+          "en": "Contrast between the life of this world and the hereafter, and how Allah grants provision.",
+          "my": "လောကီဘဝနှင့် နောင်တမလွန်ဘဝတို့၏ ခြားနားချက်နှင့် အလ္လာဟ်အရှင်မြတ်က ရိက္ခာကို မည်သို့ပေးသနားပုံ။"
+        },
+        "word_by_word": [
+          {
+            "ar": "يَرْزُقُ",
+            "translit": "yarzuqu",
+            "en": "He provides",
+            "my": "ကိုယ်တော်ရိက္ခာပေးသည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ر ز ق",
+            "freq": 123
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Clear 3rd person singular 'Ya' prefix.",
+          "structure_my": "ရှင်းလင်းသော တတိယပုဂ္ဂိုလ် 'ယ' (Ya) အရှေ့ဆက်ဖြစ်သည်။",
+          "insight_en": "The present tense 'Yarzuqu' implies that Allah's provision is never ending.",
+          "insight_my": "ပစ္စုပ္ပန်ကာလ 'Yarzuqu' သည် အလ္လာဟ်အရှင်မြတ်၏ ရိက္ခာပေးမှုမှာ ဘယ်သောအခါမှ မကုန်ဆုံးနိုင်ကြောင်း ဆိုလိုသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ر ز ق",
+            "concept_en": "Anything that benefits a living being; not just money, but health, time, and knowledge.",
+            "concept_my": "သက်ရှိများအတွက် အကျိုးရှိသော အရာအားလုံး။ ငွေကြေးသာမက ကျန်းမာရေး၊ အချိန်နှင့် အသိပညာတို့လည်း ပါဝင်သည်။",
+            "members": [
+              {
+                "ar": "الرَّزَّاق",
+                "en": "The Provider",
+                "my": "ရိက္ခာပေးသနားတော်မူသောရှင်",
+                "freq": 1
+              }
+            ],
+            "professors_note": "Rizq is what you actually consume and benefit from, not just what you possess."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် 'ယရ်ဇုကု' (ရိက္ခာပေးသည်)။ ဤရိက္ခာသည် ကျွန်ုပ်တို့၏ ကြိုးစားအားထုတ်မှုထက် ကိုယ်တော်၏ စေတနာတော်အပေါ်တွင် ပိုမိုမူတည်နေသည်။ အတိုင်းအဆမရှိသော ရိက္ခာကို ကိုယ်တော်ကသာ ပေးစွမ်းနိုင်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Yarzuqu man yashā'u bi-ghayri hisāb.",
+          "meaning_anchor": "An overflowing cup of water.",
+          "daily_connection": "Say this when worried about finances.",
+          "my": "စီးပွားရေးအတွက် စိုးရိမ်သောအခါ ဤအာယသ်တော်ကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We completed our study of singular present tense verbs. By mastering the prefixes (Ya, Ta, A, Na), you can now identify the subject of hundreds of Quranic verbs and understand whether an action is ongoing or repetitive.",
+      "my": "ကျွန်ုပ်တို့သည် အနည်းကိန်း ပစ္စုပ္ပန်ကာလကြိယာများကို လေ့လာပြီးဆုံးခဲ့သည်။ အရှေ့ဆက်များ (ယ၊ သ၊ အ၊ န) ကို ကျွမ်းကျင်ခြင်းဖြင့် ကုရ်အာန်ပါ ကြိယာရာပေါင်းများစွာ၏ လုပ်ဆောင်သူကို ခွဲခြားနိုင်ပြီဖြစ်သည်။"
+    }
+  }
+]

@@ -1,0 +1,1947 @@
+[
+  {
+    "lesson_id": "L1-016",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 16,
+    "title": {
+      "ar": "أَسْمَاءُ الْإِشَارَةِ (٦) — ذَٰلِكَ",
+      "en": "Demonstratives VI — 'That' for Masculine Far (Dhālika)",
+      "my": "အဝေးညွှန်းအညွှန်းနာမ် (အဖို) - ဒါလိက"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Dhālika for far masculine; its use for reverence in Quran (2:2)",
+      "grammar_formula": "ذَٰلِكَ + Masculine Noun = THAT [Noun]"
+    },
+    "section_1_vocab": [
+      {
+        "word": "كِتَابٌ",
+        "translit": "kitāb",
+        "en": "Book",
+        "my": "စာအုပ်",
+        "quran_freq": 230,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ك ت ب",
+          "concept_en": "writing and documenting",
+          "concept_my": "ရေးသားခြင်းနှင့် မှတ်တမ်းတင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Key-tab",
+          "image": "A giant key inside a holy book",
+          "cross_language": "Kitab in Urdu/Malay"
+        },
+        "word_family": [
+          {
+            "ar": "يَكْتُبُ",
+            "translit": "yaktubu",
+            "en": "he writes",
+            "my": "သူရေးသည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Words with K-T-B always relate to writing or scripts.",
+        "example": {
+          "ar": "ذَٰلِكَ الْكِتَابُ",
+          "en": "That is the Book",
+          "my": "ထိုစာအုပ်သည်",
+          "ref": "2:2"
+        }
+      },
+      {
+        "word": "يَوْمٌ",
+        "translit": "yawm",
+        "en": "Day",
+        "my": "နေ့ရက်",
+        "quran_freq": 475,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ي و م",
+          "concept_en": "a period of time / day",
+          "concept_my": "အချိန်ကာလ သို့မဟုတ် နေ့ရက်"
+        },
+        "memory_hook": {
+          "sound": "Yawn",
+          "image": "Yawning after a long day",
+          "cross_language": "Yaum in Malay"
+        },
+        "word_family": [
+          {
+            "ar": "أَيَّام",
+            "translit": "ayyām",
+            "en": "days",
+            "my": "နေ့ရက်များ",
+            "freq": 27
+          }
+        ],
+        "pattern_unlock": "Yawm refers to any specific period of time, not just 24 hours.",
+        "example": {
+          "ar": "ذَٰلِكَ الْيَوْمُ الْحَقُّ",
+          "en": "That is the True Day",
+          "my": "ထိုနေ့သည် မှန်ကန်သောနေ့ဖြစ်သည်",
+          "ref": "78:39"
+        }
+      },
+      {
+        "word": "وَعْدٌ",
+        "translit": "wa'd",
+        "en": "Promise",
+        "my": "ကတိ",
+        "quran_freq": 151,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "و ع د",
+          "concept_en": "promising or threatening",
+          "concept_my": "ကတိပေးခြင်း သို့မဟုတ် ခြိမ်းခြောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Wad",
+          "image": "A wad of cash given as a promise",
+          "cross_language": "Wa'ad in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "وَعَدَ",
+            "translit": "wa'ada",
+            "en": "he promised",
+            "my": "သူကတိပေးခဲ့သည်",
+            "freq": 80
+          }
+        ],
+        "pattern_unlock": "W-'-D roots relate to an appointment or a binding word.",
+        "example": {
+          "ar": "ذَٰلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ",
+          "en": "That is a promise not to be denied",
+          "my": "ထိုကတိသည် မုသားမဟုတ်သော ကတိဖြစ်သည်",
+          "ref": "11:65"
+        }
+      },
+      {
+        "word": "عَهْدٌ",
+        "translit": "ʿahd",
+        "en": "Covenant",
+        "my": "ပဋိညာဉ်",
+        "quran_freq": 46,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ع هـ د",
+          "concept_en": "binding agreement",
+          "concept_my": "ခိုင်မာသော သဘောတူညီချက်"
+        },
+        "memory_hook": {
+          "sound": "Odd",
+          "image": "An odd-shaped document for a covenant",
+          "cross_language": "Ahd in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "عَاهَدَ",
+            "translit": "āhada",
+            "en": "he made a treaty",
+            "my": "သူစာချုပ်ချုပ်ဆိုခဲ့သည်",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "This root implies a commitment that must be fulfilled.",
+        "example": {
+          "ar": "بِعَهْدِ اللَّهِ",
+          "en": "with the covenant of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ပဋိညာဉ်ဖြင့်",
+          "ref": "3:76"
+        }
+      },
+      {
+        "word": "سَاعَةٌ",
+        "translit": "sāʿah",
+        "en": "Hour",
+        "my": "အချိန်နာရီ / အဆုံးစီရင်ရာနေ့",
+        "quran_freq": 48,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَاعَة",
+        "root": {
+          "letters": "س و ع",
+          "concept_en": "passing of time",
+          "concept_my": "အချိန်ကုန်လွန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sa-ah",
+          "image": "Looking at a watch for the hour",
+          "cross_language": "Saat in Malay/Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "سَاعَات",
+            "translit": "sāʿāt",
+            "en": "hours",
+            "my": "နာရီများ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "In the Quran, 'The Hour' usually refers to the Day of Judgment.",
+        "example": {
+          "ar": "ذَٰلِكَ مَتَاعُ الْحَيَاةِ",
+          "en": "That is the enjoyment of life",
+          "my": "ထိုအရာသည် လောကီဘဝ၏ စည်းစိမ်ဖြစ်သည်",
+          "ref": "3:14"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "اسْمُ الْإِشَارَةِ لِلْبَعِيدِ",
+        "en": "Far Demonstrative Pronoun",
+        "my": "အဝေးညွှန်းအညွှန်းနာမ်"
+      },
+      "formula": {
+        "display": "ذَٰلِكَ + كِتَابٌ = ذَٰلِكَ الْكِتَابُ",
+        "example": "ذَٰلِكَ الْيَوْمُ الْحَقُّ",
+        "myanmar_read": "ဒါလိက ဆိုသည်မှာ 'ထိုအရာ' (အဝေးရှိ အဖိုပစ္စည်း) ကို ဆိုလိုသည်။",
+        "key_insight": "In the Quran, Dhālika is often used for high-status things to show their 'greatness' and distance from flaws."
+      },
+      "explanation": {
+        "en": "Dhālika is the masculine singular demonstrative for objects that are physically or metaphorically far. While 'Hādhā' is used for things close by, 'Dhālika' points to something distant. In the Quran, it is frequently used to refer to the Scripture or the Day of Judgment to emphasize their majesty and importance.",
+        "my": "ဒါလိက (Dhālika) သည် အဝေးရှိ အဖိုပစ္စည်းတစ်ခုကို ညွှန်းဆိုရာတွင် အသုံးပြုသည်။ 'ဟားသား' (Hādhā) သည် အနီးရှိအရာကို ညွှန်းသော်လည်း 'ဒါလိက' သည် အလှမ်းဝေးသောအရာကို ညွှန်းသည်။ ကုရ်အာန်ကျမ်းတော်မြတ်တွင် အလွန်မြင့်မြတ်သော အရာများ (ဥပမာ- ကုရ်အာန်ကျမ်း၊ ကိယာမသ်နေ့) ကို ညွှန်းဆိုရာ၌ ၎င်းတို့၏ ကြီးကျယ်မှုကို ဖော်ညွှန်းရန် အသုံးပြုလေ့ရှိသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to the Burmese 'ထို' (hto) or 'ဟို' (ho) which refers to something away from the speaker.",
+        "my": "မြန်မာဘာသာစကားရှိ 'ထို' သို့မဟုတ် 'ဟို' ဟူသော အညွှန်းစကားလုံးနှင့် ဆင်တူသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Dhālika is used for masculine singular nouns.",
+          "rule_my": "ဒါလိကကို အဖို၊ ဧကဝုစ် နာမ်များအတွက်သာ သုံးသည်။",
+          "example": {
+            "ar": "ذَٰلِكَ فَضْلُ اللَّهِ",
+            "en": "That is the favor of Allah",
+            "my": "ထိုအရာသည် အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်ဖြစ်သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ",
+          "en": "This is the Book about which there is no doubt",
+          "my": "ဤကျမ်းသည် (ယခင်ထုတ်ပြန်ခဲ့သောကျမ်းများထဲ၌ ကြိုတင်အမိန့်ရှိထားသည့် ကျမ်းဂန်ဖြစ်လေရာ (ဝါ) အသင်တို့က ငါအရှင်မြတ်ထံတွင် ”ကျွန်ုပ်တို့အား ဖြောင့်မတ်မှန်ကန်သောလမ်းကို ညွှန်ကြားပြသတော်မူပါ” ဟု တောင်းခံခြင်းကို ငါအရှင်လက်ခံတော်မူ၍ ချပေးတော်မူလိုက်သည့် လမ်းမှန်ညွှန်ကြားပြသချက်ကျမ်းဂန်ဖြစ်လေရာ) ၎င်းကျမ်းဂန်နှင့်ပတ်သက်၍ သံသယဖြစ်စရာမရှိပေ။ ဤကျမ်းဂန်သည် မုသ်သကီန် ကြောက်ရွံ့ အပြစ်ရှောင် ကောင်းကျိုးဆောင်သူများအတွက် လမ်းမှန်ညွှန်ကြားပြသချက်ဖြစ်သည်။",
+          "ref": "2:2",
+          "breakdown": {
+            "subject": {
+              "word": "ذَٰلِكَ",
+              "en": "That",
+              "note": "Pointing to the Quran"
+            },
+            "predicate": {
+              "word": "الْكِتَابُ",
+              "en": "the Book",
+              "note": "Referring to its greatness"
+            }
+          },
+          "myanmar_insight": "အာယသ်တော်တွင် ဒါလိကကို သုံးထားသော်လည်း မြန်မာဘာသာပြန်တွင် အနီးကပ်သဘောဖြင့် 'ဤ' ဟု ပြန်ဆိုလေ့ရှိသော်လည်း မူရင်းမှာ အထူးအလေးပေးလိုသော အဝေးညွှန်းဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using Dhālika for feminine nouns",
+          "wrong": {
+            "ar": "ذَٰلِكَ جَنَّة",
+            "note": "Jannah is feminine"
+          },
+          "correct": {
+            "ar": "تِلْكَ جَنَّة",
+            "en": "That is a Paradise",
+            "my": "ထိုအရာသည် ဂျန္နသ်အမွေအနှစ်ဖြစ်သည်"
+          },
+          "myanmar_tip": "နာမ်သည် အမ သို့မဟုတ် အဖို ဖြစ်သည်ကို အရင်စစ်ဆေးပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "အတိအကျနှင့် အတိအကျမဟုတ်သော နာမ်များကို ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "ذَٰلِكَ يَوْمٌ مَشْهُودٌ",
+              "answer_en": "Yawmun (Indefinite)",
+              "answer_my": "Yawmun (အတိအကျမဟုတ်)",
+              "ref": "11:103"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+              "answer_en": "That is the great success",
+              "answer_my": "ထိုအရာသည် ကြီးကျယ်သော အောင်မြင်မှုဖြစ်သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "Al- ထည့်သွင်း၍ အတိအကျနာမ် ပြောင်းလဲပါ",
+          "questions": [
+            {
+              "q": "كِتَابٌ",
+              "answer_en": "The Book",
+              "answer_my": "စာအုပ်",
+              "ar": "الْكِتَابُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Dhālika teaches us humility. By pointing to the Quran and the Hereafter as 'That' (Far), Allah reminds us that His wisdom and the eternal life are far above our worldly comprehension.",
+        "my": "ဒါလိကသည် ကျွန်ုပ်တို့အား နှိမ့်ချမှုကို သင်ကြားပေးသည်။ ကုရ်အာန်နှင့် နောင်တမလွန်ကို 'ထိုအရာ' (အဝေး) အဖြစ် ညွှန်းဆိုခြင်းဖြင့်၊ အလ္လာဟ်အရှင်မြတ်၏ ဉာဏ်ပညာနှင့် ထာဝရဘဝသည် ကျွန်ုပ်တို့၏ လောကီနားလည်နိုင်စွမ်းထက် များစွာမြင့်မားကြောင်း သတိပေးထားသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:2",
+        "study_number": 1,
+        "arabic_full": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+        "en_sahih": "This is the Book about which there is no doubt, a guidance for those conscious of Allah -",
+        "my_mmsy": "ဤကျမ်းသည် (ယခင်ထုတ်ပြန်ခဲ့သောကျမ်းများထဲ၌ ကြိုတင်အမိန့်ရှိထားသည့် ကျမ်းဂန်ဖြစ်လေရာ (ဝါ) အသင်တို့က ငါအရှင်မြတ်ထံတွင် ”ကျွန်ုပ်တို့အား ဖြောင့်မတ်မှန်ကန်သောလမ်းကို ညွှန်ကြားပြသတော်မူပါ” ဟု တောင်းခံခြင်းကို ငါအရှင်လက်ခံတော်မူ၍ ချပေးတော်မူလိုက်သည့် လမ်းမှန်ညွှန်ကြားပြသချက်ကျမ်းဂန်ဖြစ်လေရာ) ၎င်းကျမ်းဂန်နှင့်ပတ်သက်၍ သံသယဖြစ်စရာမရှိပေ။ ဤကျမ်းဂန်သည် မုသ်သကီန် ကြောက်ရွံ့ အပြစ်ရှောင် ကောင်းကျိုးဆောင်သူများအတွက် လမ်းမှန်ညွှန်ကြားပြသချက်ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 2,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002002.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/2",
+        "context": {
+          "en": "These are the opening verses of Al-Baqarah, establishing the authority of the Quran right after the prayer for guidance in Al-Fatiha.",
+          "my": "ဤသည်မှာ စူရာဗကရဟ်၏ အစပိုင်းအာယသ်တော်များဖြစ်ပြီး၊ စူရာဖာသေဟ၌ လမ်းမှန်တောင်းခံပြီးနောက် ကုရ်အာန်၏ အခွင့်အာဏာကို အတည်ပြုခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "ذَٰلِكَ",
+            "translit": "dhālika",
+            "en": "That",
+            "my": "ထိုအရာ",
+            "role_en": "Demonstrative",
+            "role_my": "အညွှန်းနာမ်",
+            "root": "ذ ل ك",
+            "freq": 481
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Dhālika points to the Book, showing its high status.",
+          "structure_my": "ဒါလိကသည် ကျမ်းမြတ်ကို ညွှန်းဆိုပြီး ၎င်း၏ မြင့်မြတ်သော အဆင့်အတန်းကို ပြသသည်။",
+          "insight_en": "Even though the Quran is in front of us, 'That' is used to show it is beyond human production.",
+          "insight_my": "ကုရ်အာန်သည် ကျွန်ုပ်တို့ရှေ့၌ ရှိနေသော်လည်း 'ဒါလိက' ကို သုံးခြင်းမှာ လူသားတို့ ဖန်တီးနိုင်စွမ်းထက် ကျော်လွန်ကြောင်း ပြဆိုရန်ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ك ت ب",
+            "concept_en": "To gather or prescribe something into writing",
+            "concept_my": "အရာတစ်ခုခုကို စုစည်းခြင်း သို့မဟုတ် ရေးသားမှတ်တမ်းတင်ခြင်း",
+            "members": [
+              {
+                "ar": "مَكْتُوب",
+                "en": "written",
+                "my": "ရေးမှတ်ထားသော",
+                "freq": 2
+              }
+            ],
+            "professors_note": "Writing in Arabic (Kataba) also carries the meaning of 'decreeing' something as law."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကုရ်အာန်ကျမ်းတော်မြတ်သည် ကျွန်ုပ်တို့၏ လက်ထဲတွင် ရှိနေသော်လည်း အလ္လာဟ်အရှင်မြတ်က 'ဒါလိက' (ထိုအရာ) ဟု သုံးနှုန်းခြင်းမှာ ဤကျမ်းသည် သာမန်စာအုပ်မဟုတ်ဘဲ အလွန်တရာ မြင့်မြတ်သောအဆင့်တွင် ရှိကြောင်း သိစေလိုခြင်းဖြစ်သည်။ မြန်မာမွတ်စလင်တစ်ဦးအနေဖြင့် ဤကျမ်းကို ဖတ်ရှုသည့်အခါ ၎င်း၏ ကြီးကျယ်ခမ်းနားမှုကို နှလုံးသွင်းရပါမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The flow is slow and steady: Dhaa-lika al-kitaab...",
+          "meaning_anchor": "Imagine a bright light pointing to the Mushaf on a high shelf.",
+          "daily_connection": "Recite this when opening the Quran to remind yourself of its truth.",
+          "my": "ကုရ်အာန်ကျမ်းကို စတင်ဖွင့်လှစ်ဖတ်ရှုတိုင်း ဤအာယသ်ကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Today we learned 'Dhālika' (That), a far demonstrative used for masculine nouns. We explored how it highlights the majesty of the Quran and common terms like Day and Promise.",
+      "my": "ယနေ့သင်ခန်းစာတွင် အဝေးညွှန်းအညွှန်းနာမ် 'ဒါလိက' (Dhālika) ကို သင်ယူခဲ့သည်။ ကုရ်အာန်ကျမ်းတွင် ၎င်းကို မည်သို့ မြင့်မြတ်စွာ အသုံးပြုထားကြောင်းနှင့် အရေးကြီးသော ဝေါဟာရများကို လေ့လာခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-017",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 17,
+    "title": {
+      "ar": "أَسْمَاءُ الْإِشَارَةِ (٧) — تِلْكَ",
+      "en": "Demonstratives VII — 'That' for Feminine Far (Tilka)",
+      "my": "အဝေးညွှန်းအညွှန်းနာမ် (အမ) - သီလ်က"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Tilka + feminine far nouns; Quranic usage",
+      "grammar_formula": "تِلْكَ + Feminine Noun = THAT [Noun]"
+    },
+    "section_1_vocab": [
+      {
+        "word": "جَنَّةٌ",
+        "translit": "jannah",
+        "en": "Paradise / Garden",
+        "my": "ဂျန္နသ် / ဥယျာဉ်",
+        "quran_freq": 147,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "ج ن ن",
+          "concept_en": "to hide or cover",
+          "concept_my": "ဝှက်ထားခြင်း သို့မဟုတ် ဖုံးအုပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Jen-nah",
+          "image": "A beautiful hidden garden with high walls",
+          "cross_language": "Jannah in Urdu/Malay"
+        },
+        "word_family": [
+          {
+            "ar": "مَجْنُون",
+            "translit": "majnūn",
+            "en": "possessed/covered mind",
+            "my": "ရူးသွပ်သူ",
+            "freq": 11
+          }
+        ],
+        "pattern_unlock": "Roots with J-N-N refer to something hidden (like Jinns or the mind in madness).",
+        "example": {
+          "ar": "تِلْكَ الْجَنَّةُ",
+          "en": "That is the Paradise",
+          "my": "ထိုအရာသည် ဂျန္နသ်ဖြစ်သည်",
+          "ref": "19:63"
+        }
+      },
+      {
+        "word": "أُمَّةٌ",
+        "translit": "ummah",
+        "en": "Nation / Community",
+        "my": "လူမျိုးစု / အဖွဲ့အစည်း",
+        "quran_freq": 64,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فُعْلَة",
+        "root": {
+          "letters": "أ م م",
+          "concept_en": "mother or source",
+          "concept_my": "မိခင် သို့မဟုတ် အရင်းအမြစ်"
+        },
+        "memory_hook": {
+          "sound": "Ummah",
+          "image": "A mother leading her community",
+          "cross_language": "Umat in Malay"
+        },
+        "word_family": [
+          {
+            "ar": "أُمّ",
+            "translit": "umm",
+            "en": "mother",
+            "my": "မိခင်",
+            "freq": 35
+          }
+        ],
+        "pattern_unlock": "The Ummah is like a mother that gathers and protects its people.",
+        "example": {
+          "ar": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ",
+          "en": "That is a nation which has passed on",
+          "my": "ထိုသူတို့သည် လွန်လေပြီးသော လူမျိုးစုများဖြစ်သည်",
+          "ref": "2:134"
+        }
+      },
+      {
+        "word": "آيَةٌ",
+        "translit": "āyah",
+        "en": "Sign / Verse",
+        "my": "သက်သေလက္ခဏာ / အာယသ်တော်",
+        "quran_freq": 382,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "أ ي ي",
+          "concept_en": "sign or mark",
+          "concept_my": "အမှတ်အသား သို့မဟုတ် လက္ခဏာ"
+        },
+        "memory_hook": {
+          "sound": "Eye-yah",
+          "image": "An eye seeing a sign",
+          "cross_language": "Ayat in Malay/Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "آيَات",
+            "translit": "āyāt",
+            "en": "signs",
+            "my": "အာယသ်တော်များ",
+            "freq": 290
+          }
+        ],
+        "pattern_unlock": "An Ayah is both a verse of the Quran and a sign in nature.",
+        "example": {
+          "ar": "تِلْكَ آيَاتُ اللَّهِ",
+          "en": "Those are the signs of Allah",
+          "my": "ထိုအရာတို့သည် အလ္လာဟ်အရှင်မြတ်၏ အမှတ်အသားများဖြစ်ကြသည်",
+          "ref": "2:252"
+        }
+      },
+      {
+        "word": "نِعْمَةٌ",
+        "translit": "niʿmah",
+        "en": "Blessing / Favor",
+        "my": "ကျေးဇူးတော် / နိအ်မသ်",
+        "quran_freq": 56,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعْلَة",
+        "root": {
+          "letters": "ن ع م",
+          "concept_en": "softness or comfort",
+          "concept_my": "နူးညံ့မှု သို့မဟုတ် သက်တောင့်သက်သာရှိမှု"
+        },
+        "memory_hook": {
+          "sound": "Neema",
+          "image": "Eating a delicious meal as a blessing",
+          "cross_language": "Nikmat in Malay"
+        },
+        "word_family": [
+          {
+            "ar": "نَعَمْ",
+            "translit": "na'am",
+            "en": "yes (comfort)",
+            "my": "ဟုတ်ကဲ့",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "N-'-M roots connect to things that make life pleasant and easy.",
+        "example": {
+          "ar": "بِنِعْمَةِ اللَّهِ",
+          "en": "with the blessing of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်ဖြင့်",
+          "ref": "16:71"
+        }
+      },
+      {
+        "word": "بُيُوتٌ",
+        "translit": "buyūt",
+        "en": "Houses",
+        "my": "အိမ်များ",
+        "quran_freq": 34,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فُعُول",
+        "root": {
+          "letters": "ب ي ت",
+          "concept_en": "spending the night",
+          "concept_my": "ညအိပ်ရပ်နားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Boo-yoot",
+          "image": "Many houses in a row",
+          "cross_language": "Buyut (Old Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "بَيْت",
+            "translit": "bayt",
+            "en": "house",
+            "my": "အိမ်",
+            "freq": 66
+          }
+        ],
+        "pattern_unlock": "Plurals of non-human objects are treated as Feminine Singular in Arabic.",
+        "example": {
+          "ar": "تِلْكَ بُيُوتُهُمْ",
+          "en": "Those are their houses",
+          "my": "ထိုအရာတို့သည် ၎င်းတို့၏ အိမ်များဖြစ်သည်",
+          "ref": "27:52"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "اسْمُ الْإِشَارَةِ لِلْبَعِيدِ (مُؤَنَّث)",
+        "en": "Far Demonstrative (Feminine)",
+        "my": "အဝေးညွှန်းအညွှန်းနာမ် (အမ)"
+      },
+      "formula": {
+        "display": "تِلْكَ + جَنَّةٌ = تِلْكَ الْجَنَّةُ",
+        "example": "تِلْكَ آيَاتُ الْكِتَابِ",
+        "myanmar_read": "သီလ်က ဆိုသည်မှာ 'ထိုအရာ' (အဝေးရှိ အမပစ္စည်း) ကို ဆိုလိုသည်။",
+        "key_insight": "Tilka is used not just for feminine singulars, but also for broken plurals of non-human objects."
+      },
+      "explanation": {
+        "en": "Tilka is the feminine counterpart to Dhālika. It is used to point to something far that is grammatically feminine. Crucially, in Arabic, all plural nouns that are not people are treated as feminine singular, so we use 'Tilka' to say 'Those' for things like signs, days, or houses.",
+        "my": "သီလ်က (Tilka) သည် ဒါလိက၏ အမအညွှန်းစကားလုံး ဖြစ်သည်။ အဝေးရှိ အမနာမ်များကို ညွှန်းရာတွင် သုံးသည်။ အာရပ်ဘာသာစကား၏ ထူးခြားချက်မှာ လူမဟုတ်သော အများကိန်းနာမ်အားလုံးကို အမ၊ ဧကဝုစ်အဖြစ် သတ်မှတ်သဖြင့် 'အာယသ်တော်များ' သို့မဟုတ် 'အိမ်များ' စသည်တို့ကို ညွှန်းဆိုရာတွင်လည်း 'သီလ်က' ကို သုံးရသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese does not distinguish gender in demonstratives, using 'ထို' (hto) for both.",
+        "my": "မြန်မာစကားတွင် အဖို/အမ ခွဲခြားစရာမလိုဘဲ 'ထို' ဟုသာ သုံးသော်လည်း အာရဗီတွင် ခွဲခြားရန် လိုအပ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Use Tilka for singular feminine nouns with Tā-Marbūṭa (ة).",
+          "rule_my": "သီလ်ကကို Tā-Marbūṭa (ة) ပါသော အမနာမ်များအတွက် သုံးသည်။",
+          "example": {
+            "ar": "تِلْكَ الْجَنَّةُ",
+            "en": "That is the Paradise",
+            "my": "ထိုအရာသည် ဂျန္နသ်ဖြစ်သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Use Tilka for non-human plurals.",
+          "rule_my": "လူမဟုတ်သော အများကိန်းများအတွက် သီလ်ကကို သုံးသည်။",
+          "example": {
+            "ar": "تِلْكَ الْأَيَّامُ",
+            "en": "Those days",
+            "my": "ထိုနေ့ရက်များ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "تِلْكَ حُدُودُ اللَّهِ",
+          "en": "These are the limits [set by] Allah",
+          "my": "အသင်တို့အတွက် စွောင်မ်ဥပုသ်စောင့်သောည၌ အသင်တို့၏ဇနီးများနှင့် ပေါင်းသင်းဆက်ဆံခြင်းကို ခွင့်ပြုပေးတော်မူလိုက်သည်။  သူမတို့သည် အသင်တို့အတွက် အဝတ်အစားဖြစ်ပြီး အသင်တို့သည်လည်း သူမတို့အတွက် အဝတ်အစားဖြစ်သည်။  အမှန်စင်စစ် အသင်တို့သည် အသင်တို့ကိုယ်ကို အသင်တို့သာ လှည့်စားနေခဲ့ကြသည် ကို အလ္လာဟ်အရှင်မြတ်သည် သိရှိပြီးဖြစ်တော်မူသည်။ ထို့နောက် အရှင်မြတ်သည် အသင်တို့(ဘက်သို့ သနားကရုဏာနှင့်လှည့်ပြီး အသင်တို့၏ဝန်ချတောင်းပန်မှု)ကို လက်ခံခွင့်လွှတ်လိုက်တော်မူသည်။ ထို့ပြင် အသင်တို့၏မှားယွင်းချွတ်ချော်မှုများကိုလည်း ပလပ်လိုက်တော်မူသည်။ သို့ဖြစ်ရာ ယခုမူ အသင်တို့သည် အသင်တို့၏ ဇနီးကြင်ရာများနှင့် ပေါင်းသင်းဆက်ဆံကြ၍ အသင်တို့အတွက် အလ္လာဟ်အရှင်မြတ် ပြဋ္ဌာန်းထားတော်မူသည့်အရာများကို ရှာဖွေကြပါ။  ထို့ပြင် အသင်တို့သည် မိုးလင်းချိန်၏အဖြူမျှင်တန်းသည် အနက်မျှင်ထုမှ ထင်ရှားလာသည့်အချိန်ထိ စားသောက်ကြပါ။  ထို့နောက် အသင်တို့သည် ညအချိန်အထိ စွောင်မ်ဥပုသ် စောင့်ထိန်းကြပါ။ ထို့ပြင် အသင်တို့သည် ဗလီကျောင်းတော်များထဲတွင် အိအ်သိကာဖ် ထိုင်နေသည့် အခြေအနေတွင် ဇနီးများနှင့် ပေါင်းသင်းဆက်ဆံခြင်း မပြုကြနှင့်။ ဤအရာများသည် အလ္လာဟ်အရှင်မြတ် သတ်မှတ်ထားတော်မူသည့် သတ်မှတ်ချက် အမိန့်များပင်ဖြစ်သည်။ သို့ဖြစ်ရာ အသင်တို့သည် ထိုနယ်နိမိတ်သတ်မှတ်ချက်များ၏အနီးသို့ မကပ်ကြနှင့်။ ထိုသို့ပင် အလ္လာဟ်အရှင်မြတ်သည် အရှင်မြတ်၏အာယသ်တော်များကို လူများအတွက် သူတို့ ကြောက်ရွံ့အပြစ်ရှောင် ကောင်းကျိုးဆောင်ကြရန် ရှင်းပြတော်မူသည်။",
+          "ref": "2:187",
+          "breakdown": {
+            "subject": {
+              "word": "تِلْكَ",
+              "en": "Those",
+              "note": "Pointing to laws"
+            },
+            "predicate": {
+              "word": "حُدُودُ",
+              "en": "limits",
+              "note": "Plural of Hadd"
+            }
+          },
+          "myanmar_insight": "ဤနေရာတွင် 'ဟူဒူးဒ်' (စည်းကမ်းချက်များ) သည် လူမဟုတ်သော အများကိန်းဖြစ်၍ သီလ်ကကို သုံးထားခြင်းဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using Dhālika for Ayah",
+          "wrong": {
+            "ar": "ذَٰلِكَ آيَة",
+            "note": "Ayah is feminine"
+          },
+          "correct": {
+            "ar": "تِلْكَ آيَةٌ",
+            "en": "That is a sign",
+            "my": "ထိုအရာသည် သက်သေလက္ခဏာတစ်ခုဖြစ်သည်"
+          },
+          "myanmar_tip": "စကားလုံးအဆုံးမှာ Tā-Marbūṭa (ة) ပါရင် သီလ်ကကို သုံးဖို့ မမေ့ပါနဲ့။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the demonstrative in the verse",
+          "instruction_my": "အာယသ်တော်ထဲမှ အညွှန်းနာမ်ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "تِلْكَ آيَاتُ اللَّهِ نَتْلُوهَا عَلَيْكَ",
+              "answer_en": "Tilka",
+              "answer_my": "သီလ်က",
+              "ref": "2:252"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ",
+              "answer_en": "That is a nation which has passed away",
+              "answer_my": "ထိုလူမျိုးစုသည် လွန်လေပြီးလေပြီ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Choose the correct demonstrative (Dhālika/Tilka)",
+          "instruction_my": "မှန်ကန်သော အညွှန်းနာမ်ကို ရွေးချယ်ပါ",
+          "questions": [
+            {
+              "q": ".... جَنَّةٌ",
+              "answer_en": "Tilka",
+              "answer_my": "သီလ်က",
+              "ar": "تِلْكَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Tilka is often used for the signs of Allah in nature and the Quran. It points us to look beyond the physical world to the Creator behind those signs.",
+        "my": "သီလ်ကကို သဘာဝတရားနှင့် ကုရ်အာန်ရှိ အလ္လာဟ်အရှင်မြတ်၏ အမှတ်အသားများကို ညွှန်းဆိုရာတွင် သုံးလေ့ရှိသည်။ ၎င်းသည် ကျွန်ုပ်တို့အား ရုပ်ဝတ္ထုလောကကို ကျော်လွန်၍ ဖန်ဆင်းရှင်ကို ရှာဖွေရန် ညွှန်ပြနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:252",
+        "study_number": 1,
+        "arabic_full": "تِلْكَ آيَاتُ اللَّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ",
+        "en_sahih": "These are the verses of Allah which We recite to you, [O Muhammad], in truth",
+        "my_mmsy": "ဤသည် အလ္လာဟ်အရှင်မြတ်၏ အာယသ်တော်များပင်ဖြစ်သည်။ ငါအရှင်မြတ်သည် ထိုအာယသ်တော်များကို အသင်၏အပေါ်၌ မှန်ကန်စွာ ဖတ်ရွတ်ပြတော်မူသည်၊  ထို့ပြင် အသင်သည် စေလွှတ်တော်မူခြင်းခံရသည့် ရစူလ်တမန်တော်များထဲတွင် အမှန်ပင် တစ်ဦးအပါအဝင် ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 252,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002252.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/252",
+        "context": {
+          "en": "This verse concludes a series of stories about past prophets and nations, affirming that these accounts are true signs from Allah.",
+          "my": "ဤအာယသ်တော်သည် ရှေးယခင်ပရောဖက်များနှင့် လူမျိုးစုများအကြောင်း ပြောကြားပြီးနောက်၊ ဤပြောကြားချက်များသည် အလ္လာဟ်အရှင်မြတ်ထံမှ မှန်ကန်သော သက်သေများဖြစ်ကြောင်း အတည်ပြုထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "تِلْكَ",
+            "translit": "tilka",
+            "en": "Those",
+            "my": "ထိုအရာတို့",
+            "role_en": "Demonstrative",
+            "role_my": "အညွှန်းနာမ်",
+            "root": "ت ل ك",
+            "freq": 35
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Tilka points to Ayāt (plural), showing its use for non-human plurals.",
+          "structure_my": "သီလ်ကသည် 'အာယသ်' (အများကိန်း) ကို ညွှန်းခြင်းဖြင့် လူမဟုတ်သော အများကိန်းများတွင် အသုံးပြုမှုကို ပြသသည်။",
+          "insight_en": "The use of Tilka gives a sense of looking at vast, clear signs that are established and firm.",
+          "insight_my": "သီလ်ကကို သုံးခြင်းဖြင့် ခိုင်မာပြတ်သားသော အမှတ်အသားများကို ရှုမြင်ရသည့် ခံစားချက်ကို ပေးသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "أ ي ي",
+            "concept_en": "A distinctive mark that points to something else",
+            "concept_my": "အခြားအရာတစ်ခုကို ညွှန်ပြနေသော ထူးခြားသော အမှတ်အသား",
+            "members": [
+              {
+                "ar": "آيَة",
+                "en": "sign",
+                "my": "အမှတ်အသား",
+                "freq": 382
+              }
+            ],
+            "professors_note": "An Ayah is not just a sentence; it is a miracle that proves the truth of the speaker."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့အား ဤလောကရှိ သက်သေများကို 'သီလ်က' ဟု ညွှန်းဆိုကာ သတိပြုစေသည်။ ကုရ်အာန်၏ အာယသ်တော်တိုင်းသည် ကျွန်ုပ်တို့၏ ဘဝလမ်းပြများဖြစ်သည်။ ဤအမှတ်အသားများကို မြင်တွေ့ရသောအခါ အလ္လာဟ်အရှင်မြတ်၏ အမှန်တရားကို ပိုမိုယုံကြည်လာစေရန် ရည်ရွယ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Til-ka aa-yaa-tul-laah...",
+          "meaning_anchor": "Imagine pointing to the stars as signs of Allah's power.",
+          "daily_connection": "Recite when you see a beautiful sunset or nature, as they are Tilka Ayāt.",
+          "my": "သဘာဝအလှတရားများကို မြင်သောအခါ အလ္လာဟ်အရှင်မြတ်၏ အမှတ်အသားများအဖြစ် ဆင်ခြင်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored 'Tilka' (That), the feminine far demonstrative. It is essential for pointing to feminine nouns and non-human plurals, especially the signs (Ayāt) of Allah.",
+      "my": "ယနေ့တွင် အဝေးညွှန်းအမအညွှန်းနာမ် 'သီလ်က' (Tilka) ကို လေ့လာခဲ့သည်။ အမနာမ်များနှင့် လူမဟုတ်သော အများကိန်းများကို ညွှန်းဆိုရာတွင် ၎င်းသည် အလွန်အရေးကြီးပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-018",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 18,
+    "title": {
+      "ar": "أَسْمَاءُ الْإِشَارَةِ (٨) — أُولَٰئِكَ",
+      "en": "Demonstratives VIII — 'Those' for Far Plural (Ulā'ika)",
+      "my": "အဝေးညွှန်းအညွှန်းနာမ် (အများကိန်း) - အူလားအိက"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Ulā'ika for far human plural; frequent in descriptions of believers/disbelievers",
+      "grammar_formula": "أُولَٰئِكَ + Plural Noun = THOSE [People]"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مُفْلِحُونَ",
+        "translit": "mufliḥūn",
+        "en": "Successful ones",
+        "my": "အောင်မြင်သူများ",
+        "quran_freq": 13,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعِلُون",
+        "root": {
+          "letters": "ف ل ح",
+          "concept_en": "to plow or succeed",
+          "concept_my": "ထွန်ယက်ခြင်း သို့မဟုတ် အောင်မြင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Moof-lee-hoon",
+          "image": "A farmer successfully harvesting his crop",
+          "cross_language": "Falah in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "فَلَاح",
+            "translit": "falāḥ",
+            "en": "success",
+            "my": "အောင်မြင်မှု",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The 'Mu-' prefix often indicates 'the person who does' the action.",
+        "example": {
+          "ar": "أُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+          "en": "Those are the successful ones",
+          "my": "ထိုသူတို့သည်သာလျှင် အောင်မြင်သူများဖြစ်ကြသည်",
+          "ref": "2:5"
+        }
+      },
+      {
+        "word": "مُهْتَدُونَ",
+        "translit": "muhtadūn",
+        "en": "Guided ones",
+        "my": "တရားလမ်းမှန်ရရှိသူများ",
+        "quran_freq": 23,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْتَعِلُون",
+        "root": {
+          "letters": "هـ د ي",
+          "concept_en": "to guide or direct",
+          "concept_my": "လမ်းညွှန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mooh-ta-doon",
+          "image": "People following a bright light",
+          "cross_language": "Hidayat in Urdu/Malay"
+        },
+        "word_family": [
+          {
+            "ar": "هُدَى",
+            "translit": "hudan",
+            "en": "guidance",
+            "my": "လမ်းညွှန်မှု",
+            "freq": 85
+          }
+        ],
+        "pattern_unlock": "This pattern shows people who have received or accepted guidance.",
+        "example": {
+          "ar": "أُولَٰئِكَ هُمُ الْمُهْتَدُونَ",
+          "en": "Those are the [rightly] guided",
+          "my": "ထိုသူတို့သည်သာလျှင် တရားလမ်းမှန်ရရှိသူများဖြစ်ကြသည်",
+          "ref": "2:157"
+        }
+      },
+      {
+        "word": "ظَالِمُونَ",
+        "translit": "ẓālimūn",
+        "en": "Wrongdoers",
+        "my": "မတရားပြုကျင့်သူများ / ဇာလင်မ်များ",
+        "quran_freq": 109,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُون",
+        "root": {
+          "letters": "ظ ل م",
+          "concept_en": "darkness or injustice",
+          "concept_my": "မှောင်မိုက်ခြင်း သို့မဟုတ် မတရားမှု"
+        },
+        "memory_hook": {
+          "sound": "Zah-lee-moon",
+          "image": "People walking in total darkness",
+          "cross_language": "Zalim in Malay/Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "ظُلْم",
+            "translit": "ẓulm",
+            "en": "oppression",
+            "my": "နှိပ်စက်ညှင်းပန်းမှု",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Zulm literally means putting something in the wrong place.",
+        "example": {
+          "ar": "أُولَٰئِكَ هُمُ الظَّالِمُونَ",
+          "en": "Those are the wrongdoers",
+          "my": "ထိုသူတို့သည် မတရားပြုကျင့်သူများဖြစ်ကြသည်",
+          "ref": "2:229"
+        }
+      },
+      {
+        "word": "شَاكِرُونَ",
+        "translit": "shākirūn",
+        "en": "Grateful ones",
+        "my": "ကျေးဇူးသိတတ်သူများ",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُون",
+        "root": {
+          "letters": "ش ك ر",
+          "concept_en": "to thank or show gratitude",
+          "concept_my": "ကျေးဇူးတင်ခြင်း သို့မဟုတ် ကျေးဇူးတရားကို ပြသခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shah-keer",
+          "image": "Someone smiling and giving thanks",
+          "cross_language": "Syukur in Malay"
+        },
+        "word_family": [
+          {
+            "ar": "شُكْر",
+            "translit": "shukr",
+            "en": "gratitude",
+            "my": "ကျေးဇူးတင်ခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The Sh-K-R root is about recognizing and rewarding favor.",
+        "example": {
+          "ar": "سَنَجْزِي الشَّاكِرِينَ",
+          "en": "We will reward the grateful",
+          "my": "ငါအရှင်သည် ကျေးဇူးသိတတ်သူများကို အကျိုးပေးမည်",
+          "ref": "3:145"
+        }
+      },
+      {
+        "word": "صَابِرُونَ",
+        "translit": "ṣābirūn",
+        "en": "Patient ones",
+        "my": "သည်းခံသူများ",
+        "quran_freq": 15,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُون",
+        "root": {
+          "letters": "ص ب ر",
+          "concept_en": "to restrain or endure",
+          "concept_my": "ထိန်းချုပ်ခြင်း သို့မဟုတ် သည်းခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sah-beer",
+          "image": "Standing firm in a storm",
+          "cross_language": "Sabar in Malay/Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "صَبْر",
+            "translit": "ṣabr",
+            "en": "patience",
+            "my": "သည်းခံခြင်း",
+            "freq": 39
+          }
+        ],
+        "pattern_unlock": "Sabr is not just waiting, but firm persistence.",
+        "example": {
+          "ar": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+          "en": "Indeed, Allah is with the patient",
+          "my": "ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် သည်းခံသူတို့နှင့်အတူ ရှိတော်မူသည်။",
+          "ref": "2:153"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "اسْمُ الْإِشَارَةِ لِلْبَعِيدِ (جَمْع)",
+        "en": "Far Demonstrative (Plural)",
+        "my": "အဝေးညွှန်းအညွှန်းနာမ် (အများကိန်း)"
+      },
+      "formula": {
+        "display": "أُولَٰئِكَ + مُؤْمِنُونَ = أُولَٰئِكَ الْمُؤْمِنُونَ",
+        "example": "أُولَٰئِكَ أَصْحَابُ النَّارِ",
+        "myanmar_read": "အူလားအိက ဆိုသည်မှာ 'ထိုသူတို့' (အဝေးရှိ လူအများကိန်း) ကို ဆိုလိုသည်။",
+        "key_insight": "Ulā'ika is used for both masculine and feminine groups of people, unlike the singular forms."
+      },
+      "explanation": {
+        "en": "Ulā'ika is the far plural demonstrative meaning 'Those'. It is used primarily for groups of humans (believers, disbelievers, successful ones, etc.). Unlike the singular 'Dhālika' and 'Tilka', 'Ulā'ika' is the same for both masculine and feminine groups. In the Quran, it often starts sentences that summarize the final status of a group of people.",
+        "my": "အူလားအိက (Ulā'ika) သည် 'ထိုသူတို့' ဟု အဓိပ္ပာယ်ရပြီး အဝေးရှိ လူအများကိန်းများကို ညွှန်းဆိုရာတွင် သုံးသည်။ ၎င်းသည် အဖိုရော အမပါ အုပ်စုများအတွက် အတူတူပင် ဖြစ်သည်။ ကုရ်အာန်တွင် လူတစ်စု၏ နောက်ဆုံးရလဒ် (ဥပမာ- အောင်မြင်သူများ၊ ရှုံးနိမ့်သူများ) ကို ဖော်ပြရာတွင် ဤစကားလုံးကို အသုံးများသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to 'ထိုသူတို့' (hto-thu-tho) in Burmese to refer to a group away from us.",
+        "my": "မြန်မာစကားရှိ 'ထိုသူတို့' ဟူသော အသုံးနှင့် ဆင်တူသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Use Ulā'ika for a group of people far away.",
+          "rule_my": "အဝေးရှိ လူအုပ်စုများအတွက် အူလားအိကကို သုံးသည်။",
+          "example": {
+            "ar": "أُولَٰئِكَ أَصْحَابُ الْجَنَّةِ",
+            "en": "Those are the companions of Paradise",
+            "my": "ထိုသူတို့သည် ဂျန္နသ်၏ အဖော်များဖြစ်ကြသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "أُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+          "en": "Those are the successful ones",
+          "my": "၎င်းတို့သည် ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်ထံမှ လမ်းမှန်ညွှန်ကြားပြသချက်အပေါ်တွင် ရှိနေကြပြီး ၎င်းတို့သာလျှင် အောင်မြင်ကြမည့်သူများ ဖြစ်ကြသည်။",
+          "ref": "2:5",
+          "breakdown": {
+            "subject": {
+              "word": "أُولَٰئِكَ",
+              "en": "Those",
+              "note": "Referring to the believers mentioned"
+            },
+            "predicate": {
+              "word": "الْمُفْلِحُونَ",
+              "en": "the successful",
+              "note": "The final result"
+            }
+          },
+          "myanmar_insight": "ကုရ်အာန်၏ အစပိုင်းမှာပင် အလ္လာဟ်အရှင်မြတ်သည် 'အူလားအိက' ကို သုံး၍ အောင်မြင်သူများကို အတိအကျ ညွှန်ပြထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using Ulā'ika for non-human plurals like books",
+          "wrong": {
+            "ar": "أُولَٰئِكَ كُتُب",
+            "note": "Books are non-human"
+          },
+          "correct": {
+            "ar": "تِلْكَ كُتُبٌ",
+            "en": "Those are books",
+            "my": "ထိုအရာတို့သည် စာအုပ်များဖြစ်သည်"
+          },
+          "myanmar_tip": "လူအုပ်စုဖြစ်မှသာ အူလားအိကကို သုံးပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Is 'Ulā'ika' used for singular or plural?",
+          "instruction_my": "'အူလားအိက' သည် ဧကဝုစ်လား၊ အများကိန်းလား?",
+          "questions": [
+            {
+              "q": "أُولَٰئِكَ هُمُ الصَّادِقُونَ",
+              "answer_en": "Plural",
+              "answer_my": "အများကိန်း",
+              "ref": "49:15"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "أُولَٰئِكَ هُمُ الْكَافِرُونَ",
+              "answer_en": "Those are the disbelievers",
+              "answer_my": "ထိုသူတို့သည် ကာဖိရ်များဖြစ်ကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Complete with Ulā'ika",
+          "instruction_my": "အူလားအိကဖြင့် ဖြည့်စွက်ပါ",
+          "questions": [
+            {
+              "q": ".... هُمُ الْمُهْتَدُونَ",
+              "answer_en": "Ulā'ika",
+              "answer_my": "အူလားအိက",
+              "ar": "أُولَٰئِكَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Ulā'ika sets a clear boundary. It often distinguishes the group of honor (believers) from the group of loss. It invites us to choose which group we want to be part of.",
+        "my": "အူလားအိကသည် ရှင်းလင်းသော နယ်နိမိတ်ကို သတ်မှတ်သည်။ ၎င်းသည် ဂုဏ်ပြုခံရသောအုပ်စု (မုအ်မင်န်များ) နှင့် ရှုံးနိမ့်သောအုပ်စုကို ခွဲခြားပြလေ့ရှိသည်။ ကျွန်ုပ်တို့ မည်သည့်အုပ်စုတွင် ပါဝင်လိုသနည်းဆိုသည်ကို ရွေးချယ်ရန် ဖိတ်ခေါ်နေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:5",
+        "study_number": 1,
+        "arabic_full": "أُولَٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+        "en_sahih": "Those are upon [right] guidance from their Lord, and it is those who are the successful.",
+        "my_mmsy": "၎င်းတို့သည် ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်ထံမှ လမ်းမှန်ညွှန်ကြားပြသချက်အပေါ်တွင် ရှိနေကြပြီး ၎င်းတို့သာလျှင် အောင်မြင်ကြမည့်သူများ ဖြစ်ကြသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002005.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/5",
+        "context": {
+          "en": "This is the conclusion of the first 5 verses of Al-Baqarah, describing the people of Taqwa.",
+          "my": "ဤသည်မှာ စူရာဗကရဟ်၏ ပထမဆုံး ၅ အာယသ်၏ နိဂုံးဖြစ်ပြီး၊ သက္ကဝါရှိသူများအကြောင်း ဖော်ပြချက်ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أُولَٰئِكَ",
+            "translit": "ulā'ika",
+            "en": "Those",
+            "my": "ထိုသူတို့",
+            "role_en": "Demonstrative",
+            "role_my": "အညွှန်းနာမ်",
+            "root": "أ ل ك",
+            "freq": 204
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The repetition of Ulā'ika emphasizes that ONLY these people achieve guidance and success.",
+          "structure_my": "အူလားအိကကို ထပ်ခါတလဲလဲ သုံးခြင်းဖြင့် ဤသူများသာလျှင် လမ်းမှန်နှင့် အောင်မြင်မှု ရရှိမည်ဖြစ်ကြောင်း အလေးပေးထားသည်။",
+          "insight_en": "Ulā'ika creates a visual picture of a distinct, elevated group.",
+          "insight_my": "အူလားအိကသည် သီးခြားမြင့်မြတ်သော အုပ်စုတစ်ခု၏ ပုံရိပ်ကို ဖော်ဆောင်ပေးသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ف ل ح",
+            "concept_en": "To split the earth (plow) so that seeds can grow and bear fruit",
+            "concept_my": "မျိုးစေ့များ ပေါက်ပွားပြီး အသီးအနှံများ သီးနိုင်ရန် မြေကြီးကို ထွန်ယက်ခွဲထုတ်ခြင်း",
+            "members": [
+              {
+                "ar": "أَفْلَحَ",
+                "en": "he succeeded",
+                "my": "သူအောင်မြင်ခဲ့သည်",
+                "freq": 10
+              }
+            ],
+            "professors_note": "True success (Falah) in Arabic is like farming; it requires effort, patience, and eventually leads to a harvest."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အောင်မြင်သူများဟူသည်မှာ မိမိတို့၏ အရှင်ထံမှ လမ်းညွှန်မှုကို ရရှိထားသူများဖြစ်သည်။ ကျွန်ုပ်တို့သည်လည်း အလ္လာဟ်အရှင်မြတ် ညွှန်ပြသော အောင်မြင်သူများအုပ်စု (အူလားအိက) ထဲတွင် ပါဝင်နိုင်ရန် ကြိုးစားရပါမည်။ ဤအာယသ်သည် ကျွန်ုပ်တို့အား စစ်မှန်သော အောင်မြင်မှုဆီသို့ မျှော်လင့်ချက်ပေးနေသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "U-laaa-ika 'alaa hudam-mir-rabbihim...",
+          "meaning_anchor": "Imagine a group of people standing on a high path, looking at their Lord's light.",
+          "daily_connection": "Recite this after Fajr to set your goal for the day: to be among the Muflihun.",
+          "my": "နံနက်ခင်း ဖဂျရ်ပြီးနောက် ဤအာယသ်ကို ဖတ်ရွတ်ခြင်းဖြင့် မိမိကိုယ်ကို အောင်မြင်သူတစ်ဦးဖြစ်အောင် စိတ်ဓာတ်မြှင့်တင်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We mastered 'Ulā'ika' (Those), the plural demonstrative for people. It is a powerful word used to define the ultimate success of the believers in the Quran.",
+      "my": "လူအများကိန်းများအတွက် အဝေးညွှန်းအညွှန်းနာမ် 'အူလားအိက' (Ulā'ika) ကို လေ့လာခဲ့သည်။ ကုရ်အာန်တွင် မုအ်မင်န်တို့၏ နောက်ဆုံးအောင်မြင်မှုကို ဖော်ပြရာတွင် ဤစကားလုံးကို အားကောင်းစွာ သုံးနှုန်းထားသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-019",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 19,
+    "title": {
+      "ar": "الْمُقَارَنَةُ بَيْنَ هَٰذَا وَذَٰلِكَ",
+      "en": "Demonstratives IX — Far vs Near in Quranic Contrast",
+      "my": "အနီးနှင့် အဝေးညွှန်းနှိုင်းယှဉ်ချက်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Contrast hādhā vs dhālika in meaning and usage",
+      "grammar_formula": "هَٰذَا (Near) vs ذَٰلِكَ (Far)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "دُنْيَا",
+        "translit": "dunyā",
+        "en": "World / Near Life",
+        "my": "လောကီ / အနီးဆုံးဘဝ",
+        "quran_freq": 115,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فُعْلَى",
+        "root": {
+          "letters": "د ن و",
+          "concept_en": "to be near or low",
+          "concept_my": "နီးကပ်ခြင်း သို့မဟုတ် နိမ့်ကျခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dunya",
+          "image": "Earth within arms reach",
+          "cross_language": "Dunia in Malay"
+        },
+        "word_family": [
+          {
+            "ar": "أَدْنَى",
+            "translit": "adnā",
+            "en": "closer / lower",
+            "my": "ပိုနီးသော",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "Dunyā means 'that which is closer'; it's the life we are in now.",
+        "example": {
+          "ar": "الْحَيَاةُ الدُّنْيَا",
+          "en": "The worldly life",
+          "my": "လောကီဘဝ",
+          "ref": "2:85"
+        }
+      },
+      {
+        "word": "آخِرَةٌ",
+        "translit": "ākhirah",
+        "en": "Hereafter",
+        "my": "နောင်တမလွန်",
+        "quran_freq": 115,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَاعِلَة",
+        "root": {
+          "letters": "أ خ ر",
+          "concept_en": "the end or the last",
+          "concept_my": "အဆုံးသတ် သို့မဟုတ် နောက်ဆုံး"
+        },
+        "memory_hook": {
+          "sound": "A-kheer",
+          "image": "The finish line of a race",
+          "cross_language": "Akhirat in Malay"
+        },
+        "word_family": [
+          {
+            "ar": "آخِر",
+            "translit": "ākhir",
+            "en": "last",
+            "my": "နောက်ဆုံး",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "This root refers to things that come at the end or are delayed.",
+        "example": {
+          "ar": "وَلَلْآخِرَةُ خَيْرٌ لَّكَ",
+          "en": "And the Hereafter is better for you",
+          "my": "နောင်တမလွန်သည် အသင်၏အဖို့ ပိုမိုကောင်းမြတ်သည်",
+          "ref": "93:4"
+        }
+      },
+      {
+        "word": "نَارٌ",
+        "translit": "nār",
+        "en": "Fire",
+        "my": "ငရဲမီး",
+        "quran_freq": 145,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ن و ر",
+          "concept_en": "light or heat",
+          "concept_my": "အလင်း သို့မဟုတ် အပူ"
+        },
+        "memory_hook": {
+          "sound": "Nar",
+          "image": "A blazing fire",
+          "cross_language": "Nar in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "نُور",
+            "translit": "nūr",
+            "en": "light",
+            "my": "အလင်းရောင်",
+            "freq": 43
+          }
+        ],
+        "pattern_unlock": "Fire (Nār) and Light (Nūr) share the same root because both radiate.",
+        "example": {
+          "ar": "هَٰذِهِ النَّارُ",
+          "en": "This is the Fire",
+          "my": "ဤအရာသည် ငရဲမီးဖြစ်သည်",
+          "ref": "52:14"
+        }
+      },
+      {
+        "word": "بَيَانٌ",
+        "translit": "bayān",
+        "en": "Clear statement / Exposition",
+        "my": "ရှင်းလင်းစွာဖော်ပြချက်",
+        "quran_freq": 7,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَال",
+        "root": {
+          "letters": "ب ي ن",
+          "concept_en": "to be distinct or clear",
+          "concept_my": "ထင်ရှားကွဲပြားခြင်း သို့မဟုတ် ရှင်းလင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Beyond",
+          "image": "A clear signpost",
+          "cross_language": "Bayan in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "مُبِين",
+            "translit": "mubīn",
+            "en": "clear",
+            "my": "ရှင်းလင်းထင်ရှားသော",
+            "freq": 119
+          }
+        ],
+        "pattern_unlock": "B-Y-N root is about separating things so they become clear.",
+        "example": {
+          "ar": "هَٰذَا بَيَانٌ لِّلنَّاسِ",
+          "en": "This is a clear statement to the people",
+          "my": "ဤအရာသည် လူသားတို့အတွက် ရှင်းလင်းသော ဖော်ပြချက်ဖြစ်သည်",
+          "ref": "3:138"
+        }
+      },
+      {
+        "word": "نَذِيرٌ",
+        "translit": "nadhīr",
+        "en": "Warner",
+        "my": "သတိပေးနှိုးဆော်သူ",
+        "quran_freq": 44,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ن ذ ر",
+          "concept_en": "to warn or vow",
+          "concept_my": "သတိပေးခြင်း သို့မဟုတ် သစ္စာဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Nad-heer",
+          "image": "Someone shouting a warning",
+          "cross_language": "Nadzir in Malay"
+        },
+        "word_family": [
+          {
+            "ar": "أَنذَرَ",
+            "translit": "andhara",
+            "en": "he warned",
+            "my": "သူသတိပေးခဲ့သည်",
+            "freq": 60
+          }
+        ],
+        "pattern_unlock": "A Nadhir is someone who tells you of a danger before it arrives.",
+        "example": {
+          "ar": "هَٰذَا نَذِيرٌ",
+          "en": "This is a warner",
+          "my": "ဤသူသည် သတိပေးနှိုးဆော်သူဖြစ်သည်",
+          "ref": "53:56"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الْمُقَارَنَةُ بَيْنَ الْقَرِيبِ وَالْبَعِيدِ",
+        "en": "Near vs Far Contrast",
+        "my": "အနီးနှင့် အဝေး နှိုင်းယှဉ်ချက်"
+      },
+      "formula": {
+        "display": "هَٰذَا (Near) <---> ذَٰلِكَ (Far)",
+        "example": "هَٰذَا بَيَانٌ ... ذَٰلِكَ الْفَوْزُ",
+        "myanmar_read": "ဟားသား (ဤအရာ) သည် အနီး၊ ဒါလိက (ထိုအရာ) သည် အဝေးကို ပြသည်။",
+        "key_insight": "Allah uses 'Near' demonstratives for what is present or worldly, and 'Far' for what is majestic or in the hereafter."
+      },
+      "explanation": {
+        "en": "The contrast between near (Hādhā) and far (Dhālika) demonstratives is used in the Quran to create emphasis. Often, 'Hādhā' refers to the current world (Dunyā) or the current message being heard, while 'Dhālika' refers to the lofty rewards of Paradise or the Day of Judgment. Understanding this distance helps visualize the scales of importance and time in the Quran.",
+        "my": "အနီးညွှန်း (ဟားသား) နှင့် အဝေးညွှန်း (ဒါလိက) တို့၏ ကွဲပြားချက်ကို ကုရ်အာန်တွင် အလေးပေးဖော်ပြရန် သုံးသည်။ များသောအားဖြင့် 'ဟားသား' ကို လက်ရှိလောက (ဒွန်ယာ) သို့မဟုတ် လက်ရှိကြားနေရသော သတင်းစကားအတွက် သုံးပြီး၊ 'ဒါလိက' ကို မြင့်မြတ်သော ဂျန္နသ်၏ အကျိုးကျေးဇူးများ သို့မဟုတ် ကိယာမသ်နေ့အတွက် သုံးသည်။ ဤကွဲပြားမှုကို နားလည်ခြင်းဖြင့် ကုရ်အာန်၏ အရေးပါမှုနှင့် အချိန်ကာလများကို ပုံဖော်နိုင်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, 'ဒီဟာ' (dee-har) vs 'ဟိုဟာ' (ho-har) shows a similar spatial distance.",
+        "my": "မြန်မာစကားရှိ 'ဒီဟာ' နှင့် 'ဟိုဟာ' ကဲ့သို့ပင် အနီးအဝေး ကွာခြားမှုကို ဖော်ပြသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Use Hādhā/Hādhihi for what is immediately present.",
+          "rule_my": "မျက်မှောက်တွင် ရှိနေသောအရာများအတွက် ဟားသား/ဟားသိဟိ ကို သုံးသည်။",
+          "example": {
+            "ar": "هَٰذِهِ النَّارُ",
+            "en": "This is the Fire (being seen)",
+            "my": "ဤအရာသည် ငရဲမီး (မြင်တွေ့နေရသော) ဖြစ်သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Use Dhālika/Tilka for things of high status or distant time.",
+          "rule_my": "အဆင့်အတန်းမြင့်သောအရာ သို့မဟုတ် အလှမ်းဝေးသောအရာများအတွက် ဒါလိက/သီလ်က ကို သုံးသည်။",
+          "example": {
+            "ar": "ذَٰلِكَ الْيَوْمُ الْحَقُّ",
+            "en": "That is the true day",
+            "my": "ထိုနေ့သည် မှန်ကန်သောနေ့ဖြစ်သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "هَٰذَا بَيَانٌ لِّلنَّاسِ",
+          "en": "This is a clear statement to the people",
+          "my": "MYANMAR_PLACE_HOLDER_S3_A138",
+          "ref": "3:138",
+          "breakdown": {
+            "subject": {
+              "word": "هَٰذَا",
+              "en": "This",
+              "note": "Referring to the Quran in hand"
+            },
+            "predicate": {
+              "word": "بَيَانٌ",
+              "en": "a statement",
+              "note": "Clear for all"
+            }
+          },
+          "myanmar_insight": "'ဟားသား' ကို သုံးထားခြင်းမှာ ကုရ်အာန်သည် လူသားတို့အတွက် အနီးကပ် လမ်းညွှန်ချက်ဖြစ်ကြောင်း ဖော်ပြလိုခြင်းဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing Hādhā and Dhālika in translation",
+          "wrong": {
+            "ar": "هَٰذَا الْكِتَاب",
+            "note": "Translating as 'That Book'"
+          },
+          "correct": {
+            "ar": "هَٰذَا الْكِتَابُ",
+            "en": "This Book",
+            "my": "ဤစာအုပ်"
+          },
+          "myanmar_tip": "ဟားသား (Hādhā) ဆိုရင် 'ဒီ'၊ ဒါလိက (Dhālika) ဆိုရင် 'ဟို/ထို' လို့ မှတ်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify if the demonstrative is Near or Far",
+          "instruction_my": "အနီး သို့မဟုတ် အဝေးညွှန်း ဖြစ်သည်ကို ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "هَٰذَا صِرَاطٌ مُسْتَقِيمٌ",
+              "answer_en": "Near",
+              "answer_my": "အနီး",
+              "ref": "3:51"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "ذَٰلِكَ مَتَاعُ الْحَيَاةِ الدُّنْيَا",
+              "answer_en": "That is the enjoyment of worldly life",
+              "answer_my": "ထိုအရာသည် လောကီဘဝ၏ စည်းစိမ်ဖြစ်သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change Hādhā to Dhālika",
+          "instruction_my": "ဟားသားကို ဒါလိကသို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "هَٰذَا كِتَابٌ",
+              "answer_en": "Dhālika kitābun",
+              "answer_my": "ဒါလိက ကိသားဗွန်",
+              "ar": "ذَٰلِكَ كِتَابٌ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "By contrasting the near and far, Allah teaches us that the Dunya is close and temporary, while the Akhirah is vast and permanent. We must focus on the 'Far' success while navigating the 'Near' trials.",
+        "my": "အနီးနှင့် အဝေးကို နှိုင်းယှဉ်ခြင်းဖြင့်၊ ဒွန်ယာသည် နီးကပ်ပြီး ယာယီသာဖြစ်သော်လည်း နောင်တမလွန်သည် ကျယ်ပြောပြီး ထာဝရဖြစ်ကြောင်း အလ္လာဟ်အရှင်မြတ် သင်ကြားပေးသည်။ ကျွန်ုပ်တို့သည် မျက်မှောက်ရှိ စမ်းသပ်မှုများကို ဖြတ်ကျော်စဉ် အဝေးရှိ အောင်မြင်မှုကို အဓိကထားရမည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Imran 3:138",
+        "study_number": 1,
+        "arabic_full": "هَٰذَا بَيَانٌ لِّلنَّاسِ وَهُدًى وَمَوْعِظَةٌ لِّلْمُتَّقِينَ",
+        "en_sahih": "This [Quran] is a clear statement to [all] the people and a guidance and instruction for those conscious of Allah.",
+        "my_mmsy": "ဤ(ကုရ်အာန်)ကျမ်းသည် လူများအတွက် ရှင်းလင်းဖော်ပြချက်ဖြစ်သည်။ မုသ်သကီ ကြောက်ရွံ့အပြစ်ရှောင် ကောင်းကျိုးဆောင်သူများအတွက် လမ်းမှန်ညွှန်ကြားပြသချက်နှင့် ဆုံးမသြဝါဒဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 3,
+          "ayah": 138,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/003138.mp3"
+        },
+        "qurancom_url": "https://quran.com/3/138",
+        "context": {
+          "en": "After discussing trials and history, Allah reminds the believers that the Quran is the clear guide they have in their hands right now.",
+          "my": "စမ်းသပ်မှုများနှင့် သမိုင်းကြောင်းများကို ဆွေးနွေးပြီးနောက်၊ ကုရ်အာန်သည် လူသားတို့ လက်ဝယ်ရှိ ရှင်းလင်းသော လမ်းပြဖြစ်ကြောင်း အလ္လာဟ်အရှင်မြတ် သတိပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "هَٰذَا",
+            "translit": "hādhā",
+            "en": "This",
+            "my": "ဤအရာ",
+            "role_en": "Demonstrative",
+            "role_my": "အညွှန်းနာမ်",
+            "root": "هـ ذ ا",
+            "freq": 221
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Hādhā brings the truth close to the listener, leaving no excuse for ignoring it.",
+          "structure_my": "ဟားသားသည် အမှန်တရားကို နားထောင်သူနှင့် နီးကပ်စေပြီး လျစ်လျူရှုရန် အကြောင်းပြချက် မရှိစေပါ။",
+          "insight_en": "The use of 'This' (Near) makes the Quranic message immediate and personal.",
+          "insight_my": "'ဤအရာ' (အနီး) ကို သုံးခြင်းသည် ကုရ်အာန်၏ သတင်းစကားကို ချက်ချင်းလက်ငင်းနှင့် ကိုယ်တိုင်နှင့် သက်ဆိုင်စေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ب ي ن",
+            "concept_en": "To cut or separate so that two things are distinct",
+            "concept_my": "အရာနှစ်ခု ကွဲပြားသွားအောင် ဖြတ်တောက်ခြင်း သို့မဟုတ် ခွဲခြားခြင်း",
+            "members": [
+              {
+                "ar": "مُبِين",
+                "en": "clear",
+                "my": "ထင်ရှားသော",
+                "freq": 119
+              }
+            ],
+            "professors_note": "A 'Bayan' is a speech that separates truth from falsehood so clearly that anyone can understand."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ကုရ်အာန်ကို 'ဟားသား' (ဤအရာ) ဟု ညွှန်းဆိုခြင်းမှာ ကျွန်ုပ်တို့၏ နှလုံးသားများနှင့် အလွန်နီးကပ်ကြောင်း သိစေလို၍ဖြစ်သည်။ ၎င်းသည် လူတိုင်းအတွက် ရှင်းလင်းသော ဖော်ပြချက်ဖြစ်ပြီး၊ သက္ကဝါရှိသူများအတွက်မူ အဖိုးတန်သော လမ်းညွှန်နှင့် ဆုံးမစကားဖြစ်သည်။ ကျွန်ုပ်တို့သည် ဤလမ်းညွှန်ချက်ကို နေ့စဉ်ဘဝတွင် အသုံးချရပါမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Haa-dhaa ba-yaa-nul-lin-naas...",
+          "meaning_anchor": "Imagine holding the Quran and showing it to a crowd of people.",
+          "daily_connection": "Recite this when explaining Islam to others; it is a Bayān (clear statement).",
+          "my": "အခြားသူများကို အစ္စလာမ်အကြောင်း ရှင်းပြသောအခါ ဤအာယသ်ကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We compared near and far demonstratives. We saw how 'Hādhā' brings the message close to us, while 'Dhālika' reminds us of the high status of the Hereafter and the Divine Word.",
+      "my": "အနီးနှင့် အဝေးညွှန်းများကို နှိုင်းယှဉ်လေ့လာခဲ့သည်။ 'ဟားသား' သည် သတင်းစကားကို ကျွန်ုပ်တို့နှင့် နီးကပ်စေပြီး 'ဒါလိက' သည် နောင်တမလွန်၏ မြင့်မြတ်မှုကို သတိပေးကြောင်း သိရှိခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-020",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 20,
+    "title": {
+      "ar": "مُرَاجَعَةُ أَسْمَاءِ الْإِشَارَةِ",
+      "en": "Demonstratives X — Full Review (All Six Forms)",
+      "my": "အညွှန်းနာမ်များ ပြန်လည်သုံးသပ်ခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "All 6 demonstrative forms; identification drill",
+      "grammar_formula": "Hādhā/Hādhihi/Hā'ulā'i & Dhālika/Tilka/Ulā'ika"
+    },
+    "section_1_vocab": [
+      {
+        "word": "عَذَابٌ",
+        "translit": "ʿadhāb",
+        "en": "Punishment",
+        "my": "အပြစ်ဒဏ် / အဇားဗ်",
+        "quran_freq": 373,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَال",
+        "root": {
+          "letters": "ع ذ ب",
+          "concept_en": "sweetness or to prevent",
+          "concept_my": "ချိုမြိန်ခြင်း သို့မဟုတ် တားဆီးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "A-zab",
+          "image": "A dark cloud of punishment",
+          "cross_language": "Azab in Malay/Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "عَذْب",
+            "translit": "ʿadhb",
+            "en": "sweet water",
+            "my": "ချိုမြိန်သောရေ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Ironically, the root means sweet, but 'Adhab' prevents someone from the sweetness of life through pain.",
+        "example": {
+          "ar": "هَٰذَا عَذَابٌ أَلِيمٌ",
+          "en": "This is a painful punishment",
+          "my": "ဤအရာသည် နာကျင်ဖွယ်ရာ အပြစ်ဒဏ်ဖြစ်သည်",
+          "ref": "45:11"
+        }
+      },
+      {
+        "word": "ثَوَابٌ",
+        "translit": "thawāb",
+        "en": "Reward",
+        "my": "အကျိုးကျေးဇူး / သဝါဗ်",
+        "quran_freq": 16,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَال",
+        "root": {
+          "letters": "ث و ب",
+          "concept_en": "to return",
+          "concept_my": "ပြန်လည်ရောက်ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Thaw-wab",
+          "image": "A gift returning to you for your hard work",
+          "cross_language": "Pahala (concept) / Sawab in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "ثَوْب",
+            "translit": "thawb",
+            "en": "garment",
+            "my": "အဝတ်အစား",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Thawāb is the 'return' for your good deeds.",
+        "example": {
+          "ar": "ذَٰلِكَ ثَوَابُ اللَّهِ",
+          "en": "That is the reward of Allah",
+          "my": "ထိုအရာသည် အလ္လာဟ်အရှင်မြတ်ပေးသနားသော အကျိုးကျေးဇူးဖြစ်သည်",
+          "ref": "3:148"
+        }
+      },
+      {
+        "word": "قِيَامَةٌ",
+        "translit": "qiyāmah",
+        "en": "Resurrection",
+        "my": "ရှင်ပြန်ထမြောက်ခြင်း / ကိယာမသ်",
+        "quran_freq": 70,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعَالَة",
+        "root": {
+          "letters": "ق و م",
+          "concept_en": "to stand up",
+          "concept_my": "မတ်တပ်ရပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ki-ya-mah",
+          "image": "Everyone standing up at once",
+          "cross_language": "Kiamat in Malay"
+        },
+        "word_family": [
+          {
+            "ar": "قَائِم",
+            "translit": "qā'im",
+            "en": "standing",
+            "my": "မတ်တပ်ရပ်နေသူ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Qiyāmah is the day when everyone will 'stand' before Allah.",
+        "example": {
+          "ar": "يَوْمُ الْقِيَامَةِ",
+          "en": "Day of Resurrection",
+          "my": "ရှင်ပြန်ထမြောက်ရာနေ့",
+          "ref": "2:85"
+        }
+      },
+      {
+        "word": "حِسَابٌ",
+        "translit": "ḥisāb",
+        "en": "Reckoning / Account",
+        "my": "စစ်ဆေးမေးမြန်းခြင်း / စာရင်းအင်း",
+        "quran_freq": 109,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ح س ب",
+          "concept_en": "to count or calculate",
+          "concept_my": "ရေတွက်ခြင်း သို့မဟုတ် တွက်ချက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "He-sab",
+          "image": "A long scroll of deeds being counted",
+          "cross_language": "Hisab in Malay/Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "حَسِيب",
+            "translit": "ḥasīb",
+            "en": "accountant",
+            "my": "စာရင်းစစ်သူ",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "H-S-B is about precision and justice in measurement.",
+        "example": {
+          "ar": "ذَٰلِكَ الْحِسَابُ الْيَسِيرُ",
+          "en": "That is the easy reckoning",
+          "my": "ထိုအရာသည် လွယ်ကူသော စစ်ဆေးခြင်းဖြစ်သည်",
+          "ref": "13:18"
+        }
+      },
+      {
+        "word": "بُشْرَى",
+        "translit": "bushrā",
+        "en": "Glad tidings",
+        "my": "ဝမ်းမြောက်ဖွယ်သတင်း",
+        "quran_freq": 15,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فُعْلَى",
+        "root": {
+          "letters": "ب ش ر",
+          "concept_en": "skin or good news",
+          "concept_my": "အရေပြား သို့မဟုတ် သတင်းကောင်း"
+        },
+        "memory_hook": {
+          "sound": "Bush-ra",
+          "image": "A face glowing with good news",
+          "cross_language": "Busra (Name)"
+        },
+        "word_family": [
+          {
+            "ar": "بَشَر",
+            "translit": "bashar",
+            "en": "human (skin)",
+            "my": "လူသား",
+            "freq": 36
+          }
+        ],
+        "pattern_unlock": "Good news is called Bushra because it changes the 'skin' (expression) of the face.",
+        "example": {
+          "ar": "تِلْكَ بُشْرَىٰ",
+          "en": "That is glad tidings",
+          "my": "ထိုအရာသည် ဝမ်းမြောက်ဖွယ်သတင်းဖြစ်သည်",
+          "ref": "27:2"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "مُرَاجَعَةُ جَمِيعِ أَسْمَاءِ الْإِشَارَةِ",
+        "en": "Review of All Demonstratives",
+        "my": "အညွှန်းနာမ်အားလုံး ပြန်လည်သုံးသပ်ခြင်း"
+      },
+      "formula": {
+        "display": "Near: هَٰذَا، هَٰذِهِ، هَٰؤُلَاءِ | Far: ذَٰلِكَ، تِلْكَ، أُولَٰئِكَ",
+        "example": "هَٰذَا بَيَانٌ ... ذَٰلِكَ الْفَوْزُ",
+        "myanmar_read": "အနီးနှင့် အဝေး၊ အဖိုနှင့် အမ၊ ဧကဝုစ်နှင့် အများကိန်း ခြောက်မျိုးလုံးကို မှတ်သားပါ။",
+        "key_insight": "Mastering these 6 words allows you to identify the focus of thousands of verses in the Quran."
+      },
+      "explanation": {
+        "en": "This lesson summarizes the six essential demonstrative pronouns. We have Near (Hādhā, Hādhihi, Hā'ulā'i) and Far (Dhālika, Tilka, Ulā'ika). Remember that masculine and feminine matter in the singular, but the plural forms (Hā'ulā'i and Ulā'ika) are the same for both genders when referring to humans. Non-human plurals always use the feminine singular (Hādhihi or Tilka).",
+        "my": "ဤသင်ခန်းစာသည် အခြေခံအကျဆုံး အညွှန်းနာမ် ၆ မျိုးကို စုစည်းတင်ပြထားသည်။ အနီးညွှန်း (ဟားသား၊ ဟားသိဟိ၊ ဟားအူလားအိ) နှင့် အဝေးညွှန်း (ဒါလိက၊ သီလ်က၊ အူလားအိက) တို့ ဖြစ်သည်။ ဧကဝုစ်တွင် အဖို/အမ ခွဲခြားရန် လိုသော်လည်း လူအများကိန်းတွင် အဖို/အမ အတူတူပင်ဖြစ်သည်။ လူမဟုတ်သော အများကိန်းများအတွက်မူ အမ ဧကဝုစ်ပုံစံကိုသာ သုံးရမည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese uses 'ဒီ' (this) and 'ထို' (that) simply, while Arabic adds layers of gender and human/non-human distinction.",
+        "my": "မြန်မာစကားထက် အာရဗီတွင် ကျား/မ နှင့် လူ/ပစ္စည်း ခွဲခြားမှု ပိုမိုတိကျသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Hādhā/Dhālika = Masc. Sing.",
+          "rule_my": "ဟားသား/ဒါလိက = အဖို ဧကဝုစ်",
+          "example": {
+            "ar": "هَٰذَا كِتَابٌ",
+            "en": "This is a book",
+            "my": "ဤအရာသည် စာအုပ်ဖြစ်သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Hādhihi/Tilka = Fem. Sing. & Non-human Plural.",
+          "rule_my": "ဟားသိဟိ/သီလ်က = အမ ဧကဝုစ် နှင့် လူမဟုတ်သော အများကိန်း",
+          "example": {
+            "ar": "تِلْكَ آيَاتُ اللَّهِ",
+            "en": "Those are the signs of Allah",
+            "my": "ထိုအရာတို့သည် အလ္လာဟ်အရှင်မြတ်၏ အမှတ်အသားများဖြစ်သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+          "en": "That is the great success",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အီမာန်ယုံကြည်သူ ယောက်ျား၊မိန်းမများကို အကြင်ဥယျာဉ်များကို (ပေးတော်မူရန်)ကတိပြုထားတော်မူခဲ့သည်။ ထိုဥယျာဉ်များ၏အောက်မှ စမ်းရေချောင်းများ စီးဆင်လျက်ရှိသည်။ သူတို့သည် ထိုဥယျာဉ်များတွင် အမြဲနေကြရမည်။ ထို့ပြင် အမြဲတည်သောဥယျာဉ်များတွင် ကောင်းမွန်စင်ကြယ်သော ဗိမာန်များကို(ပေးဆောင်တော်မူရန်)လည်း (ကတိပြုထားတော်မူခဲ့သည်)။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်၏ကျေနပ်မှုကမူ အကြီးကျယ်ဆုံးပင် ဖြစ်သည်။ ဤသည် ကြီးကျယ်သော အောင်မြင်မှုဖြစ်သည်။",
+          "ref": "9:72",
+          "breakdown": {
+            "subject": {
+              "word": "ذَٰلِكَ",
+              "en": "That",
+              "note": "Referring to Paradise"
+            },
+            "predicate": {
+              "word": "الْفَوْزُ",
+              "en": "the success",
+              "note": "Great result"
+            }
+          },
+          "myanmar_insight": "ဂျန္နသ်၏ အောင်မြင်မှုကို အဝေးညွှန်း 'ဒါလိက' ဖြင့် သုံးနှုန်း၍ ၎င်း၏ မြင့်မြတ်မှုကို ဖော်ပြထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using plural for non-human things",
+          "wrong": {
+            "ar": "أُولَٰئِكَ آيَات",
+            "note": "Ayat are signs, not people"
+          },
+          "correct": {
+            "ar": "تِلْكَ آيَاتٌ",
+            "en": "Those are signs",
+            "my": "ထိုအရာတို့သည် အမှတ်အသားများဖြစ်သည်"
+          },
+          "myanmar_tip": "လူအုပ်စုဖြစ်မှသာ Ulā'ika ကို သုံးပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Match the demonstrative to its category",
+          "instruction_my": "အညွှန်းနာမ်နှင့် အမျိုးအစားကို တွဲပါ",
+          "questions": [
+            {
+              "q": "أُولَٰئِكَ",
+              "answer_en": "Far Plural",
+              "answer_my": "အဝေး အများကိန်း",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "هَٰؤُلَاءِ قَوْمِي",
+              "answer_en": "These are my people",
+              "answer_my": "ဤသူတို့သည် ကျွန်ုပ်၏ လူမျိုးစုဖြစ်သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Give the 'Far' version of Hādhihi",
+          "instruction_my": "ဟားသိဟိ (Hādhihi) ၏ အဝေးညွှန်းကို ဖော်ပြပါ",
+          "questions": [
+            {
+              "q": "هَٰذِهِ",
+              "answer_en": "Tilka",
+              "answer_my": "သီလ်က",
+              "ar": "تِلْكَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Demonstratives are like pointers of the heart. They tell us where to look—to the truth in our hands (Near) and the majesty of our destination (Far).",
+        "my": "အညွှန်းနာမ်များသည် နှလုံးသား၏ ညွှန်ပြချက်များကဲ့သို့ပင်။ ၎င်းတို့သည် ကျွန်ုပ်တို့အား မည်သည့်နေရာကို ကြည့်ရမည်ကို ပြောပြသည် - ကျွန်ုပ်တို့လက်ထဲရှိ အမှန်တရား (အနီး) နှင့် ကျွန်ုပ်တို့သွားမည့် ပန်းတိုင်၏ မြင့်မြတ်မှု (အဝေး) တို့ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "At-Tawbah 9:72",
+        "study_number": 1,
+        "arabic_full": "وَرِضْوَانٌ مِّنَ اللَّهِ أَكْبَرُ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+        "en_sahih": "but acceptance from Allah is greater. That is the great success.",
+        "my_mmsy": "အလ္လာဟ်အရှင်မြတ်သည် အီမာန်ယုံကြည်သူ ယောက်ျား၊မိန်းမများကို အကြင်ဥယျာဉ်များကို (ပေးတော်မူရန်)ကတိပြုထားတော်မူခဲ့သည်။ ထိုဥယျာဉ်များ၏အောက်မှ စမ်းရေချောင်းများ စီးဆင်လျက်ရှိသည်။ သူတို့သည် ထိုဥယျာဉ်များတွင် အမြဲနေကြရမည်။ ထို့ပြင် အမြဲတည်သောဥယျာဉ်များတွင် ကောင်းမွန်စင်ကြယ်သော ဗိမာန်များကို(ပေးဆောင်တော်မူရန်)လည်း (ကတိပြုထားတော်မူခဲ့သည်)။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်၏ကျေနပ်မှုကမူ အကြီးကျယ်ဆုံးပင် ဖြစ်သည်။ ဤသည် ကြီးကျယ်သော အောင်မြင်မှုဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 9,
+          "ayah": 72,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/009072.mp3"
+        },
+        "qurancom_url": "https://quran.com/9/72",
+        "context": {
+          "en": "Allah describes the gardens of eternity and then emphasizes that His pleasure (Ridwan) is the highest reward of all.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ထာဝရဂျန္နသ်ဥယျာဉ်များအကြောင်း ဖော်ပြပြီးနောက် ကိုယ်တော်၏ နှစ်သက်မှုကို ရရှိခြင်းသည် အမြင့်မြတ်ဆုံး အကျိုးကျေးဇူးဖြစ်ကြောင်း အလေးပေးထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "ذَٰلِكَ",
+            "translit": "dhālika",
+            "en": "That",
+            "my": "ထိုအရာ",
+            "role_en": "Demonstrative",
+            "role_my": "အညွှန်းနာမ်",
+            "root": "ذ ل ك",
+            "freq": 481
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Dhālika refers back to 'Allah's pleasure', framing it as the ultimate goal to strive for.",
+          "structure_my": "ဒါလိကသည် 'အလ္လာဟ်အရှင်မြတ်၏ နှစ်သက်မှု' ကို ပြန်လည်ရည်ညွှန်းပြီး ၎င်းသည်သာလျှင် ကြိုးစားရမည့် နောက်ဆုံးပန်းတိုင်ဖြစ်ကြောင်း ဖော်ပြသည်။",
+          "insight_en": "The use of Dhālika makes the success feel monumental and worthy of sacrifice.",
+          "insight_my": "ဒါလိကကို သုံးခြင်းဖြင့် ထိုအောင်မြင်မှုသည် အလွန်ကြီးကျယ်ခမ်းနားပြီး စွန့်လွှတ်အနစ်နာခံထိုက်ကြောင်း ခံစားရစေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ف و ز",
+            "concept_en": "To attain a goal or escape from danger",
+            "concept_my": "ပန်းတိုင်တစ်ခုသို့ ရောက်ရှိခြင်း သို့မဟုတ် ဘေးအန္တရာယ်မှ လွတ်မြောက်ခြင်း",
+            "members": [
+              {
+                "ar": "فَائِز",
+                "en": "winner",
+                "my": "အနိုင်ရသူ",
+                "freq": 1
+              }
+            ],
+            "professors_note": "Fawz is the kind of success where you get what you want AND you are saved from what you fear."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "စစ်မှန်သော အောင်မြင်မှုဟူသည်မှာ အလ္လာဟ်အရှင်မြတ်၏ နှစ်သက်မှုကို ရရှိခြင်းပင်ဖြစ်သည်။ ဤလောကီစည်းစိမ်များထက် ထိုအရာ (ဒါလိက) က ပိုမိုမြင့်မြတ်သည်။ ကျွန်ုပ်တို့၏ ဘဝရည်မှန်းချက်သည် ဤကြီးကျယ်သော အောင်မြင်မှု (အလ်ဖောင်ဇုလ် အဇီးမ်) သို့ ရောက်ရှိရန် ဖြစ်ရပါမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Dhaa-lika hu-wal faw-zul 'a-zeem...",
+          "meaning_anchor": "Imagine a bright golden gate of Paradise representing success.",
+          "daily_connection": "Recite this when you achieve something small, to remind yourself of the ultimate success.",
+          "my": "လောကီတွင် အောင်မြင်မှုတစ်ခုခု ရရှိတိုင်း ဤအာယသ်ကို ရွတ်ဆိုကာ စစ်မှန်သော အောင်မြင်မှုကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this milestone review, we consolidated all six demonstrative forms. You are now equipped to navigate how Allah points to people, objects, and concepts across the entire Quran.",
+      "my": "ဤပြန်လည်သုံးသပ်ခြင်းသင်ခန်းစာတွင် အညွှန်းနာမ် ၆ မျိုးလုံးကို စုစည်းလေ့လာခဲ့သည်။ ယခုအခါ ကုရ်အာန်တွင် အလ္လာဟ်အရှင်မြတ်သည် လူများ၊ ပစ္စည်းများနှင့် သဘောတရားများကို မည်သို့ ညွှန်းဆိုသည်ကို သင် ခွဲခြားနိုင်ပြီဖြစ်သည်။"
+    }
+  }
+]

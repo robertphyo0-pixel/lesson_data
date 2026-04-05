@@ -1,0 +1,2227 @@
+[
+  {
+    "lesson_id": "L1-041",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 41,
+    "title": {
+      "ar": "جَمْعُ التَّكْسِيرِ (١) — وَزْنُ فُعُل",
+      "en": "Broken Plurals I — Pattern Fu'ul",
+      "my": "အနက်ဖျက်အများကိန်း (၁) — ဖုအုလ် ပုံစံ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Fu'ul broken plural pattern; most common for 3-letter nouns",
+      "grammar_formula": "Noun (singular) -> فُعُل (plural)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "كُتُب",
+        "translit": "kutub",
+        "en": "Books",
+        "my": "စာအုပ်များ",
+        "quran_freq": 319,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعُل",
+        "root": {
+          "letters": "ك ت ب",
+          "concept_en": "writing / recording",
+          "concept_my": "ရေးမှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kutub - looks like Cube-tub",
+          "image": "A tub full of cubes that are actually tiny books.",
+          "cross_language": "Kitab (Malay/Urdu/Myanmar usage)"
+        },
+        "word_family": [
+          {
+            "ar": "كِتَاب",
+            "translit": "kitāb",
+            "en": "book",
+            "my": "စာအုပ်",
+            "freq": 261
+          }
+        ],
+        "pattern_unlock": "The pattern فُعُل often turns a 3-letter singular noun into a plural by changing vowels to two 'u' sounds.",
+        "example": {
+          "ar": "فِي صُحُفٍ مُّكَرَّمَةٍ",
+          "en": "On honored sheets",
+          "my": "ဂုဏ်သိက္ခာရှိသော စာမျက်နှာလွှာများတွင်",
+          "ref": "80:13"
+        }
+      },
+      {
+        "word": "قُلُوب",
+        "translit": "qulūb",
+        "en": "Hearts",
+        "my": "နှလုံးသားများ",
+        "quran_freq": 132,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعُول",
+        "root": {
+          "letters": "ق ل ب",
+          "concept_en": "turning / changing",
+          "concept_my": "ပြောင်းလဲခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qulub - sounds like 'Cool-tube'",
+          "image": "A cool tube flowing into many hearts.",
+          "cross_language": "Kalb (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "قَلْب",
+            "translit": "qalb",
+            "en": "heart",
+            "my": "နှလုံးသား",
+            "freq": 168
+          }
+        ],
+        "pattern_unlock": "Related to Fu'ul, the Fu'ul pattern is the core plural foundation for internal organs and deep concepts.",
+        "example": {
+          "ar": "فِي قُلُوبِهِم مَّرَضٌ",
+          "en": "In their hearts is disease",
+          "my": "သူတို့၏နှလုံးသားများတွင် ရောဂါရှိ၏",
+          "ref": "2:10"
+        }
+      },
+      {
+        "word": "وُجُوه",
+        "translit": "wujūh",
+        "en": "Faces",
+        "my": "မျက်နှာများ",
+        "quran_freq": 77,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعُوه",
+        "root": {
+          "letters": "و ج ه",
+          "concept_en": "facing / direction",
+          "concept_my": "မျက်နှာမူရာဘက်"
+        },
+        "memory_hook": {
+          "sound": "Wujuh - sounds like 'Woo-hoo'",
+          "image": "Many happy faces shouting woo-hoo.",
+          "cross_language": "Wajah (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "وَجْه",
+            "translit": "wajh",
+            "en": "face",
+            "my": "မျက်နှာ",
+            "freq": 115
+          }
+        ],
+        "pattern_unlock": "This plural keeps the core identity of the person/thing while indicating multiplicity through vowel shifts.",
+        "example": {
+          "ar": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ",
+          "en": "[Some] faces, that Day, will be radiant",
+          "my": "ထိုနေ့တွင် အချို့သောမျက်နှာများသည် ကြည်လင်တောက်ပနေကြလိမ့်မည်",
+          "ref": "75:22"
+        }
+      },
+      {
+        "word": "أَبْوَاب",
+        "translit": "abwāb",
+        "en": "Doors",
+        "my": "တံခါးများ",
+        "quran_freq": 27,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "أَفْعَال",
+        "root": {
+          "letters": "ب و ب",
+          "concept_en": "gate / opening",
+          "concept_my": "တံခါးပေါက်"
+        },
+        "memory_hook": {
+          "sound": "Abwab - sounds like 'A-Bob'",
+          "image": "Bob standing between many open doors.",
+          "cross_language": "Bab (Urdu/Farsi)"
+        },
+        "word_family": [
+          {
+            "ar": "بَاب",
+            "translit": "bāb",
+            "en": "door",
+            "my": "တံခါး",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Though slightly different from Fu'ul, it introduces how triliteral roots expand into distinct plural shapes.",
+        "example": {
+          "ar": "وَفُتِحَتِ الْأَبْوَابُ",
+          "en": "And the doors are opened",
+          "my": "တံခါးများကို ဖွင့်လိုက်ပြီ",
+          "ref": "39:73"
+        }
+      },
+      {
+        "word": "جِبَال",
+        "translit": "jibāl",
+        "en": "Mountains",
+        "my": "တောင်များ",
+        "quran_freq": 39,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ج ب ل",
+          "concept_en": "firmness / mountain",
+          "concept_my": "ခိုင်မာခြင်း / တောင်"
+        },
+        "memory_hook": {
+          "sound": "Jibal - sounds like 'Jubilee'",
+          "image": "A jubilee celebration on top of high mountains.",
+          "cross_language": "Jabal (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "جَبَل",
+            "translit": "jabal",
+            "en": "mountain",
+            "my": "တောင်",
+            "freq": 7
+          }
+        ],
+        "pattern_unlock": "Natural objects often use this long-vowel plural pattern to show grandeur.",
+        "example": {
+          "ar": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ",
+          "en": "And the mountains will be like wool",
+          "my": "တောင်များသည် သိုးမွှေးကဲ့သို့ ဖြစ်သွားကြလိမ့်မည်",
+          "ref": "70:9"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "جَمْعُ التَّكْسِيرِ — فُعُل",
+        "en": "Broken Plural — Fu'ul",
+        "my": "အနက်ဖျက်အများကိန်း - ဖုအုလ်"
+      },
+      "formula": {
+        "display": "كِتَاب (Singular) -> كُتُب (Plural)",
+        "example": "رَسُول (Messenger) -> رُسُل (Messengers)",
+        "myanmar_read": "မူလစကားလုံး၏ ပုံသဏ္ဍာန်ကို ဖျက်၍ အလယ်တွင် သရပြောင်းလဲခြင်းဖြင့် အများကိန်းပြုလုပ်ခြင်း",
+        "key_insight": "Unlike English '-s', Arabic 'breaks' the word inside to make it plural."
+      },
+      "explanation": {
+        "en": "Broken plurals are nouns that change their internal structure rather than adding a suffix. The Fu'ul pattern is common for many three-letter roots, especially those related to objects or offices of authority. Think of it like 'Goose' becoming 'Geese' in English.",
+        "my": "အနက်ဖျက်အများကိန်းဆိုသည်မှာ စကားလုံး၏နောက်၌ နောက်ဆက်တွဲထည့်ခြင်းမျိုးမဟုတ်ဘဲ စကားလုံး၏ အတွင်းတည်ဆောက်ပုံကို ပြောင်းလဲခြင်းဖြစ်သည်။ Fu'ul ပုံစံသည် အာရပ်စာပေတွင် အလွန်အသုံးများသော အများကိန်းပုံစံတစ်ခုဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we add 'mya' (များ) to the end. In Arabic, we change the vowels inside the word itself.",
+        "my": "မြန်မာစာတွင် 'များ' ဟု နောက်မှ ထည့်ရုံသာရှိသော်လည်း အာရဗီတွင် စကားလုံးအတွင်းပိုင်း သရများကို ပြောင်းလဲရသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The pattern involves putting Damma on the first and second root letters.",
+          "rule_my": "ပထမနှင့် ဒုတိယ အက္ခရာများပေါ်တွင် ဓမ္မ (U သရ) တင်ရမည်။",
+          "example": {
+            "ar": "كُتُب",
+            "en": "Books",
+            "my": "စာအုပ်များ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "تِلْكَ رُسُلُ اللَّهِ",
+          "en": "Those are the messengers of Allah",
+          "my": "ဤသည် အလ္လာဟ်အရှင်မြတ်၏ အာယသ်တော်များပင်ဖြစ်သည်။ ငါအရှင်မြတ်သည် ထိုအာယသ်တော်များကို အသင်၏အပေါ်၌ မှန်ကန်စွာ ဖတ်ရွတ်ပြတော်မူသည်၊  ထို့ပြင် အသင်သည် စေလွှတ်တော်မူခြင်းခံရသည့် ရစူလ်တမန်တော်များထဲတွင် အမှန်ပင် တစ်ဦးအပါအဝင် ဖြစ်သည်။",
+          "ref": "2:252",
+          "breakdown": {
+            "subject": {
+              "word": "تِلْكَ",
+              "en": "Those",
+              "note": "Demonstrative pronoun"
+            },
+            "predicate": {
+              "word": "رُسُلُ",
+              "en": "Messengers",
+              "note": "Broken plural of Rasul"
+            }
+          },
+          "myanmar_insight": "Rasul တစ်ဦးတည်းမဟုတ်ဘဲ တမန်တော်များစွာကို ဆိုလိုခြင်းဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Adding 'una' or 'ina' to everything",
+          "wrong": {
+            "ar": "كِتَابُون",
+            "note": "Trying to use regular sound plural for broken plurals"
+          },
+          "correct": {
+            "ar": "كُتُب",
+            "en": "Books",
+            "my": "စာအုပ်များ"
+          },
+          "myanmar_tip": "စကားလုံးတိုင်းကို 'အူးနား' ပေါင်း၍ အများကိန်းလုပ်၍မရကြောင်း သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "သတ်မှတ်အက္ခရာပါသော စကားလုံးနှင့် မပါသောစကားလုံးကို ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "كُتُبٌ قَيِّمَةٌ",
+              "answer_en": "Indefinite",
+              "answer_my": "သတ်မှတ်ချက်မပါ",
+              "ref": "98:3"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "فِي قُلُوبِهِمْ",
+              "answer_en": "In their hearts",
+              "answer_my": "သူတို့၏နှလုံးသားများတွင်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "Al- ထည့်၍ သတ်မှတ်အများကိန်း ပြုလုပ်ပါ",
+          "questions": [
+            {
+              "q": "كُتُب",
+              "answer_en": "The books",
+              "answer_my": "စာအုပ်များ",
+              "ar": "الْكُتُب"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The changing of words from within reminds us that real change in our lives starts with the internal transformation of the heart (Qalb/Qulub).",
+        "my": "စကားလုံးများ၏ အတွင်းပိုင်းပြောင်းလဲမှုသည် ကျွန်ုပ်တို့၏ ဘဝပြောင်းလဲမှုအတွက် နှလုံးသား၏ အတွင်းပိုင်းပြောင်းလဲမှုသည် အဓိကဖြစ်ကြောင်း သတိပေးနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:10",
+        "study_number": 1,
+        "arabic_full": "فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ",
+        "en_sahih": "In their hearts is disease, so Allah has increased their disease; and for them is a painful punishment because they [habitually] used to lie.",
+        "my_mmsy": "MYANMAR_PLACE_HOLDER_S2_A10",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 10,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002010.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/10",
+        "context": {
+          "en": "Allah is describing the state of the hypocrites who pretend to believe but harbor illness in their hearts.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မုနာဖစ် (ဟန်ဆောင်သူများ) ၏ အခြေအနေကို ဖော်ပြထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "قُلُوبِ",
+            "translit": "qulūbi",
+            "en": "hearts",
+            "my": "နှလုံးသားများ",
+            "role_en": "Noun (Genitive)",
+            "role_my": "နာမ်",
+            "root": "ق ل ب",
+            "freq": 132
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The word Qulub is the broken plural of Qalb using the Fu'ul-type extension (Fu'ool).",
+          "structure_my": "Qalb ၏ အများကိန်းကို Fu'ool ပုံစံဖြင့် အသုံးပြုထားသည်။",
+          "insight_en": "It emphasizes that hypocrisy is not just one thought, but a deep-seated illness affecting all aspects of their internal self.",
+          "insight_my": "မုနာဖစ်လုပ်ခြင်းသည် အတွေးတစ်ခုတည်းမဟုတ်ဘဲ နှလုံးသားတစ်ခုလုံးကို ပျက်စီးစေသော ရောဂါဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ق ل ب",
+            "concept_en": "Something that flips or turns over constantly.",
+            "concept_my": "အမြဲတမ်း တုန်လှုပ်ချောက်ချား ပြောင်းလဲနေသောအရာ",
+            "members": [
+              {
+                "ar": "مُتَقَلِّب",
+                "en": "unsteady",
+                "my": "မတည်ငြိမ်သော",
+                "freq": 2
+              }
+            ],
+            "professors_note": "The heart is called Qalb because it flips between states and emotions rapidly."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ နှလုံးသားများကို အလ္လာဟ်အရှင်မြတ်နှစ်သက်သော လမ်းစဉ်ပေါ်တွင် တည်မြဲစေရန် ဤအာယသ်တော်ကို ဆင်ခြင်သင့်သည်။ ဟန်ဆောင်မှုကင်းသော သဒ္ဓါတရားရှိရန် အရေးကြီးပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Heavy 'oo' sound in Qulub followed by the sharp 'D' in Marad.",
+          "meaning_anchor": "Imagine a dark cloud inside many hearts.",
+          "daily_connection": "Recited when seeking refuge from spiritual hypocrisy.",
+          "my": "Qulub ဆိုသော စကားလုံး၏ အသံထွက်ကို အာရုံစိုက်၍ ကျက်မှတ်ပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Ghashiyah 88:13",
+        "study_number": 2,
+        "arabic_full": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+        "en_sahih": "Within it are couches raised high",
+        "my_mmsy": "(၁၃) ထိုအထဲတွင် မြင့်မားသော ထိုင်ခုံများရှိသည်။",
+        "audio_ref": {
+          "surah": 88,
+          "ayah": 13,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/088013.mp3"
+        },
+        "qurancom_url": "https://quran.com/88/13",
+        "context": {
+          "en": "Describing the luxuries of Paradise (Jannah) for the believers.",
+          "my": "ဂျန္နသ်သုခဘုံရှိ စည်းစိမ်များကို ဖော်ပြထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "سُرُرٌ",
+            "translit": "sururun",
+            "en": "couches",
+            "my": "ခုတင်များ",
+            "role_en": "Noun (Subject)",
+            "role_my": "နာမ်",
+            "root": "س ر ر",
+            "freq": 4
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Surur is the exact Fu'ul pattern plural of Sarir (couch/bed).",
+          "structure_my": "Surur သည် Sarir (ခုတင်) ၏ Fu'ul ပုံစံ အများကိန်းဖြစ်သည်။",
+          "insight_en": "The Fu'ul pattern here conveys a sense of rhythmic abundance in Paradise.",
+          "insight_my": "ဂျန္နသ်တွင် ခုတင်များစွာ အစီအရီရှိနေခြင်းကို ဖော်ညွှန်းသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "س ر ر",
+            "concept_en": "Secret, joy, or the core essence of something.",
+            "concept_my": "လျှို့ဝှက်ချက် (သို့) ပျော်ရွှင်မှု",
+            "members": [
+              {
+                "ar": "سُرُور",
+                "en": "happiness",
+                "my": "ပျော်ရွှင်ခြင်း",
+                "freq": 1
+              }
+            ],
+            "professors_note": "A 'Sarir' (bed) is where one finds internal secret joy and rest."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "နောင်တမလွန်ဘဝ၏ အဆင့်မြင့်သော စည်းစိမ်ချမ်းသာများကို မျှော်ကိုး၍ ဤလောကတွင် ကောင်းမှုကုသိုလ်များ ပြုလုပ်ရန် တိုက်တွန်းထားသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Short repetitive 'u' sounds: Su-ru-run.",
+          "meaning_anchor": "High golden beds lined up.",
+          "daily_connection": "Used to describe comfort and high status.",
+          "my": "Su-ru-run ဟူသော စည်းချက်ကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we explored the first pattern of broken plurals: Fu'ul. We learned how words like Kitab and Rasul transform internally to show plurality and saw their usage in the Quranic context of hearts and messengers.",
+      "my": "ဤသင်ခန်းစာတွင် အနက်ဖျက်အများကိန်း၏ ပထမဆုံးပုံစံဖြစ်သော Fu'ul ကို လေ့လာခဲ့သည်။ စကားလုံးများကို အတွင်းပိုင်းပြောင်းလဲ၍ အများကိန်းပြုလုပ်ပုံနှင့် ကုရ်အာန်ရှိ ဥပမာများကို လေ့လာခဲ့သည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-042",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 42,
+    "title": {
+      "ar": "جَمْعُ التَّكْسِيرِ (٢) — وَزْنُ فُعَلَاء",
+      "en": "Broken Plurals II — Pattern Fu'ala'",
+      "my": "အနက်ဖျက်အများကိန်း (၂) — ဖုအလား ပုံစံ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Fu'alā' pattern for qualities and titles",
+      "grammar_formula": "Noun (singular) -> فُعَلَاء (plural)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "شُهَدَاء",
+        "translit": "shuhadā'",
+        "en": "Witnesses",
+        "my": "သက်သေများ",
+        "quran_freq": 35,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعَلَاء",
+        "root": {
+          "letters": "ش ه د",
+          "concept_en": "to witness / testify",
+          "concept_my": "သက်သေခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shuhada - sounds like 'Shoe-day'",
+          "image": "Many witnesses standing on a special shoe day.",
+          "cross_language": "Syuhada (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "شَهِيد",
+            "translit": "shahīd",
+            "en": "witness",
+            "my": "သက်သေ",
+            "freq": 56
+          }
+        ],
+        "pattern_unlock": "This pattern usually applies to human roles or descriptions ending in 'Id' or 'Il'.",
+        "example": {
+          "ar": "وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+          "en": "And Allah is witness over all things",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းကို သက်သေအဖြစ် မြင်တွေ့နေတော်မူသောအရှင်ဖြစ်သည်။",
+          "ref": "58:6"
+        }
+      },
+      {
+        "word": "أَنبِيَاء",
+        "translit": "anbiyā'",
+        "en": "Prophets",
+        "my": "ပရောဖက်များ / နဗီတမန်တော်များ",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعَلَاء",
+        "root": {
+          "letters": "ن ب أ",
+          "concept_en": "news / information",
+          "concept_my": "သတင်းပေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Anbiya - sounds like 'Ann-be-here'",
+          "image": "All the prophets are gathered here.",
+          "cross_language": "Nabi (Malay/Myanmar usage)"
+        },
+        "word_family": [
+          {
+            "ar": "نَبِيّ",
+            "translit": "nabiyy",
+            "en": "prophet",
+            "my": "နဗီတမန်တော်",
+            "freq": 75
+          }
+        ],
+        "pattern_unlock": "Plural of titles often takes this rhythmic, long-ending pattern.",
+        "example": {
+          "ar": "وَيَقْتُلُونَ الْأَنبِيَاءَ",
+          "en": "And they killed the prophets",
+          "my": "သူတို့သည် နဗီတမန်တော်များကို သတ်ဖြတ်ခဲ့ကြသည်",
+          "ref": "2:61"
+        }
+      },
+      {
+        "word": "أَوْلِيَاء",
+        "translit": "awliyā'",
+        "en": "Allies / Protectors",
+        "my": "မိတ်ဆွေများ / အကာအကွယ်ပေးသူများ",
+        "quran_freq": 42,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعَلَاء",
+        "root": {
+          "letters": "و ل ي",
+          "concept_en": "nearness / authority",
+          "concept_my": "နီးစပ်ခြင်း / အခွင့်အာဏာ"
+        },
+        "memory_hook": {
+          "sound": "Awliya - sounds like 'All-we-are'",
+          "image": "All we are is allies under Allah.",
+          "cross_language": "Aulia (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "وَلِيّ",
+            "translit": "waliyy",
+            "en": "protector",
+            "my": "အကာအကွယ်ပေးသူ",
+            "freq": 44
+          }
+        ],
+        "pattern_unlock": "Indicates a collective group of people with a shared quality.",
+        "example": {
+          "ar": "أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ",
+          "en": "Unquestionably, the allies of Allah",
+          "my": "ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်၏ မိတ်ဆွေများသည်",
+          "ref": "10:62"
+        }
+      },
+      {
+        "word": "حُكَمَاء",
+        "translit": "hukamā'",
+        "en": "Wise people / Rulers",
+        "my": "ပညာရှိများ / အုပ်ချုပ်သူများ",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعَلَاء",
+        "root": {
+          "letters": "ح ك م",
+          "concept_en": "wisdom / judgment",
+          "concept_my": "ဉာဏ်ပညာ / စီရင်ဆုံးဖြတ်ချက်"
+        },
+        "memory_hook": {
+          "sound": "Hukama - sounds like 'Who-came-here'",
+          "image": "The wise men who came here to judge.",
+          "cross_language": "Hakim (Malay/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "حَكِيم",
+            "translit": "hakīm",
+            "en": "wise",
+            "my": "ပညာရှိ",
+            "freq": 97
+          }
+        ],
+        "pattern_unlock": "This pattern often turns adjectives into collective human nouns.",
+        "example": {
+          "ar": "وَاللَّهُ عَزِيزٌ حَكِيمٌ",
+          "en": "And Allah is Exalted in Might and Wise",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးအာနုဘော်အရှိဆုံး၊ ဉာဏ်ပညာအရှိဆုံး ဖြစ်တော်မူ၏",
+          "ref": "2:228"
+        }
+      },
+      {
+        "word": "كُرَمَاء",
+        "translit": "kuramā'",
+        "en": "Noble ones",
+        "my": "မြတ်သောသူများ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعَلَاء",
+        "root": {
+          "letters": "ك ر م",
+          "concept_en": "generosity / honor",
+          "concept_my": "ရက်ရောခြင်း / ဂုဏ်အသရေ"
+        },
+        "memory_hook": {
+          "sound": "Kurama - sounds like 'Car-ma'",
+          "image": "Noble people with good karma.",
+          "cross_language": "Karim (Urdu/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "كَرِيم",
+            "translit": "karīm",
+            "en": "noble",
+            "my": "ဂုဏ်သရေရှိသော",
+            "freq": 27
+          }
+        ],
+        "pattern_unlock": "Words with Karim-like sounds always use this plural for people.",
+        "example": {
+          "ar": "رِزْقٌ كَرِيمٌ",
+          "en": "Noble provision",
+          "my": "ဂုဏ်သိက္ခာရှိသော စားနပ်ရိက္ခာ",
+          "ref": "8:4"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "جَمْعُ التَّكْسِيرِ — فُعَلَاء",
+        "en": "Broken Plural — Fu'ala'",
+        "my": "အနက်ဖျက်အများကိန်း - ဖုအလား"
+      },
+      "formula": {
+        "display": "شَهِيد (Singular) -> شُهَدَاء (Plural)",
+        "example": "عَالِم (Scholar) -> عُلَمَاء (Scholars)",
+        "myanmar_read": "စကားလုံး၏အဆုံးတွင် အလစ်ဖ်နှင့် ဟမ်ဇာ (အသံရှည်) ထည့်သွင်း၍ အများကိန်းပြုလုပ်ခြင်း",
+        "key_insight": "This pattern is for people with high status or deep qualities."
+      },
+      "explanation": {
+        "en": "The Fu'ala' pattern is used for human beings, particularly those who hold a specific rank, title, or shared characteristic. It ends with a 'long A' sound (Alif Mamduda). Most singulars for this pattern follow the 'Fa-eel' (فَعِيل) scale.",
+        "my": "Fu'ala' ပုံစံကို အထူးသဖြင့် လူပုဂ္ဂိုလ်များ၊ ရာထူးဌာနန္တရရှိသူများ သို့မဟုတ် တူညီသော အရည်အချင်းရှိသူများအတွက် အသုံးပြုသည်။ ဤပုံစံသည် အဆုံးတွင် အသံရှည်ဖြင့် ဆုံးသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to how we use honorifics for groups (e.g., Sayar-mya), this Arabic pattern itself implies a level of respect or formal role.",
+        "my": "မြန်မာဘာသာတွင် ရာထူးဂုဏ်ရှိသူများကို အများကိန်းပြုလုပ်သကဲ့သို့ ဤအာရဗီပုံစံသည်လည်း လေးစားမှု သို့မဟုတ် တရားဝင်အဆင့်အတန်းကို ဖော်ဆောင်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Singular 'Fa-eel' words often become 'Fu-ala' in plural.",
+          "rule_my": "'Fa-eel' အသံထွက် နာမ်များသည် အများကိန်းတွင် 'Fu-ala' ဖြစ်သွားလေ့ရှိသည်။",
+          "example": {
+            "ar": "شَهِيد -> شُهَدَاء",
+            "en": "Witness -> Witnesses",
+            "my": "သက်သေ -> သက်သေများ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "كُونُوا شُهَدَاءَ لِلَّهِ",
+          "en": "Be witnesses for Allah",
+          "my": "အို- အီမာန်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် တရားမျှတမှုနှင့် တည်တံ့သူများဖြစ်ကြပါ။  အသင်တို့ကိုယ်တိုင်နှင့် ဆန့်ကျင်သည်ဖြစ်စေ၊ မိဘနှစ်ပါးနှင့် ဆန့်ကျင်သည်ဖြစ်စေ၊ ဆွေမျိုးသားချင်းများနှင့် ဆန့်ကျင်သည်ဖြစ်စေ၊  အလ္လာဟ်အရှင်မြတ်အတွက် အသင်တို့သည် (မှန်ကန်စွာ)သက်သေခံသူများဖြစ်ကြပါ။ အကယ်၍ ဆန့်ကျင်ပြီး သက်သေထွက်ရမည့်သူသည် သူဋ္ဌေးဖြစ်စေ၊ ဆင်းရဲသားဖြစ်စေ၊ အလ္လာဟ်အရှင်မြတ်သည် (အသင်တို့ထက်) သူတို့နှစ်ဦးစလုံးနှင့် (ပို၍)အနီးစပ်ဆုံးအရှင် ဖြစ်တော်မူသည်။ သို့ဖြစ်ရာ အသင်တို့သည် တရားမျှတမှုမှ ယိမ်းယိုင်မသွားကြရန်  စိတ်၏အလိုဆန္ဒနောက်ကို မလိုက်ကြနှင့်။ ထို့ပြင် အကယ်၍ အသင်တို့သည် (သက်သေခံရာတွင်) ကွေ့ကောက်(လိမ်လည်)ပြောဆိုကြလျှင်၊ သို့မဟုတ် (သက်သေမခံဘဲ)ရှောင်တိမ်းကြလျှင်  အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အသင်တို့ပြုမူသည်များကို အကြွင်းမဲ့ကြားသိတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+          "ref": "4:135",
+          "breakdown": {
+            "subject": {
+              "word": "كُونُوا",
+              "en": "Be (plural)",
+              "note": "Command verb"
+            },
+            "predicate": {
+              "word": "شُهَدَاءَ",
+              "en": "Witnesses",
+              "note": "Fu'ala pattern plural"
+            }
+          },
+          "myanmar_insight": "တစ်ဦးတည်းမဟုတ်ဘဲ မွတ်စလင်ထုတစ်ရပ်လုံးကို သက်သေများဖြစ်ရန် တိုက်တွန်းခြင်းဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting the Hamza at the end",
+          "wrong": {
+            "ar": "شُهَدَا",
+            "note": "Missing the final stop"
+          },
+          "correct": {
+            "ar": "شُهَدَاء",
+            "en": "Witnesses",
+            "my": "သက်သေများ"
+          },
+          "myanmar_tip": "အဆုံးတွင် ဟမ်ဇာ (အသံရပ်) ပါရမည်ကို သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the plural in the sentence",
+          "instruction_my": "ဝါကျထဲမှ အများကိန်းကို ရှာပါ",
+          "questions": [
+            {
+              "q": "هُمُ الْعُلَمَاءُ",
+              "answer_en": "Al-Ulama (The Scholars)",
+              "answer_my": "ပညာရှင်များ",
+              "ref": "General"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "أَنبِيَاءُ اللَّهِ",
+              "answer_en": "Prophets of Allah",
+              "answer_my": "အလ္လာဟ်၏တမန်တော်များ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Convert to plural using Fu'ala' pattern",
+          "instruction_my": "Fu'ala' ပုံစံသုံး၍ အများကိန်းပြောင်းပါ",
+          "questions": [
+            {
+              "q": "وَلِيّ",
+              "answer_en": "Awliya",
+              "answer_my": "မိတ်ဆွေများ",
+              "ar": "أَوْلِيَاء"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The long, rising ending of this pattern reflects the high standing Allah gives to the prophets, witnesses, and scholars of this Ummah.",
+        "my": "ဤပုံစံ၏ မြင့်တက်သွားသော အဆုံးသတ်အသံသည် အလ္လာဟ်အရှင်မြတ်က တမန်တော်များ၊ သက်သေများနှင့် ပညာရှင်များကို ပေးသနားထားသော မြင့်မြတ်သည့် အဆင့်အတန်းကို ထင်ဟပ်စေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Nisa 4:69",
+        "study_number": 1,
+        "arabic_full": "وَمَن يُطِعِ اللَّهَ وَالرَّسُولَ فَأُولَٰئِكَ مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِم مِّنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ",
+        "en_sahih": "And whoever obeys Allah and the Messenger - those will be with the ones upon whom Allah has bestowed favor of the prophets, the steadfast affirmers of truth, the witnesses and the righteous.",
+        "my_mmsy": "ထို့ပြင် အကြင်သူသည် အလ္လာဟ်အရှင်မြတ်နှင့်ရစူလ်တမန်တော်၏ အမိန့်တော်များကို လိုက်နာလျှင် ထိုသူများသည် အလ္လာဟ်အရှင်မြတ်ကျေးဇူးပြုတော်မူထားသော နဗီတမန်တော်များ၊ အလွန်မှန်ကန်သူများ၊ အလ္လာဟ့်လမ်းတွင် အသက်စတေးသူများ၊ ကောင်းမြတ်သောသူများနှင့်အတူ ရှိကြလိမ့်မည်။ ၎င်းပြင် ထိုသူများသည် အဘယ်မျှကောင်းလိုက်သော အပေါင်းအဖော်များဖြစ်ကြသနည်း။",
+        "audio_ref": {
+          "surah": 4,
+          "ayah": 69,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/004069.mp3"
+        },
+        "qurancom_url": "https://quran.com/4/69",
+        "context": {
+          "en": "Allah promises the highest companionship in Paradise for those who obey Him.",
+          "my": "အလ္လာဟ်အရှင်မြတ်နှင့် တမန်တော်ကို နာခံသူများအတွက် ဂျန္နသ်တွင် ရရှိမည့် အပေါင်းအသင်းကောင်းများကို ကတိပေးထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الشُّهَدَاءِ",
+            "translit": "ash-shuhadā'i",
+            "en": "the witnesses",
+            "my": "သက်သေများ",
+            "role_en": "Noun (Genitive)",
+            "role_my": "နာမ်",
+            "root": "ش ه د",
+            "freq": 35
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Ash-Shuhada' uses the Fu'ala' pattern with the definite article Al-.",
+          "structure_my": "Ash-Shuhada' သည် Fu'ala' ပုံစံကို Al- နှင့် တွဲဖက်အသုံးပြုထားသည်။",
+          "insight_en": "It groups those who gave their lives or testimony for truth into a specific noble category.",
+          "insight_my": "အမှန်တရားအတွက် အသက်ပေးခဲ့သူများ သို့မဟုတ် သက်သေခံခဲ့သူများကို မြင့်မြတ်သောအုပ်စုအဖြစ် အမျိုးအစားခွဲခြားထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ش ه د",
+            "concept_en": "To be present, to see, and to testify.",
+            "concept_my": "ရောက်ရှိနေခြင်း၊ မြင်တွေ့ခြင်းနှင့် သက်သေခံခြင်း",
+            "members": [
+              {
+                "ar": "مَشْهَد",
+                "en": "scene",
+                "my": "မြင်ကွင်း",
+                "freq": 1
+              }
+            ],
+            "professors_note": "A martyr is called 'Shahid' because they witness the reward of Allah immediately or are witnesses for the truth of the faith."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် နဗီတမန်တော်များ၊ သစ္စာဝါဒီများနှင့် သက်သေခံသူများနှင့်အတူ ဂျန္နသ်တွင် ရှိနေခွင့်ရရန် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်များကို လိုက်နာကျင့်သုံးရမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Long vowels at the end: An-nabiyyin... ash-shuhada'.",
+          "meaning_anchor": "A great gathering of noble souls in light.",
+          "daily_connection": "Recited in prayers to ask for the path of the favored ones.",
+          "my": "အဆုံးသတ်ရှိ အသံရှည်များကို ဂရုပြု၍ ကျက်မှတ်ပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Yunus 10:62",
+        "study_number": 2,
+        "arabic_full": "أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+        "en_sahih": "Unquestionably, [for] the allies of Allah there will be no fear concerning them, nor will they grieve",
+        "my_mmsy": "သတိပြုကြပါ၊ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်၏အဆွေတော်များအပေါ်တွင် ကြောက်ရွံ့စိုးရိမ်စရာ လည်း ရှိမည်မဟုတ်ပေ၊ ၎င်းနောက် သူတို့သည် ဝမ်းနည်းပူဆွေးကြရမည်လည်းမဟုတ်ပေ။",
+        "audio_ref": {
+          "surah": 10,
+          "ayah": 62,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/010062.mp3"
+        },
+        "qurancom_url": "https://quran.com/10/62",
+        "context": {
+          "en": "Defining the state of those close to Allah (Awliya).",
+          "my": "အလ္လာဟ်အရှင်မြတ်နှင့် နီးစပ်သူများ၏ အေးချမ်းသာယာသော အခြေအနေကို ဖော်ပြထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أَوْلِيَاءَ",
+            "translit": "awliyā'a",
+            "en": "allies",
+            "my": "မိတ်ဆွေများ",
+            "role_en": "Noun (Accusative)",
+            "role_my": "နာမ်",
+            "root": "و ل ي",
+            "freq": 42
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Awliya' follows the Fu'ala' pattern plural of Wali.",
+          "structure_my": "Awliya' သည် Wali ၏ Fu'ala' ပုံစံ အများကိန်းဖြစ်သည်။",
+          "insight_en": "It shows that 'friendship' with Allah is an attained status for a whole group of believers.",
+          "insight_my": "အလ္လာဟ်အရှင်မြတ်နှင့် မိတ်ဆွေဖြစ်ခြင်းသည် ယုံကြည်သူအုပ်စုကြီးတစ်ခုလုံး ရရှိနိုင်သော အဆင့်အတန်းဖြစ်ကြောင်း ပြသသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "و ل ي",
+            "concept_en": "Proximity and support.",
+            "concept_my": "နီးကပ်မှုနှင့် ပံ့ပိုးကူညီမှု",
+            "members": [
+              {
+                "ar": "مَوْلَى",
+                "en": "master/protector",
+                "my": "အရှင်သခင်",
+                "freq": 18
+              }
+            ],
+            "professors_note": "A Wali is someone who is so close to you that there is no barrier between you and them."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ မိတ်ဆွေစစ်များ ဖြစ်လာပါက ဤလောကနှင့် နောင်တမလွန်တွင် ကြောက်ရွံ့စရာနှင့် ဝမ်းနည်းစရာများ မရှိတော့ကြောင်း စိတ်အေးချမ်းမှု ရစေသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "In-na Awliya-Allah... La khawfun 'alayhim.",
+          "meaning_anchor": "A protective shield surrounding a group of people.",
+          "daily_connection": "Encouragement during times of anxiety or loneliness.",
+          "my": "In-na Awliya-Allah ဟူသော စကားလုံးအတွဲကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We focused on the Fu'ala' pattern, which highlights titles and collective qualities of people. Understanding this pattern helps us identify key groups in the Quran like Prophets, Witnesses, and Scholars.",
+      "my": "ဤသင်ခန်းစာတွင် လူများ၏ ရာထူးနှင့် အရည်အချင်းများကို ဖော်ပြသော Fu'ala' ပုံစံကို လေ့လာခဲ့သည်။ ဤပုံစံကို သိခြင်းဖြင့် ကုရ်အာန်ရှိ အရေးကြီးသော လူအုပ်စုများကို ခွဲခြားသိမြင်နိုင်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-043",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 43,
+    "title": {
+      "ar": "جَمْعُ التَّكْسِيرِ (٣) — وَزْنُ أَفْعَال",
+      "en": "Broken Plurals III — Pattern Af'āl",
+      "my": "အနက်ဖျက်အများကိန်း (၃) — အဖ်အာလ် ပုံစံ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Af'āl pattern; extremely common in Quran",
+      "grammar_formula": "Noun (singular) -> أَفْعَال (plural)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "أَقْلَام",
+        "translit": "aqlām",
+        "en": "Pens",
+        "my": "ကလောင်တံများ",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "أَفْعَال",
+        "root": {
+          "letters": "ق ل م",
+          "concept_en": "cutting / writing tool",
+          "concept_my": "ဖြတ်တောက်ခြင်း / ရေးသားသည့်ကိရိယာ"
+        },
+        "memory_hook": {
+          "sound": "Aqlam - sounds like 'A-clam'",
+          "image": "A clam holding many pens in its shell.",
+          "cross_language": "Kalam (Malay/Urdu/Myanmar usage)"
+        },
+        "word_family": [
+          {
+            "ar": "قَلَم",
+            "translit": "qalam",
+            "en": "pen",
+            "my": "ကလောင်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "This is the 'standard' plural for many 3-letter nouns in daily use.",
+        "example": {
+          "ar": "وَلَوْ أَنَّمَا فِي الْأَرْضِ مِن شَجَرَةٍ أَقْلَامٌ",
+          "en": "And if whatever trees upon the earth were pens",
+          "my": "အကယ်၍ ကမ္ဘာမြေပေါ်ရှိ သစ်ပင်အားလုံးသည် ကလောင်တံများ ဖြစ်ခဲ့လျှင်ပင်",
+          "ref": "31:27"
+        }
+      },
+      {
+        "word": "أَعْمَال",
+        "translit": "a'māl",
+        "en": "Deeds / Actions",
+        "my": "လုပ်ရပ်များ / ကောင်းမှုကုသိုလ်များ",
+        "quran_freq": 41,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "أَفْعَال",
+        "root": {
+          "letters": "ع م ل",
+          "concept_en": "to work / do",
+          "concept_my": "အလုပ်လုပ်ခြင်း / ပြုလုပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Amal - sounds like 'Amal (name)'",
+          "image": "Amal is doing many good deeds.",
+          "cross_language": "Amal (Malay/Urdu/Myanmar usage)"
+        },
+        "word_family": [
+          {
+            "ar": "عَمَل",
+            "translit": "amal",
+            "en": "deed",
+            "my": "လုပ်ရပ်",
+            "freq": 31
+          }
+        ],
+        "pattern_unlock": "Abstract concepts often use Af'al to denote a variety of actions.",
+        "example": {
+          "ar": "لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا",
+          "en": "That He may test which of you is best in deed",
+          "my": "သင်တို့အနက် မည်သူသည် အကောင်းဆုံးလုပ်ရပ်ကို ပြုလုပ်သည်ကို စမ်းသပ်ရန်",
+          "ref": "67:2"
+        }
+      },
+      {
+        "word": "أَسْمَاء",
+        "translit": "asmā'",
+        "en": "Names",
+        "my": "အမည်များ",
+        "quran_freq": 19,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "أَفْعَال",
+        "root": {
+          "letters": "س م و",
+          "concept_en": "name / height",
+          "concept_my": "အမည် / အမြင့်"
+        },
+        "memory_hook": {
+          "sound": "Asma - sounds like 'Asthma'",
+          "image": "Saying many names while taking deep breaths.",
+          "cross_language": "Asma (Urdu/Farsi)"
+        },
+        "word_family": [
+          {
+            "ar": "اِسْم",
+            "translit": "ism",
+            "en": "name",
+            "my": "အမည်",
+            "freq": 39
+          }
+        ],
+        "pattern_unlock": "Short nouns like 'Ism' expand significantly in this plural pattern.",
+        "example": {
+          "ar": "وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ",
+          "en": "And to Allah belong the best names",
+          "my": "အလ္လာဟ်အရှင်မြတ်တွင် အကောင်းဆုံးအမည်နာမတော်များ ရှိတော်မူ၏",
+          "ref": "7:180"
+        }
+      },
+      {
+        "word": "أَوْقَات",
+        "translit": "awqāt",
+        "en": "Times",
+        "my": "အချိန်များ",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "أَفْعَال",
+        "root": {
+          "letters": "و ق ت",
+          "concept_en": "time / period",
+          "concept_my": "အချိန်ကာလ"
+        },
+        "memory_hook": {
+          "sound": "Awqat - sounds like 'Out-cat'",
+          "image": "A cat waiting for many different times to go out.",
+          "cross_language": "Waktu (Malay), Waqt (Urdu/Myanmar usage)"
+        },
+        "word_family": [
+          {
+            "ar": "وَقْت",
+            "translit": "waqt",
+            "en": "time",
+            "my": "အချိန်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "This pattern creates a sense of specific occurrences or periods.",
+        "example": {
+          "ar": "كِتَابًا مَّوْقُوتًا",
+          "en": "A decree of specified times",
+          "my": "သတ်မှတ်ထားသောအချိန်များ၌ ပြုလုပ်ရမည့် အမိန့်တော်",
+          "ref": "4:103"
+        }
+      },
+      {
+        "word": "أَحْوَال",
+        "translit": "ahwāl",
+        "en": "Conditions / States",
+        "my": "အခြေအနေများ",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "أَفْعَال",
+        "root": {
+          "letters": "ح و ل",
+          "concept_en": "change / state",
+          "concept_my": "ပြောင်းလဲခြင်း / အခြေအနေ"
+        },
+        "memory_hook": {
+          "sound": "Ahwal - sounds like 'A-hall'",
+          "image": "A hall where people's conditions are checked.",
+          "cross_language": "Hal (Malay/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "حَال",
+            "translit": "hāl",
+            "en": "condition",
+            "my": "အခြေအနေ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Nouns with a middle 'Alif' often follow this pattern in plural.",
+        "example": {
+          "ar": "لَا حَوْلَ وَلَا قُوَّةَ",
+          "en": "There is no power or strength",
+          "my": "အင်အားနှင့်စွမ်းအား တစ်စုံတစ်ရာမရှိပါ",
+          "ref": "Hadith"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "جَمْعُ التَّكْسِيرِ — أَفْعَال",
+        "en": "Broken Plural — Af'āl",
+        "my": "အနက်ဖျက်အများကိန်း - အဖ်အာလ်"
+      },
+      "formula": {
+        "display": "عَمَل (Singular) -> أَعْمَال (Plural)",
+        "example": "يَوْم (Day) -> أَيَّام (Days)",
+        "myanmar_read": "စကားလုံး၏အစတွင် အလစ်ဖ် (အသံ) ထည့်ပြီး ဒုတိယအက္ခရာနောက်တွင် အလစ်ဖ် (အသံရှည်) ထည့်ခြင်း",
+        "key_insight": "This is the most flexible plural pattern for objects and abstract ideas."
+      },
+      "explanation": {
+        "en": "The Af'āl pattern is one of the most common broken plural patterns in the Arabic language. It adds a Hamza with Fatha (أَ) to the beginning and an Alif (ا) before the last letter. It is used for a vast range of nouns, including objects, time periods, and concepts.",
+        "my": "Af'āl ပုံစံသည် အာရဗီဘာသာစကားတွင် အသုံးအများဆုံး အများကိန်းပုံစံများထဲမှ တစ်ခုဖြစ်သည်။ စကားလုံး၏အစတွင် (أَ) ထည့်ပြီး နောက်ဆုံးအက္ခရာမတိုင်မီ (အ) ထည့်၍ တည်ဆောက်သည်။ ၎င်းကို အရာဝတ္ထုများ၊ အချိန်ကာလများနှင့် စိတ်ကူးစိတ်သန်းများအတွက် အသုံးပြုသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Unlike the previous human-focused patterns, this is like a general 'catch-all' plural similar to adding '-s' in English for objects.",
+        "my": "ယခင်သင်ခန်းစာမှ လူပုဂ္ဂိုလ်များအတွက် ပုံစံများနှင့်မတူဘဲ ဤပုံစံသည် အရာဝတ္ထုများအတွက် အများအားဖြင့် အသုံးပြုသော ပုံစံဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Start with 'A' and put a long 'A' before the last letter.",
+          "rule_my": "'A' နှင့်စ၍ နောက်ဆုံးအက္ခရာရှေ့တွင် အသံရှည် 'A' ထည့်ပါ။",
+          "example": {
+            "ar": "قَلَم -> أَقْلَام",
+            "en": "Pen -> Pens",
+            "my": "ကလောင် -> ကလောင်များ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "لَهُمْ أَعْمَالٌ",
+          "en": "For them are deeds",
+          "my": "ထို့ပြင် ကာဖိရ်ငြင်းပယ်သူများကမူ သူတို့၏လုပ်ရပ်များသည် လွင်တီးခေါင်ပြင်တွင်ရှိနေသောတံလျှပ် (နေအပူရှိန်ကြောင့် မြေပေါ်တွင် ရေပြင်ကဲ့သို့ တလှုပ်လှုပ်ပေါ်နေသော အရိပ်အယောင်)ကဲ့သို့ဖြစ်သည့်အတွက် ရေဆာသည့်သူသည် ထိုတံလျှပ်ပေါ်တွင် ရေဟု ထင်မှတ်တော့သည်။ ထိုသူသည် နောက်ဆုံးတွင် ထိုတံလျှပ်အနီးသို့ရောက်သည့်အခါ ထိုအရာကို မည်သည့်အရာမျှ မဟုတ်သည့်အဖြစ်နှင့် တွေ့ခဲ့ရသည့်အပြင် ထိုအနီးတွင် အလ္လာဟ်အရှင်မြတ်ကိုသာ တွေ့လိုက်ရတော့သည်။ ထို့နောက် အရှင်မြတ်သည် သူ၏စာရင်းကို အပြည့်အဝရှင်းတော်မူခဲ့လိုက်သည်။ (သူ၏သက်တမ်းကို ကုန်ဆုံးစေတော်မူခဲ့သည်)။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် အလွန်လျင်မြန်စွာ စစ်ဆေးတော်မူသောအရှင်မြတ်ပင် ဖြစ်တော်မူသည်။",
+          "ref": "24:39",
+          "breakdown": {
+            "subject": {
+              "word": "أَعْمَالٌ",
+              "en": "deeds",
+              "note": "Af'al pattern plural"
+            },
+            "predicate": {
+              "word": "لَهُمْ",
+              "en": "for them",
+              "note": "Prepositional phrase"
+            }
+          },
+          "myanmar_insight": "Amal (လုပ်ရပ်) တစ်ခုတည်းမဟုတ်ဘဲ လုပ်ရပ်များစွာကို ဆိုလိုသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing up the Suhun placement",
+          "wrong": {
+            "ar": "أَعَمَال",
+            "note": "Missing the stop on the first root letter"
+          },
+          "correct": {
+            "ar": "أَعْمَال",
+            "en": "Deeds",
+            "my": "လုပ်ရပ်များ"
+          },
+          "myanmar_tip": "ဒုတိယအက္ခရာတွင် အသံရပ် (Sukun) ပါရမည်ကို သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Circle the Af'al pattern words",
+          "instruction_my": "Af'al ပုံစံ စကားလုံးများကို ဝိုင်းပါ",
+          "questions": [
+            {
+              "q": "أَسْمَاء - كُتُب - أَقْلَام",
+              "answer_en": "Asma and Aqlam",
+              "answer_my": "Asma နှင့် Aqlam",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "أَسْمَاءُ اللَّهِ",
+              "answer_en": "Names of Allah",
+              "answer_my": "အလ္လာဟ်၏အမည်နာမတော်များ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Convert to plural using Af'al pattern",
+          "instruction_my": "Af'al ပုံစံသုံး၍ အများကိန်းပြောင်းပါ",
+          "questions": [
+            {
+              "q": "يَوْم",
+              "answer_en": "Ayyam",
+              "answer_my": "ရက်များ",
+              "ar": "أَيَّام"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The abundance of Af'al in the Quran reminds us of the countless blessings (An'am) and names (Asma) of Allah that surround us.",
+        "my": "ကုရ်အာန်တွင် Af'al ပုံစံများစွာရှိနေခြင်းသည် ကျွန်ုပ်တို့ပတ်ဝန်းကျင်ရှိ အလ္လာဟ်အရှင်မြတ်၏ မရေတွက်နိုင်သော ကျေးဇူးတော်များနှင့် နာမတော်များကို သတိပေးနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-A'raf 7:180",
+        "study_number": 1,
+        "arabic_full": "وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا",
+        "en_sahih": "And to Allah belong the best names, so invoke Him by them.",
+        "my_mmsy": "ထို့ပြင် အလ္လာဟ်အရှင်မြတ်တွင် ကောင်းမြတ်သော (ဂုဏ်)နာမတော်များရှိသည်။ သို့ဖြစ်ရာ အသင်တို့သည် အရှင်မြတ်အား ထိုနာမတော်များဖြင့် (ခေါ်၍)တသကြပါ။  ထို့ပြင် အသင်တို့သည် အရှင်မြတ်၏နာမတော်များနှင့်ပတ်သက်၍ တိမ်းချော်စေသူများအား စွန့်ပယ်ထားကြပါ။ သူတို့သည် မကြာမီ သူတို့၏ အပြုအမူများနှင့်ပတ်သက်၍ အစားပေးခြင်းခံကြရမည်။",
+        "audio_ref": {
+          "surah": 7,
+          "ayah": 180,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/007180.mp3"
+        },
+        "qurancom_url": "https://quran.com/7/180",
+        "context": {
+          "en": "Encouraging the believers to call upon Allah using His beautiful attributes.",
+          "my": "ယုံကြည်သူများကို အလ္လာဟ်အရှင်မြတ်၏ လှပသော ဂုဏ်တော်နာမတော်များဖြင့် ခေါ်ယူဆုတောင်းရန် တိုက်တွန်းထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْأَسْمَاءُ",
+            "translit": "al-asmā'u",
+            "en": "the names",
+            "my": "အမည်နာမတော်များ",
+            "role_en": "Noun (Subject)",
+            "role_my": "နာမ်",
+            "root": "س م و",
+            "freq": 19
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Al-Asma' is the definite broken plural of Ism.",
+          "structure_my": "Al-Asma' သည် Ism ၏ အနက်ဖျက်အများကိန်းဖြစ်သည်။",
+          "insight_en": "The use of the plural pattern emphasizes the multifaceted perfection of Allah's identity.",
+          "insight_my": "အများကိန်းကို အသုံးပြုခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်၏ စုံလင်လှသော ဂုဏ်ရည်များစွာကို ဖော်ညွှန်းသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "س م و",
+            "concept_en": "To be high, lofty, or a sign.",
+            "concept_my": "မြင့်မြတ်ခြင်း သို့မဟုတ် လက္ခဏာ",
+            "members": [
+              {
+                "ar": "سَمَاء",
+                "en": "sky",
+                "my": "မိုးကောင်းကင်",
+                "freq": 310
+              }
+            ],
+            "professors_note": "A name (Ism) is like a sky for the object; it stays above it and defines it."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ အမည်နာမတော်များဖြင့် ဆုတောင်းခြင်းသည် ဒိုအာ (ဆုတောင်းချက်) များ ပြည့်ဝစေရန် အကောင်းဆုံးနည်းလမ်းဖြစ်သည်။ နာမတော်တစ်ခုချင်းစီ၏ အဓိပ္ပာယ်ကို ဆင်ခြင်ပါ။"
+        },
+        "memorization_helper": {
+          "rhythm": "Walillahil Asma-ul Husna.",
+          "meaning_anchor": "Many bright stars (names) in the high sky.",
+          "daily_connection": "Recited before making personal supplications.",
+          "my": "Walillahil Asma-ul Husna ဟူသော အပိုင်းကို အလွတ်မှတ်ထားပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Luqman 31:27",
+        "study_number": 2,
+        "arabic_full": "وَلَوْ أَنَّمَا فِي الْأَرْضِ مِن شَجَرَةٍ أَقْلَامٌ وَالْبَحْرُ يَمُدُّهُ مِن بَعْدِهِ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَاتُ اللَّهِ",
+        "en_sahih": "And if whatever trees upon the earth were pens and the sea [was ink], replenished thereafter by seven [more] seas, the words of Allah would not be exhausted.",
+        "my_mmsy": "ထို့ပြင် အကယ်၍ မြေပထဝီတွင် ရှိသမျှသစ်ပင်များသည် ကလောင်များဖြစ်၍ ပင်လယ်သည် (မင်ဖြစ်ကာ ထိုပင်လယ်ကုန်ခန်းသွားပြီးနောက်) ပင်လယ်ခုနစ်ခုသည် ထို(ခန်းခြောက်သွားသည့်)ပင်လယ်အား ထပ်ဖြည့်လျှင်လည်း အလ္လာဟ်အရှင်မြတ်၏စကားတော်များသည် ကုန်ဆုံးမည်မဟုတ်ပေ။  အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် တန်ခိုးတော်နှင့် အလွန်လွှမ်းမိုးတော်မူသောအရှင်၊ ပညာဉာဏ်အမြော်အမြင်နှင့် အလွန်ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 31,
+          "ayah": 27,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/031027.mp3"
+        },
+        "qurancom_url": "https://quran.com/31/27",
+        "context": {
+          "en": "Illustrating the infinite knowledge and words of Allah through a powerful metaphor.",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ အဆုံးမဲ့ဉာဏ်ပညာနှင့် အမိန့်တော်များကို ခိုင်းနှိုင်းချက်ဖြင့် ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أَقْلَامٌ",
+            "translit": "aqlāmun",
+            "en": "pens",
+            "my": "ကလောင်တံများ",
+            "role_en": "Noun (Predicate)",
+            "role_my": "နာမ်",
+            "root": "ق ل م",
+            "freq": 2
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Aqlam is the Af'al plural of Qalam.",
+          "structure_my": "Aqlam သည် Qalam ၏ Af'al အများကိန်းဖြစ်သည်။",
+          "insight_en": "By turning all trees into 'pens' (plural), the ayah emphasizes the vastness of recording tools that still wouldn't suffice.",
+          "insight_my": "သစ်ပင်အားလုံးကို ကလောင်တံများအဖြစ် အများကိန်းပြောင်းလဲလိုက်ခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်များ မည်မျှများပြားကြောင်း ပြသသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ق ل م",
+            "concept_en": "To clip, prune, or trim.",
+            "concept_my": "ညှပ်ခြင်း သို့မဟုတ် ပြုပြင်ခြင်း",
+            "members": [
+              {
+                "ar": "قَلَم",
+                "en": "pen",
+                "my": "ကလောင်",
+                "freq": 2
+              }
+            ],
+            "professors_note": "A pen was originally a reed that was 'clipped' or trimmed to be used for writing."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ဉာဏ်ပညာတော်သည် ကျွန်ုပ်တို့ စိတ်ကူးနိုင်သည်ထက် ပိုမိုကျယ်ဝန်းလှသည်။ ကျွန်ုပ်တို့၏ အသိဉာဏ်နည်းပါးမှုကို ဝန်ခံပြီး အရှင်မြတ်ကို အမြဲတမ်း အားကိုးသင့်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Shajaratun Aqlamun... Sab'atu Abhurin.",
+          "meaning_anchor": "Forests of pens and oceans of ink.",
+          "daily_connection": "Reflecting on the vastness of Quranic knowledge.",
+          "my": "Aqlamun နှင့် Abhurin (ပင်လယ်များ) ၏ အများကိန်းပုံစံကို တွဲမှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We learned the Af'al pattern, which is used for objects and general nouns. It is characterized by an initial 'A' and a long 'A' middle vowel, helping us recognize words like Aqlam (pens) and Asma (names) in the Quran.",
+      "my": "အရာဝတ္ထုများနှင့် အထွေထွေနာမ်များအတွက် အသုံးပြုသော Af'al ပုံစံကို လေ့လာခဲ့သည်။ အစတွင် 'A' နှင့် အလယ်တွင် အသံရှည်ပါရှိသော ဤပုံစံသည် Aqlam နှင့် Asma ကဲ့သို့သော စကားလုံးများကို ကုရ်အာန်တွင် ခွဲခြားသိမြင်စေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-044",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 44,
+    "title": {
+      "ar": "جَمْعُ التَّكْسِيرِ (٤) — وَزْنُ فِعَال",
+      "en": "Broken Plurals IV — Pattern Fi'āl",
+      "my": "အနက်ဖျက်အများကိန်း (၄) — ဖိအာလ် ပုံစံ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Fi'āl pattern; used for natural phenomena",
+      "grammar_formula": "Noun (singular) -> فِعَال (plural)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "جِبَال",
+        "translit": "jibāl",
+        "en": "Mountains",
+        "my": "တောင်များ",
+        "quran_freq": 39,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ج ب ل",
+          "concept_en": "firmness / mountain",
+          "concept_my": "ခိုင်မာခြင်း / တောင်"
+        },
+        "memory_hook": {
+          "sound": "Jibal - sounds like 'Gee-ball'",
+          "image": "Giant balls rolling down many mountains.",
+          "cross_language": "Jabal (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "جَبَل",
+            "translit": "jabal",
+            "en": "mountain",
+            "my": "တောင်",
+            "freq": 7
+          }
+        ],
+        "pattern_unlock": "Large, majestic natural objects often use this long 'A' plural.",
+        "example": {
+          "ar": "وَالْجِبَالَ أَوْتَادًا",
+          "en": "And the mountains as stakes",
+          "my": "တောင်များကို တိုင်များအဖြစ် ပြုလုပ်ထားသည်",
+          "ref": "78:7"
+        }
+      },
+      {
+        "word": "بِحَار",
+        "translit": "bihār",
+        "en": "Rivers / Seas",
+        "my": "ပင်လယ်များ",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ب ح ر",
+          "concept_en": "sea / vastness",
+          "concept_my": "ပင်လယ် / ကျယ်ပြောခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Bihar - sounds like 'Be-hard'",
+          "image": "It is hard to swim across many seas.",
+          "cross_language": "Bahar (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "بَحْر",
+            "translit": "bahr",
+            "en": "sea",
+            "my": "ပင်လယ်",
+            "freq": 38
+          }
+        ],
+        "pattern_unlock": "Plurals of vast landscape features often take the Fi'al form.",
+        "example": {
+          "ar": "وَإِذَا الْبِحَارُ فُجِّرَتْ",
+          "en": "And when the seas are erupted",
+          "my": "ပင်လယ်များကို ပေါက်ကွဲစေသောအခါ",
+          "ref": "82:3"
+        }
+      },
+      {
+        "word": "رِيَاح",
+        "translit": "riyāh",
+        "en": "Winds",
+        "my": "လေများ",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ر و ح",
+          "concept_en": "spirit / movement",
+          "concept_my": "ဝိညာဉ် / လှုပ်ရှားမှု"
+        },
+        "memory_hook": {
+          "sound": "Riyah - sounds like 'Reach'",
+          "image": "The winds reach every corner of the earth.",
+          "cross_language": "Roh (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "رِيح",
+            "translit": "rīh",
+            "en": "wind",
+            "my": "လေ",
+            "freq": 18
+          }
+        ],
+        "pattern_unlock": "The word for 'spirit' (Ruh) and 'wind' share the same root and often pluralize this way.",
+        "example": {
+          "ar": "وَأَرْسَلْنَا الرِّيَاحَ",
+          "en": "And We have sent the winds",
+          "my": "ငါအရှင်သည် လေများကို စေလွှတ်တော်မူခဲ့သည်",
+          "ref": "15:22"
+        }
+      },
+      {
+        "word": "ثِيَاب",
+        "translit": "thiyāb",
+        "en": "Garments / Clothes",
+        "my": "အဝတ်အစားများ",
+        "quran_freq": 8,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ث و ب",
+          "concept_en": "to return / reward",
+          "concept_my": "ပြန်လည်ရောက်ရှိခြင်း / ဆုလာဘ်"
+        },
+        "memory_hook": {
+          "sound": "Thiyab - sounds like 'The-abbey'",
+          "image": "People in the abbey wearing many white garments.",
+          "cross_language": "Thawab (Urdu/Malay usage for reward)"
+        },
+        "word_family": [
+          {
+            "ar": "ثَوْب",
+            "translit": "thawb",
+            "en": "garment",
+            "my": "အဝတ်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "This plural is common for things that cover or surround.",
+        "example": {
+          "ar": "وَثِيَابَكَ فَطَهِّرْ",
+          "en": "And your clothing purify",
+          "my": "သင်၏အဝတ်အစားများကို သန့်ရှင်းအောင်ထားပါ",
+          "ref": "74:4"
+        }
+      },
+      {
+        "word": "نِسَاء",
+        "translit": "nisā'",
+        "en": "Women",
+        "my": "အမျိုးသမီးများ",
+        "quran_freq": 57,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ن س و",
+          "concept_en": "women / human",
+          "concept_my": "အမျိုးသမီး / လူသား"
+        },
+        "memory_hook": {
+          "sound": "Nisa - sounds like 'Niece'",
+          "image": "All the nieces are growing up to be women.",
+          "cross_language": "Nisa (Malay/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "اِمْرَأَة",
+            "translit": "imra'ah",
+            "en": "woman",
+            "my": "အမျိုးသမီး",
+            "freq": 26
+          }
+        ],
+        "pattern_unlock": "Nisa' is a unique plural that doesn't share the same singular root letters (Imra'ah).",
+        "example": {
+          "ar": "يَا أَيُّهَا النَّاسُ... وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً",
+          "en": "O mankind... and dispersed from both of them many men and women",
+          "my": "အို... လူသားတို့... ထိုသူနှစ်ဦးမှ အမျိုးသား၊ အမျိုးသမီးအမြောက်အမြားကို ပြန့်ပွားစေခဲ့သည်",
+          "ref": "4:1"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "جَمْعُ التَّكْسِيرِ — فِعَال",
+        "en": "Broken Plural — Fi'āl",
+        "my": "အနက်ဖျက်အများကိန်း - ဖိအာလ်"
+      },
+      "formula": {
+        "display": "جَبَل (Singular) -> جِبَال (Plural)",
+        "example": "كَبِير (Big) -> كِبَار (Great ones)",
+        "myanmar_read": "ပထမအက္ခရာအောက်တွင် ကေဆရာ (အိ သရ) ထည့်ပြီး ဒုတိယအက္ခရာနောက်တွင် အလစ်ဖ် (အသံရှည်) ထည့်ခြင်း",
+        "key_insight": "This pattern conveys weight, magnitude, or large quantities."
+      },
+      "explanation": {
+        "en": "The Fi'āl pattern is frequently used for plurals of nouns and adjectives that describe grand things or natural features. It changes the vowels of the root to 'i' followed by a long 'a'. It is rhythmic and often appears in descriptions of the Day of Judgment or nature.",
+        "my": "Fi'āl ပုံစံကို ကြီးကျယ်သောအရာများ သို့မဟုတ် သဘာဝအလှတရားများကို ဖော်ပြသော နာမ်များနှင့် နာမဝိသေသနများအတွက် အသုံးများသည်။ ၎င်းသည် ပထမသရကို 'အိ' ပြောင်းပြီး နောက်တွင် အသံရှည် 'အာ' ထည့်၍ တည်ဆောက်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use words like 'gyi' (ကြီး) for grandeur. In Arabic, the plural pattern itself (Fi'al) can suggest importance or size.",
+        "my": "မြန်မာစာတွင် 'ကြီးမားသော' ဟု သုံးသကဲ့သို့ အာရဗီတွင် ဤအများကိန်းပုံစံသည်ပင် ကြီးကျယ်မှုကို ဖော်ဆောင်နိုင်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Vowels shift to Kasra on first letter and Alif after the second.",
+          "rule_my": "ပထမအက္ခရာတွင် 'အိ' သရနှင့် ဒုတိယအက္ခရာနောက်တွင် 'အာ' သံ ထည့်ပါ။",
+          "example": {
+            "ar": "بَحْر -> بِحَار",
+            "en": "Sea -> Seas",
+            "my": "ပင်လယ် -> ပင်လယ်များ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ",
+          "en": "And the mountains will be like wool",
+          "my": "(၉) ထို့ပြင် တောင်များသည် အရောင်ဆိုးထားသော သိုးမွေးများကဲ့သိ့ု ဖြစ်သွားမည်။",
+          "ref": "70:9",
+          "breakdown": {
+            "subject": {
+              "word": "الْجِبَالُ",
+              "en": "the mountains",
+              "note": "Fi'al pattern plural"
+            },
+            "predicate": {
+              "word": "كَالْعِهْنِ",
+              "en": "like wool",
+              "note": "Comparison"
+            }
+          },
+          "myanmar_insight": "Jabal (တောင်) တစ်လုံးတည်းမဟုတ်ဘဲ တောင်အားလုံးကို ဆိုလိုခြင်းဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing Fi'al with Fa'aal",
+          "wrong": {
+            "ar": "جَبَال",
+            "note": "Using Fatha instead of Kasra on the first letter"
+          },
+          "correct": {
+            "ar": "جِبَال",
+            "en": "Mountains",
+            "my": "တောင်များ"
+          },
+          "myanmar_tip": "အစတွင် 'အိ' သံ (Kasra) ပါရမည်ကို သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the plural noun in the phrase",
+          "instruction_my": "စကားစုထဲမှ အများကိန်းနာမ်ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "رِيَاحٌ لَّوَاقِحَ",
+              "answer_en": "Riyah (Winds)",
+              "answer_my": "Riyah (လေများ)",
+              "ref": "15:22"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "ثِيَابٌ سُنْدُسٍ",
+              "answer_en": "Garments of silk",
+              "answer_my": "ပိုးထည်အဝတ်အစားများ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change the noun to Fi'al plural",
+          "instruction_my": "Fi'al အများကိန်းသို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "بَحْر",
+              "answer_en": "Bihar",
+              "answer_my": "ပင်လယ်များ",
+              "ar": "بِحَار"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Nature points to the Creator. The mountains (Jibal) and seas (Bihar) are plural to show the variety and scale of Allah's power in the universe.",
+        "my": "သဘာဝတရားသည် ဖန်ဆင်းရှင်ကို ညွှန်ပြနေသည်။ တောင်များနှင့် ပင်လယ်များကို အများကိန်းဖြင့် သုံးခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ တန်ခိုးတော် မည်မျှ ကြီးကျယ်ကြောင်း ပြသနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Naba 78:7",
+        "study_number": 1,
+        "arabic_full": "وَالْجِبَالَ أَوْتَادًا",
+        "en_sahih": "And the mountains as stakes?",
+        "my_mmsy": "(၇) ထို့ပြင် (ငါအရှင်မြတ်ပင် ထိုမြေပထဝီကို တည်ငြိမ်နေရန်) တောင်များကို သပ်များငုတ်များအဖြစ်(စိုက်ထူခဲ့သည်မဟုတ်လော)။",
+        "audio_ref": {
+          "surah": 78,
+          "ayah": 7,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/078007.mp3"
+        },
+        "qurancom_url": "https://quran.com/78/7",
+        "context": {
+          "en": "Allah lists His favors and the architecture of the earth as evidence for the Day of Resurrection.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ရှင်ပြန်ထမြောက်မည့်နေ့အတွက် သက်သေအဖြစ် ကမ္ဘာမြေ၏ တည်ဆောက်ပုံများကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْجِبَالَ",
+            "translit": "al-jibāla",
+            "en": "the mountains",
+            "my": "တောင်များ",
+            "role_en": "Noun (Object)",
+            "role_my": "နာမ်",
+            "root": "ج ب ل",
+            "freq": 39
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Jibal is the broken plural of Jabal using the Fi'al pattern.",
+          "structure_my": "Jibal သည် Jabal ၏ Fi'al ပုံစံ အနက်ဖျက်အများကိန်းဖြစ်သည်။",
+          "insight_en": "The plural suggests a worldwide stabilization of the earth's crust by many mountains.",
+          "insight_my": "အများကိန်းကို သုံးခြင်းဖြင့် ကမ္ဘာမြေတစ်ခုလုံးတွင် တောင်များစွာဖြင့် တည်ငြိမ်အောင် ပြုလုပ်ထားပုံကို ပြဆိုသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ج ب ل",
+            "concept_en": "To be firmly rooted or fixed.",
+            "concept_my": "မြဲမြံစွာ အမြစ်တွယ်နေခြင်း",
+            "members": [
+              {
+                "ar": "جِبِلَّة",
+                "en": "nature/disposition",
+                "my": "ပင်ကိုယ်သဘာဝ",
+                "freq": 1
+              }
+            ],
+            "professors_note": "A mountain is Jibal because it is fixed into the earth like a nail."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ မြင်တွေ့နေရသော တောင်ကြီးများသည် ကမ္ဘာမြေကို တုန်ခါမှုမရှိအောင် ထိန်းထားပေးသည့် တိုင်များကဲ့သို့ ဖြစ်သည်။ ဤသည်မှာ အလ္လာဟ်အရှင်မြတ်၏ အံ့မခန်းသော စီမံမှုပင်ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Wal jibala awtada.",
+          "meaning_anchor": "Huge tent pegs pinning down the earth.",
+          "daily_connection": "Recited when seeing mountains or high hills.",
+          "my": "Wal jibala awtada ဟူသော တိုတောင်းသော အပိုင်းကို မှတ်သားပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Infitar 82:3",
+        "study_number": 2,
+        "arabic_full": "وَإِذَا الْبِحَارُ فُجِّرَتْ",
+        "en_sahih": "And when the seas are erupted",
+        "my_mmsy": "(၃) ထို့ပြင် ပင်လယ်များသည် ဆူပွက်စီးထွက်စေခြင်းကိုခံကြရသည့်အခါ၊",
+        "audio_ref": {
+          "surah": 82,
+          "ayah": 3,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/082003.mp3"
+        },
+        "qurancom_url": "https://quran.com/82/3",
+        "context": {
+          "en": "Describing the cataclysmic events at the beginning of the Day of Judgment.",
+          "my": "ရှင်ပြန်ထမြောက်မည့်နေ့ အစပြုချိန်တွင် ဖြစ်ပျက်မည့် ကြောက်မက်ဖွယ်ရာ ဖြစ်ရပ်များကို ဖော်ပြခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْبِحَارُ",
+            "translit": "al-bihāru",
+            "en": "the seas",
+            "my": "ပင်လယ်များ",
+            "role_en": "Noun (Subject)",
+            "role_my": "နာမ်",
+            "root": "ب ح ر",
+            "freq": 2
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Al-Bihar is the plural of Bahr following the Fi'al pattern.",
+          "structure_my": "Al-Bihar သည် Bahr ၏ Fi'al ပုံစံ အများကိန်းဖြစ်သည်။",
+          "insight_en": "The plural 'Bihar' covers all water bodies on earth, signifying total chaos.",
+          "insight_my": "အများကိန်း 'Bihar' သည် ကမ္ဘာပေါ်ရှိ ရေပြင်အားလုံးကို ဆိုလိုပြီး အရာအားလုံး ပျက်စီးသွားမည့် အခြေအနေကို ပြသသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ب ح ر",
+            "concept_en": "Expansiveness and flow.",
+            "concept_my": "ကျယ်ပြောမှုနှင့် စီးဆင်းမှု",
+            "members": [
+              {
+                "ar": "بَحَّار",
+                "en": "sailor",
+                "my": "သင်္ဘောသား",
+                "freq": 0
+              }
+            ],
+            "professors_note": "A sea is called Bahr because it 'slits' or carves a wide path into the land."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ပင်လယ်များ ပေါက်ကွဲလျှံထွက်လာမည့်နေ့ကို ကြိုတင်ပြင်ဆင်ရန် ဤအာယသ်တော်က သတိပေးနေသည်။ အရာရာသည် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်အောက်တွင်သာ ရှိသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Wa idhal biharu fujjirat.",
+          "meaning_anchor": "Exploding water rising to the sky.",
+          "daily_connection": "Reflection on the power of water and natural disasters.",
+          "my": "Fujjirat (ပေါက်ကွဲခြင်း) နှင့် Bihar ကို တွဲမှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored the Fi'al pattern, which is used for grand natural features like mountains and seas. It uses a Kasra and Alif vowel shift to indicate plurality for words that represent scale and weight.",
+      "my": "တောင်များနှင့် ပင်လယ်များကဲ့သို့သော ကြီးကျယ်သော သဘာဝအရာများအတွက် အသုံးပြုသည့် Fi'al ပုံစံကို လေ့လာခဲ့သည်။ ဤပုံစံသည် အတိုင်းအတာနှင့် အလေးချိန်ကို ဖော်ပြသော အများကိန်းစကားလုံးများအတွက် Kasra နှင့် Alif သရကို အသုံးပြုသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-045",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 45,
+    "title": {
+      "ar": "جَمْعُ غَيْرِ الْعَاقِلِ — الْمُعَامَلَةُ كَمُفْرَدٍ مُؤَنَّثٍ",
+      "en": "Non-Human Plurals as Feminine Singular",
+      "my": "သက်မဲ့အများကိန်းများကို ဣတ္ထိလိင် (မ) အနည်းကိန်းအဖြစ် သတ်မှတ်ခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Non-human broken plurals take feminine singular verb/adjective",
+      "grammar_formula": "Non-Human Plural + Feminine Singular Adjective/Verb"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مَفَاتِيح",
+        "translit": "mafātīh",
+        "en": "Keys",
+        "my": "သော့များ",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine (treated as Fem. Sing.)",
+        "wazn": "مَفَاعِيل",
+        "root": {
+          "letters": "ف ت ح",
+          "concept_en": "to open / victory",
+          "concept_my": "ဖွင့်ခြင်း / အောင်နိုင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Mafatih - sounds like 'My-fat-tea'",
+          "image": "Opening a fat tea jar with many keys.",
+          "cross_language": "Miftah (Urdu/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "مِفْتَاح",
+            "translit": "miftāh",
+            "en": "key",
+            "my": "သော့",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "This complex pattern is used for tools and instruments.",
+        "example": {
+          "ar": "وَعِندَهُ مَفَاتِحُ الْغَيْبِ",
+          "en": "And with Him are the keys of the unseen",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ထံတော်၌ မမြင်နိုင်သော အရာများ၏ သော့များ ရှိတော်မူ၏",
+          "ref": "6:59"
+        }
+      },
+      {
+        "word": "جَنَّات",
+        "translit": "jannāt",
+        "en": "Gardens",
+        "my": "ဥယျာဉ်များ / ဂျန္နသ်များ",
+        "quran_freq": 69,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعَّال",
+        "root": {
+          "letters": "ج ن ن",
+          "concept_en": "to hide / cover",
+          "concept_my": "ဖုံးကွယ်ခြင်း / ဖုံးအုပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Jannat - sounds like 'Jan-at'",
+          "image": "Jan is at many beautiful gardens.",
+          "cross_language": "Jannah (Malay/Urdu/Myanmar usage)"
+        },
+        "word_family": [
+          {
+            "ar": "جَنَّة",
+            "translit": "jannah",
+            "en": "garden",
+            "my": "ဥယျာဉ်",
+            "freq": 66
+          }
+        ],
+        "pattern_unlock": "Feminine sound plurals also follow the 'feminine singular' grammar rule for non-humans.",
+        "example": {
+          "ar": "جَنَّاتٌ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ",
+          "en": "Gardens under which rivers flow",
+          "my": "ဥယျာဉ်များ (၎င်းတို့၏) အောက်မှ စမ်းရေတွင်းများ စီးဆင်းနေကြသည်",
+          "ref": "2:25"
+        }
+      },
+      {
+        "word": "أَشْجَار",
+        "translit": "ashjār",
+        "en": "Trees",
+        "my": "သစ်ပင်များ",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine (treated as Fem. Sing.)",
+        "wazn": "أَفْعَال",
+        "root": {
+          "letters": "ش ج ر",
+          "concept_en": "tree / dispute",
+          "concept_my": "သစ်ပင် / အငြင်းပွားမှု"
+        },
+        "memory_hook": {
+          "sound": "Ashjar - sounds like 'Ash-jar'",
+          "image": "An ash jar buried under many trees.",
+          "cross_language": "Shajar (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "شَجَرَة",
+            "translit": "shajarah",
+            "en": "tree",
+            "my": "သစ်ပင်",
+            "freq": 26
+          }
+        ],
+        "pattern_unlock": "Even though it looks masculine (Af'al), grammar treats it as feminine in sentences.",
+        "example": {
+          "ar": "وَالشَّجَرُ يَسْجُدَانِ",
+          "en": "And the trees prostrate",
+          "my": "သစ်ပင်များသည် စဂျ်ဒါပြုကြသည်",
+          "ref": "55:6"
+        }
+      },
+      {
+        "word": "أَنْهَار",
+        "translit": "anhār",
+        "en": "Rivers",
+        "my": "မြစ်များ / စမ်းရေတွင်းများ",
+        "quran_freq": 52,
+        "word_type": "Noun",
+        "gender": "Masculine (treated as Fem. Sing.)",
+        "wazn": "أَفْعَال",
+        "root": {
+          "letters": "ن ه ر",
+          "concept_en": "river / day / flowing",
+          "concept_my": "မြစ် / နေ့ / စီးဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Anhar - sounds like 'An-hour'",
+          "image": "Walking for an hour by many rivers.",
+          "cross_language": "Nahar (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "نَهَر",
+            "translit": "nahar",
+            "en": "river",
+            "my": "မြစ်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Rivers in the Quran are almost always plural when describing Paradise.",
+        "example": {
+          "ar": "أَنْهَارٌ مِّن مَّاءٍ",
+          "en": "Rivers of water",
+          "my": "ရေမြစ်များ",
+          "ref": "47:15"
+        }
+      },
+      {
+        "word": "سُحُب",
+        "translit": "suhub",
+        "en": "Clouds",
+        "my": "တိမ်များ",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine (treated as Fem. Sing.)",
+        "wazn": "فُعُل",
+        "root": {
+          "letters": "س ح ب",
+          "concept_en": "to drag / pull",
+          "concept_my": "ဆွဲခြင်း / တိုက်ခတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Suhub - sounds like 'Soup'",
+          "image": "Eating soup while looking at many clouds.",
+          "cross_language": "Sahab (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "سَحَاب",
+            "translit": "sahāb",
+            "en": "cloud",
+            "my": "တိမ်",
+            "freq": 9
+          }
+        ],
+        "pattern_unlock": "Natural elements like clouds follow the non-human plural rule.",
+        "example": {
+          "ar": "يُنْشِئُ السَّحَابَ الثِّقَالَ",
+          "en": "He produces the heavy clouds",
+          "my": "အရှင်သည် လေးလံသောတိမ်တိုက်များကို ဖြစ်ပေါ်စေတော်မူ၏",
+          "ref": "13:12"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "جَمْعُ غَيْرِ الْعَاقِلِ",
+        "en": "Non-Human Plural Rule",
+        "my": "သက်မဲ့အများကိန်း နည်းဥပဒေ"
+      },
+      "formula": {
+        "display": "الْأَنْهَار (Plural) + تَجْرِي (Feminine Singular Verb)",
+        "example": "الْكُتُبُ جَمِيلَةٌ (The books are beautiful)",
+        "myanmar_read": "သက်မဲ့အများကိန်းများကို ဝါကျအတွင်း အသုံးပြုသောအခါ ၎င်းတို့ကို (မ) အနည်းကိန်းကဲ့သို့ သဘောထား၍ ကြိယာနှင့် နာမဝိသေသနများကို သုံးရသည်။",
+        "key_insight": "In Arabic, 'all things' are one feminine lady!"
+      },
+      "explanation": {
+        "en": "In Arabic, there is a special rule for non-human plurals (objects, animals, places). Even if the word is masculine in plural form, we treat it as a 'Feminine Singular' (She) when connecting it to adjectives or verbs. This is why we say 'the rivers, she flows' instead of 'they flow'.",
+        "my": "အာရဗီဘာသာစကားတွင် လူမဟုတ်သော အရာများ (သက်မဲ့များ၊ တိရစ္ဆာန်များ) ၏ အများကိန်းများအတွက် ထူးခြားသော စည်းမျဉ်းတစ်ခုရှိသည်။ ၎င်းတို့ကို ဝါကျတွင် အသုံးပြုသည့်အခါ 'ဣတ္ထိလိင် (မ) အနည်းကိန်း' အဖြစ် သတ်မှတ်ရသည်။ သစ်ပင်များ၊ စာအုပ်များ၊ မြစ်များ စသည်တို့သည် အများကိန်းဖြစ်သော်လည်း ၎င်းတို့နှင့်တွဲသုံးသော စကားလုံးများသည် (မ) အနည်းကိန်းပုံစံ ဖြစ်ရမည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we don't change verb forms based on gender or plurals. In Arabic, this is a critical rule for agreement.",
+        "my": "မြန်မာစာတွင် ကျား၊ မ ခွဲခြားမှုကြောင့် ကြိယာပြောင်းလဲခြင်းမရှိသော်လည်း အာရဗီတွင် ဤသည်မှာ အလွန်အရေးကြီးသော စည်းမျဉ်းဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "If a plural is not human, its adjective must be feminine singular.",
+          "rule_my": "အကယ်၍ အများကိန်းသည် လူမဟုတ်ပါက ၎င်း၏ နာမဝိသေသနသည် (မ) အနည်းကိန်းဖြစ်ရမည်။",
+          "example": {
+            "ar": "أَيَّامًا مَّعْدُودَاتٍ",
+            "en": "Numbered days",
+            "my": "ရေတွက်ထားသောရက်များ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "الْأَنْهَارُ تَجْرِي",
+          "en": "The rivers flow",
+          "my": "၎င်းနောက် အသင်(တမန်တော်)သည် အီမာန်ယုံကြည်ကြပြီး ကောင်းမြတ်သောလုပ်ရပ်များပြုလုပ်သည့်သူများကို သတင်းကောင်းပေးလိုက်ပါ။ အမှန်စင်စစ် ၎င်းတို့အတွက် ဂျန္နသ်သုခဘုံများရှိသည်။ ထိုသုခဘုံများ၏အောက်တွင် စမ်းရေချောင်းများစီးဆင်းနေသည်။  သုခဘုံသားများသည် ထိုသုခဘုံထဲမှ သစ်သီးဝလံ ကျွေးမွေးခြင်းခံရသည့်အခါတိုင်းတွင် ”ဤသစ်သီးဝလံသည် ယခင်(လောကမှာရှိစဉ်)က ကျွန်ုပ်တို့ကို ကျွေးမွေးခြင်းခံခဲ့ရပြီးဖြစ်သည်”ဟု ပြောဆိုကြလိမ့်မည်။ ၎င်းနောက် သူတို့သည် (အရသာကွဲပြီး) ပုံသဏ္ဍာန်တူသော သစ်သီးဝလံကိုလည်း ကျွေးမွေးခြင်းခံကြရပေဦးမည်။ ထို့ပြင် သူတို့အတွက် သုခဘုံထဲတွင် စင်ကြယ်သန့်ပြန့်သည့် ဇနီးကြင်ရာများလည်း ရှိကြပေဦးမည်။  ထို့ပြင် သူတို့သည် သုခဘုံထဲတွင် အမြဲထာဝရ စံမြန်းနေထိုင်လျက်ရှိကြမည်။",
+          "ref": "2:25",
+          "breakdown": {
+            "subject": {
+              "word": "الْأَنْهَارُ",
+              "en": "the rivers",
+              "note": "Masculine Broken Plural"
+            },
+            "predicate": {
+              "word": "تَجْرِي",
+              "en": "she flows",
+              "note": "Feminine Singular Verb"
+            }
+          },
+          "myanmar_insight": "Anhar (မြစ်များ) သည် အများကိန်းဖြစ်သော်လည်း Tajri (စီးဆင်းသည်) မှာ (မ) အနည်းကိန်း ကြိယာဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using a masculine plural adjective for objects",
+          "wrong": {
+            "ar": "كُتُبٌ جَمِيلُونَ",
+            "note": "Using 'una' plural for books"
+          },
+          "correct": {
+            "ar": "كُتُبٌ جَمِيلَةٌ",
+            "en": "Beautiful books",
+            "my": "လှပသောစာအုပ်များ"
+          },
+          "myanmar_tip": "သက်မဲ့အများကိန်းများအတွက် အမြဲတမ်း 'သီး' (Ta-marbuta) ပါသော စကားလုံးများကို သုံးပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Which adjective matches 'Kutub' (Books)?",
+          "instruction_my": "'Kutub' နှင့် မည်သည့်နာမဝိသေသန ကိုက်ညီသနည်း။",
+          "questions": [
+            {
+              "q": "كُتُبٌ (كَبِيرَة / كَبِيرُونَ)",
+              "answer_en": "Kabirah (Feminine Singular)",
+              "answer_my": "Kabirah",
+              "ref": "Grammar"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "الْأَسْمَاءُ الْحُسْنَى",
+              "answer_en": "The beautiful names",
+              "answer_my": "လှပသောနာမတော်များ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Add a feminine adjective to 'Jibal' (Mountains)",
+          "instruction_my": "'Jibal' တွင် (မ) နာမဝိသေသန တစ်ခုထည့်ပါ",
+          "questions": [
+            {
+              "q": "الْجِبَالُ .... (high)",
+              "answer_en": "Al-Jibalu al-aliyah",
+              "answer_my": "မြင့်မားသောတောင်များ",
+              "ar": "الْجِبَالُ الْعَالِيَةُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The grouping of creation under a single feminine singular form reflects the unity of all created things in their submission to Allah.",
+        "my": "ဖန်ဆင်းခံအရာအားလုံးကို အနည်းကိန်း (မ) ပုံစံတစ်ခုအောက်တွင် စုစည်းထားခြင်းသည် အရာခပ်သိမ်းတို့၏ အလ္လာဟ်အရှင်မြတ်အပေါ် တစ်ပြေးညီ နာခံမှုကို ထင်ဟပ်စေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:25",
+        "study_number": 1,
+        "arabic_full": "وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ",
+        "en_sahih": "And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow.",
+        "my_mmsy": "၎င်းနောက် အသင်(တမန်တော်)သည် အီမာန်ယုံကြည်ကြပြီး ကောင်းမြတ်သောလုပ်ရပ်များပြုလုပ်သည့်သူများကို သတင်းကောင်းပေးလိုက်ပါ။ အမှန်စင်စစ် ၎င်းတို့အတွက် ဂျန္နသ်သုခဘုံများရှိသည်။ ထိုသုခဘုံများ၏အောက်တွင် စမ်းရေချောင်းများစီးဆင်းနေသည်။  သုခဘုံသားများသည် ထိုသုခဘုံထဲမှ သစ်သီးဝလံ ကျွေးမွေးခြင်းခံရသည့်အခါတိုင်းတွင် ”ဤသစ်သီးဝလံသည် ယခင်(လောကမှာရှိစဉ်)က ကျွန်ုပ်တို့ကို ကျွေးမွေးခြင်းခံခဲ့ရပြီးဖြစ်သည်”ဟု ပြောဆိုကြလိမ့်မည်။ ၎င်းနောက် သူတို့သည် (အရသာကွဲပြီး) ပုံသဏ္ဍာန်တူသော သစ်သီးဝလံကိုလည်း ကျွေးမွေးခြင်းခံကြရပေဦးမည်။ ထို့ပြင် သူတို့အတွက် သုခဘုံထဲတွင် စင်ကြယ်သန့်ပြန့်သည့် ဇနီးကြင်ရာများလည်း ရှိကြပေဦးမည်။  ထို့ပြင် သူတို့သည် သုခဘုံထဲတွင် အမြဲထာဝရ စံမြန်းနေထိုင်လျက်ရှိကြမည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 25,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002025.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/25",
+        "context": {
+          "en": "Allah gives glad tidings to the believers describing the eternal reward of Jannah.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ယုံကြည်သူများအတွက် ဂျန္နသ်တွင် ရရှိမည့် ထာဝရဆုလာဘ်များကို သတင်းကောင်းပါးထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْأَنْهَارُ",
+            "translit": "al-anhāru",
+            "en": "the rivers",
+            "my": "မြစ်များ",
+            "role_en": "Noun (Subject)",
+            "role_my": "နာမ်",
+            "root": "ن ه ر",
+            "freq": 52
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The verb 'Tajri' (she flows) is feminine singular because 'Al-Anhar' (the rivers) is a non-human plural.",
+          "structure_my": "Tajri (စီးဆင်းသည်) မှာ (မ) အနည်းကိန်းဖြစ်ရခြင်းမှာ Al-Anhar သည် သက်မဲ့အများကိန်းဖြစ်သောကြောင့် ဖြစ်သည်။",
+          "insight_en": "This grammatical 'marriage' creates a beautiful flow in the sentence, mirroring the flow of the water.",
+          "insight_my": "ဤသဒ္ဒါဖွဲ့စည်းပုံသည် ဝါကျကို ပိုမိုချောမွေ့စေပြီး မြစ်ရေစီးဆင်းမှု၏ အလှတရားကို ဖော်ညွှန်းသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ن ه ر",
+            "concept_en": "Flowing with light or water.",
+            "concept_my": "အလင်း (သို့) ရေ စီးဆင်းခြင်း",
+            "members": [
+              {
+                "ar": "نَهَار",
+                "en": "daytime",
+                "my": "နေ့ခင်း",
+                "freq": 57
+              }
+            ],
+            "professors_note": "A river is called Nahar because it flows, and day is called Nahar because light flows through it."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဂျန္နသ်၏ အလှတရားမှာ မြစ်များစွာ စီးဆင်းနေခြင်း ဖြစ်သည်။ ယုံကြည်သူတိုင်းသည် ထိုနေရာသို့ ရောက်ရှိရန် ရည်မှန်းချက်ထားကာ ကောင်းမှုများ ပြုလုပ်သင့်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Jannatin tajri min tahtihal anhar.",
+          "meaning_anchor": "Clear water flowing under green gardens.",
+          "daily_connection": "Recited as a reminder of the ultimate goal in life.",
+          "my": "Jannatin tajri ... al-anhar ဟူသော အတွဲကို အာရုံစိုက်ပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-An'am 6:59",
+        "study_number": 2,
+        "arabic_full": "وَعِندَهُ مَفَاتِحُ الْغَيْبِ لَا يَعْلَمُهَا إِلَّا هُوَ",
+        "en_sahih": "And with Him are the keys of the unseen; none knows them except Him.",
+        "my_mmsy": "ထို့ပြင် အရှင်မြတ်ထံတော်တွင် အကွယ်၏သော့များရှိသည်။  ထိုအရာများကို အရှင်မြတ်မှလွဲ၍ မည်သူမှမသိပေ။ ထို့ပြင် အရှင်မြတ်သည် ကုန်းမြေတွင်ရှိသမျှနှင့် ပင်လယ်ထဲတွင်ရှိသမျှအရာများကို သိတော်မူသည်။ ၎င်းပြင် သစ်ရွက်တစ်ရွက် ကြွေကျသည်ကိုလည်း အရှင်မြတ်သိတော်မူသည်။ ထို့ပြင် ပထဝီမြေ၏အမှောင်များထဲ၌ ကျရောက်နေသော အစေ့အဆံဟူသမျှနှင့် စိမ်းစိုသောအရာဟူသမျှအပြင် ခြောက်သွေ့သောအရာသူသမျှသည် ရှင်းလင်းထင်ရှားသော (မှတ်တမ်း)စာအုပ်တွင် ရှိကြသည်။",
+        "audio_ref": {
+          "surah": 6,
+          "ayah": 59,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/006059.mp3"
+        },
+        "qurancom_url": "https://quran.com/6/59",
+        "context": {
+          "en": "Establishing Allah's absolute knowledge of all hidden and open things.",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ အရာခပ်သိမ်းအပေါ် အကြွင်းမဲ့ သိမြင်တော်မူမှုကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "مَفَاتِحُ",
+            "translit": "mafātihu",
+            "en": "keys",
+            "my": "သော့များ",
+            "role_en": "Noun (Subject)",
+            "role_my": "နာမ်",
+            "root": "ف ت ح",
+            "freq": 2
+          },
+          {
+            "ar": "يَعْلَمُهَا",
+            "translit": "ya'lamuhā",
+            "en": "knows them",
+            "my": "၎င်းတို့ကို သိသည်",
+            "role_en": "Verb + Pronoun",
+            "role_my": "ကြိယာ + နာမ်စား",
+            "root": "ع ل م",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The pronoun '-ha' (her/it) refers back to 'Mafatih' (keys) because it is a non-human plural.",
+          "structure_my": "'-ha' (၎င်း/သူမ) ဟူသော နာမ်စားသည် Mafatih (သော့များ) ကို ရည်ညွှန်းသည်။ အကြောင်းမှာ ၎င်းသည် သက်မဲ့အများကိန်းဖြစ်သောကြောင့် ဖြစ်သည်။",
+          "insight_en": "Using the singular pronoun emphasizes that all these keys are within a single grasp of Allah's knowledge.",
+          "insight_my": "အနည်းကိန်းနာမ်စားကို သုံးခြင်းဖြင့် ထိုသော့များအားလုံးသည် အလ္လာဟ်အရှင်မြတ်၏ လက်ဝယ်တွင်သာ ရှိကြောင်း ဖော်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ف ت ح",
+            "concept_en": "To remove a barrier or reveal.",
+            "concept_my": "အတားအဆီးကို ဖယ်ရှားခြင်း သို့မဟုတ် ဖော်ထုတ်ခြင်း",
+            "members": [
+              {
+                "ar": "الْفَاتِحَة",
+                "en": "The Opening",
+                "my": "အဖွင့်ကဏ္ဍ",
+                "freq": 1
+              }
+            ],
+            "professors_note": "A key is a Miftah because it removes the barrier of a locked door."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့ မသိနိုင်သော အနာဂတ်နှင့် လျှို့ဝှက်ချက်အားလုံး၏ သော့များသည် အလ္လာဟ်အရှင်မြတ်ထံတွင်သာ ရှိသည်။ ထို့ကြောင့် အရှင်မြတ်ကိုသာ အမြဲတမ်း အားကိုးယုံကြည်ရမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Wa 'indahu mafatihul ghaybi...",
+          "meaning_anchor": "A great ring of golden keys to hidden doors.",
+          "daily_connection": "Recited when feeling uncertain about the future.",
+          "my": "Mafatih (သော့များ) နှင့် Ghayb (မမြင်နိုင်သောအရာ) ကို တွဲမှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this final lesson on plurals, we learned the crucial rule that non-human plurals are treated as feminine singular in grammar. This explains why we see feminine verbs and adjectives used with words like gardens, rivers, and keys in the Quran.",
+      "my": "အများကိန်းများ၏ နောက်ဆုံးသင်ခန်းစာတွင် သက်မဲ့အများကိန်းများကို (မ) အနည်းကိန်းအဖြစ် သဒ္ဒါအရ သတ်မှတ်ပုံကို လေ့လာခဲ့သည်။ ၎င်းသည် ကုရ်အာန်ရှိ ဥယျာဉ်များ၊ မြစ်များနှင့် သော့များကဲ့သို့သော စကားလုံးများတွင် (မ) ကြိယာနှင့် နာမဝိသေသနများ အသုံးပြုရခြင်း၏ အကြောင်းရင်းဖြစ်သည်။"
+    }
+  }
+]

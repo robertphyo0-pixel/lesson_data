@@ -1,0 +1,2277 @@
+[
+  {
+    "lesson_id": "L3-106",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 106,
+    "title": {
+      "ar": "حَرْفُ الجَرِّ: عَنْ — الاِبْتِعَادُ وَالرِّوَايَةُ",
+      "en": "Particles VI — 'An (عَنْ): Away From, Transmission",
+      "my": "ဝိဘတ် (၆) — 'An (عَنْ): မှ/အကြောင်း/ဆင့်ကဲဖော်ပြခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "'An for source of narration (hadith style) and 'away from'",
+      "grammar_formula": "عَنْ + Noun = Away from/About/On authority of"
+    },
+    "section_1_vocab": [
+      {
+        "word": "رِوَايَة",
+        "translit": "riwayah",
+        "en": "narration",
+        "my": "ဆင့်ကဲပြောဆိုခြင်း",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعَالَة",
+        "root": {
+          "letters": "ر و ي",
+          "concept_en": "to relate or narrate",
+          "concept_my": "ဆင့်ကဲပြောပြသည်"
+        },
+        "memory_hook": {
+          "sound": "Revive",
+          "image": "Reviving a story through narration",
+          "cross_language": "Riwayat (Malay/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "رَاوِي",
+            "translit": "rawi",
+            "en": "narrator",
+            "my": "ပြောပြသူ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Words with R-W-Y relate to conveying water or information (narrating).",
+        "example": {
+          "ar": "عَنْ رِوَايَةِ",
+          "en": "On the narration of",
+          "my": "ဆင့်ကဲပြောပြချက်အရ",
+          "ref": "Hadith Context"
+        }
+      },
+      {
+        "word": "عِلْم",
+        "translit": "ilm",
+        "en": "knowledge",
+        "my": "ပညာ",
+        "quran_freq": 854,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "to know",
+          "concept_my": "သိရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ilm",
+          "image": "A bright light in the brain",
+          "cross_language": "Ilmu (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "عَالِم",
+            "translit": "alim",
+            "en": "scholar",
+            "my": "ပညာရှင်",
+            "freq": 13
+          }
+        ],
+        "pattern_unlock": "The root Ayin-Lam-Mim appears in words for signs, flags, and knowledge.",
+        "example": {
+          "ar": "يَعْلَمُونَ",
+          "en": "they know",
+          "my": "သူတို့သိကြသည်",
+          "ref": "2:75"
+        }
+      },
+      {
+        "word": "حَدِيث",
+        "translit": "hadith",
+        "en": "speech / narration",
+        "my": "ပြောစကား / ဟဒီးစ်",
+        "quran_freq": 23,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ح د ث",
+          "concept_en": "to happen or speak",
+          "concept_my": "ဖြစ်ပေါ်ခြင်း သို့မဟုတ် ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hadith",
+          "image": "A person speaking new information",
+          "cross_language": "Hadith (Global)"
+        },
+        "word_family": [
+          {
+            "ar": "يُحَدِّثُ",
+            "translit": "yuhaddithu",
+            "en": "he tells",
+            "my": "သူပြောပြသည်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The pattern Fa'eel often denotes a result or object of an action.",
+        "example": {
+          "ar": "فَبِأَيِّ حَدِيثٍ",
+          "en": "Then in what statement",
+          "my": "မည်သည့်စကား၌နည်း",
+          "ref": "77:50"
+        }
+      },
+      {
+        "word": "نَفْس",
+        "translit": "nafs",
+        "en": "self / soul",
+        "my": "မိမိကိုယ်ကိုယ် / ဝိညာဉ်",
+        "quran_freq": 298,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ن ف س",
+          "concept_en": "breath / self",
+          "concept_my": "အသက်ရှူခြင်း / ကိုယ်တိုင်"
+        },
+        "memory_hook": {
+          "sound": "Naps",
+          "image": "Taking a nap for your soul",
+          "cross_language": "Nafsu (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "أَنفُس",
+            "translit": "anfus",
+            "en": "souls",
+            "my": "ဝိညာဉ်များ",
+            "freq": 150
+          }
+        ],
+        "pattern_unlock": "N-F-S words deal with the internal state or individual person.",
+        "example": {
+          "ar": "عَنْ نَفْسِهِ",
+          "en": "from his soul",
+          "my": "သူ့ကိုယ်တိုင်မှ",
+          "ref": "12:26"
+        }
+      },
+      {
+        "word": "نَبَأ",
+        "translit": "naba",
+        "en": "news / tidings",
+        "my": "သတင်းဦး / သတင်း",
+        "quran_freq": 28,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "ن ب أ",
+          "concept_en": "important news",
+          "concept_my": "အရေးကြီးသတင်း"
+        },
+        "memory_hook": {
+          "sound": "Naba",
+          "image": "A news anchor broadcasting",
+          "cross_language": "Nabi (Prophet - news bearer)"
+        },
+        "word_family": [
+          {
+            "ar": "نَبِيّ",
+            "translit": "nabiyy",
+            "en": "prophet",
+            "my": "နဗီတမန်တော်",
+            "freq": 75
+          }
+        ],
+        "pattern_unlock": "The root N-B-A is the source for the word Prophet (one who gives news).",
+        "example": {
+          "ar": "عَنِ النَّبَإِ",
+          "en": "about the news",
+          "my": "သတင်းအကြောင်း",
+          "ref": "78:2"
+        }
+      },
+      {
+        "word": "لَهْو",
+        "translit": "lahw",
+        "en": "diversion / amusement",
+        "my": "အာရုံလွှဲသောအရာ / ကစားခြင်း",
+        "quran_freq": 16,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ل ه و",
+          "concept_en": "distraction",
+          "concept_my": "အာရုံပြောင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Low",
+          "image": "Feeling low because of distractions",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "تَلَهَّى",
+            "translit": "talahha",
+            "en": "distracted",
+            "my": "အာရုံလွဲသည်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "L-H-W describes anything that makes one neglect an important task.",
+        "example": {
+          "ar": "عَنِ اللَّهْوِ",
+          "en": "from the diversion",
+          "my": "အာရုံလွှဲသောအရာမှ",
+          "ref": "62:11"
+        }
+      },
+      {
+        "word": "مَعْرُوف",
+        "translit": "ma'ruf",
+        "en": "well-known / good",
+        "my": "လူသိများသော / ကောင်းမှု",
+        "quran_freq": 39,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ع ر ف",
+          "concept_en": "to recognize",
+          "concept_my": "အသိအမှတ်ပြုသည်"
+        },
+        "memory_hook": {
+          "sound": "Roof",
+          "image": "Everyone knows the roof of a house",
+          "cross_language": "Ma'ruf (Malay/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "يَعْرِفُونَ",
+            "translit": "ya'rifun",
+            "en": "they recognize",
+            "my": "သူတို့သိကြသည်",
+            "freq": 7
+          }
+        ],
+        "pattern_unlock": "The Maf'ool pattern usually means the one who is acted upon.",
+        "example": {
+          "ar": "بِالْمَعْرُوفِ",
+          "en": "with kindness",
+          "my": "ကောင်းမှုဖြင့်",
+          "ref": "2:228"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "حَرْفُ الْجَرِّ: عَنْ",
+        "en": "The Particle: 'An",
+        "my": "ဝိဘတ် 'An ('An)"
+      },
+      "formula": {
+        "display": "عَنْ + النَّبَإِ = عَنِ النَّبَإِ",
+        "example": "رَضِيَ اللهُ عَنْهُمْ",
+        "myanmar_read": "တစ်စုံတစ်ခု 'မှ' (သို့မဟုတ်) တစ်စုံတစ်ခု 'အကြောင်း' လို့ အဓိပ္ပာယ်ရပါတယ်",
+        "key_insight": "'An acts like a bridge moving 'away from' a source or 'about' a topic."
+      },
+      "explanation": {
+        "en": "The particle 'An is a Harf Jarr that primarily means 'away from' or 'about'. In Hadith literature, it is famously used to show transmission (e.g., 'On the authority of...'). When it precedes a word starting with Al-, the 'n' sound gets a kasra for smooth reading (Ani l-...).",
+        "my": "عَنْ ('An) သည် Harf Jarr (ဝိဘတ်) တစ်ခုဖြစ်ပြီး 'မှ' သို့မဟုတ် 'အကြောင်း' ဟု အဓိပ္ပာယ်ရသည်။ ဟဒီးစ်တော်များတွင် 'ဆင့်ကဲပြောပြချက်အရ' ဟု အသုံးပြုလေ့ရှိသည်။ Al- နှင့် စတင်သော စကားလုံး၏ ရှေ့တွင်ရှိပါက 'Anil...' ဟု အသံဆက်ဖတ်ရသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to the Myanmar postpositions 'မှ' (from) or 'အကြောင်း' (about).",
+        "my": "မြန်မာဘာသာစကားရှိ 'မှ' သို့မဟုတ် 'အကြောင်း' နှင့် အသုံးပြုပုံ ဆင်တူပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Changes the following noun to the Majrur state (usually ending in kasra).",
+          "rule_my": "နောက်မှလိုက်သော နာမ်ကို Majrur (ဂျရ်) အခြေအနေသို့ ပြောင်းလဲစေသည်။ (Kasra အသံဖြင့် ဆုံးစေသည်)",
+          "example": {
+            "ar": "عَنْ ذِكْرِ اللهِ",
+            "en": "from the remembrance of Allah",
+            "my": "အလ္လာဟ်အရှင်မြတ်အား သတိရအောက်မေ့ခြင်းမှ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "عَمَّ يَتَسَاءَلُونَ * عَنِ النَّبَإِ الْعَظِيمِ",
+          "en": "About what are they asking one another? * About the great news",
+          "my": "(၁) သူတို့သည် မည်သည့်အရာနှင့်ပတ်သက်၍မေးမြန်းနေကြသနည်း။",
+          "ref": "78:1-2",
+          "breakdown": {
+            "subject": {
+              "word": "النَّبَإِ",
+              "en": "the news",
+              "note": "Majrur because of 'An"
+            },
+            "predicate": {
+              "word": "عَنِ",
+              "en": "About",
+              "note": "Harf Jarr"
+            }
+          },
+          "myanmar_insight": "Amma (عَمَّ) သည် 'An + Ma ဖြစ်ပြီး 'ဘာအကြောင်းလဲ' ဟု မေးမြန်းခြင်းဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing 'An (عَنْ) with 'In (إِنْ - if) or 'Anna (أَنَّ - that).",
+          "wrong": {
+            "ar": "عَنْ اللهُ",
+            "note": "Case is wrong and particle use"
+          },
+          "correct": {
+            "ar": "عَنِ اللهِ",
+            "en": "on the authority of/from Allah",
+            "my": "အလ္လာဟ်ထံတော်မှ"
+          },
+          "myanmar_tip": "'An သည် ဝိဘတ်ဖြစ်ပြီး နောက်ကစကားလုံးကို အောက်ဆွဲ (Kasra) ပေးရမည်ကို မှတ်ထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the definite and indefinite nouns",
+          "instruction_my": "သတ်မှတ်နာမ်နှင့် အထွေထွေနာမ်များကို ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "عَنِ الْيَمِينِ",
+              "answer_en": "Definite (The right)",
+              "answer_my": "သတ်မှတ်နာမ် (ညာဘက်)",
+              "ref": "70:37"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "رَضِيَ اللَّهُ عَنْهُمْ",
+              "answer_en": "Allah is pleased with them",
+              "answer_my": "အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အပေါ် ကျေနပ်တော်မူပြီ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "Al- ပေါင်းထည့်၍ သတ်မှတ်နာမ်ပြုလုပ်ပါ",
+          "questions": [
+            {
+              "q": "عِلْم",
+              "answer_en": "The knowledge",
+              "answer_my": "ပညာ",
+              "ar": "الْعِلْمُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The particle 'An reminds us of our connection to the source. In faith, we seek knowledge transmitted 'from' the Prophet (PBUH) to stay on the straight path.",
+        "my": "'An (မှ) သည် ကျွန်ုပ်တို့အား အရင်းအမြစ်နှင့် ဆက်သွယ်မှုကို သတိပေးသည်။ အမှန်တရားကို တမန်တော်မြတ်ထံ 'မှ' ဆင့်ကဲရရှိသော အသိပညာဖြင့် ရှာဖွေရမည်ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Naba 78:2",
+        "study_number": 1,
+        "arabic_full": "عَنِ النَّبَإِ الْعَظِيمِ",
+        "en_sahih": "About the great news -",
+        "my_mmsy": "(၂) သူတို့သည် ကြီးကျယ်သော (ကိယာမသ်)အကြောင်းသတင်းနှင့် ပတ်သက်၍(မေးမြန်းနေကြခြင်းဖြစ်သည်)။",
+        "audio_ref": {
+          "surah": 78,
+          "ayah": 2,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/078002.mp3"
+        },
+        "qurancom_url": "https://quran.com/78/2",
+        "context": {
+          "en": "Disbelievers were questioning the reality of the Day of Resurrection. This ayah answers what they are debating.",
+          "my": "မယုံကြည်သူများသည် ရှင်ပြန်ထမြောက်မည့်နေ့နှင့် ပတ်သက်၍ ငြင်းခုံနေကြစဉ် ဤအာယသ်တော် ကျရောက်လာခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "عَنِ",
+            "translit": "ani",
+            "en": "about",
+            "my": "အကြောင်း",
+            "role_en": "Particle",
+            "role_my": "ဝိဘတ်",
+            "root": "N/A",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The particle 'An creates a prepositional phrase showing the topic of discussion.",
+          "structure_my": "'An သည် ဆွေးနွေးနေသော အကြောင်းအရာကို ဖော်ပြသည့် ဝိဘတ်အဖြစ် ပါဝင်နေသည်။",
+          "insight_en": "Notice the kasra on 'Ani' to connect with the Al- in Al-Naba.",
+          "insight_my": "Al-Naba နှင့် အသံဆက်ရန် 'An တွင် အောက်ဆွဲ (kasra) ထည့်ထားသည်ကို သတိပြုပါ။"
+        },
+        "root_depth": [
+          {
+            "root": "ن ب أ",
+            "concept_en": "Communication of significant information that requires a response.",
+            "concept_my": "တုံ့ပြန်မှုတစ်ခု လိုအပ်သော အရေးကြီးသတင်းစကား။",
+            "members": [
+              {
+                "ar": "أَنْبَأَ",
+                "en": "he informed",
+                "my": "သူအသိပေးခဲ့သည်",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Naba is different from 'Khabar' (general news); it implies something monumental."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤကမ္ဘာလောက၏ သတင်းများထက် နောင်တမလွန်သတင်းသည် ပို၍ကြီးကျယ်ပါသည်။ 'An (အကြောင်း) ဟူသော စကားလုံးသည် ကျွန်ုပ်တို့ ဘာကို အဓိကထား ငြင်းခုံနေသလဲဆိုသည်ကို ဆင်ခြင်စေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ending 'im' in Al-Adheem has a deep, resonant sound.",
+          "meaning_anchor": "Imagine a giant headline that everyone is looking at.",
+          "daily_connection": "Used when asking about news or information.",
+          "my": "ကြီးကျယ်သောသတင်းကို မြင်ယောင်ရင်း ကျက်မှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we explored the particle 'An, which signifies transmission and distance. We learned its role in Hadith and its grammatical effect on nouns.",
+      "my": "ဤသင်ခန်းစာတွင် 'An ('An) ဝိဘတ်အကြောင်း လေ့လာခဲ့သည်။ ၎င်းသည် ဆင့်ကဲဖော်ပြခြင်းနှင့် အကွာအဝေးကို ဖော်ပြပြီး နာမ်များအပေါ် သက်ရောက်မှုကို သိရှိခဲ့ရသည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-107",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 107,
+    "title": {
+      "ar": "حَرْفُ الجَرِّ: عَلَى — الفَوْقِيَّةُ وَالوُجُوبُ",
+      "en": "Particles VII — 'Alā (عَلَى): Upon, Authority, Obligation",
+      "my": "ဝိဘတ် (၇) — 'Alā (عَلَى): အပေါ် / တာဝန်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "'Alā for position (upon), authority, and religious obligation",
+      "grammar_formula": "عَلَى + Noun = Upon / Over / Obligatory for"
+    },
+    "section_1_vocab": [
+      {
+        "word": "وَاجِب",
+        "translit": "wajib",
+        "en": "obligatory",
+        "my": "မဖြစ်မနေ လုပ်ဆောင်ရမည့်အရာ",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "و ج ب",
+          "concept_en": "to be necessary",
+          "concept_my": "လိုအပ်သည် / မရှိမဖြစ်ဖြစ်သည်"
+        },
+        "memory_hook": {
+          "sound": "Wage",
+          "image": "Collecting a wage you worked for (obligatory pay)",
+          "cross_language": "Wajib (Malay/Myanmar Muslim usage)"
+        },
+        "word_family": [
+          {
+            "ar": "وَجَبَتْ",
+            "translit": "wajabat",
+            "en": "it fell/became mandatory",
+            "my": "မဖြစ်မနေဖြစ်လာသည်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "The Fa'il pattern here represents a state or quality of being necessary.",
+        "example": {
+          "ar": "فَإِذَا وَجَبَتْ جُنُوبُهَا",
+          "en": "And when they are down on their sides",
+          "my": "၎င်းတို့ လဲကျသွားသောအခါ",
+          "ref": "22:36"
+        }
+      },
+      {
+        "word": "عَرْش",
+        "translit": "arsh",
+        "en": "throne",
+        "my": "ပလ္လင်တော်",
+        "quran_freq": 26,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ع ر ش",
+          "concept_en": "trellis / throne / construction",
+          "concept_my": "အမိုးအကာ / ပလ္လင်"
+        },
+        "memory_hook": {
+          "sound": "Arch",
+          "image": "An arch over a royal throne",
+          "cross_language": "Arasy (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "مَعْرُوشَات",
+            "translit": "ma'rushat",
+            "en": "trellises",
+            "my": "စင်များ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Words with Ayin-Ra-Sheen often relate to high structures or roofing.",
+        "example": {
+          "ar": "عَلَى الْعَرْشِ",
+          "en": "upon the Throne",
+          "my": "ပလ္လင်တော်ထက်၌",
+          "ref": "20:5"
+        }
+      },
+      {
+        "word": "حَقّ",
+        "translit": "haqq",
+        "en": "truth / right / duty",
+        "my": "အမှန်တရား / ရပိုင်ခွင့် / တာဝန်",
+        "quran_freq": 287,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ح ق ق",
+          "concept_en": "truth / reality",
+          "concept_my": "အမှန်တရား"
+        },
+        "memory_hook": {
+          "sound": "Hug",
+          "image": "Hugging the truth tightly",
+          "cross_language": "Hak (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "أَحَقُّ",
+            "translit": "ahaqqu",
+            "en": "more worthy",
+            "my": "ပို၍ထိုက်တန်သော",
+            "freq": 11
+          }
+        ],
+        "pattern_unlock": "H-Q-Q words imply something that is established and cannot be denied.",
+        "example": {
+          "ar": "حَقًّا عَلَى الْمُتَّقِينَ",
+          "en": "a duty upon the righteous",
+          "my": "ဖြောင့်မတ်သူများအပေါ် တာဝန်တစ်ခု",
+          "ref": "2:180"
+        }
+      },
+      {
+        "word": "قَدِير",
+        "translit": "qadir",
+        "en": "all-powerful",
+        "my": "အရာခပ်သိမ်းကို တတ်စွမ်းနိုင်သောအရှင်",
+        "quran_freq": 45,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ق د ر",
+          "concept_en": "power / measure",
+          "concept_my": "စွမ်းအား / တိုင်းတာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Radar",
+          "image": "Power that scans and controls everything like radar",
+          "cross_language": "Kudrat (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "قَدَر",
+            "translit": "qadar",
+            "en": "destiny",
+            "my": "ကံကြမ္မာ",
+            "freq": 12
+          }
+        ],
+        "pattern_unlock": "The Fa'eel pattern is one of the constant attributes in the Quran.",
+        "example": {
+          "ar": "عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "en": "over all things competent",
+          "my": "အရာခပ်သိမ်းအပေါ် တတ်စွမ်းနိုင်တော်မူသောအရှင်",
+          "ref": "2:20"
+        }
+      },
+      {
+        "word": "هُدَى",
+        "translit": "huda",
+        "en": "guidance",
+        "my": "တရားလမ်းညွှန်မှု",
+        "quran_freq": 316,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعَل",
+        "root": {
+          "letters": "ه د ي",
+          "concept_en": "to guide",
+          "concept_my": "လမ်းညွှန်သည်"
+        },
+        "memory_hook": {
+          "sound": "Hood",
+          "image": "A guide wearing a hood in the desert",
+          "cross_language": "Hidayat (Urdu/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "اهْدِنَا",
+            "translit": "ihdina",
+            "en": "guide us",
+            "my": "ကျွန်ုပ်တို့ကို လမ်းညွှန်တော်မူပါ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Words with H-D-Y relate to showing the way or a gift (hadiyya).",
+        "example": {
+          "ar": "عَلَى هُدًى",
+          "en": "upon guidance",
+          "my": "တရားလမ်းညွှန်မှုအပေါ်၌",
+          "ref": "2:5"
+        }
+      },
+      {
+        "word": "قَلْب",
+        "translit": "qalb",
+        "en": "heart",
+        "my": "နှလုံးသား",
+        "quran_freq": 168,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ق ل ب",
+          "concept_en": "to flip / heart",
+          "concept_my": "ပြောင်းလဲခြင်း / နှလုံးသား"
+        },
+        "memory_hook": {
+          "sound": "Calp (sounds like scalp)",
+          "image": "A heart that beats and flips",
+          "cross_language": "Kalbu (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "يُقَلِّبُ",
+            "translit": "yuqallibu",
+            "en": "He turns over",
+            "my": "သူလှန်ပေးသည်",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "The heart is called 'qalb' because it flips and changes state easily.",
+        "example": {
+          "ar": "عَلَى قُلُوبِهِمْ",
+          "en": "upon their hearts",
+          "my": "၎င်းတို့၏ နှလုံးသားများအပေါ်၌",
+          "ref": "2:7"
+        }
+      },
+      {
+        "word": "بَصَر",
+        "translit": "basar",
+        "en": "vision / sight",
+        "my": "အမြင်အာရုံ",
+        "quran_freq": 51,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "ب ص ر",
+          "concept_en": "to see / insight",
+          "concept_my": "မြင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Passer",
+          "image": "Seeing a passerby",
+          "cross_language": "Bashirat (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "أَبْصَار",
+            "translit": "absar",
+            "en": "visions",
+            "my": "အမြင်အာရုံများ",
+            "freq": 97
+          }
+        ],
+        "pattern_unlock": "B-S-R refers to both physical sight and intellectual insight.",
+        "example": {
+          "ar": "عَلَى أَبْصَارِهِمْ",
+          "en": "upon their vision",
+          "my": "၎င်းတို့၏ အမြင်အာရုံများအပေါ်၌",
+          "ref": "2:7"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "حَرْفُ الْجَرِّ: عَلَى",
+        "en": "The Particle: 'Alā",
+        "my": "ဝိဘတ် 'Alā ('Alā)"
+      },
+      "formula": {
+        "display": "عَلَى + الْأَرْضِ = عَلَى الْأَرْضِ",
+        "example": "عَلَى هُدًى مِّن رَّبِّهِمْ",
+        "myanmar_read": "တစ်စုံတစ်ခု၏ 'အပေါ်' သို့မဟုတ် 'တာဝန်' အဖြစ် အဓိပ္ပာယ်ရသည်",
+        "key_insight": "'Alā implies being above or having a burden/duty over someone."
+      },
+      "explanation": {
+        "en": "The particle 'Alā means 'upon' or 'on'. Metaphorically, it expresses authority (Allah is over all things) or obligation (it is a duty upon the people). In Arabic grammar, it is a Harf Jarr that makes the following noun Majrur.",
+        "my": "'Alā ('Alā) သည် 'အပေါ်' ဟု အဓိပ္ပာယ်ရသည်။ တင်စားချက်အားဖြင့် လုပ်ပိုင်ခွင့်အာဏာ သို့မဟုတ် တာဝန်ဝတ္တရား (ဥပမာ- လူသားတို့အပေါ် တာဝန်ရှိသည်) ကို ဖော်ပြရာတွင် အသုံးပြုသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to the Myanmar 'ပေါ်' (upon) or 'အပေါ်၌ တာဝန်ရှိသည်' (duty upon).",
+        "my": "မြန်မာဘာသာရှိ 'ပေါ်' သို့မဟုတ် 'အပေါ်မှာ တာဝန်ရှိတယ်' ဆိုသည့် အသုံးအနှုန်းနှင့် တူညီပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "When 'Alā is followed by a pronoun like 'Him' (hu), it changes to 'Alay-hi.",
+          "rule_my": "'Alā ၏နောက်တွင် နာမ်စား (ဥပမာ- hu) လိုက်ပါက 'Alay-hi ဟု ပြောင်းလဲဖတ်ရသည်။",
+          "example": {
+            "ar": "عَلَيْهِ",
+            "en": "upon him",
+            "my": "သူ့အပေါ်၌"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "en": "over all things competent",
+          "my": "MYANMAR_PLACE_HOLDER_S2_A20",
+          "ref": "2:20",
+          "breakdown": {
+            "subject": {
+              "word": "كُلِّ",
+              "en": "every",
+              "note": "Majrur after 'Alā"
+            },
+            "predicate": {
+              "word": "قَدِيرٌ",
+              "en": "Powerful",
+              "note": "The attribute of Allah"
+            }
+          },
+          "myanmar_insight": "အလ္လာဟ်အရှင်မြတ်၏ တတ်စွမ်းနိုင်မှုကို ဖော်ပြရာတွင် 'Alā ကို သုံးထားခြင်းမှာ အုပ်စိုးမှုကို ပြသခြင်းဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Writing 'Alā with a normal Alif instead of Alif Maqsura (ى).",
+          "wrong": {
+            "ar": "علا",
+            "note": "Spelling error"
+          },
+          "correct": {
+            "ar": "عَلَى",
+            "en": "upon",
+            "my": "အပေါ်၌"
+          },
+          "myanmar_tip": "စကားလုံးအဆုံးတွင် (ى) ပါသည်ကို သတိထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find 'Alā in the sentence",
+          "instruction_my": "စာကြောင်းထဲမှ 'Alā ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "عَلَى صِرَاطٍ مُسْتَقِيمٍ",
+              "answer_en": "'Alā (Upon)",
+              "answer_my": "'Alā (အပေါ်၌)",
+              "ref": "36:4"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "السَّلَامُ عَلَيْكُمْ",
+              "answer_en": "Peace be upon you",
+              "answer_my": "သင်တို့အပေါ် ငြိမ်းချမ်းမှု သက်ရောက်ပါစေ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Add 'Alā to the noun",
+          "instruction_my": "'Alā ပေါင်းထည့်ပါ",
+          "questions": [
+            {
+              "q": "الْعَرْش",
+              "answer_en": "Upon the Throne",
+              "answer_my": "ပလ္လင်တော်ထက်၌",
+              "ar": "عَلَى الْعَرْشِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "When we say 'Alaykum' or 'Alayhi', we are asking for Allah's blessings to descend 'upon' someone. It shows that blessings come from above.",
+        "my": "ကျွန်ုပ်တို့ 'အလိုင်ကွမ်' ဟု ဆိုသောအခါ အလ္လာဟ်အရှင်မြတ်၏ ကောင်းချီးမင်္ဂလာများ တစ်စုံတစ်ဦး 'အပေါ်' သို့ သက်ရောက်ရန် ဆုတောင်းခြင်း ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:5",
+        "study_number": 1,
+        "arabic_full": "أُولَٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+        "en_sahih": "Those are upon [right] guidance from their Lord, and it is those who are the successful.",
+        "my_mmsy": "၎င်းတို့သည် ၎င်းတို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်ထံမှ လမ်းမှန်ညွှန်ကြားပြသချက်အပေါ်တွင် ရှိနေကြပြီး ၎င်းတို့သာလျှင် အောင်မြင်ကြမည့်သူများ ဖြစ်ကြသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002005.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/5",
+        "context": {
+          "en": "After describing the qualities of the God-fearing (Muttaqin), Allah describes their state and final outcome.",
+          "my": "ပြစ်မှုဒုစရိုက်များမှ ကြဉ်ရှောင်သူ (မွတ်သကီးန်) များ၏ အရည်အချင်းများကို ဖော်ပြပြီးနောက် ၎င်းတို့၏ အခြေအနေကို ဖော်ပြခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "عَلَىٰ",
+            "translit": "ala",
+            "en": "upon",
+            "my": "အပေါ်၌",
+            "role_en": "Particle",
+            "role_my": "ဝိဘတ်",
+            "root": "N/A",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "'Alā is used with 'Huda' (Guidance) to show that the believers are firmly established ON it.",
+          "structure_my": "ယုံကြည်သူများသည် လမ်းညွှန်မှုအပေါ်၌ ခိုင်မာစွာ ရှိနေကြောင်းပြရန် 'Alā ကို သုံးထားသည်။",
+          "insight_en": "Guidance is treated like a vehicle or a path that carries the person.",
+          "insight_my": "တရားလမ်းညွှန်မှုကို လူတစ်ယောက်အား သယ်ဆောင်သွားသော ယာဉ်တစ်စီးကဲ့သို့ တင်စားထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ف ل ح",
+            "concept_en": "To furrow the earth (farming) / to succeed by effort.",
+            "concept_my": "မြေဆီလွှာကို ထွန်ယက်ခြင်း / ကြိုးစားမှုဖြင့် အောင်မြင်ခြင်း။",
+            "members": [
+              {
+                "ar": "الْمُفْلِحُونَ",
+                "en": "the successful ones",
+                "my": "အောင်မြင်သူများ",
+                "freq": 13
+              }
+            ],
+            "professors_note": "A 'Muflih' is like a farmer who reaps exactly what he sowed with hard work."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ ဘဝခရီးလမ်းတွင် လမ်းညွှန်မှု (Hidayat) ပေါ်တွင် ရှိနေခြင်းသည် အကြီးမားဆုံး အောင်မြင်မှုဖြစ်သည်။ 'Alā ဟူသော စကားလုံးက ကျွန်ုပ်တို့သည် ထိုလမ်းညွှန်မှုအပေါ် ခိုင်ခိုင်မြဲမြဲ ရပ်တည်နေရမည်ဟု သတိပေးနေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The repetition of 'Ula'ika' creates a strong emphasis.",
+          "meaning_anchor": "Imagine standing on a solid, glowing path.",
+          "daily_connection": "Recited daily in the first page of Surah Al-Baqarah.",
+          "my": "Ula'ika ဟူသော အသံကို အာရုံပြု၍ အလွယ်တကူ ကျက်မှတ်နိုင်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We learned that 'Alā indicates physical or metaphorical 'height' and 'obligation'. It is essential for understanding Allah's power and our duties.",
+      "my": "'Alā သည် ရုပ်ပိုင်းဆိုင်ရာ သို့မဟုတ် တင်စားချက်အရ 'အထက်' နှင့် 'တာဝန်' ကို ဆိုလိုကြောင်း လေ့လာခဲ့သည်။ အလ္လာဟ်အရှင်မြတ်၏ စွမ်းဆောင်နိုင်မှုနှင့် ကျွန်ုပ်တို့၏ တာဝန်များကို နားလည်ရန် အရေးကြီးပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-108",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 108,
+    "title": {
+      "ar": "حَرْفُ الجَرِّ: فِي — الظَّرْفِيَّةُ",
+      "en": "Particles VIII — Fī (فِي): In, Inside, During",
+      "my": "ဝိဘတ် (၈) — Fī (فِي): ထဲမှာ / အတွင်းမှာ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Fī for location (in), time (during), and abstract containment",
+      "grammar_formula": "فِي + Noun = In the [Noun]"
+    },
+    "section_1_vocab": [
+      {
+        "word": "فِي الْقَلْبِ",
+        "translit": "fi l-qalb",
+        "en": "in the heart",
+        "my": "နှလုံးသားထဲတွင်",
+        "quran_freq": 132,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ق ل ب",
+          "concept_en": "heart / interior",
+          "concept_my": "နှလုံးသား / အတွင်းပိုင်း"
+        },
+        "memory_hook": {
+          "sound": "Fee",
+          "image": "Putting a fee inside a heart-shaped box",
+          "cross_language": "Fi (In - Arabic)"
+        },
+        "word_family": [
+          {
+            "ar": "قَلْب",
+            "translit": "qalb",
+            "en": "heart",
+            "my": "နှလုံးသား",
+            "freq": 132
+          }
+        ],
+        "pattern_unlock": "Fī is used for internal, spiritual states.",
+        "example": {
+          "ar": "فِي قُلُوبِهِم مَّرَضٌ",
+          "en": "In their hearts is disease",
+          "my": "၎င်းတို့၏ နှလုံးသားများတွင် ရောဂါရှိ၏",
+          "ref": "2:10"
+        }
+      },
+      {
+        "word": "فِي الْكِتَابِ",
+        "translit": "fi l-kitab",
+        "en": "in the book",
+        "my": "ကျမ်းဂန်ထဲတွင်",
+        "quran_freq": 261,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ك ت ب",
+          "concept_en": "to write",
+          "concept_my": "ရေးသားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kitab",
+          "image": "Opening a book to look inside",
+          "cross_language": "Kitab (Malay/Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "كَتَبَ",
+            "translit": "kataba",
+            "en": "he wrote",
+            "my": "သူရေးသားခဲ့သည်",
+            "freq": 56
+          }
+        ],
+        "pattern_unlock": "Fī denotes containing information or decrees.",
+        "example": {
+          "ar": "فِي الْكِتَابِ مَسْطُورًا",
+          "en": "in the Book inscribed",
+          "my": "ကျမ်းဂန်တွင် ရေးသားပြီးသားဖြစ်သည်",
+          "ref": "17:58"
+        }
+      },
+      {
+        "word": "دِين",
+        "translit": "din",
+        "en": "religion / way of life",
+        "my": "သာသနာ / ဘဝလမ်းစဉ်",
+        "quran_freq": 92,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "د ي ن",
+          "concept_en": "debt / obedience / religion",
+          "concept_my": "အကြွေး / နာခံမှု / သာသနာ"
+        },
+        "memory_hook": {
+          "sound": "Dean",
+          "image": "The dean of a religious school",
+          "cross_language": "Agama (Malay - but Din is used)"
+        },
+        "word_family": [
+          {
+            "ar": "مَدِين",
+            "translit": "madin",
+            "en": "indebted",
+            "my": "ကြွေးတင်နေသော",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Din relates to a system of life where one owes obedience to Allah.",
+        "example": {
+          "ar": "فِي دِينِ اللَّهِ",
+          "en": "into the religion of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ သာသနာတော်ထဲသို့",
+          "ref": "110:2"
+        }
+      },
+      {
+        "word": "أَرْض",
+        "translit": "ard",
+        "en": "earth / land",
+        "my": "ကမ္ဘာမြေ / မြေပြင်",
+        "quran_freq": 461,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "أ ر ض",
+          "concept_en": "earth",
+          "concept_my": "မြေကြီး"
+        },
+        "memory_hook": {
+          "sound": "Ard (like Hard)",
+          "image": "The hard earth under your feet",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "أَرَاضِي",
+            "translit": "aradi",
+            "en": "lands",
+            "my": "မြေများ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Ard is always feminine in Arabic.",
+        "example": {
+          "ar": "فِي الْأَرْضِ",
+          "en": "in the earth",
+          "my": "ကမ္ဘာမြေတွင်",
+          "ref": "2:11"
+        }
+      },
+      {
+        "word": "سَبِيل",
+        "translit": "sabil",
+        "en": "path / way",
+        "my": "လမ်းစဉ်",
+        "quran_freq": 176,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "س ب ل",
+          "concept_en": "path / flow",
+          "concept_my": "လမ်း / စီးဆင်းမှု"
+        },
+        "memory_hook": {
+          "sound": "Sail",
+          "image": "Sailing on a specific path",
+          "cross_language": "Sabilillah (Common phrase)"
+        },
+        "word_family": [
+          {
+            "ar": "سُنْبُلَة",
+            "translit": "sunbulah",
+            "en": "ear of grain",
+            "my": "နှံစားပင်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Fī sabilillah is one of the most common constructions with this word.",
+        "example": {
+          "ar": "فِي سَبِيلِ اللَّهِ",
+          "en": "in the way of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ လမ်းစဉ်တွင်",
+          "ref": "2:190"
+        }
+      },
+      {
+        "word": "سَمَاء",
+        "translit": "sama",
+        "en": "sky / heaven",
+        "my": "မိုးကောင်းကင်",
+        "quran_freq": 310,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعَال",
+        "root": {
+          "letters": "س م و",
+          "concept_en": "loftiness",
+          "concept_my": "မြင့်မြတ်မှု"
+        },
+        "memory_hook": {
+          "sound": "Summer",
+          "image": "Looking at the summer sky",
+          "cross_language": "Sama' (Urdu/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "اسْم",
+            "translit": "ism",
+            "en": "name",
+            "my": "အမည်",
+            "freq": 39
+          }
+        ],
+        "pattern_unlock": "Names (Ism) give high status, just as the sky (Sama) is high.",
+        "example": {
+          "ar": "فِي السَّمَاءِ",
+          "en": "in the heaven",
+          "my": "မိုးကောင်းကင်တွင်",
+          "ref": "2:144"
+        }
+      },
+      {
+        "word": "ظُلُمَات",
+        "translit": "zulumat",
+        "en": "darknesses",
+        "my": "အမှောင်ထုများ",
+        "quran_freq": 23,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فُعُلَات",
+        "root": {
+          "letters": "ظ ل م",
+          "concept_en": "darkness / injustice",
+          "concept_my": "အမှောင် / မတရားမှု"
+        },
+        "memory_hook": {
+          "sound": "Zoo",
+          "image": "A dark zoo at night",
+          "cross_language": "Zalim (Injustice)"
+        },
+        "word_family": [
+          {
+            "ar": "ظَالِم",
+            "translit": "zalim",
+            "en": "oppressor",
+            "my": "မတရားပြုသူ",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Injustice is described as darkness because it obscures the truth.",
+        "example": {
+          "ar": "فِي ظُلُمَاتٍ",
+          "en": "in darknesses",
+          "my": "အမှောင်ထုများတွင်",
+          "ref": "2:17"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "حَرْفُ الْجَرِّ: فِي",
+        "en": "The Particle: Fī",
+        "my": "ဝိဘတ် Fī (Fī)"
+      },
+      "formula": {
+        "display": "فِي + الْبَيْتِ = فِي الْبَيْتِ",
+        "example": "فِي سَبِيلِ اللَّهِ",
+        "myanmar_read": "တစ်စုံတစ်ခု၏ 'ထဲမှာ' သို့မဟုတ် 'အတွင်းမှာ' လို့ အဓိပ္ပာယ်ရပါတယ်",
+        "key_insight": "Fī indicates containment, whether it's physical (in a house) or abstract (in a religion)."
+      },
+      "explanation": {
+        "en": "The particle Fī means 'in' or 'inside'. It can refer to physical place, time (during), or abstract concepts (in my heart). It is one of the most frequent particles in the Quran, often used to describe the state of believers or the location of actions.",
+        "my": "Fī (ဖီ) သည် 'ထဲမှာ' သို့မဟုတ် 'အတွင်းမှာ' ဟု အဓိပ္ပာယ်ရသည်။ ၎င်းကို ရုပ်ပိုင်းဆိုင်ရာ နေရာများ၊ အချိန်ကာလများ သို့မဟုတ် စိတ်ပိုင်းဆိုင်ရာ အခြေအနေများကို ဖော်ပြရန် အသုံးပြုသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Similar to the Myanmar suffix 'ထဲမှာ' (inside) or 'မှာ' (at/in).",
+        "my": "မြန်မာဘာသာရှိ 'ထဲမှာ' သို့မဟုတ် 'မှာ' နှင့် အသုံးပုံ တူညီပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Fī makes the noun following it Majrur (kasra).",
+          "rule_my": "Fī ၏ နောက်မှလိုက်သော နာမ်ကို Majrur (ဂျရ်) အခြေအနေ ဖြစ်စေသည်။",
+          "example": {
+            "ar": "فِي الدِّينِ",
+            "en": "in the religion",
+            "my": "သာသနာတွင်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "فِي قُلُوبِهِم مَّرَضٌ",
+          "en": "In their hearts is disease",
+          "my": "၎င်းတို့၏ စိတ်နှလုံးများထဲတွင် ရောဂါရှိနေသည်၊ သို့ဖြစ်ရာ အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့အား ရောဂါပိုတိုးစေတော်မူလိုက်သည်။  ထို့ပြင် ၎င်းတို့သည် လိမ်လည်(ပြောဆို)ခဲ့ကြသည့်အတွက်ကြောင့် ၎င်းတို့အတွက် ပြင်းပြနာကျင်စေသော အပြစ်ဒဏ်ရှိသည်။",
+          "ref": "2:10",
+          "breakdown": {
+            "subject": {
+              "word": "قُلُوبِ",
+              "en": "hearts",
+              "note": "Majrur after Fī"
+            },
+            "predicate": {
+              "word": "مَّرَضٌ",
+              "en": "disease",
+              "note": "Subject of the sentence"
+            }
+          },
+          "myanmar_insight": "Fī သည် နေရာတစ်ခုတင်မကဘဲ စိတ်နှလုံး၏ အခြေအနေကိုပါ ဖော်ပြရာတွင် သုံးထားသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Shortening the vowel of Fī when it's not necessary.",
+          "wrong": {
+            "ar": "فِ",
+            "note": "Vowel is long (Ya)"
+          },
+          "correct": {
+            "ar": "فِي",
+            "en": "in",
+            "my": "ထဲတွင်"
+          },
+          "myanmar_tip": "Ya (ီ) အသံကို ရှည်ရှည်ဆွဲဖတ်ရန် သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify Fī and its Majrur noun",
+          "instruction_my": "Fī နှင့် ၎င်းနောက်မှလိုက်သော နာမ်ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "فِي جِيدِهَا حَبْلٌ",
+              "answer_en": "Fī Jidihā (In her neck)",
+              "answer_my": "Fī Jidihā (သူမ၏ လည်ပင်းတွင်)",
+              "ref": "111:5"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "فِي سَبِيلِ اللَّهِ",
+              "answer_en": "In the way of Allah",
+              "answer_my": "အလ္လာဟ်အရှင်မြတ်၏ လမ်းစဉ်တွင်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Use Fī with the noun",
+          "instruction_my": "Fī ကို နာမ်နှင့်တွဲသုံးပါ",
+          "questions": [
+            {
+              "q": "الْكِتَاب",
+              "answer_en": "In the Book",
+              "answer_my": "ကျမ်းဂန်ထဲတွင်",
+              "ar": "فِي الْكِتَابِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "To be 'in' the way of Allah (Fī Sabilillah) is the ultimate safety. It means being enveloped by His guidance and protection.",
+        "my": "အလ္လာဟ်အရှင်မြတ်၏ လမ်းစဉ် 'ထဲမှာ' (Fī Sabilillah) ရှိနေခြင်းသည် အလုံခြုံဆုံးဖြစ်သည်။ ၎င်းသည် အလ္လာဟ်၏ ကာကွယ်မှုအောက်တွင် ရှိနေခြင်းကို ဆိုလိုသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Nasr 110:2",
+        "study_number": 1,
+        "arabic_full": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+        "en_sahih": "And you see the people entering into the religion of Allah in multitudes",
+        "my_mmsy": "(၂) ထို့ပြင် အသင်(တမန်တော်)သည် လူများအား အလ္လာဟ်အရှင်မြတ်၏ ဒီန်သာသနာတော်တွင် အသင်းလိုက်အဖွဲ့လိုက် ၀င်ရောက်နေသည်ကို တွေ့မြင်သည့်အခါ",
+        "audio_ref": {
+          "surah": 110,
+          "ayah": 2,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/110002.mp3"
+        },
+        "qurancom_url": "https://quran.com/110/2",
+        "context": {
+          "en": "This surah predicts the victory of Islam and the mass conversion of people in Makkah.",
+          "my": "ဤစူရဟ်သည် အစ္စလာမ်သာသနာ အောင်ပွဲရရှိမည့်အကြောင်းနှင့် လူအများအပြား သာသနာထဲသို့ ဝင်ရောက်လာမည့်အကြောင်းကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "فِي",
+            "translit": "fi",
+            "en": "in / into",
+            "my": "ထဲသို့",
+            "role_en": "Particle",
+            "role_my": "ဝိဘတ်",
+            "root": "N/A",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Fī is used here with a verb of movement (entering) to show the destination.",
+          "structure_my": "Fī ကို 'ဝင်ရောက်ခြင်း' ဟူသော ကြိယာနှင့်တွဲ၍ ဦးတည်ရာကို ပြသရန် သုံးထားသည်။",
+          "insight_en": "Din (Religion) is metaphorically described as a space that people can enter.",
+          "insight_my": "သာသနာကို လူအများ ဝင်ရောက်နိုင်သည့် နေရာတစ်ခုကဲ့သို့ တင်စားထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "د خ ل",
+            "concept_en": "To enter or go inside.",
+            "concept_my": "ဝင်ရောက်ခြင်း။",
+            "members": [
+              {
+                "ar": "يَدْخُلُونَ",
+                "en": "they enter",
+                "my": "သူတို့ဝင်ကြသည်",
+                "freq": 24
+              }
+            ],
+            "professors_note": "Entering involves a transition from outside to inside, a change of state."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ သာသနာတော်ထဲသို့ လူအုပ်လိုက် ဝင်ရောက်လာခြင်းသည် အလ္လာဟ်၏ အောင်နိုင်မှုကို ပြသနေသည်။ ကျွန်ုပ်တို့သည်လည်း ထိုသာသနာတော် 'ထဲမှာ' စိတ်နှလုံးပါဝင်စွာ တည်ရှိနေဖို့ လိုအပ်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The flow of 'yadkhuluna fi dini-llahi' is very melodic.",
+          "meaning_anchor": "Imagine crowds of people walking into a bright, open gate.",
+          "daily_connection": "Recited in the 110th Surah during prayer.",
+          "my": "Yadkhuluna ကို ဝင်ရောက်ခြင်းဟု မှတ်သားကာ ကျက်မှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Fī is a versatile particle showing containment. Whether describing physical places like the earth or abstract ones like faith, it anchors the noun in a specific context.",
+      "my": "Fī သည် အရာဝတ္ထုများ သို့မဟုတ် စိတ်ပိုင်းဆိုင်ရာများ တည်ရှိရာနေရာကို ပြသသည့် အရေးကြီးသော ဝိဘတ်ဖြစ်သည်။ ၎င်းကို အသုံးပြုခြင်းဖြင့် ကျမ်းတော်မြတ်ကုရ်အာန်၏ အဓိပ္ပာယ်ကို ပိုမိုလေးနက်စွာ နားလည်နိုင်ပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-109",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 109,
+    "title": {
+      "ar": "تَطْبِيقَاتُ عَنْ وَعَلَى وَفِي فِي القُرْآنِ",
+      "en": "Particles IX — 'An, 'Alā, Fī in Quranic Context",
+      "my": "ဝိဘတ် (၉) — 'An, 'Alā, Fī တို့ကို ကုရ်အာန်ထဲတွင် လေ့လာခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Parsing these three particles in Quranic ayahs",
+      "grammar_formula": "Particle + Noun (Genitive Case)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "عَمَل",
+        "translit": "amal",
+        "en": "deed / action",
+        "my": "လုပ်ဆောင်ချက် / အမလ်",
+        "quran_freq": 359,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "ع م ل",
+          "concept_en": "to work / act",
+          "concept_my": "အလုပ်လုပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Amal",
+          "image": "A person doing good deeds in a garden",
+          "cross_language": "Amal (Malay/Urdu/Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "يَعْمَلُونَ",
+            "translit": "ya'malun",
+            "en": "they work",
+            "my": "သူတို့လုပ်ဆောင်ကြသည်",
+            "freq": 100
+          }
+        ],
+        "pattern_unlock": "Amal refers specifically to intentional actions.",
+        "example": {
+          "ar": "عَمَّا يَعْمَلُونَ",
+          "en": "of what they do",
+          "my": "၎င်းတို့ လုပ်ဆောင်နေကြသည်များအကြောင်း",
+          "ref": "2:144"
+        }
+      },
+      {
+        "word": "حُكْم",
+        "translit": "hukm",
+        "en": "judgment / law",
+        "my": "စီရင်ချက် / ဥပဒေ",
+        "quran_freq": 28,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ح ك م",
+          "concept_en": "to judge / restrain",
+          "concept_my": "စီရင်ဆုံးဖြတ်သည်"
+        },
+        "memory_hook": {
+          "sound": "Hook",
+          "image": "The law hooks onto the truth",
+          "cross_language": "Hukum (Malay/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "حَكِيم",
+            "translit": "hakim",
+            "en": "wise",
+            "my": "အသိပညာရှိသောအရှင်",
+            "freq": 91
+          }
+        ],
+        "pattern_unlock": "H-K-M implies preventing something from going wrong through wisdom or law.",
+        "example": {
+          "ar": "فِي حُكْمِهِ",
+          "en": "in His judgment",
+          "my": "အရှင်မြတ်၏ စီရင်ချက်တွင်",
+          "ref": "18:26"
+        }
+      },
+      {
+        "word": "فَوْق",
+        "translit": "fawq",
+        "en": "above",
+        "my": "အထက်တွင်",
+        "quran_freq": 38,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ف و ق",
+          "concept_en": "to be above",
+          "concept_my": "အထက်၌ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fork",
+          "image": "Lifting a fork above the table",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "يُفِيقُ",
+            "translit": "yufiqu",
+            "en": "to wake up",
+            "my": "နိုးထသည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Fawq is used to show physical or rank superiority.",
+        "example": {
+          "ar": "فَوْقَ عِبَادِهِ",
+          "en": "above His servants",
+          "my": "အရှင်မြတ်၏ ကျွန်များအထက်၌",
+          "ref": "6:18"
+        }
+      },
+      {
+        "word": "تَحْت",
+        "translit": "taht",
+        "en": "under / beneath",
+        "my": "အောက်၌",
+        "quran_freq": 51,
+        "word_type": "Particle",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ت ح ت",
+          "concept_en": "under",
+          "concept_my": "အောက်ပိုင်း"
+        },
+        "memory_hook": {
+          "sound": "Tight",
+          "image": "Squeezing under a tight spot",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "تَحْتَهَا",
+            "translit": "tahtaha",
+            "en": "under it",
+            "my": "ယင်း၏အောက်၌",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Often used in the Quran to describe rivers flowing under gardens.",
+        "example": {
+          "ar": "تَحْتَهَا الْأَنْهَارُ",
+          "en": "under which rivers flow",
+          "my": "ယင်း၏အောက်တွင် မြစ်ချောင်းများ စီးဆင်း၏",
+          "ref": "2:25"
+        }
+      },
+      {
+        "word": "قُدُّوس",
+        "translit": "quddus",
+        "en": "The Holy",
+        "my": "အလွန်တရာ သန့်ရှင်းစင်ကြယ်သောအရှင်",
+        "quran_freq": 2,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فُعُّول",
+        "root": {
+          "letters": "ق د س",
+          "concept_en": "purity",
+          "concept_my": "စင်ကြယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Cud",
+          "image": "Pure white clouds in the sky",
+          "cross_language": "Kudus (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "الْمُقَدَّس",
+            "translit": "al-muqaddas",
+            "en": "the sacred",
+            "my": "မွန်မြတ်သန့်စင်သော",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "The Fu'ool pattern indicates an extreme or intensive quality.",
+        "example": {
+          "ar": "الْمَلِكِ الْقُدُّوسِ",
+          "en": "the Sovereign, the Pure",
+          "my": "အချုပ်အခြာအာဏာပိုင်ရှင်၊ သန့်ရှင်းစင်ကြယ်သောအရှင်",
+          "ref": "62:1"
+        }
+      },
+      {
+        "word": "مَلِك",
+        "translit": "malik",
+        "en": "king / sovereign",
+        "my": "ဘုရင် / အရှင်",
+        "quran_freq": 163,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِل",
+        "root": {
+          "letters": "م ل ك",
+          "concept_en": "to possess / rule",
+          "concept_my": "ပိုင်ဆိုင်ခြင်း / အုပ်စိုးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Malik",
+          "image": "A king sitting on a throne",
+          "cross_language": "Malik (Malay/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "مَالِك",
+            "translit": "maalik",
+            "en": "Owner",
+            "my": "ပိုင်ရှင်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Malik (King) has a short 'a', whereas Maalik (Owner) has a long 'a'.",
+        "example": {
+          "ar": "الْمَلِكِ الْقُدُّوسِ",
+          "en": "the Sovereign, the Pure",
+          "my": "အချုပ်အခြာအာဏာပိုင်ရှင်၊ သန့်ရှင်းစင်ကြယ်သောအရှင်",
+          "ref": "62:1"
+        }
+      },
+      {
+        "word": "شَيْء",
+        "translit": "shay",
+        "en": "thing",
+        "my": "အရာဝတ္ထု",
+        "quran_freq": 283,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ش ي أ",
+          "concept_en": "to will / thing",
+          "concept_my": "အလိုရှိခြင်း / အရာ"
+        },
+        "memory_hook": {
+          "sound": "Shy",
+          "image": "A tiny thing being shy",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "يَشَاءُ",
+            "translit": "yashau",
+            "en": "He wills",
+            "my": "သူအလိုရှိသည်",
+            "freq": 236
+          }
+        ],
+        "pattern_unlock": "A 'thing' (shay) is something that was 'willed' (shaa) by Allah.",
+        "example": {
+          "ar": "عَلَى كُلِّ شَيْءٍ",
+          "en": "over all things",
+          "my": "အရာခပ်သိမ်းအပေါ်၌",
+          "ref": "2:20"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "مُرَاجَعَةُ حُرُوفِ الْجَرِّ",
+        "en": "Review of Harf Jarr",
+        "my": "ဝိဘတ်များကို ပြန်လည်သုံးသပ်ခြင်း"
+      },
+      "formula": {
+        "display": "عَنْ vs عَلَى vs فِي",
+        "example": "عَلَى الْعَرْشِ / فِي الْقَلْبِ / عَنِ النَّبَإِ",
+        "myanmar_read": "ဝိဘတ်တစ်ခုချင်းစီရဲ့ အဓိပ္ပာယ် ကွဲပြားပုံကို သတိပြုပါ",
+        "key_insight": "Context determines whether a particle means physical position, movement, or state."
+      },
+      "explanation": {
+        "en": "In this contextual review, we see how 'An, 'Alā, and Fī function together. Remember: 'An = away from/about, 'Alā = upon/over, and Fī = in/inside. All three share the same grammatical rule: they cause the following noun to take a kasra (Majrur).",
+        "my": "'An (မှ/အကြောင်း)၊ 'Alā (အပေါ်) နှင့် Fī (ထဲမှာ) တို့သည် ကုရ်အာန်တွင် မကြာခဏ ပါရှိလေ့ရှိသည်။ ၎င်းတို့အားလုံးသည် ၎င်းတို့နောက်မှလိုက်သော နာမ်များကို Majrur အခြေအနေ (အောက်ဆွဲ kasra) ဖြစ်စေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar particles change meaning based on the noun they follow, similar to how these Arabic particles work.",
+        "my": "မြန်မာဘာသာရှိ ဝိဘတ်များ (မှ၊ ပေါ်၊ ထဲ) ကဲ့သို့ပင် အာရဗီဝိဘတ်များသည်လည်း အနက်အဓိပ္ပာယ်ကို တိကျစေသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Multiple particles can appear in one ayah, each governing its own noun.",
+          "rule_my": "အာယသ်တော်တစ်ခုတည်းတွင် ဝိဘတ်အမျိုးမျိုး ပါဝင်နိုင်ပြီး တစ်ခုချင်းစီသည် ၎င်းတို့နောက်ရှိ နာမ်ကို ပြောင်းလဲစေသည်။",
+          "example": {
+            "ar": "عَلَى قُلُوبِهِمْ وَفِي أَذَانِهِمْ",
+            "en": "upon their hearts and in their ears",
+            "my": "၎င်းတို့၏ နှလုံးသားများအပေါ်နှင့် နားများထဲတွင်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+          "en": "And Allah is not unaware of what you do",
+          "my": "အသင်(တမန်တော်)သည် မိုးကောင်းကင်ဘက်သို့ အကြိမ်ကြိမ် မျက်နှာမော်ကြည့်နေသည်ကို ငါအရှင် အမှန်စင်စစ်မြင်နေတော်မူသည်။ ထို့အတွက် ငါအရှင်သည် အသင်(တမန်တော်)နှစ်သက်သည့် ကိဗ်လဟ်ဘက်သို့ အသင်(တမန်တော်)အား အမှန်စင်စစ် လှည့်ပေးတော်မူမည်။ ထို့အတွက်ကြောင့် အသင်(တမန်တော်)သည် (ယခုအချိန်က စပြီး) အသင်၏မျက်နှာကို မတ်စ်ဂျိဒိဟရာမ်(ကအ်ဗဟ်ကျောင်းတော်)ဘက်သို့ လှည့်လိုက်ပါ။ ထို့ပြင် အသင်တို့သည် မည်သည့်အရပ်ဒေသ၌ပင်ရှိသည်ဖြစ်စေ (စွလာသ်ဝတ်ပြုသည့်အခါ) ထို မတ်စ်ဂျိဒိဟရာမ်ဘက်သို့သာ အသင်တို့၏မျက်နှာများကို လှည့်ကြပါ။ ထို့ပြင် အမှန်စင်စစ် ကျမ်းရသူများက ထိုအမိန့်တော်သည် သူတို့အား ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ထံမှ အမှန်ပင်ဖြစ်ကြောင်း မုချသိကြသည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် သူတို့ပြုမူကြသည့် ကိစ္စရပ်များကို မေ့လျော့တော်မူသောအရှင် မဟုတ်ပေ။",
+          "ref": "2:144",
+          "breakdown": {
+            "subject": {
+              "word": "اللَّهُ",
+              "en": "Allah",
+              "note": "Name of Majesty"
+            },
+            "predicate": {
+              "word": "عَمَّا",
+              "en": "about what",
+              "note": "'An + Ma"
+            }
+          },
+          "myanmar_insight": "'An ('Amma) သည် အလ္လာဟ်အရှင်မြတ် သိရှိတော်မူသော အကြောင်းအရာကို ညွှန်းဆိုသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Not noticing that 'Amma is actually 'An + Ma.",
+          "wrong": {
+            "ar": "عن ما",
+            "note": "Often written as one word 'Amma"
+          },
+          "correct": {
+            "ar": "عَمَّا",
+            "en": "about what",
+            "my": "ဘာအကြောင်းလဲ"
+          },
+          "myanmar_tip": "Amma ကို တွေ့လျှင် 'An ပါဝင်နေသည်ကို သိထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Circle the particles in the ayah",
+          "instruction_my": "အာယသ်တော်ထဲမှ ဝိဘတ်များကို ဝိုင်းပြပါ",
+          "questions": [
+            {
+              "q": "فِي السَّمَاءِ وَفِي الْأَرْضِ",
+              "answer_en": "Fī, Fī",
+              "answer_my": "Fī, Fī",
+              "ref": "2:164"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate to Myanmar",
+          "instruction_my": "မြန်မာဘာသာသို့ ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "عَلَى الْعَرْشِ اسْتَوَى",
+              "answer_en": "Upon the Throne He established Himself",
+              "answer_my": "ပလ္လင်တော်ထက်တွင် အရှင်မြတ် စံမြန်းတော်မူ၏"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Translate 'In the heart'",
+          "instruction_my": "Translate 'In the heart'",
+          "questions": [
+            {
+              "q": "In the heart",
+              "answer_en": "Fī l-qalb",
+              "answer_my": "နှလုံးသားထဲတွင်",
+              "ar": "فِي الْقَلْبِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Grammar helps us see that Allah is over all (Alā), His knowledge is about all (An), and His mercy can be found in all (Fī).",
+        "my": "အာရဗီသဒ္ဒါသည် အလ္လာဟ်အရှင်မြတ်၏ အရာခပ်သိမ်းအပေါ် (Alā) အုပ်စိုးမှု၊ အရာခပ်သိမ်းအကြောင်း (An) သိရှိမှုနှင့် အရာခပ်သိမ်းထဲရှိ (Fī) ကရုဏာတော်ကို မြင်နိုင်ရန် ကူညီပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:7",
+        "study_number": 1,
+        "arabic_full": "خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ",
+        "en_sahih": "Allah has set a seal upon their hearts and upon their hearing, and over their vision is a veil.",
+        "my_mmsy": "အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့၏ စိတ်နှလုံးများအပေါ်နှင့် ၎င်းတို့၏အကြားအာရုံများအပေါ်တွင် တံဆိပ်ခပ်နှိပ်လိုက်သည့်အပြင် ၎င်းတို့၏အမြင်အာရုံများအပေါ်တွင်လည်း အကာအကွယ်ရှိနေပြီဖြစ်သည်။ ထို့ပြင် ၎င်းတို့အတွက် ကြီးလေးသောအပြစ်ဒဏ်လည်းရှိသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 7,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002007.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/7",
+        "context": {
+          "en": "This ayah describes the state of the disbelievers whose persistent rejection led to their hearts being sealed.",
+          "my": "အမှန်တရားကို အကြိမ်ကြိမ် ငြင်းပယ်ခဲ့သောကြောင့် နှလုံးသားများ ပိတ်ပင်ခံလိုက်ရသော မယုံကြည်သူများအကြောင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "عَلَىٰ",
+            "translit": "ala",
+            "en": "upon",
+            "my": "အပေါ်၌",
+            "role_en": "Particle",
+            "role_my": "ဝိဘတ်",
+            "root": "N/A",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The triple use of 'Alā shows the comprehensiveness of the seal on their senses.",
+          "structure_my": "'Alā ကို သုံးကြိမ်တိုင်တိုင် သုံးထားခြင်းမှာ ၎င်းတို့၏ အာရုံများအားလုံး ပိတ်ပင်ခံရခြင်းကို ပြသသည်။",
+          "insight_en": "'Alā here signifies a heavy cover or burden placed ON the heart.",
+          "insight_my": "'Alā သည် နှလုံးသားအပေါ် လေးလံသော အဖုံးတစ်ခုကဲ့သို့ သက်ရောက်မှုကို ဆိုလိုသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "خ ت م",
+            "concept_en": "To seal, close, or finish something so nothing can enter or leave.",
+            "concept_my": "တစ်စုံတစ်ခုကို ပိတ်ဆို့ခြင်း သို့မဟုတ် အဆုံးသတ်ခြင်း။",
+            "members": [
+              {
+                "ar": "خَاتَم",
+                "en": "seal/ring",
+                "my": "တံဆိပ် / လက်စွပ်",
+                "freq": 0
+              }
+            ],
+            "professors_note": "A seal (khatm) marks the finality of a container's content."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အမှန်တရားကို မြင်နိုင်ကြားနိုင်သော အာရုံများ ရှိနေပါလျက် နှလုံးသားတွင် တံဆိပ်ခတ်နှိပ်ခံရခြင်းသည် အလွန်တရာ ကြောက်စရာကောင်းပါသည်။ 'Alā ဟူသော ဝိဘတ်က ထိုတံဆိပ်သည် ၎င်းတို့အပေါ် ဖိစီးလျက် ရှိနေကြောင်း ပြသနေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The repetition of 'Alā qulubihim... wa 'alā sam'ihim' has a parallel structure.",
+          "meaning_anchor": "Imagine a lock and seal on a door.",
+          "daily_connection": "Reminder to keep our hearts open to guidance.",
+          "my": "Alā qulubihim ဟု စတင်၍ အသံအနိမ့်အမြင့်ဖြင့် ကျက်မှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We contextualized 'An, 'Alā, and Fī within longer ayahs. Recognizing these particles is the first step toward parsing the Quranic sentences.",
+      "my": "'An၊ 'Alā နှင့် Fī တို့ကို အာယသ်တော်များတွင် တွဲဖက်လေ့လာခဲ့သည်။ ဤဝိဘတ်များကို ခွဲခြားသိမြင်ခြင်းသည် ကုရ်အာန်၏ ဝါကျတည်ဆောက်ပုံကို နားလည်ရန် ပထမခြေလှမ်းဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L3-110",
+    "phase": 3,
+    "phase_name": "Syntax",
+    "lesson_number": 110,
+    "title": {
+      "ar": "مُرَاجَعَةُ حُرُوفِ الْجَرِّ: عَنْ، عَلَى، فِي",
+      "en": "Particles X — Review: 'An, 'Alā, Fī Contrast Drill",
+      "my": "ဝိဘတ် (၁၀) — ပြန်လည်သုံးသပ်ခြင်း - 'An, 'Alā, Fī နှိုင်းယှဉ်ချက်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Three-way contrast drill of 'An/'Alā/Fī",
+      "grammar_formula": "Review: Movement vs Position vs Containment"
+    },
+    "section_1_vocab": [
+      {
+        "word": "عِلْم",
+        "translit": "ilm",
+        "en": "knowledge",
+        "my": "ပညာ",
+        "quran_freq": 854,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "to know",
+          "concept_my": "သိရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ilm",
+          "image": "A professor holding a book",
+          "cross_language": "Ilmu (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "عَلِيم",
+            "translit": "alim",
+            "en": "All-Knowing",
+            "my": "အရာခပ်သိမ်းသိသောအရှင်",
+            "freq": 162
+          }
+        ],
+        "pattern_unlock": "The root of knowledge is the most recurring theme in the Quran.",
+        "example": {
+          "ar": "فِي عِلْمِهِ",
+          "en": "in His knowledge",
+          "my": "အရှင်မြတ်၏ အသိပညာတော်တွင်",
+          "ref": "2:255"
+        }
+      },
+      {
+        "word": "حَقّ",
+        "translit": "haqq",
+        "en": "duty / truth",
+        "my": "တာဝန် / အမှန်တရား",
+        "quran_freq": 287,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ح ق ق",
+          "concept_en": "truth",
+          "concept_my": "အမှန်တရား"
+        },
+        "memory_hook": {
+          "sound": "Haq",
+          "image": "A judge making a fair decision",
+          "cross_language": "Hak (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "حَقِيقَة",
+            "translit": "haqiqah",
+            "en": "reality",
+            "my": "အရှိတရား",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Haqq is both a Name of Allah and a description of the Quran.",
+        "example": {
+          "ar": "حَقًّا عَلَيْنَا",
+          "en": "a duty upon us",
+          "my": "ကျွန်ုပ်တို့အပေါ် တာဝန်တစ်ခု",
+          "ref": "30:47"
+        }
+      },
+      {
+        "word": "قَلْب",
+        "translit": "qalb",
+        "en": "heart",
+        "my": "နှလုံးသား",
+        "quran_freq": 168,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ق ل ب",
+          "concept_en": "heart",
+          "concept_my": "နှလုံးသား"
+        },
+        "memory_hook": {
+          "sound": "Qalb",
+          "image": "A heart glowing with light",
+          "cross_language": "Kalbu (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "تَقَلُّب",
+            "translit": "taqallub",
+            "en": "turning about",
+            "my": "လှည့်ပတ်ခြင်း",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Fī l-qalb describes what is hidden inside.",
+        "example": {
+          "ar": "فِي قَلْبِهِ",
+          "en": "in his heart",
+          "my": "သူ့နှလုံးသားထဲတွင်",
+          "ref": "2:204"
+        }
+      },
+      {
+        "word": "عَرْش",
+        "translit": "arsh",
+        "en": "throne",
+        "my": "ပလ္လင်တော်",
+        "quran_freq": 26,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ع r ش",
+          "concept_en": "throne",
+          "concept_my": "ပလ္လင်"
+        },
+        "memory_hook": {
+          "sound": "Arch",
+          "image": "A royal throne under an arch",
+          "cross_language": "Arasy (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "مَعْرُوشَات",
+            "translit": "ma'rushat",
+            "en": "trellises",
+            "my": "စင်များ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The Arsh represents the highest point of creation.",
+        "example": {
+          "ar": "عَلَى الْعَرْشِ",
+          "en": "upon the Throne",
+          "my": "ပလ္လင်တော်ထက်တွင်",
+          "ref": "7:54"
+        }
+      },
+      {
+        "word": "نَبَأ",
+        "translit": "naba",
+        "en": "news",
+        "my": "သတင်း",
+        "quran_freq": 28,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَل",
+        "root": {
+          "letters": "ن ب أ",
+          "concept_en": "news",
+          "concept_my": "သတင်း"
+        },
+        "memory_hook": {
+          "sound": "Naba",
+          "image": "An angel bringing news",
+          "cross_language": "Nabi (Prophet)"
+        },
+        "word_family": [
+          {
+            "ar": "يُنَبِّئُكُم",
+            "translit": "yunabbi'ukum",
+            "en": "He informs you",
+            "my": "သူသင်တို့ကို အသိပေးမည်",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "Always used for important, transformative information.",
+        "example": {
+          "ar": "عَنِ النَّبَإِ",
+          "en": "about the news",
+          "my": "သတင်းအကြောင်း",
+          "ref": "78:2"
+        }
+      },
+      {
+        "word": "نَفْس",
+        "translit": "nafs",
+        "en": "self",
+        "my": "ကိုယ်တိုင်",
+        "quran_freq": 298,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ن ف س",
+          "concept_en": "soul",
+          "concept_my": "ဝိညာဉ်"
+        },
+        "memory_hook": {
+          "sound": "Nafs",
+          "image": "Looking in a mirror at one's self",
+          "cross_language": "Nafsu (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "تَنَفَّسَ",
+            "translit": "tanaffasa",
+            "en": "breathed",
+            "my": "အသက်ရှူခဲ့သည်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Refers to the internal identity of a person.",
+        "example": {
+          "ar": "فِي نَفْسِكَ",
+          "en": "within yourself",
+          "my": "သင့်ကိုယ်တိုင်ထဲတွင်",
+          "ref": "7:205"
+        }
+      },
+      {
+        "word": "سَبِيل",
+        "translit": "sabil",
+        "en": "way",
+        "my": "လမ်းစဉ်",
+        "quran_freq": 176,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "س ب ل",
+          "concept_en": "path",
+          "concept_my": "လမ်း"
+        },
+        "memory_hook": {
+          "sound": "Sabil",
+          "image": "A long road ahead",
+          "cross_language": "Sabilillah"
+        },
+        "word_family": [
+          {
+            "ar": "أَسْبِلَة",
+            "translit": "asbilah",
+            "en": "paths",
+            "my": "လမ်းများ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Fī Sabilillah means inside the path belonging to Allah.",
+        "example": {
+          "ar": "فِي سَبِيلِي",
+          "en": "in My way",
+          "my": "ငါအရှင်မြတ်၏ လမ်းစဉ်တွင်",
+          "ref": "60:1"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "مُقَارَنَةُ حُرُوفِ الْجَرِّ",
+        "en": "Comparison of Harf Jarr",
+        "my": "ဝိဘတ်များကို နှိုင်းယှဉ်ခြင်း"
+      },
+      "formula": {
+        "display": "عَنْ (About) vs عَلَى (Upon) vs فِي (In)",
+        "example": "عَنِ الدِّينِ / عَلَى الدِّينِ / فِي الدِّينِ",
+        "myanmar_read": "ဝိဘတ်တစ်ခုချင်းစီက နာမ်တစ်ခုရဲ့ အနေအထားကို ဘယ်လိုပြောင်းလဲစေလဲဆိုတာ ကြည့်ပါ",
+        "key_insight": "Particles are the GPS of Arabic; they tell you exactly where you are in relation to the noun."
+      },
+      "explanation": {
+        "en": "This lesson consolidates our understanding of 'An, 'Alā, and Fī. 'An is about origin/topic, 'Alā is about position/duty, and Fī is about containment/time. Mastering the contrast between these three is vital for fluid Quranic reading and accurate translation.",
+        "my": "'An၊ 'Alā နှင့် Fī တို့ကို ခြုံငုံသုံးသပ်ခြင်း ဖြစ်သည်။ 'An သည် အကြောင်းအရာ၊ 'Alā သည် အပေါ်/တာဝန်၊ Fī သည် အတွင်း/ထဲမှာ ကို ဆိုလိုသည်။ ဤသုံးမျိုးကို ကွဲပြားစွာ သိရှိခြင်းသည် ကုရ်အာန်ကို မှန်ကန်စွာ ဘာသာပြန်ရန် အခြေခံဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Just as 'မှ', 'ပေါ်', and 'ထဲ' are not interchangeable in Myanmar, these Arabic particles have specific boundaries.",
+        "my": "မြန်မာဘာသာတွင် 'မှ'၊ 'ပေါ်'၊ 'ထဲ' တို့ကို လဲလှယ်သုံး၍မရသကဲ့သို့ အာရဗီတွင်လည်း တိကျစွာ သုံးရပါမည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Use 'An for narration, 'Alā for authority, and Fī for immersion.",
+          "rule_my": "ဆင့်ကဲပြောပြချက်အတွက် 'An၊ အုပ်စိုးမှုအတွက် 'Alā နှင့် စိမ့်ဝင်နေမှုအတွက် Fī ကို သုံးပါ။",
+          "example": {
+            "ar": "عَلَى هُدًى (upon guidance)",
+            "en": "Firmly on the path",
+            "my": "လမ်းညွှန်မှုအပေါ် ခိုင်မာစွာ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ",
+          "en": "You will surely embark upon state after state.",
+          "my": "(၁၉) အမှန်ပင် အသင်တို့သည် တစ်ဆင့်မှတစ်ဆင့်သို့ တက်ကြရမည်ဖြစ်သည်။",
+          "ref": "84:19",
+          "breakdown": {
+            "subject": {
+              "word": "طَبَقٍ",
+              "en": "stage",
+              "note": "Majrur after 'An"
+            },
+            "predicate": {
+              "word": "عَنْ",
+              "en": "from/after",
+              "note": "Showing transition"
+            }
+          },
+          "myanmar_insight": "'An ('An) သည် အဆင့်တစ်ခုမှ တစ်ခုသို့ ကူးပြောင်းခြင်းကို ပြသသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using 'Alā when you mean Fī.",
+          "wrong": {
+            "ar": "عَلَى الْبَيْتِ",
+            "note": "Means 'on top of the house' instead of 'in'"
+          },
+          "correct": {
+            "ar": "فِي الْبَيْتِ",
+            "en": "In the house",
+            "my": "အိမ်ထဲတွင်"
+          },
+          "myanmar_tip": "အထဲမှာလား၊ အပေါ်မှာလား ဆိုတာကို သေချာစဉ်းစားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Choose the correct particle for the context",
+          "instruction_my": "မှန်ကန်သော ဝိဘတ်ကို ရွေးချယ်ပါ",
+          "questions": [
+            {
+              "q": "[...] السَّمَاوَاتِ وَالْأَرْضِ",
+              "answer_en": "fī (in)",
+              "answer_my": "fī (ထဲမှာ)",
+              "ref": "2:164"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into Myanmar",
+          "instruction_my": "မြန်မာဘာသာသို့ ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+              "answer_en": "Over all things Powerful",
+              "answer_my": "အရာခပ်သိမ်းအပေါ် တတ်စွမ်းနိုင်တော်မူသောအရှင်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Write 'In the news' vs 'About the news'",
+          "instruction_my": "'သတင်းထဲမှာ' နှင့် 'သတင်းအကြောင်း' ကို ရေးပါ",
+          "questions": [
+            {
+              "q": "In the news",
+              "answer_en": "Fī l-naba",
+              "answer_my": "သတင်းထဲမှာ",
+              "ar": "فِي النَّبَإِ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Our life is a journey through these particles: we move AWAY FROM sin (An), stand ON truth (Alā), and live IN Allah's mercy (Fī).",
+        "my": "ကျွန်ုပ်တို့၏ ဘဝသည် ဤဝိဘတ်များအတိုင်း ဖြစ်သည်။ အပြစ်များမှ 'ခွာ' (An)၊ အမှန်တရား 'ပေါ်' ရပ်တည် (Alā) ပြီး အလ္လာဟ်၏ ကရုဏာတော် 'ထဲမှာ' (Fī) နေထိုင်ရမည်ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Ash-Shura 42:51",
+        "study_number": 1,
+        "arabic_full": "وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ اللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَاءِ حِجَابٍ",
+        "en_sahih": "And it is not for any human being that Allah should speak to him except by revelation or from behind a partition",
+        "my_mmsy": "42|51မည်သည့်လူသားနှင့်မှ အလ္လာဟ်အရှင်မြတ်သည် ၀ဟီအမိန့်တော်အရိပ်အခြေပြ ပို့ချတော်မူသည်မှလွဲ၍၊ သို့မဟုတ် အကွယ်နောက်မှလွဲ၍ စကားပြောတော်မမူပေ။ သို့မဟုတ်အရှင်မြတ်သည် စေတမန်တစ်ပါးပါးကို စေလွှတ်တော်မူပြီး ထိုစေတမန်က အရှင်မြတ်၏ အမိန့်တော်နှင့် အရှင်မြတ်အလိုရှိတော်မူသော ၀ဟီထုတ်ပြန်ချက်ကို ပေးပို့သည်။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အလွန်မြင့်မားတော်မူသောအရှင်၊ ပညာဉာဏ်အမြော်အမြင်နှင့် အလွန်ပြည့်စုံတော်မူသောအရှင်ဖြစ်တော်မူသည်။  ၁၇",
+        "audio_ref": {
+          "surah": 42,
+          "ayah": 51,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/042051.mp3"
+        },
+        "qurancom_url": "https://quran.com/42/51",
+        "context": {
+          "en": "This ayah explains the modes of communication between Allah and mankind.",
+          "my": "အလ္လာဟ်အရှင်မြတ်နှင့် လူသားတို့အကြား ဆက်သွယ်မှု ပုံစံများကို ရှင်းပြထားခြင်း ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "مِنْ",
+            "translit": "min",
+            "en": "from",
+            "my": "မှ",
+            "role_en": "Particle",
+            "role_my": "ဝိဘတ်",
+            "root": "N/A",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of particles shows the distance or mode of the speech.",
+          "structure_my": "ဝိဘတ်များ အသုံးပြုခြင်းသည် စကားပြောဆိုမှု၏ အကွာအဝေး သို့မဟုတ် ပုံစံကို ပြသသည်။",
+          "insight_en": "Even when speaking directly (like to Musa AS), there is a 'hijab' (partition).",
+          "insight_my": "တိုက်ရိုက်စကားပြောဆိုသည့်တိုင် (မူစာနဗီကဲ့သို့) အကာအကွယ် (hijab) တစ်ခု ရှိနေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ح ج ب",
+            "concept_en": "To prevent, cover, or shield something from view.",
+            "concept_my": "အကာအကွယ်ပြုခြင်း သို့မဟုတ် ဖုံးကွယ်ခြင်း။",
+            "members": [
+              {
+                "ar": "حِجَاب",
+                "en": "partition/veil",
+                "my": "အကာအကွယ် / ဟီဂျပ်",
+                "freq": 7
+              }
+            ],
+            "professors_note": "A Hijab is not just cloth; it is any barrier that separates two things."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့နှင့် စကားပြောဆိုရာတွင် မွန်မြတ်လှသော နည်းလမ်းများကို သုံးတော်မူသည်။ ကျွန်ုပ်တို့သည် အရှင်မြတ်၏ စကားတော်များကို ကုရ်အာန် 'ထဲမှ' (Fī) တစ်ဆင့် ရရှိနေကြပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The sequence 'wahyan aw min wara'i hijab' has a mysterious and grand flow.",
+          "meaning_anchor": "Imagine a light speaking from behind a beautiful curtain.",
+          "daily_connection": "Reflect on how we receive guidance today.",
+          "my": "ဝဟ်ယသ် (ဗျာဒိတ်တော်) ဆိုသည့် စကားလုံးကို အာရုံပြု၍ ကျက်မှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We concluded the study of basic Harf Jarr. By contrasting 'An, 'Alā, and Fī, we have unlocked a massive portion of Quranic sentence structure.",
+      "my": "အခြေခံ Harf Jarr (ဝိဘတ်) များ လေ့လာမှုကို အဆုံးသတ်ခဲ့သည်။ 'An၊ 'Alā နှင့် Fī တို့ကို နှိုင်းယှဉ်လေ့လာခြင်းဖြင့် ကုရ်အာန်၏ ဝါကျတည်ဆောက်ပုံ အတော်များများကို နားလည်သွားပြီ ဖြစ်သည်။"
+    }
+  }
+]

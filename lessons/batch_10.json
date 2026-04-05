@@ -1,0 +1,1857 @@
+[
+  {
+    "lesson_id": "L1-046",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 46,
+    "title": {
+      "ar": "الصِّفَةُ وَالْمَوْصُوفُ (١) — الْمُطَابَقَةُ",
+      "en": "Adjectives I — The Sifah Must Match Its Mawsuf",
+      "my": "နာမဝိသေသန (၁) — နာမ်နှင့် ကိုက်ညီမှု"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Sifah agrees with Mawsuf in gender, number, definiteness, case",
+      "grammar_formula": "Mawsuf (Noun) + Sifah (Adjective) = Matching Pair"
+    },
+    "section_1_vocab": [
+      {
+        "word": "عَظِيمٌ",
+        "translit": "azim",
+        "en": "Great",
+        "my": "ကြီးကျယ်သော",
+        "quran_freq": 107,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ع ظ م",
+          "concept_en": "greatness / enormity",
+          "concept_my": "ကြီးကျယ်ခမ်းနားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Awesome",
+          "image": "A massive mountain that looks 'Awesome' / Azim",
+          "cross_language": "Azamat (Urdu/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "عَظَمَة",
+            "translit": "azamah",
+            "en": "greatness",
+            "my": "ကြီးမြတ်ခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The Fa'eel pattern often describes permanent characteristics or attributes.",
+        "example": {
+          "ar": "عَذَابٌ عَظِيمٌ",
+          "en": "a great punishment",
+          "my": "ကြီးကျယ်သော ပြစ်ဒဏ်",
+          "ref": "2:7"
+        }
+      },
+      {
+        "word": "حَكِيمٌ",
+        "translit": "hakim",
+        "en": "Wise",
+        "my": "ပညာရှိသော / အမြော်အမြင်ရှိသော",
+        "quran_freq": 97,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ح ك م",
+          "concept_en": "wisdom / judgment",
+          "concept_my": "ပညာရှိခြင်း / တရားစီရင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hakim",
+          "image": "A wise judge presiding over a court",
+          "cross_language": "Hikmah (Myanmar Muslim context)"
+        },
+        "word_family": [
+          {
+            "ar": "حُكْم",
+            "translit": "hukm",
+            "en": "judgment",
+            "my": "စီရင်ချက်",
+            "freq": 80
+          }
+        ],
+        "pattern_unlock": "Words from this root relate to wisdom, ruling, and precision.",
+        "example": {
+          "ar": "عَزِيزٌ حَكِيمٌ",
+          "en": "Mighty and Wise",
+          "my": "အနန္တတန်ခိုးရှင် အမြော်အမြင်ရှိတော်မူသော အရှင်",
+          "ref": "2:129"
+        }
+      },
+      {
+        "word": "رَحِيمٌ",
+        "translit": "rahim",
+        "en": "Merciful",
+        "my": "သနားကြင်နာတော်မူသော",
+        "quran_freq": 115,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ر ح م",
+          "concept_en": "mercy / womb",
+          "concept_my": "ကရုဏာတရား / သားအိမ်"
+        },
+        "memory_hook": {
+          "sound": "Rain",
+          "image": "Mercy falling like rain from the clouds",
+          "cross_language": "Rahmet (Malay/Turkish)"
+        },
+        "word_family": [
+          {
+            "ar": "رَحْمَة",
+            "translit": "rahmah",
+            "en": "mercy",
+            "my": "ကရုဏာ",
+            "freq": 79
+          }
+        ],
+        "pattern_unlock": "This root implies a protective and nurturing type of compassion.",
+        "example": {
+          "ar": "غَفُورٌ رَحِيمٌ",
+          "en": "Forgiving and Merciful",
+          "my": "အလွန်တရာ ခွင့်လွှတ်တော်မူသော အရှင်၊ အလွန်တရာ သနားကြင်နာတော်မူသော အရှင်",
+          "ref": "2:173"
+        }
+      },
+      {
+        "word": "عَلِيمٌ",
+        "translit": "alim",
+        "en": "Knowing",
+        "my": "အလုံးစုံကို သိရှိတော်မူသော",
+        "quran_freq": 157,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "knowledge",
+          "concept_my": "အသိပညာ"
+        },
+        "memory_hook": {
+          "sound": "Alarm",
+          "image": "An alarm goes off when a secret is known",
+          "cross_language": "Alim (Scholar in Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "عِلْم",
+            "translit": "ilm",
+            "en": "knowledge",
+            "my": "ပညာ",
+            "freq": 105
+          }
+        ],
+        "pattern_unlock": "This describes one who possesses deep, pervasive knowledge.",
+        "example": {
+          "ar": "وَاسِعٌ عَلِيمٌ",
+          "en": "All-Encompassing and Knowing",
+          "my": "ကျယ်ပြန့်တော်မူသော အရှင်၊ အလုံးစုံကို သိတော်မူသော အရှင်",
+          "ref": "2:115"
+        }
+      },
+      {
+        "word": "عَزِيزٌ",
+        "translit": "aziz",
+        "en": "Mighty",
+        "my": "တန်ခိုးအာနုဘော်ကြီးမားသော",
+        "quran_freq": 99,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ع ز ز",
+          "concept_en": "might / honor",
+          "concept_my": "ဂုဏ်ဒြပ် / အစွမ်းသတ္တိ"
+        },
+        "memory_hook": {
+          "sound": "As is",
+          "image": "A king standing firm 'as is' - unshakeable and mighty",
+          "cross_language": "Izzat (Honor in Urdu/Myanmar Muslim)"
+        },
+        "word_family": [
+          {
+            "ar": "عِزَّة",
+            "translit": "izzah",
+            "en": "might/honor",
+            "my": "ဂုဏ်သိက္ခာ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Refers to strength and being rare or precious.",
+        "example": {
+          "ar": "الْعَزِيزُ الْحَكِيمُ",
+          "en": "the Mighty, the Wise",
+          "my": "တန်ခိုးအာနုဘော် ကြီးမားတော်မူသော အရှင်၊ အမြော်အမြင်ရှိတော်မူသော အရှင်",
+          "ref": "2:129"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الصِّفَةُ وَالْمَوْصُوفُ",
+        "en": "The Adjective and the Described",
+        "my": "နာမဝိသေသနနှင့် နာမ်"
+      },
+      "formula": {
+        "display": "N (Mawsuf) + Adj (Sifah) = [Matching Pair]",
+        "example": "كِتَابٌ عَظِيمٌ",
+        "myanmar_read": "မြန်မာလိုမှာတော့ နာမဝိသေသနက ရှေ့ကလာပေမယ့် အာရဗီမှာ နောက်ကလိုက်ရပါတယ် (ဥပမာ- ကြီးကျယ်သော စာအုပ်)",
+        "key_insight": "If the noun has 'Al-', the adjective must have 'Al-'. If the noun is feminine, the adjective must be feminine."
+      },
+      "explanation": {
+        "en": "In Arabic, the adjective (Sifah) comes after the noun it describes (Mawsuf). The Sifah must copy the Mawsuf in four ways: gender (male/female), number (singular/plural), definiteness (the/a), and case (vowel endings). It follows the noun like a shadow.",
+        "my": "အာရဗီဘာသာစကားတွင် နာမဝိသေသန (Sifah) သည် ၎င်းဖော်ပြသောနာမ် (Mawsuf) ၏ နောက်မှ လိုက်ပါသည်။ ၎င်းတို့သည် အချက် ၄ ချက်တွင် တူညီရမည် - ကျား/မ ခွဲခြားမှု၊ အနည်း/အများ၊ သတ်မှတ်နာမ်/မသတ်မှတ်နာမ် နှင့် ဝိဘတ်အဆုံးသတ်များ ဖြစ်ပါသည်။ ၎င်းသည် နာမ်၏ အရိပ်ပမာ ထပ်ကြပ်မကွာ လိုက်ရပါသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, the adjective precedes the noun (e.g., 'good man'). In Arabic, the order is reversed (e.g., 'man good').",
+        "my": "မြန်မာဘာသာတွင် 'ကောင်းသောလူ' ဟု နာမဝိသေသနကို ရှေ့ကထားသော်လည်း အာရဗီတွင် 'လူ ကောင်းသော' ဟု နောက်မှထား၍ သုံးနှုန်းရပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Gender match: Feminine nouns take feminine adjectives (adding Ta-Marbuta).",
+          "rule_my": "ကျား/မ တူညီရမည် - မနာမ်အတွက် မ-နာမဝိသေသန (Ta-Marbuta ပါသော) ကို သုံးရမည်။",
+          "example": {
+            "ar": "آيَةٌ بَيِّنَةٌ",
+            "en": "a clear sign",
+            "my": "ထင်ရှားသော လက္ခဏာတော်တစ်ခု"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "فَوْزٌ عَظِيمٌ",
+          "en": "a great success",
+          "my": "၎င်းသည် အလ္လာဟ်အရှင်မြတ်၏ (အမွေဆက်ခံမှုဆိုင်ရာ)စည်းမျဉ်း ဥပဒေပညတ်ချက်များဖြစ်သည်။ ထို့ပြင် မည်သူမဆို အလ္လာဟ်အရှင်မြတ်နှင့် အရှင့်ရစူလ်၏ အမိန့်တော်များကို လိုက်နာမည်ဆိုလျှင် အရှင်မြတ်သည် ထိုသူကို အကြင်ဥယျာဉ်များထဲသို့ ဝင်ရောက်စေတော်မူမည်။ ထိုဥယျာဉ်များအောက်မှ စမ်းရေချောင်းများ စီးတွေလျက်ရှိသည်။ သူတို့သည် ထိုဥယျာဉ်များထဲတွင် အမြဲနေထိုင်ကြရမည်။ ၎င်းပြင် ထိုအရာသည် ကြီးကျယ်သော အောင်မြင်မှုဖြစ်သည်။",
+          "ref": "4:13",
+          "breakdown": {
+            "subject": {
+              "word": "فَوْزٌ",
+              "en": "success",
+              "note": "Mawsuf (Indefinite)"
+            },
+            "predicate": {
+              "word": "عَظِيمٌ",
+              "en": "great",
+              "note": "Sifah (Matches Indefinite/Masculine)"
+            }
+          },
+          "myanmar_insight": "Fawz (အောင်မြင်မှု) သည် အာရဗီတွင် အဖိုနာမ်ဖြစ်သဖြင့် Azim တွင် Ta-Marbuta မပါပါ။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Putting the adjective before the noun like English or Burmese.",
+          "wrong": {
+            "ar": "عَظِيمٌ كِتَابٌ",
+            "note": "Wrong order"
+          },
+          "correct": {
+            "ar": "كِتَابٌ عَظِيمٌ",
+            "en": "a great book",
+            "my": "ကြီးကျယ်သော စာအုပ်"
+          },
+          "myanmar_tip": "နာမ်ကို အရင်ပြောပြီးမှ အရည်အချင်းကို ပြောရမည်ဟု မှတ်သားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Sifah (adjective) in the following phrase",
+          "instruction_my": "အောက်ပါစာသားတွင် နာမဝိသေသန (Sifah) ကို ရှာပါ",
+          "questions": [
+            {
+              "q": "نَبَأٌ عَظِيمٌ",
+              "answer_en": "azim",
+              "answer_my": "عَظِيمٌ",
+              "ref": "78:2"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ဆိုပါ",
+          "questions": [
+            {
+              "q": "رَبٌّ رَحِيمٌ",
+              "answer_en": "a merciful Lord",
+              "answer_my": "သနားကြင်နာတော်မူသော အရှင်တစ်ပါး"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Match the adjective 'Azim' to the feminine noun 'Fitnah'",
+          "instruction_my": "'Fitnah' (မနာမ်) အတွက် 'Azim' ကို ပြောင်းလဲပေးပါ",
+          "questions": [
+            {
+              "q": "فِتْنَةٌ",
+              "answer_en": "fitnah azimah",
+              "answer_my": "ကြီးကျယ်သော စမ်းသပ်မှု",
+              "ar": "فِتْنَةٌ عَظِيمَةٌ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "This grammatical unity reminds us that truth is consistent. Just as the adjective must follow the noun perfectly, our actions should perfectly follow our faith.",
+        "my": "ဤသဒ္ဒါဆိုင်ရာ တစ်သားတည်းဖြစ်မှုက အမှန်တရား၏ တည်ကြည်မှုကို ဖော်ပြသည်။ နာမဝိသေသနသည် နာမ်နောက်သို့ တိတိကျကျ လိုက်ရသကဲ့သို့ ကျွန်ုပ်တို့၏ လုပ်ရပ်များသည်လည်း ကျွန်ုပ်တို့၏ ယုံကြည်ချက်နောက်သို့ တိတိကျကျ လိုက်ရပါမည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:7",
+        "study_number": 1,
+        "arabic_full": "خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+        "en_sahih": "Allah has set a seal upon their hearts and upon their hearing, and over their vision is a veil. And for them is a great punishment.",
+        "my_mmsy": "အလ္လာဟ်အရှင်မြတ်သည် ၎င်းတို့၏ စိတ်နှလုံးများအပေါ်နှင့် ၎င်းတို့၏အကြားအာရုံများအပေါ်တွင် တံဆိပ်ခပ်နှိပ်လိုက်သည့်အပြင် ၎င်းတို့၏အမြင်အာရုံများအပေါ်တွင်လည်း အကာအကွယ်ရှိနေပြီဖြစ်သည်။ ထို့ပြင် ၎င်းတို့အတွက် ကြီးလေးသောအပြစ်ဒဏ်လည်းရှိသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 7,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002007.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/7",
+        "context": {
+          "en": "This ayah describes the consequence of those who persist in disbelief, whose hearts become hardened to the truth.",
+          "my": "ဤအာယသ်တော်သည် သမ္မာတရားကို ငြင်းပယ်လွန်းသူများ၏ နှလုံးသားများ ခက်ထန်သွားပုံနှင့် ၎င်းတို့၏ ရလဒ်ကို ဖော်ပြခြင်းဖြစ်ပါသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "عَذَابٌ",
+            "translit": "adhabun",
+            "en": "punishment",
+            "my": "ပြစ်ဒဏ်",
+            "role_en": "Subject / Mawsuf",
+            "role_my": "ကတ္တား",
+            "root": "ع ذ ب",
+            "freq": 322
+          },
+          {
+            "ar": "عَظِيمٌ",
+            "translit": "azimun",
+            "en": "great",
+            "my": "ကြီးကျယ်သော",
+            "role_en": "Sifah",
+            "role_my": "နာမဝိသေသန",
+            "root": "ع ظ م",
+            "freq": 107
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Adhabun (Noun) + Azimun (Adjective). Both are indefinite and end with Tanween (double damma).",
+          "structure_my": "Adhabun (နာမ်) + Azimun (နာမဝိသေသန)။ နှစ်ခုလုံးသည် မသတ်မှတ်နာမ်များဖြစ်ပြီး Tanween ဖြင့် ဆုံးပါသည်။",
+          "insight_en": "The use of 'Azim' (great) emphasizes the magnitude of the punishment because of the greatness of the truth they rejected.",
+          "insight_my": "'Azim' ကို သုံးထားခြင်းမှာ ၎င်းတို့ ငြင်းပယ်ခဲ့သော သမ္မာတရားသည် ကြီးမြတ်လွန်းသဖြင့် ရရှိမည့်ပြစ်ဒဏ်မှာလည်း ကြီးကျယ်မည်ဖြစ်ကြောင်း ပြသခြင်းဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ظ م",
+            "concept_en": "Relates to bone (Azm), which is the solid foundation of the body. Hence, something 'Azim' is something substantial and great.",
+            "concept_my": "အရိုး (Azm) ကို ဆိုလိုရင်းမှ ဆင်းသက်လာပြီး ခန္ဓာကိုယ်၏ အခြေခံအုတ်မြစ်ဖြစ်သည်။ ထို့ကြောင့် 'Azim' သည် ခိုင်မာကြီးမားသောအရာကို ဆိုလိုသည်။",
+            "members": [
+              {
+                "ar": "عَظْم",
+                "en": "bone",
+                "my": "အရိုး",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Azim is used for things both physical and conceptual in the Quran."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ နေ့စဉ်ဘဝတွင် အလ္လာဟ်အရှင်မြတ်၏ အမိန့်တော်များကို လျစ်လျူရှုမိပါက နှလုံးသားများ တဖြည်းဖြည်း မာကျောလာနိုင်သည်ကို ဤအာယသ်တော်က သတိပေးနေပါသည်။ 'ကြီးကျယ်သော ပြစ်ဒဏ်' ဟူသည်မှာ အလ္လာဟ်အရှင်မြတ်နှင့် ဝေးကွာရခြင်းပင် ဖြစ်ပါသည်။ ထို့ကြောင့် ကျွန်ုပ်တို့၏ နှလုံးသားများကို အမြဲတမ်း နူးညံ့ပျော့ပျောင်းနေစေရန်နှင့် သမ္မာတရားကို လက်ခံနိုင်ရန် ဒိုအာပြုရပါမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Ends with a deep 'im' sound (Azim) which creates a sense of gravity.",
+          "meaning_anchor": "The seal on the heart vs the greatness of the punishment.",
+          "daily_connection": "Used when seeking refuge from heavy trials.",
+          "my": "အဆုံးသတ်ရှိ 'အင်းမ်' အသံသည် လေးနက်မှုကို ပေးစွမ်းသည်။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Baqarah 2:129",
+        "study_number": 2,
+        "arabic_full": "رَبَّنَا وَابْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُو عَلَيْهِمْ آيَاتِكَ وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَيُزَكِّيهِمْ ۚ إِنَّكَ أَنتَ الْعَزِيزُ الْحَكِيمُ",
+        "en_sahih": "Our Lord, and send among them a messenger from themselves who will recite to them Your verses and teach them the Book and wisdom and purify them. Indeed, You are the Exalted in Might, the Wise.",
+        "my_mmsy": "ထို့ပြင် အို-ကျွန်ုပ်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ သူတို့ထဲတွင် သူတို့ထဲမှပင် ရစူလ်တမန်တော်တစ်ပါးကို ပွင့်ပေါ်စေတော်မူပါ၊ ထိုတမန်တော်သည် သူတို့၏ရှေ့မှောက်၌ အရှင်မြတ်၏အာယသ်တော်များကို ဖတ်ရွတ်မည်၊ သူတို့အား ကျမ်းဂန်နှင့်တကွ ပညာဉာဏ်အမြော်အမြင်ကိုလည်း သင်ကြားပေးမည်၊ ထို့နောက် သူတို့အား စင်ကြယ်သောသူများဖြစ်အောင်လည်း ပြုလုပ်ပေးမည်။  စင်စစ်အရှင်မြတ်သည်သာ တန်ခိုးတော်နှင့် အလွန်လွှမ်းမိုးတော်မူသောအရှင်၊ ပညာဉာဏ်အမြော်အမြင်နှင့် အလွန်ပြည့်စုံတော်မူသောအရှင်ဖြစ်တော်မူပါသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 129,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002129.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/129",
+        "context": {
+          "en": "Part of Prophet Ibrahim's (AS) dua for the people of Makkah while building the Kaaba.",
+          "my": "နဗီအီဗရာဟင်မ် (အလိုင်ဟစ္စလာမ်) က ကအ်ဘာကျောင်းတော်ကို တည်ဆောက်စဉ် မက္ကာဟ်ပြည်သူများအတွက် ပြုခဲ့သော ဒိုအာဖြစ်ပါသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْعَزِيزُ",
+            "translit": "al-aziz",
+            "en": "the Mighty",
+            "my": "တန်ခိုးရှင်",
+            "role_en": "Adjective / Name",
+            "role_my": "နာမဝေသသန",
+            "root": "ع ز ز",
+            "freq": 99
+          },
+          {
+            "ar": "الْحَكِيمُ",
+            "translit": "al-hakim",
+            "en": "the Wise",
+            "my": "အမြော်အမြင်ရှိသူ",
+            "role_en": "Adjective / Name",
+            "role_my": "နာမဝေသသန",
+            "root": "ح ك م",
+            "freq": 97
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Double Adjectives for Allah. Both are Definite with 'Al-'.",
+          "structure_my": "အလ္လာဟ်အရှင်မြတ်အတွက် နာမဝိသေသနနှစ်ခု။ နှစ်ခုလုံးတွင် 'Al-' ပါရှိသည်။",
+          "insight_en": "When multiple adjectives follow one noun, each must match the noun's definiteness and case.",
+          "insight_my": "နာမ်တစ်ခုနောက်တွင် နာမဝိသေသနအများအပြား လိုက်ပါက တစ်ခုချင်းစီသည် ၎င်းနာမ်နှင့် ကိုက်ညီရပါမည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ح ك م",
+            "concept_en": "To prevent/restrain. Wisdom restrains a person from foolishness.",
+            "concept_my": "ထိန်းချုပ်ခြင်း။ ပညာသည် လူကို မိုက်မဲမှုမှ ထိန်းချုပ်ပေးသည်။",
+            "members": [
+              {
+                "ar": "حِكْمَة",
+                "en": "wisdom",
+                "my": "ပညာ",
+                "freq": 20
+              }
+            ],
+            "professors_note": "A Hakim is one whose knowledge leads to perfect action."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ပညာနှင့် သန့်စင်မှုကို အလေးပေးထားသည်။ ကျွန်ုပ်တို့သည် စာအုပ်ကို ဖတ်ရုံမျှမက အမြော်အမြင်ရှိရန်နှင့် မိမိကိုယ်ကိုယ် သန့်စင်ရန်လည်း လိုအပ်ကြောင်း ပြသနေသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Al-Azizul Hakim - fluid connection between the two names.",
+          "meaning_anchor": "Might combined with Wisdom, not just raw power.",
+          "daily_connection": "Recited when making dua for guidance and knowledge.",
+          "my": "အလ်-အဇီးဇွလ် ဟာကီးမ် ဟူသော ရစ်သမ်ကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we learned that Arabic adjectives (Sifah) follow the noun (Mawsuf). They must match in gender, definiteness, and case. This creates a rhythmic and logical flow in Quranic sentences.",
+      "my": "ဤသင်ခန်းစာတွင် အာရဗီနာမဝိသေသန (Sifah) သည် နာမ် (Mawsuf) ၏ နောက်မှလိုက်ကြောင်း လေ့လာခဲ့ရသည်။ ၎င်းတို့သည် ကျား/မ၊ သတ်မှတ်/မသတ်မှတ် နှင့် ဝိဘတ်များတွင် တူညီရမည်ဖြစ်သည်။ ဤအချက်သည် ကုရ်အာန်ကျမ်းတော်မြတ်၏ ဝါကျတည်ဆောက်ပုံကို ပိုမိုလှပပြီး စနစ်ကျစေပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-047",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 47,
+    "title": {
+      "ar": "الصِّفَةُ وَالْمَوْصُوفُ (٢) — الْمَعْرِفَةُ",
+      "en": "Adjectives II — Definite Noun + Definite Adjective",
+      "my": "နာမဝိသေသန (၂) — သတ်မှတ်နာမ်နှင့် နာမဝိသေသန"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 3,
+      "grammar_focus": "Al- on both noun and adjective: الْكِتَابُ الْمُبِينُ",
+      "grammar_formula": "الـ + Noun + الـ + Adjective"
+    },
+    "section_1_vocab": [
+      {
+        "word": "الْمُبِينُ",
+        "translit": "al-mubin",
+        "en": "The Clear",
+        "my": "ရှင်းလင်းထင်ရှားသော",
+        "quran_freq": 119,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "مُفْعِيل",
+        "root": {
+          "letters": "ب ي ن",
+          "concept_en": "becoming distinct or clear",
+          "concept_my": "ကွဲပြားခြားနားခြင်း သို့မဟုတ် ရှင်းလင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Beam",
+          "image": "A beam of light making everything clear",
+          "cross_language": "Bayan (Explanation/Lecture in Myanmar context)"
+        },
+        "word_family": [
+          {
+            "ar": "بَيَان",
+            "translit": "bayan",
+            "en": "clarity/speech",
+            "my": "ရှင်းလင်းချက်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Words with this root often describe something that separates truth from falsehood.",
+        "example": {
+          "ar": "الْكِتَابُ الْمُبِينُ",
+          "en": "the clear Book",
+          "my": "ရှင်းလင်းထင်ရှားသော ကျမ်းတော်",
+          "ref": "12:1"
+        }
+      },
+      {
+        "word": "الْمُسْتَقِيمُ",
+        "translit": "al-mustaqim",
+        "en": "The Straight",
+        "my": "ဖြောင့်မတ်သော",
+        "quran_freq": 37,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "مُسْتَفْعِل",
+        "root": {
+          "letters": "ق و م",
+          "concept_en": "standing / upright",
+          "concept_my": "မတ်တတ်ရပ်ခြင်း / ဖြောင့်မတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Must stay keen",
+          "image": "You 'must stay keen' to walk on a straight line",
+          "cross_language": "Istiqaamah (Steadfastness)"
+        },
+        "word_family": [
+          {
+            "ar": "قِيَام",
+            "translit": "qiyam",
+            "en": "standing",
+            "my": "ရပ်နားခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The 'musta-' prefix often indicates a seeking of a state, here 'seeking to be upright'.",
+        "example": {
+          "ar": "الصِّرَاطَ الْمُسْتَقِيمَ",
+          "en": "the straight path",
+          "my": "ဖြောင့်မတ်သော လမ်းစဉ်",
+          "ref": "1:6"
+        }
+      },
+      {
+        "word": "الْقُرْآنُ",
+        "translit": "al-quran",
+        "en": "The Quran",
+        "my": "ကုရ်အာန်ကျမ်းတော်",
+        "quran_freq": 70,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْلَان",
+        "root": {
+          "letters": "ق ر أ",
+          "concept_en": "to read / recite",
+          "concept_my": "ဖတ်ရွတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Quran",
+          "image": "The holy book being recited",
+          "cross_language": "Quran"
+        },
+        "word_family": [
+          {
+            "ar": "قَرَأَ",
+            "translit": "qara-a",
+            "en": "he read",
+            "my": "သူဖတ်ခဲ့သည်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Ends in -an, often denoting fullness or intensity of the action.",
+        "example": {
+          "ar": "الْقُرْآنَ الْعَظِيمَ",
+          "en": "the great Quran",
+          "my": "ကြီးကျယ်သော ကုရ်အာန်",
+          "ref": "15:87"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الصِّفَةُ الْمَعْرِفَةُ",
+        "en": "The Definite Adjective",
+        "my": "သတ်မှတ် နာမဝိသေသန"
+      },
+      "formula": {
+        "display": "الـ + Noun + الـ + Adjective",
+        "example": "الصِّرَاطُ الْمُسْتَقِيمُ",
+        "myanmar_read": "နာမ်မှာ အာလစ်ဖ်လားမ် (Al-) ပါရင် နာမဝိသေသနမှာလည်း (Al-) ပါရပါမယ်။",
+        "key_insight": "If 'Al-' is missing from the second word, it becomes a sentence (The path is straight) instead of a phrase (The straight path)."
+      },
+      "explanation": {
+        "en": "When a noun is made definite using 'Al-', its adjective must also take 'Al-'. This signals that the adjective is a description and not a piece of news. For example, 'Al-Kitabu Al-Mubinu' means 'The Clear Book'.",
+        "my": "နာမ်တစ်ခုကို 'Al-' ဖြင့် သတ်မှတ်လိုက်သောအခါ ၎င်း၏ နာမဝိသေသနတွင်လည်း 'Al-' ထည့်ရပါမည်။ ၎င်းသည် ဖော်ပြချက်မျှသာဖြစ်ပြီး သတင်းစကား (Sentence) မဟုတ်ကြောင်း ပြသသည်။ ဥပမာ - 'The Clear Book' ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese uses particles like 'သော' (thaw) to link. In Arabic, the repeated 'Al-' acts as that link.",
+        "my": "မြန်မာစကားတွင် 'သော' ကို သုံး၍ ချိတ်ဆက်သကဲ့သို့ အာရဗီတွင် 'Al-' ကို နှစ်ကြိမ်သုံးခြင်းဖြင့် ချိတ်ဆက်ပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Always repeat 'Al-' on the adjective if the noun has it.",
+          "rule_my": "နာမ်တွင် 'Al-' ပါပါက နာမဝိသေသနတွင်လည်း 'Al-' အမြဲထည့်ပါ။",
+          "example": {
+            "ar": "الْبَيْتُ الْعَتِيقُ",
+            "en": "the ancient house",
+            "my": "ရှေးဟောင်းအိမ်တော်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "الصِّرَاطَ الْمُسْتَقِيمَ",
+          "en": "the straight path",
+          "my": "(အို - အရှင်မြတ်) ကျွန်ုပ်တို့အား ဖြောင့်မတ်မှန်ကန်သောလမ်းကို ညွှန်ကြားပြသတော်မူပါ။",
+          "ref": "1:6",
+          "breakdown": {
+            "subject": {
+              "word": "الصِّرَاطَ",
+              "en": "the path",
+              "note": "Mawsuf with Al-"
+            },
+            "predicate": {
+              "word": "الْمُسْتَقِيمَ",
+              "en": "the straight",
+              "note": "Sifah with Al-"
+            }
+          },
+          "myanmar_insight": "Surah Fatiha တွင် နေ့တိုင်းဖတ်နေသော ဤစာသားသည် Definite Sifah-Mawsuf ၏ အကောင်းဆုံးဥပမာဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting 'Al-' on the adjective.",
+          "wrong": {
+            "ar": "الْقُرْآنُ عَظِيمٌ",
+            "note": "This means 'The Quran IS great'"
+          },
+          "correct": {
+            "ar": "الْقُرْآنُ الْعَظِيمُ",
+            "en": "The great Quran",
+            "my": "ကြီးကျယ်သော ကုရ်အာန်"
+          },
+          "myanmar_tip": "Al- တစ်ခုတည်းကျန်ခဲ့ရင် 'ဖြစ်သည်' ဆိုတဲ့ အဓိပ္ပာယ် ဝါကျဖြစ်သွားပါမယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Which one is a description (The great path)?",
+          "instruction_my": "ဘယ်ဟာက 'ကြီးကျယ်သောလမ်း' ဆိုတဲ့ ဖော်ပြချက်ဖြစ်သလဲ?",
+          "questions": [
+            {
+              "q": "A: الصِّرَاطُ الْعَظِيمُ | B: الصِّرَاطُ عَظِيمٌ",
+              "answer_en": "A",
+              "answer_my": "A",
+              "ref": "N/A"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: الْكِتَابُ الْمُبِينُ",
+          "instruction_my": "ဘာသာပြန်ပါ - الْكِتَابُ الْمُبِينُ",
+          "questions": [
+            {
+              "q": "الْكِتَابُ الْمُبِينُ",
+              "answer_en": "The clear book",
+              "answer_my": "ရှင်းလင်းထင်ရှားသော ကျမ်းတော်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Add 'Al-' to both: بَيْتٌ عَظِيمٌ",
+          "instruction_my": "နှစ်ခုလုံးကို 'Al-' ထည့်ပါ - بَيْتٌ عَظِيمٌ",
+          "questions": [
+            {
+              "q": "بَيْتٌ عَظِيمٌ",
+              "answer_en": "Al-Baytu Al-Azimu",
+              "answer_my": "အိမ်တော်ကြီး",
+              "ar": "الْبَيْتُ الْعَظِيمُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "By making both words definite, the Quran highlights specific, unique realities. It isn't just any path, it is The Straight Path.",
+        "my": "စကားလုံးနှစ်လုံးလုံးကို သတ်မှတ်ခြင်းအားဖြင့် ကုရ်အာန်သည် တိကျထူးခြားသော အရှိတရားများကို မီးမောင်းထိုးပြသည်။ ၎င်းသည် မည်သည့်လမ်းမဆိုမဟုတ်ဘဲ ထို ဖြောင့်မတ်သောလမ်းစဉ် ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Hijr 15:87",
+        "study_number": 1,
+        "arabic_full": "وَلَقَدْ آتَيْنَاكَ سَبْعًا مِّنَ الْمَثَانِي وَالْقُرْآنَ الْعَظِيمَ",
+        "en_sahih": "And We have certainly given you seven of the often repeated [verses] and the great Qur'an.",
+        "my_mmsy": "ထို့ပြင် အမှန်စင်စစ် ငါအရှင်မြတ်သည် အသင့်အား အကြိမ်ကြိမ်အဖန်ဖန်ရွတ်ဖတ်ရသော(အာယသ်တော်)ခုနစ်ပါးနှင့်  အလွန်ကြီးကျယ်မြင့်မြတ်လှသော ကုရ်အာန်ကျမ်းတော်မြတ်ကို ပေးသနားတော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 15,
+          "ayah": 87,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/015087.mp3"
+        },
+        "qurancom_url": "https://quran.com/15/87",
+        "context": {
+          "en": "Allah reminds the Prophet (SAW) of the immense gift of the Seven Oft-Repeated (Surah Fatiha) and the Quran.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် နဗီတမန်တော်မြတ်အား စူရာဟ်ဖွာသေဟ်နှင့် ကြီးကျယ်သော ကုရ်အာန်ကို ချီးမြှင့်ထားကြောင်း သတိပေးခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْقُرْآنَ",
+            "translit": "al-qur-ana",
+            "en": "the Quran",
+            "my": "ကုရ်အာန်ကျမ်း",
+            "role_en": "Object / Mawsuf",
+            "role_my": "ကံပုဒ်",
+            "root": "ق ر أ",
+            "freq": 70
+          },
+          {
+            "ar": "الْعَظِيمَ",
+            "translit": "al-azima",
+            "en": "the Great",
+            "my": "ကြီးကျယ်သော",
+            "role_en": "Sifah",
+            "role_my": "နာမဝိသေသန",
+            "root": "ع ظ م",
+            "freq": 107
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Both words have 'Al-' and both end in Fatha (nasab case) because they are the objects of the verb 'given'.",
+          "structure_my": "စကားလုံးနှစ်ခုလုံးတွင် 'Al-' ပါပြီး Verb ၏ Object ဖြစ်သောကြောင့် Fatha ဖြင့် ဆုံးပါသည်။",
+          "insight_en": "The Sifah follows the Mawsuf even in its grammatical case (ending vowel).",
+          "insight_my": "နာမဝိသေသနသည် နာမ်၏ ဝိဘတ် (အဆုံးသတ်ဗျည်း) ကိုပါ လိုက်နာရပါသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ق ر أ",
+            "concept_en": "To gather or collect. Reading is collecting letters into meanings.",
+            "concept_my": "စုစည်းခြင်း။ ဖတ်ခြင်းသည် အက္ခရာများကို အဓိပ္ပာယ်အဖြစ် စုစည်းခြင်းဖြစ်သည်။",
+            "members": [
+              {
+                "ar": "اقْرَأْ",
+                "en": "Read!",
+                "my": "ဖတ်ပါ!",
+                "freq": 0
+              }
+            ],
+            "professors_note": "The word Quran is a verbal noun that implies constant recitation."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကုရ်အာန်ကျမ်းတော်သည် 'အလွန်ကြီးကျယ်သော' လက်ဆောင်ဖြစ်ပါသည်။ ကျွန်ုပ်တို့သည် အခြားသော လောကီစည်းစိမ်များထက် ဤကျမ်းတော်ကို ပို၍ တန်ဖိုးထားရပါမည်။ ဤကျမ်းကို ဖတ်ရှုခြင်း၊ နားလည်ခြင်းသည်ပင် ကြီးကျယ်သော အောင်မြင်မှု ဖြစ်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Al-Qur'anal Azim - powerful and steady rhythm.",
+          "meaning_anchor": "The weight of the Quran's greatness.",
+          "daily_connection": "Recited when mentioning the Quran's status.",
+          "my": "အလ်-ကုရ်အာနလ် အဇီးမ် ဟူသော အသံနေအထားကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored how adjectives match definite nouns by taking the 'Al-' prefix. This structure allows us to identify titles and descriptions in the Quran, like 'The Straight Path'.",
+      "my": "နာမ်များတွင် 'Al-' ပါပါက နာမဝိသေသနများတွင်လည်း 'Al-' ထည့်သွင်းရပုံကို လေ့လာခဲ့သည်။ ဤတည်ဆောက်ပုံသည် 'ဖြောင့်မတ်သောလမ်းစဉ်' ကဲ့သို့သော ကုရ်အာန်လာ ဖော်ပြချက်များကို နားလည်စေပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-048",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 48,
+    "title": {
+      "ar": "الصِّفَةُ وَالْمَوْصُوفُ (٣) — النَّكِرَةُ",
+      "en": "Adjectives III — Indefinite Noun + Indefinite Adjective",
+      "my": "နာမဝိသေသန (၃) — မသတ်မှတ်နာမ်နှင့် နာမဝိသေသန"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 4,
+      "grammar_focus": "Tanween on both: رَبٌّ كَرِيمٌ (a generous Lord)",
+      "grammar_formula": "Noun [un] + Adjective [un]"
+    },
+    "section_1_vocab": [
+      {
+        "word": "كَرِيمٌ",
+        "translit": "karim",
+        "en": "Generous / Noble",
+        "my": "ရက်ရောသော / မြင့်မြတ်သော",
+        "quran_freq": 27,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ك ر م",
+          "concept_en": "generosity / honor",
+          "concept_my": "ရက်ရောခြင်း / ဂုဏ်အသရေ"
+        },
+        "memory_hook": {
+          "sound": "Cream",
+          "image": "The 'cream' of society is noble and generous",
+          "cross_language": "Karem/Karima (Names)"
+        },
+        "word_family": [
+          {
+            "ar": "إِكْرَام",
+            "translit": "ikram",
+            "en": "honor/hospitality",
+            "my": "ဧည့်ဝတ်ပြုခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Describes qualities that are intrinsic and honorable.",
+        "example": {
+          "ar": "رَبٌّ كَرِيمٌ",
+          "en": "a generous Lord",
+          "my": "ရက်ရောတော်မူသော အရှင်",
+          "ref": "27:40"
+        }
+      },
+      {
+        "word": "آيَةٌ",
+        "translit": "ayah",
+        "en": "a sign / verse",
+        "my": "လက္ခဏာတော် / အာယသ်",
+        "quran_freq": 382,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلَة",
+        "root": {
+          "letters": "أ ي ي",
+          "concept_en": "sign / message",
+          "concept_my": "အမှတ်အသား"
+        },
+        "memory_hook": {
+          "sound": "Eye",
+          "image": "Your 'eye' sees a sign",
+          "cross_language": "Ayah (used in Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "آيَات",
+            "translit": "ayat",
+            "en": "signs",
+            "my": "လက္ခဏာတော်များ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Feminine noun, so its adjective must end in Ta-Marbuta.",
+        "example": {
+          "ar": "آيَةٌ بَيِّنَةٌ",
+          "en": "a clear sign",
+          "my": "ထင်ရှားသော လက္ခဏာတော်",
+          "ref": "2:211"
+        }
+      },
+      {
+        "word": "أَجْرٌ",
+        "translit": "ajrun",
+        "en": "a reward",
+        "my": "အကျိုးကျေးဇူး / ဆုလာဘ်",
+        "quran_freq": 105,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "أ ج ر",
+          "concept_en": "wage / reward",
+          "concept_my": "အခကြေးငွေ / အကျိုး"
+        },
+        "memory_hook": {
+          "sound": "Age",
+          "image": "As you 'age' in service, you get a reward",
+          "cross_language": "Ajir (Worker in Arabic/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "أُجُور",
+            "translit": "ujur",
+            "en": "rewards",
+            "my": "ဆုလာဘ်များ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Often paired with adjectives like 'great' or 'generous' in the Quran.",
+        "example": {
+          "ar": "أَجْرٌ كَبِيرٌ",
+          "en": "a great reward",
+          "my": "ကြီးကျယ်သော ဆုလာဘ်",
+          "ref": "11:11"
+        }
+      },
+      {
+        "word": "قَرِيبٌ",
+        "translit": "qarib",
+        "en": "near",
+        "my": "နီးကပ်သော",
+        "quran_freq": 26,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ق ر ب",
+          "concept_en": "closeness",
+          "concept_my": "နီးစပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Crib",
+          "image": "The baby is 'near' the crib",
+          "cross_language": "Qurbani (Sacrifice to get closer to Allah)"
+        },
+        "word_family": [
+          {
+            "ar": "قُرْبَان",
+            "translit": "qurban",
+            "en": "sacrifice",
+            "my": "ကုရ်ဘာနီ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Refers to both physical distance and relational closeness.",
+        "example": {
+          "ar": "فَتْحٌ قَرِيبٌ",
+          "en": "a near victory",
+          "my": "နီးကပ်သော အောင်ပွဲ",
+          "ref": "61:13"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الصِّفَةُ النَّكِرَةُ",
+        "en": "The Indefinite Adjective",
+        "my": "မသတ်မှတ် နာမဝိသေသန"
+      },
+      "formula": {
+        "display": "Noun [un] + Adjective [un]",
+        "example": "رَبٌّ كَرِيمٌ",
+        "myanmar_read": "နာမ်မှာ Tanween (နှစ်ချက်တင်/နှစ်ချက်ချ) ပါရင် နာမဝိသေသနမှာလည်း Tanween ပါရပါမယ်။",
+        "key_insight": "In the Quran, indefinite Sifah-Mawsuf often emphasizes the greatness or intensity of something (e.g., A mighty reward)."
+      },
+      "explanation": {
+        "en": "When a noun is indefinite (no 'Al-', usually ends in Tanween), its adjective must also be indefinite. This creates a general description like 'a generous Lord' or 'a great reward'. It maintains the rhythm of the double vowels (un-un, an-an, in-in).",
+        "my": "နာမ်တစ်ခုသည် မသတ်မှတ်နာမ် (Al- မပါဘဲ Tanween ဖြင့်ဆုံးသော) ဖြစ်လျှင် ၎င်း၏ နာမဝိသေသနသည်လည်း မသတ်မှတ်နာမ် ဖြစ်ရပါမည်။ ၎င်းသည် 'ရက်ရောသော အရှင်တစ်ပါး' ကဲ့သို့ ယေဘုယျ ဖော်ပြချက်ကို ဖြစ်စေသည်။ ၎င်းသည် vowel နှစ်ခုတွဲ အသံ (un-un စသည်) ကို ထိန်းသိမ်းပေးသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Burmese doesn't have a direct equivalent for 'a/an', so 'noble Lord' could be definite or indefinite. Arabic is much more precise.",
+        "my": "မြန်မာစကားတွင် 'တစ်' (ဥပမာ- လူတစ်ယောက်) ဟု သုံးလေ့ရှိသော်လည်း အာရဗီကဲ့သို့ သတ်မှတ်/မသတ်မှတ်ကို သဒ္ဒါနည်းအရ တိတိကျကျ ခွဲခြားမှု နည်းပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The Sifah must follow the Mawsuf in its specific Tanween ending.",
+          "rule_my": "နာမဝိသေသနသည် နာမ်၏ Tanween အဆုံးသတ်အတိုင်း လိုက်ရမည်။",
+          "example": {
+            "ar": "عَذَابًا شَدِيدًا",
+            "en": "a severe punishment",
+            "my": "ပြင်းထန်သော ပြစ်ဒဏ်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "أَجْرٌ كَبِيرٌ",
+          "en": "a great reward",
+          "my": "MYANMAR_PLACE_HOLDER_S11_A11",
+          "ref": "11:11",
+          "breakdown": {
+            "subject": {
+              "word": "أَجْرٌ",
+              "en": "a reward",
+              "note": "Masculine Indefinite"
+            },
+            "predicate": {
+              "word": "كَبِيرٌ",
+              "en": "great",
+              "note": "Matches with -un ending"
+            }
+          },
+          "myanmar_insight": "Ajrun နှင့် Kabirun နှစ်ခုလုံးတွင် Tanween ပါဝင်ပုံကို သတိပြုပါ။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing 'Al-' on one and Tanween on the other.",
+          "wrong": {
+            "ar": "الرَّبُّ كَرِيمٌ",
+            "note": "This is a full sentence: 'The Lord is generous'"
+          },
+          "correct": {
+            "ar": "رَبٌّ كَرِيمٌ",
+            "en": "a generous Lord",
+            "my": "ရက်ရောသော အရှင်"
+          },
+          "myanmar_tip": "Al- ပါရင် Al- လိုက်၊ Tanween ပါရင် Tanween လိုက်ရပါမယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the indefinite adjective in this phrase: آيَةٌ بَيِّنَةٌ",
+          "instruction_my": "အောက်ပါတွင် မသတ်မှတ် နာမဝိသေသနကို ရှာပါ - آيَةٌ بَيِّنَةٌ",
+          "questions": [
+            {
+              "q": "آيَةٌ بَيِّنَةٌ",
+              "answer_en": "bayyinah",
+              "answer_my": "بَيِّنَةٌ",
+              "ref": "2:211"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: عَذَابٌ أَلِيمٌ",
+          "instruction_my": "ဘာသာပြန်ပါ - عَذَابٌ أَلِيمٌ",
+          "questions": [
+            {
+              "q": "عَذَابٌ أَلِيمٌ",
+              "answer_en": "a painful punishment",
+              "answer_my": "နာကျင်ဖွယ်ကောင်းသော ပြစ်ဒဏ်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Match 'Qarib' to 'Fathun'",
+          "instruction_my": "'Fathun' နှင့် 'Qarib' ကို တွဲပေးပါ",
+          "questions": [
+            {
+              "q": "فَتْحٌ + قَرِيبٌ",
+              "answer_en": "fathun qaribun",
+              "answer_my": "နီးကပ်သော အောင်ပွဲ",
+              "ar": "فَتْحٌ قَرِيبٌ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Indefiniteness in the Quran often points to the 'unlimited' nature of something. A 'great reward' from Allah is far beyond what our minds can define.",
+        "my": "ကုရ်အာန်တွင် မသတ်မှတ်နာမ်ကို သုံးခြင်းသည် တစ်ခါတစ်ရံ 'အကန့်အသတ်မရှိ' ဖြစ်ခြင်းကို ဖော်ပြသည်။ အလ္လာဟ်အရှင်မြတ်ထံမှ 'ကြီးကျယ်သောဆုလာဘ်' သည် ကျွန်ုပ်တို့ စိတ်ကူးနိုင်သည်ထက် ကျော်လွန်ပါသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Naml 27:40",
+        "study_number": 1,
+        "arabic_full": "وَمَن كَفَرَ فَإِنَّ رَبِّي غَنِيٌّ كَرِيمٌ",
+        "en_sahih": "And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.",
+        "my_mmsy": "ကျမ်းဂန်၏အသိပညာရှိသူတစ်ဦးက ကျွန်ုပ်သည် ထိုပလ္လင်ကို ကိုယ်တော်၏မျက်စိတစ်မှတ်အတွင်း ကိုယ်တော်၏ထံသို့ ယူခဲ့ပါမည်ဟု ပြောဆိုခဲ့သည်။ ထို့နောက် ၎င်းသည် ထိုပလ္လင်ကို ၎င်းအနီး၌ တည်ငြိမ်ရောက်ရှိနေသည်ကို တွေ့မြင်သည့်အခါ ၎င်းက ပြောဆိုသည်- ဤသည် ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်၏ကျေးဇူးတော်ထဲမှ တစ်ခုဖြစ်သည်။ ငါသည် ကျေးဇူးတင်သလော၊ သို့မဟုတ် ငါသည် ကျေးဇူးကန်းသလောဆိုသည်ကို အရှင်မြတ်က ငါ့အား စမ်းသပ်တော်မူရန်အတွက် ဖြစ်သည်။ ထို့ပြင် မည်သူမဆို ကျေးဇူးတင်ခဲ့လျှင် သူ၏အကျိုးအတွက် ကျေးဇူးတင်ခဲ့ခြင်းသာဖြစ်သည်။ ထို့ပြင် မည်သူမဆို ကျေးဇူးကန်းခဲ့လျှင် အမှန်စင်စစ် ငါ့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်မြတ်သည် လိုလားတောင့်တခြင်းကင်းပြီး ပြည့်စုံကြွယ်ဝတော်မူသောအရှင် အလွန်ရက်ရောတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 27,
+          "ayah": 40,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/027040.mp3"
+        },
+        "qurancom_url": "https://quran.com/27/40",
+        "context": {
+          "en": "Prophet Sulaiman (AS) acknowledges that Allah's generosity doesn't depend on our gratitude.",
+          "my": "နဗီဆူလိုင်မန် (အလိုင်ဟစ္စလာမ်) က အလ္လာဟ်အရှင်မြတ်၏ ရက်ရောမှုသည် ကျွန်ုပ်တို့၏ ကျေးဇူးတင်မှုပေါ်တွင် မမူတည်ကြောင်း ပြောကြားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "غَنِيٌّ",
+            "translit": "ghaniyyun",
+            "en": "Rich / Free of need",
+            "my": "ချမ်းသာကြွယ်ဝသော / မည်သူ့ကိုမျှ မလိုအပ်သော",
+            "role_en": "Adjective 1",
+            "role_my": "နာမဝိသေသန ၁",
+            "root": "غ ن ي",
+            "freq": 18
+          },
+          {
+            "ar": "كَرِيمٌ",
+            "translit": "karimun",
+            "en": "Generous",
+            "my": "ရက်ရောသော",
+            "role_en": "Adjective 2",
+            "role_my": "နာမဝိသေသန ၂",
+            "root": "ك ر م",
+            "freq": 27
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Two indefinite adjectives following the noun 'Rabbi' (implied).",
+          "structure_my": "'Rabbi' ဆိုသည့် နာမ်နောက်မှ လိုက်နေသော မသတ်မှတ် နာမဝိသေသန နှစ်ခု ဖြစ်သည်။",
+          "insight_en": "Even with multiple adjectives, they all match in being indefinite (Tanween).",
+          "insight_my": "နာမဝိသေသန ဘယ်နှစ်ခုပဲလာလာ နာမ်နှင့်အညီ Tanween အသံ တူညီရမည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ك ر م",
+            "concept_en": "Excellence in kind. A 'Karim' horse is a purebred. A 'Karim' person gives without being asked.",
+            "concept_my": "အမျိုးအစားကောင်းခြင်း။ 'Karim' သည် မတောင်းဘဲ ပေးကမ်းသူကို ဆိုလိုသည်။",
+            "members": [
+              {
+                "ar": "إِكْرَام",
+                "en": "honor",
+                "my": "ဂုဏ်ပြုခြင်း",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Karim combines both honor and giving."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့၏ ခဝတ်ကိုးကွယ်မှုကို မလိုအပ်သော်လည်း ကိုယ်တော်သည် ကျွန်ုပ်တို့အပေါ် အမြဲတမ်း ရက်ရောတော်မူပါသည်။ ဤရက်ရောမှုသည် ကျွန်ုပ်တို့၏ လုပ်ရပ်များကြောင့် မဟုတ်ဘဲ ကိုယ်တော်၏ မြင့်မြတ်သော အရည်အချင်းကြောင့်သာ ဖြစ်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Ghaniyyun Karimun - rhyming Tanween endings.",
+          "meaning_anchor": "The Independent (Ghani) yet Generous (Karim) Lord.",
+          "daily_connection": "Used in gratitude to remember Allah's abundance.",
+          "my": "ဂနီယွန်၊ ကရီးမွန် ဟူသော အဆုံးသတ် ကာရန်ကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We learned that when a noun lacks 'Al-', its adjective must also lack it. This 'Indefinite Pair' is often used in the Quran to describe the vast rewards and severe warnings of the hereafter.",
+      "my": "နာမ်တွင် 'Al-' မပါလျှင် နာမဝိသေသနတွင်လည်း မပါရကြောင်း လေ့လာခဲ့သည်။ ဤ 'မသတ်မှတ်အတွဲ' ကို ကုရ်အာန်တွင် နောင်တမလွန်၏ ကြီးကျယ်သော ဆုလာဘ်များနှင့် ပြင်းထန်သော သတိပေးချက်များကို ဖော်ပြရာတွင် အသုံးများသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-049",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 49,
+    "title": {
+      "ar": "الصِّفَةُ لِأَسْمَاءِ اللَّهِ الْحُسْنَى — الْأَوْزَانُ",
+      "en": "Adjectives IV — Adjectives for Divine Names",
+      "my": "နာမဝိသေသန (၄) — အလ္လာဟ်အရှင်မြတ်၏ အမည်နာမတော်များ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Divine attributes as adjectives; patterns of Fa''āl and Fa'īl",
+      "grammar_formula": "الـ + Name (e.g. الرَّحْمَنُ الرَّحِيمُ)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "الرَّحْمَنُ",
+        "translit": "ar-rahman",
+        "en": "The Most Gracious",
+        "my": "အလွန်တရာ သနားကြင်နာတော်မူသော အရှင်",
+        "quran_freq": 57,
+        "word_type": "Adjective/Name",
+        "gender": "Masculine",
+        "wazn": "فَعْلَان",
+        "root": {
+          "letters": "ر ح م",
+          "concept_en": "intensive mercy",
+          "concept_my": "အလွန်အမင်း သနားကြင်နာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rahman",
+          "image": "A vast ocean of mercy",
+          "cross_language": "Rahman (Common name)"
+        },
+        "word_family": [
+          {
+            "ar": "رَحِم",
+            "translit": "rahim",
+            "en": "womb",
+            "my": "သားအိမ်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The Fa'lan pattern denotes fullness, like a cup overflowing with mercy.",
+        "example": {
+          "ar": "الرَّحْمَنُ الرَّحِيمُ",
+          "en": "The Most Gracious, the Most Merciful",
+          "my": "အလွန်တရာ သနားကြင်နာတော်မူသော၊ အထူးသဖြင့် သနားကြင်နာတော်မူသော အရှင်",
+          "ref": "1:3"
+        }
+      },
+      {
+        "word": "الرَّحِيمُ",
+        "translit": "ar-rahim",
+        "en": "The Most Merciful",
+        "my": "အထူးသဖြင့် သနားကြင်နာတော်မူသော အရှင်",
+        "quran_freq": 95,
+        "word_type": "Adjective/Name",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ر ح م",
+          "concept_en": "continuous mercy",
+          "concept_my": "စဉ်ဆက်မပြတ် သနားကြင်နာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rahim",
+          "image": "A continuous stream of mercy",
+          "cross_language": "Ar-Rahim"
+        },
+        "word_family": [],
+        "pattern_unlock": "The Fa'eel pattern denotes a constant, permanent quality.",
+        "example": {
+          "ar": "الرَّحِيمُ",
+          "en": "The Merciful",
+          "my": "သနားကြင်နာတော်မူသော အရှင်",
+          "ref": "1:3"
+        }
+      },
+      {
+        "word": "الْعَزِيزُ",
+        "translit": "al-aziz",
+        "en": "The Mighty",
+        "my": "တန်ခိုးအာနုဘော် ကြီးမားတော်မူသော အရှင်",
+        "quran_freq": 99,
+        "word_type": "Adjective/Name",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ع ز ز",
+          "concept_en": "might / rarity",
+          "concept_my": "တန်ခိုးစွမ်းအား"
+        },
+        "memory_hook": {
+          "sound": "Aziz",
+          "image": "An unshakeable fortress",
+          "cross_language": "Aziz"
+        },
+        "word_family": [],
+        "pattern_unlock": "Refers to power that cannot be overcome.",
+        "example": {
+          "ar": "هُوَ الْعَزِيزُ",
+          "en": "He is the Mighty",
+          "my": "ကိုယ်တော်သည် တန်ခိုးတော်နှင့် ပြည့်စုံတော်မူသောအရှင် ဖြစ်သည်",
+          "ref": "59:24"
+        }
+      },
+      {
+        "word": "الْحَكِيمُ",
+        "translit": "al-hakim",
+        "en": "The Wise",
+        "my": "အမြော်အမြင်ရှိတော်မူသော အရှင်",
+        "quran_freq": 97,
+        "word_type": "Adjective/Name",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ح ك م",
+          "concept_en": "wisdom / precision",
+          "concept_my": "ဉာဏ်ပညာ"
+        },
+        "memory_hook": {
+          "sound": "Hakim",
+          "image": "Everything in the universe perfectly placed",
+          "cross_language": "Hakeem"
+        },
+        "word_family": [],
+        "pattern_unlock": "Implies everything is done with a perfect purpose.",
+        "example": {
+          "ar": "الْعَزِيزُ الْحَكِيمُ",
+          "en": "the Mighty, the Wise",
+          "my": "တန်ခိုးတော်နှင့် ပြည့်စုံတော်မူသော၊ အမြော်အမြင်ရှိတော်မူသော အရှင်",
+          "ref": "59:24"
+        }
+      },
+      {
+        "word": "الْعَلِيمُ",
+        "translit": "al-aleem",
+        "en": "The All-Knowing",
+        "my": "အလုံးစုံကို သိရှိတော်မူသော အရှင်",
+        "quran_freq": 157,
+        "word_type": "Adjective/Name",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "complete knowledge",
+          "concept_my": "အသိပညာ"
+        },
+        "memory_hook": {
+          "sound": "Aleem",
+          "image": "An open book of all secrets",
+          "cross_language": "Alim"
+        },
+        "word_family": [],
+        "pattern_unlock": "Describes knowledge that encompasses the seen and unseen.",
+        "example": {
+          "ar": "وَهُوَ الْعَلِيمُ",
+          "en": "and He is the All-Knowing",
+          "my": "ကိုယ်တော်သည် အလုံးစုံကို သိရှိတော်မူသော အရှင်ဖြစ်သည်",
+          "ref": "2:137"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أَوْزَانُ أَسْمَاءِ اللَّهِ",
+        "en": "Patterns of Divine Names",
+        "my": "အလ္လာဟ်အရှင်မြတ်၏ အမည်နာမတော်များ၏ ပုံစံများ"
+      },
+      "formula": {
+        "display": "Pattern: Fa'eel (فَعِيل) and Fa'lan (فَعْلَان)",
+        "example": "الرَّحْمَنُ الرَّحِيمُ",
+        "myanmar_read": "အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်အများစုသည် Fa'eel (ဥပမာ- Rahim, Hakim) ပုံစံနှင့် လာပါသည်။",
+        "key_insight": "The Fa'eel pattern indicates a quality that is part of the essence, never changing."
+      },
+      "explanation": {
+        "en": "Divine Names function as adjectives for Allah. They often follow specific patterns like 'Fa'eel' which shows a permanent trait. When multiple names appear together, they all act as adjectives following the rules of Sifah-Mawsuf, matching in definiteness and case.",
+        "my": "အလ္လာဟ်အရှင်မြတ်၏ နာမတော်များသည် ကိုယ်တော်၏ အရည်အချင်းပြ နာမဝိသေသနများ ဖြစ်ကြသည်။ ၎င်းတို့သည် အမြဲတမ်း တည်ရှိနေသော ဂုဏ်သတ္တိကို ပြသော 'Fa'eel' ကဲ့သို့သော ပုံစံများကို လိုက်လေ့ရှိသည်။ နာမတော်များစွာ တွဲပါလာလျှင်လည်း Sifah-Mawsuf ဥပဒေသအတိုင်း ဝိဘတ်နှင့် သတ်မှတ်မှု တူညီကြရသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we add 'တော်မူသော' to honorific attributes. In Arabic, the 'Al-' and the specific weight (Wazn) give this honor.",
+        "my": "မြန်မာဘာသာတွင် 'တော်မူသော' ဟု သုံးနှုန်းသကဲ့သို့ အာရဗီတွင် 'Al-' နှင့် သတ်မှတ်ထားသော ဝါဇန် (Wazn) များက ဤဂုဏ်တော်များကို ဖော်ပြသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Divine names used as attributes must match the word 'Allah' in case (vowel).",
+          "rule_my": "ဂုဏ်တော်များကို အလ္လာဟ်ဟူသော နာမ်နောက်တွင် သုံးလျှင် အဆုံးသတ်ဗျည်း (vowel) တူညီရမည်။",
+          "example": {
+            "ar": "بِسْمِ اللَّهِ الرَّحْمَنِ",
+            "en": "In the name of Allah, the Gracious",
+            "my": "အလ္လာဟ်အရှင်မြတ်၏ နာမတော်ဖြင့် (စတင်ပါသည်)"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "اللَّهُ الْعَزِيزُ الْحَكِيمُ",
+          "en": "Allah, the Mighty, the Wise",
+          "my": "အရှင်မြတ်သည် မိမိအလိုရှိတော်မူသည့်အတိုင်း (မိခင်များ၏)သားအိမ်များထဲတွင် အသင်တို့၏ ရုပ်ဆင်းသဏ္ဍာန်များကို ပြုလုပ်ဖန်ဆင်းတော်မူသည့်အရှင် ဖြစ်တော်မူသည်။ အရှင်မြတ်မှလွဲ၍ ခဝပ်ကိုးကွယ်ထိုက်သောအရှင် မရှိပေ။ အရှင်မြတ်သည် တန်ခိုးတော်နှင့် အလွန်လွှမ်းမိုးတော်မူသောအရှင်၊ ဉာဏ်အမြော်အမြင်နှင့် အလွန်ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+          "ref": "3:6",
+          "breakdown": {
+            "subject": {
+              "word": "اللَّهُ",
+              "en": "Allah",
+              "note": "Mawsuf"
+            },
+            "predicate": {
+              "word": "الْعَزِيزُ",
+              "en": "the Mighty",
+              "note": "Sifah 1"
+            }
+          },
+          "myanmar_insight": "စကားလုံး ၃ လုံးစလုံး 'u' အသံ (damma) ဖြင့် ဆုံးနေသည်ကို သတိပြုပါ။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing cases in the Basmalah.",
+          "wrong": {
+            "ar": "بِسْمِ اللَّهِ الرَّحْمَنُ",
+            "note": "Grammatically incorrect ending"
+          },
+          "correct": {
+            "ar": "بِسْمِ اللَّهِ الرَّحْمَنِ",
+            "en": "In the name of Allah, the Gracious",
+            "my": "အလ္လာဟ်အရှင်မြတ်၏ နာမတော်ဖြင့်"
+          },
+          "myanmar_tip": "Bismi-llahi ဖြစ်သောကြောင့် နောက်ကဂုဏ်တော်များလည်း 'i' အသံနှင့် ဆုံးရမည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the two adjectives in the Basmalah",
+          "instruction_my": "Basmalah ထဲမှ နာမဝိသေသန နှစ်ခုကို ရှာပါ",
+          "questions": [
+            {
+              "q": "الرَّحْمَنِ الرَّحِيمِ",
+              "answer_en": "Ar-Rahman and Ar-Rahim",
+              "answer_my": "Ar-Rahman နှင့် Ar-Rahim",
+              "ref": "1:1"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: الْعَزِيزُ الْحَكِيمُ",
+          "instruction_my": "ဘာသာပြန်ပါ - الْعَزِيزُ الْحَكِيمُ",
+          "questions": [
+            {
+              "q": "الْعَزِيزُ الْحَكِيمُ",
+              "answer_en": "The Mighty, the Wise",
+              "answer_my": "တန်ခိုးရှင်၊ အမြော်အမြင်ရှိတော်မူသောအရှင်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Combine Allah + Al-Alim",
+          "instruction_my": "Allah နှင့် Al-Alim ကို ပေါင်းစပ်ပါ",
+          "questions": [
+            {
+              "q": "اللَّهُ + الْعَلِيمُ",
+              "answer_en": "Allahu al-Alimu",
+              "answer_my": "အလ္လာဟ်အရှင်မြတ်သည် အလုံးစုံသိတော်မူသောအရှင် ဖြစ်တော်မူ၏",
+              "ar": "اللَّهُ الْعَلِيمُ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Divine Names are not just labels; they are descriptions of reality. Studying their patterns helps us understand the intensity and permanence of Allah's attributes.",
+        "my": "ဂုဏ်တော်များသည် နာမည်သက်သက်မဟုတ်ဘဲ အရှိတရားကို ဖော်ပြချက်များဖြစ်သည်။ ၎င်းတို့၏ ပုံစံများကို လေ့လာခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်သတ္တိများ၏ ပြင်းထန်မှုနှင့် ထာဝရတည်မြဲမှုကို နားလည်စေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Hashr 59:24",
+        "study_number": 1,
+        "arabic_full": "هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+        "en_sahih": "He is Allah, the Creator, the Producer, the Fashioner; to Him belong the best names. Whatever is in the heavens and earth is exalting Him. And He is the Exalted in Might, the Wise.",
+        "my_mmsy": "(၂၄) ထိုအရှင်မြတ်ပင် အလ္လာဟ်အရှင်မြတ်ဖြစ်တော်မူသည်၊(ထိုအရှင်မြတ်သည်)ဖန်ဆင်းတော်မူသောအရှင်၊ အသက်ဝိညာဉ်များအား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ (အရှင်မြတ်အလိုရှိတော်မူသည့်အတိုင်း)ပုံဖော်ပြုလုပ်ဖန်ဆင်းတော်မူသောအရှင်ဖြစ်တော်မူသည်။ ထိုအရှင်မြတ်တွင် ကောင်းမြတ်သည့် နာမတော်ဂုဏ်တော်များရှိသည်။ မိုးကောင်းကင်များတွင်ရှိသမျှနှင့် မြေပထဝီတွင်ရှိသမျှတို့သည် အရှင်မြတ်သန့်ရှင်းစင်ကြယ်တော်မူကြောင်း ရွတ်ဆိုလျက်ရှိကြသည်။ ထို့ပြင် အရှင်မြတ်သည် တန်ခိုးတော်နှင့်အလွန်လွှမ်းမိုးတော်မူသောအရှင်၊ ပညာဉာဏ်အမြော်အမြင်နှင့် အလွန်ပြည့်စုံတော်မူသောအရှင်ဖြစ်တော်မူသည်။  ၁၀",
+        "audio_ref": {
+          "surah": 59,
+          "ayah": 24,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/059024.mp3"
+        },
+        "qurancom_url": "https://quran.com/59/24",
+        "context": {
+          "en": "The concluding ayah of Surah Al-Hashr, listing several of Allah's magnificent names.",
+          "my": "စူရာဟ်ဟရှရ်၏ နောက်ဆုံးအာယသ်တော်ဖြစ်ပြီး အလ္လာဟ်အရှင်မြတ်၏ ကြီးကျယ်သော နာမတော်များကို စာရင်းပြုပြထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْعَزِيزُ",
+            "translit": "al-aziz",
+            "en": "the Mighty",
+            "my": "တန်ခိုးရှင်",
+            "role_en": "Adjective",
+            "role_my": "နာမဝိသေသန",
+            "root": "ع ز ز",
+            "freq": 99
+          },
+          {
+            "ar": "الْحَكِيمُ",
+            "translit": "al-hakim",
+            "en": "the Wise",
+            "my": "အမြော်အမြင်ရှိသူ",
+            "role_en": "Adjective",
+            "role_my": "နာမဝိသေသန",
+            "root": "ح ك م",
+            "freq": 97
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "A series of definite adjectives (Al-) following the pronoun 'Huwa' and name 'Allah'.",
+          "structure_my": "နာမ်စား 'Huwa' နှင့် 'Allah' နောက်တွင် လိုက်နေသော သတ်မှတ် နာမဝိသေသနများ ဖြစ်သည်။",
+          "insight_en": "The repetition of 'Al-' on each name emphasizes that each attribute is perfect and distinct.",
+          "insight_my": "နာမတော်တစ်ခုစီတွင် 'Al-' ကို ထပ်ခါသုံးခြင်းက ထိုဂုဏ်တော်တစ်ခုစီ၏ ပြီးပြည့်စုံမှုကို ဖော်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "خ ل ق",
+            "concept_en": "To measure and create from nothing.",
+            "concept_my": "မရှိရာမှ ဖန်ဆင်းခြင်း။",
+            "members": [
+              {
+                "ar": "خَلْق",
+                "en": "creation",
+                "my": "ဖန်ဆင်းခံ",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Al-Khaliq refers to the planning stage of creation."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤကမ္ဘာလောကကြီးတွင် ရှိရှိသမျှအရာအားလုံးသည် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်များကို ချီးမွမ်းနေကြသည်။ ကျွန်ုပ်တို့သည်လည်း ကိုယ်တော်၏ ဂုဏ်တော်များကို နားလည်ခြင်းအားဖြင့် ကိုယ်တော်နှင့် ပိုမိုနီးကပ်အောင် ကြိုးစားရပါမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah flows through three names (Khaliq, Bari, Musawwir) before concluding with Aziz-Hakim.",
+          "meaning_anchor": "Creation (beginning) to Might/Wisdom (ruling).",
+          "daily_connection": "Often recited in the morning and evening for protection.",
+          "my": "အာယသ်တော်၏ အဆုံးသတ် ကာရန်များကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Divine Names follow the Sifah-Mawsuf rules. Learning these patterns helps us recognize Allah's attributes instantly in the Quran and understand their deep meanings through their grammatical weights.",
+      "my": "ဂုဏ်တော်များသည် Sifah-Mawsuf ဥပဒေသများကို လိုက်နာသည်။ ဤပုံစံများကို လေ့လာခြင်းက ကုရ်အာန်တွင် အလ္လာဟ်အရှင်မြတ်၏ အရည်အချင်းများကို ချက်ချင်းသိရှိစေပြီး ၎င်းတို့၏ နက်ရှိုင်းသော အဓိပ္ပာယ်များကို နားလည်စေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-050",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 50,
+    "title": {
+      "ar": "مُرَاجَعَةُ الْمَرْحَلَةِ الْأُولَى — الْجُمْلَةُ الِاسْمِيَّةُ",
+      "en": "Adjectives V — Phase 1 Grand Review",
+      "my": "နာမဝိသေသန (၅) — ပထမအဆင့် ပြန်လည်သုံးသပ်ခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 90,
+      "vocab_time": 20,
+      "grammar_time": 30,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Full Phase 1 review: Nominal sentence, definiteness, demonstratives, pronouns, plurals, adjectives",
+      "grammar_formula": "Review of all Phase 1 structures"
+    },
+    "section_1_vocab": [
+      {
+        "word": "كِتَابٌ",
+        "translit": "kitab",
+        "en": "a book",
+        "my": "စာအုပ် / ကျမ်း",
+        "quran_freq": 230,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَال",
+        "root": {
+          "letters": "ك ت ب",
+          "concept_en": "writing / decreeing",
+          "concept_my": "ရေးသားခြင်း / သတ်မှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kitab",
+          "image": "A hand writing in a sacred book",
+          "cross_language": "Kitab (Myanmar context)"
+        },
+        "word_family": [],
+        "pattern_unlock": "Root implies something written or made mandatory.",
+        "example": {
+          "ar": "ذَٰلِكَ الْكِتَابُ",
+          "en": "That is the Book",
+          "my": "ထိုကျမ်းတော်သည်",
+          "ref": "2:2"
+        }
+      },
+      {
+        "word": "مُؤْمِنٌ",
+        "translit": "mumin",
+        "en": "a believer",
+        "my": "မုအ်မင်န် (ယုံကြည်သူ)",
+        "quran_freq": 230,
+        "word_type": "Noun/Adjective",
+        "gender": "Masculine",
+        "wazn": "مُفْعِل",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "safety / faith",
+          "concept_my": "လုံခြုံမှု / ယုံကြည်မှု"
+        },
+        "memory_hook": {
+          "sound": "Moon",
+          "image": "A believer looking at the moon in prayer",
+          "cross_language": "Iman"
+        },
+        "word_family": [],
+        "pattern_unlock": "The 'mu-' prefix often refers to a person doing the action.",
+        "example": {
+          "ar": "عَبْدٌ مُّؤْمِنٌ",
+          "en": "a believing slave",
+          "my": "ယုံကြည်သူ အစေခံတစ်ဦး",
+          "ref": "2:221"
+        }
+      },
+      {
+        "word": "صَادِقٌ",
+        "translit": "sadiq",
+        "en": "truthful",
+        "my": "မှန်ကန်သော / သစ္စာရှိသော",
+        "quran_freq": 0,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ص د ق",
+          "concept_en": "truth / sincerity",
+          "concept_my": "အမှန်တရား"
+        },
+        "memory_hook": {
+          "sound": "Sonic",
+          "image": "Truth travels fast like 'Sonic'",
+          "cross_language": "Sadaqah"
+        },
+        "word_family": [],
+        "pattern_unlock": "The Fa'il pattern denotes the 'doer' or someone currently in that state.",
+        "example": {
+          "ar": "وَعْدٌ صَادِقٌ",
+          "en": "a true promise",
+          "my": "မှန်ကန်သော ကတိတော်",
+          "ref": "19:54"
+        }
+      },
+      {
+        "word": "أُولَٰئِكَ",
+        "translit": "ula-ika",
+        "en": "those",
+        "my": "၎င်းတို့",
+        "quran_freq": 200,
+        "word_type": "Pronoun",
+        "gender": "N/A",
+        "wazn": "N/A",
+        "root": {
+          "letters": "N/A",
+          "concept_en": "pointing far",
+          "concept_my": "အဝေးကို ညွှန်ပြခြင်း"
+        },
+        "memory_hook": {
+          "sound": "You like",
+          "image": "Point to a group 'you like'",
+          "cross_language": "N/A"
+        },
+        "word_family": [],
+        "pattern_unlock": "Demonstrative pronoun for plural, regardless of gender.",
+        "example": {
+          "ar": "أُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+          "en": "those are the successful ones",
+          "my": "၎င်းတို့သည်သာလျှင် အောင်မြင်သူများ ဖြစ်ကြကုန်၏",
+          "ref": "2:5"
+        }
+      },
+      {
+        "word": "مُفْلِحُونَ",
+        "translit": "muflihun",
+        "en": "successful ones",
+        "my": "အောင်မြင်သူများ",
+        "quran_freq": 13,
+        "word_type": "Noun/Adjective",
+        "gender": "Masculine Plural",
+        "wazn": "مُفْعِلُونَ",
+        "root": {
+          "letters": "ف ل ح",
+          "concept_en": "to plow / succeed",
+          "concept_my": "အောင်မြင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fly",
+          "image": "Successful people 'fly' high",
+          "cross_language": "Falah"
+        },
+        "word_family": [],
+        "pattern_unlock": "Ending in -oon marks the sound masculine plural.",
+        "example": {
+          "ar": "الْمُفْلِحُونَ",
+          "en": "the successful",
+          "my": "အောင်မြင်သူများ",
+          "ref": "2:5"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "مُرَاجَعَةُ الْمَرْحَلَةِ ١",
+        "en": "Phase 1 Review",
+        "my": "ပထမအဆင့် ပြန်လည်သုံးသပ်ခြင်း"
+      },
+      "formula": {
+        "display": "Sentence vs Phrase Review",
+        "example": "الْكِتَابُ مُبِينٌ (Sentence) vs الْكِتَابُ الْمُبِينُ (Phrase)",
+        "myanmar_read": "သတင်းစကား (Sentence) နှင့် အစုအဝေး (Phrase) ကွာခြားချက်ကို ပြန်လည်စစ်ဆေးပါ။",
+        "key_insight": "A sentence has a gap in definiteness (The book [is] clear), while a phrase matches (The clear book)."
+      },
+      "explanation": {
+        "en": "This lesson synthesizes everything from Phase 1. We covered nouns, definiteness with 'Al-', demonstratives (this/that), personal pronouns (I/you/he), and finally adjectives. The key is understanding how words bond together to form meaning.",
+        "my": "ဤသင်ခန်းစာသည် ပထမအဆင့်တစ်ခုလုံးကို ပေါင်းစပ်ထားခြင်းဖြစ်သည်။ နာမ်များ၊ 'Al-' ဖြင့် သတ်မှတ်ခြင်း၊ ညွှန်ပြနာမ်စားများ၊ ပုဂ္ဂလိကနာမ်စားများနှင့် နာမဝိသေသနများကို လေ့လာခဲ့ပြီးဖြစ်သည်။ စကားလုံးများ မည်သို့ချိတ်ဆက်၍ အဓိပ္ပာယ်ပေါ်ထွက်လာသည်ကို နားလည်ရန် အဓိကဖြစ်ပါသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Phase 1 Arabic focuses on the 'State' (Nominal sentence), which is like the Burmese 'ဖြစ်သည်' structure.",
+        "my": "အာရဗီ Phase 1 သည် နာမ်ဝါကျများကို အဓိကထားပြီး မြန်မာစကား၏ '... ဖြစ်သည်' ဟူသော တည်ဆောက်ပုံနှင့် ဆင်တူပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "A Nominal Sentence (Jumla Ismiyya) starts with a noun.",
+          "rule_my": "နာမ်ဝါကျ (Jumla Ismiyya) သည် နာမ်နှင့် စတင်ရမည်။",
+          "example": {
+            "ar": "اللَّهُ غَفُورٌ",
+            "en": "Allah is Forgiving",
+            "my": "အလ္လာဟ်အရှင်မြတ်သည် ခွင့်လွှတ်တော်မူသောအရှင် ဖြစ်သည်။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+          "en": "That is the great success",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အီမာန်ယုံကြည်သူ ယောက်ျား၊မိန်းမများကို အကြင်ဥယျာဉ်များကို (ပေးတော်မူရန်)ကတိပြုထားတော်မူခဲ့သည်။ ထိုဥယျာဉ်များ၏အောက်မှ စမ်းရေချောင်းများ စီးဆင်လျက်ရှိသည်။ သူတို့သည် ထိုဥယျာဉ်များတွင် အမြဲနေကြရမည်။ ထို့ပြင် အမြဲတည်သောဥယျာဉ်များတွင် ကောင်းမွန်စင်ကြယ်သော ဗိမာန်များကို(ပေးဆောင်တော်မူရန်)လည်း (ကတိပြုထားတော်မူခဲ့သည်)။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်၏ကျေနပ်မှုကမူ အကြီးကျယ်ဆုံးပင် ဖြစ်သည်။ ဤသည် ကြီးကျယ်သော အောင်မြင်မှုဖြစ်သည်။",
+          "ref": "9:72",
+          "breakdown": {
+            "subject": {
+              "word": "ذَٰلِكَ",
+              "en": "That",
+              "note": "Demonstrative"
+            },
+            "predicate": {
+              "word": "الْفَوْزُ الْعَظِيمُ",
+              "en": "the great success",
+              "note": "Mawsuf-Sifah"
+            }
+          },
+          "myanmar_insight": "ညွှန်ပြနာမ်စား နှင့် Sifah-Mawsuf ပေါင်းစပ်ထားသော ဝါကျဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing pronouns with demonstratives.",
+          "wrong": {
+            "ar": "أَنَا ذَٰلِكَ",
+            "note": "Wrong context"
+          },
+          "correct": {
+            "ar": "أَنَا مُؤْمِنٌ",
+            "en": "I am a believer",
+            "my": "ကျွန်ုပ်သည် မုအ်မင်န်တစ်ဦး ဖြစ်ပါသည်"
+          },
+          "myanmar_tip": "Huwa (သူ) နှင့် Dhalika (ထိုအရာ) ကို မရောထွေးပါနှင့်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the pronoun in: هُوَ الْعَزِيزُ",
+          "instruction_my": "အောက်ပါတွင် နာမ်စားကို ရှာပါ - هُوَ الْعَزِيزُ",
+          "questions": [
+            {
+              "q": "هُوَ الْعَزِيزُ",
+              "answer_en": "huwa",
+              "answer_my": "هُوَ",
+              "ref": "59:24"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: أُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+          "instruction_my": "ဘာသာပြန်ပါ - أُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+          "questions": [
+            {
+              "q": "أُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+              "answer_en": "Those are the successful ones",
+              "answer_my": "၎င်းတို့သည်သာလျှင် အောင်မြင်သူများ ဖြစ်ကြကုန်၏"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Create a sentence: (The Quran) + (Clear)",
+          "instruction_my": "(ကုရ်အာန်) + (ရှင်းလင်းသော) ကို ဝါကျဖွဲ့ပါ",
+          "questions": [
+            {
+              "q": "الْقُرْآنُ + مُبِينٌ",
+              "answer_en": "Al-Quranu mubinun",
+              "answer_my": "ကုရ်အာန်သည် ရှင်းလင်းလှသည်",
+              "ar": "الْقُرْآنُ مُبِينٌ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Mastering the nominal sentence allows us to recognize the declarations of truth in the Quran. It defines who Allah is and who we are in relation to Him.",
+        "my": "နာမ်ဝါကျများကို ကျွမ်းကျင်ခြင်းက ကုရ်အာန်လာ အမှန်တရား ကြေညာချက်များကို နားလည်စေသည်။ ၎င်းသည် အလ္လာဟ်အရှင်မြတ်က မည်သူဖြစ်ကြောင်းနှင့် ကျွန်ုပ်တို့နှင့် ကိုယ်တော်၏ ဆက်နွယ်မှုကို အဓိပ္ပာယ်ဖွင့်ဆိုပေးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:2-5",
+        "study_number": 1,
+        "arabic_full": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ ... أُولَٰئِكَ عَلَىٰ هُدًى مِّن رَّبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+        "en_sahih": "This is the Book about which there is no doubt, a guidance for those conscious of Allah... Those are upon [right] guidance from their Lord, and it is those who are the successful.",
+        "my_mmsy": "ဤကျမ်းသည် (ယခင်ထုတ်ပြန်ခဲ့သောကျမ်းများထဲ၌ ကြိုတင်အမိန့်ရှိထားသည့် ကျမ်းဂန်ဖြစ်လေရာ (ဝါ) အသင်တို့က ငါအရှင်မြတ်ထံတွင် ”ကျွန်ုပ်တို့အား ဖြောင့်မတ်မှန်ကန်သောလမ်းကို ညွှန်ကြားပြသတော်မူပါ” ဟု တောင်းခံခြင်းကို ငါအရှင်လက်ခံတော်မူ၍ ချပေးတော်မူလိုက်သည့် လမ်းမှန်ညွှန်ကြားပြသချက်ကျမ်းဂန်ဖြစ်လေရာ) ၎င်းကျမ်းဂန်နှင့်ပတ်သက်၍ သံသယဖြစ်စရာမရှိပေ။ ဤကျမ်းဂန်သည် မုသ်သကီန် ကြောက်ရွံ့ အပြစ်ရှောင် ကောင်းကျိုးဆောင်သူများအတွက် လမ်းမှန်ညွှန်ကြားပြသချက်ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 2,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002002.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/2",
+        "context": {
+          "en": "The opening of Al-Baqarah defines the Quran and those who benefit from it.",
+          "my": "စူရာဟ်ဗကရဟ်၏ အစပိုင်းဖြစ်ပြီး ကုရ်အာန်ကျမ်းနှင့် ၎င်းမှ အကျိုးခံစားရသူများအကြောင်း ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "ذَٰلِكَ",
+            "translit": "dhalika",
+            "en": "That",
+            "my": "ထိုအရာ",
+            "role_en": "Demonstrative",
+            "role_my": "ညွှန်ပြနာမ်စား",
+            "root": "N/A",
+            "freq": 200
+          },
+          {
+            "ar": "الْمُفْلِحُونَ",
+            "translit": "al-muflihun",
+            "en": "the successful",
+            "my": "အောင်မြင်သူများ",
+            "role_en": "Predicate / Noun",
+            "role_my": "နာမ်",
+            "root": "ف ل ح",
+            "freq": 13
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Use of Dhalika (That) for honor, and Ula-ika (Those) for the group of believers.",
+          "structure_my": "ဂုဏ်ပြုသောအားဖြင့် Dhalika (ထို) ကို သုံးပြီး ယုံကြည်သူများ အုပ်စုအတွက် Ula-ika (၎င်းတို့) ကို သုံးထားသည်။",
+          "insight_en": "The transition from singular 'That Book' to plural 'Those successful' shows the journey of the individual with the Book.",
+          "insight_my": "ကျမ်းတော်တစ်ခုတည်းမှနေ၍ အောင်မြင်သူအများအပြား ဖြစ်လာပုံကို ပြသနေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ဖ လ ဟ",
+            "concept_en": "To split the earth (plowing). A successful person is like a farmer who worked hard and now sees the harvest.",
+            "concept_my": "မြေကြီးကို ခွဲခြမ်းခြင်း (ထွန်ယက်ခြင်း)။ အောင်မြင်သူသည် ကြိုးစားအားထုတ်ပြီး အသီးအပွင့် ခံစားရသော တောင်သူနှင့် တူသည်။",
+            "members": [
+              {
+                "ar": "فَلَاح",
+                "en": "success",
+                "my": "အောင်မြင်မှု",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Falah is comprehensive success in this world and the next."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "စစ်မှန်သော အောင်မြင်မှုသည် လောကီစည်းစိမ်များပေါ်တွင် မမူတည်ဘဲ အလ္လာဟ်အရှင်မြတ်၏ လမ်းညွှန်မှုပေါ်တွင်သာ မူတည်ပါသည်။ ကုရ်အာန်ကျမ်းတော်ကို လမ်းညွှန်အဖြစ် လက်ခံသူများသည်သာ 'အောင်မြင်သူများ' ဖြစ်ကြပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The repetitive use of 'Ula-ika' creates a strong emphasis.",
+          "meaning_anchor": "Success (Falah) linked to Guidance (Huda).",
+          "daily_connection": "Recited daily to remind ourselves of the goal of life.",
+          "my": "Ula-ika humul muflihun ဟူသော အပိုင်းကို အလွတ်မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Phase 1 complete! We can now identify nouns, describe them with adjectives, and form basic sentences that declare the greatness of Allah and the truth of the Quran.",
+      "my": "ပထမအဆင့် ပြီးဆုံးပါပြီ။ ယခုအခါ နာမ်များကို သိရှိနိုင်ပြီ၊ နာမဝိသေသနများဖြင့် ဖော်ပြနိုင်ပြီဖြစ်သလို အလ္လာဟ်အရှင်မြတ်၏ ကြီးကျယ်မှုနှင့် ကုရ်အာန်၏ အမှန်တရားများကို ဖော်ပြသည့် အခြေခံဝါကျများကိုလည်း ဖွဲ့စည်းနိုင်ပြီ ဖြစ်သည်။"
+    }
+  }
+]

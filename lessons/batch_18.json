@@ -1,0 +1,1947 @@
+[
+  {
+    "lesson_id": "L2-086",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 86,
+    "title": {
+      "ar": "المَصْدَرُ (١) — مَفْهُومُ المَصْدَرِ",
+      "en": "Verbal Nouns I — What is a Masdar?",
+      "my": "ကြိယာနာမ် (၁) - မတ်စ်ဒရ်၏ အဓိပ္ပာယ်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Masdar as the noun form of a verb; not the doer, but the act",
+      "grammar_formula": "Root Letters + Vowel Pattern = The Concept/Act"
+    },
+    "section_1_vocab": [
+      {
+        "word": "هُدًى",
+        "translit": "huda",
+        "en": "guidance",
+        "my": "လမ်းညွှန်မှု",
+        "quran_freq": 316,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعَلً",
+        "root": {
+          "letters": "ه د ي",
+          "concept_en": "to guide or direct",
+          "concept_my": "လမ်းညွှန်ပြသခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Huda (similar to 'Hood' of a car leading the way)",
+          "image": "A bright light illuminating a dark forest path",
+          "cross_language": "Hidayat (Urdu/Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "هَادٍ",
+            "translit": "hadin",
+            "en": "guide",
+            "my": "လမ်းညွှန်သူ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Words from this root always relate to showing the right path or giving a gift of direction.",
+        "example": {
+          "ar": "ذٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+          "en": "This is the Book about which there is no doubt, a guidance for those conscious of Allah",
+          "my": "ဤကျမ်းစာသည် သံသယဖြစ်ဖွယ်မရှိသော ကျမ်းဖြစ်သည်၊ ပြစ်မှုဒုစရိုက်မှ ကြဉ်ရှောင်သူများအတွက် လမ်းညွှန်မှုဖြစ်သည်",
+          "ref": "2:2"
+        }
+      },
+      {
+        "word": "عِبَادَة",
+        "translit": "ibadah",
+        "en": "worship",
+        "my": "ခဝပ်ကိုးကွယ်မှု",
+        "quran_freq": 280,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعَالَة",
+        "root": {
+          "letters": "ع ب د",
+          "concept_en": "to serve or worship",
+          "concept_my": "ကျွန်ခံခြင်း (သို့) ကိုးကွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ibadah (sounds like 'A body' bowing down)",
+          "image": "A servant standing ready to obey a master's command",
+          "cross_language": "Ibadat (Urdu/Myanmar Muslim usage)"
+        },
+        "word_family": [
+          {
+            "ar": "عَبْد",
+            "translit": "abd",
+            "en": "slave",
+            "my": "ကျွန်/အစေခံ",
+            "freq": 125
+          }
+        ],
+        "pattern_unlock": "The 'I-a-ah' sound in 'Ibadah' often points to the 'act' or 'profession' of the root.",
+        "example": {
+          "ar": "إِيَّاكَ نَعْبُدُ",
+          "en": "It is You we worship",
+          "my": "ကျွန်တော်မျိုးတို့သည် အရှင်မြတ်ကိုသာလျှင် ခဝပ်ကိုးကွယ်ပါ၏",
+          "ref": "1:5"
+        }
+      },
+      {
+        "word": "خَلْق",
+        "translit": "khalq",
+        "en": "creation",
+        "my": "ဖန်ဆင်းမှု",
+        "quran_freq": 261,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "خ ل ق",
+          "concept_en": "to create or measure",
+          "concept_my": "ဖန်ဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khalq (sounds like 'Clock' - a created mechanism)",
+          "image": "The vast universe being brought into existence",
+          "cross_language": "Khaliq (Creator)"
+        },
+        "word_family": [
+          {
+            "ar": "خَالِق",
+            "translit": "khaliq",
+            "en": "Creator",
+            "my": "ဖန်ဆင်းရှင်",
+            "freq": 11
+          }
+        ],
+        "pattern_unlock": "Khalq refers to both the act of creating and the thing that was created.",
+        "example": {
+          "ar": "فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ",
+          "en": "In the creation of the heavens and the earth",
+          "my": "မိုးကောင်းကင်များနှင့် ကမ္ဘာမြေကို ဖန်ဆင်းရာတွင်",
+          "ref": "3:190"
+        }
+      },
+      {
+        "word": "قَتْل",
+        "translit": "qatl",
+        "en": "killing",
+        "my": "သတ်ဖြတ်ခြင်း",
+        "quran_freq": 20,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ق ت ل",
+          "concept_en": "to kill or fight",
+          "concept_my": "သတ်ဖြတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qatl (sounds like 'Cut-all')",
+          "image": "A fallen sword representing the end of life",
+          "cross_language": "Qatl (Urdu/Hindi)"
+        },
+        "word_family": [
+          {
+            "ar": "قَاتِل",
+            "translit": "qatil",
+            "en": "killer",
+            "my": "လူသတ်သမား",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The simple 'fa'l' pattern is the most basic way to turn a 3-letter verb into an abstract noun.",
+        "example": {
+          "ar": "وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَأً",
+          "en": "And it is never for a believer to kill a believer except by mistake",
+          "my": "ယုံကြည်သူတစ်ဦးသည် အခြားယုံကြည်သူတစ်ဦးကို မှားယွင်း၍မဟုတ်ဘဲ သတ်ဖြတ်ပိုင်ခွင့်မရှိပါ",
+          "ref": "4:92"
+        }
+      },
+      {
+        "word": "ذِكْر",
+        "translit": "dhikr",
+        "en": "remembrance",
+        "my": "အောက်မေ့သတိရခြင်း",
+        "quran_freq": 292,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ذ ك ر",
+          "concept_en": "to remember or mention",
+          "concept_my": "သတိရခြင်း/ထုတ်ဖော်ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dhikr (similar to 'The core')",
+          "image": "A person counting beads or repeating a name in their heart",
+          "cross_language": "Zikir (Malay/Myanmar Muslim)"
+        },
+        "word_family": [
+          {
+            "ar": "ذَاكِر",
+            "translit": "dhakir",
+            "en": "one who remembers",
+            "my": "သတိရသူ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Dhikr can mean the act of remembering, the thing mentioned, or the Quran itself.",
+        "example": {
+          "ar": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+          "en": "Unquestionably, by the remembrance of Allah hearts are assured",
+          "my": "အလ္လာဟ်အရှင်မြတ်အား အောက်မေ့သတိရခြင်းဖြင့်သာလျှင် စိတ်နှလုံးများသည် တည်ငြိမ်မှုရရှိကြသည်မဟုတ်ပါလော",
+          "ref": "13:28"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "المَصْدَر",
+        "en": "The Masdar (Verbal Noun)",
+        "my": "မတ်စ်ဒရ် (ကြိယာနာမ်)"
+      },
+      "formula": {
+        "display": "قَتَلَ (He killed) → قَتْل (The act of killing)",
+        "example": "الْحَمْدُ لله (All praise is for Allah)",
+        "myanmar_read": "ကြိယာမှ ဆင်းသက်လာသော်လည်း နာမ်ကဲ့သို့ အသုံးပြုသော စကားလုံး",
+        "key_insight": "The Masdar is the 'Idea' or 'Concept' of the action without a tense or a doer."
+      },
+      "explanation": {
+        "en": "A Masdar is an abstract noun derived from a verb. Unlike a verb, it does not have a past, present, or future tense, and it does not tell you 'who' did the action. It simply names the action itself, such as 'eating', 'studying', or 'guidance'. In morphology, it is often called the 'source' from which other words are derived.",
+        "my": "မတ်စ်ဒရ် (Masdar) ဆိုသည်မှာ ကြိယာတစ်ခုမှ ဆင်းသက်လာသော နာမ်ဖြစ်သည်။ ၎င်းတွင် အတိတ်၊ ပစ္စုပ္ပန်၊ အနာဂတ် ဟူသော ကာလ (Tense) မရှိသလို၊ ပြုလုပ်သူ (Doer) ကိုလည်း တိုက်ရိုက်မဖော်ပြပါ။ ၎င်းသည် ပြုလုပ်မှု၏ 'အမည်' သို့မဟုတ် 'သဘောတရား' သက်သက်ကိုသာ ဖော်ပြသည်။ ဥပမာ - 'စားသည်' မှ 'စားခြင်း'၊ 'သွားသည်' မှ 'သွားခြင်း' ကဲ့သို့ ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we often create a verbal noun by adding 'ခြင်း' (chin) or 'မှု' (mu) to a verb. Arabic uses specific morphological patterns (wazn) to achieve this.",
+        "my": "မြန်မာဘာသာစကားတွင် ကြိယာနောက်၌ 'ခြင်း' သို့မဟုတ် 'မှု' ထည့်၍ ကြိယာနာမ်ပြုလုပ်သကဲ့သို့ (ဥပမာ - လမ်းညွှန်မှု၊ သတ်ဖြတ်ခြင်း)၊ အာရဗီတွင် သတ်မှတ်ထားသော ပုံစံ (Wazn) များဖြင့် ပြောင်းလဲယူရပါသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Masdars function like nouns: they can take 'Al-', tanween, and change cases.",
+          "rule_my": "မတ်စ်ဒရ်များသည် နာမ်များကဲ့သို့ပင် Al- (အယ်လ်) လက်ခံနိုင်ခြင်း၊ တန်ဝင်းန် လက်ခံနိုင်ခြင်းနှင့် အိအ်ရာဘ် (အဆုံးသတ်ဗျည်းသံ) ပြောင်းလဲနိုင်ခြင်းတို့ ရှိသည်။",
+          "example": {
+            "ar": "الْحَمْدُ",
+            "en": "The praise",
+            "my": "ချီးမွမ်းခြင်း"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+          "en": "It is You we worship and You we ask for help",
+          "my": "ကျွန်ုပ်တို့သည် အရှင်မြတ်ကိုသာလျှင် ကိုးကွယ်ကြပါသည် ။ ထို့ပြင် ကျွန်ုပ်တို့သည် အရှင်မြတ်ထံမှသာလျှင် အကူအညီတောင်းခံကြပါသည် ။",
+          "ref": "1:5",
+          "breakdown": {
+            "subject": {
+              "word": "نَحْنُ",
+              "en": "We (implied)",
+              "note": "The doers"
+            },
+            "predicate": {
+              "word": "نَعْبُدُ",
+              "en": "worship",
+              "note": "The verb form of the Masdar 'Ibadah'"
+            }
+          },
+          "myanmar_insight": "Even though 'Ibadah' is the noun, here the verb 'Na'budu' is used to show the ongoing action."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing the Masdar (the act) with the Fa'il (the doer).",
+          "wrong": {
+            "ar": "خَالِق",
+            "note": "This is 'Creator', not 'Creation'"
+          },
+          "correct": {
+            "ar": "خَلْق",
+            "en": "Creation (The act/concept)",
+            "my": "ဖန်ဆင်းခြင်း"
+          },
+          "myanmar_tip": "ပြုလုပ်သူ (ဖန်ဆင်းရှင်) နှင့် ပြုလုပ်မှု (ဖန်ဆင်းခြင်း) ကို မရောထွေးပါနှင့်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Masdar in these words",
+          "instruction_my": "အောက်ပါစကားလုံးများထဲမှ မတ်စ်ဒရ် (ကြိယာနာမ်) ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "قَوْلٌ",
+              "answer_en": "Masdar (Speech)",
+              "answer_my": "မတ်စ်ဒရ် (ပြောဆိုခြင်း)",
+              "ref": "Quran"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the Masdar phrase into English",
+          "instruction_my": "အောက်ပါ မတ်စ်ဒရ် အစုအဝေးကို အင်္ဂလိပ်သို့ ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "ذِكْرُ اللهِ",
+              "answer_en": "Remembrance of Allah",
+              "answer_my": "အလ္လာဟ်အရှင်မြတ်အား အောက်မေ့သတိရခြင်း"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Turn the verb into a Masdar (Pattern: Fa'l)",
+          "instruction_my": "ကြိယာကို မတ်စ်ဒရ် (Fa'l ပုံစံ) သို့ ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "حَمِدَ",
+              "answer_en": "Hamd",
+              "answer_my": "ဟမ်ဒ် (ချီးမွမ်းခြင်း)",
+              "ar": "حَمْد"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The Masdar represents the pure essence of a reality. When we say 'Al-Hamdu', we are referring to the very concept of Praise in its absolute form, which belongs only to Allah.",
+        "my": "မတ်စ်ဒရ်သည် အမှန်တရားတစ်ခု၏ စစ်မှန်သော အနှစ်သာရကို ကိုယ်စားပြုသည်။ ကျွန်ုပ်တို့က 'Al-Hamdu' ဟု ဆိုသောအခါ ချီးမွမ်းခြင်းဟူသော သဘောတရားတစ်ခုလုံးသည် အလ္လာဟ်အရှင်မြတ်အတွက်သာ ဖြစ်ကြောင်း ရည်ညွှန်းခြင်းဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:2",
+        "study_number": 1,
+        "arabic_full": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+        "en_sahih": "This is the Book about which there is no doubt, a guidance for those conscious of Allah",
+        "my_mmsy": "ဤကျမ်းသည် (ယခင်ထုတ်ပြန်ခဲ့သောကျမ်းများထဲ၌ ကြိုတင်အမိန့်ရှိထားသည့် ကျမ်းဂန်ဖြစ်လေရာ (ဝါ) အသင်တို့က ငါအရှင်မြတ်ထံတွင် ”ကျွန်ုပ်တို့အား ဖြောင့်မတ်မှန်ကန်သောလမ်းကို ညွှန်ကြားပြသတော်မူပါ” ဟု တောင်းခံခြင်းကို ငါအရှင်လက်ခံတော်မူ၍ ချပေးတော်မူလိုက်သည့် လမ်းမှန်ညွှန်ကြားပြသချက်ကျမ်းဂန်ဖြစ်လေရာ) ၎င်းကျမ်းဂန်နှင့်ပတ်သက်၍ သံသယဖြစ်စရာမရှိပေ။ ဤကျမ်းဂန်သည် မုသ်သကီန် ကြောက်ရွံ့ အပြစ်ရှောင် ကောင်းကျိုးဆောင်သူများအတွက် လမ်းမှန်ညွှန်ကြားပြသချက်ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 2,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002002.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/2",
+        "context": {
+          "en": "The opening of Surah Al-Baqarah establishes the Quran as the ultimate source of guidance for those who seek to be righteous.",
+          "my": "စူရဟ်ဗကရဟ်၏ အစပိုင်းတွင် ကုရ်အာန်ကျမ်းတော်မြတ်သည် တရားမျှတမှုကို ရှာဖွေသူများအတွက် အန္တိမ လမ်းညွှန်မှုအရင်းအမြစ်ဖြစ်ကြောင်း ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "هُدًى",
+            "translit": "hudan",
+            "en": "a guidance",
+            "my": "လမ်းညွှန်မှုတစ်ရပ်",
+            "role_en": "Predicate/Masdar",
+            "role_my": "သတင်းစကား/မတ်စ်ဒရ်",
+            "root": "ه د ي",
+            "freq": 316
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The word 'Hudan' is used as a Masdar. It describes the Quran's nature as 'Guidance' itself.",
+          "structure_my": "'Hudan' ကို မတ်စ်ဒရ်အဖြစ် အသုံးပြုထားသည်။ ၎င်းသည် ကုရ်အာန်၏ သဘာဝမှာ 'လမ်းညွှန်မှု' အနှစ်သာရဖြစ်ကြောင်း ဖော်ပြသည်။",
+          "insight_en": "By using the Masdar instead of a verb, Allah shows that the Quran is a constant, unchanging source of guidance.",
+          "insight_my": "ကြိယာအစား မတ်စ်ဒရ်ကို အသုံးပြုခြင်းဖြင့် ကုရ်အာန်သည် အမြဲတမ်း တည်ရှိနေသော၊ မပြောင်းလဲသော လမ်းညွှန်မှု အရင်းအမြစ်ဖြစ်ကြောင်း အလ္လာဟ်အရှင်မြတ်က ပြသတော်မူသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ه د ي",
+            "concept_en": "To lead someone with kindness to their destination",
+            "concept_my": "တစ်ဦးတစ်ယောက်အား မိမိသွားလိုသော ပန်းတိုင်သို့ ကြင်နာစွာဖြင့် လမ်းပြခေါ်ဆောင်သွားခြင်း",
+            "members": [
+              {
+                "ar": "هَدِيَّة",
+                "en": "gift",
+                "my": "လက်ဆောင်",
+                "freq": 0
+              }
+            ],
+            "professors_note": "In Arabic, guidance (Hidayah) is linguistically linked to a gift (Hadiyyah), suggesting that true guidance is the ultimate gift from God."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ နေ့စဉ်ဘဝတွင် လမ်းပျောက်နေသကဲ့သို့ ခံစားရချိန်တိုင်း ဤအာယသ်တော်ကို သတိရပါ။ ကုရ်အာန်သည် 'လမ်းညွှန်မှု' (Hudan) ဟူသော အမည်နာမဖြင့် ဆင်းသက်လာခြင်းဖြစ်သည်။ ၎င်းသည် သင့်အတွက် အလ္လာဟ်အရှင်မြတ်ထံမှ အဖိုးတန်ဆုံးသော လက်ဆောင်တစ်ခုဖြစ်သည်။ ဤလမ်းညွှန်မှုကို ရယူရန်အတွက် ကျွန်ုပ်တို့၏ စိတ်နှလုံးထဲတွင် အရှင်မြတ်အား ကြောက်ရွံ့ရိုသေစိတ် (Taqwa) ရှိရန်သာ လိုအပ်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah ends with a rhythmic 'een' sound (Muttaqeen).",
+          "meaning_anchor": "Imagine a map or a compass that never fails.",
+          "daily_connection": "Recite this when beginning any study or seeking a solution to a problem.",
+          "my": "အာယသ်တော်၏အဆုံးတွင် 'အီးန်' (Muttaqeen) သံဖြင့် အဆုံးသတ်ထားသည်။ လမ်းမမှားစေသော သံလိုက်အိမ်မြှောင်တစ်ခုကို မြင်ယောင်ကြည့်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we learned that the Masdar is an abstract noun that names an action without being tied to time or a specific person. Understanding Masdars is key to unlocking the 'concepts' within the Quranic vocabulary.",
+      "my": "ဤသင်ခန်းစာတွင် မတ်စ်ဒရ် (ကြိယာနာမ်) သည် အချိန်ကာလ သို့မဟုတ် ပြုလုပ်သူနှင့် မသက်ဆိုင်ဘဲ ပြုလုပ်မှု၏ အမည်ကိုသာ ဖော်ပြကြောင်း လေ့လာခဲ့ရသည်။ မတ်စ်ဒရ်များကို နားလည်ခြင်းသည် ကုရ်အာန်၏ ဝေါဟာရများတွင်ပါရှိသော 'အယူအဆ' များကို သဘောပေါက်ရန် သော့ချက်ဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-087",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 87,
+    "title": {
+      "ar": "المَصْدَرُ (٢) — أَوْزَانُ المَصْدَرِ لِلْفِعْلِ الثُّلَاثِيِّ",
+      "en": "Verbal Nouns II — Form I Masdar Patterns",
+      "my": "ကြိယာနာမ် (၂) - ပုံစံ(၁) မတ်စ်ဒရ်များ၏ ပုံစံကွဲများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Form I Masdar has no single pattern; must be memorised",
+      "grammar_formula": "Various Patterns (Fa'l, Fu'l, Fi'al, etc.)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "ضَلَال",
+        "translit": "dalal",
+        "en": "straying / error",
+        "my": "လမ်းလွဲခြင်း",
+        "quran_freq": 39,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَال",
+        "root": {
+          "letters": "ض ل ل",
+          "concept_en": "to stray from the path",
+          "concept_my": "လမ်းမှားရောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dalal (sounds like 'Delay' - straying delays you)",
+          "image": "A person lost in a thick fog, unable to find the road",
+          "cross_language": "Dalalat (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "ضَالِّين",
+            "translit": "dalleen",
+            "en": "those who go astray",
+            "my": "လမ်းမှားရောက်သူများ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The 'a-aa' pattern (Fa'al) is a common Masdar for verbs indicating a state or movement.",
+        "example": {
+          "ar": "إِنَّكَ لَفِي ضَلَالِكَ الْقَدِيمِ",
+          "en": "Indeed, you are in your old error",
+          "my": "အမှန်စင်စစ် သင်သည် သင်၏ ဟောင်းနွမ်းလှသော လမ်းလွဲမှု၌သာ ရှိနေသေးသည်",
+          "ref": "12:95"
+        }
+      },
+      {
+        "word": "شُكْر",
+        "translit": "shukr",
+        "en": "gratitude",
+        "my": "ကျေးဇူးတင်ခြင်း",
+        "quran_freq": 75,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ش ك ر",
+          "concept_en": "to be thankful or recognize favor",
+          "concept_my": "ကျေးဇူးတင်ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shukr (sounds like 'Sugar' - gratitude is sweet)",
+          "image": "Giving a heartfelt 'thank you' for a generous gift",
+          "cross_language": "Syukur (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "شَاكِر",
+            "translit": "shakir",
+            "en": "grateful",
+            "my": "ကျေးဇူးသိတတ်သူ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "The 'u' sound in the first syllable (Fu'l) often conveys a sense of feeling or inner state.",
+        "example": {
+          "ar": "قَلِيلًا مَّا تَشْكُرُونَ",
+          "en": "Little is the gratitude you give",
+          "my": "အနည်းငယ်သာလျှင် သင်တို့ ကျေးဇူးတင်ကြသည်",
+          "ref": "7:10"
+        }
+      },
+      {
+        "word": "صَبْر",
+        "translit": "sabr",
+        "en": "patience",
+        "my": "သည်းခံခြင်း",
+        "quran_freq": 103,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ص ب ر",
+          "concept_en": "to restrain or endure",
+          "concept_my": "ချုပ်တည်းခြင်း/အောင့်အည်းသည်းခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sabr (sounds like 'Sober' - staying calm and clear)",
+          "image": "A sturdy tree standing still during a heavy storm",
+          "cross_language": "Sabr (Urdu/Malay/Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "صَابِرِين",
+            "translit": "sabireen",
+            "en": "the patient ones",
+            "my": "သည်းခံသူများ",
+            "freq": 42
+          }
+        ],
+        "pattern_unlock": "Sabr is one of the most common nouns in the Quran, following the simplest 'Fa'l' pattern.",
+        "example": {
+          "ar": "وَاصْبِرْ لِحُكْمِ رَبِّكَ",
+          "en": "And be patient for the decision of your Lord",
+          "my": "သင်၏အရှင်မြတ်၏ အမိန့်တော်အတွက် သည်းခံလော့",
+          "ref": "52:48"
+        }
+      },
+      {
+        "word": "عِلْم",
+        "translit": "ilm",
+        "en": "knowledge",
+        "my": "ပညာဗဟုသုတ",
+        "quran_freq": 854,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "to know or mark",
+          "concept_my": "သိရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ilm (sounds like 'Illume' - to light up)",
+          "image": "An open book with light shining from its pages",
+          "cross_language": "Ilmu (Malay), Alam (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "عَالِم",
+            "translit": "alim",
+            "en": "scholar",
+            "my": "ပညာရှင်",
+            "freq": 13
+          }
+        ],
+        "pattern_unlock": "The 'i' sound (Fi'l) often represents the core abstract concept of a verb.",
+        "example": {
+          "ar": "وَقُل رَّبِّ زِدْنِي عِلْمًا",
+          "en": "And say, 'My Lord, increase me in knowledge'",
+          "my": "အို-ကျွန်တော်မျိုး၏အရှင်၊ ကျွန်တော်မျိုးအား ပညာဗဟုသုတ တိုးပွားစေတော်မူပါဟု ဆုတောင်းလော့",
+          "ref": "20:114"
+        }
+      },
+      {
+        "word": "دُعَاء",
+        "translit": "du'a",
+        "en": "supplication / calling",
+        "my": "ဆုတောင်းခြင်း",
+        "quran_freq": 212,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعَال",
+        "root": {
+          "letters": "د ع و",
+          "concept_en": "to call out or invite",
+          "concept_my": "ဖိတ်ခေါ်ခြင်း/ဟစ်ခေါ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dua (sounds like 'Do-Ah!' - an exclamation of need)",
+          "image": "Two hands raised toward the sky in prayer",
+          "cross_language": "Doa (Malay/Myanmar Muslim)"
+        },
+        "word_family": [
+          {
+            "ar": "دَاعٍ",
+            "translit": "da'in",
+            "en": "caller",
+            "my": "ဖိတ်ခေါ်သူ",
+            "freq": 8
+          }
+        ],
+        "pattern_unlock": "Verbs ending in a weak letter (like 'waw') often take the 'Fu'aal' pattern for their Masdar.",
+        "example": {
+          "ar": "إِنَّ رَبِّي لَسَمِيعُ الدُّعَاءِ",
+          "en": "Indeed, my Lord is the Hearer of supplication",
+          "my": "အမှန်စင်စစ် ကျွန်ုပ်၏အရှင်သည် ဆုတောင်းသံကို ကြားတော်မူသောအရှင် ဖြစ်သည်",
+          "ref": "14:39"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "أَوْزَانُ المَصْدَرِ السِّمَاعِيَّة",
+        "en": "Irregular (Hearing-based) Masdar Patterns",
+        "my": "ကြားဖူးနားဝအရ မှတ်သားရသော မတ်စ်ဒရ်ပုံစံများ"
+      },
+      "formula": {
+        "display": "No fixed formula for Form I verbs",
+        "example": "كَتَبَ → كِتَابَة | خَرَجَ → خُرُوج",
+        "myanmar_read": "ပုံစံ(၁) ကြိယာများအတွက် ပုံသေနည်းမရှိဘဲ အဘိဓာန်တွင် ကြည့်ရမည်",
+        "key_insight": "For simple 3-letter verbs, the Masdar must be learned word by word."
+      },
+      "explanation": {
+        "en": "Unlike advanced verb forms (Forms II-X), the basic Form I verb (the 3-letter root) does not have a single predictable pattern for its Masdar. Some follow 'Fa'l', some 'Fu'ool', some 'Fi'aalah'. Because these depend on traditional usage, they are called 'Simaa'ee' (heard).",
+        "my": "အဆင့်မြင့်ကြိယာပုံစံများ (Forms II-X) နှင့် မတူသည်မှာ၊ အခြေခံ ပုံစံ(၁) ကြိယာ (၃ လုံးတွဲမူလစာလုံး) များတွင် မတ်စ်ဒရ်အတွက် ပုံသေပုံစံတစ်ခုတည်း မရှိပါ။ အချို့မှာ 'Fa'l'၊ အချို့မှာ 'Fu'ool' စသည်ဖြင့် ကွဲပြားသည်။ ထို့ကြောင့် ၎င်းတို့ကို 'စီမာအီ' (ကြားဖူးနားဝအရ မှတ်သားရသောပုံစံ) ဟု ခေါ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Just as in English where we have different endings like '-tion' (creation), '-ance' (guidance), or '-ing' (killing), Arabic has different Masdar patterns.",
+        "my": "အင်္ဂလိပ်ဘာသာတွင် ကြိယာနာမ်ပြုလုပ်ရန် နောက်ဆက်တွဲများ (tion, ing, ment) ကွဲပြားသကဲ့သို့၊ အာရဗီတွင်လည်း မတ်စ်ဒရ်ပုံစံများ ကွဲပြားခြင်းဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Always look up the Masdar of a Form I verb in a dictionary.",
+          "rule_my": "ပုံစံ(၁) ကြိယာတစ်ခု၏ မတ်စ်ဒရ်ကို အမြဲတမ်း အဘိဓာန်တွင် ရှာဖွေမှတ်သားပါ။",
+          "example": {
+            "ar": "دَخَلَ (He entered) → دُخُول (Entry)",
+            "en": "Dukhool is the Masdar",
+            "my": "Dukhool သည် မတ်စ်ဒရ်ဖြစ်သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Common Masdar Pattern: Fu'ool",
+          "ar": "وَقُل رَّبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ",
+          "en": "And say, 'My Lord, cause me to enter a sound entrance and to exit a sound exit'",
+          "my": "ထို့ပြင် (အို- တမန်တော်)အသင်သည် (ဤသို့)လျှောက်ထားပါ- “အို- ကျွန်ုပ်အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်၊ အရှင်မြတ်သည် ကျွန်ုပ်အား (မဒီနဟ်မြိ့ုတော်သို့)နှစ်သက်ကောင်းမွန်သော ထွက်စေခြင်းမျိုးဖြင့် ထွက်စေတော်မူပါ။  ထို့ပြင် အရှင်မြတ်သည် ကျွန်ုပ်အား အရှင့်ထံမှ ကူညီပံ့ပိုးမည့် အားအင်စိုးမိုးမှုကို ပေးသနားတော်မူပါ“။",
+          "ref": "17:80",
+          "breakdown": {
+            "subject": {
+              "word": "أَدْخِلْنِي",
+              "en": "Cause me to enter",
+              "note": "Verb"
+            },
+            "predicate": {
+              "word": "صِدْقٍ",
+              "en": "Truth/Sincerity",
+              "note": "Noun"
+            }
+          },
+          "myanmar_insight": "Notice how entry and exit are described with specific nouns of action."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Applying the 'Fa'l' pattern to all Form I verbs.",
+          "wrong": {
+            "ar": "خَرَج",
+            "note": "Thinking 'Kharj' is the act of exiting"
+          },
+          "correct": {
+            "ar": "خُرُوج",
+            "en": "Exiting / Exit",
+            "my": "ထွက်ခွာခြင်း"
+          },
+          "myanmar_tip": "ကြိယာတိုင်းကို Fa'l ပုံစံအတိုင်း မတ်စ်ဒရ်လုပ်၍မရပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Match the verb to its Quranic Masdar",
+          "instruction_my": "ကြိယာနှင့် ၎င်း၏ ကုရ်အာန်လာ မတ်စ်ဒရ်ကို တွဲပေးပါ။",
+          "questions": [
+            {
+              "q": "شَكَرَ (To thank)",
+              "answer_en": "شُكْر",
+              "answer_my": "ရှုကူရ် (ကျေးဇူးတင်ခြင်း)",
+              "ref": "Quran"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate these common Masdars",
+          "instruction_my": "အသုံးများသော မတ်စ်ဒရ်များကို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "صَبْرٌ جَمِيلٌ",
+              "answer_en": "A beautiful patience",
+              "answer_my": "လှပသော သည်းခံခြင်း"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Given 'D-Kh-L', write the Masdar pattern for 'Entry'",
+          "instruction_my": "'D-Kh-L' မူလစာလုံးမှ 'ဝင်ရောက်ခြင်း' မတ်စ်ဒရ်ကို ရေးပါ။",
+          "questions": [
+            {
+              "q": "د خ ل",
+              "answer_en": "Dukhool",
+              "answer_my": "ဒုခူလ် (ဝင်ရောက်ခြင်း)",
+              "ar": "دُخُول"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The variety of Masdar patterns reflects the richness of Arabic. Whether it is the heaviness of 'Sabr' or the flow of 'Dua', the sound of the word reflects its spiritual weight.",
+        "my": "မတ်စ်ဒရ်ပုံစံများ အမျိုးမျိုးကွဲပြားနေခြင်းသည် အာရဗီဘာသာစကား၏ ကြွယ်ဝမှုကို ဖော်ပြသည်။ 'Sabr' ၏ လေးနက်မှု သို့မဟုတ် 'Dua' ၏ စီးဆင်းမှုကဲ့သို့ပင်၊ စကားလုံး၏ အသံထွက်က ၎င်း၏ ဝိညာဉ်ရေးရာ အလေးချိန်ကို ဖော်ပြနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Luqman 31:12",
+        "study_number": 1,
+        "arabic_full": "وَلَقَدْ آتَيْنَا لُقْمَانَ الْحِكْمَةَ أَنِ اشْكُرْ لِلَّهِ",
+        "en_sahih": "And We had certainly given Luqman wisdom [and said], 'Be grateful to Allah.'",
+        "my_mmsy": "ထို့ပြင် အမှန်ပင် ငါအရှင်မြတ်သည် လွတ်က်မာန်ကို ဉာဏ်ပညာ အမြော်အမြင်ပေးသနားတော်မူခဲ့သည်။  (သို့ဖြစ်ရာ)အသင်သည် အလ္လာဟ်အရှင်မြတ်အား ကျေးဇူးတင်ပါ။  ထို့ပြင် မည်သူမဆို ကျေးဇူးတင်လျှင် မိမိအတွက် ကျေးဇူးတင်ခြင်းသာဖြစ်သည်။ ထို့ပြင် မည်သူမဆို ကျေးဇူးကန်းခဲ့လျှင် အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် လိုလားတောင့်တခြင်းကင်းပြီး ပြည့်စုံကြွယ်ဝတော်မူသောအရှင်၊ ချီးမွမ်းခြင်းခံထိုက်တော်မူသောအရှင်ဖြစ်တော်မူသည်။ (ထိုကျေးဇူးကန်းခြင်းသည် အလ္လာဟ်အရှင်မြတ်အား မည်သို့မျှ ထိခိုက်နစ်နာစေမည်မဟုတ်ပေ။)",
+        "audio_ref": {
+          "surah": 31,
+          "ayah": 12,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/031012.mp3"
+        },
+        "qurancom_url": "https://quran.com/31/12",
+        "context": {
+          "en": "Allah mentions Luqman the Wise and his first command: gratitude. Gratitude is the foundation of wisdom.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ပညာရှိလုက္ကမါန်အား ပေးသနားတော်မူသော ပထမဆုံးအမိန့်မှာ 'ကျေးဇူးတင်ခြင်း' ဖြစ်သည်။ ကျေးဇူးသိတတ်ခြင်းသည် ပညာဉာဏ်၏ အခြေခံအုတ်မြစ်ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "اشْكُرْ",
+            "translit": "ushkur",
+            "en": "Be grateful",
+            "my": "ကျေးဇူးတင်လော့",
+            "role_en": "Imperative Verb",
+            "role_my": "အမိန့်ပေးကြိယာ",
+            "root": "ش ك ر",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The command 'Ushkur' comes from the root Sh-K-R, whose Masdar is 'Shukr'.",
+          "structure_my": "'Ushkur' ဟူသော အမိန့်သည် Sh-K-R မူလစာလုံးမှ လာပြီး ၎င်း၏ မတ်စ်ဒရ်မှာ 'Shukr' (ကျေးဇူးတင်ခြင်း) ဖြစ်သည်။",
+          "insight_en": "Wisdom (Hikmah) leads directly to the act of gratitude (Shukr). You cannot have one without the other.",
+          "insight_my": "ပညာဉာဏ် (Hikmah) သည် ကျေးဇူးသိတတ်ခြင်း (Shukr) ဆီသို့ တိုက်ရိုက်ပို့ဆောင်ပေးသည်။ တစ်ခုမရှိဘဲ နောက်တစ်ခု မရှိနိုင်ပါ။"
+        },
+        "root_depth": [
+          {
+            "root": "ش ك ر",
+            "concept_en": "To reveal or display a favor; the opposite of concealing a favor (Kufr)",
+            "concept_my": "ကျေးဇူးတရားကို ထုတ်ဖော်ပြသခြင်း (ကျေးဇူးတရားကို ဖုံးကွယ်ခြင်း၏ ဆန့်ကျင်ဘက်)",
+            "members": [
+              {
+                "ar": "شَكُور",
+                "en": "Appreciative",
+                "my": "ကျေးဇူးကို အသိအမှတ်ပြုတော်မူသောအရှင်",
+                "freq": 10
+              }
+            ],
+            "professors_note": "Linguistically, a 'full bucket' of water was called 'Shakirah'. Thus, Shukr is when the heart is full of appreciation for a favor."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ပညာဉာဏ်ရှိသူဖြစ်ရန်အတွက် အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်များကို အမြဲမပြတ် သတိရနေရပါမည်။ ကျွန်ုပ်တို့ တစ်နေ့တာအတွင်း ရရှိနေသော အသက်ရှူခြင်း၊ စားသောက်ခြင်းနှင့် ဘေးအန္တရာယ်ကင်းခြင်းတို့သည် အလ္လာဟ်အရှင်မြတ်၏ ကျေးဇူးတော်များပင် ဖြစ်သည်။ ဤအာယသ်တော်က ကျွန်ုပ်တို့အား မည်သည့်အခြေအနေမျိုးတွင်မဆို ကျေးဇူးတင်တတ်သော စိတ်နှလုံးရှိရန် သင်ကြားပေးနေသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Short and punchy: 'Anishkur Lillah'.",
+          "meaning_anchor": "Luqman's name is tied to wisdom through his gratitude.",
+          "daily_connection": "Say 'Alhamdulillah' (the verbal expression of Shukr) throughout the day.",
+          "my": "'အနစ်ရှ်ကူရ် လီလာဟ်' ဟူသော အသံမှာ တိုတောင်းပြီး မှတ်ရလွယ်ကူသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored how Form I Masdars vary in their patterns and must be memorized or found in dictionaries. Key concepts like Shukr, Sabr, and Ilm are all Masdars that define the core of a believer's character.",
+      "my": "ပုံစံ(၁) မတ်စ်ဒရ်များသည် ပုံစံအမျိုးမျိုးရှိကြောင်းနှင့် ၎င်းတို့ကို အလွတ်မှတ်သားရန် သို့မဟုတ် အဘိဓာန်တွင် ရှာဖွေရန် လိုအပ်ကြောင်း လေ့လာခဲ့သည်။ Shukr, Sabr နှင့် Ilm ကဲ့သို့သော အခြေခံအယူအဆများသည် ယုံကြည်သူတစ်ဦး၏ စရိုက်လက္ခဏာကို ဖော်ပြသော မတ်စ်ဒရ်များဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-088",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 88,
+    "title": {
+      "ar": "المَصْدَرُ (٣) — المَصْدَرُ كَمُبْتَدَأٍ",
+      "en": "Verbal Nouns III — Masdar as Subject",
+      "my": "ကြိယာနာမ် (၃) - မတ်စ်ဒရ်ကို ကတ္တား (Subject) အဖြစ် အသုံးပြုခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Masdar as Mubtada in nominal sentences",
+      "grammar_formula": "Masdar (Subject) + Noun/Phrase (Predicate)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "سَلَام",
+        "translit": "salam",
+        "en": "peace / safety",
+        "my": "ငြိမ်းချမ်းမှု/ဘေးကင်းမှု",
+        "quran_freq": 42,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَال",
+        "root": {
+          "letters": "س ل م",
+          "concept_en": "to be safe, whole, or peaceful",
+          "concept_my": "ဘေးကင်းခြင်း/ငြိမ်းချမ်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Salam (sounds like 'Solemn' - peaceful)",
+          "image": "A calm, clear lake with no ripples",
+          "cross_language": "Selamat (Malay), Salam (Myanmar/Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "مُسْلِم",
+            "translit": "muslim",
+            "en": "one who submits",
+            "my": "မွတ်စလင်",
+            "freq": 39
+          }
+        ],
+        "pattern_unlock": "Salam is a Masdar that has become a universal greeting of peace.",
+        "example": {
+          "ar": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
+          "en": "Peace it is until the emergence of dawn",
+          "my": "၎င်း(ည)သည် အရုဏ်တက်သည်အထိ ငြိမ်းချမ်းမှုပင် ဖြစ်သည်",
+          "ref": "97:5"
+        }
+      },
+      {
+        "word": "عَفْو",
+        "translit": "afw",
+        "en": "pardon / forgiveness",
+        "my": "ခွင့်လွှတ်ခြင်း",
+        "quran_freq": 4,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ع ف و",
+          "concept_en": "to erase or overlook",
+          "concept_my": "ပလပ်ခြင်း/ခွင့်လွှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Afw (sounds like 'Off' - taking the blame off)",
+          "image": "Erasing a mistake from a chalkboard",
+          "cross_language": "Afwu (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "عَفُوٌّ",
+            "translit": "afuwwun",
+            "en": "Ever-Pardoning",
+            "my": "အလွန်တရာ ခွင့်လွှတ်တော်မူသောအရှင်",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Afw means a pardon where the traces of the sin are completely wiped away.",
+        "example": {
+          "ar": "فَاعْفُ عَنْهُمْ",
+          "en": "So pardon them",
+          "my": "ထို့ကြောင့် ၎င်းတို့အား ခွင့်လွှတ်ပေးလိုက်ပါ",
+          "ref": "3:159"
+        }
+      },
+      {
+        "word": "تَوْبَة",
+        "translit": "tawbah",
+        "en": "repentance / turning back",
+        "my": "နောင်တရခြင်း/အရှင်မြတ်ဘက်သို့ ပြန်လှည့်ခြင်း",
+        "quran_freq": 90,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَوْلَة",
+        "root": {
+          "letters": "ت و ب",
+          "concept_en": "to return or turn back",
+          "concept_my": "ပြန်လှည့်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tawba (sounds like 'Too bad' - feeling bad and changing)",
+          "image": "A person turning 180 degrees to walk back to the light",
+          "cross_language": "Tobat (Malay/Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "تَوَّاب",
+            "translit": "tawwab",
+            "en": "Acceptor of Repentance",
+            "my": "နောင်တကို လက်ခံတော်မူသောအရှင်",
+            "freq": 11
+          }
+        ],
+        "pattern_unlock": "The 'ah' ending (ta-marbuta) on a Masdar often gives it a sense of a 'single instance' or 'intense act'.",
+        "example": {
+          "ar": "ثُمَّ يَتُوبُونَ مِن قَرِيبٍ",
+          "en": "Then they repent soon after",
+          "my": "ထို့နောက် ၎င်းတို့သည် မကြာမီပင် နောင်တရကြသည်",
+          "ref": "4:17"
+        }
+      },
+      {
+        "word": "ظُلْم",
+        "translit": "dhulm",
+        "en": "oppression / injustice",
+        "my": "မတရားမှု/နှိပ်စက်မှု",
+        "quran_freq": 315,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ظ ل م",
+          "concept_en": "to put something out of its place / darkness",
+          "concept_my": "မလျော်ကန်သောနေရာတွင် ထားရှိခြင်း/မှောင်မိုက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dhulm (sounds like 'Doom')",
+          "image": "A dark shadow covering the truth",
+          "cross_language": "Zulm (Urdu/Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "ظَالِم",
+            "translit": "dhalim",
+            "en": "wrongdoer",
+            "my": "မတရားပြုကျင့်သူ",
+            "freq": 52
+          }
+        ],
+        "pattern_unlock": "Dhulm is literally 'darkness', and spiritually 'wrongdoing' because it hides the light of truth.",
+        "example": {
+          "ar": "إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ",
+          "en": "Indeed, shirk is a great injustice",
+          "my": "အမှန်စင်စစ် ရှစ်ရ်ခ် (အရှင်မြတ်နှင့် တွဲဖက်ကိုးကွယ်ခြင်း) သည် အလွန်ကြီးလေးသော မတရားမှုပင်ဖြစ်သည်",
+          "ref": "31:13"
+        }
+      },
+      {
+        "word": "نَصْر",
+        "translit": "nasr",
+        "en": "victory / help",
+        "my": "အောင်မြင်မှု/ကူညီမှု",
+        "quran_freq": 14,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ن ص ر",
+          "concept_en": "to help against an enemy",
+          "concept_my": "ကူညီစောင်မခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Nasr (sounds like 'Nice!' - victory is nice)",
+          "image": "A hand reaching out to pull someone up a cliff",
+          "cross_language": "Nasir (Helper)"
+        },
+        "word_family": [
+          {
+            "ar": "أَنصَار",
+            "translit": "ansar",
+            "en": "helpers",
+            "my": "အန်ဆွာရ် (ကူညီသူများ)",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Nasr is specifically help that leads to a breakthrough or victory.",
+        "example": {
+          "ar": "إِذَا جَاءَ نَصْرُ اللَّهِ",
+          "en": "When the victory of Allah has come",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ အကူအညီနှင့် အောင်မြင်မှု ရောက်ရှိလာသောအခါ",
+          "ref": "110:1"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "المَصْدَرُ كَمُبْتَدَأ",
+        "en": "The Masdar as a Subject (Mubtada)",
+        "my": "မတ်စ်ဒရ်ကို ကတ္တားအဖြစ် အသုံးပြုခြင်း"
+      },
+      "formula": {
+        "display": "Masdar (Marfoo') + Khabar",
+        "example": "الصَّبْرُ ضِيَاءٌ (Patience is a brightness)",
+        "myanmar_read": "မတ်စ်ဒရ်ကို ဝါကျ၏အစတွင်ထား၍ ၎င်းအကြောင်းကို ပြောခြင်း",
+        "key_insight": "Since a Masdar is a noun, it can be the star (Subject) of your sentence."
+      },
+      "explanation": {
+        "en": "A Masdar functions exactly like a normal noun. In a nominal sentence (Jumla Ismiyya), it can serve as the Mubtada (the starting subject). This allows the Quran to make powerful statements about abstract concepts, like 'Patience is good' or 'Truth has come'.",
+        "my": "မတ်စ်ဒရ်သည် သာမန်နာမ်တစ်ခုကဲ့သို့ပင် အသုံးဝင်သည်။ နာမ်ဝါကျ (Nominal Sentence) များတွင် ၎င်းကို ကတ္တား (Mubtada) အဖြစ် ထားရှိနိုင်သည်။ ၎င်းသည် 'သည်းခံခြင်းသည် ကောင်းမြတ်သည်' သို့မဟုတ် 'အမှန်တရား ရောက်ရှိလာပြီ' ကဲ့သို့သော လေးနက်သည့် အယူအဆများကို ဖော်ပြရန် အထောက်အကူပြုသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we can start a sentence with 'ခြင်း' nouns: 'သည်းခံခြင်းသည် ကောင်း၏' (Patience is good). This is exactly how Arabic uses Masdar as Mubtada.",
+        "my": "မြန်မာစကားတွင်လည်း 'သည်းခံခြင်းသည် မင်္ဂလာတစ်ပါးဖြစ်သည်' ဟု 'ခြင်း' ပါသော နာမ်ဖြင့် ဝါကျစနိုင်သကဲ့သို့၊ အာရဗီတွင်လည်း မတ်စ်ဒရ်ဖြင့် ဝါကျစနိုင်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "When a Masdar is the subject, it usually takes 'Al-' and ends with a Damma (Marfoo').",
+          "rule_my": "မတ်စ်ဒရ်သည် ကတ္တား (Mubtada) ဖြစ်သောအခါ၊ များသောအားဖြင့် 'Al-' ပါဝင်ပြီး 'ဒမ္မဟ်' သံ (Marfoo') ဖြင့် ဆုံးသည်။",
+          "example": {
+            "ar": "الْعَفْوُ خَيْرٌ",
+            "en": "Pardoning is better",
+            "my": "ခွင့်လွှတ်ခြင်းသည် ပို၍ကောင်းသည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Masdar as Subject",
+          "ar": "وَأَن تَصُومُوا خَيْرٌ لَّكُمْ",
+          "en": "And that you fast is better for you",
+          "my": "MYANMAR_PLACE_HOLDER_S2_A184",
+          "ref": "2:184",
+          "breakdown": {
+            "subject": {
+              "word": "أن تَصُومُوا",
+              "en": "To fast (Masdar concept)",
+              "note": "Equivalent to 'As-Siyam'"
+            },
+            "predicate": {
+              "word": "خَيْرٌ",
+              "en": "Better",
+              "note": "Khabar"
+            }
+          },
+          "myanmar_insight": "Sometimes 'An + Verb' acts like a Masdar Subject. This is called Masdar Mu'awwal."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting that the Masdar is a noun and requires case endings.",
+          "wrong": {
+            "ar": "سَلَامَ هِيَ",
+            "note": "Using Fatha instead of Damma for the subject"
+          },
+          "correct": {
+            "ar": "سَلَامٌ هِيَ",
+            "en": "Peace it is",
+            "my": "၎င်းသည် ငြိမ်းချမ်းမှုဖြစ်သည်"
+          },
+          "myanmar_tip": "ဝါကျအစရှိ မတ်စ်ဒရ်သည် အမြဲတမ်း 'ရဖ်အ်' (Damma) အခြေအနေတွင် ရှိရမည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the Masdar acting as the subject",
+          "instruction_my": "ကတ္တားအဖြစ် အသုံးပြုထားသော မတ်စ်ဒရ်ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "الْحَمْدُ لِلَّهِ",
+              "answer_en": "الْحَمْدُ",
+              "answer_my": "ဟမ်ဒ် (ချီးမွမ်းခြင်း)",
+              "ref": "1:1"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate this Quranic nominal sentence",
+          "instruction_my": "အောက်ပါ ကုရ်အာန်လာ နာမ်ဝါကျကို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "وَالصُّلْحُ خَيْرٌ",
+              "answer_en": "And settlement/peace is better",
+              "answer_my": "သင့်မြတ်ငြိမ်းချမ်းခြင်းသည် ပို၍ကောင်းသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Start a sentence with 'As-Sabru' (Patience) and add 'Jameel' (Beautiful)",
+          "instruction_my": "'As-Sabru' နှင့် ဝါကျစပြီး 'Jameel' ကို သတင်းစကား (Khabar) အဖြစ် ထည့်ပါ။",
+          "questions": [
+            {
+              "q": "Sabr / Jameel",
+              "answer_en": "As-Sabru Jameelun",
+              "answer_my": "အဆွာဗ်ရု ဂျမီလွန် (သည်းခံခြင်းသည် လှပသည်)",
+              "ar": "الصَّبْرُ جَمِيلٌ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "By starting with a Masdar, Allah places the focus on the value itself. When the Quran says 'Victory is from Allah', it reminds us that the concept of success is owned by the Creator alone.",
+        "my": "မတ်စ်ဒရ်ဖြင့် ဝါကျကို စတင်ခြင်းအားဖြင့် အလ္လာဟ်အရှင်မြတ်သည် တန်ဖိုးထားရမည့် အရာများကို အဓိကထား မီးမောင်းထိုးပြသည်။ ကုရ်အာန်တွင် 'အောင်မြင်မှုသည် အလ္လာဟ်အရှင်မြတ်ထံမှသာ ဖြစ်သည်' ဟု ဆိုသောအခါ အောင်မြင်ခြင်းဟူသော သဘောတရားမှာ ဖန်ဆင်းရှင်တစ်ပါးတည်းသာ ပိုင်ဆိုင်ကြောင်း သတိပေးနေခြင်းဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Qadr 97:5",
+        "study_number": 1,
+        "arabic_full": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
+        "en_sahih": "Peace it is until the emergence of dawn",
+        "my_mmsy": "(၅) ထိုညသည် နံနက်မိုးသောက်ချိန်ထိ ငြိမ်းချမ်းသာယာမှုရှိသည်။",
+        "audio_ref": {
+          "surah": 97,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/097005.mp3"
+        },
+        "qurancom_url": "https://quran.com/97/5",
+        "context": {
+          "en": "This is the final verse of Surah Al-Qadr, describing the night of Power (Laylatul Qadr).",
+          "my": "ဤသည်မှာ စူရဟ်ကဒရ်၏ နောက်ဆုံးအာယသ်တော်ဖြစ်ပြီး၊ တန်ခိုးတော်ည (လိုင်လသွလ်ကဒရ်) ၏ အခြေအနေကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "سَلَامٌ",
+            "translit": "salamun",
+            "en": "Peace",
+            "my": "ငြိမ်းချမ်းမှု",
+            "role_en": "Mubtada (Subject)",
+            "role_my": "ကတ္တား",
+            "root": "س ل م",
+            "freq": 42
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "'Salamun' is a Masdar used as the subject to emphasize that the entire essence of this night is Peace.",
+          "structure_my": "'Salamun' သည် မတ်စ်ဒရ်ဖြစ်ပြီး ကတ္တားအဖြစ် အသုံးပြုထားသည်။ ၎င်းည၏ တစ်ခုတည်းသော အနှစ်သာရမှာ ငြိမ်းချမ်းမှုဖြစ်ကြောင်း လေးနက်စေသည်။",
+          "insight_en": "Placing 'Salamun' at the beginning makes it the most important word in the verse.",
+          "insight_my": "'Salamun' ကို ဝါကျအစတွင် ထားရှိခြင်းဖြင့် ၎င်းစကားလုံးကို အာယသ်တော်တွင် အရေးအကြီးဆုံး ဖြစ်စေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "س ل م",
+            "concept_en": "To be whole and free from defects or harm",
+            "concept_my": "ချို့ယွင်းချက်နှင့် ဘေးအန္တရာယ်များမှ ကင်းစင်ပြီး ပြည့်စုံခြင်း",
+            "members": [
+              {
+                "ar": "سَلِيم",
+                "en": "Sound/Healthy",
+                "my": "ကျန်းမာဘေးကင်းသော",
+                "freq": 0
+              }
+            ],
+            "professors_note": "A 'Qalb Saleem' (Sound Heart) is one that is peaceful and free from the sickness of doubts and desires."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ရမ်ဿွာန်လ၏ တန်ခိုးတော်ညတွင် ကျွန်ုပ်တို့ ရှာဖွေနေသော အရာမှာ ဤ 'Salam' (ငြိမ်းချမ်းမှု) ပင်ဖြစ်သည်။ ၎င်းသည် စစ်ပွဲများမရှိခြင်းသက်သက်မဟုတ်ဘဲ၊ စိတ်နှလုံးထဲတွင် အလ္လာဟ်အရှင်မြတ်နှင့် နီးကပ်မှုကြောင့် ရရှိသော တည်ငြိမ်အေးချမ်းမှု ဖြစ်သည်။ အရုဏ်တက်သည်အထိ ကောင်းကင်တံခါးများ ပွင့်နေပြီး ငြိမ်းချမ်းမှုများ ဆင်းသက်နေသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah flows smoothly like the peace it describes.",
+          "meaning_anchor": "The white light of dawn breaking through the peace of night.",
+          "daily_connection": "Recite this when you feel anxious or need safety.",
+          "my": "ည၏ငြိမ်းချမ်းမှုကို ဖြတ်သန်း၍ အရုဏ်ဦးအလင်းရောင် ပေါ်ထွက်လာပုံကို မြင်ယောင်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We learned that Masdars (verbal nouns) like Salam and Tawbah can be used as subjects of sentences to define great truths. This shows how Arabic uses abstract nouns to create powerful, timeless meanings.",
+      "my": "Salam နှင့် Tawbah ကဲ့သို့သော မတ်စ်ဒရ်များကို ဝါကျ၏ ကတ္တားအဖြစ် အသုံးပြု၍ ကြီးမြတ်သော အမှန်တရားများကို ဖော်ပြနိုင်ကြောင်း လေ့လာခဲ့သည်။ ၎င်းသည် အာရဗီဘာသာစကားက နာမ်များကို အသုံးပြု၍ မည်သို့ လေးနက်သော အဓိပ္ပာယ်များ ဖန်တီးပုံကို ပြသနေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-089",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 89,
+    "title": {
+      "ar": "المَصْدَرُ (٤) — المَصْدَرُ فِي القُرْآنِ الكَرِيمِ",
+      "en": "Verbal Nouns IV — Masdar in Quranic Phrases",
+      "my": "ကြိယာနာမ် (၄) - ကုရ်အာန်လာ စကားစုများရှိ မတ်စ်ဒရ်များ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Identifying Masdars in Juz Amma and common Quranic phrases",
+      "grammar_formula": "Noun of Action = Abstract Concept"
+    },
+    "section_1_vocab": [
+      {
+        "word": "حَمْد",
+        "translit": "hamd",
+        "en": "praise / gratitude",
+        "my": "ချီးမွမ်းခြင်း",
+        "quran_freq": 43,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ح م د",
+          "concept_en": "to praise someone for their qualities and favors",
+          "concept_my": "ဂုဏ်ရည်နှင့် ကျေးဇူးများအတွက် ချီးမွမ်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hamd (sounds like 'Hummed' - humming a praise)",
+          "image": "A person looking at a beautiful sunset and saying 'SubhanAllah'",
+          "cross_language": "Alhamdulillah (Universal)"
+        },
+        "word_family": [
+          {
+            "ar": "مُحَمَّد",
+            "translit": "muhammad",
+            "en": "The Praised One",
+            "my": "အချီးမွမ်းခံရသူ",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "Hamd is a specific type of praise that only includes the good and excludes any flaws.",
+        "example": {
+          "ar": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+          "en": "All praise is due to Allah, Lord of the worlds",
+          "my": "ချီးမွမ်းခြင်းအပေါင်းသည် စကြဝဠာအပေါင်းကို အစိုးရတော်မူသော အလ္လာဟ်အရှင်မြတ်အတွက်သာ ဖြစ်သည်",
+          "ref": "1:2"
+        }
+      },
+      {
+        "word": "قَوْل",
+        "translit": "qawl",
+        "en": "speech / word",
+        "my": "ပြောဆိုချက်/စကား",
+        "quran_freq": 92,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ق و ل",
+          "concept_en": "to say or speak",
+          "concept_my": "ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qawl (sounds like 'Call')",
+          "image": "A person speaking a word that carries weight",
+          "cross_language": "Qawl (Urdu)"
+        },
+        "word_family": [
+          {
+            "ar": "قِيل",
+            "translit": "qeel",
+            "en": "it was said",
+            "my": "ပြောဆိုခြင်းခံရသည်",
+            "freq": 47
+          }
+        ],
+        "pattern_unlock": "Qawl can refer to a single word, a sentence, or an entire teaching.",
+        "example": {
+          "ar": "إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا",
+          "en": "Indeed, We will cast upon you a heavy word",
+          "my": "ဧကန်စင်စစ် ငါအရှင်မြတ်သည် သင့်အပေါ်၌ လေးလံသော စကားတော် (ကုရ်အာန်) ကို ချပေးသနားတော်မူမည်",
+          "ref": "73:5"
+        }
+      },
+      {
+        "word": "حُكْم",
+        "translit": "hukm",
+        "en": "judgment / command",
+        "my": "စီရင်ချက်/အမိန့်",
+        "quran_freq": 68,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعْل",
+        "root": {
+          "letters": "ح ك م",
+          "concept_en": "to judge, prevent, or make wise",
+          "concept_my": "စီရင်ဆုံးဖြတ်ခြင်း/တားဆီးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hukm (sounds like 'Hook' - a judgment that holds)",
+          "image": "A judge's gavel striking a table",
+          "cross_language": "Hukum (Malay/Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "حَكِيم",
+            "translit": "hakeem",
+            "en": "Wise",
+            "my": "ပညာရှိသောအရှင်",
+            "freq": 97
+          }
+        ],
+        "pattern_unlock": "Hukm is not just a decision, but a ruling that prevents injustice.",
+        "example": {
+          "ar": "إِنِ الْحُكْمُ إِلَّا لِلَّهِ",
+          "en": "The judgment is only for Allah",
+          "my": "စီရင်ဆုံးဖြတ်ပိုင်ခွင့်သည် အလ္လာဟ်အရှင်မြတ်ထံ၌သာ ရှိသည်",
+          "ref": "6:57"
+        }
+      },
+      {
+        "word": "فَتْح",
+        "translit": "fath",
+        "en": "opening / victory",
+        "my": "ဖွင့်လှစ်ခြင်း/အောင်ပွဲ",
+        "quran_freq": 18,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْل",
+        "root": {
+          "letters": "ف ت ح",
+          "concept_en": "to open or grant success",
+          "concept_my": "ဖွင့်လှစ်ခြင်း/လမ်းဖွင့်ပေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fath (sounds like 'Path' - opening a path)",
+          "image": "A key opening a giant door",
+          "cross_language": "Fatihah (The Opening)"
+        },
+        "word_family": [
+          {
+            "ar": "فَتَّاح",
+            "translit": "fattah",
+            "en": "The Opener",
+            "my": "လမ်းဖွင့်ပေးတော်မူသောအရှင်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Fath is the 'opening' of a city, a heart, or a new chapter of success.",
+        "example": {
+          "ar": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا",
+          "en": "Indeed, We have granted you a clear triumph",
+          "my": "ဧကန်စင်စစ် ငါအရှင်မြတ်သည် သင့်အား ထင်ရှားသော အောင်နိုင်မှုကို ပေးသနားတော်မူခဲ့ပြီ",
+          "ref": "48:1"
+        }
+      },
+      {
+        "word": "رِزْق",
+        "translit": "rizq",
+        "en": "provision",
+        "my": "ရိက္ခာ/စားဝတ်နေရေး",
+        "quran_freq": 123,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ر ز ق",
+          "concept_en": "to provide or give sustenance",
+          "concept_my": "ရိက္ခာပေးသနားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rizq (sounds like 'Risk' - don't worry about risk, your rizq is set)",
+          "image": "Rain falling on dry land causing plants to grow",
+          "cross_language": "Rezeki (Malay/Myanmar Muslim)"
+        },
+        "word_family": [
+          {
+            "ar": "رَزَّاق",
+            "translit": "razzaq",
+            "en": "The Provider",
+            "my": "ရိက္ခာပေးသနားတော်မူသောအရှင်",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Rizq refers to everything Allah gives us to benefit from, including food, money, and knowledge.",
+        "example": {
+          "ar": "وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+          "en": "And from what We have provided them, they spend",
+          "my": "ငါအရှင်မြတ် ပေးသနားတော်မူသော ရိက္ခာများမှ ၎င်းတို့သည် လှူဒါန်းသုံးစွဲကြသည်",
+          "ref": "2:3"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "المَصْدَرُ فِي التَّرَاكِيبِ القُرْآنِيَّة",
+        "en": "Masdar in Quranic Structures",
+        "my": "ကုရ်အာန်လာ ဝါကျတည်ဆောက်ပုံများရှိ မတ်စ်ဒရ်"
+      },
+      "formula": {
+        "display": "Verb + its own Masdar (for emphasis)",
+        "example": "وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+        "myanmar_read": "ကြိယာနှင့် ၎င်း၏ မတ်စ်ဒရ်ကို တွဲသုံးခြင်းဖြင့် အဓိပ္ပာယ်ကို လေးနက်စေခြင်း",
+        "key_insight": "A Masdar is often added after its verb to emphasize the intensity of the action."
+      },
+      "explanation": {
+        "en": "In the Quran, a Masdar is frequently used after a verb of the same root to provide emphasis (Tawkeed). This is called the 'Absolute Object' (Maf'ool Mutlaq). For example, 'Speak a speech' means 'Speak firmly' or 'Speak clearly'.",
+        "my": "ကုရ်အာန်တွင် ကြိယာတစ်ခု၏နောက်၌ ၎င်းနှင့် မူလစာလုံးတူသော မတ်စ်ဒရ်ကို ထည့်သွင်းခြင်းဖြင့် ပြုလုပ်မှုကို ပိုမိုလေးနက်စေရန် (Tawkeed) အသုံးပြုသည်။ ၎င်းကို 'မတ်ဖ်အူးလ် မွသ်လတ်က်' ဟု ခေါ်သည်။ ဥပမာ - 'ပြောဆိုခြင်းကို ပြောဆိုပါ' ဆိုသည်မှာ 'ရှင်းလင်းပြတ်သားစွာ ပြောဆိုပါ' ဟု အဓိပ္ပာယ်ရသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar uses adverbs like 'ကောင်းကောင်း' (well) or 'ပြတ်ပြတ်သားသား' (clearly). Arabic often uses the Masdar of the verb itself to do this.",
+        "my": "မြန်မာစကားတွင် 'ပြတ်ပြတ်သားသား ပြောပါ' ဟု ကြိယာဝိသေသန သုံးသကဲ့သို့၊ အာရဗီတွင် မတ်စ်ဒရ်ကို ထည့်သွင်းခြင်းဖြင့် ထိုသို့ လေးနက်စေသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "The Masdar used for emphasis (Maf'ool Mutlaq) always ends in Fathatayn (Mansoub).",
+          "rule_my": "လေးနက်စေရန် သုံးသော မတ်စ်ဒရ်သည် အမြဲတမ်း 'နဆွဗ်' (Fathatayn) အခြေအနေတွင် ရှိရမည်။",
+          "example": {
+            "ar": "تَرْتِيلًا",
+            "en": "Reciting beautifully",
+            "my": "ပီပီသသ ရွတ်ဖတ်ခြင်း"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Masdar for Emphasis",
+          "ar": "وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+          "en": "And recite the Quran with measured recitation",
+          "my": "(၄) သို့မဟုတ် ညဝက်ထက်ပို၍(အိပ်ပါ)။  ၂ ထို့ပြင် အသင်သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို (သရ်သီလ်ဖြင့်)ဌာန်ကရိုဏ်းကျကျ ဖတ်ရွတ်ပါ။  ၃",
+          "ref": "73:4",
+          "breakdown": {
+            "subject": {
+              "word": "رَتِّلِ",
+              "en": "Recite",
+              "note": "Command Verb"
+            },
+            "predicate": {
+              "word": "تَرْتِيلًا",
+              "en": "Recitation",
+              "note": "Masdar for emphasis"
+            }
+          },
+          "myanmar_insight": "The word 'Tarteela' tells us exactly how to recite—slowly and clearly."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking the Masdar is a separate object when it's just for emphasis.",
+          "wrong": {
+            "ar": "رَتِّلِ الْقُرْآنَ",
+            "note": "Missing the emphasis of the Masdar"
+          },
+          "correct": {
+            "ar": "رَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+            "en": "Recite it thoroughly",
+            "my": "ပီပီသသ ရွတ်ဖတ်ပါ"
+          },
+          "myanmar_tip": "မတ်စ်ဒရ် နောက်ကပါလာလျှင် အဓိပ္ပာယ်ကို ပိုပြီး 'အလေးအနက်' ထားရမည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Masdar in this short Surah",
+          "instruction_my": "ဤစူရဟ်တိုလေးထဲမှ မတ်စ်ဒရ်ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "إِذَا جَاءَ نَصْرُ اللَّهِ",
+              "answer_en": "نَصْرُ",
+              "answer_my": "နဆွရ် (အောင်မြင်မှု)",
+              "ref": "110:1"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the phrase",
+          "instruction_my": "စကားစုကို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "حُكْمُ اللَّهِ",
+              "answer_en": "The judgment of Allah",
+              "answer_my": "အလ္လာဟ်အရှင်မြတ်၏ စီရင်ချက်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Add the Masdar 'Fathan' to the verb 'Fatahna' for emphasis",
+          "instruction_my": "'Fatahna' ကြိယာကို လေးနက်စေရန် 'Fathan' မတ်စ်ဒရ်ကို ထည့်ပါ။",
+          "questions": [
+            {
+              "q": "فَتَحْنَا",
+              "answer_en": "Fatahna Fathan",
+              "answer_my": "ဖသဟ်နာ ဖသ်ဟန် (အောင်မြင်မှုကို အမှန်တကယ် ပေးသနားခဲ့ပြီ)",
+              "ar": "فَتَحْنَا فَتْحًا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Using a Masdar for emphasis shows that Allah's actions are complete and perfect. When He commands us to remember Him (Dhikran), He wants our remembrance to be full and heartfelt.",
+        "my": "မတ်စ်ဒရ်ကို လေးနက်စေရန် အသုံးပြုခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ လုပ်ဆောင်ချက်များသည် ပြည့်စုံမှန်ကန်ကြောင်း ပြသသည်။ အရှင်မြတ်က ကျွန်ုပ်တို့ကို အောက်မေ့သတိရရန် (Dhikran) အမိန့်ပေးသောအခါ၊ စိတ်ပါလက်ပါ အပြည့်အဝ သတိရစေလိုခြင်းဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Nasr 110:1",
+        "study_number": 1,
+        "arabic_full": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+        "en_sahih": "When the victory of Allah has come and the conquest",
+        "my_mmsy": "(၁) အလ္လာဟ်အရှင်မြတ်၏အကူအညီနှင့်အောင်နိုင်မှု  ၁ ရောက်ရှိလာခဲ့သည့်အခါ။",
+        "audio_ref": {
+          "surah": 110,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/110001.mp3"
+        },
+        "qurancom_url": "https://quran.com/110/1",
+        "context": {
+          "en": "This Surah was revealed near the end of the Prophet's (pbuh) life, signaling the final victory of Islam in Makkah.",
+          "my": "ဤစူရဟ်သည် တမန်တော်မြတ် (ဆွ) ၏ သက်တမ်းကုန်ဆုံးခါနီးတွင် ကျရောက်ခဲ့ပြီး၊ မက္ကာဟ်မြို့တွင် အစ္စလာမ်သာသနာ အောင်ပွဲရခြင်းကို နိမိတ်ပြသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "نَصْرُ",
+            "translit": "nasru",
+            "en": "victory",
+            "my": "အောင်မြင်မှု",
+            "role_en": "Subject (Masdar)",
+            "role_my": "ကတ္တား",
+            "root": "ن ص ر",
+            "freq": 14
+          },
+          {
+            "ar": "الْفَتْحُ",
+            "translit": "al-fathu",
+            "en": "the conquest/opening",
+            "my": "ဖွင့်လှစ်အောင်နိုင်ခြင်း",
+            "role_en": "Conjoined Noun (Masdar)",
+            "role_my": "တွဲဆက်နာမ်",
+            "root": "ف ت ح",
+            "freq": 18
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Both 'Nasr' and 'Fath' are Masdars acting as the subjects of the verb 'jaa-a' (came).",
+          "structure_my": "'Nasr' နှင့် 'Fath' နှစ်ခုလုံးသည် မတ်စ်ဒရ်များဖြစ်ပြီး 'jaa-a' (ရောက်ရှိလာသည်) ကြိယာ၏ ကတ္တားများ ဖြစ်ကြသည်။",
+          "insight_en": "By using Masdars, Allah defines the victory as an event and a reality, not just a temporary action.",
+          "insight_my": "မတ်စ်ဒရ်များကို အသုံးပြုခြင်းဖြင့် အောင်မြင်မှုသည် ယာယီလုပ်ဆောင်ချက်မဟုတ်ဘဲ ထင်ရှားလှသော အမှန်တရားဖြစ်ကြောင်း ဖော်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ن ص ر",
+            "concept_en": "To aid against an oppressor or difficulty",
+            "concept_my": "နှိပ်စက်သူ သို့မဟုတ် အခက်အခဲကို ဆန့်ကျင်ရန် ကူညီခြင်း",
+            "members": [
+              {
+                "ar": "مَنْصُور",
+                "en": "Victorious",
+                "my": "အောင်နိုင်သူ",
+                "freq": 0
+              }
+            ],
+            "professors_note": "True Nasr only comes when the human effort is combined with Divine aid."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ ဘဝတွင်လည်း အခက်အခဲများ ကြုံရသောအခါ ဤအာယသ်တော်ကို သတိရပါ။ အောင်မြင်မှု (Nasr) နှင့် လမ်းပွင့်ခြင်း (Fath) သည် အလ္လာဟ်အရှင်မြတ်ထံမှသာ လာခြင်းဖြစ်သည်။ ကျွန်ုပ်တို့သည် အရှင်မြတ်၏ လမ်းစဉ်တွင် တည်ကြည်စွာ ရှိနေပါက အရှင်မြတ်၏ အကူအညီသည် မုချရောက်ရှိလာမည် ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah builds anticipation with 'Idha jaa-a'.",
+          "meaning_anchor": "Imagine the doors of Makkah opening wide for the believers.",
+          "daily_connection": "Recite this Surah to celebrate any success and thank Allah.",
+          "my": "'အိဇာ ဂျာအဟ်' ဟူသော အသံက တစ်စုံတစ်ခု ရောက်ရှိလာတော့မည့် ခံစားချက်ကို ပေးသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We identified common Masdars in Quranic phrases and learned how they are used for emphasis. Words like Hamd, Nasr, and Fath are central to the Quran's message of victory and gratitude.",
+      "my": "ကုရ်အာန်လာ စကားစုများတွင် အသုံးများသော မတ်စ်ဒရ်များကို ရှာဖွေခဲ့ပြီး ၎င်းတို့ကို လေးနက်စေရန် မည်သို့သုံးရမည်ကို လေ့လာခဲ့သည်။ Hamd, Nasr နှင့် Fath တို့သည် အောင်မြင်မှုနှင့် ကျေးဇူးတင်ခြင်းဆိုင်ရာ ကုရ်အာန်၏ သတင်းစကားများတွင် အဓိကကျသော စကားလုံးများဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-090",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 90,
+    "title": {
+      "ar": "المَصْدَرُ وَالفَاعِلُ وَالمَفْعُولُ — مُرَاجَعَةُ الصَّرْفِ",
+      "en": "Masdar, Fā'il, Maf'ūl: A Morphology Review",
+      "my": "ကြိယာနာမ်၊ ပြုလုပ်သူနှင့် ခံရသူ - ဝေါဟာရဗေဒ ပြန်လည်နွှေးခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Connecting root → Masdar → Fā'il → Maf'ūl as a system",
+      "grammar_formula": "Root (ع ل م) → Masdar (عِلْم) → Fā'il (عَالِم) → Maf'ūl (مَعْلُوم)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "عِلْم",
+        "translit": "ilm",
+        "en": "knowledge",
+        "my": "ပညာဗဟုသုတ",
+        "quran_freq": 854,
+        "word_type": "Noun (Masdar)",
+        "gender": "Masculine",
+        "wazn": "فِعْل",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "to know or perceive",
+          "concept_my": "သိရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ilm (sounds like 'Illume')",
+          "image": "A light bulb representing an idea",
+          "cross_language": "Ilmu (Malay/Myanmar Muslim)"
+        },
+        "word_family": [
+          {
+            "ar": "تَعْلِيم",
+            "translit": "ta'leem",
+            "en": "education",
+            "my": "ပညာသင်ကြားရေး",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This root connects knowledge, scholars, and the world (Aalam) as things that are known.",
+        "example": {
+          "ar": "وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا",
+          "en": "And you were not given of knowledge except a little",
+          "my": "သင်တို့သည် ပညာဗဟုသုတထဲမှ အနည်းငယ်သာလျှင် ပေးသနားခြင်း ခံရကြသည်",
+          "ref": "17:85"
+        }
+      },
+      {
+        "word": "عَالِم",
+        "translit": "alim",
+        "en": "knower / scholar",
+        "my": "သိရှိသူ/ပညာရှင်",
+        "quran_freq": 13,
+        "word_type": "Noun (Fa'il)",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ع l م",
+          "concept_en": "one who has knowledge",
+          "concept_my": "ပညာရှိသူ"
+        },
+        "memory_hook": {
+          "sound": "Alim (sounds like 'I'm...')",
+          "image": "A teacher standing before a class",
+          "cross_language": "Alim (Malay/Myanmar)"
+        },
+        "word_family": [
+          {
+            "ar": "عُلَمَاء",
+            "translit": "ulama",
+            "en": "scholars",
+            "my": "ပညာရှင်များ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The 'aa-i' pattern (Fa'il) always indicates the doer or person who has the quality.",
+        "example": {
+          "ar": "عَالِمُ الْغَيْبِ وَالشَّهَادَةِ",
+          "en": "Knower of the unseen and the witnessed",
+          "my": "အကွယ်အပနှင့် အထင်အရှားတို့ကို သိတော်မူသောအရှင်",
+          "ref": "6:73"
+        }
+      },
+      {
+        "word": "مَعْلُوم",
+        "translit": "ma'lum",
+        "en": "known / specified",
+        "my": "သိရှိပြီးသား/သတ်မှတ်ထားသော",
+        "quran_freq": 11,
+        "word_type": "Noun (Maf'ul)",
+        "gender": "Masculine",
+        "wazn": "مَفْعُول",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "that which is known",
+          "concept_my": "အသိမှတ်ပြုခံရသော"
+        },
+        "memory_hook": {
+          "sound": "Ma'lum (sounds like 'Medium' - clearly displayed)",
+          "image": "A document with a clear checkmark",
+          "cross_language": "Maklum (Malay)"
+        },
+        "word_family": [
+          {
+            "ar": "مَعْلُومَات",
+            "translit": "ma'lumat",
+            "en": "information",
+            "my": "သတင်းအချက်အလက်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "The 'Ma-oo' pattern (Maf'ul) always points to the object of the action.",
+        "example": {
+          "ar": "إِلَىٰ مِيقَاتِ يَوْمٍ مَّعْلُومٍ",
+          "en": "Until the appointment of a known day",
+          "my": "သတ်မှတ်ထားပြီးဖြစ်သော နေ့ရက်၏ အချိန်ကာလအထိ",
+          "ref": "56:50"
+        }
+      },
+      {
+        "word": "عَلَّمَ",
+        "translit": "allama",
+        "en": "he taught",
+        "my": "သူသင်ကြားပေးခဲ့သည်",
+        "quran_freq": 854,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "to cause someone to know",
+          "concept_my": "သိရှိအောင်ပြုလုပ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Allama (sounds like 'All am-a' - teaching all)",
+          "image": "A hand guiding another hand to write",
+          "cross_language": "Muallim (Teacher)"
+        },
+        "word_family": [
+          {
+            "ar": "مُعَلِّم",
+            "translit": "mu'allim",
+            "en": "teacher",
+            "my": "ဆရာ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Adding a shadda (double letter) to the middle often means to 'cause' someone to do the action.",
+        "example": {
+          "ar": "عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ",
+          "en": "Taught man that which he knew not",
+          "my": "လူသားအား သူ မသိရှိသေးသော အရာများကို သင်ကြားပေးတော်မူခဲ့သည်",
+          "ref": "96:5"
+        }
+      },
+      {
+        "word": "عَلِيم",
+        "translit": "aleem",
+        "en": "All-Knowing",
+        "my": "အရာခပ်သိမ်းကို သိတော်မူသောအရှင်",
+        "quran_freq": 157,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَعِيل",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "having vast knowledge",
+          "concept_my": "ကျယ်ပြန့်သော အသိဉာဏ်ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Aleem (sounds like 'All-Em' - knows them all)",
+          "image": "A bright sun shining over everything, seeing all",
+          "cross_language": "Alim (Name)"
+        },
+        "word_family": [
+          {
+            "ar": "أَعْلَم",
+            "translit": "a'lam",
+            "en": "Most Knowing",
+            "my": "အသိဆုံး",
+            "freq": 49
+          }
+        ],
+        "pattern_unlock": "The 'ee' sound (Fa'eel) often implies a constant and intense quality.",
+        "example": {
+          "ar": "وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+          "en": "And Allah is Knowing of the wrongdoers",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မတရားပြုကျင့်သူတို့အား ကောင်းစွာ သိရှိတော်မူသောအရှင် ဖြစ်သည်",
+          "ref": "2:95"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "نِظَامُ الصَّرْفِ: المَصْدَرُ وَالفَاعِلُ وَالمَفْعُولُ",
+        "en": "The Morphology System: Action, Doer, and Object",
+        "my": "ဝေါဟာရဗေဒစနစ် - ပြုလုပ်မှု၊ ပြုလုပ်သူနှင့် ခံရသူ"
+      },
+      "formula": {
+        "display": "Root → Form Patterns",
+        "example": "K-T-B → Kitab (Act) | Katib (Writer) | Maktoob (Written)",
+        "myanmar_read": "မူလစာလုံး ၃ လုံးမှ စကားလုံးအမျိုးမျိုး ပေါက်ဖွားလာပုံ",
+        "key_insight": "Arabic is a system of logic; once you know the root and the patterns, you can guess hundreds of meanings."
+      },
+      "explanation": {
+        "en": "In this review, we connect the three pillars of Arabic morphology: the Masdar (the act), the Fa'il (the doer), and the Maf'ul (the receiver/object). By understanding how a single root like 'A-L-M' transforms into 'Knowledge', 'Scholar', and 'Known', you gain the power to recognize these patterns in any root you encounter.",
+        "my": "ဤပြန်လည်နွှေးခြင်းတွင် အာရဗီဝေါဟာရဗေဒ၏ အဓိကတိုင် ၃ ခုဖြစ်သော မတ်စ်ဒရ် (ပြုလုပ်မှု)၊ ဖာအိလ် (ပြုလုပ်သူ) နှင့် မတ်ဖ်အူးလ် (ခံရသူ) တို့ကို ချိတ်ဆက်လေ့လာသည်။ 'A-L-M' ဟူသော မူလစာလုံးတစ်ခုတည်းမှ 'ပညာ'၊ 'ပညာရှင်' နှင့် 'သိရှိပြီးသားအရာ' ဟု ပြောင်းလဲသွားပုံကို နားလည်ခြင်းဖြင့် အခြားမည်သည့် မူလစာလုံးကိုမဆို ဤသို့ ခွဲခြားနိုင်မည်ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use prefixes and suffixes to change a verb's role. In Arabic, the entire internal structure of the word changes like a chemical reaction.",
+        "my": "မြန်မာစကားတွင် 'ပညာ'၊ 'ပညာရှိ'၊ 'သင်ကြားသည်' ဟု စကားလုံးများ ပြောင်းလဲသကဲ့သို့၊ အာရဗီတွင် စကားလုံး၏ အတွင်းပိုင်းအသံများ ပြောင်းလဲခြင်းဖြင့် အဓိပ္ပာယ်ပြောင်းသွားခြင်း ဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Pattern 'Fa'aal' (Masdar) = The Act.",
+          "rule_my": "'Fa'aal' ပုံစံသည် ပြုလုပ်မှု (မတ်စ်ဒရ်) ကို ပြသည်။",
+          "example": {
+            "ar": "سَلَام",
+            "en": "Peace",
+            "my": "ငြိမ်းချမ်းမှု"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Pattern 'Fa'il' = The person who does it.",
+          "rule_my": "'Fa'il' ပုံစံသည် ပြုလုပ်သူကို ပြသည်။",
+          "example": {
+            "ar": "عَالِم",
+            "en": "Scholar",
+            "my": "ပညာရှိ"
+          }
+        },
+        {
+          "number": 3,
+          "rule_en": "Pattern 'Ma-foo-l' = The thing that received the action.",
+          "rule_my": "'Ma-foo-l' ပုံစံသည် အပြုခံရသောအရာကို ပြသည်။",
+          "example": {
+            "ar": "مَعْلُوم",
+            "en": "Known",
+            "my": "သိရှိပြီးသား"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Connecting Patterns",
+          "ar": "قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ",
+          "en": "He said, 'Indeed, I know that which you do not know'",
+          "my": "ထို့ပြင် တစ်ခါက အသင်(တမန်တော်)အား ဖန်ဆင်းမွေးမြူသောအရှင်သည် ကောင်းကင်တမန်များအား အမှန်စင်စစ် ငါအရှင်သည် ကမ္ဘာမြေပေါ်၌(လူသားများ၏ဖခင် အာဒမ်(အလိုင်ဟိ)ကို) ကိုယ်စားလှယ်တစ်ဦး(အဖြစ်) ခန့်အပ်တော်မူမည်ဟု အမိန့်ရှိတော်မူသောအခါ ကောင်းကင်တမန်များသည် (ယခုကဲ့သို့)လျှောက်ထားကြသည်။ (အို-အရှင်) အရှင်မြတ်သည် ချို့တဲ့ခြင်းဟူသမျှမှ သန့်ပြန့်စင်ကြယ်တော်မူကြောင်း ချီးမွမ်းမှုနှင့်တကွ မြင့်မြတ်မှုသည် အရှင်မြတ်အတွက်ဖြစ်တော်မူကြောင်း ကျွန်ုပ်တို့ပြောဆိုတသနေကြပါလျက် ကမ္ဘာမြေတွင် ပျက်စီးရာပျက်စီးကြောင်းပြုလုပ်၍ (အချင်းသတ်ဖြတ်ပြီး) သွေးထွက်သံယိုပြုလုပ်ကြမည့်သူများကို ကိုယ်စားလှယ်ခန့်တော်မူပါမည်လော။ (ထိုအခါ) အရှင်မြတ်သည် အသင်တို့မသိသည့်အရာများကို အမှန်မုချ ငါအရှင်မြတ် သိရှိတော်မူသည်ဟု ပြောဆိုမိန့်ကြားတော်မူခဲ့သည်။",
+          "ref": "2:30",
+          "breakdown": {
+            "subject": {
+              "word": "أَعْلَمُ",
+              "en": "I know",
+              "note": "Verb from root A-L-M"
+            },
+            "predicate": {
+              "word": "تَعْلَمُونَ",
+              "en": "You know",
+              "note": "Verb plural"
+            }
+          },
+          "myanmar_insight": "Even in verb form, the root A-L-M always carries the essence of 'knowledge'."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing up the patterns of Fa'il and Maf'ul.",
+          "wrong": {
+            "ar": "مَعْلِم",
+            "note": "Mixing patterns"
+          },
+          "correct": {
+            "ar": "مُعَلِّم",
+            "en": "Teacher (Form II Fa'il)",
+            "my": "ဆရာ"
+          },
+          "myanmar_tip": "ပုံစံတစ်ခုစီ၏ အသံထွက်ကို သေချာမှတ်သားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the word type (Masdar, Fa'il, or Maf'ul)",
+          "instruction_my": "စကားလုံးအမျိုးအစားကို ခွဲခြားပါ (မတ်စ်ဒရ်၊ ပြုလုပ်သူ သို့မဟုတ် အပြုခံ)။",
+          "questions": [
+            {
+              "q": "عَالِمٌ",
+              "answer_en": "Fa'il (Doer)",
+              "answer_my": "ဖာအိလ် (ပြုလုပ်သူ)",
+              "ref": "Quran"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the pair",
+          "instruction_my": "စကားလုံးအစုံကို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "عِلْمٌ مَعْلُومٌ",
+              "answer_en": "A known knowledge",
+              "answer_my": "သိရှိပြီးသား ပညာ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "From root K-T-B, write the Maf'ul pattern",
+          "instruction_my": "K-T-B မူလစာလုံးမှ မတ်ဖ်အူးလ် (အပြုခံ) ပုံစံကို ရေးပါ။",
+          "questions": [
+            {
+              "q": "ك ت ب",
+              "answer_en": "Maktoob",
+              "answer_my": "မတ်ခ်သူးဗ် (ရေးသားပြီးသား)",
+              "ar": "مَكْتُوب"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Allah is Al-Alim (The Knower), His message is Ilm (Knowledge), and those who act on it are Ulama (Scholars). This morphology review shows that everything in Islam is connected by the search for truth.",
+        "my": "အလ္လာဟ်အရှင်မြတ်သည် Al-Alim (အရာခပ်သိမ်းကို သိတော်မူသောအရှင်) ဖြစ်သည်။ အရှင်မြတ်၏ သတင်းစကားမှာ Ilm (ပညာ) ဖြစ်ပြီး ၎င်းအတိုင်း ကျင့်ကြံသူများသည် Ulama (ပညာရှင်များ) ဖြစ်သည်။ ဤဝေါဟာရဗေဒက အစ္စလာမ်ရှိ အရာရာသည် အမှန်တရားကို ရှာဖွေခြင်းနှင့် ချိတ်ဆက်နေကြောင်း ပြသနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Alaq 96:5",
+        "study_number": 1,
+        "arabic_full": "عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ",
+        "en_sahih": "Taught man that which he knew not",
+        "my_mmsy": "(၅) အရှင်မြတ်သည် လူသားကို သူမသိခဲ့သည့်အရာများ(ဖြစ်သော စာရေး၊ စာဖတ်၊ လက်မှုပညာ အရပ်ရပ်နှင့် အခြားပညာရပ်များ)ကို သင်ကြားပေးတော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 96,
+          "ayah": 5,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/096005.mp3"
+        },
+        "qurancom_url": "https://quran.com/96/5",
+        "context": {
+          "en": "These were the first verses revealed to Prophet Muhammad (pbuh), emphasizing the importance of reading and learning.",
+          "my": "ဤအာယသ်တော်များသည် တမန်တော်မြတ် (ဆွ) ထံ ပထမဆုံးကျရောက်ခဲ့သော စာသားများဖြစ်ပြီး၊ စာဖတ်ခြင်းနှင့် သင်ယူခြင်း၏ အရေးပါမှုကို ဖော်ပြသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "عَلَّمَ",
+            "translit": "allama",
+            "en": "He taught",
+            "my": "သူသင်ကြားပေးခဲ့သည်",
+            "role_en": "Verb (Form II)",
+            "role_my": "ကြိယာ",
+            "root": "ع ل م",
+            "freq": 42
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The root A-L-M is used here in its causal form ('Allama) meaning 'to teach' rather than just 'to know'.",
+          "structure_my": "A-L-M မူလစာလုံးကို ဤနေရာတွင် 'သိရှိစေခြင်း' (သင်ကြားပေးခြင်း) ဟူသော အဓိပ္ပာယ်ဖြင့် အသုံးပြုထားသည်။",
+          "insight_en": "The first gift mentioned in the Quran is not money or power, but the ability to learn and gain knowledge.",
+          "insight_my": "ကုရ်အာန်တွင် ဖော်ပြထားသော ပထမဆုံးသော လက်ဆောင်မှာ ငွေကြေး သို့မဟုတ် အာဏာမဟုတ်ဘဲ၊ သင်ယူနိုင်စွမ်းနှင့် ပညာဗဟုသုတသာ ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ل م",
+            "concept_en": "A sign or mark that leads to knowing something",
+            "concept_my": "တစ်စုံတစ်ခုကို သိရှိစေရန် လမ်းပြသော အမှတ်အသား",
+            "members": [
+              {
+                "ar": "عَالَم",
+                "en": "The World",
+                "my": "လောက",
+                "freq": 73
+              }
+            ],
+            "professors_note": "The word 'Aalam' (World) comes from this root because the world is a sign that points to the Creator."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် မွေးဖွားလာစဉ်က မည်သည့်အရာကိုမျှ မသိခဲ့ကြပါ။ အလ္လာဟ်အရှင်မြတ်သည် ကျွန်ုပ်တို့ကို တွေးခေါ်နိုင်သော ဉာဏ်နှင့် သင်ယူနိုင်သော အခွင့်အရေးများ ပေးသနားခဲ့သည်။ ပညာသင်ယူခြင်းသည် ဝတ်ပြုမှု (Ibadah) တစ်မျိုးပင်ဖြစ်သည်။ ထို့ကြောင့် ကျွန်ုပ်တို့သည် ဘဝတစ်လျှောက်လုံး အမှန်တရားနှင့် ပညာကို ရှာဖွေနေသူများ ဖြစ်သင့်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah has a powerful, repetitive root sound: Allama... Ya'lam.",
+          "meaning_anchor": "Imagine a blank page being filled with beautiful writing.",
+          "daily_connection": "Recite this when starting your studies or a new job.",
+          "my": "'Allama' နှင့် 'Ya'lam' ဟူသော အသံများက သင်ကြားခြင်းနှင့် သိရှိခြင်းကို ထပ်ခါတလဲလဲ သတိပေးနေသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We completed a comprehensive review of the morphology system using the root A-L-M. We saw how the Masdar, Fa'il, and Maf'ul work together to create a network of meanings that define our understanding of the Quran.",
+      "my": "A-L-M မူလစာလုံးကို အသုံးပြု၍ ဝေါဟာရဗေဒစနစ်တစ်ခုလုံးကို ခြုံငုံသုံးသပ်ခဲ့သည်။ မတ်စ်ဒရ်၊ ဖာအိလ် နှင့် မတ်ဖ်အူးလ် တို့သည် ကုရ်အာန်ကို နားလည်ရန်အတွက် မည်သို့ အပြန်အလှန် အထောက်အကူပြုပုံကို လေ့လာခဲ့သည်။"
+    }
+  }
+]

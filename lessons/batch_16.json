@@ -1,0 +1,1931 @@
+[
+  {
+    "lesson_id": "L2-076",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 76,
+    "title": {
+      "ar": "اِسْمُ الْفَاعِلِ (١) — وَزْنُ فَاعِل",
+      "en": "Active Participle I — The Fa'il Pattern",
+      "my": "ပြုလုပ်သူနာမ် (၁) — ဖာအိလ် ဝဇန်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Ism al-Fa'il from Form I: Fa-'i-lun; the doer",
+      "grammar_formula": "ف + ا + ع + ل = فَاعِل"
+    },
+    "section_1_vocab": [
+      {
+        "word": "خَالِق",
+        "translit": "khāliq",
+        "en": "Creator",
+        "my": "ဖန်ဆင်းရှင်",
+        "quran_freq": 8,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "خ ل ق",
+          "concept_en": "to create from nothing",
+          "concept_my": "အသစ်ဖန်ဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khalid creates art",
+          "image": "A divine hand shaping the universe",
+          "cross_language": "Khaliq is used in Myanmar Muslim circles to refer to Allah"
+        },
+        "word_family": [
+          {
+            "ar": "خَلَقَ",
+            "translit": "khalaqa",
+            "en": "He created",
+            "my": "သူဖန်ဆင်းခဲ့သည်",
+            "freq": 248
+          },
+          {
+            "ar": "خَلْق",
+            "translit": "khalq",
+            "en": "creation",
+            "my": "ဖန်ဆင်းခံ",
+            "freq": 52
+          }
+        ],
+        "pattern_unlock": "Any 3-letter root fits this pattern to mean 'the doer' of that action.",
+        "example": {
+          "ar": "خَالِقُ كُلِّ شَيْءٍ",
+          "en": "the Creator of all things",
+          "my": "အရာခပ်သိမ်းကို ဖန်ဆင်းတော်မူသော အရှင်",
+          "ref": "6:102"
+        }
+      },
+      {
+        "word": "رَازِق",
+        "translit": "rāziq",
+        "en": "Provider",
+        "my": "ရိက္ခာပေးသနားတော်မူသောအရှင်",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ر ز ق",
+          "concept_en": "provision and sustenance",
+          "concept_my": "စားဝတ်နေရေး ရိက္ခာ"
+        },
+        "memory_hook": {
+          "sound": "Rizq is your risk-free gift",
+          "image": "Rain falling on dry land to grow food",
+          "cross_language": "Rizq (ရိက္ခာ) is a common loanword"
+        },
+        "word_family": [
+          {
+            "ar": "رَزَقَ",
+            "translit": "razaqa",
+            "en": "He provided",
+            "my": "သူရိက္ခာပေးခဲ့သည်",
+            "freq": 61
+          },
+          {
+            "ar": "رِزْق",
+            "translit": "rizq",
+            "en": "provision",
+            "my": "ရိက္ခာ",
+            "freq": 123
+          }
+        ],
+        "pattern_unlock": "The long 'A' after the first letter signals the person performing the root action.",
+        "example": {
+          "ar": "خَيْرُ الرَّازِقِينَ",
+          "en": "the best of providers",
+          "my": "ရိက္ခာပေးသနားတော်မူသော အရှင်မြတ်တို့တွင် အကောင်းဆုံးအရှင်",
+          "ref": "5:114"
+        }
+      },
+      {
+        "word": "عَالِم",
+        "translit": "ālim",
+        "en": "Knower",
+        "my": "သိရှိတော်မူသောအရှင်",
+        "quran_freq": 13,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "knowledge and science",
+          "concept_my": "ပညာရပ်နှင့် သိရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Alim is a scholar",
+          "image": "An open book with light coming out",
+          "cross_language": "Alim (အာလင်မ်) is used for Islamic scholars in Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "عَلِمَ",
+            "translit": "alima",
+            "en": "He knew",
+            "my": "သူသိရှိခဲ့သည်",
+            "freq": 518
+          }
+        ],
+        "pattern_unlock": "Adding an Alif after the 1st root letter turns an action into a person.",
+        "example": {
+          "ar": "عَالِمُ الْغَيْبِ",
+          "en": "Knower of the unseen",
+          "my": "မမြင်ကွယ်ပျောက်သောအရာကို သိရှိတော်မူသောအရှင်",
+          "ref": "6:73"
+        }
+      },
+      {
+        "word": "صَابِر",
+        "translit": "sābir",
+        "en": "Patient one",
+        "my": "သည်းခံသူ",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ص ب ر",
+          "concept_en": "patience and endurance",
+          "concept_my": "သည်းခံခြင်းနှင့် ကြံ့ကြံ့ခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sabir stays sober",
+          "image": "A person standing firm in a storm",
+          "cross_language": "Sabr (ဆဗရ်) is common Myanmar Muslim terminology"
+        },
+        "word_family": [
+          {
+            "ar": "صَبَرَ",
+            "translit": "sabara",
+            "en": "He was patient",
+            "my": "သူသည်းခံခဲ့သည်",
+            "freq": 103
+          }
+        ],
+        "pattern_unlock": "This pattern describes a characteristic of a person.",
+        "example": {
+          "ar": "وَاللَّهُ يُحِبُّ الصَّابِرِينَ",
+          "en": "And Allah loves the patient",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် သည်းခံသူတို့ကို ချစ်ခင်မြတ်နိုးတော်မူ၏",
+          "ref": "3:146"
+        }
+      },
+      {
+        "word": "شَاكِر",
+        "translit": "shākir",
+        "en": "Grateful one",
+        "my": "ကျေးဇူးတင်သူ",
+        "quran_freq": 10,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ش ك ر",
+          "concept_en": "thankfulness",
+          "concept_my": "ကျေးဇူးတင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shakir says Shukr",
+          "image": "Hands raised in thanks",
+          "cross_language": "Shukr (ရှကူရ်) is used for thanks"
+        },
+        "word_family": [
+          {
+            "ar": "شَكَرَ",
+            "translit": "shakara",
+            "en": "He thanked",
+            "my": "သူကျေးဇူးတင်ခဲ့သည်",
+            "freq": 75
+          }
+        ],
+        "pattern_unlock": "Pattern Fā'il denotes the active agent.",
+        "example": {
+          "ar": "إِنَّهُ كَانَ عَبْدًا شَكُورًا",
+          "en": "Indeed, he was a grateful servant",
+          "my": "ဧကန်စင်စစ် သူသည် ကျေးဇူးသိတတ်သော ကျွန်တစ်ဦးဖြစ်ခဲ့သည်",
+          "ref": "17:3"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "اِسْمُ الْفَاعِلِ",
+        "en": "Active Participle",
+        "my": "ပြုလုပ်သူနာမ်"
+      },
+      "formula": {
+        "display": "فَ + ا + عِ + لٌ = فَاعِلٌ",
+        "example": "خَلَقَ (He created) -> خَالِقٌ (Creator)",
+        "myanmar_read": "ပထမအက္ခရာနောက်မှာ အာလစ်ဖ် (Alif) ထည့်ပြီး ဒုတိယအက္ခရာကို ဇေရ် (Kasra) ပေးခြင်း",
+        "key_insight": "The 'AA' sound after the first letter is the 'engine' that turns an action into a person."
+      },
+      "explanation": {
+        "en": "The Ism al-Fa'il is a derived noun that describes the person or thing performing an action. For three-letter roots, it always follows the weight of Fa-i-lun. This pattern is essential for identifying roles and attributes in the Quran.",
+        "my": "Ism al-Fa'il ဆိုသည်မှာ အပြုအမူတစ်ခုကို လုပ်ဆောင်သူ သို့မဟုတ် အရာဝတ္ထုကို ဖော်ပြသော နာမ်ဖြစ်သည်။ မူရင်းအက္ခရာ (၃) လုံးရှိသော ကြိယာများအတွက် ၎င်းသည် အမြဲတမ်း 'ဖာအိလ်' ဝဇန်အတိုင်း လာသည်။ ၎င်းသည် ကုရ်အာန်ရှိ ဂုဏ်တော်များနှင့် လူပုဂ္ဂိုလ်များကို ခွဲခြားသိမြင်ရန် အလွန်အရေးကြီးပါသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we add 'thu' (သူ) or 'shin' (ရှင်) after a verb to make it a doer (e.g., phan-sin -> phan-sin-shin). In Arabic, we change the internal shape of the word.",
+        "my": "မြန်မာစကားတွင် ကြိယာနောက်၌ 'သူ' သို့မဟုတ် 'ရှင်' ထည့်သကဲ့သို့ (ဥပမာ- ဖန်ဆင်း - ဖန်ဆင်းရှင်)၊ အာရဗီတွင် စကားလုံး၏ အတွင်းပိုင်း ပုံသဏ္ဌာန်ကို ပြောင်းလဲခြင်းဖြင့် ဖော်ပြသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Add an Alif after the first root letter.",
+          "rule_my": "ပထမမူရင်းအက္ခရာနောက်တွင် အာလစ်ဖ်တစ်ခုထည့်ပါ။",
+          "example": {
+            "ar": "كَتَبَ -> كَاتِب",
+            "en": "wrote -> writer",
+            "my": "ရေးသားသူ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "وَاللَّهُ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+          "en": "And Allah is over all things competent.",
+          "my": "မိုးကောင်းကင်များနှင့် မြေပေါ်တွင်ရှိသမျှအရာများအားလုံးသည် အလ္လာဟ်အရှင်မြတ်သာ ပိုင်ဆိုင်သည့်အရာများဖြစ်သည်။ အသင်တို့သည် အသင်တို့စိတ်များထဲတွင် ရှိသည်များကို ထုတ်ဖော်၍ပြောသည်ဖြစ်စေ၊ လျှို့ဝှက်၍ထားသည်ဖြစ်စေ၊ အလ္လာဟ်အရှင်မြတ်သည် ထိုအရာများနှင့်ပတ်သက်၍ အသင်တို့အား စစ်ဆေးမေးမြန်းတော်မူမည်။ ထို့နောက် အလ္လာဟ်အရှင်မြတ်သည် မိမိအလိုရှိသည်မူသောသူကို လွတ်ငြိမ်းချမ်းသာခွင့် ပေးသနားတော်မူပြီး မိမိအလိုရှိတော်မူသောသူကို အပြစ်ဒဏ်ပေးတော်မူမည်။ ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် အရာအားလုံးအပေါ် အလွန်စွမ်းဆောင်နိုင်တော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+          "ref": "2:284",
+          "breakdown": {
+            "subject": {
+              "word": "اللَّهُ",
+              "en": "Allah",
+              "note": "The proper name"
+            },
+            "predicate": {
+              "word": "قَدِيرٌ",
+              "en": "Powerful/Competent",
+              "note": "Intensive active participle"
+            }
+          },
+          "myanmar_insight": "Qadir (ကဒီရ်) ဆိုသည်မှာ တတ်စွမ်းနိုင်သူဟု အဓိပ္ပာယ်ရသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing up the vowels",
+          "wrong": {
+            "ar": "فَعَال",
+            "note": "This is a different pattern"
+          },
+          "correct": {
+            "ar": "فَاعِل",
+            "en": "Fa'il",
+            "my": "ဖာအိလ်"
+          },
+          "myanmar_tip": "ပထမအက္ခရာမှာ ဇဘရ် (Fatha) နဲ့ အာလစ်ဖ် အမြဲပါရပါမယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Ism al-Fa'il in these words",
+          "instruction_my": "အောက်ပါစကားလုံးများထဲမှ Ism al-Fa'il ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "نَاصِر",
+              "answer_en": "Helper",
+              "answer_my": "ကူညီသူ",
+              "ref": "Root N-S-R"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "أَنَا عَابِدٌ",
+              "answer_en": "I am a worshipper",
+              "answer_my": "ကျွန်ုပ်သည် ခဝတ်ကိုးကွယ်သူဖြစ်သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make the noun definite by adding Al-",
+          "instruction_my": "Al- ထည့်၍ သတ်မှတ်နာမ်ပြုလုပ်ပါ။",
+          "questions": [
+            {
+              "q": "خَالِق",
+              "answer_en": "The Creator",
+              "answer_my": "ဖန်ဆင်းရှင်",
+              "ar": "الْخَالِق"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The Ism al-Fa'il reminds us that every action has an actor. When we see 'Al-Khaliq', we focus not just on the creation, but on the One who actively creates.",
+        "my": "Ism al-Fa'il က လုပ်ရပ်တိုင်းတွင် လုပ်ဆောင်သူရှိကြောင်း သတိပေးသည်။ 'Al-Khaliq' ကို မြင်သောအခါ ဖန်ဆင်းခံကိုသာမက ဖန်ဆင်းနေသော အရှင်မြတ်ကိုပါ အာရုံပြုစေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Fatir 35:3",
+        "study_number": 1,
+        "arabic_full": "هَلْ مِنْ خَالِقٍ غَيْرُ اللَّهِ يَرْزُقُكُم مِّنَ السَّمَاءِ وَالْأَرْضِ",
+        "en_sahih": "Is there any creator other than Allah who provides for you from the heaven and earth?",
+        "my_mmsy": "အို- လူသားအပေါင်းတို့ အသင်တို့သည် အသင်တို့အပေါ်တွင် အလ္လာဟ်အရှင်မြတ်က ပြုတော်မူခဲ့သော ကျေးဇူးတော်များကို သတိရကြပါ။ အလ္လာဟ်အရှင်မြတ်၏အပြင် အသင်တို့အား မိုးကောင်းကင်နှင့် မြေပထဝီမှ စားနပ်ရိက္ခာပေးမည့် ဖန်ဆင်းရှင်တစ်ဦးတစ်ယောက်ရှိသေးသလော၊ ထိုအရှင်မြတ်မှလွဲ၍ ကိုးကွယ်ထိုက်သည့်အရှင် မရှိပေ။ ထို့နောက် အသင်တို့သည် မည်သည့်ဘက်သို့ ပြန်လှည့်သွားကြသနည်း။",
+        "audio_ref": {
+          "surah": 35,
+          "ayah": 3,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/035003.mp3"
+        },
+        "qurancom_url": "https://quran.com/35/3",
+        "context": {
+          "en": "Allah invites mankind to reflect on His favor and His unique position as the only Creator and Provider.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့အား မိမိ၏ ကျေးဇူးတော်များကို ဆင်ခြင်ရန်နှင့် တစ်ဆူတည်းသော ဖန်ဆင်းရှင်နှင့် ရိက္ခာပေးသူအဖြစ် ဖိတ်ခေါ်ထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "خَالِقٍ",
+            "translit": "khāliqin",
+            "en": "creator",
+            "my": "ဖန်ဆင်းရှင်",
+            "role_en": "Subject",
+            "role_my": "ကတ္တား",
+            "root": "خ ل ق",
+            "freq": 8
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The word 'Khaliq' follows the Fa'il pattern perfectly, emphasizing the attribute of creating.",
+          "structure_my": "'Khaliq' သည် 'Fa'il' ဝဇန်ကို အတိအကျလိုက်နာပြီး ဖန်ဆင်းခြင်းဂုဏ်အင်္ဂါကို အလေးပေးထားသည်။",
+          "insight_en": "By using the Ism al-Fa'il, the Quran highlights that creating is a continuous attribute of Allah.",
+          "insight_my": "Ism al-Fa'il ကို အသုံးပြုခြင်းဖြင့် ဖန်ဆင်းခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ အစဉ်ထာဝရ ဂုဏ်တော်ဖြစ်ကြောင်း ကုရ်အာန်က မီးမောင်းထိုးပြထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "خ ل ق",
+            "concept_en": "To measure out or create proportioned things.",
+            "concept_my": "တိုင်းတာခြင်း သို့မဟုတ် အချိုးအစားကျနစွာ ဖန်တီးခြင်း",
+            "members": [
+              {
+                "ar": "خُلُق",
+                "en": "character",
+                "my": "ကိုယ်ကျင့်တရား",
+                "freq": 2
+              }
+            ],
+            "professors_note": "The root implies not just making, but making with a specific design or plan."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ကျွန်ုပ်တို့၏ ဘဝတွင် အရာအားလုံးသည် အလ္လာဟ်အရှင်မြတ်ထံမှသာ လာသည်ကို သတိပေးနေသည်။ ဖန်ဆင်းရှင်မှာ အရှင်မြတ်သာရှိသကဲ့သို့ ရိက္ခာပေးသူမှာလည်း အရှင်မြတ်သာဖြစ်သည်။ မြန်မာမွတ်စလင်မ်တို့အနေဖြင့် မိမိတို့၏ စားဝတ်နေရေးအတွက် ပူပန်သောအခါ ဤ 'ရာဇစ်က်' (Raziq) ဂုဏ်တော်ကို တသသတိရသင့်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah starts with a powerful rhetorical question: 'Hal min khaliqin...'",
+          "meaning_anchor": "Imagine the sky and earth as two giant hands providing food.",
+          "daily_connection": "Recite this when looking at the sky or before a meal.",
+          "my": "မေးခွန်းပုံစံဖြင့် စတင်ထားသောကြောင့် မှတ်သားရလွယ်ကူသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we learned the Fa'il pattern, which identifies the doer of an action. This is the first step in unlocking Arabic morphology and understanding Allah's beautiful names.",
+      "my": "ဤသင်ခန်းစာတွင် အပြုအမူတစ်ခုကို လုပ်ဆောင်သူအား ဖော်ပြသည့် 'ဖာအိလ်' ဝဇန်ကို လေ့လာခဲ့သည်။ ၎င်းသည် အာရဗီစကားလုံး ပြောင်းလဲပုံ (Morphology) ကို နားလည်ရန်နှင့် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်များကို သိရှိရန် ပထမဆုံးခြေလှမ်းဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-077",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 77,
+    "title": {
+      "ar": "اِسْمُ الْفَاعِلِ (٢) — أَسْمَاءُ اللَّهِ",
+      "en": "Active Participle II — Divine Names",
+      "my": "ပြုလုပ်သူနာမ် (၂) — အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်များ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Allah's names as Ism al-Fa'il; intensity of Fa''āl pattern",
+      "grammar_formula": "فَعَّال (Intensive Doer)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "عَالِم",
+        "translit": "ālim",
+        "en": "Knower",
+        "my": "သိရှိသူ",
+        "quran_freq": 13,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "knowledge",
+          "concept_my": "အသိပညာ"
+        },
+        "memory_hook": {
+          "sound": "Alim knows all",
+          "image": "A bright light illuminating darkness",
+          "cross_language": "Alim"
+        },
+        "word_family": [
+          {
+            "ar": "عَلِيم",
+            "translit": "alīm",
+            "en": "All-Knowing",
+            "my": "အရာခပ်သိမ်းကို သိရှိတော်မူသောအရှင်",
+            "freq": 150
+          }
+        ],
+        "pattern_unlock": "This is the base form for knowledge-related roles.",
+        "example": {
+          "ar": "عَالِمُ الْغَيْبِ",
+          "en": "Knower of the Unseen",
+          "my": "မမြင်နိုင်သောအရာများကို သိရှိတော်မူသောအရှင်",
+          "ref": "13:9"
+        }
+      },
+      {
+        "word": "قَادِر",
+        "translit": "qādir",
+        "en": "Capable",
+        "my": "တတ်စွမ်းနိုင်သူ",
+        "quran_freq": 7,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ق د ر",
+          "concept_en": "power and destiny",
+          "concept_my": "စွမ်းဆောင်နိုင်မှုနှင့် ကံကြမ္မာ"
+        },
+        "memory_hook": {
+          "sound": "Qadir is grander",
+          "image": "A powerful king with full control",
+          "cross_language": "Qadir (နာမည်အဖြစ် သုံးလေ့ရှိသည်)"
+        },
+        "word_family": [
+          {
+            "ar": "قَدِير",
+            "translit": "qadīr",
+            "en": "Powerful",
+            "my": "အနန္တတန်ခိုးတော်ရှင်",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "Fā'il pattern shows the attribute is currently active.",
+        "example": {
+          "ar": "إِنَّهُ عَلَى رَجْعِهِ لَقَادِرٌ",
+          "en": "Indeed, He is Able to return him [to life].",
+          "my": "ဧကန်စင်စစ် အရှင်မြတ်သည် သူ့အား ပြန်လည်ရှင်သန်စေရန် တတ်စွမ်းနိုင်တော်မူသောအရှင် ဖြစ်သည်။",
+          "ref": "86:8"
+        }
+      },
+      {
+        "word": "حَاكِم",
+        "translit": "hākim",
+        "en": "Judge",
+        "my": "တရားစီရင်သူ",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ح ك م",
+          "concept_en": "wisdom and judgment",
+          "concept_my": "ဉာဏ်ပညာနှင့် စီရင်ဆုံးဖြတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hakim has wisdom",
+          "image": "A judge's gavel",
+          "cross_language": "Hakim (ဟကီးမ်) means wise person or doctor in local usage"
+        },
+        "word_family": [
+          {
+            "ar": "حَكِيم",
+            "translit": "hakīm",
+            "en": "Wise",
+            "my": "အလွန်ဉာဏ်ပညာကြီးမားသောအရှင်",
+            "freq": 97
+          }
+        ],
+        "pattern_unlock": "Hākim is the active judge, while Hakīm is the possessor of wisdom.",
+        "example": {
+          "ar": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+          "en": "Is not Allah the most just of judges?",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် တရားစီရင်သူတို့တွင် အမျှတဆုံး စီရင်တော်မူသော အရှင်မဟုတ်ပါလော။",
+          "ref": "95:8"
+        }
+      },
+      {
+        "word": "تَوَّاب",
+        "translit": "tawwāb",
+        "en": "Acceptor of Repentance",
+        "my": "သောင်ဗာကို လက်ခံတော်မူသောအရှင်",
+        "quran_freq": 11,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَّال",
+        "root": {
+          "letters": "ت و ب",
+          "concept_en": "to return",
+          "concept_my": "ပြန်လှည့်လာခြင်း (သောင်ဗာ)"
+        },
+        "memory_hook": {
+          "sound": "Tawwab accepts Tauba",
+          "image": "A door that is always open",
+          "cross_language": "Tauba (သောင်ဗာ)"
+        },
+        "word_family": [
+          {
+            "ar": "تَابَ",
+            "translit": "tāba",
+            "en": "He repented",
+            "my": "သူနောင်တရခဲ့သည်",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "The Shaddah on the second letter makes the meaning 'Very' or 'Repeatedly'.",
+        "example": {
+          "ar": "إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ",
+          "en": "Indeed, He is the Accepting of repentance, the Merciful.",
+          "my": "ဧကန်စင်စစ် အရှင်မြတ်သည် သောင်ဗာကို လက်ခံတော်မူသောအရှင်၊ သနားကြင်နာတော်မူသောအရှင် ဖြစ်တော်မူသည်။",
+          "ref": "2:37"
+        }
+      },
+      {
+        "word": "غَفَّار",
+        "translit": "ghaffār",
+        "en": "All-Forgiving",
+        "my": "အကြိမ်ကြိမ် ခွင့်လွှတ်တော်မူသောအရှင်",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَّال",
+        "root": {
+          "letters": "غ ف ر",
+          "concept_en": "to cover or forgive",
+          "concept_my": "ဖုံးအုပ်ပေးခြင်း သို့မဟုတ် ခွင့်လွှတ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ghaffar forgives forever",
+          "image": "A protective shield covering sins",
+          "cross_language": "Istighfar (အစ်တစ္ဂ်ဖာရ်)"
+        },
+        "word_family": [
+          {
+            "ar": "غَفَرَ",
+            "translit": "ghafara",
+            "en": "He forgave",
+            "my": "သူခွင့်လွှတ်ခဲ့သည်",
+            "freq": 90
+          }
+        ],
+        "pattern_unlock": "Fa''āl pattern is more intense than Fā'il.",
+        "example": {
+          "ar": "إِنَّ رَبَّكَ لَغَفَّارٌ",
+          "en": "Indeed, your Lord is All-Forgiving.",
+          "my": "ဧကန်စင်စစ် သင်၏ဖန်ဆင်းရှင်သည် အလွန်ခွင့်လွှတ်တော်မူသောအရှင်ဖြစ်သည်။",
+          "ref": "20:82"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "صِيغَةُ الْمُبَالَغَةِ",
+        "en": "Intensive Active Participle",
+        "my": "အလွန်အကျွံပြုလုပ်သူနာမ်"
+      },
+      "formula": {
+        "display": "فَ + عَّ + ا + ل = فَعَّال",
+        "example": "غَافِر (Forgiver) -> غَفَّار (All-Forgiving)",
+        "myanmar_read": "ဒုတိယအက္ခရာမှာ ရှက်ဒါ (Shaddah) နဲ့ အာလစ်ဖ် ပါဝင်ခြင်း",
+        "key_insight": "The Shaddah adds intensity—someone who does the action over and over again."
+      },
+      "explanation": {
+        "en": "While the Fā'il pattern is a standard doer, the Fa''āl pattern is an 'intensive' form. It describes someone who does something perfectly, repeatedly, or excessively. This is why many of Allah's names use this pattern to show His infinite mercy and forgiveness.",
+        "my": "Fā'il ဝဇန်သည် ပုံမှန်ပြုလုပ်သူကို ဖော်ပြသော်လည်း Fa''āl ဝဇန်သည် 'အစွမ်းကုန်' သို့မဟုတ် 'အကြိမ်ကြိမ်' ပြုလုပ်သူကို ဖော်ပြသည်။ ထို့ကြောင့် အလ္လာဟ်အရှင်မြတ်၏ ဂုဏ်တော်အများစုတွင် ဤဝဇန်ကို အသုံးပြု၍ အရှင်မြတ်၏ အတိုင်းအဆမရှိသော ကရုဏာတော်နှင့် ခွင့်လွှတ်မှုတို့ကို ဖော်ပြခြင်းဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use words like 'Ah-lun' (အလွန်) or 'A-kyaim-kyaim' (အကြိမ်ကြိမ်). In Arabic, the word structure itself changes.",
+        "my": "မြန်မာစကားတွင် 'အလွန်' သို့မဟုတ် 'အကြိမ်ကြိမ်' ဟု သုံးသကဲ့သို့ အာရဗီတွင် စကားလုံး၏ ပုံစံပြောင်းလဲခြင်းဖြင့် ဖော်ပြသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Double the second root letter and add Alif.",
+          "rule_my": "ဒုတိယမြောက် မူရင်းအက္ခရာကို ရှက်ဒါတင်ပြီး အာလစ်ဖ်ထည့်ပါ။",
+          "example": {
+            "ar": "رَزَقَ -> رَزَّاق",
+            "en": "The Great Provider",
+            "my": "အလွန်ရိက္ခာပေးတော်မူသောအရှင်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "وَإِنِّي لَغَفَّارٌ لِّمَن تَابَ",
+          "en": "But indeed, I am the Perpetual Forgiver of whoever repents.",
+          "my": "ထို့ပြင် အမှန်စင်စစ် ငါအရှင်မြတ်သည် အကြင်သူ့ကို အမှန်ပင် အလွန်ခွင့်လွှတ်တော်မူသောအရှင် ဖြစ်တော်မူသည်။ ထိုသူသည် နောင်တရ အမှားဝန်ခံ တောင်းပန်ပြီး အီမာန်ယုံကြည်ခဲ့သည်။ ထို့ပြင် ကောင်းမြတ်သော လုပ်ရပ်ကိုလည်း ပြုလုပ်ခဲ့သည်။ ထို့ပြင် တရားလမ်းမှန်ပေါ်၌သာ တည်ရှိခဲ့သည်။",
+          "ref": "20:82",
+          "breakdown": {
+            "subject": {
+              "word": "إِنِّي",
+              "en": "Indeed I",
+              "note": "Allah referring to Himself"
+            },
+            "predicate": {
+              "word": "غَفَّارٌ",
+              "en": "Perpetual Forgiver",
+              "note": "Intensive pattern"
+            }
+          },
+          "myanmar_insight": "Ghaffar (ဂဖ်ဖာရ်) သည် တစ်ကြိမ်တည်းမဟုတ်ဘဲ အကြိမ်ကြိမ် ခွင့်လွှတ်သောအရှင်ဟု ဆိုလိုသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting the Shaddah",
+          "wrong": {
+            "ar": "غَفَار",
+            "note": "Missing the double sound"
+          },
+          "correct": {
+            "ar": "غَفَّار",
+            "en": "Ghaffar",
+            "my": "ဂဖ်ဖာရ်"
+          },
+          "myanmar_tip": "ဒုတိယအက္ခရာကို ဖိဖတ်ရပါမယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify if the word is Fā'il or Fa''āl",
+          "instruction_my": "Fā'il လား Fa''āl လား ခွဲခြားပါ။",
+          "questions": [
+            {
+              "q": "تَوَّاب",
+              "answer_en": "Fa''āl (Intensive)",
+              "answer_my": "Fa''āl (အလွန်အကျွံ)",
+              "ref": "Root T-W-B"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ပါ။",
+          "questions": [
+            {
+              "q": "اللَّهُ عَلِيمٌ",
+              "answer_en": "Allah is All-Knowing",
+              "answer_my": "အလ္လာဟ်အရှင်မြတ်သည် အရာခပ်သိမ်းကို သိရှိတော်မူသောအရှင်ဖြစ်သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Transform Fā'il into Fa''āl",
+          "instruction_my": "Fā'il ကို Fa''āl သို့ ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "غَافِر",
+              "answer_en": "Ghaffar",
+              "answer_my": "ဂဖ်ဖာရ်",
+              "ar": "غَفَّار"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Divine names in the Fa''āl pattern show us that Allah doesn't just do an action; He is the perfection of it. He is always ready to forgive and provide.",
+        "my": "Fa''āl ဝဇန်ဖြင့်လာသော ဂုဏ်တော်များသည် အလ္လာဟ်အရှင်မြတ်သည် လုပ်ဆောင်ရုံသာမက ထိုအလုပ်တွင် အပြီးပြည့်စုံဆုံးဖြစ်ကြောင်း ပြသသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "At-Tin 95:8",
+        "study_number": 1,
+        "arabic_full": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+        "en_sahih": "Is not Allah the most just of judges?",
+        "my_mmsy": "(၈) အလ္လာဟ်အရှင်မြတ်သည် တရားစီရင်သူအားလုံးထက် အကောင်းဆုံးတရားစီရင်တော်မူသော အရှင်မြတ်ပင်ဖြစ်တော်မူသည်မဟုတ်လော။",
+        "audio_ref": {
+          "surah": 95,
+          "ayah": 8,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/095008.mp3"
+        },
+        "qurancom_url": "https://quran.com/95/8",
+        "context": {
+          "en": "The final verse of Surah At-Tin, confirming Allah's ultimate justice.",
+          "my": "စူရာဟ် အတ်သီးန် ၏ နောက်ဆုံးအာယသ်တော်ဖြစ်ပြီး အလ္လာဟ်အရှင်မြတ်၏ အမျှတဆုံး တရားစီရင်မှုကို အတည်ပြုထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْحَاكِمِينَ",
+            "translit": "al-ḥākimīn",
+            "en": "the judges",
+            "my": "တရားစီရင်သူများ",
+            "role_en": "Noun (Plural)",
+            "role_my": "နာမ် (အများကိန်း)",
+            "root": "ح ك م",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The word 'Al-Hakimin' is the plural form of the active participle 'Hakim'.",
+          "structure_my": "'Al-Hakimin' သည် 'Hakim' ၏ အများကိန်း ပုံစံဖြစ်သည်။",
+          "insight_en": "It compares human judges with the Supreme Judge, Allah.",
+          "insight_my": "လူသားတရားသူကြီးများနှင့် အမြင့်မြတ်ဆုံး တရားသူကြီး အလ္လာဟ်အရှင်မြတ်ကို နှိုင်းယှဉ်ပြထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ح ك م",
+            "concept_en": "To prevent or restrain from wrongdoing (hence a judge or wisdom).",
+            "concept_my": "မှားယွင်းမှုမှ တားဆီးခြင်း (ထို့ကြောင့် တရားသူကြီး သို့မဟုတ် ဉာဏ်ပညာ)",
+            "members": [
+              {
+                "ar": "حِكْمَة",
+                "en": "wisdom",
+                "my": "ဉာဏ်ပညာ",
+                "freq": 20
+              }
+            ],
+            "professors_note": "A Hakim is someone who prevents injustice through their judgment."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "လောကတွင် မတရားမှုများကို ကြုံတွေ့ရသောအခါ ဤအာယသ်တော်ကို သတိရပါ။ လူသားတရားသူကြီးများ မှားယွင်းနိုင်သော်လည်း 'အဟ်ကမုလ် ဟာကိမီးန်' ဖြစ်တော်မူသော အရှင်မြတ်သည် မည်သည့်အခါမျှ မတရားမလုပ်ပါ။ ဤသည်မှာ ယုံကြည်သူတို့အတွက် ကြီးမားသော စိတ်သက်သာရာရမှု ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah ends with a deep, resonating sound 'een'.",
+          "meaning_anchor": "Think of a final court where no secret is hidden.",
+          "daily_connection": "Commonly recited in the Witr prayer or when feeling wronged.",
+          "my": "အဆုံးသတ်သံမှာ 'အီးန်' ဖြစ်ပြီး အဓိပ္ပာယ်ကို လေးနက်စေသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored the difference between Fā'il and the intensive Fa''āl pattern. This helps us understand why Allah is not just a forgiver (Ghafir) but the Perpetual Forgiver (Ghaffar).",
+      "my": "ကျွန်ုပ်တို့သည် Fā'il နှင့် အလေးပေးသော Fa''āl ဝဇန်တို့၏ ခြားနားချက်ကို လေ့လာခဲ့သည်။ ၎င်းက အလ္လာဟ်အရှင်မြတ်သည် ခွင့်လွှတ်သူ (ဂါဖိရ်) သာမက အကြိမ်ကြိမ် ခွင့်လွှတ်တော်မူသောအရှင် (ဂဖ်ဖာရ်) ဖြစ်ရသည့် အကြောင်းရင်းကို နားလည်စေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-078",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 78,
+    "title": {
+      "ar": "اِسْمُ الْفَاعِلِ (٣) — الصِّفَةُ وَالاِسْمُ",
+      "en": "Active Participle III — Adjective vs Noun",
+      "my": "ပြုလုပ်သူနာမ် (၃) — နာမဝိသေသနနှင့် နာမ်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Ism al-Fa'il functioning as adjective vs standalone noun",
+      "grammar_formula": "Noun + Ism al-Fa'il (as Adjective)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "سَاجِد",
+        "translit": "sājid",
+        "en": "prostrating one",
+        "my": "စဂျ်ဒါပြုသူ",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "س ج د",
+          "concept_en": "prostration and submission",
+          "concept_my": "စဂျ်ဒါပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sajid is in Sajdah",
+          "image": "Forehead on the ground",
+          "cross_language": "Sajdah (စဂျ်ဒါ)"
+        },
+        "word_family": [
+          {
+            "ar": "مَسْجِد",
+            "translit": "masjid",
+            "en": "Mosque",
+            "my": "ဗလီ",
+            "freq": 28
+          }
+        ],
+        "pattern_unlock": "Fā'il pattern here describes a state of worship.",
+        "example": {
+          "ar": "قَائِمًا وَسَاجِدًا",
+          "en": "standing and prostrating",
+          "my": "မတ်တပ်ရပ်လျက်နှင့် စဂျ်ဒါပြုလျက်",
+          "ref": "25:64"
+        }
+      },
+      {
+        "word": "قَانِت",
+        "translit": "qānit",
+        "en": "devout/obedient",
+        "my": "ရိုသေစွာ နာခံသူ",
+        "quran_freq": 2,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ق ن ت",
+          "concept_en": "constant obedience",
+          "concept_my": "အစဉ်တစိုက် နာခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qanit is quiet and obedient",
+          "image": "Standing still in prayer with focus",
+          "cross_language": "Qunut (ကုနူးသ် ဒိုအာ)"
+        },
+        "word_family": [
+          {
+            "ar": "قُنُوت",
+            "translit": "qunūt",
+            "en": "devotion",
+            "my": "ဝတ်ပြုကိုးကွယ်မှု",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "This word often describes the heart's internal state.",
+        "example": {
+          "ar": "كُلٌّ لَّهُ قَانِتُونَ",
+          "en": "all are obedient to Him",
+          "my": "အားလုံးသည် အရှင်မြတ်အား ရိုသေစွာ နာခံကြသူများဖြစ်ကြသည်",
+          "ref": "2:116"
+        }
+      },
+      {
+        "word": "صَابِر",
+        "translit": "sābir",
+        "en": "patient",
+        "my": "သည်းခံသော",
+        "quran_freq": 0,
+        "word_type": "Adjective",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ص ب ر",
+          "concept_en": "patience",
+          "concept_my": "သည်းခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sabir survives",
+          "image": "A tree standing strong in wind",
+          "cross_language": "Sabr"
+        },
+        "word_family": [
+          {
+            "ar": "صَابِرِينَ",
+            "translit": "sābirīn",
+            "en": "patient ones",
+            "my": "သည်းခံသူများ",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "Used frequently as a praise for believers.",
+        "example": {
+          "ar": "وَاللَّهُ مَعَ الصَّابِرِينَ",
+          "en": "And Allah is with the patient.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် သည်းခံသူတို့နှင့်အတူ ရှိတော်မူသည်။",
+          "ref": "2:153"
+        }
+      },
+      {
+        "word": "قَائِم",
+        "translit": "qā'im",
+        "en": "standing one",
+        "my": "ရပ်နေသူ",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ق و م",
+          "concept_en": "to stand or establish",
+          "concept_my": "ရပ်တည်ခြင်း သို့မဟုတ် ထူထောင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qaim stays up",
+          "image": "A person standing in prayer",
+          "cross_language": "Qiyam (ကိယာမ်)"
+        },
+        "word_family": [
+          {
+            "ar": "قِيَامَة",
+            "translit": "qiyāmah",
+            "en": "Resurrection",
+            "my": "ရှင်ပြန်ထမြောက်ရာနေ့",
+            "freq": 70
+          }
+        ],
+        "pattern_unlock": "Roots with 'W' or 'Y' in the middle change to a Hamza in this pattern.",
+        "example": {
+          "ar": "أُمَّةٌ قَائِمَةٌ",
+          "en": "a community standing [in obedience]",
+          "my": "ဖြောင့်မတ်စွာ ရပ်တည်နေသောအုပ်စု",
+          "ref": "3:113"
+        }
+      },
+      {
+        "word": "حَافِظ",
+        "translit": "ḥāfiẓ",
+        "en": "guardian/protector",
+        "my": "ထိန်းသိမ်းစောင့်ရှောက်သူ",
+        "quran_freq": 6,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ح ف ظ",
+          "concept_en": "to guard or preserve",
+          "concept_my": "ထိန်းသိမ်းခြင်း သို့မဟုတ် စောင့်ရှောက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Hafiz guards the Quran",
+          "image": "A safe or a guard at a gate",
+          "cross_language": "Hafiz (ဟာဖိဇ် - ကုရ်အာန် အာဂုံဆောင်သူ)"
+        },
+        "word_family": [
+          {
+            "ar": "حَفِظَ",
+            "translit": "ḥafiẓa",
+            "en": "He guarded",
+            "my": "သူစောင့်ရှောက်ခဲ့သည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "This role can apply to Allah or to humans.",
+        "example": {
+          "ar": "فَاللَّهُ خَيْرٌ حَافِظًا",
+          "en": "But Allah is the best guardian",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် အကောင်းဆုံး စောင့်ရှောက်တော်မူသောအရှင် ဖြစ်သည်။",
+          "ref": "12:64"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "اِسْمُ الْفَاعِلِ كَصِفَةٍ",
+        "en": "Active Participle as Adjective",
+        "my": "ပြုလုပ်သူနာမ်ကို နာမဝိသေသနအဖြစ် သုံးခြင်း"
+      },
+      "formula": {
+        "display": "رَجُلٌ (Noun) + صَابِرٌ (Ism al-Fa'il) = A patient man",
+        "example": "عَبْدٌ شَاكِرٌ (A grateful servant)",
+        "myanmar_read": "နာမ်တစ်ခု၏ နောက်တွင် ၎င်း၏ အခြေအနေကို ဖော်ပြရန် လိုက်ပါခြင်း",
+        "key_insight": "Ism al-Fa'il can be a 'job title' (The Teacher) or a 'description' (The teaching person)."
+      },
+      "explanation": {
+        "en": "In Arabic, the Ism al-Fa'il can function as a noun (e.g., 'The Creator') or as an adjective describing another noun (e.g., 'A patient servant'). When it acts as an adjective, it must match the noun in gender, number, and definiteness.",
+        "my": "အာရဗီတွင် Ism al-Fa'il ကို နာမ် (ဥပမာ- 'ဖန်ဆင်းရှင်') အဖြစ်လည်းကောင်း၊ အခြားနာမ်တစ်ခုကို ဖော်ပြသော နာမဝိသေသန (ဥပမာ- 'သည်းခံသော ကျွန်') အဖြစ်လည်းကောင်း သုံးနိုင်သည်။ နာမဝိသေသနအဖြစ် သုံးသောအခါ ရှေ့ကနာမ်၏ လိင်၊ အရေအတွက်တို့နှင့် ကိုက်ညီရမည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, adjectives usually come before the noun or use 'thaw' (သော). In Arabic, they come after.",
+        "my": "မြန်မာစကားတွင် 'သည်းခံသော' ဟု နာမ်၏ ရှေ့တွင် သုံးသော်လည်း အာရဗီတွင် နာမ်၏ နောက်မှ လိုက်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "If the Ism al-Fa'il follows a noun, it describes that noun.",
+          "rule_my": "Ism al-Fa'il သည် နာမ်တစ်ခု၏ နောက်မှ လိုက်ပါက ထိုနာမ်ကို ထူးခြားစေသည်။",
+          "example": {
+            "ar": "عَبْدًا شَكُورًا",
+            "en": "A grateful servant",
+            "my": "ကျေးဇူးသိတတ်သော ကျွန်တစ်ဦး"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+          "en": "Indeed, Allah is with the patient.",
+          "my": "အို- အီမာန်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် သည်းခံခြင်း၊ စွလာသ်ဝတ်ပြုခြင်းတို့ဖြင့် (အရှင်မြတ်ထံတွင်) အကူအညီတောင်းကြပါ။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် သည်းခံသူများနှင့်အတူတကွ ရှိတော်မူသည်။",
+          "ref": "2:153",
+          "breakdown": {
+            "subject": {
+              "word": "اللَّهَ",
+              "en": "Allah",
+              "note": "Emphasis by Inna"
+            },
+            "predicate": {
+              "word": "الصَّابِرِينَ",
+              "en": "the patient ones",
+              "note": "Plural Ism al-Fa'il"
+            }
+          },
+          "myanmar_insight": "Sābirīn (ဆွာဗိရီးန်) သည် သည်းခံသူများဟု အဓိပ္ပာယ်ရသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Not matching gender",
+          "wrong": {
+            "ar": "اِمْرَأَةٌ صَابِرٌ",
+            "note": "Sabir is masculine"
+          },
+          "correct": {
+            "ar": "اِمْرَأَةٌ صَابِرَةٌ",
+            "en": "A patient woman",
+            "my": "သည်းခံသော အမျိုးသမီး"
+          },
+          "myanmar_tip": "အမျိုးသမီးအတွက်ဆိုရင် အဆုံးမှာ 'သ' (Ta Marbuta) ထည့်ရပါမယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Ism al-Fa'il as an adjective",
+          "instruction_my": "နာမဝိသေသနအဖြစ် သုံးထားသော Ism al-Fa'il ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "رَجُلٌ سَاجِدٌ",
+              "answer_en": "Sajid (prostrating)",
+              "answer_my": "စဂျ်ဒါပြုနေသော",
+              "ref": "A prostrating man"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ပါ။",
+          "questions": [
+            {
+              "q": "الْمَلِكُ الْحَاكِمُ",
+              "answer_en": "The judging king",
+              "answer_my": "စီရင်ဆုံးဖြတ်သော ဘုရင်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change to feminine form",
+          "instruction_my": "ဣတ္ထိလိင် (အမျိုးသမီးပုံစံ) သို့ ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "قَانِت",
+              "answer_en": "Qanitah",
+              "answer_my": "ကာနိသဟ်",
+              "ar": "قَانِتَة"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Being a 'Sajid' or 'Sabir' is not just a label; it describes our active state of heart before Allah. We strive to embody these descriptions.",
+        "my": "Sajid သို့မဟုတ် Sabir ဖြစ်ခြင်းသည် အမည်နာမတစ်ခုသာ မဟုတ်ဘဲ အလ္လာဟ်အရှင်မြတ်၏ ရှေ့မှောက်တွင် ကျွန်ုပ်တို့၏ စိတ်နှလုံး အခြေအနေကို ဖော်ပြခြင်းဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:153",
+        "study_number": 1,
+        "arabic_full": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+        "en_sahih": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.",
+        "my_mmsy": "အို- အီမာန်ယုံကြည်သူအပေါင်းတို့၊ အသင်တို့သည် သည်းခံခြင်း၊ စွလာသ်ဝတ်ပြုခြင်းတို့ဖြင့် (အရှင်မြတ်ထံတွင်) အကူအညီတောင်းကြပါ။ အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် သည်းခံသူများနှင့်အတူတကွ ရှိတော်မူသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 153,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002153.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/153",
+        "context": {
+          "en": "Allah provides a remedy for life's trials: patience and prayer.",
+          "my": "ဘဝ၏ စမ်းသပ်မှုများအတွက် ကုထုံးကို အလ္လာဟ်အရှင်မြတ်က ပေးထားသည်၊ ၎င်းမှာ သည်းခံခြင်းနှင့် ဆွလာသ်ဝတ်ပြုခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الصَّابِرِينَ",
+            "translit": "al-ṣābirīn",
+            "en": "the patient ones",
+            "my": "သည်းခံသူများ",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "ص ب ر",
+            "freq": 15
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The Ism al-Fa'il 'Sābir' is made plural and definite here.",
+          "structure_my": "Ism al-Fa'il 'Sābir' ကို ဤနေရာတွင် အများကိန်းနှင့် သတ်မှတ်နာမ်အဖြစ် သုံးထားသည်။",
+          "insight_en": "By saying Allah is 'with' them, it implies special protection and support.",
+          "insight_my": "အရှင်မြတ်သည် ၎င်းတို့နှင့် 'အတူ' ရှိသည်ဟု ဆိုခြင်းမှာ အထူးစောင့်ရှောက်မှုနှင့် ကူညီမှုကို ဆိုလိုသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ص ب ر",
+            "concept_en": "To tie down or restrain oneself from panicking.",
+            "concept_my": "မိမိကိုယ်ကို စိုးရိမ်ထိတ်လန့်မှုမှ ထိန်းချုပ်ခြင်း သို့မဟုတ် ချည်နှောင်ခြင်း",
+            "members": [
+              {
+                "ar": "اصْبِرْ",
+                "en": "Be patient!",
+                "my": "သည်းခံလော့",
+                "freq": 19
+              }
+            ],
+            "professors_note": "Sabr is not passive waiting; it is active restraint."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ နေ့စဉ်ဘဝတွင် အခက်အခဲများ ကြုံရသောအခါ စိတ်ဓာတ်မကျဘဲ 'ဆွာဗိရီးန်' (သည်းခံသူများ) စာရင်းတွင် ပါဝင်နိုင်ရန် ကြိုးစားရမည်။ အလ္လာဟ်အရှင်မြတ်သည် သည်းခံသူတို့နှင့်အတူ ရှိနေသည်ဟူသော ကတိတော်သည် အကြီးမားဆုံးသော အားကိုးရာဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah moves from a call 'Ya ayyuhal-ladhina' to a firm promise.",
+          "meaning_anchor": "Imagine prayer and patience as two pillars supporting you.",
+          "daily_connection": "Recite this when feeling overwhelmed by work or life.",
+          "my": "'ယာအိုင်ယူဟလ် လဒီန' ဟု ခေါ်ယူလိုက်သော အသံမှာ အလွန်နားဝင်ချိုလှသည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We learned that the Fa'il pattern can describe a person's role or their current state as an adjective. This helps us understand how the Quran describes the qualities of believers.",
+      "my": "Fa'il ဝဇန်သည် လူတစ်ဦး၏ အခန်းကဏ္ဍ သို့မဟုတ် လက်ရှိအခြေအနေကို နာမဝိသေသနအဖြစ် ဖော်ပြနိုင်ကြောင်း ကျွန်ုပ်တို့ သိရှိခဲ့ရသည်။ ၎င်းသည် ကုရ်အာန်တွင် ယုံကြည်သူတို့၏ အရည်အချင်းများကို ဖော်ပြပုံကို နားလည်စေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-079",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 79,
+    "title": {
+      "ar": "اِسْمُ الْفَاعِلِ (٤) — فِي جُزْءِ عَمَّ",
+      "en": "Active Participle IV — In Juz Amma",
+      "my": "ပြုလုပ်သူနာမ် (၄) — ဂျုဇ်အမ္မ ရှိ ပုံစံများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Parsing Ism al-Fa'il forms in Juz Amma surahs",
+      "grammar_formula": "Ism al-Fa'il in Short Surahs"
+    },
+    "section_1_vocab": [
+      {
+        "word": "فَاتِح",
+        "translit": "fātiḥ",
+        "en": "opener/conqueror",
+        "my": "ဖွင့်လှစ်သူ/အောင်နိုင်သူ",
+        "quran_freq": 0,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ف ت ح",
+          "concept_en": "to open or grant victory",
+          "concept_my": "ဖွင့်လှစ်ခြင်း သို့မဟုတ် အောင်ပွဲပေးသနားခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Fatih opens the gate",
+          "image": "A large key opening a door",
+          "cross_language": "Al-Fatihah (အဖွင့်ကဏ္ဍ)"
+        },
+        "word_family": [
+          {
+            "ar": "فَتْح",
+            "translit": "fatḥ",
+            "en": "victory",
+            "my": "အောင်ပွဲ",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "This word is the source for the name of the first surah.",
+        "example": {
+          "ar": "وَهُوَ الْفَتَّاحُ الْعَلِيمُ",
+          "en": "and He is the Opener, the Knowing",
+          "my": "အရှင်မြတ်သည် အစွမ်းကုန် ဖွင့်လှစ်ပေးသနားတော်မူသောအရှင်၊ အရာခပ်သိမ်းကို သိရှိတော်မူသောအရှင် ဖြစ်သည်။",
+          "ref": "34:26"
+        }
+      },
+      {
+        "word": "نَاصِر",
+        "translit": "nāṣir",
+        "en": "helper",
+        "my": "ကူညီသူ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ن ص ر",
+          "concept_en": "aid and victory",
+          "concept_my": "အကူအညီနှင့် အောင်ပွဲ"
+        },
+        "memory_hook": {
+          "sound": "Nasir brings Nasr",
+          "image": "A hand reaching out to lift someone",
+          "cross_language": "Nasr (နဆွရ် စူရာဟ်)"
+        },
+        "word_family": [
+          {
+            "ar": "مَنْصُور",
+            "translit": "manṣūr",
+            "en": "victorious",
+            "my": "အောင်မြင်သူ",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "In the Quran, this often refers to those who help Allah's cause.",
+        "example": {
+          "ar": "فَمَا لَهُ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+          "en": "Then he will have no power or any helper.",
+          "my": "ထိုအခါ ထိုသူ၌ မည်သည့်စွမ်းအားမျှရှိမည်မဟုတ်သကဲ့သို့ ကူညီမည့်သူလည်း ရှိမည်မဟုတ်ပေ။",
+          "ref": "86:10"
+        }
+      },
+      {
+        "word": "شَاهِد",
+        "translit": "shāhid",
+        "en": "witness",
+        "my": "သက်သေ",
+        "quran_freq": 16,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ش ه د",
+          "concept_en": "to witness or testify",
+          "concept_my": "သက်သေခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shahid sees the truth",
+          "image": "An eye watching an event",
+          "cross_language": "Shahadah (ရှဟာဒသ်)"
+        },
+        "word_family": [
+          {
+            "ar": "شُهُود",
+            "translit": "shuhūd",
+            "en": "witnesses",
+            "my": "သက်သေများ",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "This relates to both seeing and saying the truth.",
+        "example": {
+          "ar": "وَشَاهِدٍ وَمَشْهُودٍ",
+          "en": "And [by] the witness and what is witnessed",
+          "my": "သက်သေခံသူနှင့် သက်သေခံခြင်းခံရသောအရာကို တိုင်တည်၍",
+          "ref": "85:3"
+        }
+      },
+      {
+        "word": "غَاشِيَة",
+        "translit": "ghāshiyah",
+        "en": "overwhelming [event]",
+        "my": "လွှမ်းခြုံထားသောအရာ (ကိယာမသ်)",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَاعِلَة",
+        "root": {
+          "letters": "غ ش ي",
+          "concept_en": "to cover or overwhelm",
+          "concept_my": "လွှမ်းခြုံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ghashiyah covers the sky",
+          "image": "A giant wave or cloud covering everything",
+          "cross_language": "Surah Al-Ghashiyah"
+        },
+        "word_family": [
+          {
+            "ar": "يَغْشَى",
+            "translit": "yaghshā",
+            "en": "it covers",
+            "my": "၎င်းသည် လွှမ်းခြုံသည်",
+            "freq": 14
+          }
+        ],
+        "pattern_unlock": "The 'Ta Marbuta' at the end makes this a feminine active participle.",
+        "example": {
+          "ar": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
+          "en": "Has there reached you the report of the Overwhelming [event]?",
+          "my": "လွှမ်းခြုံထားသော (ကိယာမသ်) ၏ သတင်းသည် သင့်ထံသို့ ရောက်ရှိလာပါသလော။",
+          "ref": "88:1"
+        }
+      },
+      {
+        "word": "كَاذِب",
+        "translit": "kādhib",
+        "en": "liar",
+        "my": "လိမ်ညာသူ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِل",
+        "root": {
+          "letters": "ك ذ ب",
+          "concept_en": "to lie or deny",
+          "concept_my": "လိမ်ညာခြင်း သို့မဟုတ် ငြင်းပယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kadhib tells a lie",
+          "image": "A person with two faces",
+          "cross_language": "Kizb (လိမ်ညာခြင်း)"
+        },
+        "word_family": [
+          {
+            "ar": "كَذَّبَ",
+            "translit": "kadh-dhaba",
+            "en": "He denied",
+            "my": "သူငြင်းပယ်ခဲ့သည်",
+            "freq": 176
+          }
+        ],
+        "pattern_unlock": "This identifies a person by their negative action.",
+        "example": {
+          "ar": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
+          "en": "A lying, sinning forelock.",
+          "my": "လိမ်ညာတတ်သော၊ ပြစ်မှုကျူးလွန်သော ဦးစွန်းဆံ။",
+          "ref": "96:16"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "اِسْمُ الْفَاعِلِ فِي السُّوَرِ الْقِصَارِ",
+        "en": "Ism al-Fa'il in Short Surahs",
+        "my": "တိုတောင်းသော စူရာဟ်များရှိ Ism al-Fa'il များ"
+      },
+      "formula": {
+        "display": "Root -> Fā'il -> Ayah Focus",
+        "example": "ش ه د -> شَاهِد (Surah Buruj)",
+        "myanmar_read": "ဂျုဇ်အမ္မ စူရာဟ်များတွင် ဤဝဇန်ကို အလွန်များပြားစွာ တွေ့ရခြင်း",
+        "key_insight": "Juz Amma uses Ism al-Fa'il to create vivid, rhythmic descriptions of the Day of Judgment."
+      },
+      "explanation": {
+        "en": "In the final chapters of the Quran (Juz Amma), Allah uses the Ism al-Fa'il pattern to describe cosmic events and human characters. Because this pattern has a strong rhythm, it makes the verses easy to memorize and impactful to hear.",
+        "my": "ကုရ်အာန်၏ နောက်ဆုံးပိုင်း (ဂျုဇ်အမ္မ) တွင် အလ္လာဟ်အရှင်မြတ်သည် စကြဝဠာဆိုင်ရာ ဖြစ်ရပ်များနှင့် လူသားတို့၏ စရိုက်များကို ဖော်ပြရန် Ism al-Fa'il ဝဇန်ကို အသုံးပြုထားသည်။ ဤဝဇန်သည် စည်းချက်ညီသောကြောင့် အာယသ်တော်များကို အလွယ်တကူ ကျက်မှတ်နိုင်စေသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Like Myanmar poetry that uses rhythmic endings, Arabic uses these morphological patterns to create a musical effect in the Quran.",
+        "my": "မြန်မာကဗျာများတွင် ကာရန်ညီအောင် သုံးသကဲ့သို့ အာရဗီတွင် ဤဝဇန်များကို သုံး၍ ကုရ်အာန်တွင် ကာရန်နှင့် စည်းချက်ကို ဖော်ဆောင်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Identify the 3-letter root within the Fā'il pattern to unlock the meaning.",
+          "rule_my": "အဓိပ္ပာယ်ကို သိရှိနိုင်ရန် Fā'il ဝဇန်အတွင်းရှိ မူရင်းအက္ခရာ ၃ လုံးကို ရှာဖွေပါ။",
+          "example": {
+            "ar": "خَاطِئَة",
+            "en": "Sinning (fem.)",
+            "my": "အမှားကျူးလွန်သော"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "وَشَاهِدٍ وَمَشْهُودٍ",
+          "en": "And [by] the witness and what is witnessed",
+          "my": "(၃) ထို့ပြင် အသင့်ရောက်ရှိသည့်သူနှင့် အသင့်ရောက်ရှိခြင်းခံရမည့်သူကို သက်သေထူတော်မူသည်။  ၂",
+          "ref": "85:3",
+          "breakdown": {
+            "subject": {
+              "word": "شَاهِدٍ",
+              "en": "a witness",
+              "note": "Active Participle"
+            },
+            "predicate": {
+              "word": "مَشْهُودٍ",
+              "en": "what is witnessed",
+              "note": "Passive Participle (Next lesson)"
+            }
+          },
+          "myanmar_insight": "Shahid (ရှာဟိဒ်) ဆိုသည်မှာ မြင်တွေ့သက်သေခံသူဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing Noun and Adjective",
+          "wrong": {
+            "ar": "الْغَاشِيَة",
+            "note": "Thinking it only means a cover"
+          },
+          "correct": {
+            "ar": "الْغَاشِيَة",
+            "en": "The Overwhelming Event",
+            "my": "လွှမ်းခြုံလာမည့် ဖြစ်ရပ်"
+          },
+          "myanmar_tip": "စကားစပ်အရ အဓိပ္ပာယ်ကို ယူရပါမယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Find the Ism al-Fa'il in Surah Al-Ghashiyah 88:1",
+          "instruction_my": "စူရာဟ် ဂါရှိယဟ် အာယသ် ၁ တွင် Ism al-Fa'il ကို ရှာပါ။",
+          "questions": [
+            {
+              "q": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
+              "answer_en": "Al-Ghashiyah",
+              "answer_my": "အလ်-ဂါရှိယဟ်",
+              "ref": "88:1"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ပါ။",
+          "questions": [
+            {
+              "q": "نَاصِرٌ قَرِيبٌ",
+              "answer_en": "A near helper",
+              "answer_my": "နီးကပ်သော ကူညီသူ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Create Ism al-Fa'il from root F-T-H",
+          "instruction_my": "မူရင်းအက္ခရာ F-T-H မှ Ism al-Fa'il ပြုလုပ်ပါ။",
+          "questions": [
+            {
+              "q": "ف ت ح",
+              "answer_en": "Fatih",
+              "answer_my": "ဖာသေဟ်",
+              "ar": "فَاتِح"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The usage of Ism al-Fa'il in Juz Amma reminds us that the Day of Judgment is an active, unfolding reality. It is the 'Ghashiyah' that will soon cover all.",
+        "my": "ဂျုဇ်အမ္မတွင် Ism al-Fa'il ကို အသုံးပြုခြင်းက ကိယာမသ်နေ့သည် မလွဲမသွေ ဖြစ်ပေါ်လာမည့် လက်တွေ့ဘဝဖြစ်ကြောင်း သတိပေးနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Buruj 85:3",
+        "study_number": 1,
+        "arabic_full": "وَشَاهِدٍ وَمَشْهُودٍ",
+        "en_sahih": "And [by] the witness and what is witnessed",
+        "my_mmsy": "(၃) ထို့ပြင် အသင့်ရောက်ရှိသည့်သူနှင့် အသင့်ရောက်ရှိခြင်းခံရမည့်သူကို သက်သေထူတော်မူသည်။  ၂",
+        "audio_ref": {
+          "surah": 85,
+          "ayah": 3,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/085003.mp3"
+        },
+        "qurancom_url": "https://quran.com/85/3",
+        "context": {
+          "en": "Allah swears by various things, including the witness and the witnessed, to emphasize the truth of the Day of Judgment.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ကိယာမသ်နေ့၏ မှန်ကန်မှုကို အလေးပေးရန် သက်သေခံသူနှင့် သက်သေခံခြင်းခံရသောအရာတို့ကို တိုင်တည်၍ ကျိန်ဆိုထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "شَاهِدٍ",
+            "translit": "shāhidin",
+            "en": "a witness",
+            "my": "သက်သေခံသူ",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "ش ه د",
+            "freq": 16
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Shāhid follows the Fā'il pattern perfectly.",
+          "structure_my": "Shāhid သည် Fā'il ဝဇန်ကို အတိအကျလိုက်နာထားသည်။",
+          "insight_en": "The pattern links the 'doer' (witnesser) to the 'action' (witnessing).",
+          "insight_my": "ဤဝဇန်သည် 'ပြုလုပ်သူ' (သက်သေခံသူ) နှင့် 'အပြုအမူ' (သက်သေခံခြင်း) ကို ဆက်စပ်ပေးသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ش ه د",
+            "concept_en": "To be present and see; to testify.",
+            "concept_my": "မျက်မြင်တွေ့ရှိခြင်းနှင့် သက်သေခံခြင်း",
+            "members": [
+              {
+                "ar": "شَهَادَة",
+                "en": "testimony",
+                "my": "ရှဟာဒသ်",
+                "freq": 10
+              }
+            ],
+            "professors_note": "A Shahid is not just someone who talks, but someone who was actually there."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ လုပ်ရပ်တိုင်းတွင် အလ္လာဟ်အရှင်မြတ်သည် 'ရှာဟိဒ်' (သက်သေ) ဖြစ်တော်မူသည်။ မည်သူမျှ မရှိသောနေရာတွင်ပင် ကျွန်ုပ်တို့သည် တစ်ယောက်တည်းမဟုတ်ကြောင်း သိရှိခြင်းသည် ကျွန်ုပ်တို့အား မကောင်းမှုမှ တားဆီးပေးနိုင်သော အကောင်းဆုံးအသိဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The matching sounds of Shahid and Mashhud create a rhythmic pair.",
+          "meaning_anchor": "Think of a camera recording a scene (Shahid) and the video itself (Mashhud).",
+          "daily_connection": "Recite when observing the Friday prayer (often called the day of Shahid).",
+          "my": "ရှာဟိဒ် နှင့် မရှ်ဟူးဒ် တို့မှာ ကာရန်ညီ၍ မှတ်ရလွယ်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We practiced identifying Ism al-Fa'il in the short surahs we recite daily. This makes our prayer more meaningful as we recognize the descriptions of the hereafter.",
+      "my": "ကျွန်ုပ်တို့ နေ့စဉ်ဖတ်ရွတ်နေသော တိုတောင်းသော စူရာဟ်များထဲမှ Ism al-Fa'il ကို ရှာဖွေလေ့ကျင့်ခဲ့သည်။ ၎င်းက နောက်ဘဝအကြောင်း ဖော်ပြချက်များကို နားလည်စေပြီး ဆွလာသ်ဝတ်ပြုရာတွင် ပိုမိုလေးနက်စေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-080",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 80,
+    "title": {
+      "ar": "اِسْمُ الْفَاعِلِ (٥) — جَمْعُ الْمُذَكَّرِ السَّالِم",
+      "en": "Active Participle V — Plurals",
+      "my": "ပြုလုပ်သူနာမ် (၅) — အများကိန်းများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Sound and broken plurals of Ism al-Fa'il",
+      "grammar_formula": "فَاعِل +ُ ونَ = فَاعِلُونَ"
+    },
+    "section_1_vocab": [
+      {
+        "word": "سَاجِدُونَ",
+        "translit": "sājidūn",
+        "en": "prostrating ones",
+        "my": "စဂျ်ဒါပြုသူများ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُونَ",
+        "root": {
+          "letters": "س ج د",
+          "concept_en": "prostration",
+          "concept_my": "စဂျ်ဒါပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sajidun are many Sajids",
+          "image": "A large congregation in sujud",
+          "cross_language": "Sajidun"
+        },
+        "word_family": [
+          {
+            "ar": "سُجَّد",
+            "translit": "sujjad",
+            "en": "prostrating (broken plural)",
+            "my": "စဂျ်ဒါပြုသူများ (Broken Plural)",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "The ending 'OON' signals a group of people doing the action.",
+        "example": {
+          "ar": "التَّائِبُونَ الْعَابِدُونَ الْحَامِدُونَ",
+          "en": "The repentant, the worshippers, the praisers",
+          "my": "နောင်တရသူများ၊ ဝတ်ပြုသူများ၊ ချီးမွမ်းသူများ",
+          "ref": "9:112"
+        }
+      },
+      {
+        "word": "قَانِتُونَ",
+        "translit": "qānitūn",
+        "en": "devout ones",
+        "my": "နာခံသူများ",
+        "quran_freq": 7,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُونَ",
+        "root": {
+          "letters": "ق ن ت",
+          "concept_en": "devotion",
+          "concept_my": "နာခံမှု"
+        },
+        "memory_hook": {
+          "sound": "Qanitun stand together",
+          "image": "A group of people standing in deep focus",
+          "cross_language": "Qanitun"
+        },
+        "word_family": [
+          {
+            "ar": "قَانِتَات",
+            "translit": "qānitāt",
+            "en": "devout women",
+            "my": "နာခံသောအမျိုးသမီးများ",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "This pattern highlights the shared characteristic of a group.",
+        "example": {
+          "ar": "وَقُومُوا لِلَّهِ قَانِتِينَ",
+          "en": "And stand before Allah, devoutly obedient.",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ရှေ့တော်မှောက်တွင် ရိုသေစွာ နာခံလျက် ရပ်တည်ကြလော့။",
+          "ref": "2:238"
+        }
+      },
+      {
+        "word": "صَابِرُونَ",
+        "translit": "sābirūn",
+        "en": "patient ones",
+        "my": "သည်းခံသူများ",
+        "quran_freq": 4,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُونَ",
+        "root": {
+          "letters": "ص ب ر",
+          "concept_en": "patience",
+          "concept_my": "သည်းခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sabirun stay firm",
+          "image": "A group of people helping each other stay patient",
+          "cross_language": "Sabirun"
+        },
+        "word_family": [
+          {
+            "ar": "صَابِرِينَ",
+            "translit": "sābirīn",
+            "en": "patient ones (oblique)",
+            "my": "သည်းခံသူများ",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "Ism al-Fa'il often takes the sound masculine plural.",
+        "example": {
+          "ar": "أُولَٰئِكَ هُمُ الصَّابِرُونَ",
+          "en": "Those are the patient ones.",
+          "my": "ထိုသူတို့သည်သာလျှင် သည်းခံသူများ ဖြစ်ကြသည်။",
+          "ref": "23:111"
+        }
+      },
+      {
+        "word": "شَاكِرُونَ",
+        "translit": "shākirūn",
+        "en": "grateful ones",
+        "my": "ကျေးဇူးတင်သူများ",
+        "quran_freq": 4,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُونَ",
+        "root": {
+          "letters": "ش ك ر",
+          "concept_en": "gratitude",
+          "concept_my": "ကျေးဇူးတင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shakirun say Alhumdulillah",
+          "image": "A happy group sharing blessings",
+          "cross_language": "Shakirun"
+        },
+        "word_family": [
+          {
+            "ar": "شَاكِرِينَ",
+            "translit": "shākirīn",
+            "en": "grateful ones",
+            "my": "ကျေးဇူးတင်သူများ",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "This describes a community identity.",
+        "example": {
+          "ar": "وَلَا تَجِدُ أَكْثَرَهُمْ شَاكِرِينَ",
+          "en": "And You will not find most of them grateful.",
+          "my": "အရှင်မြတ်သည် ၎င်းတို့အနက် အများစုကို ကျေးဇူးသိတတ်သူများအဖြစ် တွေ့ရှိရမည်မဟုတ်ပေ။",
+          "ref": "7:17"
+        }
+      },
+      {
+        "word": "مُؤْمِنُونَ",
+        "translit": "mu'minūn",
+        "en": "believers",
+        "my": "ယုံကြည်သူများ",
+        "quran_freq": 181,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعِلُونَ",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "faith and security",
+          "concept_my": "ယုံကြည်ခြင်းနှင့် ဘေးကင်းလုံခြုံမှု"
+        },
+        "memory_hook": {
+          "sound": "Muminun have Iman",
+          "image": "People entering a safe fortress",
+          "cross_language": "Mumin (မူအ်မင်န်)"
+        },
+        "word_family": [
+          {
+            "ar": "إِيمَان",
+            "translit": "īmān",
+            "en": "faith",
+            "my": "အီမာန်",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "Words starting with 'Mu-' are also active participles from different verb forms.",
+        "example": {
+          "ar": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
+          "en": "Certainly will the believers have succeeded.",
+          "my": "ဧကန်စင်စစ် ယုံကြည်သူများသည် အောင်မြင်မှု ရရှိခဲ့ကြလေပြီ။",
+          "ref": "23:1"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "جَمْعُ اِسْمِ الْفَاعِلِ",
+        "en": "Plural of Active Participle",
+        "my": "ပြုလုပ်သူနာမ်၏ အများကိန်း"
+      },
+      "formula": {
+        "display": "فَاعِل + ونَ / ينَ = فَاعِلُونَ / فَاعِلِينَ",
+        "example": "صَابِر -> صَابِرُونَ",
+        "myanmar_read": "စကားလုံးအဆုံးတွင် 'အူးန' သို့မဟုတ် 'အီးန' ပေါင်းထည့်ခြင်း",
+        "key_insight": "The 'Sound Masculine Plural' is the standard way to make these role-based nouns plural."
+      },
+      "explanation": {
+        "en": "When we want to describe a group of people performing an action, we add -ūna or -īna to the Ism al-Fa'il. Occasionally, a 'Broken Plural' (Jam' Taksir) is used, which changes the internal structure entirely (e.g., Sājid -> Sujjad).",
+        "my": "လူတစ်စု၏ လုပ်ဆောင်ချက်ကို ဖော်ပြလိုသောအခါ Ism al-Fa'il ၏ အဆုံးတွင် -ūna သို့မဟုတ် -īna ကို ပေါင်းထည့်သည်။ တစ်ခါတစ်ရံတွင် စကားလုံး၏ ပုံသဏ္ဌာန်တစ်ခုလုံးကို ပြောင်းလဲစေသော 'Broken Plural' ကိုလည်း သုံးလေ့ရှိသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we add 'mya' (များ) at the end. In Arabic, the ending suffix changes based on grammar.",
+        "my": "မြန်မာစကားတွင် 'များ' ဟု ပေါင်းထည့်သကဲ့သို့ အာရဗီတွင် အဆုံးသတ်ဗျည်းများကို ပြောင်းလဲရသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Add -ūna for the subject (Marfu') form.",
+          "rule_my": "ကတ္တားအဖြစ် သုံးသောအခါ -ūna ကို ထည့်ပါ။",
+          "example": {
+            "ar": "الْمُؤْمِنُونَ",
+            "en": "The believers",
+            "my": "ယုံကြည်သူများ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
+          "en": "Certainly will the believers have succeeded.",
+          "my": "အမှန်စင်စစ် မုအ်မင်ယုံကြည်သူများသည် မလွဲမသွေ အောင်မြင်ခဲ့ကြပြီဖြစ်သည်။",
+          "ref": "23:1",
+          "breakdown": {
+            "subject": {
+              "word": "الْمُؤْمِنُونَ",
+              "en": "the believers",
+              "note": "Active Participle Plural"
+            },
+            "predicate": {
+              "word": "أَفْلَحَ",
+              "en": "succeeded",
+              "note": "Past tense verb"
+            }
+          },
+          "myanmar_insight": "Mu'minun (မူအ်မင်နူးန်) သည် 'ယုံကြည်သူများ' ကို ဆိုလိုသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing -una and -ina",
+          "wrong": {
+            "ar": "جَاءَ الْمُؤْمِنِينَ",
+            "note": "Should be -una as subject"
+          },
+          "correct": {
+            "ar": "جَاءَ الْمُؤْمِنُونَ",
+            "en": "The believers came",
+            "my": "ယုံကြည်သူများ ရောက်လာကြသည်"
+          },
+          "myanmar_tip": "ဝါကျထဲက နေရာပေါ်မူတည်ပြီး အသံပြောင်းနိုင်တာကို သတိထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the plural Ism al-Fa'il in the list",
+          "instruction_my": "အများကိန်း Ism al-Fa'il ကို ရွေးပါ။",
+          "questions": [
+            {
+              "q": "حَامِدُونَ",
+              "answer_en": "Praising ones",
+              "answer_my": "ချီးမွမ်းသူများ",
+              "ref": "Root H-M-D"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ပြန်ပါ။",
+          "questions": [
+            {
+              "q": "هُمُ الصَّابِرُونَ",
+              "answer_en": "They are the patient ones",
+              "answer_my": "၎င်းတို့သည် သည်းခံသူများဖြစ်ကြသည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make 'Shakir' plural",
+          "instruction_my": "'Shakir' ကို အများကိန်း ပြုလုပ်ပါ။",
+          "questions": [
+            {
+              "q": "شَاكِر",
+              "answer_en": "Shakirun",
+              "answer_my": "ရှာကိရူးန်",
+              "ar": "شَاكِرُونَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The plural forms in the Quran show us that we are part of a larger community of worshippers. We are not alone in our faith, patience, or gratitude.",
+        "my": "ကုရ်အာန်ရှိ အများကိန်းပုံစံများသည် ကျွန်ုပ်တို့သည် ဝတ်ပြုကိုးကွယ်သူများ၏ လူ့အဖွဲ့အစည်းကြီးတွင် ပါဝင်နေကြောင်း ပြသနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Mu'minun 23:1",
+        "study_number": 1,
+        "arabic_full": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
+        "en_sahih": "Certainly will the believers have succeeded.",
+        "my_mmsy": "အမှန်စင်စစ် မုအ်မင်ယုံကြည်သူများသည် မလွဲမသွေ အောင်မြင်ခဲ့ကြပြီဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 23,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/023001.mp3"
+        },
+        "qurancom_url": "https://quran.com/23/1",
+        "context": {
+          "en": "The beginning of Surah Al-Mu'minun, defining the characteristics of successful believers.",
+          "my": "စူရာဟ် မူအ်မင်နူးန် ၏ အစဖြစ်ပြီး အောင်မြင်သော ယုံကြည်သူတို့၏ အရည်အချင်းများကို ဖော်ပြထားသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْمُؤْمِنُونَ",
+            "translit": "al-mu'minūn",
+            "en": "the believers",
+            "my": "ယုံကြည်သူများ",
+            "role_en": "Subject",
+            "role_my": "ကတ္တား",
+            "root": "أ م ن",
+            "freq": 181
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "This is an Ism al-Fa'il from Form IV, made plural.",
+          "structure_my": "၎င်းသည် Form IV မှ ဆင်းသက်လာသော Ism al-Fa'il ၏ အများကိန်းဖြစ်သည်။",
+          "insight_en": "The use of 'Qad' with a past tense verb confirms that success is already guaranteed for them.",
+          "insight_my": "'Qad' ကို အတိတ်ကာလကြိယာနှင့် တွဲသုံးခြင်းက ၎င်းတို့အတွက် အောင်မြင်မှုသည် သေချာပေါက်ဖြစ်ကြောင်း အတည်ပြုပေးသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "أ م ن",
+            "concept_en": "Safety, security, and trust.",
+            "concept_my": "ဘေးကင်းမှု၊ လုံခြုံမှုနှင့် ယုံကြည်စိတ်ချရမှု",
+            "members": [
+              {
+                "ar": "أَمَانَة",
+                "en": "trust",
+                "my": "အာမာနသ်",
+                "freq": 2
+              }
+            ],
+            "professors_note": "A Mu'min is someone who has found safety in Allah's promise."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ကျွန်ုပ်တို့အား ကြီးမားသော မျှော်လင့်ချက်ကို ပေးသည်။ အောင်မြင်မှုဆိုသည်မှာ လောကီစည်းစိမ်မဟုတ်ဘဲ 'မူအ်မင်န်' (ယုံကြည်သူ) တစ်ယောက်ဖြစ်ခြင်းသာဖြစ်သည်။ ဤအသိဖြင့် ကျွန်ုပ်တို့၏ ဘဝကို အလ္လာဟ်အရှင်မြတ် နှစ်သက်သောလမ်းတွင် လျှောက်လှမ်းသင့်ပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "A short, sharp, and confident statement.",
+          "meaning_anchor": "Imagine a finish line where the believers have already crossed.",
+          "daily_connection": "Recite this to boost your confidence in your faith.",
+          "my": "တိုတောင်းသော်လည်း အလွန်စွမ်းအားကြီးမားသော စကားဖြစ်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We concluded our study of Ism al-Fa'il by looking at plural forms. We now know how to identify groups of doers like 'the patient ones' and 'the believers' in the Quran.",
+      "my": "ကျွန်ုပ်တို့သည် အများကိန်းပုံစံများကို လေ့လာခြင်းဖြင့် Ism al-Fa'il လေ့လာမှုကို အဆုံးသတ်ခဲ့သည်။ ယခုအခါ ကုရ်အာန်တွင် 'သည်းခံသူများ' နှင့် 'ယုံကြည်သူများ' ကဲ့သို့သော အစုအဖွဲ့များကို ခွဲခြားသိမြင်နိုင်ပြီဖြစ်သည်။"
+    }
+  }
+]

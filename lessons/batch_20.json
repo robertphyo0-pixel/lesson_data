@@ -1,0 +1,2091 @@
+[
+  {
+    "lesson_id": "L2-096",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 96,
+    "title": {
+      "ar": "تَقَابُلُ الأَوْزَانِ: نَمُوذَجُ (فَعَّلَ) وَ (أَفْعَلَ)",
+      "en": "Verb Forms VI — Form II vs Form IV: Meaning Contrasts",
+      "my": "ကြိယာပုံစံ (၂) နှင့် (၄) နှိုင်းယှဉ်ချက်"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Distinguishing Form II (intensive/gradual) from Form IV (causative/instantaneous)",
+      "grammar_formula": "Form II (فَعَّلَ) vs Form IV (أَفْعَلَ)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "نَزَّلَ",
+        "translit": "nazzala",
+        "en": "to send down (gradually/intensively)",
+        "my": "တဖြည်းဖြည်းချင်းချပေးသည်",
+        "quran_freq": 293,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ن ز ل",
+          "concept_en": "to descend",
+          "concept_my": "ဆင်းသက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Nazzala sounds like 'Nozzle' (gradual flow)",
+          "image": "Rain coming down steadily in drops",
+          "cross_language": "Myanmar Muslims use 'Nazul' for revelation"
+        },
+        "word_family": [
+          {
+            "ar": "نُزُول",
+            "translit": "nuzul",
+            "en": "descending",
+            "my": "ဆင်းသက်ခြင်း",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "The shaddah in Form II often implies a gradual or repeated action over time.",
+        "example": {
+          "ar": "نَزَّلَ عَلَيْكَ الْكِتَابَ",
+          "en": "He has sent down upon you the Book",
+          "my": "ကိုယ်တော်အပေါ်သို့ ကျမ်းတော်မြတ်ကို (တဖြည်းဖြည်း) ချပေးတော်မူခဲ့သည်။",
+          "ref": "3:3"
+        }
+      },
+      {
+        "word": "أَنْزَلَ",
+        "translit": "anzala",
+        "en": "to send down (as a whole/causative)",
+        "my": "ချပေးသည် (တစ်ခါတည်း)",
+        "quran_freq": 185,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "ن ز ل",
+          "concept_en": "to descend",
+          "concept_my": "ဆင်းသက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Anzala starts with 'A' like 'All at once'",
+          "image": "A lightning bolt striking instantly",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مُنْزِل",
+            "translit": "munzil",
+            "en": "one who sends down",
+            "my": "ချပေးသောသူ",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Form IV (Af'ala) often focuses on the result of the action being caused to happen.",
+        "example": {
+          "ar": "إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ",
+          "en": "Indeed, We sent it down during the Night of Decree",
+          "my": "ဧကန်မလွဲ ငါအရှင်မြတ်သည် ၎င်း(ကုရ်အာန်)ကို လိုင်လသုလ်ကဒရ်ည၌ (တစ်ခါတည်း) ချပေးတော်မူခဲ့သည်။",
+          "ref": "97:1"
+        }
+      },
+      {
+        "word": "قَدَّسَ",
+        "translit": "qaddasa",
+        "en": "to sanctify/purify intensively",
+        "my": "အထူးသန့်ရှင်းစင်ကြယ်စေသည်",
+        "quran_freq": 10,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ق د س",
+          "concept_en": "holiness/purity",
+          "concept_my": "သန့်ရှင်းစင်ကြယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qaddasa - like 'Quddus' (The Holy)",
+          "image": "Polishing a gem until it glows",
+          "cross_language": "Urdu/Myanmar: Muqaddas (Sacred)"
+        },
+        "word_family": [
+          {
+            "ar": "قُدُّوس",
+            "translit": "quddus",
+            "en": "Holy",
+            "my": "သန့်ရှင်းတော်မူသောဘုရား",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "Form II here describes praise and repetitive declaration of holiness.",
+        "example": {
+          "ar": "وَنُقَدِّسُ لَكَ",
+          "en": "and we sanctify You",
+          "my": "အရှင်မြတ်၏ သန့်ရှင်းစင်ကြယ်မှုကို ကျွန်ုပ်တို့ ချီးမွမ်းကြပါသည်။",
+          "ref": "2:30"
+        }
+      },
+      {
+        "word": "أَقْدَسَ",
+        "translit": "aqdasa",
+        "en": "to make holy",
+        "my": "သန့်ရှင်းစေသည်",
+        "quran_freq": 0,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "ق د س",
+          "concept_en": "holiness",
+          "concept_my": "သန့်ရှင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Aqdasa",
+          "image": "Granting a sacred status",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مُقَدَّس",
+            "translit": "muqaddas",
+            "en": "sanctified",
+            "my": "သန့်ရှင်းရာဌာန",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "Rare in the Quran as a verb, but helps understand the causative shift in roots.",
+        "example": {
+          "ar": "الْوَادِ الْمُقَدَّسِ",
+          "en": "the holy valley",
+          "my": "သန့်ရှင်းသောချိုင့်ဝှမ်း",
+          "ref": "20:12"
+        }
+      },
+      {
+        "word": "زَكَّى",
+        "translit": "zakka",
+        "en": "to purify/cleanse",
+        "my": "သန့်စင်စေသည်",
+        "quran_freq": 15,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ز ك و",
+          "concept_en": "growth/purity",
+          "concept_my": "တိုးပွားခြင်း/သန့်စင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Zakka - like Zakat",
+          "image": "Pruning a plant so it grows better",
+          "cross_language": "Zakat in Myanmar Islamic context"
+        },
+        "word_family": [
+          {
+            "ar": "زَكَاة",
+            "translit": "zakat",
+            "en": "charity",
+            "my": "ဇကားသ်",
+            "freq": 32
+          }
+        ],
+        "pattern_unlock": "Form II verbs of growth indicate the process of nurturing and refining.",
+        "example": {
+          "ar": "قَدْ أَفْلَحَ مَن زَكَّاهَا",
+          "en": "He has succeeded who purifies it",
+          "my": "မိမိ၏စိတ်ဝိညာဉ်ကို သန့်စင်အောင်ပြုလုပ်သူသည် ဧကန်မလွဲ အောင်မြင်လေပြီ။",
+          "ref": "91:9"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "التَّفْرِيقُ بَيْنَ (فَعَّلَ) وَ (أَفْعَلَ)",
+        "en": "Contrasting Form II and Form IV",
+        "my": "ပုံစံ (၂) နှင့် (၄) ကွာခြားချက်"
+      },
+      "formula": {
+        "display": "Form II (Shaddah) = Gradual/Intensive | Form IV (Alif) = Causative/Instant",
+        "example": "نَزَّلَ (Gradual) vs أَنْزَلَ (Sudden)",
+        "myanmar_read": "ဗျည်းနှစ်ဆင့် (Shaddah) ပါလျှင် အကြိမ်ကြိမ် သို့မဟုတ် တဖြည်းဖြည်းပြုလုပ်ခြင်း၊ Alif ပါလျှင် ဖြစ်စေခြင်း သို့မဟုတ် တစ်ခါတည်းပြုလုပ်ခြင်းဟု နားလည်ပါ။",
+        "key_insight": "The Shaddah adds weight and duration; the Alif adds push and direction."
+      },
+      "explanation": {
+        "en": "Form II (Fa''ala) involves doubling the middle letter, often meaning an action is done repeatedly, intensively, or over time (like the Quran being revealed over 23 years). Form IV (Af'ala) adds an Alif at the start, often meaning to 'cause' something to happen or doing it all at once.",
+        "my": "Form II (Fa''ala) သည် အလယ်ဗျည်းကို နှစ်ဆင့်ဆင့်ထားပြီး အလုပ်တစ်ခုကို အကြိမ်ကြိမ်ပြုလုပ်ခြင်း သို့မဟုတ် တဖြည်းဖြည်းချင်းပြုလုပ်ခြင်း (ဥပမာ- ကုရ်အာန်ကျမ်းတော်မြတ် ၂၃ နှစ်အတွင်း အပိုင်းလိုက်ကျခြင်း) ကို ဆိုလိုသည်။ Form IV (Af'ala) သည် ရှေ့တွင် Alif အက္ခရာပိုလာပြီး အလုပ်တစ်ခုကို ဖြစ်စေခြင်း သို့မဟုတ် တစ်ခါတည်းပြုလုပ်ခြင်းကို ဆိုလိုသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Burmese, we use auxiliary verbs like 'စေ' (cause to) or 'နေ' (continuous). Form IV is like adding 'စေ' (make descend), while Form II is like adding 'နေ' (keep descending).",
+        "my": "မြန်မာစကားတွင် 'စေ' (ပြုလုပ်စေသည်) သို့မဟုတ် 'နေ' (ပြုလုပ်နေသည်) ဟူသော အကူကြိယာများဖြင့် ခွဲခြားသကဲ့သို့ ဖြစ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Form II (Shaddah) often indicates the process (How).",
+          "rule_my": "Form II (ဗျည်းဆင့်) သည် လုပ်ဆောင်မှုအဆင့်ဆင့်ကို ပြသည်။",
+          "example": {
+            "ar": "نَزَّلَ",
+            "en": "Sent down in stages",
+            "my": "အဆင့်ဆင့်ချပေးခဲ့သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Form IV (Alif) often indicates the act of causing (Who/What).",
+          "rule_my": "Form IV (Alif ပါသောပုံစံ) သည် ဖြစ်ပေါ်စေခြင်းကို အလေးပေးသည်။",
+          "example": {
+            "ar": "أَنْزَلَ",
+            "en": "Caused to descend",
+            "my": "ဆင်းသက်စေခဲ့သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ",
+          "en": "He has sent down upon you, [O Muhammad], the Book in truth",
+          "my": "အရှင်မြတ်သည် အသင်(တမန်တော်)၏အပေါ် ကျမ်းတော်(မြတ်ကုရ်အာန်)ကို မှန်ကန်စွာ ပို့ချတော်မူခဲ့သည်။ (ဤကျမ်းသည်) ၎င်းမတိုင်မီကျရောက်ခဲ့သောကျမ်းများကို ထောက်ခံလျက်ရှိသည်။ ၎င်းပြင် အရှင်မြတ်သည် သောင်ရသ်ကျမ်းနှင့် အင်ဂျီလ်ကျမ်းကိုလည်း ချပေးတော်မူခဲ့သည်။",
+          "ref": "3:3",
+          "breakdown": {
+            "subject": {
+              "word": "نَزَّلَ",
+              "en": "He sent down gradually",
+              "note": "Form II"
+            },
+            "predicate": {
+              "word": "الْكِتَابَ",
+              "en": "the Book",
+              "note": "Object"
+            }
+          },
+          "myanmar_insight": "နက်ဇ်ဇလ (Form II) ကို သုံးထားခြင်းမှာ ကုရ်အာန်သည် ၂၃ နှစ်အတွင်း တဖြည်းဖြည်းချင်း ကျရောက်လာခြင်းကို ရည်ညွှန်းသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing the pronunciation of Shaddah and Alif",
+          "wrong": {
+            "ar": "أَنَزَلَ",
+            "note": "Mixing Form IV and I"
+          },
+          "correct": {
+            "ar": "أَنْزَلَ",
+            "en": "He sent down",
+            "my": "သူချပေးခဲ့သည်"
+          },
+          "myanmar_tip": "Alif ပါလျှင် အသံကို ဖြတ်ထွက်ပါ၊ Shaddah ပါလျှင် အသံကို ဖိထွက်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify if the verb is Form II or Form IV",
+          "instruction_my": "ကြိယာမှာ ပုံစံ (၂) လား သို့မဟုတ် (၄) လား ခွဲခြားပါ။",
+          "questions": [
+            {
+              "q": "عَلَّمَ",
+              "answer_en": "Form II",
+              "answer_my": "ပုံစံ ၂",
+              "ref": "96:4"
+            },
+            {
+              "q": "أَسْلَمَ",
+              "answer_en": "Form IV",
+              "answer_my": "ပုံစံ ၄",
+              "ref": "2:131"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the following intensive verb",
+          "instruction_my": "အောက်ပါကြိယာကို မြန်မာလိုပြန်ဆိုပါ။",
+          "questions": [
+            {
+              "q": "سَبَّحَ",
+              "answer_en": "He glorified intensively",
+              "answer_my": "သူသည် (အရှင်မြတ်အား) အထူးချီးမွမ်းသန့်ရှင်းစေခဲ့သည်။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change from Form I (n-z-l) to Form IV",
+          "instruction_my": "Form I မှ Form IV သို့ ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "نَزَلَ",
+              "answer_en": "He descended",
+              "answer_my": "သူဆင်းခဲ့သည်",
+              "ar": "أَنْزَلَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The precision of Quranic Arabic shows us that God reveals things with perfect timing—sometimes gradually to strengthen our hearts (Form II), and sometimes as a complete mercy (Form IV).",
+        "my": "ကုရ်အာန်၏ တိကျမှုသည် အလ္လာဟ်အရှင်မြတ်က အရာရာကို အချိန်ကိုက်စီမံကြောင်း ပြသသည်။ တစ်ခါတစ်ရံ နှလုံးသားခိုင်မာရန် တဖြည်းဖြည်း (Form II) နှင့် တစ်ခါတစ်ရံ အလုံးစုံကရုဏာအဖြစ် (Form IV) ချပေးသနားတော်မူသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:23",
+        "study_number": 1,
+        "arabic_full": "وَإِن كُنتُمْ فِي رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا",
+        "en_sahih": "And if you are in doubt about what We have sent down upon Our Servant",
+        "my_mmsy": "ထို့ပြင် အကယ်၍ အသင်တို့သည် ငါအရှင်မြတ်က ငါအရှင်မြတ်၏ကျွန်(ဖြစ်သူ တမန်တော်မုဟမ္မဒ်(ဆွ) အပေါ်ချပေးတော်မူခဲ့သည့်အရာ (ကုရ်အာန်ကျမ်းတော်မြတ်)ကို (ငါအရှင်၏ထံမှမဟုတ်၊ မုဟမ္မဒ်(ဆွ)သည် မိမိသဘောနှင့်ပြောခဲ့သည်ဟု အသင်တို့) သံသယဖြစ်ခဲ့ကြသည်ဆိုလျှင် အသင်တို့အနေဖြင့် (စကားကြွယ်ဝသည့် အာရဗ်များပီသစွာ) ငါအရှင်ချပေးတော်မူခဲ့သော ထို(ကုရ်အာန်)နှင့်တူသည့် စူရဟ်ဏ္ဍတစ်ပုဒ် (မျှရေးသားပြုစုပြီး) ယူဆောင်လာခဲ့ကြပါ။ ထို့နောက် (တမန်တော်မုဟမ္မဒ်(ဆွ)၏စကားဟု အသင်တို့ပြောသည်မှာ မှန်မည်ဆိုလျှင်) အသင်တို့သည် စကားမှန်ပြောသူများဖြစ်ကြမည်ဆိုလျှင် အလ္လာဟ် အရှင်မြတ်မှလွဲ၍ အသင်တို့ကို သက်သေခံပေးမည့်သူ(ကူညီမည့်)သူများကိုလည်း ခေါ်ဆောင်လာခဲ့ကြပါ။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 23,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002023.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/23",
+        "context": {
+          "en": "Allah challenges those who doubt the Quran's divine origin.",
+          "my": "ကုရ်အာန်သည် အလ္လာဟ်အရှင်မြတ်ထံမှ ဖြစ်ကြောင်း သံသယရှိသူများကို စိန်ခေါ်ထားခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "نَزَّلْنَا",
+            "translit": "nazzalna",
+            "en": "We sent down (gradually)",
+            "my": "ငါအရှင်မြတ်တို့ ချပေးတော်မူခဲ့သော",
+            "role_en": "Verb (Form II)",
+            "role_my": "ကြိယာ (ပုံစံ ၂)",
+            "root": "ن ز ل",
+            "freq": 62
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of nazzalna (Form II) emphasizes the revelation of the Quran piece by piece over time.",
+          "structure_my": "Nazzalna (Form II) ကို အသုံးပြုထားခြင်းမှာ ကုရ်အာန်သည် အချိန်တစ်ခုယူ၍ အပိုင်းလိုက်ကျလာခြင်းကို အလေးပေးလိုခြင်းဖြစ်သည်။",
+          "insight_en": "Form II here highlights the pedagogical nature of the Quran—teaching us bit by bit.",
+          "insight_my": "Form II ကိုသုံးခြင်းဖြင့် ကုရ်အာန်သည် ကျွန်ုပ်တို့အား တစ်ဆင့်ပြီးတစ်ဆင့် သင်ကြားပြသသော နည်းစနစ်ကို ဖော်ပြနေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ن ز ل",
+            "concept_en": "The act of something high coming down to a lower state.",
+            "concept_my": "အထက်မှ အောက်သို့ ကျဆင်းလာခြင်း။",
+            "members": [
+              {
+                "ar": "مَنْزِل",
+                "en": "dwelling/house",
+                "my": "နေအိမ်",
+                "freq": 0
+              }
+            ],
+            "professors_note": "In Form II, the descent is seen as a continuous hospitality from the Creator to the creation."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် ကုရ်အာန်ကျမ်းတော်မြတ်ကို ကျွန်ုပ်တို့၏နှလုံးသားများ နားလည်နိုင်စွမ်းရှိစေရန် တဖြည်းဖြည်းချင်း ချပေးသနားတော်မူခဲ့သည်။ ဤသည်မှာ ကျွန်ုပ်တို့အပေါ်ထားရှိသော အရှင်မြတ်၏ အတိုင်းအဆမရှိသော ဂရုဏာတော်ပင်ဖြစ်သည်။ ကျွန်ုပ်တို့၏ ဘဝခရီးလမ်းတွင်လည်း အပြောင်းအလဲများကို ချက်ချင်းမဟုတ်ဘဲ တဖြည်းဖြည်းချင်း လုပ်ဆောင်သွားရန် ဤပုံစံက သင်ခန်းစာပေးနေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Focus on the strong 'Z' sound in Naz-zal-na.",
+          "meaning_anchor": "Imagine a ladder with many steps (Form II) vs a lift that goes down once (Form IV).",
+          "daily_connection": "When you read a small part of Quran daily, remember 'Nazzala'—it is meant to be absorbed slowly.",
+          "my": "Naz-zal-na ရှိ 'ဇာ' အက္ခရာကို ဖိဆိုခြင်းဖြင့် အဓိပ္ပာယ်ကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Today we learned to distinguish between Form II (intensive/gradual) and Form IV (causative). This nuance is vital in understanding why different words are used for 'sending down' the Quran and previous scriptures.",
+      "my": "ယနေ့တွင် Form II (အဆင့်ဆင့်ပြုလုပ်ခြင်း) နှင့် Form IV (ဖြစ်စေခြင်း) တို့၏ ကွာခြားချက်ကို လေ့လာခဲ့ကြသည်။ ဤအချက်သည် ကုရ်အာန်နှင့် အခြားကျမ်းများ ချပေးပုံ ကွာခြားချက်ကို နားလည်ရန် အလွန်အရေးကြီးပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-097",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 97,
+    "title": {
+      "ar": "الْمَصَادِرُ: تَفْعِيل وَإِفْعَال",
+      "en": "Verb Forms VII — Masdar of Form II (Taf'īl) and Form IV (If'āl)",
+      "my": "Form II နှင့် IV ၏ နာမ် (Masdar) ပုံစံများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Regular Masdar (Verbal Noun) patterns: Taf'il and If'al",
+      "grammar_formula": "II: تَفْعِيل (Taf'īl) | IV: إِفْعَال (If'āl)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "تَكْلِيم",
+        "translit": "taklim",
+        "en": "speaking/addressing",
+        "my": "စကားပြောဆိုခြင်း",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "ك ل م",
+          "concept_en": "speech/words",
+          "concept_my": "စကားလုံးများ"
+        },
+        "memory_hook": {
+          "sound": "Taklim - like 'Talk'",
+          "image": "Two people talking face to face",
+          "cross_language": "Myanmar Muslims use 'Talim' for education/speaking"
+        },
+        "word_family": [
+          {
+            "ar": "كَلِمَة",
+            "translit": "kalimah",
+            "en": "word",
+            "my": "ကလိမာ/စကားလုံး",
+            "freq": 28
+          }
+        ],
+        "pattern_unlock": "Most Form II verbs turn into nouns using the Ta- prefix and -ī- sound.",
+        "example": {
+          "ar": "وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا",
+          "en": "And Allah spoke to Moses with [direct] speech",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် မူစာ (အလိုင်းဟစ္စလာမ်) အား အမှန်တကယ် စကားပြောဆိုတော်မူခဲ့သည်။",
+          "ref": "4:164"
+        }
+      },
+      {
+        "word": "تَنْزِيل",
+        "translit": "tanzil",
+        "en": "revelation/sending down",
+        "my": "ချပေးသနားတော်မူခြင်း",
+        "quran_freq": 16,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "تَفْعِيل",
+        "root": {
+          "letters": "ن ز ل",
+          "concept_en": "to descend",
+          "concept_my": "ဆင်းသက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Tanzil",
+          "image": "The Quran descending from the heavens",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "نُزُل",
+            "translit": "nuzul",
+            "en": "hospitality/lodging",
+            "my": "ဧည့်ဝတ်ပြုမှု",
+            "freq": 8
+          }
+        ],
+        "pattern_unlock": "Tanzil specifically refers to the process of the Quran being revealed.",
+        "example": {
+          "ar": "تَنزِيلٌ مِّن رَّبِّ الْعَالَمِينَ",
+          "en": "A revelation from the Lord of the worlds",
+          "my": "စကြဝဠာအပေါင်းကို ဖန်ဆင်းမွေးမြူတော်မူသော အရှင်မြတ်ထံမှ ချပေးသနားတော်မူခြင်း ဖြစ်သည်။",
+          "ref": "56:80"
+        }
+      },
+      {
+        "word": "إِسْلَام",
+        "translit": "islam",
+        "en": "submission/surrender",
+        "my": "အစ္စလာမ် (ငြိမ်းချမ်းစွာ အညံ့ခံခြင်း)",
+        "quran_freq": 8,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "إِفْعَال",
+        "root": {
+          "letters": "س ل م",
+          "concept_en": "peace/safety/submission",
+          "concept_my": "ငြိမ်းချမ်းမှု/အညံ့ခံမှု"
+        },
+        "memory_hook": {
+          "sound": "Islam",
+          "image": "A person bowing in prayer (submission)",
+          "cross_language": "Islam is used worldwide"
+        },
+        "word_family": [
+          {
+            "ar": "سَلَام",
+            "translit": "salam",
+            "en": "peace",
+            "my": "ငြိမ်းချမ်းမှု",
+            "freq": 42
+          }
+        ],
+        "pattern_unlock": "The name of our religion is a Form IV Masdar, meaning the 'act of causing oneself to be in peace by submitting'.",
+        "example": {
+          "ar": "إِنَّ الدِّينَ عِندَ اللَّهِ الْإِسْلَامُ",
+          "en": "Indeed, the religion in the sight of Allah is Islam",
+          "my": "ဧကန်စင်စစ် အလ္လာဟ်အရှင်မြတ်အထံတော်၌ (လက်ခံနိုင်သော) သာသနာမှာ အစ္စလာမ်သာသနာသာလျှင် ဖြစ်သည်။",
+          "ref": "3:19"
+        }
+      },
+      {
+        "word": "إِيمَان",
+        "translit": "iman",
+        "en": "faith/belief",
+        "my": "အီမာန် (ယုံကြည်ခြင်း)",
+        "quran_freq": 45,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "إِفْعَال",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "safety/trust",
+          "concept_my": "ယုံကြည်စိတ်ချရမှု"
+        },
+        "memory_hook": {
+          "sound": "Iman",
+          "image": "A strong pillar in the heart",
+          "cross_language": "Iman in Myanmar language"
+        },
+        "word_family": [
+          {
+            "ar": "أَمْن",
+            "translit": "amn",
+            "en": "security",
+            "my": "လုံခြုံမှု",
+            "freq": 4
+          }
+        ],
+        "pattern_unlock": "Iman is Form IV, literally 'causing oneself to be secure' through faith.",
+        "example": {
+          "ar": "حَبَّبَ إِلَيْكُمُ الْإِيمَانَ",
+          "en": "He has made beloved to you faith",
+          "my": "အရှင်မြတ်သည် သင်တို့အား အီမာန်ယုံကြည်မှုကို ချစ်မြတ်နိုးဖွယ်ဖြစ်စေခဲ့သည်။",
+          "ref": "49:7"
+        }
+      },
+      {
+        "word": "إِصْلَاح",
+        "translit": "islah",
+        "en": "reformation/reconciliation",
+        "my": "ပြုပြင်မွမ်းမံခြင်း",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "إِفْعَال",
+        "root": {
+          "letters": "ص ل ح",
+          "concept_en": "goodness/righteousness",
+          "concept_my": "ကောင်းမွန်မှန်ကန်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Islah - sounds like 'Is-Law' (correcting things)",
+          "image": "Fixing a broken fence",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "صَالِح",
+            "translit": "salih",
+            "en": "righteous",
+            "my": "သူတော်စင်",
+            "freq": 30
+          }
+        ],
+        "pattern_unlock": "If'al pattern nouns often describe positive social or spiritual actions.",
+        "example": {
+          "ar": "إِنْ أُرِيدُ إِلَّا الْإِصْلَاحَ",
+          "en": "I only intend reform",
+          "my": "ကျွန်ုပ်သည် ပြုပြင်မွမ်းမံရန်သာ ရည်ရွယ်ပါသည်။",
+          "ref": "11:88"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "مَصَادِرُ الْأَفْعَالِ (تَفْعِيل وَإِفْعَال)",
+        "en": "Masdars of Forms II and IV",
+        "my": "Form II နှင့် IV ၏ နာမ်စားပုံစံများ"
+      },
+      "formula": {
+        "display": "Form II → تَـفْـعِـيـل | Form IV → إِفْـعَـال",
+        "example": "كَلَّمَ → تَكْلِيم | أَسْلَمَ → إِسْلَام",
+        "myanmar_read": "Form II ကြိယာကို နာမ်ပြောင်းလျှင် ရှေ့က 'တ' (Ta) နှင့် အလယ်က 'အီး' (ii) အသံထည့်ပါ။ Form IV ကို နာမ်ပြောင်းလျှင် ရှေ့က 'အီ' (i) နှင့် အလယ်က 'အား' (aa) အသံထည့်ပါ။",
+        "key_insight": "Masdars are the 'names' of the action. Knowing the pattern lets you turn any verb into its concept noun."
+      },
+      "explanation": {
+        "en": "A Masdar is a verbal noun (like 'to speak' becoming 'speaking'). For Form II (Fa''ala), the pattern is almost always Taf'īl. For Form IV (Af'ala), the pattern is If'āl. Recognizing these patterns allows you to identify the core action in a sentence even if it's used as a noun.",
+        "my": "Masdar ဆိုသည်မှာ ကြိယာမှ ပြောင်းလဲလာသော နာမ် (Verbal Noun) ဖြစ်သည်။ Form II အတွက် ပုံသေပုံစံမှာ Taf'īl ဖြစ်ပြီး၊ Form IV အတွက်မှာ If'āl ဖြစ်သည်။ ဤပုံစံများကို မှတ်မိပါက စာကြောင်းတစ်ခုအတွင်း နာမ်အဖြစ် သုံးနှုန်းထားသော အပြုအမူများကို အလွယ်တကူ ခွဲခြားနိုင်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we often add '-ခြင်း' (chin) to a verb to make it a noun (e.g., ပြောခြင်း). Arabic uses specific rhythmic patterns like Taf'il and If'al to achieve this.",
+        "my": "မြန်မာစကားတွင် ကြိယာနောက်၌ '-ခြင်း' ထည့်၍ နာမ်ပြုလုပ်သကဲ့သို့ (ဥပမာ- ပြောသည် -> ပြောခြင်း) အာရဗီတွင် ဤပုံစံများဖြင့် ပြုလုပ်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Form II Masdar starts with 'Ta' and has a long 'ee' before the last letter.",
+          "rule_my": "Form II ၏ Masdar သည် 'Ta' ဖြင့်စပြီး နောက်ဆုံးအက္ခရာရှေ့တွင် 'Ya' (ii) ပါသည်။",
+          "example": {
+            "ar": "تَسْبِيح",
+            "en": "Glorification",
+            "my": "ချီးမွမ်းခြင်း"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Form IV Masdar starts with 'i' and has a long 'aa' before the last letter.",
+          "rule_my": "Form IV ၏ Masdar သည် 'i' ဖြင့်စပြီး နောက်ဆုံးအက္ခရာရှေ့တွင် 'Alif' (aa) ပါသည်။",
+          "example": {
+            "ar": "إِنْفَاق",
+            "en": "Spending",
+            "my": "လှူဒါန်းခြင်း"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "إِنَّ الدِّينَ عِنْدَ اللَّهِ الْإِسْلَامُ",
+          "en": "Indeed, the religion in the sight of Allah is Islam",
+          "my": "အမှန်စင်စစ် သာသနာသည် အလ္လာဟ်အရှင်မြတ်ထံတွင် အစ္စလာမ်သာသနာတော်ပင်ဖြစ်သည်။  ထိုပြင် ကျမ်းဂန်ပေးခြင်းခံကြရသောသူများသည် သူတို့ထံကို အသိပညာရောက်ရှိခဲ့ပြီးနောက်မှပင် သူတို့အချင်းချင်း မလိုမုန်းတီးမှုကြောင့်သာ (ကွဲလွဲခဲ့ကြခြင်းဖြစ်သည်)။ ထို့ပြင် မည်သူမဆို အလ္လာဟ်အရှင်မြတ်၏အာယသ်တော်များကို ငြင်းပယ်လျှင် အမှန်စင်စစ် အလ္လာဟ်အရှင်မြတ်သည် အလွန်လျင်မြန်စွာ စာရင်းစစ်ဆေးတော်မူသောအရှင် ဖြစ်တော်မူသည်။ (အမှန်နှင့် အမှား၏ရလဒ်သည် အမြန်ရရှိလိမ့်မည်။)",
+          "ref": "3:19",
+          "breakdown": {
+            "subject": {
+              "word": "الْإِسْلَامُ",
+              "en": "The Submission (Islam)",
+              "note": "Masdar of Form IV"
+            },
+            "predicate": {
+              "word": "الدِّينَ",
+              "en": "The Religion",
+              "note": "Noun"
+            }
+          },
+          "myanmar_insight": "'အစ္စလာမ်' ဟူသော စကားလုံးကိုယ်တိုင်က Form IV ၏ Masdar ပုံစံဖြစ်ကြောင်း သတိပြုပါ။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Forgetting the 'i' (Kasra) at the start of Form IV Masdar",
+          "wrong": {
+            "ar": "أَسْلَام",
+            "note": "Using Fatha instead of Kasra"
+          },
+          "correct": {
+            "ar": "إِسْلَام",
+            "en": "Islam",
+            "my": "အစ္စလာမ်"
+          },
+          "myanmar_tip": "If'al (အီဖားလ်) ဟု အသံထွက်ကို ကျက်မှတ်ထားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Match the Masdar to its Form (II or IV)",
+          "instruction_my": "Masdar ကို ပုံစံ (၂ သို့မဟုတ် ၄) နှင့် တွဲပေးပါ။",
+          "questions": [
+            {
+              "q": "تَكْذِيب",
+              "answer_en": "Form II",
+              "answer_my": "ပုံစံ ၂",
+              "ref": "85:19"
+            },
+            {
+              "q": "إِخْرَاج",
+              "answer_en": "Form IV",
+              "answer_my": "ပုံစံ ၄",
+              "ref": "2:191"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate this common Quranic Masdar",
+          "instruction_my": "အောက်ပါ Masdar ကို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "تَذْكِير",
+              "answer_en": "Reminding",
+              "answer_my": "သတိပေးခြင်း"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Create the Masdar from Form IV: 'Anzala'",
+          "instruction_my": "Anzala မှ Masdar ပုံစံ ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "أَنْزَلَ",
+              "answer_en": "Inzal",
+              "answer_my": "အင်းဇားလ် (ချပေးခြင်း)",
+              "ar": "إِنْزَال"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Words like Islam and Iman are not just titles; they are actions. Their Masdar form reminds us that faith and submission are dynamic processes we must engage in daily.",
+        "my": "အစ္စလာမ် နှင့် အီမာန် ဆိုသည်မှာ အမည်နာမသက်သက်မဟုတ်ဘဲ အပြုအမူများဖြစ်သည်။ ၎င်းတို့၏ Masdar ပုံစံများက ယုံကြည်မှုနှင့် နာခံမှုသည် နေ့စဉ်ပြုလုပ်နေရမည့် အရာများဖြစ်ကြောင်း သတိပေးနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "An-Nisa 4:164",
+        "study_number": 1,
+        "arabic_full": "وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا",
+        "en_sahih": "And Allah spoke to Moses with [direct] speech",
+        "my_mmsy": "ထို့ပြင် အမှန်ပင် (ဤအာယသ်)မတိုင်မီက အသင်၏အပေါ်တွင် ငါအရှင်မြတ်သည် အထ္ထုပ္ပတ္တိပြောပြတော်မူခဲ့ဖူးသော ရစူလ်တမန်တော်များနှင့် မပြောပြခဲ့ဖူးသော ရစူလ်တမန်တော်များအပေါ်၌လည်း (ဝဟီအမိန့်တော်ပို့ချတော်မူခဲ့ပေသည်)။  ထို့ပြင် အလ္လာဟ်အရှင်မြတ်သည် (တမန်တော်)မူစာနှင့် စကားပြောဆိုတော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 4,
+          "ayah": 164,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/004164.mp3"
+        },
+        "qurancom_url": "https://quran.com/4/164",
+        "context": {
+          "en": "Allah mentions how He communicated with different messengers.",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် တမန်တော်အသီးသီးနှင့် မည်ကဲ့သို့ ဆက်သွယ်စကားပြောခဲ့ကြောင်း ဖော်ပြခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "تَكْلِيمًا",
+            "translit": "takliman",
+            "en": "a speaking",
+            "my": "စကားပြောဆိုခြင်း",
+            "role_en": "Absolute Object (Masdar)",
+            "role_my": "အတည်ပြုနိဂုံးပြနာမ်",
+            "root": "ك ل م",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The use of the Masdar 'takliman' after the verb 'kallama' adds absolute certainty to the action.",
+          "structure_my": "'Kallama' ဆိုသော ကြိယာနောက်တွင် 'Takliman' ဆိုသော Masdar ကို သုံးထားခြင်းမှာ စကားပြောဆိုမှုကို အကြွင်းမဲ့ အတည်ပြုခြင်းဖြစ်သည်။",
+          "insight_en": "In Arabic, repeating the verb as a Masdar emphasizes that the action truly and literally happened.",
+          "insight_my": "အာရဗီတွင် ကြိယာကို Masdar ဖြင့် ထပ်မံအတည်ပြုခြင်းမှာ ထိုအလုပ်သည် တကယ်စစ်မှန်ကြောင်း အလေးပေးလိုခြင်းဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ك ل م",
+            "concept_en": "To wound or to speak (words can wound like a blade).",
+            "concept_my": "ထိခိုက်ဒဏ်ရာရစေခြင်း သို့မဟုတ် စကားပြောဆိုခြင်း။",
+            "members": [
+              {
+                "ar": "كَلَام",
+                "en": "speech",
+                "my": "စကား",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Direct speech from Allah is a rare honor given to Musa (AS), hence the intensive Masdar."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် အလ္လာဟ်အရှင်မြတ်နှင့် တမန်တော်မူစာ (အလိုင်းဟစ္စလာမ်) တို့၏ တိုက်ရိုက်စကားပြောဆိုမှုကို အလေးအနက်ဖော်ပြသည်။ 'တက္ကလီးမန်း' ဟု သုံးထားခြင်းမှာ မည်သည့်သံသယမှမရှိဘဲ တကယ်ပြောဆိုခဲ့ခြင်းကို ဆိုလိုသည်။ ကျွန်ုပ်တို့သည်လည်း အလ္လာဟ်အရှင်မြတ်နှင့် စကားပြောလိုလျှင် ကုရ်အာန်ကို ဖတ်ရမည်ဖြစ်ပြီး၊ အရှင်မြတ်ကို စကားပြောလိုလျှင် ဒိုအာတောင်းရမည် ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The rhyme between Kallama and Taklima makes it easy to remember.",
+          "meaning_anchor": "Imagine a conversation where every word is heavy and meaningful.",
+          "daily_connection": "When you hear 'Talim' in the Masjid, remember it comes from this root of teaching through speech.",
+          "my": "Kallama နှင့် Taklima တို့၏ ကာရန်ကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored the nouns of action (Masdars) for Forms II and IV. Recognizing patterns like Taf'il and If'al helps you understand the essence of Quranic concepts like Tanzil and Islam.",
+      "my": "ယနေ့တွင် Form II နှင့် IV တို့၏ Masdar ပုံစံများကို လေ့လာခဲ့သည်။ Taf'il နှင့် If'al ပုံစံများကို သိရှိခြင်းဖြင့် Tanzil (ချပေးခြင်း) နှင့် Islam (အညံ့ခံခြင်း) ကဲ့သို့သော ကုရ်အာန်အသုံးအနှုန်းများကို ပိုမိုနက်ရှိုင်းစွာ နားလည်စေသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-098",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 98,
+    "title": {
+      "ar": "اسْمُ الْفَاعِلِ: مُفَعِّل وَمُفْعِل",
+      "en": "Verb Forms VIII — Ism al-Fā'il of Forms II and IV",
+      "my": "Form II နှင့် IV ၏ ပြုလုပ်သူနာမ် (Active Participle)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Mufa''il (Form II doer) and Muf'il (Form IV doer)",
+      "grammar_formula": "Mu- + [stem] + -i- (Kasra on 2nd root letter)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مُعَلِّم",
+        "translit": "mu'allim",
+        "en": "teacher/one who teaches",
+        "my": "ဆရာ/သင်ကြားပြသသူ",
+        "quran_freq": 1,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفَعِّل",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "knowledge",
+          "concept_my": "အသိပညာ"
+        },
+        "memory_hook": {
+          "sound": "Mu'allim",
+          "image": "A teacher with a book",
+          "cross_language": "Muallim is used in Myanmar Madrasas"
+        },
+        "word_family": [
+          {
+            "ar": "عَلَّمَ",
+            "translit": "allama",
+            "en": "he taught",
+            "my": "သူသင်ပေးခဲ့သည်",
+            "freq": 42
+          }
+        ],
+        "pattern_unlock": "Form II doers (Mufa''il) often refer to professional or repetitive roles.",
+        "example": {
+          "ar": "مُعَلَّمٌ مَّجْنُونٌ",
+          "en": "One taught [by others], a madman",
+          "my": "အသင်ပေးခံထားရသူ၊ အရူးတစ်ယောက်။",
+          "ref": "44:14"
+        }
+      },
+      {
+        "word": "مُسْلِم",
+        "translit": "muslim",
+        "en": "one who submits/Muslim",
+        "my": "မုစ်လင်မ် (အညံ့ခံသူ)",
+        "quran_freq": 75,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعِل",
+        "root": {
+          "letters": "س ل م",
+          "concept_en": "peace/submission",
+          "concept_my": "ငြိမ်းချမ်းမှု/အညံ့ခံမှု"
+        },
+        "memory_hook": {
+          "sound": "Muslim",
+          "image": "A community of believers",
+          "cross_language": "Common word"
+        },
+        "word_family": [
+          {
+            "ar": "أَسْلَمَ",
+            "translit": "aslama",
+            "en": "he submitted",
+            "my": "သူအညံ့ခံခဲ့သည်",
+            "freq": 22
+          }
+        ],
+        "pattern_unlock": "Most words starting with 'Mu-' in the Quran are doers of an action.",
+        "example": {
+          "ar": "هُوَ سَمَّاكُمُ الْمُسْلِمِينَ",
+          "en": "He named you Muslims",
+          "my": "အရှင်မြတ်သည် သင်တို့အား မုစ်လင်မ်များဟု အမည်မှည့်ခေါ်တော်မူခဲ့သည်။",
+          "ref": "22:78"
+        }
+      },
+      {
+        "word": "مُؤْمِن",
+        "translit": "mu'min",
+        "en": "believer/one who has faith",
+        "my": "မုအ်မင်န် (ယုံကြည်သူ)",
+        "quran_freq": 230,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعِل",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "safety/faith",
+          "concept_my": "ယုံကြည်မှု/ဘေးကင်းမှု"
+        },
+        "memory_hook": {
+          "sound": "Mu-min",
+          "image": "A person with a peaceful face",
+          "cross_language": "Mu'min in Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "أَمَانَة",
+            "translit": "amanah",
+            "en": "trust",
+            "my": "အာမာနသ်/ယုံကြည်အပ်နှံမှု",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The 'Mu-' prefix + 'i' vowel before the end indicates the 'person' doing the verb.",
+        "example": {
+          "ar": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
+          "en": "The believers have indeed attained success",
+          "my": "ဧကန်မလွဲ မုအ်မင်န်ယုံကြည်သူများသည် အောင်မြင်မှုရရှိကြလေပြီ။",
+          "ref": "23:1"
+        }
+      },
+      {
+        "word": "مُصَدِّق",
+        "translit": "musaddiq",
+        "en": "confirmer/one who verifies",
+        "my": "အတည်ပြုပေးသူ",
+        "quran_freq": 18,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفَعِّل",
+        "root": {
+          "letters": "ص د ق",
+          "concept_en": "truth",
+          "concept_my": "အမှန်တရား"
+        },
+        "memory_hook": {
+          "sound": "Mu-saddiq",
+          "image": "A seal of approval",
+          "cross_language": "Sadaqah (charity/truth)"
+        },
+        "word_family": [
+          {
+            "ar": "صَدَقَ",
+            "translit": "sadaqa",
+            "en": "he told the truth",
+            "my": "သူအမှန်ပြောခဲ့သည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Form II doers (with shaddah) imply an active, ongoing verification.",
+        "example": {
+          "ar": "مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ",
+          "en": "confirming what was before it",
+          "my": "မိမိရှေ့ရှိအရာများကို အတည်ပြုပေးသူအဖြစ်။",
+          "ref": "3:3"
+        }
+      },
+      {
+        "word": "مُنْزِل",
+        "translit": "munzil",
+        "en": "one who sends down",
+        "my": "ချပေးတော်မူသောအရှင်",
+        "quran_freq": 2,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعِل",
+        "root": {
+          "letters": "ن ز ل",
+          "concept_en": "descending",
+          "concept_my": "ဆင်းသက်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Munzil",
+          "image": "Hands reaching down from a cloud",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "مُنَزِّل",
+            "translit": "munazzil",
+            "en": "One who sends down (repeatedly)",
+            "my": "အဆင့်ဆင့်ချပေးသူ",
+            "freq": 1
+          }
+        ],
+        "pattern_unlock": "Notice the difference: Munzil (Form IV) vs Munazzil (Form II).",
+        "example": {
+          "ar": "إِنِّي مُنَزِّلُهَا عَلَيْكُمْ",
+          "en": "Indeed, I will send it down to you",
+          "my": "ဧကန်မလွဲ ငါအရှင်မြတ်သည် ၎င်းကို သင်တို့အပေါ်သို့ ချပေးတော်မူမည်။",
+          "ref": "5:115"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "اسْمُ الْفَاعِلِ لِلْمَزِيدِ",
+        "en": "Active Participle (Doer) for Derived Forms",
+        "my": "ကြိယာပွားများ၏ ပြုလုပ်သူနာမ်"
+      },
+      "formula": {
+        "display": "Replace 'Ya' with 'Mu-' and put 'Kasra' on the second root letter.",
+        "example": "يُسْلِمُ → مُسْلِم | يُعَلِّمُ → مُعَلِّم",
+        "myanmar_read": "ပစ္စုပ္ပန်ကြိယာ၏ ရှေ့ဆုံး 'ယာ' (Ya) နေရာတွင် 'မု' (Mu) အစားထိုးပြီး နောက်ဆုံးအက္ခရာရှေ့တွင် 'အီး' (Kasra) အသံထည့်လျှင် ပြုလုပ်သူနာမ် ရပါသည်။",
+        "key_insight": "The 'Mu-' prefix is the universal 'Person' marker for all verb forms from II to X."
+      },
+      "explanation": {
+        "en": "In Form I, the doer is Fā'il (e.g., Kātib). But for Forms II and IV, we use a different rule: start with 'Mu-' and ensure the second-to-last letter has a 'Kasra' (i) sound. If it has a 'Fatha' (a), it becomes the 'receiver' (Maf'ūl). So, Mu'allim is a teacher, while Mu'allam is one who is taught.",
+        "my": "Form I တွင် ပြုလုပ်သူကို Fā'il (ဥပမာ- Kātib) ဟု သုံးသော်လည်း Form II နှင့် IV တို့တွင် 'Mu-' (မု) ဖြင့် စရပါမည်။ နောက်ဆုံးအက္ခရာ၏ ရှေ့တွင် 'အီး' (Kasra) အသံရှိရပါမည်။ အကယ်၍ 'အာ' (Fatha) အသံဖြစ်သွားပါက အပြုခံရသူ ဖြစ်သွားပါမည်။ ဥပမာ- Mu'allim (သင်ပေးသူ) နှင့် Mu'allam (သင်ကြားခံရသူ)။"
+      },
+      "comparison_myanmar": {
+        "en": "Like adding '-သူ' (thu) in Myanmar (ဥပမာ- သင်ကြားသူ), Arabic uses the 'Mu-' prefix for derived verb forms.",
+        "my": "မြန်မာစကားတွင် 'ပြုလုပ်သူ' ကို ဖော်ပြရန် '-သူ' သို့မဟုတ် '-သမား' ထည့်သကဲ့သို့ အာရဗီတွင် 'Mu-' ကို အသုံးပြုသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Form II Doer (Mufa''il) keeps the double middle letter (shaddah).",
+          "rule_my": "Form II ၏ ပြုလုပ်သူနာမ်တွင် ဗျည်းဆင့် (shaddah) ဆက်လက်ပါရှိသည်။",
+          "example": {
+            "ar": "مُسَبِّح",
+            "en": "one who glorifies",
+            "my": "ချီးမွမ်းသူ"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Form IV Doer (Muf'il) has a sukun on the first root letter.",
+          "rule_my": "Form IV ၏ ပြုလုပ်သူနာမ်တွင် ပထမအက္ခရာ၌ Sukun (အသတ်) ပါရှိသည်။",
+          "example": {
+            "ar": "مُخْلِص",
+            "en": "one who is sincere",
+            "my": "သစ္စာရှိသူ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
+          "en": "The believers have indeed attained success",
+          "my": "MYANMAR_PLACE_HOLDER_S23_A1",
+          "ref": "23:1",
+          "breakdown": {
+            "subject": {
+              "word": "الْمُؤْمِنُونَ",
+              "en": "The Believers",
+              "note": "Plural of Mu'min (Form IV doer)"
+            },
+            "predicate": {
+              "word": "أَفْلَحَ",
+              "en": "succeeded",
+              "note": "Verb"
+            }
+          },
+          "myanmar_insight": "'မုအ်မင်န်' ဆိုသည်မှာ အီမာန်ရှင် (ယုံကြည်မှုကို ဆောင်ရွက်သူ) ဖြစ်သည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing the Kasra (doer) with Fatha (receiver)",
+          "wrong": {
+            "ar": "مُسْلَم",
+            "note": "This would mean 'one who is submitted'"
+          },
+          "correct": {
+            "ar": "مُسْلِم",
+            "en": "One who submits",
+            "my": "မုစ်လင်မ် (အညံ့ခံသူ)"
+          },
+          "myanmar_tip": "ပြုလုပ်သူအတွက် 'အီး' (Kasra) အသံကို အောက်ကနေ ဆွဲထွက်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Is the following word a doer (Ism Fa'il)?",
+          "instruction_my": "အောက်ပါစကားလုံးသည် ပြုလုပ်သူနာမ် ဖြစ်ပါသလား။",
+          "questions": [
+            {
+              "q": "مُفْسِد",
+              "answer_en": "Yes (Form IV)",
+              "answer_my": "ဟုတ်ကဲ့ (ပုံစံ ၄)",
+              "ref": "2:12"
+            },
+            {
+              "q": "مُكَلَّم",
+              "answer_en": "No (Receiver)",
+              "answer_my": "မဟုတ်ပါ (အပြုခံရသူ)"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate this common Quranic doer",
+          "instruction_my": "အောက်ပါနာမ်ကို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "مُحْسِن",
+              "answer_en": "Doer of good",
+              "answer_my": "ကောင်းမှုပြုသူ"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Turn 'Allama' (He taught) into 'Teacher'",
+          "instruction_my": "'Allama' မှ 'ဆရာ' ပုံစံသို့ ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "عَلَّمَ",
+              "answer_en": "Mu'allim",
+              "answer_my": "မုအလ္လင်မ် (ဆရာ)",
+              "ar": "مُعَلِّم"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Being a 'Muslim' or 'Mu'min' is a title of action. It means we are actively submitting and actively trusting Allah. The 'Mu-' reminds us that our identity is tied to what we do for His sake.",
+        "my": "မုစ်လင်မ် သို့မဟုတ် မုအ်မင်န် ဖြစ်ခြင်းသည် ဂုဏ်ပုဒ်သက်သက်မဟုတ်ဘဲ လက်တွေ့လုပ်ဆောင်မှုဖြစ်သည်။ ၎င်းသည် ကျွန်ုပ်တို့၏ အမှတ်သညာမှာ အလ္လာဟ်အရှင်မြတ်အတွက် လုပ်ဆောင်ချက်များအပေါ် မူတည်ကြောင်း သတိပေးနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Mu'minun 23:1",
+        "study_number": 1,
+        "arabic_full": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
+        "en_sahih": "The believers have indeed attained success",
+        "my_mmsy": "အမှန်စင်စစ် မုအ်မင်ယုံကြည်သူများသည် မလွဲမသွေ အောင်မြင်ခဲ့ကြပြီဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 23,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/023001.mp3"
+        },
+        "qurancom_url": "https://quran.com/23/1",
+        "context": {
+          "en": "The start of a Surah describing the characteristics of successful people.",
+          "my": "အောင်မြင်သူတို့၏ အရည်အချင်းများကို ဖော်ပြထားသော စူရဟ်၏ အစပိုင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "الْمُؤْمِنُونَ",
+            "translit": "al-mu'minun",
+            "en": "the believers",
+            "my": "မုအ်မင်န်ယုံကြည်သူများသည်",
+            "role_en": "Subject (Doer)",
+            "role_my": "ပြုလုပ်သူ (ကတ္တား)",
+            "root": "أ م ن",
+            "freq": 230
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The word 'Mu'minun' is the plural Form IV active participle. It describes people who have established safety and faith in their hearts.",
+          "structure_my": "'Mu'minun' သည် Form IV ၏ အများကိန်း ပြုလုပ်သူနာမ် ဖြစ်သည်။ မိမိတို့နှလုံးသားတွင် ယုံကြည်မှုကို ကိန်းဝပ်စေသူများကို ဆိုလိုသည်။",
+          "insight_en": "The 'Mu-' prefix tells us these are the practitioners of 'Iman'.",
+          "insight_my": "'Mu-' က ၎င်းတို့သည် 'အီမာန်' ကို လက်တွေ့ကျင့်သုံးသူများဖြစ်ကြောင်း ဖော်ပြနေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "أ م ن",
+            "concept_en": "To be in a state of safety, security, and trust.",
+            "concept_my": "ဘေးကင်းလုံခြုံခြင်းနှင့် ယုံကြည်စိတ်ချခြင်း။",
+            "members": [
+              {
+                "ar": "أَمَانَة",
+                "en": "trust",
+                "my": "အာမာနသ်",
+                "freq": 2
+              }
+            ],
+            "professors_note": "A Mu'min is not just a believer, but one who provides security to others through his faith."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "စစ်မှန်သောအောင်မြင်မှုသည် လောကီစည်းစိမ်အပေါ်၌မရှိဘဲ 'အီမာန်' ယုံကြည်မှုအပေါ်၌သာ ရှိသည်။ မုအ်မင်န်တစ်ယောက်သည် မိမိကိုယ်တိုင် အလ္လာဟ်အရှင်မြတ်အပေါ် ယုံကြည်ရုံသာမက မိမိ၏ပတ်ဝန်းကျင်ကိုလည်း ဘေးကင်းလုံခြုံမှု ပေးနိုင်သူဖြစ်ရပါမည်။ ဤအာယသ်တော်က ကျွန်ုပ်တို့အား အောင်မြင်သူများစာရင်းတွင် ပါဝင်နိုင်ရန် တိုက်တွန်းနေပါသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The powerful opening 'Qad' followed by the flow of 'Aflaha'.",
+          "meaning_anchor": "Imagine a winner crossing the finish line with a heart full of light.",
+          "daily_connection": "Every time you call yourself a 'Muslim' or 'Mu'min', remember the 'Mu-' makes you the doer.",
+          "my": "'ကဒ်' ဖြင့် စတင်ထားခြင်းမှာ အောင်မြင်မှုကို အသေအချာ အတည်ပြုလိုခြင်းဖြစ်သည်။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We learned how to identify the 'doers' of Form II and IV verbs using the 'Mu-' prefix. This pattern is essential as it forms the very names we use for ourselves: Muslim and Mu'min.",
+      "my": "ယနေ့တွင် 'Mu-' ရှေ့ဆက်ကို အသုံးပြု၍ Form II နှင့် IV တို့၏ ပြုလုပ်သူနာမ်များကို ခွဲခြားတတ်လာသည်။ ဤပုံစံသည် ကျွန်ုပ်တို့ကိုယ်တိုင် ခေါ်ဆိုနေသော မုစ်လင်မ် နှင့် မုအ်မင်န် ဟူသော အမည်များ၏ အခြေခံဖြစ်သည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-099",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 99,
+    "title": {
+      "ar": "أَفْعَالُ التَّكْرَارِ فِي الْقُرْآنِ",
+      "en": "Verb Forms IX — High-Frequency Form II & IV Verbs",
+      "my": "ကုရ်အာန်တွင် အသုံးအများဆုံး Form II နှင့် IV ကြိယာများ"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 7,
+      "grammar_focus": "Recognizing top Form II and IV verbs instantly in the Quran",
+      "grammar_formula": "Focus on Root + Pattern (Fa''ala & Af'ala)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "آَمَنَ",
+        "translit": "amana",
+        "en": "he believed",
+        "my": "သူယုံကြည်ခဲ့သည်",
+        "quran_freq": 537,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "faith/security",
+          "concept_my": "ယုံကြည်မှု"
+        },
+        "memory_hook": {
+          "sound": "Amana",
+          "image": "A person placing their hand on their heart",
+          "cross_language": "Amanah"
+        },
+        "word_family": [
+          {
+            "ar": "إِيمَان",
+            "translit": "iman",
+            "en": "faith",
+            "my": "အီမာန်",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "This is Form IV. The Madd (ā) is actually an Alif meeting another Alif (a-a -> ā).",
+        "example": {
+          "ar": "الَّذِينَ آَمَنُوا",
+          "en": "Those who believe",
+          "my": "ယုံကြည်ခြင်းသဒ္ဓါတရား ထားရှိကြသောသူများ။",
+          "ref": "2:3"
+        }
+      },
+      {
+        "word": "أَسْلَمَ",
+        "translit": "aslama",
+        "en": "he submitted",
+        "my": "သူအညံ့ခံခဲ့သည်",
+        "quran_freq": 22,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "س ل م",
+          "concept_en": "submission/peace",
+          "concept_my": "ငြိမ်းချမ်းစွာ အညံ့ခံခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Aslama",
+          "image": "Laying down one's will for Allah",
+          "cross_language": "Islam"
+        },
+        "word_family": [
+          {
+            "ar": "مُسْلِم",
+            "translit": "muslim",
+            "en": "one who submits",
+            "my": "မုစ်လင်မ်",
+            "freq": 42
+          }
+        ],
+        "pattern_unlock": "Form IV verbs often start with an 'A' sound in the past tense.",
+        "example": {
+          "ar": "إِذْ قَالَ لَهُ رَبُّهُ أَسْلِمْ",
+          "en": "When his Lord said to him, 'Submit'",
+          "my": "၎င်း၏အရှင်မြတ်က ၎င်းအား 'အညံ့ခံလော့' ဟု မိန့်တော်မူသောအခါ။",
+          "ref": "2:131"
+        }
+      },
+      {
+        "word": "عَلَّمَ",
+        "translit": "allama",
+        "en": "he taught",
+        "my": "သူသင်ကြားပေးခဲ့သည်",
+        "quran_freq": 854,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ع ل م",
+          "concept_en": "knowledge",
+          "concept_my": "အသိပညာ"
+        },
+        "memory_hook": {
+          "sound": "Allama",
+          "image": "Opening a book for someone",
+          "cross_language": "Alim"
+        },
+        "word_family": [
+          {
+            "ar": "تَعْلِيم",
+            "translit": "ta'lim",
+            "en": "teaching",
+            "my": "သင်ကြားမှု",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Form II here means to make someone else have knowledge (to teach).",
+        "example": {
+          "ar": "عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ",
+          "en": "Taught man that which he knew not",
+          "my": "လူသားအား ၎င်းမသိရှိသေးသောအရာများကို သင်ကြားပေးတော်မူခဲ့သည်။",
+          "ref": "96:5"
+        }
+      },
+      {
+        "word": "بَيَّنَ",
+        "translit": "bayyana",
+        "en": "he made clear",
+        "my": "သူရှင်းလင်းပြသခဲ့သည်",
+        "quran_freq": 137,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ب ي ن",
+          "concept_en": "clarity/separation",
+          "concept_my": "ရှင်းလင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Bayyana",
+          "image": "Turning on a bright light",
+          "cross_language": "Bayan (Speech/Clarification)"
+        },
+        "word_family": [
+          {
+            "ar": "مُبِين",
+            "translit": "mubin",
+            "en": "clear",
+            "my": "ထင်ရှားသော",
+            "freq": 119
+          }
+        ],
+        "pattern_unlock": "Form II intensive: making something extremely clear and distinct.",
+        "example": {
+          "ar": "كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ",
+          "en": "Thus Allah makes clear to you the signs",
+          "my": "ဤကဲ့သို့ပင် အလ္လာဟ်အရှင်မြတ်သည် သင်တို့အတွက် သာဓကလက္ခဏာများကို ရှင်းလင်းပြသတော်မူသည်။",
+          "ref": "2:219"
+        }
+      },
+      {
+        "word": "قَدَّرَ",
+        "translit": "qaddara",
+        "en": "he decreed/proportioned",
+        "my": "သူသတ်မှတ်ပြဋ္ဌာန်းခဲ့သည်",
+        "quran_freq": 16,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ق د ر",
+          "concept_en": "power/measure",
+          "concept_my": "စွမ်းအား/အတိုင်းအတာ"
+        },
+        "memory_hook": {
+          "sound": "Qaddara",
+          "image": "A blueprint or scale",
+          "cross_language": "Qadar (Destiny)"
+        },
+        "word_family": [
+          {
+            "ar": "تَقْدِير",
+            "translit": "taqdir",
+            "en": "destiny",
+            "my": "ကံကြမ္မာ/သတ်မှတ်ချက်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Form II here means to set a precise measure or destiny.",
+        "example": {
+          "ar": "وَالَّذِي قَدَّرَ فَهَدَىٰ",
+          "en": "And who destined and [then] guided",
+          "my": "၎င်းပြင် အကြင်အရှင်မြတ်သည် (အရာခပ်သိမ်းကို) အတိုင်းအတာဖြင့် သတ်မှတ်၍ လမ်းညွှန်တော်မူခဲ့သည်။",
+          "ref": "87:3"
+        }
+      },
+      {
+        "word": "كَذَّبَ",
+        "translit": "kadhdhaba",
+        "en": "he denied/belied",
+        "my": "သူငြင်းပယ်ခဲ့သည်",
+        "quran_freq": 176,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ك ذ ب",
+          "concept_en": "lying",
+          "concept_my": "လိမ်ညာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kadh-dhaba",
+          "image": "Pushing away the truth",
+          "cross_language": "N/A"
+        },
+        "word_family": [
+          {
+            "ar": "كَاذِب",
+            "translit": "kadhib",
+            "en": "liar",
+            "my": "လိမ်ညာသူ",
+            "freq": 6
+          }
+        ],
+        "pattern_unlock": "Form II intensive: not just lying, but actively calling the truth a lie.",
+        "example": {
+          "ar": "فَكَذَّبُوهُ فَأَهْلَكْنَاهُمْ",
+          "en": "But they denied him, so We destroyed them",
+          "my": "သို့သော် ၎င်းတို့သည် သူ့ကို ငြင်းပယ်ခဲ့ကြသဖြင့် ငါအရှင်မြတ်သည် ၎င်းတို့အား ပျက်စီးစေတော်မူခဲ့သည်။",
+          "ref": "26:139"
+        }
+      },
+      {
+        "word": "أَخْرَجَ",
+        "translit": "akhraja",
+        "en": "he brought out",
+        "my": "သူထုတ်ဆောင်ခဲ့သည်",
+        "quran_freq": 68,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "أَفْعَلَ",
+        "root": {
+          "letters": "خ ر ج",
+          "concept_en": "to exit",
+          "concept_my": "ထွက်ခွာခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Akh-raja",
+          "image": "Pulling a plant out of the soil",
+          "cross_language": "Kharij (External)"
+        },
+        "word_family": [
+          {
+            "ar": "خُرُوج",
+            "translit": "khuruj",
+            "en": "exit",
+            "my": "ထွက်ပေါက်",
+            "freq": 7
+          }
+        ],
+        "pattern_unlock": "Form IV (Causative): making something exit (to bring out).",
+        "example": {
+          "ar": "أَخْرَجَكُمْ مِنْ بُطُونِ أُمَّهَاتِكُمْ",
+          "en": "He brought you out from the bellies of your mothers",
+          "my": "အရှင်မြတ်သည် သင်တို့အား မိခင်များ၏ ဝမ်းဗိုက်ထဲမှ ထုတ်ဆောင်တော်မူခဲ့သည်။",
+          "ref": "16:78"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الأَفْعَالُ الأَكْثَرُ شُيُوعًا",
+        "en": "High Frequency Patterns",
+        "my": "အသုံးအများဆုံး ပုံစံများ"
+      },
+      "formula": {
+        "display": "Root → II (Fa''ala) OR IV (Af'ala)",
+        "example": "كذب → كذّب | خرج → أخرج",
+        "myanmar_read": "ကုရ်အာန်တွင် Form II နှင့် IV ကို အများဆုံးတွေ့ရတတ်သဖြင့် ၎င်းတို့၏ အဓိပ္ပာယ်ပြောင်းလဲပုံကို အလွတ်မှတ်ထားပါ။",
+        "key_insight": "Mastering just these two forms unlocks over 20% of the verbs in the Quran."
+      },
+      "explanation": {
+        "en": "This lesson focuses on 'fluency'. By seeing these common verbs together, you begin to notice that the Quran uses Form II for actions that require effort or repeated teaching (Allama, Bayyana) and Form IV for definitive, creative acts of God (Anzala, Akhraja, Amana).",
+        "my": "ဤသင်ခန်းစာသည် 'ကျွမ်းကျင်မှု' ကို အဓိကထားသည်။ ကုရ်အာန်တွင် Form II ကို ကြိုးစားအားထုတ်မှု လိုအပ်သော အပြုအမူများ (ဥပမာ- သင်ကြားခြင်း၊ ရှင်းလင်းခြင်း) အတွက် သုံးပြီး Form IV ကို အလ္လာဟ်အရှင်မြတ်၏ ဖန်ဆင်းမှုနှင့် အမိန့်တော်များ (ဥပမာ- ချပေးခြင်း၊ ထုတ်ဆောင်ခြင်း) အတွက် သုံးလေ့ရှိသည်ကို တွေ့ရမည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Just as we distinguish between 'သိသည်' (know) and 'သင်ပေးသည်' (make know/teach), Arabic uses Form II for the same purpose.",
+        "my": "'သိသည်' နှင့် 'သင်ပေးသည်' (သိအောင်လုပ်ပေးသည်) ကွဲပြားသကဲ့သို့ အာရဗီတွင် Form II နှင့် IV က ထိုသို့ ခွဲခြားပေးသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Check for the middle shaddah = Form II.",
+          "rule_my": "အလယ်တွင် ဗျည်းဆင့် (shaddah) ပါလျှင် Form II ဖြစ်သည်။",
+          "example": {
+            "ar": "سَبَّحَ",
+            "en": "He glorified",
+            "my": "သူချီးမွမ်းခဲ့သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Check for the initial Alif = Form IV.",
+          "rule_my": "အစတွင် Alif ပါလျှင် Form IV ဖြစ်သည်။",
+          "example": {
+            "ar": "أَسْلَمَ",
+            "en": "He submitted",
+            "my": "သူအညံ့ခံခဲ့သည်"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ",
+          "en": "Taught man that which he knew not",
+          "my": "MYANMAR_PLACE_HOLDER_S96_A5",
+          "ref": "96:5",
+          "breakdown": {
+            "subject": {
+              "word": "عَلَّمَ",
+              "en": "He taught (Allah)",
+              "note": "Form II"
+            },
+            "predicate": {
+              "word": "الْإِنْسَانَ",
+              "en": "the human",
+              "note": "Object"
+            }
+          },
+          "myanmar_insight": "Allah (SWT) uses Form II 'Allama' to show the honored process of teaching mankind."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Thinking 'Amana' is Form I because it starts with Alif",
+          "wrong": {
+            "ar": "أَمَنَ",
+            "note": "Incorrect vowel length"
+          },
+          "correct": {
+            "ar": "آَمَنَ",
+            "en": "He believed",
+            "my": "သူယုံကြည်ခဲ့သည်"
+          },
+          "myanmar_tip": "Alif တွင် အပေါ်က 'မဒ်' (Madd) ပါလျှင် Form IV ဖြစ်ကြောင်း သတိပြုပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the verb form",
+          "instruction_my": "ကြိယာပုံစံကို ခွဲခြားပါ။",
+          "questions": [
+            {
+              "q": "أَنْذَرَ",
+              "answer_en": "Form IV",
+              "answer_my": "ပုံစံ ၄",
+              "ref": "79:45"
+            },
+            {
+              "q": "صَدَّقَ",
+              "answer_en": "Form II",
+              "answer_my": "ပုံစံ ၂",
+              "ref": "37:105"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate the action",
+          "instruction_my": "အဓိပ္ပာယ်ပြန်ဆိုပါ။",
+          "questions": [
+            {
+              "q": "أَهْلَكَ",
+              "answer_en": "He destroyed",
+              "answer_my": "သူပျက်စီးစေခဲ့သည်"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Turn 'Khara-ja' (Exit) into 'Bring Out' (Form IV)",
+          "instruction_my": "'Khara-ja' ကို 'ထုတ်ဆောင်သည်' (ပုံစံ ၄) ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "خَرَجَ",
+              "answer_en": "Akhraja",
+              "answer_my": "အတ်ခ်ရာဂျာ",
+              "ar": "أَخْرَجَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "The high frequency of words like 'Allama' and 'Amana' shows that the Quran's primary goal is to teach us and lead us to faith. These patterns are the heart of the message.",
+        "my": "Allama (သင်ကြားပေးခြင်း) နှင့် Amana (ယုံကြည်ခြင်း) စသော စကားလုံးများ အသုံးများခြင်းမှာ ကုရ်အာန်၏ အဓိကရည်ရွယ်ချက်မှာ ကျွန်ုပ်တို့အား သင်ကြားပြသရန်နှင့် အီမာန်သို့ လမ်းညွှန်ရန်ဖြစ်ကြောင်း ပြသနေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Alaq 96:4-5",
+        "study_number": 1,
+        "arabic_full": "الَّذِي عَلَّمَ بِالْقَلَمِ عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ",
+        "en_sahih": "Who taught by the pen - Taught man that which he knew not",
+        "my_mmsy": "(၄) ထိုအရှင်မြတ်သည် ကလောင်ဖြင့် (စာရေးနည်းကို)သင်ကြားပေးတော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 96,
+          "ayah": 4,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/096004.mp3"
+        },
+        "qurancom_url": "https://quran.com/96/4",
+        "context": {
+          "en": "The very first verses revealed to the Prophet (PBUH) in Cave Hira.",
+          "my": "တမန်တော်မြတ် (ဆွ) ထံ ဟိရာဂူတွင် ပထမဆုံးကျရောက်လာသော အာယသ်တော်များ ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "عَلَّمَ",
+            "translit": "allama",
+            "en": "He taught",
+            "my": "သင်ကြားပေးတော်မူခဲ့သည်",
+            "role_en": "Verb (Form II)",
+            "role_my": "ကြိယာ (ပုံစံ ၂)",
+            "root": "ع ل م",
+            "freq": 42
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "Form II 'Allama' is repeated twice, emphasizing Allah's role as the Ultimate Teacher.",
+          "structure_my": "Form II 'Allama' ကို နှစ်ကြိမ်ထပ်သုံးထားခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်သည် အကြီးမြတ်ဆုံးသော ဆရာဖြစ်ကြောင်း အလေးပေးထားသည်။",
+          "insight_en": "The shaddah on the 'Lam' suggests an intensive and ongoing process of education for humanity.",
+          "insight_my": "'Lām' အက္ခရာပေါ်ရှိ ဗျည်းဆင့်သည် လူသားတို့အတွက် အသိပညာသင်ကြားပေးမှုမှာ အစဉ်တစိုက်ဖြစ်ကြောင်း ဖော်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ل م",
+            "concept_en": "Knowledge and marking something clearly.",
+            "concept_my": "အသိပညာနှင့် ထင်ရှားအောင်မှတ်သားခြင်း။",
+            "members": [
+              {
+                "ar": "عَالَم",
+                "en": "world/universe",
+                "my": "လောက",
+                "freq": 0
+              }
+            ],
+            "professors_note": "Knowledge in Islam is a divine trust (Amanah) provided by the Creator through the means He chooses."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် လူသားတို့အား ကလောင်တံဖြင့် သင်ကြားပေးတော်မူခဲ့သည်။ ကျွန်ုပ်တို့မသိသောအရာများကို အရှင်မြတ်ကသာ သင်ပြပေးခဲ့ခြင်းဖြစ်သည်။ ထို့ကြောင့် ကျွန်ုပ်တို့သည် ပညာတတ်လာသည့်အခါ မာန်မာနမတက်ဘဲ ပညာပေးသနားတော်မူသော အရှင်မြတ်အား ကျေးဇူးတင်ရှိရပါမည်။ ပညာသင်ယူခြင်းသည် အလ္လာဟ်အရှင်မြတ်ထံတော်မှ လာသော ကရုဏာတော်ပင် ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Al-ladhi 'allama bil-qalam, 'allama-l insana...",
+          "meaning_anchor": "Imagine a pen writing light onto a blank page.",
+          "daily_connection": "Whenever you pick up a pen or open a book, remember this ayah.",
+          "my": "'Allama' (အလ္လမ) ၏ အလေးပေးသံကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We reviewed the most common Form II and IV verbs. Recognizing these instantly allows you to focus on the meaning of the ayah without getting stuck on the grammar.",
+      "my": "ယနေ့တွင် အသုံးအများဆုံး Form II နှင့် IV ကြိယာများကို ပြန်လည်လေ့လာခဲ့သည်။ ဤစကားလုံးများကို တွေ့သည်နှင့် ချက်ချင်းသိရှိခြင်းက ကုရ်အာန်ဖတ်ရှုရာတွင် ပိုမိုလွယ်ကူချောမွေ့စေပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L2-100",
+    "phase": 2,
+    "phase_name": "Morphology",
+    "lesson_number": 100,
+    "title": {
+      "ar": "مُرَاجَعَةُ الصَّرْفِ: إِتْقَانُ الأَوْزَانِ",
+      "en": "Verb Forms X — Phase 2 Grand Review",
+      "my": "ဒုတိယအဆင့် အလုံးစုံပြန်လည်သုံးသပ်ခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 90,
+      "vocab_time": 20,
+      "grammar_time": 30,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Comprehensive review of Form I, II, and IV: Past, Present, Amr, Doer, and Masdar",
+      "grammar_formula": "The Big Table of Morphology"
+    },
+    "section_1_vocab": [
+      {
+        "word": "ذَكَرَ",
+        "translit": "dhakara",
+        "en": "he remembered/mentioned",
+        "my": "သူအောက်မေ့သတိရခဲ့သည်",
+        "quran_freq": 292,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ذ ك ر",
+          "concept_en": "remembrance",
+          "concept_my": "သတိရခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dhakara",
+          "image": "Zikr beads",
+          "cross_language": "Zikr"
+        },
+        "word_family": [
+          {
+            "ar": "ذِكْر",
+            "translit": "dhikr",
+            "en": "remembrance",
+            "my": "ဇိကိရ်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Form I: The foundation of all remembrance.",
+        "example": {
+          "ar": "فَاذْكُرُونِي أَذْكُرْكُمْ",
+          "en": "So remember Me; I will remember you",
+          "my": "သို့ဖြစ်လျှင် သင်တို့သည် ငါအရှင်မြတ်အား အောက်မေ့သတိရကြလော့၊ ငါအရှင်မြတ်သည်လည်း သင်တို့အား အောက်မေ့သတိရတော်မူအံ့။",
+          "ref": "2:152"
+        }
+      },
+      {
+        "word": "ذَكَّرَ",
+        "translit": "dhakkara",
+        "en": "he reminded",
+        "my": "သူသတိပေးခဲ့သည်",
+        "quran_freq": 292,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَّلَ",
+        "root": {
+          "letters": "ذ ك ر",
+          "concept_en": "remembrance",
+          "concept_my": "သတိရစေခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Dhakkara",
+          "image": "Pointing to someone to remind them",
+          "cross_language": "Tadhkirah"
+        },
+        "word_family": [
+          {
+            "ar": "تَذْكِير",
+            "translit": "tadhkir",
+            "en": "reminding",
+            "my": "သတိပေးခြင်း",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Form II (Intensive): Making someone else remember (reminding).",
+        "example": {
+          "ar": "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ",
+          "en": "So remind, [O Muhammad]; you are only a reminder",
+          "my": "သို့ဖြစ်ရာ အသင်သည် သတိပေးလော့၊ ဧကန်စင်စစ် အသင်သည် သတိပေးသူတစ်ဦးသာ ဖြစ်သည်။",
+          "ref": "88:21"
+        }
+      },
+      {
+        "word": "عَبَدَ",
+        "translit": "abada",
+        "en": "he worshipped/served",
+        "my": "သူခစားဝတ်ပြုခဲ့သည်",
+        "quran_freq": 280,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ع ب د",
+          "concept_en": "servitude/worship",
+          "concept_my": "ကျွန်ခံခြင်း/ဝတ်ပြုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Abada",
+          "image": "A servant waiting on a King",
+          "cross_language": "Abdullah"
+        },
+        "word_family": [
+          {
+            "ar": "عِبَادَة",
+            "translit": "ibadah",
+            "en": "worship",
+            "my": "အိဗာဒသ်",
+            "freq": 0
+          }
+        ],
+        "pattern_unlock": "Form I focus: The direct act of worship.",
+        "example": {
+          "ar": "إِيَّاكَ نَعْبُدُ",
+          "en": "It is You we worship",
+          "my": "ကျွန်ုပ်တို့သည် အရှင်မြတ်ကိုသာလျှင် ခစားဝတ်ပြုကြပါသည်။",
+          "ref": "1:5"
+        }
+      },
+      {
+        "word": "خَلَقَ",
+        "translit": "khalaqa",
+        "en": "he created",
+        "my": "သူဖန်ဆင်းခဲ့သည်",
+        "quran_freq": 261,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "خ ل ق",
+          "concept_en": "creation",
+          "concept_my": "ဖန်ဆင်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Khalaqa",
+          "image": "Potter making a pot",
+          "cross_language": "Khaliq"
+        },
+        "word_family": [
+          {
+            "ar": "خَالِق",
+            "translit": "khaliq",
+            "en": "Creator",
+            "my": "ဖန်ဆင်းရှင်",
+            "freq": 8
+          }
+        ],
+        "pattern_unlock": "Form I focuses on the core act of bringing into existence.",
+        "example": {
+          "ar": "خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ",
+          "en": "He created the heavens and the earth",
+          "my": "အရှင်မြတ်သည် မိုးကောင်းကင်များနှင့် ကမ္ဘာမြေကို ဖန်ဆင်းတော်မူခဲ့သည်။",
+          "ref": "6:1"
+        }
+      },
+      {
+        "word": "شَكَرَ",
+        "translit": "shakara",
+        "en": "he thanked/was grateful",
+        "my": "သူကျေးဇူးတင်ခဲ့သည်",
+        "quran_freq": 75,
+        "word_type": "Verb",
+        "gender": "Masculine",
+        "wazn": "فَعَلَ",
+        "root": {
+          "letters": "ش ك ر",
+          "concept_en": "gratitude",
+          "concept_my": "ကျေးဇူးသိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Shakara",
+          "image": "Saying Alhamdulillah",
+          "cross_language": "Shukur"
+        },
+        "word_family": [
+          {
+            "ar": "شَاكِر",
+            "translit": "shakir",
+            "en": "grateful",
+            "my": "ကျေးဇူးသိသူ",
+            "freq": 9
+          }
+        ],
+        "pattern_unlock": "Form I: The primary response of a believer to Allah's favors.",
+        "example": {
+          "ar": "وَاشْكُرُوا لِي",
+          "en": "And be grateful to Me",
+          "my": "၎င်းပြင် ငါအရှင်မြတ်အား ကျေးဇူးသိကြလော့။",
+          "ref": "2:152"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "مُرَاجَعَةُ الأَوْزَانِ (١، ٢၊ ၄)",
+        "en": "Phase 2 Grand Review (Forms I, II, IV)",
+        "my": "အဆင့် ၂ အနှစ်ချုပ် (ပုံစံ ၁၊ ၂၊ ၄)"
+      },
+      "formula": {
+        "display": "I: Fa'ala | II: Fa''ala | IV: Af'ala",
+        "example": "نزل | نزّل | أنزل",
+        "myanmar_read": "ပုံစံ (၁) သည် အခြေခံ၊ (၂) သည် ဗျည်းဆင့်ပြီး အလေးပေး၊ (၄) သည် Alif ပါပြီး ဖြစ်ပေါ်စေခြင်းကို ပြသည်။",
+        "key_insight": "If you know the root and these 3 forms, you can understand almost half of the Quran's verbs."
+      },
+      "explanation": {
+        "en": "In Phase 2, we mastered the core of Arabic morphology. We looked at how roots expand from the simple Form I into the intensive Form II and causative Form IV. We also learned to derive their doers (Mufa''il/Muf'il) and their nouns (Taf'il/If'al). This lesson consolidates all those rules into one mental map.",
+        "my": "ဒုတိယအဆင့်တွင် ကျွန်ုပ်တို့သည် အာရဗီစကားလုံးများ တည်ဆောက်ပုံ အနှစ်ချုပ်ကို လေ့လာခဲ့သည်။ အခြေခံ Form I မှ Form II (အလေးပေး) နှင့် Form IV (ဖြစ်စေခြင်း) တို့သို့ မည်သို့ပြောင်းလဲပုံ၊ ၎င်းတို့မှ ပြုလုပ်သူနာမ်များနှင့် Masdar များ မည်သို့ထုတ်ယူပုံတို့ကို ပြန်လည်စုစည်းဖော်ပြထားပါသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Arabic morphology is like a mathematical tree; once you know the seed (root), the branches (forms) are predictable.",
+        "my": "အာရဗီစကားလုံး တည်ဆောက်ပုံသည် သင်္ချာနည်းကျ သစ်ပင်တစ်ပင်ကဲ့သို့ ဖြစ်သည်။ အမြစ် (Root) ကို သိလျှင် အကိုင်းအခက် (Forms) များကို ခန့်မှန်းနိုင်သည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Form II (Fa''ala) = Middle double letter.",
+          "rule_my": "Form II သည် အလယ်အက္ခရာ နှစ်ဆင့်ဖြစ်သည်။",
+          "example": {
+            "ar": "سَبَّحَ",
+            "en": "He glorified",
+            "my": "သူချီးမွမ်းခဲ့သည်"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Form IV (Af'ala) = Starting Alif.",
+          "rule_my": "Form IV သည် ရှေ့တွင် Alif ပါရှိသည်။",
+          "example": {
+            "ar": "أَنْذَرَ",
+            "en": "He warned",
+            "my": "သူသတိပေးခဲ့သည်"
+          }
+        },
+        {
+          "number": 3,
+          "rule_en": "Active Participles for II/IV always start with 'Mu-'.",
+          "rule_my": "II နှင့် IV ၏ ပြုလုပ်သူနာမ်များသည် အမြဲတမ်း 'Mu-' (မု) နှင့် စတင်သည်။",
+          "example": {
+            "ar": "مُبَشِّر",
+            "en": "Bringer of glad tidings",
+            "my": "သတင်းကောင်းပေးသူ"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ",
+          "en": "So remind, [O Muhammad]; you are only a reminder",
+          "my": "MYANMAR_PLACE_HOLDER_S88_A21",
+          "ref": "88:21",
+          "breakdown": {
+            "subject": {
+              "word": "مُذَكِّرٌ",
+              "en": "A reminder/One who reminds",
+              "note": "Form II Active Participle"
+            },
+            "predicate": {
+              "word": "فَذَكِّرْ",
+              "en": "So remind!",
+              "note": "Form II Amr"
+            }
+          },
+          "myanmar_insight": "တစ်ခုတည်းသော Root မှ ကြိယာနှင့် နာမ် ပုံစံအမျိုးမျိုး ထွက်ပေါ်လာပုံကို ဤနေရာတွင် တွေ့နိုင်ပါသည်။"
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing Form IV Past (Af'ala) with Form I Present (Yaf'alu)",
+          "wrong": {
+            "ar": "أَفْعَلُ",
+            "note": "This can be 'I do' (Present) or 'He did' (Form IV) depending on Harakat"
+          },
+          "correct": {
+            "ar": "أَفْعَلَ",
+            "en": "He did (Form IV)",
+            "my": "သူပြုလုပ်ခဲ့သည်"
+          },
+          "myanmar_tip": "အဆုံးသတ် Harakat ကို အမြဲဂရုစိုက်ပါ။ Fatha ဖြစ်လျှင် အတိတ်ကာလ ဖြစ်လေ့ရှိသည်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the Form (I, II, or IV)",
+          "instruction_my": "ပုံစံ (၁၊ ၂ သို့မဟုတ် ၄) ကို ခွဲခြားပါ။",
+          "questions": [
+            {
+              "q": "أَنْزَلَ",
+              "answer_en": "Form IV",
+              "answer_my": "ပုံစံ ၄"
+            },
+            {
+              "q": "كَذَّبَ",
+              "answer_en": "Form II",
+              "answer_my": "ပုံစံ ၂"
+            },
+            {
+              "q": "قَالَ",
+              "answer_en": "Form I",
+              "answer_my": "ပုံစံ ၁"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate this combined sentence",
+          "instruction_my": "အောက်ပါစာကြောင်းကို ဘာသာပြန်ပါ။",
+          "questions": [
+            {
+              "q": "أَسْلَمَ الْمُؤْمِنُ",
+              "answer_en": "The believer submitted",
+              "answer_my": "မုအ်မင်န်ယုံကြည်သူသည် အညံ့ခံခဲ့သည်။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Make 'Dhakara' into Form II Masdar",
+          "instruction_my": "'Dhakara' မှ Form II Masdar သို့ ပြောင်းပါ။",
+          "questions": [
+            {
+              "q": "ذَكَرَ",
+              "answer_en": "Tadhkir",
+              "answer_my": "သတိပေးခြင်း",
+              "ar": "تَذْكِير"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Mastering morphology is like cleaning the lens of your glasses. Suddenly, the words of the Quran aren't just shapes; they are vibrant actions with depth and direction.",
+        "my": "စကားလုံးများ တည်ဆောက်ပုံကို ကျွမ်းကျင်ခြင်းသည် မျက်မှန်ကို သန့်စင်လိုက်သကဲ့သို့ ဖြစ်သည်။ ကုရ်အာန်၏ စကားလုံးများသည် ရိုးရိုးပုံသဏ္ဍာန်များမဟုတ်တော့ဘဲ နက်နဲသော အဓိပ္ပာယ်ရှိသော လုပ်ဆောင်ချက်များ ဖြစ်လာသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Ghashiyah 88:21",
+        "study_number": 1,
+        "arabic_full": "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ",
+        "en_sahih": "So remind, [O Muhammad]; you are only a reminder",
+        "my_mmsy": "(၂၁) သို့ဖြစ်ရာ အသင်သည် ဆုံးမနေပါ။ အသင်သည် ဆုံးမသူတစ်ဦးပင် ဖြစ်သည်။",
+        "audio_ref": {
+          "surah": 88,
+          "ayah": 21,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/088021.mp3"
+        },
+        "qurancom_url": "https://quran.com/88/21",
+        "context": {
+          "en": "Allah defines the duty of the Prophet (PBUH) as a messenger.",
+          "my": "တမန်တော်မြတ် (ဆွ) ၏ တာဝန်မှာ သတိပေးရုံသာဖြစ်ကြောင်း အလ္လာဟ်အရှင်မြတ်က ဖော်ပြခြင်းဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "فَذَكِّرْ",
+            "translit": "fa-dhakkir",
+            "en": "So remind",
+            "my": "သို့ဖြစ်ရာ အသင်သည် သတိပေးလော့",
+            "role_en": "Imperative (Amr) Form II",
+            "role_my": "အမိန့်ပေးကြိယာ (ပုံစံ ၂)",
+            "root": "ذ ك ر",
+            "freq": 23
+          },
+          {
+            "ar": "مُذَكِّرٌ",
+            "translit": "mudhakkir",
+            "en": "a reminder",
+            "my": "သတိပေးသူ",
+            "role_en": "Active Participle Form II",
+            "role_my": "ပြုလုပ်သူနာမ် (ပုံစံ ၂)",
+            "root": "ذ ك ر",
+            "freq": 1
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "This ayah beautifully combines the Amr (Command) and Ism Fa'il (Doer) of Form II within one short sentence.",
+          "structure_my": "ဤအာယသ်တော်တွင် Form II ၏ အမိန့်ပေးကြိယာနှင့် ပြုလုပ်သူနာမ်တို့ကို စာကြောင်းတိုလေးအတွင်း အလှပဆုံး ပေါင်းစပ်ထားသည်။",
+          "insight_en": "The use of Form II (dhakkara) instead of Form I (dhakara) emphasizes the intensive work of reminding others.",
+          "insight_my": "Form II ကို အသုံးပြုထားခြင်းမှာ အခြားသူများကို သတိရလာအောင် အပြင်းအထန် ကြိုးစားအားထုတ်ရခြင်းကို ဖော်ပြသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ذ ك ر",
+            "concept_en": "To call to mind or to mention with the tongue.",
+            "concept_my": "စိတ်ထဲတွင် အောက်မေ့ခြင်း သို့မဟုတ် နှုတ်ဖြင့် မြွက်ဟခြင်း။",
+            "members": [
+              {
+                "ar": "ذِكْرَى",
+                "en": "reminder",
+                "my": "သတိပေးချက်",
+                "freq": 0
+              }
+            ],
+            "professors_note": "A 'Mudhakkir' is one who helps others reconnect with what they already know in their fitrah (natural state)."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ တာဝန်မှာလည်း တမန်တော်မြတ်တို့၏ လမ်းစဉ်အတိုင်း ကောင်းမြတ်သောအရာများကို အချင်းချင်း သတိပေးရန်ဖြစ်သည်။ သို့သော် အတင်းအကြပ်ပြုလုပ်ရန်မဟုတ်ဘဲ 'သတိပေးသူ' တစ်ယောက်အဖြစ်သာ ကျင့်ကြံရပါမည်။ လူသားတစ်ယောက်၏ နှလုံးသားကို ပြောင်းလဲပေးနိုင်သူမှာ အလ္လာဟ်အရှင်မြတ်သာလျှင် ဖြစ်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Fa-dhakkir... innamā anta mudhakkir.",
+          "meaning_anchor": "The word 'remind' repeated in two different forms shows its importance.",
+          "daily_connection": "Use this ayah to remember your humble role when giving advice to others.",
+          "my": "Fa-dhakkir နှင့် Mudhakkir တို့၏ ဆက်စပ်ပုံကို ကြည့်၍ အလွယ်တကူ ကျက်မှတ်ပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "Congratulations! You have completed Phase 2. You now understand the skeletal structure of Quranic verbs and how they evolve to convey deeper meanings. You are ready for Phase 3: Sentence Structures.",
+      "my": "ဂုဏ်ယူပါသည်။ အသင်သည် အဆင့် ၂ ကို အောင်မြင်စွာ ပြီးဆုံးခဲ့ပြီဖြစ်သည်။ ယခုအခါ ကုရ်အာန်ရှိ ကြိယာများ၏ တည်ဆောက်ပုံနှင့် ၎င်းတို့၏ နက်နဲသော အဓိပ္ပာယ်များကို နားလည်လာပြီဖြစ်သည်။ နောက်ထပ် အဆင့် ၃ (ဝါကျတည်ဆောက်ပုံ) အတွက် အဆင်သင့်ဖြစ်ပါပြီ။"
+    }
+  }
+]
