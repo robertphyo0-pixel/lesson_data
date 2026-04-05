@@ -1,0 +1,2084 @@
+[
+  {
+    "lesson_id": "L1-026",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 26,
+    "title": {
+      "ar": "الضَّمَائِرُ (١) — أَنَا وَنَحْنُ",
+      "en": "Pronouns I — I and We: The First Person",
+      "my": "ကိုယ်စားပြုနာမ် (၁) — ငါ နှင့် ငါတို့"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "First person singular and plural pronouns as Mubtada",
+      "grammar_formula": "Pronoun + Noun/Predicate = Sentence"
+    },
+    "section_1_vocab": [
+      {
+        "word": "قَلْبٌ",
+        "translit": "qalbun",
+        "en": "heart",
+        "my": "နှလုံးသား",
+        "quran_freq": 168,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلٌ",
+        "root": {
+          "letters": "ق ل ب",
+          "concept_en": "to turn, to flip, heart (constantly turning)",
+          "concept_my": "လှန်လှောခြင်း၊ ပြောင်းလဲခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Calp",
+          "image": "A heart flipping or turning over",
+          "cross_language": "In Urdu/Malay 'Qalb' is used for heart"
+        },
+        "word_family": [
+          {
+            "ar": "يُقَلِّبُ",
+            "translit": "yuqallibu",
+            "en": "He turns over",
+            "my": "သူလှန်လှောသည်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Words from this root often relate to transformation or the center of something.",
+        "example": {
+          "ar": "فِي قَلْبِي",
+          "en": "In my heart",
+          "my": "ကျွန်ုပ်၏ နှလုံးသားထဲတွင်",
+          "ref": "2:10"
+        }
+      },
+      {
+        "word": "نَفْسٌ",
+        "translit": "nafsun",
+        "en": "soul / self",
+        "my": "ဝိညာဉ် / မိမိကိုယ်ကိုယ်",
+        "quran_freq": 298,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلٌ",
+        "root": {
+          "letters": "ن ف س",
+          "concept_en": "breath, soul, individual self",
+          "concept_my": "အသက်ရှူခြင်း၊ ဝိညာဉ်"
+        },
+        "memory_hook": {
+          "sound": "Nafs",
+          "image": "Taking a deep breath to feel your soul",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "أَنْفُس",
+            "translit": "anfus",
+            "en": "souls",
+            "my": "ဝိညာဉ်များ",
+            "freq": 150
+          }
+        ],
+        "pattern_unlock": "This root is used for the concept of individuality and the inner self throughout the Quran.",
+        "example": {
+          "ar": "كُلُّ نَفْسٍ",
+          "en": "Every soul",
+          "my": "ဝိညာဉ်တိုင်း",
+          "ref": "3:185"
+        }
+      },
+      {
+        "word": "رَبٌّ",
+        "translit": "rabbun",
+        "en": "Lord / Sustainer",
+        "my": "ဖန်ဆင်းမွေးမြူသော အရှင်",
+        "quran_freq": 980,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلٌ",
+        "root": {
+          "letters": "ر ب ب",
+          "concept_en": "to foster, to nourish, to sustain",
+          "concept_my": "ပြုစုပျိုးထောင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Rub",
+          "image": "A master taking care of a garden",
+          "cross_language": "Rab in many Muslim cultures"
+        },
+        "word_family": [
+          {
+            "ar": "رَبَّانِيّ",
+            "translit": "rabbani",
+            "en": "godly / divine",
+            "my": "ဘုရားသခင်နှင့် နီးစပ်သူ",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "Rabb is more than 'Lord'; it implies someone who grows and nurtures you step by step.",
+        "example": {
+          "ar": "رَبُّ الْعَالَمِينَ",
+          "en": "Lord of the worlds",
+          "my": "စကြဝဠာအပေါင်းကို မွေးမြူတော်မူသော အရှင်",
+          "ref": "1:2"
+        }
+      },
+      {
+        "word": "عَبْدٌ",
+        "translit": "abdun",
+        "en": "servant / slave",
+        "my": "ကျွန် / အစေအပါး",
+        "quran_freq": 280,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلٌ",
+        "root": {
+          "letters": "ع ب د",
+          "concept_en": "to serve, to worship, to enslave",
+          "concept_my": "ခစားခြင်း၊ ကိုးကွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ab-d",
+          "image": "A person bowing in service",
+          "cross_language": "Abdullah (Servant of Allah)"
+        },
+        "word_family": [
+          {
+            "ar": "عِبَادَة",
+            "translit": "ibadah",
+            "en": "worship",
+            "my": "ခစားကိုးကွယ်မှု",
+            "freq": 30
+          }
+        ],
+        "pattern_unlock": "Every 'Abd' is linked to 'Ibadah' (worship).",
+        "example": {
+          "ar": "عَبْدُ اللَّهِ",
+          "en": "The servant of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ ကျွန်",
+          "ref": "19:30"
+        }
+      },
+      {
+        "word": "عِبَادَةٌ",
+        "translit": "ibādatun",
+        "en": "worship",
+        "my": "ခစားကိုးကွယ်ခြင်း",
+        "quran_freq": 280,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فِعَالَةٌ",
+        "root": {
+          "letters": "ع b d",
+          "concept_en": "to worship",
+          "concept_my": "ကိုးကွယ်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Ibadah",
+          "image": "A prayer rug used for worship",
+          "cross_language": "Ibadah used in Myanmar Muslim context"
+        },
+        "word_family": [
+          {
+            "ar": "يَعْبُدُ",
+            "translit": "ya'budu",
+            "en": "He worships",
+            "my": "သူကိုးကွယ်သည်",
+            "freq": 20
+          }
+        ],
+        "pattern_unlock": "Abstract nouns of action often follow the Fi'alah pattern.",
+        "example": {
+          "ar": "خَالِصُ الْعِبَادَةِ",
+          "en": "Sincere worship",
+          "my": "စစ်မှန်သော ကိုးကွယ်မှု",
+          "ref": "39:3"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "الضَّمَائِرُ الْمُنْفَصِلَةُ",
+        "en": "Detached Pronouns (1st Person)",
+        "my": "သီးခြားရပ်တည်သော ကိုယ်စားပြုနာမ်များ"
+      },
+      "formula": {
+        "display": "أَنَا / نَحْنُ + الاسم = جملة اسمية",
+        "example": "أَنَا مُسْلِمٌ (I am a Muslim)",
+        "myanmar_read": "ကိုယ်စားပြုနာမ်ကို အရှေ့ကထားပြီး သတင်းအချက်အလက် (Predicate) ကို အနောက်က ကပ်ရေးရုံပါပဲ။",
+        "key_insight": "Arabic doesn't need a word for 'am' or 'are'. Putting the pronoun before a noun creates a full sentence."
+      },
+      "explanation": {
+        "en": "In Arabic, pronouns used to start a sentence are called detached pronouns. 'Ana' is used for 'I' (singular, both genders). 'Nahnu' is used for 'We' (plural, both genders). They act as the subject (Mubtada) of the sentence.",
+        "my": "အာရဗီဘာသာစကားတွင် ဝါကျတစ်ခုကို စတင်ရန် အသုံးပြုသော ကိုယ်စားပြုနာမ်များကို သီးခြားရပ်တည်သော ကိုယ်စားပြုနာမ်များဟု ခေါ်သည်။ 'Ana' သည် 'ငါ/ကျွန်ုပ်' (တစ်ဦးကိန်း) အတွက်ဖြစ်ပြီး 'Nahnu' သည် 'ငါတို့' (အများကိန်း) အတွက်ဖြစ်သည်။ ၎င်းတို့သည် ဝါကျတစ်ခု၏ ကတ္တားနေရာတွင် ရှိနေတတ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we use 'kyan-taw/kyan-ma' or 'nga' for 'I'. Arabic 'Ana' covers all these regardless of status. Like Myanmar, Arabic pronouns don't change form for basic identity sentences.",
+        "my": "မြန်မာစကားမှာ 'ကျွန်တော်/ကျွန်မ' သို့မဟုတ် 'ငါ' ဟု သုံးသကဲ့သို့ အာရဗီတွင် 'Ana' ကို သုံးသည်။ အာရဗီဝါကျတွင် 'ဖြစ်သည်' ဟူသော ကြိယာမပါဘဲ ဝါကျတည်ဆောက်ပုံမှာ မြန်မာစကားနှင့် ဆင်တူသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "'Ana' (أَنَا) is used for both Male and Female speakers.",
+          "rule_my": "'Ana' ကို ကျား၊ မ နှစ်မျိုးလုံးအတွက် သုံးနိုင်သည်။",
+          "example": {
+            "ar": "أَنَا عَبْدٌ",
+            "en": "I am a servant",
+            "my": "ကျွန်ုပ်သည် ကျွန်တစ်ဦးဖြစ်သည်။"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "'Nahnu' (نَحْنُ) is used for two or more people.",
+          "rule_my": "'Nahnu' ကို လူနှစ်ဦး သို့မဟုတ် နှစ်ဦးထက်ပိုသူများအတွက် သုံးသည်။",
+          "example": {
+            "ar": "نَحْنُ مُسْلِمُونَ",
+            "en": "We are Muslims",
+            "my": "ကျွန်ုပ်တို့သည် မူစလင်များဖြစ်ကြသည်။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation — simplest example",
+          "ar": "أَنَا رَبُّكُمْ",
+          "en": "I am your Lord",
+          "my": "(၂၄) “ငါပင် အသင်တို့၏ အကြီးဆုံးအရှင်ဖြစ်သည်” ဟု ပြောဆိုခဲ့သည်။",
+          "ref": "79:24",
+          "breakdown": {
+            "subject": {
+              "word": "أَنَا",
+              "en": "I",
+              "note": "1st person pronoun"
+            },
+            "predicate": {
+              "word": "رَبُّكُمْ",
+              "en": "Your Lord",
+              "note": "Compound word"
+            }
+          },
+          "myanmar_insight": "Notice how 'Ana' comes first to establish authority."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Adding a word for 'am'",
+          "wrong": {
+            "ar": "أَنَا يَكُونُ عَبْدٌ",
+            "note": "Trying to translate 'am' literally"
+          },
+          "correct": {
+            "ar": "أَنَا عَبْدٌ",
+            "en": "I am a servant",
+            "my": "ကျွန်ုပ်သည် ကျွန်တစ်ဦးဖြစ်သည်။"
+          },
+          "myanmar_tip": "အာရဗီမှာ 'ဖြစ်သည်' ဆိုတာကို ထည့်ရေးစရာ မလိုပါဘူး။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the pronoun in the following phrases",
+          "instruction_my": "အောက်ပါစာသားများတွင် ကိုယ်စားပြုနာမ်ကို ရှာဖွေပါ",
+          "questions": [
+            {
+              "q": "نَحْنُ نَزَّلْنَا",
+              "answer_en": "Nahnu (We)",
+              "answer_my": "Nahnu (ငါတို့)",
+              "ref": "15:9"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "أَنَا التَّوَّابُ",
+              "answer_en": "I am the Accepting of Repentance",
+              "answer_my": "ကျွန်ုပ်သည် နောင်တကို လက်ခံတော်မူသောအရှင် ဖြစ်သည်။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Complete the sentence with 'I' or 'We'",
+          "instruction_my": "'ငါ' သို့မဟုတ် 'ငါတို့' ဖြင့် ဝါကျကို ဖြည့်စွက်ပါ",
+          "questions": [
+            {
+              "q": "_____ عَبْدُ اللَّهِ",
+              "answer_en": "Ana",
+              "answer_my": "Ana",
+              "ar": "أَنَا"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Using 'Ana' in the Quran often highlights God's unique authority or a prophet's humble submission. 'Nahnu' is often used as the 'Royal We' by Allah to show His majesty and the involvement of His forces (like angels).",
+        "my": "ကုရ်အာန်တွင် 'Ana' ကို သုံးခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ တစ်ဆူတည်းသော အာဏာတော် သို့မဟုတ် နဗီတမန်တော်များ၏ နှိမ့်ချမှုကို ဖော်ပြသည်။ 'Nahnu' ကို အလ္လာဟ်အရှင်မြတ်က မိမိ၏ မြင့်မြတ်မှုနှင့် စွမ်းအားတော်များကို ဖော်ပြရန် သုံးတော်မူသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Maryam 19:30",
+        "study_number": 1,
+        "arabic_full": "قَالَ إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا",
+        "en_sahih": "[Jesus] said, 'Indeed, I am the servant of Allah. He has given me the Scripture and made me a prophet.'",
+        "my_mmsy": "ထိုကလေးက ပြောဆိုသည်- အမှန်စင်စစ် ကျွန်ုပ်သည် အလ္လာဟ်အရှင်မြတ်၏ကျွန်ဖြစ်သည်။  အရှင်မြတ်သည် ကျွန်ုပ်အား(အင်ဂျီလ်)ကျမ်းဂန်ကို ပေးသနားတော်မူခဲ့သည်။  ထို့ပြင် အရှင်မြတ်သည် ကျွန်ုပ်အား တမန်တော်အဖြစ်လည်း ပြုလုပ်တော်မူခဲ့သည်။",
+        "audio_ref": {
+          "surah": 19,
+          "ayah": 30,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/019030.mp3"
+        },
+        "qurancom_url": "https://quran.com/19/30",
+        "context": {
+          "en": "This is Prophet Isa (Jesus) speaking as an infant in the cradle to defend his mother Maryam and declare his identity.",
+          "my": "ဤသည်မှာ နဗီအီစာ (အလိုင်ဟစ္စလာမ်) က ပုခက်ထဲ၌ ရှိနေစဉ် သူ၏မိခင် မရ်ယမ်အား ကာကွယ်ရန်နှင့် သူ၏ မည်သူမည်ဝါဖြစ်ကြောင်းကို ပြောကြားခြင်း ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "قَالَ",
+            "translit": "qāla",
+            "en": "He said",
+            "my": "သူပြောခဲ့သည်",
+            "role_en": "Verb",
+            "role_my": "ကြိယာ",
+            "root": "ق و ل",
+            "freq": 1729
+          },
+          {
+            "ar": "عَبْدُ",
+            "translit": "abdu",
+            "en": "servant",
+            "my": "ကျွန်",
+            "role_en": "Noun/Subject",
+            "role_my": "နာမ်/ကတ္တား",
+            "root": "ع ب د",
+            "freq": 125
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The phrase 'Inni' contains the first person pronoun attached to 'Inna', serving the same role as 'Ana' but with emphasis.",
+          "structure_my": "'Inni' ဟူသော စကားလုံးသည် 'Ana' ကဲ့သို့ပင် 'ကျွန်ုပ်' ဟု အဓိပ္ပာယ်ရသော်လည်း အလေးအနက်ပြုခြင်း ပါဝင်သည်။",
+          "insight_en": "The first word out of Isa's mouth was 'Abdullah' (Servant of Allah), establishing his status immediately.",
+          "insight_my": "နဗီအီစာ ပထမဆုံးပြောသောစကားမှာ 'အဗ်ဒုလ္လာဟ်' (အလ္လာဟ်၏ကျွန်) ဖြစ်ခြင်းမှာ သူ၏ အဆင့်အတန်းကို ချက်ချင်း ဖော်ပြလိုက်ခြင်း ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ب د",
+            "concept_en": "True slavery to Allah is the ultimate freedom from slavery to creation.",
+            "concept_my": "အလ္လာဟ်အရှင်မြတ်၏ ကျွန်ဖြစ်ခြင်းသည် ဖန်ဆင်းခံများ၏ ကျွန်ဖြစ်ခြင်းမှ လွတ်မြောက်ခြင်း ဖြစ်သည်။",
+            "members": [
+              {
+                "ar": "عِبَاد",
+                "en": "servants",
+                "my": "ကျွန်များ",
+                "freq": 100
+              }
+            ],
+            "professors_note": "In Arabic, the root implies a path that is made smooth by being walked upon frequently—just as a servant's ego is smoothed by submission."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့သည် မိမိကိုယ်ကို အလ္လာဟ်အရှင်မြတ်၏ ကျွန်အဖြစ် အသိအမှတ်ပြုခြင်းသည် ဘဝ၏ အမြင့်မြတ်ဆုံး ဂုဏ်ဒြပ်ဖြစ်သည်။ နဗီအီစာ (အလိုင်ဟစ္စလာမ်) သည် ကလေးဘဝကပင် ဤစကားကို ပြောကြားခဲ့သည်။ ကျွန်ုပ်တို့၏ နှလုံးသားတွင်လည်း အမြဲတမ်း 'ကျွန်ုပ်သည် အလ္လာဟ်၏ကျွန်ဖြစ်သည်' ဟူသော ခံယူချက် ရှိနေသင့်သည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "The ayah flows with 'Innee 'Abdullaah'",
+          "meaning_anchor": "Imagine a baby speaking clearly to a crowd.",
+          "daily_connection": "Recite this to remember your humble origin and purpose.",
+          "my": "ပုခက်ထဲမှ ကလေးငယ်တစ်ဦး အလ္လာဟ်အရှင်၏ကျွန်ဟု ပြောနေပုံကို မြင်ယောင်ပါ။"
+        }
+      },
+      {
+        "ayah_ref": "Al-Anbiya 21:92",
+        "study_number": 2,
+        "arabic_full": "إِنَّ هَٰذِهِ أُمَّتُكُمْ أُمَّةً وَاحِدَةً وَأَنَا رَبُّكُمْ فَاعْبُدُونِ",
+        "en_sahih": "Indeed this, your religion, is one religion, and I am your Lord, so worship Me.",
+        "my_mmsy": "အမှန်စင်စစ် ဤသည် အသင်တို့၏တစ်ခုတည်းသော သာသနာအုပ်စုဖြစ်သည်။  ထို့ပြင် ငါအရှင်မြတ်သည် အသင်တို့အား ဖန်ဆင်းမွေးမြူတော်မူသောအရှင်ဖြစ်တော်မူသည်။ သို့ဖြစ်ရာ အသင်တို့သည် ငါအရှင်မြတ်ကိုသာ ကိုးကွယ်ကြပါ။",
+        "audio_ref": {
+          "surah": 21,
+          "ayah": 92,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/021092.mp3"
+        },
+        "qurancom_url": "https://quran.com/21/92",
+        "context": {
+          "en": "Allah addresses humanity after mentioning various prophets, emphasizing the unity of faith.",
+          "my": "နဗီတမန်တော်များအကြောင်း ပြောကြားပြီးနောက် အလ္လာဟ်အရှင်မြတ်က ယုံကြည်မှု၏ ညီညွတ်မှုကို အလေးပေး ပြောကြားခြင်း ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أُمَّتُكُمْ",
+            "translit": "ummatukum",
+            "en": "your nation/religion",
+            "my": "သင်တို့၏ သာသနာ/လူမျိုး",
+            "role_en": "Noun",
+            "role_my": "နာမ်",
+            "root": "أ م م",
+            "freq": 64
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The sentence 'Ana Rabbukum' (I am your Lord) uses the first person singular pronoun as the subject.",
+          "structure_my": "'Ana Rabbukum' (ကျွန်ုပ်သည် သင်တို့၏ အရှင်ဖြစ်သည်) ဟူသော ဝါကျတွင် 'Ana' သည် ကတ္တား ဖြစ်သည်။",
+          "insight_en": "The transition from 'your nation' to 'I am your Lord' connects the unity of the community to the oneness of God.",
+          "insight_my": "လူသားထု၏ ညီညွတ်မှုနှင့် အလ္လာဟ်အရှင်မြတ်၏ တစ်ဆူတည်းဖြစ်မှုကို ဆက်စပ်ပေးထားသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "أ م م",
+            "concept_en": "The root for 'mother' (Umm) and 'leader' (Imam)—something that is a source or a goal.",
+            "concept_my": "မိခင်၊ ခေါင်းဆောင်၊ အရင်းအမြစ်",
+            "members": [
+              {
+                "ar": "أُمّ",
+                "en": "mother",
+                "my": "မိခင်",
+                "freq": 35
+              }
+            ],
+            "professors_note": "An Ummah is not just a group, it's a group moving toward a shared goal."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့အားလုံးသည် အွမ္မသ်တစ်ခုတည်း ဖြစ်သည်။ ကျွန်ုပ်တို့၏ အရှင်သည်လည်း တစ်ဆူတည်းသော အလ္လာဟ်ဖြစ်တော်မူသည်။ ထို့ကြောင့် ကွဲပြားမှုများကို ဘေးဖယ်၍ အရှင်မြတ်ကိုသာ ခစားကြရမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Wa-ana Rabbukum fa'budoon",
+          "meaning_anchor": "A circle of people all looking toward one center.",
+          "daily_connection": "Reminds us of Muslim brotherhood.",
+          "my": "လူမျိုးအားလုံး တစ်ခုတည်းသော အရှင်ကို ကိုးကွယ်နေပုံကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "In this lesson, we learned the first-person pronouns 'Ana' and 'Nahnu'. These simple words allow us to understand how Allah speaks of Himself and how we should speak of our relationship with Him as servants ('Abd). Understanding these is the first step in building conversational and Quranic Arabic literacy.",
+      "my": "ဤသင်ခန်းစာတွင် 'Ana' နှင့် 'Nahnu' ဟူသော ကိုယ်စားပြုနာမ်များကို လေ့လာခဲ့သည်။ အလ္လာဟ်အရှင်မြတ်က မိမိကိုယ်ကိုယ် မည်သို့ ရည်ညွှန်းတော်မူကြောင်းနှင့် ကျွန်ုပ်တို့က အရှင်မြတ်အပေါ် မည်သို့ ခစားရမည်ကို ဤစကားလုံးများမှတစ်ဆင့် နားလည်နိုင်ပါသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-027",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 27,
+    "title": {
+      "ar": "الضَّمَائِرُ (٢) — أَنْتَ وَأَنْتِ",
+      "en": "Pronouns II — You (Singular): Anta (M) and Anti (F)",
+      "my": "ကိုယ်စားပြုနာမ် (၂) — သင် (တစ်ဦးကိန်း)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Second person singular pronouns; gender distinction",
+      "grammar_formula": "أَنْتَ (M) / أَنْتِ (F) + Noun"
+    },
+    "section_1_vocab": [
+      {
+        "word": "وَجْهٌ",
+        "translit": "wajhun",
+        "en": "face",
+        "my": "မျက်နှာ",
+        "quran_freq": 72,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلٌ",
+        "root": {
+          "letters": "و ج ه",
+          "concept_en": "to face, direction, presence",
+          "concept_my": "မျက်နှာမူခြင်း၊ အရပ်မျက်နှာ"
+        },
+        "memory_hook": {
+          "sound": "Wajh",
+          "image": "A face looking in a specific direction",
+          "cross_language": "Wajah in Malay/Indonesian"
+        },
+        "word_family": [
+          {
+            "ar": "وِجْهَة",
+            "translit": "wijhah",
+            "en": "direction",
+            "my": "ဦးတည်ချက်",
+            "freq": 2
+          }
+        ],
+        "pattern_unlock": "The 'Wajh' of Allah refers to His Divine Presence.",
+        "example": {
+          "ar": "وَجْهُ رَبِّكَ",
+          "en": "The Face of your Lord",
+          "my": "သင်၏အရှင်မြတ်၏ မျက်နှာတော်",
+          "ref": "55:27"
+        }
+      },
+      {
+        "word": "عَيْنٌ",
+        "translit": "aynun",
+        "en": "eye / spring",
+        "my": "မျက်စိ / စမ်းရေတွင်း",
+        "quran_freq": 88,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعْلٌ",
+        "root": {
+          "letters": "ع ي ن",
+          "concept_en": "eye, seeing, spring of water",
+          "concept_my": "မျက်စိ၊ ရေထွက်ပင်ရင်း"
+        },
+        "memory_hook": {
+          "sound": "Ain",
+          "image": "An eye looking at a water spring",
+          "cross_language": "Ain in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "عُيُون",
+            "translit": "uyun",
+            "en": "eyes/springs",
+            "my": "မျက်စိများ/စမ်းရေတွင်းများ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Body parts that come in pairs are usually feminine in Arabic.",
+        "example": {
+          "ar": "بِأَعْيُنِنَا",
+          "en": "Under Our eyes",
+          "my": "ကျွန်ုပ်တို့၏ မျက်စိတော်အောက်တွင်",
+          "ref": "52:48"
+        }
+      },
+      {
+        "word": "يَدٌ",
+        "translit": "yadun",
+        "en": "hand",
+        "my": "လက်",
+        "quran_freq": 120,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ي د ي",
+          "concept_en": "hand, power, influence",
+          "concept_my": "လက်၊ တန်ခိုးအာဏာ"
+        },
+        "memory_hook": {
+          "sound": "Yad",
+          "image": "A hand reaching out",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "أَيْدِي",
+            "translit": "aydi",
+            "en": "hands",
+            "my": "လက်များ",
+            "freq": 60
+          }
+        ],
+        "pattern_unlock": "The word 'Yad' often metaphorically means power or blessing in the Quran.",
+        "example": {
+          "ar": "يَدُ اللَّهِ",
+          "en": "The hand of Allah",
+          "my": "အလ္လာဟ်အရှင်မြတ်၏ လက်တော်",
+          "ref": "48:10"
+        }
+      },
+      {
+        "word": "لِسَانٌ",
+        "translit": "lisānun",
+        "en": "tongue / language",
+        "my": "လျှာ / ဘာသာစကား",
+        "quran_freq": 25,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعَالٌ",
+        "root": {
+          "letters": "ل س ن",
+          "concept_en": "tongue, speech",
+          "concept_my": "လျှာ၊ စကားပြောခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Lisan",
+          "image": "A tongue speaking words",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "أَلْسِنَة",
+            "translit": "alsinah",
+            "en": "tongues",
+            "my": "လျှာများ",
+            "freq": 3
+          }
+        ],
+        "pattern_unlock": "Lisan is used for both the organ (tongue) and the abstract concept (language).",
+        "example": {
+          "ar": "لِسَانٌ عَرَبِيٌّ",
+          "en": "Arabic language",
+          "my": "အာရဗီဘာသာစကား",
+          "ref": "16:103"
+        }
+      },
+      {
+        "word": "صَدْرٌ",
+        "translit": "sadrun",
+        "en": "chest / breast",
+        "my": "ရင်ဘတ်",
+        "quran_freq": 44,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلٌ",
+        "root": {
+          "letters": "ص د ر",
+          "concept_en": "chest, front, to originate",
+          "concept_my": "ရင်ဘတ်၊ အရှေ့ပိုင်း"
+        },
+        "memory_hook": {
+          "sound": "Sadr",
+          "image": "Putting a hand on the chest",
+          "cross_language": "Sadr in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "صُدُور",
+            "translit": "sudur",
+            "en": "chests",
+            "my": "ရင်ဘတ်များ",
+            "freq": 30
+          }
+        ],
+        "pattern_unlock": "In the Quran, the Sadr is the place of secrets and faith.",
+        "example": {
+          "ar": "فِي صُدُورِ النَّاسِ",
+          "en": "In the chests of mankind",
+          "my": "လူသားတို့၏ ရင်ဘတ်များအတွင်း၌",
+          "ref": "114:5"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "ضَمَائِرُ الْمُخَاطَبِ",
+        "en": "Pronouns for Addressing (2nd Person)",
+        "my": "မျက်မှောက်ရှိသူကို ခေါ်ဆိုသော ကိုယ်စားပြုနာမ်များ"
+      },
+      "formula": {
+        "display": "أَنْتَ (Male) / أَنْتِ (Female)",
+        "example": "أَنْتَ رَبِّي (You are my Lord)",
+        "myanmar_read": "ယောက်ျားလေးဆိုရင် 'Anta'၊ မိန်းကလေးဆိုရင် 'Anti' လို့ သုံးပါတယ်။",
+        "key_insight": "Arabic changes the last vowel (Fatha for male, Kasra for female) to distinguish gender in addressing someone."
+      },
+      "explanation": {
+        "en": "In Arabic, when you talk to someone ('You'), you must use a specific gendered pronoun. 'Anta' (أَنْتَ) is for a single male. 'Anti' (أَنْتِ) is for a single female. This distinction is crucial for proper address in Arabic.",
+        "my": "အာရဗီဘာသာစကားတွင် တစ်ဖက်လူကို 'သင်' ဟု ခေါ်ဆိုရာ၌ ယောက်ျားလေးဆိုပါက 'Anta' ကို သုံးပြီး မိန်းကလေးဆိုပါက 'Anti' ကို သုံးရသည်။ ၎င်းသည် ဂျန်ဒါခွဲခြားမှုကို ပြသသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar pronouns like 'Min' or 'Nyee' can sometimes be gender-neutral, but Arabic strictly separates 'You' (male) from 'You' (female).",
+        "my": "မြန်မာစကားတွင် 'မင်း' သို့မဟုတ် 'သင်' ကို ကျား၊ မ မရွေး သုံးနိုင်သော်လည်း အာရဗီတွင် 'Anta' နှင့် 'Anti' ကို တိတိကျကျ ခွဲခြားသုံးစွဲရသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Use 'Anta' (أَنْتَ) for one male person.",
+          "rule_my": "ယောက်ျားတစ်ဦးအတွက် 'Anta' ကို သုံးပါ။",
+          "example": {
+            "ar": "أَنْتَ كَرِيمٌ",
+            "en": "You are generous (m)",
+            "my": "သင်သည် ရက်ရောသူဖြစ်သည်။"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Use 'Anti' (أَنْتِ) for one female person.",
+          "rule_my": "မိန်းမတစ်ဦးအတွက် 'Anti' ကို သုံးပါ။",
+          "example": {
+            "ar": "أَنْتِ كَرِيمَةٌ",
+            "en": "You are generous (f)",
+            "my": "သင်(မ)သည် ရက်ရောသူဖြစ်သည်။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Addressing Allah",
+          "ar": "أَنْتَ وَلِيُّنَا",
+          "en": "You are our Protector",
+          "my": "MYANMAR_PLACE_HOLDER_S7_A155",
+          "ref": "7:155",
+          "breakdown": {
+            "subject": {
+              "word": "أَنْتَ",
+              "en": "You",
+              "note": "Masculine singular pronoun"
+            },
+            "predicate": {
+              "word": "وَلِيُّنَا",
+              "en": "Our protector",
+              "note": "Guardian"
+            }
+          },
+          "myanmar_insight": "When we pray to Allah, we use 'Anta' because Allah is addressed in the masculine form grammatically."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Writing 'Anti' with a Ya (أنتي)",
+          "wrong": {
+            "ar": "أَنْتِي",
+            "note": "Adding an extra Ya at the end"
+          },
+          "correct": {
+            "ar": "أَنْتِ",
+            "en": "You (f)",
+            "my": "သင် (မ)"
+          },
+          "myanmar_tip": "အမျိုးသမီးအတွက် 'Anti' ရေးတဲ့အခါ အဆုံးမှာ 'ယာ' (Yaa) မထည့်ဘဲ 'ဇဲရ်' (Kasra) နဲ့ပဲ ရေးရပါတယ်။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify if the pronoun is for male or female",
+          "instruction_my": "ကိုယ်စားပြုနာမ်သည် ကျား သို့မဟုတ် မ အတွက်ဖြစ်ကြောင်း ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "أَنْتَ مَوْلَانَا",
+              "answer_en": "Male",
+              "answer_my": "ကျား",
+              "ref": "2:286"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate into English",
+          "instruction_my": "အင်္ဂလိပ်လို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "أَنْتَ السَّلَامُ",
+              "answer_en": "You are Peace",
+              "answer_my": "ကိုယ်တော်သည် ငြိမ်းချမ်းမှု ဖြစ်တော်မူ၏။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Change 'Anta' to 'Anti' and adjust the noun",
+          "instruction_my": "'Anta' ကို 'Anti' သို့ ပြောင်းလဲပါ",
+          "questions": [
+            {
+              "q": "أَنْتَ سَاجِدٌ",
+              "answer_en": "Anti sajidah",
+              "answer_my": "Anti sajidah",
+              "ar": "أَنْتِ سَاجِدَةٌ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Addressing Allah as 'Anta' in Dua creates an intimate connection. It reminds us that He is present, listening, and close to us.",
+        "my": "ဒိုအာတောင်းချိန်တွင် အလ္လာဟ်အရှင်မြတ်အား 'Anta' ဟု ခေါ်ဆိုခြင်းသည် မိမိနှင့် အရှင်မြတ်အကြား ရင်းနှီးမှုကို ဖြစ်စေသည်။ အရှင်မြတ်သည် အနီးနားတွင် ရှိနေပြီး နားညောင်းနေသည်ကို သတိရစေသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:32",
+        "study_number": 1,
+        "arabic_full": "قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ",
+        "en_sahih": "They said, 'Exalted are You; we have no knowledge except what You have taught us. Indeed, it is You who is the Knowing, the Wise.'",
+        "my_mmsy": "ကောင်းကင်တမန်များက ပြောဆိုခဲ့ကြသည်၊ အို-အရှင် အရှင်မြတ်သည် ချို့တဲ့မှုဟူသမျှမှ သန့်ရှင်းစင်ကြယ်တော်မူပါသည်။ အရှင်မြတ် ကျွန်ုပ်တို့အား သင်ပေးထားသည်မှလွဲ၍ ကျွန်ုပ်တို့တွင် မည်သည့်အသိမျှမရှိပါ။ အရှင်မြတ်သာလျှင် အကြွင်းမဲ့သိတော်မူသောအရှင်၊ ပညာဉာဏ်အမြော်အမြင်နှင့် အလွန်ပြည့်စုံတော်မူသောအရှင် ဖြစ်တော်မူပါသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 32,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002032.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/32",
+        "context": {
+          "en": "The angels are responding to Allah after He showed them the knowledge given to Adam.",
+          "my": "အာဒမ် (အလိုင်ဟစ္စလာမ်) အား ပေးသနားထားသော အသိပညာများကို မြင်ပြီးနောက် ကောင်းကင်တမန်များက အလ္လာဟ်အရှင်မြတ်အား ပြန်လည်လျှောက်ထားခြင်း ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أَنْتَ",
+            "translit": "anta",
+            "en": "You",
+            "my": "အရှင်",
+            "role_en": "Pronoun (Subject)",
+            "role_my": "ကိုယ်စားပြုနာမ်",
+            "root": "N/A",
+            "freq": 81
+          },
+          {
+            "ar": "الْعَلِيمُ",
+            "translit": "al-alim",
+            "en": "the Knowing",
+            "my": "အရာခပ်သိမ်းကို သိတော်မူသောအရှင်",
+            "role_en": "Predicate",
+            "role_my": "သတင်းအချက်အလက်",
+            "root": "ع ل م",
+            "freq": 162
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The combination 'Innaka Anta' (Indeed You, You) adds extreme emphasis to Allah's attributes.",
+          "structure_my": "'Innaka Anta' ဟု သုံးနှုန်းခြင်းသည် 'ဧကန်စင်စစ် အရှင်မြတ်သာလျှင်' ဟု အလွန်အမင်း အလေးပေးခြင်း ဖြစ်သည်။",
+          "insight_en": "Repeating the pronoun (hidden in Innaka and explicit in Anta) reinforces that only Allah possesses perfect knowledge.",
+          "insight_my": "ကိုယ်စားပြုနာမ်ကို ထပ်ခါတလဲလဲ သုံးခြင်းဖြင့် အလ္လာဟ်အရှင်မြတ်သာလျှင် အရာခပ်သိမ်းကို သိတော်မူကြောင်း ခိုင်မာစေသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ح ك م",
+            "concept_en": "To judge, to be wise, to put things in their proper place.",
+            "concept_my": "စီရင်ဆုံးဖြတ်ခြင်း၊ ပညာရှိခြင်း",
+            "members": [
+              {
+                "ar": "حِكْمَة",
+                "en": "wisdom",
+                "my": "ပညာ",
+                "freq": 20
+              }
+            ],
+            "professors_note": "A 'Hakim' is one whose actions are always purposeful and never in vain."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့တွင် ရှိသမျှ အသိပညာသည် အလ္လာဟ်အရှင်မြတ် ပေးသနားတော်မူသောကြောင့်သာ ဖြစ်သည်။ ထို့ကြောင့် မိမိကိုယ်ကို ပညာတတ်ဟု မာန်တက်မည့်အစား ကောင်းကင်တမန်များကဲ့သို့ 'အရှင်မြတ်သည်သာ အသိဆုံးဖြစ်သည်' ဟု ဝန်ခံတတ်ရမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Innaka Antal-Alimul-Hakim",
+          "meaning_anchor": "The angels bowing in respect to divine knowledge.",
+          "daily_connection": "Say this when you learn something new or fail to understand something.",
+          "my": "အရာရာကို သိမြင်တော်မူသော အရှင်မြတ်အား နှိမ့်ချစွာ လျှောက်ထားပုံကို မှတ်သားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "This lesson introduced 'Anta' and 'Anti'. We learned that Arabic requires gender sensitivity even when addressing someone directly. These pronouns are essential for understanding Quranic dialogues and for making personal supplications to Allah.",
+      "my": "ဤသင်ခန်းစာတွင် 'Anta' နှင့် 'Anti' ကို လေ့လာခဲ့သည်။ အာရဗီဘာသာတွင် တစ်ဖက်လူကို ခေါ်ဆိုရာ၌ ဂျန်ဒါခွဲခြားရန် လိုအပ်ကြောင်း သိရှိခဲ့သည်။ ဤကိုယ်စားပြုနာမ်များသည် ကုရ်အာန်ပါ စကားပြောဆိုမှုများနှင့် ဒိုအာများအတွက် အလွန်အရေးကြီးသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-028",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 28,
+    "title": {
+      "ar": "الضَّمَائِرُ (٣) — أَنْتُمْ وَأَنْتُنَّ",
+      "en": "Pronouns III — You (Plural): Antum (M) and Antunna (F)",
+      "my": "ကိုယ်စားပြုနာမ် (၃) — သင်တို့ (အများကိန်း)"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Second person plural pronouns; Quranic address forms",
+      "grammar_formula": "أَنْتُمْ (M.Pl) / أَنْتُنَّ (F.Pl) + Predicate"
+    },
+    "section_1_vocab": [
+      {
+        "word": "نَاسٌ",
+        "translit": "nāsun",
+        "en": "people / mankind",
+        "my": "လူသားများ",
+        "quran_freq": 241,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "N/A",
+        "root": {
+          "letters": "ن و س",
+          "concept_en": "to move, people in motion",
+          "concept_my": "လှုပ်ရှားနေသော လူသားများ"
+        },
+        "memory_hook": {
+          "sound": "Naas",
+          "image": "A large crowd of people walking",
+          "cross_language": "Manush in Bengali/Hindi"
+        },
+        "word_family": [
+          {
+            "ar": "إِنْسَان",
+            "translit": "insān",
+            "en": "human",
+            "my": "လူသား",
+            "freq": 65
+          }
+        ],
+        "pattern_unlock": "This word is always plural and refers to the general public.",
+        "example": {
+          "ar": "يَا أَيُّهَا النَّاسُ",
+          "en": "O mankind",
+          "my": "အို-လူသားတို့",
+          "ref": "2:21"
+        }
+      },
+      {
+        "word": "مُؤْمِنُونَ",
+        "translit": "mu'minūna",
+        "en": "believers",
+        "my": "ယုံကြည်သူများ",
+        "quran_freq": 150,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفْعِلُونَ",
+        "root": {
+          "letters": "أ م ن",
+          "concept_en": "security, trust, faith",
+          "concept_my": "ယုံကြည်မှု၊ ငြိမ်းချမ်းမှု"
+        },
+        "memory_hook": {
+          "sound": "Mu-min",
+          "image": "People standing together in faith",
+          "cross_language": "Momin in Myanmar Muslim context"
+        },
+        "word_family": [
+          {
+            "ar": "إِيمَان",
+            "translit": "iman",
+            "en": "faith",
+            "my": "ယုံကြည်ချက်",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "The 'u-una' ending indicates a sound masculine plural.",
+        "example": {
+          "ar": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ",
+          "en": "The believers are but brothers",
+          "my": "ဧကန်စင်စစ် ယုံကြည်သူများသည် ညီအစ်ကိုများသာ ဖြစ်ကြသည်။",
+          "ref": "49:10"
+        }
+      },
+      {
+        "word": "بَشَرٌ",
+        "translit": "basharun",
+        "en": "human / mortal",
+        "my": "လူသား / သေမျိုး",
+        "quran_freq": 36,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَلٌ",
+        "root": {
+          "letters": "ب ش ر",
+          "concept_en": "skin, outward appearance, good news",
+          "concept_my": "အရေပြား၊ သတင်းကောင်း"
+        },
+        "memory_hook": {
+          "sound": "Bashar",
+          "image": "Focusing on the physical skin/body of a human",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "بُشْرَى",
+            "translit": "bushra",
+            "en": "glad tidings",
+            "my": "သတင်းကောင်း",
+            "freq": 15
+          }
+        ],
+        "pattern_unlock": "This refers to the biological aspect of humans, while 'Insan' refers to the social/spiritual.",
+        "example": {
+          "ar": "أَنَا بَشَرٌ مِثْلُكُمْ",
+          "en": "I am a human like you",
+          "my": "ကျွန်ုပ်သည် သင်တို့ကဲ့သို့ လူသားတစ်ဦးသာ ဖြစ်သည်။",
+          "ref": "18:110"
+        }
+      },
+      {
+        "word": "أُمَّةٌ",
+        "translit": "ummatun",
+        "en": "community / nation",
+        "my": "အစုအဖွဲ့ / လူမျိုး",
+        "quran_freq": 64,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فُعْلَةٌ",
+        "root": {
+          "letters": "أ م م",
+          "concept_en": "source, leader, community with a goal",
+          "concept_my": "အရင်းအမြစ်၊ ခေါင်းဆောင်"
+        },
+        "memory_hook": {
+          "sound": "Ummah",
+          "image": "A group of people following one leader",
+          "cross_language": "Ummah is used globally"
+        },
+        "word_family": [
+          {
+            "ar": "إِمَام",
+            "translit": "imam",
+            "en": "leader",
+            "my": "ရှေ့ဆောင်",
+            "freq": 12
+          }
+        ],
+        "pattern_unlock": "Commonly used in the Quran to refer to religious communities.",
+        "example": {
+          "ar": "خَيْرَ أُمَّةٍ",
+          "en": "The best nation",
+          "my": "အကောင်းဆုံးသော အစုအဖွဲ့",
+          "ref": "3:110"
+        }
+      },
+      {
+        "word": "قَوْمٌ",
+        "translit": "qawmun",
+        "en": "people / tribe",
+        "my": "လူမျိုးစု / မျိုးနွယ်",
+        "quran_freq": 383,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلٌ",
+        "root": {
+          "letters": "ق و م",
+          "concept_en": "to stand, a group that stands together",
+          "concept_my": "ရပ်တည်ခြင်း၊ စုဝေးခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Qawm",
+          "image": "A tribe standing together in their land",
+          "cross_language": "Qaum in Urdu"
+        },
+        "word_family": [
+          {
+            "ar": "قِيَام",
+            "translit": "qiyam",
+            "en": "standing",
+            "my": "မတ်တပ်ရပ်ခြင်း",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "Often used for people associated with a specific prophet (e.g., Qawm Nuh).",
+        "example": {
+          "ar": "يَا قَوْمِ",
+          "en": "O my people",
+          "my": "အို-ကျွန်ုပ်၏ လူမျိုးစုတို့",
+          "ref": "11:50"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "ضَمَائِرُ الْمُخَاطَبِ (الْجَمْعُ)",
+        "en": "Plural Addressing Pronouns",
+        "my": "အများကိန်းအတွက် ကိုယ်စားပြုနာမ်များ"
+      },
+      "formula": {
+        "display": "أَنْتُمْ (M.Pl) / أَنْتُنَّ (F.Pl)",
+        "example": "أَنْتُمْ مُسْلِمُونَ (You are Muslims)",
+        "myanmar_read": "လူအများကြီးကို 'သင်တို့' လို့ ပြောချင်ရင် ယောက်ျားလေးတွေအတွက် 'Antum'၊ မိန်းကလေးတွေအတွက် 'Antunna' လို့ သုံးပါတယ်။",
+        "key_insight": "The 'm' sound in 'Antum' usually signifies masculine plural, while the 'nna' sound in 'Antunna' signifies feminine plural."
+      },
+      "explanation": {
+        "en": "To address a group of people, Arabic uses 'Antum' (أَنْتُمْ) for males or a mixed-gender group. 'Antunna' (أَنْتُنَّ) is used exclusively for a group of females. In the Quran, 'Antum' is very frequent as Allah addresses the believers or mankind.",
+        "my": "လူအုပ်စုတစ်စုကို 'သင်တို့' ဟု ခေါ်ဆိုရာတွင် ယောက်ျားလေးများ သို့မဟုတ် ကျား၊ မ ရောနှောနေသော အုပ်စုအတွက် 'Antum' ကို သုံးသည်။ မိန်းကလေး သီးသန့်အုပ်စုအတွက်မူ 'Antunna' ကို သုံးသည်။ ကုရ်အာန်တွင် အလ္လာဟ်အရှင်မြတ်က လူသားများကို မိန့်ကြားရာ၌ 'Antum' ကို အများဆုံး သုံးနှုန်းထားသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "In Myanmar, we add 'toe' (တို့) to pronouns to make them plural (e.g., Min-toe). Arabic has completely distinct words for plural forms.",
+        "my": "မြန်မာစကားတွင် 'တို့' ဟု နောက်ဆက်တွဲထည့်သကဲ့သို့ အာရဗီတွင် စကားလုံးကိုယ်တိုင်က အများကိန်းဖြစ်နေသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Use 'Antum' for 3+ males or a mixed group.",
+          "rule_my": "ယောက်ျား ၃ ဦး သို့မဟုတ် ကျား/မ ရောနှောသောအုပ်စုအတွက် 'Antum' ကို သုံးပါ။",
+          "example": {
+            "ar": "أَنْتُمْ مُؤْمِنُونَ",
+            "en": "You (all) are believers",
+            "my": "သင်တို့သည် ယုံကြည်သူများ ဖြစ်ကြသည်။"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Use 'Antunna' for 3+ females only.",
+          "rule_my": "မိန်းမ ၃ ဦးနှင့် အထက်အတွက်သာ 'Antunna' ကို သုံးပါ။",
+          "example": {
+            "ar": "أَنْتُنَّ صَابِرَاتٌ",
+            "en": "You (f.pl) are patient",
+            "my": "သင်(မ)တို့သည် သည်းခံသူများ ဖြစ်ကြသည်။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Direct Address",
+          "ar": "أَنْتُمْ شُرَكَاءُ",
+          "en": "You are partners",
+          "my": "MYANMAR_PLACE_HOLDER_S6_A150",
+          "ref": "6:150",
+          "breakdown": {
+            "subject": {
+              "word": "أَنْتُمْ",
+              "en": "You (pl)",
+              "note": "Masculine plural"
+            },
+            "predicate": {
+              "word": "شُرَكَاءُ",
+              "en": "Partners",
+              "note": "Plural of Sharik"
+            }
+          },
+          "myanmar_insight": "Even if the group is large, 'Antum' connects everyone directly to the message."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Using 'Antum' for a group of only females",
+          "wrong": {
+            "ar": "أَنْتُمْ يَا نِسَاءُ",
+            "note": "Antum is masculine"
+          },
+          "correct": {
+            "ar": "أَنْتُنَّ يَا نِسَاءُ",
+            "en": "You, O women",
+            "my": "အို-အမျိုးသမီးတို့၊ သင်တို့သည်"
+          },
+          "myanmar_tip": "အမျိုးသမီးတွေကြီးပဲရှိတဲ့ အုပ်စုဆိုရင် 'Antunna' ကို သုံးဖို့ မမေ့ပါနဲ့။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Translate the pronoun",
+          "instruction_my": "ကိုယ်စားပြုနာမ်ကို ဘာသာပြန်ပါ",
+          "questions": [
+            {
+              "q": "أَنْتُمْ",
+              "answer_en": "You (masculine plural)",
+              "answer_my": "သင်တို့ (ကျား အများကိန်း)"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: 'You are the best nation'",
+          "instruction_my": "ဘာသာပြန်ပါ - 'သင်တို့သည် အကောင်းဆုံးသော အစုအဖွဲ့ ဖြစ်သည်'",
+          "questions": [
+            {
+              "q": "أَنْتُمْ خَيْرُ أُمَّةٍ",
+              "answer_en": "You are the best nation",
+              "answer_my": "သင်တို့သည် အကောင်းဆုံးသော အစုအဖွဲ့ ဖြစ်ကြသည်။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Convert 'Anta' to plural 'Antum'",
+          "instruction_my": "'Anta' ကို အများကိန်း 'Antum' သို့ ပြောင်းပါ",
+          "questions": [
+            {
+              "q": "أَنْتَ مُسْلِمٌ",
+              "answer_en": "Antum Muslimun",
+              "answer_my": "Antum Muslimun",
+              "ar": "أَنْتُمْ مُسْلِمُونَ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "When Allah says 'Antum' in the Quran, He is talking to us today. It bridges the gap of thousands of years, making the message personal and collective at the same time.",
+        "my": "ကုရ်အာန်တွင် အလ္လာဟ်အရှင်မြတ်က 'Antum' ဟု မိန့်ကြားချိန်တွင် ကျွန်ုပ်တို့ကို တိုက်ရိုက် မိန့်ကြားနေခြင်း ဖြစ်သည်။ ၎င်းသည် နှစ်ပေါင်းထောင်ချီသော ကွာဟချက်ကို ကျော်လွန်၍ ကျွန်ုပ်တို့အားလုံးကို စုပေါင်းမိန့်ကြားခြင်း ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Kafirun 109:3",
+        "study_number": 1,
+        "arabic_full": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+        "en_sahih": "Nor are you worshippers of what I worship.",
+        "my_mmsy": "(၃) ထို့ပြင် အသင်တို့သည်လည်း ငါကိုးကွယ်နေသော ကိုးကွယ်ရာကို ကိုးကွယ်ကြသူများ မဟုတ်ကြပေ။",
+        "audio_ref": {
+          "surah": 109,
+          "ayah": 3,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/109003.mp3"
+        },
+        "qurancom_url": "https://quran.com/109/3",
+        "context": {
+          "en": "This surah defines the clear boundary between Islam and disbelief, addressed to the idolaters of Makkah.",
+          "my": "ဤသူရဟ်သည် အစ္စလာမ်နှင့် အခြားကိုးကွယ်မှုများအကြား တိကျသော ကွဲပြားမှုကို ဖော်ပြသည်။ မက္ကာဟ်ရှိ ရုပ်တုကိုးကွယ်သူများကို မိန့်ကြားခြင်း ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "أَنْتُمْ",
+            "translit": "antum",
+            "en": "you (all)",
+            "my": "သင်တို့",
+            "role_en": "Pronoun (Subject)",
+            "role_my": "ကိုယ်စားပြုနာမ်",
+            "root": "N/A",
+            "freq": 135
+          },
+          {
+            "ar": "عَابِدُونَ",
+            "translit": "ābidūna",
+            "en": "worshippers",
+            "my": "ကိုးကွယ်သူများ",
+            "role_en": "Noun (Predicate)",
+            "role_my": "နာမ်",
+            "root": "ع ب د",
+            "freq": 5
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "'Antum Abidun' is a perfect example of a nominal sentence (Mubtada and Khabar).",
+          "structure_my": "'Antum Abidun' သည် ကတ္တားနှင့် သတင်းအချက်အလက် ပါဝင်သော အာရဗီဝါကျစနစ်၏ ဥပမာကောင်း ဖြစ်သည်။",
+          "insight_en": "The use of the plural 'Antum' addresses the entire community of disbelievers.",
+          "insight_my": "အများကိန်း 'Antum' ကို သုံးခြင်းဖြင့် ငြင်းပယ်သူများ အားလုံးကို ခြုံငုံမိန့်ကြားခြင်း ဖြစ်သည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ع ب د",
+            "concept_en": "To devote one's life to a deity.",
+            "concept_my": "အရှင်မြတ်ထံ ဘဝကို အပ်နှံခြင်း",
+            "members": [
+              {
+                "ar": "عِبَادَة",
+                "en": "worship",
+                "my": "ကိုးကွယ်မှု",
+                "freq": 30
+              }
+            ],
+            "professors_note": "A worshipper ('Abid) is defined by their consistent action, not just a one-time ritual."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤအာယသ်တော်သည် ကျွန်ုပ်တို့၏ ယုံကြည်ချက်ကို ခိုင်မာစေသည်။ သူတစ်ပါး၏ ယုံကြည်ချက်ကို မစော်ကားဘဲ မိမိ၏ ယုံကြည်ချက်ကို တိတိကျကျ ရပ်တည်တတ်ရန် သင်ပေးသည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Wa-laa antum 'aabidoona",
+          "meaning_anchor": "Imagine two separate groups, each with their own path.",
+          "daily_connection": "Recited in Sunnah prayers of Fajr and Maghrib.",
+          "my": "ဆူရဟ် ကာဖိရွန်းကို ဖတ်သည့်အခါ 'Antum' ၏ အဓိပ္ပာယ်ကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We explored the plural pronouns 'Antum' and 'Antunna'. 'Antum' is especially frequent in the Quran as it serves as the primary way Allah addresses the community of believers and the whole of mankind.",
+      "my": "ဤသင်ခန်းစာတွင် 'Antum' နှင့် 'Antunna' ကို လေ့လာခဲ့သည်။ 'Antum' သည် ကုရ်အာန်တွင် အလွန်အရေးကြီးသော စကားလုံးဖြစ်ပြီး အလ္လာဟ်အရှင်မြတ်က လူသားထုတစ်ရပ်လုံးကို မိန့်ကြားရာ၌ အသုံးပြုသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-029",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 29,
+    "title": {
+      "ar": "الضَّمَائِرُ (٤) — هُوَ وَهِيَ وَهُمْ",
+      "en": "Pronouns IV — He, She, They: Third Person Pronouns",
+      "my": "ကိုယ်စားပြုနာမ် (၄) — သူ၊ သူမ၊ သူတို့"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Huwa, Hiya, Hum, Hunna — third person all forms",
+      "grammar_formula": "هُوَ (M) / هِيَ (F) / هُمْ (M.Pl) / هُنَّ (F.Pl)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "مَلَائِكَةٌ",
+        "translit": "malā'ikatun",
+        "en": "angels",
+        "my": "ကောင်းကင်တမန်များ",
+        "quran_freq": 68,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مَفَاعِلَةٌ",
+        "root": {
+          "letters": "أ ل ك",
+          "concept_en": "to send a message",
+          "concept_my": "သတင်းစကား ပေးပို့ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Malaikah",
+          "image": "Luminous beings from light",
+          "cross_language": "Malaikat in Malay/Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "مَلَك",
+            "translit": "malak",
+            "en": "angel (singular)",
+            "my": "ကောင်းကင်တမန်",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "This is a 'broken plural' form, which we will learn later.",
+        "example": {
+          "ar": "قَالَتِ الْمَلَائِكَةُ",
+          "en": "The angels said",
+          "my": "ကောင်းကင်တမန်များက ပြောခဲ့ကြသည်။",
+          "ref": "3:42"
+        }
+      },
+      {
+        "word": "نَبِيٌّ",
+        "translit": "nabiyyun",
+        "en": "prophet",
+        "my": "နဗီတမန်တော်",
+        "quran_freq": 75,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعِيلٌ",
+        "root": {
+          "letters": "ن ب أ",
+          "concept_en": "news, information of great importance",
+          "concept_my": "အလွန်အရေးကြီးသော သတင်း"
+        },
+        "memory_hook": {
+          "sound": "Nabi",
+          "image": "A person receiving a message from above",
+          "cross_language": "Nabi used in Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "أَنْبِيَاء",
+            "translit": "anbiya",
+            "en": "prophets",
+            "my": "နဗီတမန်တော်များ",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "A 'Nabi' is literally one who gives news ('Naba').",
+        "example": {
+          "ar": "يَا أَيُّهَا النَّبِيُّ",
+          "en": "O Prophet",
+          "my": "အို-နဗီတမန်တော်",
+          "ref": "33:1"
+        }
+      },
+      {
+        "word": "كَافِرُونَ",
+        "translit": "kāfirūna",
+        "en": "disbelievers",
+        "my": "ငြင်းပယ်သူများ",
+        "quran_freq": 5,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَاعِلُونَ",
+        "root": {
+          "letters": "ك ف ر",
+          "concept_en": "to cover, to hide, to be ungrateful",
+          "concept_my": "ဖုံးအုပ်ခြင်း၊ ကျေးဇူးကန်းခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Kafir",
+          "image": "Someone covering the truth with a cloth",
+          "cross_language": "Kafir in Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "كُفْر",
+            "translit": "kufr",
+            "en": "disbelief",
+            "my": "မယုံကြည်မှု",
+            "freq": 50
+          }
+        ],
+        "pattern_unlock": "Original meaning: A farmer covering seeds with soil.",
+        "example": {
+          "ar": "الْكَافِرُونَ هُمُ الظَّالِمُونَ",
+          "en": "The disbelievers—they are the wrongdoers",
+          "my": "ငြင်းပယ်သူများသည်သာလျှင် အဓမ္မကျူးလွန်သူများ ဖြစ်ကြသည်။",
+          "ref": "2:254"
+        }
+      },
+      {
+        "word": "مُنَافِقُونَ",
+        "translit": "munāfiqūna",
+        "en": "hypocrites",
+        "my": "ဟန်ဆောင်သူများ (မုနာဖစ်များ)",
+        "quran_freq": 27,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "مُفَاعِلُونَ",
+        "root": {
+          "letters": "ن ف ق",
+          "concept_en": "tunnel, to have two exits",
+          "concept_my": "လိုဏ်ခေါင်း၊ အပေါက်နှစ်ဖက်ရှိခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Munafiq",
+          "image": "Someone entering one side of a tunnel and exiting another",
+          "cross_language": "Munafiq in Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "نِفَاق",
+            "translit": "nifaq",
+            "en": "hypocrisy",
+            "my": "ဟန်ဆောင်မှု",
+            "freq": 5
+          }
+        ],
+        "pattern_unlock": "Hypocrisy is like a tunnel; the person has two faces/exists.",
+        "example": {
+          "ar": "إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ",
+          "en": "Indeed, the hypocrites are in the lowest depths",
+          "my": "ဧကန်စင်စစ် ဟန်ဆောင်သူများသည် ငရဲ၏ အနိမ့်ဆုံးအလွှာ၌ ရှိကြလတ္တံ့။",
+          "ref": "4:145"
+        }
+      },
+      {
+        "word": "آيَةٌ",
+        "translit": "āyatun",
+        "en": "sign / verse",
+        "my": "သက်သေလက္ခဏာ / အာယသ်",
+        "quran_freq": 382,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فَعَلَةٌ",
+        "root": {
+          "letters": "أ ي ي",
+          "concept_en": "sign, mark, evidence",
+          "concept_my": "လက္ခဏာ၊ သက်သေ"
+        },
+        "memory_hook": {
+          "sound": "Ayah",
+          "image": "A signpost pointing to God",
+          "cross_language": "Ayah in Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "آيَات",
+            "translit": "ayat",
+            "en": "signs/verses",
+            "my": "အာယသ်တော်များ",
+            "freq": 250
+          }
+        ],
+        "pattern_unlock": "Every verse of the Quran is a 'sign' that leads to the Creator.",
+        "example": {
+          "ar": "تِلْكَ آيَاتُ اللَّهِ",
+          "en": "These are the signs of Allah",
+          "my": "ဤသည်တို့မှာ အလ္လာဟ်အရှင်မြတ်၏ သက်သေလက္ခဏာများ ဖြစ်ကြသည်။",
+          "ref": "2:252"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "ضَمَائِرُ الْغَائِبِ",
+        "en": "Absentee Pronouns (3rd Person)",
+        "my": "မျက်ကွယ်ရှိသူကို ရည်ညွှန်းသော ကိုယ်စားပြုနာမ်များ"
+      },
+      "formula": {
+        "display": "هُوَ (M) / هِيَ (F) / هُمْ (M.Pl) / هُنَّ (F.Pl)",
+        "example": "هُوَ اللَّهُ (He is Allah)",
+        "myanmar_read": "မျက်ကွယ်မှာရှိတဲ့သူကို 'သူ/သူမ/သူတို့' လို့ ပြောတဲ့အခါ ကျား၊ မ ခွဲခြားပြီး သုံးရပါတယ်။",
+        "key_insight": "The 'h' (هـ) sound is the foundation for all 3rd person pronouns in Arabic."
+      },
+      "explanation": {
+        "en": "Third-person pronouns are used for someone not present in the conversation. 'Huwa' (He), 'Hiya' (She), 'Hum' (They - masc/mixed), and 'Hunna' (They - fem). 'Huwa' is also used for masculine objects and 'Hiya' for feminine objects.",
+        "my": "စကားပြောဆိုမှုတွင် မပါဝင်သော သူများကို ရည်ညွှန်းရန် ဤကိုယ်စားပြုနာမ်များကို သုံးသည်။ 'Huwa' (သူ)၊ 'Hiya' (သူမ)၊ 'Hum' (သူတို့ - ကျား/ရော)၊ 'Hunna' (သူတို့ - မ) ဖြစ်ကြသည်။ အရာဝတ္ထုများကို ရည်ညွှန်းရာတွင်လည်း ဂျန်ဒါအလိုက် သုံးသည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Myanmar uses 'Thu' for both he and she in common speech. Arabic requires a clear distinction between 'Huwa' and 'Hiya'.",
+        "my": "မြန်မာစကားတွင် 'သူ' ဟု ကျား၊ မ မရွေး သုံးသော်လည်း အာရဗီတွင် 'Huwa' (ကျား) နှင့် 'Hiya' (မ) ဟု တိတိကျကျ ခွဲခြားရသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "Huwa (هُوَ) for singular masculine.",
+          "rule_my": "'Huwa' ကို ယောက်ျားတစ်ဦးအတွက် သုံးပါ။",
+          "example": {
+            "ar": "هُوَ مُؤْمِنٌ",
+            "en": "He is a believer",
+            "my": "သူသည် ယုံကြည်သူတစ်ဦးဖြစ်သည်။"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Hiya (هِيَ) for singular feminine.",
+          "rule_my": "'Hiya' ကို မိန်းမတစ်ဦးအတွက် သုံးပါ။",
+          "example": {
+            "ar": "هِيَ قَانِتَةٌ",
+            "en": "She is obedient",
+            "my": "သူမသည် နာခံသူတစ်ဦးဖြစ်သည်။"
+          }
+        },
+        {
+          "number": 3,
+          "rule_en": "Hum (هُمْ) for masculine plural.",
+          "rule_my": "'Hum' ကို ယောက်ျားအများကိန်းအတွက် သုံးပါ။",
+          "example": {
+            "ar": "هُمُ الْفَائِزُونَ",
+            "en": "They are the winners",
+            "my": "သူတို့သည် အောင်နိုင်သူများ ဖြစ်ကြသည်။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Foundation",
+          "ar": "هُوَ الرَّحْمَٰنُ",
+          "en": "He is the Entirely Merciful",
+          "my": "MYANMAR_PLACE_HOLDER_S59_A22",
+          "ref": "59:22",
+          "breakdown": {
+            "subject": {
+              "word": "هُوَ",
+              "en": "He",
+              "note": "Referring to Allah"
+            },
+            "predicate": {
+              "word": "الرَّحْمَٰنُ",
+              "en": "The Merciful",
+              "note": "Attribute"
+            }
+          },
+          "myanmar_insight": "Allah uses 'Huwa' to define His unique identity."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Confusing 'Hiya' with 'Huwa'",
+          "wrong": {
+            "ar": "الْمَلَكُ هِيَ كَرِيمَةٌ",
+            "note": "Angel is masculine, but used Hiya"
+          },
+          "correct": {
+            "ar": "الْمَلَكُ هُوَ كَرِيمٌ",
+            "en": "The angel is noble",
+            "my": "ကောင်းကင်တမန်သည် မြင့်မြတ်သည်။"
+          },
+          "myanmar_tip": "နာမ်ရဲ့ ဂျန်ဒါကို ကြည့်ပြီး ကိုယ်စားပြုနာမ်ကို မှန်ကန်အောင် ရွေးချယ်ပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Match the pronoun to its meaning",
+          "instruction_my": "ကိုယ်စားပြုနာမ်နှင့် အဓိပ္ပာယ်ကို တွဲဖက်ပါ",
+          "questions": [
+            {
+              "q": "هُمْ",
+              "answer_en": "They (m)",
+              "answer_my": "သူတို့ (ကျား)"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: 'He is the Knowing'",
+          "instruction_my": "ဘာသာပြန်ပါ - 'သူသည် အရာရာကို သိတော်မူသော အရှင်ဖြစ်သည်'",
+          "questions": [
+            {
+              "q": "هُوَ الْعَلِيمُ",
+              "answer_en": "He is the Knowing",
+              "answer_my": "သူ(အရှင်)သည် အရာရာကို သိတော်မူသောအရှင် ဖြစ်သည်။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Fill in the blank with 'Huwa' or 'Hum'",
+          "instruction_my": "'Huwa' သို့မဟုတ် 'Hum' ဖြင့် ကွက်လပ်ဖြည့်ပါ",
+          "questions": [
+            {
+              "q": "_____ كَافِرُونَ",
+              "answer_en": "Hum",
+              "answer_my": "Hum",
+              "ar": "هُمْ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "In the Quran, 'Huwa' often introduces Allah's greatest names. 'Hum' is used to group the righteous and the wrongdoers, showing that our end depends on which group we belong to.",
+        "my": "ကုရ်အာန်တွင် 'Huwa' သည် အလ္လာဟ်အရှင်မြတ်၏ အမည်နာမတော်များကို မိတ်ဆက်ရာ၌ များစွာ ပါဝင်သည်။ 'Hum' ကို ကောင်းသူနှင့် ဆိုးသူ အုပ်စုများကို ခွဲခြားပြရန် သုံးသည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Ikhlas 112:1",
+        "study_number": 1,
+        "arabic_full": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+        "en_sahih": "Say, 'He is Allah, [who is] One.'",
+        "my_mmsy": "(၁) (အို-တမန်တော်)အသင်ပြောလိုက်ပါ၊ ထို အလ္လာဟ်အရှင်မြတ်သည် တစ်ပါးတည်းဖြစ်တော်မူသည်။",
+        "audio_ref": {
+          "surah": 112,
+          "ayah": 1,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/112001.mp3"
+        },
+        "qurancom_url": "https://quran.com/112/1",
+        "context": {
+          "en": "This ayah is the core of Tawhid (Oneness of God). It was revealed in response to people asking about Allah's lineage.",
+          "my": "ဤအာယသ်တော်သည် သောင်ဟီးဒ် (တစ်ဆူတည်းဖြစ်မှု) ၏ အနှစ်သာရဖြစ်သည်။ အလ္လာဟ်အရှင်မြတ်၏ အနွယ်အတော်အကြောင်း မေးမြန်းသူများကို ပြန်လည်ဖြေကြားခြင်း ဖြစ်သည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "قُلْ",
+            "translit": "qul",
+            "en": "Say",
+            "my": "ပြောကြားလော့",
+            "role_en": "Verb (Command)",
+            "role_my": "ကြိယာ (အမိန့်)",
+            "root": "ق و ل",
+            "freq": 332
+          },
+          {
+            "ar": "هُوَ",
+            "translit": "huwa",
+            "en": "He",
+            "my": "သူ(အရှင်)",
+            "role_en": "Pronoun (Subject)",
+            "role_my": "ကိုယ်စားပြုနာမ်",
+            "root": "N/A",
+            "freq": 481
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "'Huwa' acts as a 'Pronoun of the Matter' (Damir al-Shan), calling attention to the grand reality that follows.",
+          "structure_my": "'Huwa' သည် အနောက်ကလာမည့် ကြီးကျယ်သော အမှန်တရားကို အာရုံစိုက်စေရန် သုံးထားခြင်း ဖြစ်သည်။",
+          "insight_en": "Starting with 'Huwa' emphasizes that the identity of Allah is fixed and independent.",
+          "insight_my": "'Huwa' နှင့် စတင်ခြင်းသည် အလ္လာဟ်အရှင်မြတ်၏ ဖြစ်တည်မှုသည် ပြောင်းလဲခြင်းမရှိဘဲ သီးခြားဖြစ်ကြောင်း အလေးပေးသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "أ ح د",
+            "concept_en": "Absolute oneness that cannot be divided or added to.",
+            "concept_my": "ခွဲခြား၍မရသော တစ်ဆူတည်းဖြစ်မှု",
+            "members": [
+              {
+                "ar": "وَاحِد",
+                "en": "one",
+                "my": "တစ်ခု",
+                "freq": 60
+              }
+            ],
+            "professors_note": "Ahad is more exclusive than Wahid. Wahid is 'one' in a series, but Ahad is 'Unique One' without a second."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ကျွန်ုပ်တို့၏ ဘဝတွင် 'ဟုဝလ်လားဟ်' (သူသည် အလ္လာဟ်ဖြစ်သည်) ဟူသော အသိသည် အရာရာထက် အရေးကြီးသည်။ အရှင်မြတ်သည် တစ်ဆူတည်းသာ ဖြစ်တော်မူ၏။"
+        },
+        "memorization_helper": {
+          "rhythm": "Qul Huwallahu Ahad",
+          "meaning_anchor": "The number 1 representing pure oneness.",
+          "daily_connection": "Recited daily for protection and faith.",
+          "my": "ဆူရဟ် အိခ်လားစ်ကို ဖတ်သည့်အခါ 'Huwa' ၏ ကြီးကျယ်မှုကို ခံစားပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We mastered the 3rd person pronouns 'Huwa', 'Hiya', and 'Hum'. These are the most common pronouns in the Quran, allowing us to identify who Allah is talking about—whether it's Himself, the believers, or past nations.",
+      "my": "ဤသင်ခန်းစာတွင် 'Huwa'၊ 'Hiya' နှင့် 'Hum' တို့ကို လေ့လာခဲ့သည်။ ဤစကားလုံးများသည် ကုရ်အာန်တွင် အသုံးအများဆုံးဖြစ်ပြီး အလ္လာဟ်အရှင်မြတ်က မည်သူ့အကြောင်း ပြောနေသည်ကို သိရှိရန် ကူညီပေးသည်။"
+    }
+  },
+  {
+    "lesson_id": "L1-030",
+    "phase": 1,
+    "phase_name": "Foundations",
+    "lesson_number": 30,
+    "title": {
+      "ar": "مُرَاجَعَةُ الضَّمَائِرِ",
+      "en": "Pronouns V — Full Pronoun Table Review",
+      "my": "ကိုယ်စားပြုနာမ် (၅) — ပြန်လည်နွေးထွေးခြင်း"
+    },
+    "meta": {
+      "study_time_minutes": 75,
+      "vocab_time": 15,
+      "grammar_time": 20,
+      "deep_study_time": 40,
+      "vocab_count": 5,
+      "grammar_focus": "Complete pronoun chart; identifying pronouns in ayahs",
+      "grammar_formula": "Review of all 14 pronouns (focusing on the 6 key Quranic ones)"
+    },
+    "section_1_vocab": [
+      {
+        "word": "رُوحٌ",
+        "translit": "rūhun",
+        "en": "spirit / soul",
+        "my": "ဝိညာဉ်",
+        "quran_freq": 24,
+        "word_type": "Noun",
+        "gender": "Feminine",
+        "wazn": "فُعْلٌ",
+        "root": {
+          "letters": "ر و ح",
+          "concept_en": "breath, wind, comfort, spirit",
+          "concept_my": "လေရှူခြင်း၊ စိတ်အေးချမ်းမှု"
+        },
+        "memory_hook": {
+          "sound": "Rooh",
+          "image": "A gentle wind symbolizing the spirit",
+          "cross_language": "Rooh in Urdu/Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "رِيح",
+            "translit": "rih",
+            "en": "wind",
+            "my": "လေ",
+            "freq": 18
+          }
+        ],
+        "pattern_unlock": "This root relates to things that are unseen but felt, like wind and spirit.",
+        "example": {
+          "ar": "قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّي",
+          "en": "Say, 'The soul is of the affair of my Lord'",
+          "my": "ပြောကြားလော့၊ ဝိညာဉ်သည် ကျွန်ုပ်၏အရှင်မြတ်၏ အမိန့်တော်ဖြင့် ဖြစ်သည်။",
+          "ref": "17:85"
+        }
+      },
+      {
+        "word": "بَصَرٌ",
+        "translit": "basarun",
+        "en": "sight / vision",
+        "my": "အမြင်အာရုံ",
+        "quran_freq": 38,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعَلٌ",
+        "root": {
+          "letters": "ب ص ر",
+          "concept_en": "to see, to perceive, to understand",
+          "concept_my": "မြင်တွေ့ခြင်း၊ နားလည်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Basar",
+          "image": "An eye focusing clearly on an object",
+          "cross_language": "Basirah (Insight)"
+        },
+        "word_family": [
+          {
+            "ar": "أَبْصَار",
+            "translit": "absar",
+            "en": "eyesight/vision (pl)",
+            "my": "အမြင်အာရုံများ",
+            "freq": 110
+          }
+        ],
+        "pattern_unlock": "In the Quran, 'Basar' is often linked to the heart's ability to see the truth.",
+        "example": {
+          "ar": "فَبَصَرُكَ الْيَوْمَ حَدِيدٌ",
+          "en": "So your sight today is sharp",
+          "my": "သို့ဖြစ်ရာ ယနေ့တွင် သင်၏အမြင်သည် စူးရှလှပေသည်။",
+          "ref": "50:22"
+        }
+      },
+      {
+        "word": "سَمْعٌ",
+        "translit": "sam'un",
+        "en": "hearing",
+        "my": "အကြားအာရုံ",
+        "quran_freq": 38,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فَعْلٌ",
+        "root": {
+          "letters": "س م ع",
+          "concept_en": "to hear, to listen, to obey",
+          "concept_my": "ကြားရခြင်း၊ နားထောင်ခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Sam",
+          "image": "An ear listening to a message",
+          "cross_language": "Sami (The All-Hearing)"
+        },
+        "word_family": [
+          {
+            "ar": "يَسْمَعُ",
+            "translit": "yasma'u",
+            "en": "He hears",
+            "my": "သူကြားသည်",
+            "freq": 45
+          }
+        ],
+        "pattern_unlock": "Hearing often precedes seeing in Quranic lists of senses.",
+        "example": {
+          "ar": "خَتَمَ اللَّهُ عَلَىٰ سَمْعِهِمْ",
+          "en": "Allah has set a seal upon their hearing",
+          "my": "အလ္လာဟ်အရှင်မြတ်သည် သူတို့၏ အကြားအာရုံအပေါ် တံဆိပ်ခတ်နှိပ်လိုက်ပြီ။",
+          "ref": "2:7"
+        }
+      },
+      {
+        "word": "فُؤَادٌ",
+        "translit": "fu'ādun",
+        "en": "heart (emotional)",
+        "my": "နှလုံးသား (ခံစားချက်ပြင်းပြသော)",
+        "quran_freq": 16,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فُعَالٌ",
+        "root": {
+          "letters": "ف أ د",
+          "concept_en": "to burn, the emotional center of the heart",
+          "concept_my": "လောင်မြိုက်ခြင်း၊ ခံစားချက်ဗဟို"
+        },
+        "memory_hook": {
+          "sound": "Fu-ad",
+          "image": "A heart glowing with strong emotion",
+          "cross_language": ""
+        },
+        "word_family": [
+          {
+            "ar": "أَفْئِدَة",
+            "translit": "af'idah",
+            "en": "hearts",
+            "my": "နှလုံးသားများ",
+            "freq": 10
+          }
+        ],
+        "pattern_unlock": "While 'Qalb' is the general heart, 'Fu'ad' is the heart when it is overwhelmed by emotion.",
+        "example": {
+          "ar": "فَارِغًا فُؤَادُ أُمِّ مُوسَىٰ",
+          "en": "The heart of the mother of Moses became empty",
+          "my": "မူစာ၏မိခင်၏ နှလုံးသားသည် (သောကကြောင့်) ဟာလာဟင်းလင်း ဖြစ်သွားခဲ့သည်။",
+          "ref": "28:10"
+        }
+      },
+      {
+        "word": "ذِكْرٌ",
+        "translit": "dhikrun",
+        "en": "remembrance / reminder",
+        "my": "အောက်မေ့သတိရခြင်း / သတိပေးချက်",
+        "quran_freq": 292,
+        "word_type": "Noun",
+        "gender": "Masculine",
+        "wazn": "فِعْلٌ",
+        "root": {
+          "letters": "ذ ك ر",
+          "concept_en": "to remember, to mention, to male",
+          "concept_my": "မှတ်သားခြင်း၊ ပြောဆိုခြင်း"
+        },
+        "memory_hook": {
+          "sound": "Zikir",
+          "image": "Beads used for remembrance",
+          "cross_language": "Zikir in Myanmar"
+        },
+        "word_family": [
+          {
+            "ar": "يَذْكُرُ",
+            "translit": "yadhkuru",
+            "en": "He remembers",
+            "my": "သူသတိရသည်",
+            "freq": 60
+          }
+        ],
+        "pattern_unlock": "The Quran is frequently called 'Al-Dhikr' (The Reminder).",
+        "example": {
+          "ar": "أَلَا بِذِكْرِ اللَّهِ",
+          "en": "Unquestionably, by the remembrance of Allah",
+          "my": "သတိပြုလော့၊ အလ္လာဟ်အရှင်မြတ်အား အောက်မေ့သတိရခြင်းဖြင့်သာ",
+          "ref": "13:28"
+        }
+      }
+    ],
+    "section_2_grammar": {
+      "pattern_name": {
+        "arabic": "جَدْوَلُ الضَّمَائِرِ",
+        "en": "The Complete Pronoun Chart",
+        "my": "ကိုယ်စားပြုနာမ် ဇယားအပြည့်အစုံ"
+      },
+      "formula": {
+        "display": "Ana, Nahnu (1st) | Anta, Anti, Antum, Antunna (2nd) | Huwa, Hiya, Hum, Hunna (3rd)",
+        "example": "Reviewing all forms learned in Lessons 26-29",
+        "myanmar_read": "ယခင်သင်ခန်းစာ ၄ ခုမှာ သင်ခဲ့တဲ့ 'ငါ၊ ငါတို့၊ သင်၊ သင်တို့၊ သူ၊ သူတို့' အားလုံးကို စုစည်းလိုက်တာပါ။",
+        "key_insight": "Mastering these 6-8 core pronouns covers over 90% of pronoun occurrences in the Quran."
+      },
+      "explanation": {
+        "en": "This lesson consolidates all detached pronouns. In Arabic, pronouns are categorized by person (1st, 2nd, 3rd), number (Singular, Dual, Plural), and gender. While there are 14 forms in total, the ones we've covered are the pillars of Quranic Arabic.",
+        "my": "ဤသင်ခန်းစာသည် သီးခြားရပ်တည်သော ကိုယ်စားပြုနာမ်အားလုံးကို စုစည်းပေးသည်။ အာရဗီတွင် ကိုယ်စားပြုနာမ်များကို လူပုဂ္ဂိုလ် (၁၊ ၂၊ ၃)၊ အရေအတွက် (တစ်ဦး၊ နှစ်ဦး၊ အများ) နှင့် ဂျန်ဒါအလိုက် ခွဲခြားသည်။ စုစုပေါင်း ၁၄ မျိုးရှိသော်လည်း ကျွန်ုပ်တို့လေ့လာခဲ့သော စကားလုံးများသည် ကုရ်အာန်တွင် အဓိကကျသော စကားလုံးများ ဖြစ်သည်။"
+      },
+      "comparison_myanmar": {
+        "en": "Arabic pronouns are more specific than Myanmar pronouns regarding gender and number.",
+        "my": "အာရဗီကိုယ်စားပြုနာမ်များသည် မြန်မာစကားထက် ကျား၊ မ နှင့် အရေအတွက်ကို ပိုမိုတိကျစွာ ဖော်ပြသည်။"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "rule_en": "First person (Ana, Nahnu) is common to both genders.",
+          "rule_my": "ပထမလူ (Ana, Nahnu) သည် ကျား၊ မ နှစ်မျိုးလုံးအတွက် အတူတူပင်ဖြစ်သည်။",
+          "example": {
+            "ar": "نَحْنُ عِبَادُ اللَّهِ",
+            "en": "We are servants of Allah",
+            "my": "ကျွန်ုပ်တို့သည် အလ္လာဟ်၏ကျွန်များ ဖြစ်ကြသည်။"
+          }
+        },
+        {
+          "number": 2,
+          "rule_en": "Second and Third person distinguish between Male and Female.",
+          "rule_my": "ဒုတိယလူနှင့် တတိယလူတွင် ကျား၊ မ ခွဲခြားမှုရှိသည်။",
+          "example": {
+            "ar": "أَنْتَ صَادِقٌ / أَنْتِ صَادِقَةٌ",
+            "en": "You are truthful (m/f)",
+            "my": "သင်သည် အမှန်အတိုင်းပြောသူ ဖြစ်သည်။"
+          }
+        }
+      ],
+      "quranic_examples": [
+        {
+          "number": 1,
+          "label": "Integrated Review",
+          "ar": "أَنْتُمْ فُقَرَاءُ وَاللَّهُ هُوَ الْغَنِيُّ",
+          "en": "You are the poor and Allah—He is the Free of need",
+          "my": "MYANMAR_PLACE_HOLDER_S47_A38",
+          "ref": "47:38",
+          "breakdown": {
+            "subject1": {
+              "word": "أَنْتُمْ",
+              "en": "You (pl)",
+              "note": "Addressing believers"
+            },
+            "subject2": {
+              "word": "هُوَ",
+              "en": "He",
+              "note": "Referring to Allah"
+            }
+          },
+          "myanmar_insight": "Two different pronouns in one ayah contrast human need with Divine independence."
+        }
+      ],
+      "common_errors": [
+        {
+          "error": "Mixing up 2nd person (Anta) with 3rd person (Huwa)",
+          "wrong": {
+            "ar": "أَنْتَ اللَّهُ أَحَدٌ",
+            "note": "Incorrectly using 'You' instead of 'He'"
+          },
+          "correct": {
+            "ar": "هُوَ اللَّهُ أَحَدٌ",
+            "en": "He is Allah, One",
+            "my": "သူ(အရှင်)သည် အလ္လာဟ်၊ တစ်ဆူတည်းသော အရှင်ဖြစ်သည်။"
+          },
+          "myanmar_tip": "မျက်မှောက်မှာရှိသူကို ပြောတာလား၊ မျက်ကွယ်မှာရှိသူကို ပြောတာလား သေချာစဉ်းစားပါ။"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "recognition",
+          "instruction_en": "Identify the person (1st, 2nd, 3rd) of the pronoun",
+          "instruction_my": "ကိုယ်စားပြုနာမ်၏ အမျိုးအစားကို ခွဲခြားပါ",
+          "questions": [
+            {
+              "q": "نَحْنُ",
+              "answer_en": "1st Person Plural",
+              "answer_my": "ပထမလူ အများကိန်း"
+            }
+          ]
+        },
+        {
+          "type": "translation",
+          "instruction_en": "Translate: 'You are my Lord and I am Your servant'",
+          "instruction_my": "ဘာသာပြန်ပါ - 'ကိုယ်တော်သည် ကျွန်ုပ်၏အရှင်ဖြစ်ပြီး ကျွန်ုပ်သည် ကိုယ်တော်၏ကျွန်ဖြစ်သည်'",
+          "questions": [
+            {
+              "q": "أَنْتَ رَبِّي وَأَنَا عَبْدُكَ",
+              "answer_en": "You are my Lord and I am Your servant",
+              "answer_my": "ကိုယ်တော်သည် ကျွန်ုပ်၏အရှင်ဖြစ်ပြီး ကျွန်ုပ်သည် ကိုယ်တော်၏ကျွန်ဖြစ်ပါသည်။"
+            }
+          ]
+        },
+        {
+          "type": "construction",
+          "instruction_en": "Provide the feminine plural of 'Hum'",
+          "instruction_my": "'Hum' ၏ အမျိုးသမီး အများကိန်းကို ရေးပါ",
+          "questions": [
+            {
+              "q": "هُمْ",
+              "answer_en": "Hunna",
+              "answer_my": "Hunna",
+              "ar": "هُنَّ"
+            }
+          ]
+        }
+      ],
+      "spiritual_essence": {
+        "en": "Pronouns allow us to engage with the Quran as a conversation. When we read 'Antum', we listen; when we read 'Ana', we witness Allah's Presence; when we say 'Ana', we submit our souls to Him.",
+        "my": "ကိုယ်စားပြုနာမ်များသည် ကျွန်ုပ်တို့အား ကုရ်အာန်နှင့် စကားပြောဆိုနိုင်စေသည်။ 'Antum' ဟုဖတ်လျှင် နားထောင်ပြီး၊ 'Ana' ဟုဖတ်လျှင် အရှင်မြတ်၏ တည်ရှိမှုကို သက်သေခံကာ၊ မိမိကိုယ်ကို 'Ana' ဟုဆိုလျှင် အရှင်မြတ်ထံ အပ်နှံခြင်း ဖြစ်သည်။"
+      }
+    },
+    "section_3_deep_study": [
+      {
+        "ayah_ref": "Al-Baqarah 2:156",
+        "study_number": 1,
+        "arabic_full": "الَّذِينَ إِذَا أَصَابَتْهُمْ مُصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+        "en_sahih": "Who, when disaster strikes them, say, 'Indeed we belong to Allah, and indeed to Him we will return.'",
+        "my_mmsy": "ထိုသူများသည် သူတို့အပေါ် ဒုက္ခတစ်စုံတစ်ခုကျရောက်လာသည့်အခါ (ဤသို့)ပြောဆိုကြသည်၊ အမှန်စင်စစ် ကျွန်ုပ်တို့သည် အလ္လာဟ်အရှင်မြတ်အတွက်သာ ဖြစ်ကြပြီး အမှန်စင်စစ် ကျွန်ုပ်တို့သည် အရှင်မြတ်ထံသို့ ပြန်သွားကြရမည့်သူများသာ ဖြစ်ကြသည်။",
+        "audio_ref": {
+          "surah": 2,
+          "ayah": 156,
+          "everyayah_url": "https://everyayah.com/data/Alafasy_128kbps/002156.mp3"
+        },
+        "qurancom_url": "https://quran.com/2/156",
+        "context": {
+          "en": "This ayah describes the attitude of the patient believers when facing trials.",
+          "my": "ဤအာယသ်တော်သည် စမ်းသပ်မှုများနှင့် ရင်ဆိုင်ရချိန်တွင် သည်းခံသော ယုံကြည်သူတို့၏ သဘောထားကို ဖော်ပြသည်။"
+        },
+        "word_by_word": [
+          {
+            "ar": "إِنَّا",
+            "translit": "innā",
+            "en": "indeed we",
+            "my": "ဧကန်စင်စစ် ကျွန်ုပ်တို့သည်",
+            "role_en": "Particle + Pronoun",
+            "role_my": "အလေးပေးလုံး + ကိုယ်စားပြုနာမ်",
+            "root": "N/A",
+            "freq": 340
+          },
+          {
+            "ar": "إِلَيْهِ",
+            "translit": "ilayhi",
+            "en": "to Him",
+            "my": "အရှင်မြတ်ထံသို့",
+            "role_en": "Preposition + Pronoun",
+            "role_my": "ဝိဘတ် + ကိုယ်စားပြုနာမ်",
+            "root": "N/A",
+            "freq": 0
+          }
+        ],
+        "pattern_in_action": {
+          "structure_en": "The pronoun 'Na' (short for Nahnu) is attached to 'Inna' and 'Ilayhi'.",
+          "structure_my": "'Na' (Nahnu ၏ အတိုကောက်) ကို 'Inna' နှင့် 'Ilayhi' တို့တွင် တွဲဆက်ထားသည်။",
+          "insight_en": "The transition from 'We belong' to 'To Him we return' uses both 1st and 3rd person pronouns to show our journey.",
+          "insight_my": "'ကျွန်ုပ်တို့' မှ 'အရှင်မြတ်ထံသို့' ဟူသော ကိုယ်စားပြုနာမ် အပြောင်းအလဲသည် လူသားတို့၏ ခရီးစဉ်ကို ပြသသည်။"
+        },
+        "root_depth": [
+          {
+            "root": "ر ج ع",
+            "concept_en": "To go back to the original place or state.",
+            "concept_my": "မူလနေရာသို့ ပြန်သွားခြင်း",
+            "members": [
+              {
+                "ar": "مَرْجِع",
+                "en": "return/resort",
+                "my": "ပြန်လည်ရာဌာန",
+                "freq": 10
+              }
+            ],
+            "professors_note": "Everything in existence is on a trajectory back to its Creator."
+          }
+        ],
+        "myanmar_heart": {
+          "my": "ဤစကားသည် ဝမ်းနည်းစရာကြုံလျှင်သာ ဆိုရသောအရာမဟုတ်ဘဲ ဘဝ၏ အခြေခံအမှန်တရားဖြစ်သည်။ ကျွန်ုပ်တို့သည် အလ္လာဟ်ပိုင်ဆိုင်သော ပစ္စည်းများသာ ဖြစ်ပြီး တစ်နေ့တွင် အရှင်မြတ်ထံသို့သာ ပြန်ကြရမည်။"
+        },
+        "memorization_helper": {
+          "rhythm": "Inna lillahi wa-inna ilayhi raji'oon",
+          "meaning_anchor": "A drop of water returning to the vast ocean.",
+          "daily_connection": "Say this during any loss, small or big.",
+          "my": "ဆုံးရှုံးမှုတစ်ခုခု ကြုံရတိုင်း ဤအာယသ်ကို သတိရပါ။"
+        }
+      }
+    ],
+    "lesson_summary": {
+      "en": "We have completed the review of detached pronouns. These small words are the handles of the Arabic language. By mastering them, you can now identify the speaker and the subject in thousands of Quranic verses.",
+      "my": "သီးခြားရပ်တည်သော ကိုယ်စားပြုနာမ်များအားလုံးကို ပြန်လည်နွေးထွေးပြီးပါပြီ။ ဤစကားလုံးလေးများကို ကျွမ်းကျင်ခြင်းဖြင့် ကုရ်အာန်အာယသ်တော် ထောင်ပေါင်းများစွာရှိ ပြောဆိုသူနှင့် အကြောင်းအရာကို သင် ခွဲခြားသိမြင်နိုင်ပြီ ဖြစ်သည်။"
+    }
+  }
+]
